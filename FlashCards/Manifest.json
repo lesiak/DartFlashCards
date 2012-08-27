@@ -1,0 +1,23 @@
+{
+"name": "FlashCards",
+"version": "0.0.1",
+"manifest_version": 1,
+"description": "My Flashcards application.",
+"app": {
+"launch": {
+"local_path": "FlashCards.html"
+}
+},
+"icons": {
+"16": "1345540112_konqsidebar_news.png",
+"128": "1345540046_rss.png"
+},
+"permissions": [  "http://apifree.forvo.com/",
+	"http://dart.googlecode.com/",
+	"unlimitedStorage" ]/*,
+"sandbox": {
+    "pages": [
+      "FlashCards.html"      
+    ]
+    }*/
+}

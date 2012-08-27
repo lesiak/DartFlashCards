@@ -1,0 +1,83 @@
+
+
+.flashcardQuestion {
+ padding: 19px;
+ padding-top: 30px;
+ padding-bottom: 30px;
+  margin-bottom: 30px;
+  background-color: #eeeeee;
+  -webkit-border-radius: 6px;
+  -moz-border-radius: 6px;
+  border-radius: 6px;
+}
+.flashcardQuestion h1 {
+   text-align: center;
+  margin-bottom: 0;
+  font-size: 60px;
+  line-height: 1;
+  color: inherit;
+  letter-spacing: -1px;
+}
+/*
+.flashcardQuestion p {
+  font-size: 18px;
+  font-weight: 200;
+  line-height: 27px;
+  color: inherit;
+}
+*/
+
+.flashcardAnswer {
+  height: 120px;
+  padding: 19px;
+  margin-bottom: 20px;
+  background-color: #c0c0e0;
+  border: 1px solid #eee;
+  border: 1px solid rgba(0, 0, 0, 0.05);
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);
+  -moz-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);
+  box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);
+}
+
+.flashcardQuestion h1 {
+ 
+  margin-bottom: 0;
+  font-size: 50px;
+  line-height: 1;
+  color: inherit;
+  letter-spacing: -1px;
+}
+
+
+
+
+.show-grid {
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+.show-grid [class*="span"] {
+  background-color: #eee;
+ /* text-align: center; */
+  -webkit-border-radius: 3px;
+     -moz-border-radius: 3px;
+          border-radius: 3px;
+  min-height: 30px;
+  line-height: 30px;
+}
+/*
+.show-grid:hover [class*="span"] {
+  background: #ddd;
+}
+*/
+
+.show-grid .show-grid {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.show-grid .show-grid [class*="span"] {
+  background-color: #ccc;
+}
+

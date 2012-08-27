@@ -1,0 +1,68 @@
+[
+{ "en": "price",        "ko": "가격",    	"fi": "hinta",    "fr": "prix" },
+{ "en": "weight",       "ko": "무게",     	"fi": "paino",    "fr": "poids" },
+
+
+{ "en": "home",        "ko": "집",    	"fi": "koti",    "fr": "maison" },
+
+{ "en": "machine",        "ko": "기계",    	"fi": "kone",    "fr": "machine" },    
+{ "en": "train",        "ko": "기차",    	"fi": "juna",    "fr": "train" },
+{ "en": "metro",        "ko": "지하철",  	"fi": "maanalainen",    "fr": "métro" },
+{ "en": "bicycle",      "ko": "자전거",  	"fi": "polkupyörä",    "fr": "vélo" },
+{ "en": "ship",         "ko": "배",      	"fi": "laiva",    "fr": "bateau" },
+{ "en": "airplane",         "ko": "비행기",      	"fi": "lentokone",    "fr": "avion" },
+{ "en": "airport",         "ko": "공항",      	"fi": "lentokone",    "fr": "aéroport" },
+
+    
+{ "en": "fire",         "ko": "불",			"fi": "palo",    "fr": "feu" },
+{ "en": "light",        "ko": "빛",        	"fi": "valo",    "fr": "lumière" },
+{ "en": "river",        "ko": "강",       	"fi": "joki",    "fr": "fleuve" },
+    
+{ "en": "door",         "ko": "문",         "fi": "ovi",    "fr": "porte" },    
+{ "en": "window",       "ko": "창",         "fi": "ikkuna",    "fr": "fenêtre" },   
+{ "en": "furniture",    "ko": "가구",		"fi": "kalusteet",    "fr": "meubles" },
+{ "en": "refrigerator", "ko": "냉장고",   	"fi": "jääkaappi",    "fr": "réfrigérateur" },
+{ "en": "umbrella",     "ko": "우산",     	"fi": "sateenvarjo",   "fr": "parapluie" },
+
+{ "en": "cat",          "ko": "고양이",   	"fi": "kissa",   "fr": "chat" },
+{ "en": "chicken",      "ko": "닭",   	"fi": "kana",   "fr": "poulet" },
+{ "en": "tiger",      "ko": "호랑이",   	"fi": "tiikeri",   "fr": "tigre" },
+{ "en": "lion",      "ko": "사자",   	"fi": "tiikeri",   "fr": "tigre" },
+{ "en": "pig",      "ko": "돼지",   	"fi": "leijona",   "fr": "lion" },
+{ "en": "ant",      "ko": "개미",   	"fi": "muurahainen",   "fr": "fourmi" },
+{ "en": "family",       "ko": "가족",     	"fi": "perhe",   "fr": "famille" },
+{ "en": "chef",         "ko": "요리사",   "fi": "kokki",   "fr": "chef de cuisine" },
+{ "en": "movie star",         "ko": "영화 배우",   "fi": "päänäyttelijä",   "fr": "star de cinéma" },
+
+
+
+{ "en": "library",      "ko": "도서관",   "fi": "kirjasto",    "fr": "bibliothèque" },    
+{ "en": "culture",      "ko": "문화",    "fi": "kulttuuri",    "fr": "culture" },
+{ "en": "magazine",     "ko": "잡지",   "fi": "aikakauslehti",    "fr": "magazine" },
+{ "en": "paper",        "ko": "종이",      "fi": "paperi",    "fr": "papier" },
+{ "en": "song",         "ko": "노래",       "fi": "laulu",    "fr": "chanson" },
+  
+{ "en": "hobby",        "ko": "취미",       "fi": "mieliharrastus",    "fr": "hobby" },
+{ "en": "football",     "ko": "축구",       "fi": "jalkapallo",    "fr": "football" },
+
+{ "en": "open",    "ko": "열다",       "fi": "auki",    "fr": "ouvert" },
+
+{ "en": "introduce",    "ko": "소개하다",       "fi": "esitellä",    "fr": "introduire" },
+
+{ "en": "sit",         "ko": "앉다",       "fi": "istua",    "fr": "être assis" },
+{ "en": "stand",         "ko": "서다",       "fi": "seisoa",    "fr": "être debout" },
+{ "en": "sleep",         "ko": "자다",       "fi": "nukkua",    "fr": "dormir" },
+{ "en": "smoke",         "ko": "피우다",       "fi": "tupakoida",    "fr": "fumer" },
+
+
+
+{ "en": "rest",         "ko": "쉬다",       "fi": "levätä",    "fr": "se reposer" },
+{ "en": "wait",         "ko": "기다리다",       "fi": "odottaa",    "fr": "patienter" },
+{ "en": "begin",        "ko": "시작하다",       "fi": "aloittaa",    "fr": "commencer" },
+{ "en": "travel",       "ko": "여행하다",       "fi": "matkustaa",    "fr": "voyager" },
+{ "en": "laugh",       "ko": "웃다",      "fi": "nauraa",    "fr": "rire" },
+{ "en": "appear",       "ko": "나타나다",       "fi": "näyttää",    "fr": "apparaître" },
+{ "en": "drive",       "ko": "운전하다",       "fi": "kuljettaa",    "fr": "conduire" }
+
+
+]
