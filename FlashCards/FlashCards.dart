@@ -24,13 +24,39 @@ void main() {
   
   
   
-  query("#Begginer1").on.click.add((e) => loadWords(engine, ui, 'Begginer1.json'));
-  query("#TopikInter1").on.click.add((e) => loadWords(engine, ui, 'TopikInter1.json'));
+  //query("#Begginer1").on.click.add((e) => loadWords(engine, ui, 'Begginer1.json'));
+  //query("#TopikInter1").on.click.add((e) => loadWords(engine, ui, 'TopikInter1.json'));
 
+  query("#Begginer1").on.click.add((e) => fillWordTable(engine, 'Begginer1.json'));
+  query("#TopikInter1").on.click.add((e) => fillWordTable(engine, 'TopikInter1.json'));
+  query("#startButton").on.click.add((e) {
+    query("#wordFilesDiv").hidden=true;
+    query("#learningPanel").hidden=false;
+    showQuestion(engine, ui); 
+  });
+ // fillWordTable();
   
-  /*loadWords(engine, ui);
+}
+
+void fillWordTable(Engine engine, String wordfile) {
+  engine.loadData('wordfiles/$wordfile', () { 
+    query("#wordListDiv").hidden=false;
+    TableElement table = query("#wordTable");
+    table.tBodies[0].nodes.clear();
+    for (Card card in engine.allElements) {
+      
+      TableRowElement newLine = table.tBodies[0].insertRow(-1); // add at the end
+      newLine.insertCell(0).text = card.en;
+      newLine.insertCell(1).text = card.ko;
+      newLine.insertCell(2).text = card.fi;
+      newLine.insertCell(3).text = card.fr;
+       
+  }
+  }  
+  );
   
-  loadWords(engine, ui);*/
+  
+  
   
 }
 

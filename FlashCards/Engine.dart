@@ -10,6 +10,7 @@ typedef void DataLoadedCallback();
 class Engine {
   int currentWord = 0;
   
+  List<Card> allElements;
   List<Card> data;
   
   Engine() {
@@ -27,7 +28,7 @@ class Engine {
   
   void _initQuestions(String wordListJSON) {
     List rawData = JSON.parse(wordListJSON); // parse response text
-    List<Card> allElements = rawData.map((entry) => new Card(entry["en"], entry["ko"], entry["fi"], entry["fr"]));
+    allElements = rawData.map((entry) => new Card(entry["en"], entry["ko"], entry["fi"], entry["fr"]));
     data = buildLearningList(allElements);
   }
   
