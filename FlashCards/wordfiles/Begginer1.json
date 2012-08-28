@@ -63,13 +63,13 @@
 { "en": "laugh",       "ko": "웃다",      "fi": "nauraa",    "fr": "rire" },
 { "en": "appear",       "ko": "나타나다",       "fi": "näyttää",    "fr": "apparaître" },
 { "en": "drive",       "ko": "운전하다",       "fi": "kuljettaa",    "fr": "conduire" },
-{en: "map",   ko: "지도", fi: "kartta" , fr:"carte"},
-{en: "church",   ko: "교회", fi: "kirkko" , fr:"église"},
-{en: "pharmacy",   ko: "약국", fi: "apteekki" , fr:"pharmacie"},
-{en: "centre",   ko: "가운데", fi: "keskipiste" , fr:"milieu"},
-{en: "clean",   ko: "깨끗하다", fi: "puhdas" , fr:"propre"},
-{en: "dirty",   ko: "더럽다", fi: "likainen" , fr:"sale"},
-{en: "warm",   ko: "따뜻하다", fi: "lämmin" , fr:"chaud"}
-{en: "quiet",   ko: "조용하다", fi: "hiljainen" , fr:"calme"}
+{ "en": "map",   	"ko": "지도", 		 "fi": "kartta" , 	"fr":"carte"},
+{ "en": "church",   	"ko": "교회", 		 "fi": "kirkko" , 	"fr":"église"},
+{ "en": "pharmacy",   "ko": "약국", 		 "fi": "apteekki" , "fr":"pharmacie"},
+{ "en": "centre",   	"ko": "가운데", 		 "fi": "keskipiste" , "fr":"milieu"},
+{ "en": "clean",   	"ko": "깨끗하다", 	 "fi": "puhdas" , "fr":"propre"},
+{ "en": "dirty",   	"ko": "더럽다", 		 "fi": "likainen" , "fr":"sale"},
+{ "en": "warm",   	"ko": "따뜻하다", 	 "fi": "lämmin" , "fr":"chaud"},
+{ "en": "quiet",   	"ko": "조용하다", 	 "fi": "hiljainen" , "fr":"calme"}
 
 ]
