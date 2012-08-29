@@ -13,6 +13,10 @@ class Engine {
   List<Card> allElements;
   List<Card> data;
   
+  static final String GOOD_ANSWER = 'GOOD';
+  static final String POOR_ANSWER = 'POOR';
+  static final String BAD_ANSWER = 'BAD';
+  
   Engine() {
   //   new Dictionary().parse();
     
@@ -38,8 +42,12 @@ class Engine {
   }
   
   bool isInLearningList(Card card) {
-    var inStore = window.localStorage[card.en];    
-    return (inStore == null || inStore == 'Poor' || inStore == 'Bad');
+    var inStoreJson = window.localStorage[card.en];    
+    if (inStoreJson == null) {
+      return true;
+    }
+    Map inStore = JSON.parse(inStoreJson);
+    return (inStore["lastResult"] == POOR_ANSWER || inStore["lastResult"] == BAD_ANSWER);
   }
   
   Card currentCard() {
@@ -56,19 +64,32 @@ class Engine {
     
   }
   
-  void goodAnswer() {
-    Card currentCard = currentCard();     
-    window.localStorage[currentCard.en] = 'Good';
-    
+  void goodAnswer() {    
+    _processAnswer(GOOD_ANSWER);
   }
   
   void poorAnswer() {
-    Card currentCard = currentCard(); 
-    window.localStorage[currentCard.en] = 'Poor';
+    _processAnswer(POOR_ANSWER);    
   }
   
   void badAnswer() {
-    Card currentCard = currentCard(); 
-    window.localStorage[currentCard.en] = 'Bad';
+    _processAnswer(BAD_ANSWER);    
   }
+  
+  void _processAnswer(String answerResult) {
+    Card currentCard = currentCard();
+    
+    var resultString = makeWordResultString(answerResult);
+    window.localStorage[currentCard.en] = resultString;
+  }
+  
+  String makeWordResultString(String answerResult) {
+    var time = new Date.now().millisecondsSinceEpoch;    
+    Map resultMap = {"time" : time, "lastResult" : answerResult};
+    return JSON.stringify(resultMap);
+  }
+  
+  
 }
+
+
