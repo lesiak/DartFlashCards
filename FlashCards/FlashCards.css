@@ -81,3 +81,14 @@
   background-color: #ccc;
 }
 
+
+.table tbody tr.succ td {
+  background-color: #dff0d8;
+}
+
+
+.table-striped tbody tr.succ:nth-child(odd) td,
+.table-striped tbody tr.succ:nth-child(odd) th {
+  background-color: #eff8e8;
+}
+

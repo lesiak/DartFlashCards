@@ -2,6 +2,7 @@
 #import('dart:html');
 
 #import('Card.dart');
+#import('CardScore.dart');
 #import('FlashCardsUI.dart');
 #import('Engine.dart');
 
@@ -21,20 +22,14 @@ void main() {
   
   query("#clearCache").on.click.add((e) => window.localStorage.clear());
   
-  
-  
-  
-  //query("#Begginer1").on.click.add((e) => loadWords(engine, ui, 'Begginer1.json'));
-  //query("#TopikInter1").on.click.add((e) => loadWords(engine, ui, 'TopikInter1.json'));
-
   query("#Begginer1").on.click.add((e) => fillWordTable(engine, 'Begginer1.json'));
+  query("#Begginer2").on.click.add((e) => fillWordTable(engine, 'Begginer2.json'));
   query("#TopikInter1").on.click.add((e) => fillWordTable(engine, 'TopikInter1.json'));
   query("#startButton").on.click.add((e) {
     query("#wordFilesDiv").hidden=true;
     query("#learningPanel").hidden=false;
     showQuestion(engine, ui); 
   });
- // fillWordTable();
   
 }
 
@@ -44,8 +39,20 @@ void fillWordTable(Engine engine, String wordfile) {
     TableElement table = query("#wordTable");
     table.tBodies[0].nodes.clear();
     for (Card card in engine.allElements) {
-      
+      CardScore score = engine.getCardScoreFromStore(card);
       TableRowElement newLine = table.tBodies[0].insertRow(-1); // add at the end
+      if (score != null) {
+        if (score.isGoodAnswer()) {
+          newLine.classes.add("succ");
+        }
+        else if (score.isPoorAnswer()) {
+          newLine.classes.add("error");
+        }
+        else if (score.isBadAnswer()) {
+          newLine.classes.add("error");
+        }
+      }
+      
       newLine.insertCell(0).text = card.en;
       newLine.insertCell(1).text = card.ko;
       newLine.insertCell(2).text = card.fi;

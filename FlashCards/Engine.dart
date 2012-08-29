@@ -4,11 +4,15 @@
 #import("dart:json");
 
 #import('Card.dart');
+#import('CardScore.dart');
 
 typedef void DataLoadedCallback();
 
 class Engine {
-  int currentWord = 0;
+  int _currentWord = 0;
+  
+  Card _currentCard;
+  CardScore _currentScore;
   
   List<Card> allElements;
   List<Card> data;
@@ -34,6 +38,10 @@ class Engine {
     List rawData = JSON.parse(wordListJSON); // parse response text
     allElements = rawData.map((entry) => new Card(entry["en"], entry["ko"], entry["fi"], entry["fr"]));
     data = buildLearningList(allElements);
+    if (!data.isEmpty()) {
+      _currentCard = data[_currentWord];
+      _currentScore = getCardScoreFromStore(_currentCard);
+    }
   }
   
   
@@ -41,26 +49,24 @@ class Engine {
     return allElements.filter(isInLearningList);
   }
   
-  bool isInLearningList(Card card) {
-    var inStoreJson = window.localStorage[card.en];    
-    if (inStoreJson == null) {
+  bool isInLearningList(Card card) {    
+    CardScore inStore = getCardScoreFromStore(card);
+    if (inStore == null) {
       return true;
     }
-    Map inStore = JSON.parse(inStoreJson);
-    return (inStore["lastResult"] == POOR_ANSWER || inStore["lastResult"] == BAD_ANSWER);
+    return (inStore.lastResult == POOR_ANSWER || inStore.lastResult == BAD_ANSWER);
   }
   
-  Card currentCard() {
-    Card card = data[currentWord];
-    print("local storage ${card.en} : ${window.localStorage[card.en]}");
-    return card;
-   
+  Card currentCard() {    
+    return _currentCard;   
   }
   
   void nextCard() {
-    if (currentWord < data.length-1) {
-      currentWord++;
+    if (_currentWord < data.length-1) {
+      _currentWord++;
     }
+    _currentCard = data[_currentWord];
+    _currentScore = getCardScoreFromStore(_currentCard);
     
   }
   
@@ -85,11 +91,20 @@ class Engine {
   
   String makeWordResultString(String answerResult) {
     var time = new Date.now().millisecondsSinceEpoch;    
-    Map resultMap = {"time" : time, "lastResult" : answerResult};
+    Map resultMap = {"lastResult" : answerResult, "time" : time};
     return JSON.stringify(resultMap);
   }
   
+  CardScore getCardScoreFromStore(Card card) {
+    var inStoreJson = window.localStorage[card.en];    
+    if (inStoreJson == null) {
+      return null;
+    }
+    return new CardScore.fromJsonString(inStoreJson);    
+  }
   
 }
+
+
 
 

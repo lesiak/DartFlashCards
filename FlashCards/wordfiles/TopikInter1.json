@@ -1,9 +1,34 @@
 [
+
+
+
+{ "en": "salary",        "ko": "급여",    	"fi": "palkkaus",    "fr": "salaire" },
+
 { "en": "wound",        "ko": "상처",    	"fi": "haava",    "fr": "blessure" },
 
 { "en": "desert",       "ko": "사막",       "fi": "aavikko",    "fr": "désert" },
 
-{ "en": "art",       "ko": "예술",       "fi": "taide",    "fr": "art" }
+{ "en": "art",       "ko": "예술",       "fi": "taide",    "fr": "art" },
+
+{ "en": "symbolize",       "ko": "상징하다",       "fi": "olla jnk symboli",    "fr": "symboliser" },
+
+{ "en": "courage",       "ko": "용기",       "fi": "rohkeus",    "fr": "courage" },
+
+{ "en": "go too far",       "ko": "지나치다",       "fi": "mennä liian pitkälle",    "fr": "aller trop loin" },
+
+
+
+{ "en": "troublesome",       "ko": "귀찮은",       "fi": "hankala",    "fr": "gênant" },
+
+
+
+{ "en": "liver",       "ko": "간",       "fi": "maksa",    "fr": "foie" },
+{ "en": "eyebrow",       "ko": "눈썹",       "fi": "kulmakarva",    "fr": "sourcil" },
+
+{ "en": "land",    "ko": "땅",    "fi": "maa" , "fr":"terre"},
+
+{ "en": "discussion",    "ko": "토론",    "fi": "keskustelu" , "fr":"discussion"}
+
 
 
 ]
