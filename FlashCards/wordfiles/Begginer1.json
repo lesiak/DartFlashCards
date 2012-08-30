@@ -1,7 +1,9 @@
 [
 { "en": "home",        "ko": "집",    	"fi": "koti",    "fr": "maison" },
 
-{ "en": "machine",        "ko": "기계",    	"fi": "kone",    "fr": "machine" },    
+{ "en": "machine",        "ko": "기계",    	"fi": "kone",    "fr": "machine" },  
+
+{ "en": "car",        "ko": "자동차",    	"fi": "auto",    "fr": "voiture" },
 { "en": "train",        "ko": "기차",    	"fi": "juna",    "fr": "train" },
 { "en": "metro",        "ko": "지하철",  	"fi": "maanalainen",    "fr": "métro" },
 { "en": "bicycle",      "ko": "자전거",  	"fi": "polkupyörä",    "fr": "vélo" },
@@ -21,7 +23,12 @@
 { "en": "fire",         "ko": "불",			"fi": "palo",    "fr": "feu" },
 { "en": "light",        "ko": "빛",        	"fi": "valo",    "fr": "lumière" },
 { "en": "river",        "ko": "강",       	"fi": "joki",    "fr": "fleuve" },
+{ "en": "sea",        "ko": "바다",          "fi": "meri",    "fr": "mer" },
+{ "en": "beach",        "ko": "바닷가",          "fi": "hiekkaranta",    "fr": "plage" },
 { "en": "forest",        "ko": "숲",          "fi": "metsä",    "fr": "forêt" },
+{ "en": "garden",        "ko": "정원",          "fi": "puutarha",    "fr": "jardin" },
+{ "en": "park",        "ko": "공원",          "fi": "puisto",    "fr": "parc" },
+
 
 { "en": "cat",          "ko": "고양이",   	"fi": "kissa",   "fr": "chat" },
 { "en": "chicken",      "ko": "닭",   	"fi": "kana",   "fr": "poulet" },
@@ -52,6 +59,8 @@
 { "en": "map",   	    "ko": "지도", 		 "fi": "kartta" ,       "fr":"carte"},
 { "en": "church",   	"ko": "교회", 		 "fi": "kirkko" ,       "fr":"église"},
 { "en": "pharmacy",     "ko": "약국", 		 "fi": "apteekki" ,     "fr":"pharmacie"},
+{ "en": "castle",     "ko": "성", 		 "fi": "linna" ,     "fr":"château"},
+{ "en": "bridge",     "ko": "다리", 		 "fi": "silta" ,     "fr":"pont"},
 { "en": "centre",   	"ko": "가운데", 	 "fi": "keskipiste" ,   "fr":"milieu"}
 
 
