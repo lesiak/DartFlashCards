@@ -2,6 +2,27 @@
 { "en": "price",        "ko": "가격",    	"fi": "hinta",    "fr": "prix" },
 { "en": "weight",       "ko": "무게",     	"fi": "paino",    "fr": "poids" },
 
+{ "en": "powder",       "ko": "가루",         "fi": "jauhe",    "fr": "poudre" },
+{ "en": "flour",       "ko": "가루",         "fi": "jauhot",    "fr": "farine" },
+{ "en": "bread",       "ko": "빵",         "fi": "leipä",    "fr": "pain" },
+{ "en": "salt",       "ko": "소금",         "fi": "suolaa",    "fr": "sel" },
+{ "en": "sugar",       "ko": "설탕",         "fi": "sokeri",    "fr": "sucre" },
+{ "en": "beer",       "ko": "맥주",         "fi": "olut",    "fr": "bière" },
+{ "en": "apple",       "ko": "사과",         "fi": "omena",    "fr": "pomme" },
+{ "en": "cheese",       "ko": "치즈",         "fi": "juusto",    "fr": "fromage" },
+
+{ "en": "knife",       "ko": "칼",         "fi": "veitsi",    "fr": "couteau" },
+{ "en": "spoon",       "ko": "스푼",         "fi": "lusikka",    "fr": "cuillère" },
+{ "en": "chopsticks",       "ko": "젓가락",         "fi": "syömäpuikot",    "fr": "baguettes" },
+{ "en": "cup",       "ko": "컵",         "fi": "kuppi",    "fr": "tasse" },
+
+
+{ "en": "morning",       "ko": "아침",         "fi": "aamu",    "fr": "matin" },
+{ "en": "evening",       "ko": "저녁",         "fi": "ilta",    "fr": "soir" },
+{ "en": "night",       "ko": "밤",         "fi": "yö",    "fr": "nuit" },
+{ "en": "shadow",        "ko": "그림자",          "fi": "varjo",    "fr": "ombre" },
+
+
 { "en": "rest",         "ko": "쉬다",       "fi": "levätä",    "fr": "se reposer" },
 { "en": "wait",         "ko": "기다리다",       "fi": "odottaa",    "fr": "patienter" },
 { "en": "begin",        "ko": "시작하다",       "fi": "aloittaa",    "fr": "commencer" },

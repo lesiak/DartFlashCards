@@ -15,12 +15,13 @@
 { "en": "window",       "ko": "창",         "fi": "ikkuna",    "fr": "fenêtre" },   
 { "en": "furniture",    "ko": "가구",		"fi": "kalusteet",    "fr": "meubles" },
 { "en": "refrigerator", "ko": "냉장고",   	"fi": "jääkaappi",    "fr": "réfrigérateur" },
+{ "en": "washing machine", "ko": "세탁기",    "fi": "pesukone",    "fr": "machine à laver" },
 { "en": "umbrella",     "ko": "우산",     	"fi": "sateenvarjo",   "fr": "parapluie" },
 
 { "en": "fire",         "ko": "불",			"fi": "palo",    "fr": "feu" },
 { "en": "light",        "ko": "빛",        	"fi": "valo",    "fr": "lumière" },
 { "en": "river",        "ko": "강",       	"fi": "joki",    "fr": "fleuve" },
-    
+{ "en": "forest",        "ko": "숲",          "fi": "metsä",    "fr": "forêt" },
 
 { "en": "cat",          "ko": "고양이",   	"fi": "kissa",   "fr": "chat" },
 { "en": "chicken",      "ko": "닭",   	"fi": "kana",   "fr": "poulet" },
