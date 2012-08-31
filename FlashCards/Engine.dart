@@ -9,37 +9,40 @@
 typedef void DataLoadedCallback();
 
 class Engine {
-  int _currentWord = 0;
-  
-  Card _currentCard;
-  CardScore _currentScore;
-  
-  List<Card> allElements;
-  List<Card> data;
   
   static final String GOOD_ANSWER = 'GOOD';
   static final String POOR_ANSWER = 'POOR';
   static final String BAD_ANSWER = 'BAD';
   
-  Engine() {
-  //   new Dictionary().parse();
-    
-  }
+  int _currentWord = 0;
+  
+  Card _currentCard;
+  CardScore _currentScore;
+  
+  List<Card> allCardsInDeck;
+  List<Card> learningList;
+   
+  
+  Engine() {}
   
   
   void loadData(String wordfilePath, DataLoadedCallback onDataReady) {
     var request = new XMLHttpRequest.get(wordfilePath, (req) {
-      _initQuestions(req.responseText);
+      _initDeck(req.responseText);
       onDataReady();
     });
   }
   
-  void _initQuestions(String wordListJSON) {
+  void _initDeck(String wordListJSON) {
     List rawData = JSON.parse(wordListJSON); // parse response text
-    allElements = rawData.map((entry) => new Card(entry["en"], entry["ko"], entry["fi"], entry["fr"]));
-    data = buildLearningList(allElements);
-    if (!data.isEmpty()) {
-      _currentCard = data[_currentWord];
+    allCardsInDeck = rawData.map((entry) => new Card(entry["en"], entry["ko"], entry["fi"], entry["fr"]));
+    _initLearningList();
+  }
+  
+  void _initLearningList() {
+    learningList = buildLearningList(allCardsInDeck);
+    if (!learningList.isEmpty()) {
+      _currentCard = learningList[_currentWord];
       _currentScore = getCardScoreFromStore(_currentCard);
     }
   }
@@ -62,10 +65,10 @@ class Engine {
   }
   
   void nextCard() {
-    if (_currentWord < data.length-1) {
+    if (_currentWord < learningList.length-1) {
       _currentWord++;
     }
-    _currentCard = data[_currentWord];
+    _currentCard = learningList[_currentWord];
     _currentScore = getCardScoreFromStore(_currentCard);
     
   }
@@ -102,6 +105,13 @@ class Engine {
     }
     return new CardScore.fromJsonString(inStoreJson);    
   }
+  
+  void clearDeckResults() {
+    for (Card card in allCardsInDeck) {
+      window.localStorage.remove(card.en);
+    }
+    _initLearningList();
+  } 
   
 }
 

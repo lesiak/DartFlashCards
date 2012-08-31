@@ -1,0 +1,25 @@
+[
+
+{ "en": "think",        "ko": "생각하다",          "fi": "ajatella",    "fr": "penser" },
+{ "en": "same",        "ko": "같다",          "fi": "samanlainen",    "fr": "même" },
+{ "en": "similar",        "ko": "비슷하다",          "fi": "samanlainen",    "fr": "similaire, semblable" },
+{ "en": "different",        "ko": "다르다",          "fi": "erilainen, eri",    "fr": "différent, autre" },
+
+
+{ "en": "enter",        "ko": "들어가다",          "fi": "astua sisään",    "fr": "entrer" },
+
+{ "en": "search",        "ko": "찾다",          "fi": "hakea",    "fr": "chercher" },
+
+{ "en": "live, dwell",        "ko": "살다",          "fi": "asua",    "fr": "habiter" },
+
+{ "en": "become",        "ko": "되다",          "fi": "tulla",    "fr": "devenir" },
+{ "en": "introduce",    "ko": "소개하다",       "fi": "esitellä",    "fr": "introduire" },
+{ "en": "put",       "ko": " 두다",       "fi": "panna",    "fr": "placer, mettre" },
+{ "en": "appear",       "ko": "나타나다",       "fi": "näyttää",    "fr": "apparaître" },
+
+{ "en": "headphones",        "ko": "헤드폰",          "fi": "kuulokkeet",    "fr": "casque" },
+
+{ "en": "sword",        "ko": "검",          "fi": "miekka",    "fr": "épée" },
+{ "en": "bow",        "ko": "활",          "fi": "jousi",    "fr": "arc" },
+{ "en": "shadow",        "ko": "그림자",          "fi": "varjo",    "fr": "ombre" }
+]

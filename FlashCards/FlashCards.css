@@ -92,3 +92,7 @@
   background-color: #eff8e8;
 }
 
+
+.deckLink a {
+	font-weight: bold;
+}

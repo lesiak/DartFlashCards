@@ -11,16 +11,24 @@
 { "en": "apple",       "ko": "사과",         "fi": "omena",    "fr": "pomme" },
 { "en": "cheese",       "ko": "치즈",         "fi": "juusto",    "fr": "fromage" },
 
+{ "en": "sweet",       "ko": "달다",         "fi": "makea",    "fr": "doux" },
+{ "en": "bitter",       "ko": "쓰다",         "fi": "kitkerä",    "fr": "amer" },
+
+
 { "en": "knife",       "ko": "칼",         "fi": "veitsi",    "fr": "couteau" },
 { "en": "spoon",       "ko": "스푼",         "fi": "lusikka",    "fr": "cuillère" },
 { "en": "chopsticks",       "ko": "젓가락",         "fi": "syömäpuikot",    "fr": "baguettes" },
 { "en": "cup",       "ko": "컵",         "fi": "kuppi",    "fr": "tasse" },
 
+{ "en": "chest",       "ko": "가슴",         "fi": "rinta",    "fr": "poitrine" },
+{ "en": "heart",       "ko": "심장",         "fi": "sydän",    "fr": "cœur" },
+{ "en": "leg",       "ko": "다리",         "fi": "jalka",    "fr": "jambe" },
+{ "en": "foot",       "ko": "발",         "fi": "jalka",    "fr": "pied" },
+{ "en": "neck",       "ko": "목",         "fi": "kaula",    "fr": "cou" },
 
 { "en": "morning",       "ko": "아침",         "fi": "aamu",    "fr": "matin" },
 { "en": "evening",       "ko": "저녁",         "fi": "ilta",    "fr": "soir" },
 { "en": "night",       "ko": "밤",         "fi": "yö",    "fr": "nuit" },
-{ "en": "shadow",        "ko": "그림자",          "fi": "varjo",    "fr": "ombre" },
 
 
 { "en": "rest",         "ko": "쉬다",       "fi": "levätä",    "fr": "se reposer" },
@@ -28,14 +36,10 @@
 { "en": "begin",        "ko": "시작하다",       "fi": "aloittaa",    "fr": "commencer" },
 { "en": "travel",       "ko": "여행하다",       "fi": "matkustaa",    "fr": "voyager" },
 { "en": "laugh",       "ko": "웃다",      "fi": "nauraa",    "fr": "rire" },
-{ "en": "appear",       "ko": "나타나다",       "fi": "näyttää",    "fr": "apparaître" },
-{ "en": "drive",       "ko": "운전하다",       "fi": "kuljettaa",    "fr": "conduire" },
 
+{ "en": "drive",       "ko": "운전하다",       "fi": "kuljettaa",    "fr": "conduire" },
 { "en": "open",    "ko": "열다",       "fi": "auki",    "fr": "ouvert" },
-{ "en": "introduce",    "ko": "소개하다",       "fi": "esitellä",    "fr": "introduire" },
-{ "en": "sit",         "ko": "앉다",       "fi": "istua",    "fr": "être assis" },
-{ "en": "stand",         "ko": "서다",       "fi": "seisoa",    "fr": "être debout" },
-{ "en": "sleep",         "ko": "자다",       "fi": "nukkua",    "fr": "dormir" },
+
 { "en": "smoke",         "ko": "피우다",       "fi": "tupakoida",    "fr": "fumer" },
 
 { "en": "clean",   	"ko": "깨끗하다", 	 "fi": "puhdas" , "fr":"propre"},
