@@ -55,9 +55,20 @@ class FlashCardsApp {
   void loadWordTable(Engine engine, String wordfile) {
     engine.loadData('wordfiles/$wordfile', () { 
       query("#wordListDiv").hidden=false;
-      fillWordsTable(); 
+      fillWordsTable();
+      fillSummary();
     }  
     );
+  }
+  
+  void clearDeckResults() {
+    engine.clearDeckResults();
+    fillWordsTable();
+    fillSummary();
+  }
+  
+  void fillSummary() {
+    query("#totalWords").text = "${engine.allCardsInDeck.length}";
   }
   
   void fillWordsTable() {
@@ -87,10 +98,7 @@ class FlashCardsApp {
     }
   } 
   
-  void clearDeckResults() {
-    engine.clearDeckResults();
-    fillWordsTable();
-  }
+  
 
 
   void loadWords(String wordfile) {
