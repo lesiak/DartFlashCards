@@ -25,18 +25,33 @@
 { "en": "bread",       "ko": "빵",         "fi": "leipä",    "fr": "pain" },
 { "en": "salt",       "ko": "소금",         "fi": "suolaa",    "fr": "sel" },
 { "en": "sugar",       "ko": "설탕",         "fi": "sokeri",    "fr": "sucre" },
+{ "en": "garlic",       "ko": "마늘",         "fi": "valkosipuli",    "fr": "ail" },
 { "en": "beer",       "ko": "맥주",         "fi": "olut",    "fr": "bière" },
 { "en": "apple",       "ko": "사과",         "fi": "omena",    "fr": "pomme" },
+{ "en": "pear",       "ko": "배",         "fi": "päärynä",    "fr": "poire" },
 { "en": "cheese",       "ko": "치즈",         "fi": "juusto",    "fr": "fromage" },
+{ "en": "cucumber",       "ko": "오이",         "fi": "kurkku",    "fr": "concombre" },
 { "en": "carrot",       "ko": "당근",         "fi": "porkkana",    "fr": "carotte" },
 { "en": "aubergine",       "ko": "가지",         "fi": "munakoiso",    "fr": "aubergine" },
 
+{ "en": "ice",       "ko": "얼음",         "fi": "jää",    "fr": "glace" },
+{ "en": "hot pepper",       "ko": "고추",         "fi": "kuuma pippuria",    "fr": "piment" },
+{ "en": "butter",       "ko": "버터",         "fi": "voi",    "fr": "beurre" },
+{ "en": "cake",       "ko": "케이크",         "fi": "kakku",    "fr": "gâteau" },
+{ "en": "juice",       "ko": "주스",         "fi": "mehu",    "fr": "jus" },
+{ "en": "lemon",       "ko": "레몬",         "fi": "sitruuna",    "fr": "citron" },
+{ "en": "vodka",       "ko": "보드카",         "fi": "vodka",    "fr": "vodka" },
+{ "en": "wine",       "ko": "포도주",         "fi": "viini",    "fr": "vin" },
+{ "en": "honey",       "ko": "꿀",         "fi": "hunaja",    "fr": "miel" },
+
 { "en": "sweet",       "ko": "달다",         "fi": "makea",    "fr": "doux" },
 { "en": "bitter",       "ko": "쓰다",         "fi": "kitkerä",    "fr": "amer" },
+{ "en": "cuisine",       "ko": "요리",         "fi": "keittiö",    "fr": "cuisine" },
 
 
 { "en": "knife",       "ko": "칼",         "fi": "veitsi",    "fr": "couteau" },
 { "en": "spoon",       "ko": "스푼",         "fi": "lusikka",    "fr": "cuillère" },
+{ "en": "fork",       "ko": "포크",         "fi": "haarukka",    "fr": "fourchette" },
 { "en": "chopsticks",       "ko": "젓가락",         "fi": "syömäpuikot",    "fr": "baguettes" },
 { "en": "cup",       "ko": "컵",         "fi": "kuppi",    "fr": "tasse" },
 

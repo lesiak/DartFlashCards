@@ -1,4 +1,6 @@
-Dictionary.dart
-DictionaryEntry.dart
+Card.dart
+Engine.dart
+FlashCardsUI.dart
+CardScore.dart
 ForvoApi.dart
 FlashCards.dart
