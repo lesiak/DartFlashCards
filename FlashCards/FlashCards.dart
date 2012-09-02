@@ -28,6 +28,11 @@ class FlashCardsApp {
       showQuestion(); 
     });
     query("#clearResultsButton").on.click.add((e) => clearDeckResults());
+    query("#homePill").on.click.add((e) {
+      query("#wordFilesDiv").hidden=false;
+      query("#learningPanel").hidden=true;
+      query("#wordListDiv").hidden=true;
+    });
   }
   
   void startApplication() {
@@ -35,7 +40,7 @@ class FlashCardsApp {
   }
   
   void fillQuestionDecksTable() {
-    var wordFiles = ['Begginer1', 'Begginer2', 'Begginer3', 'TopikInter1'];
+    var wordFiles = ['Begginer1', 'Begginer2', 'Begginer3','Begginer4','Begginer5', 'TopikInter1'];
     TableElement table = query("#questionDecksTable");
     TableSectionElement tBody = table.tBodies[0]; 
     tBody.nodes.clear();
@@ -45,14 +50,14 @@ class FlashCardsApp {
       cell.classes.add('deckLink');
       AnchorElement deckLink = new AnchorElement("#");
       deckLink.text = deckName;
-      deckLink.on.click.add((e) => loadWordTable(engine, "${deckName}.json"));
+      deckLink.on.click.add((e) => loadWordTable( "${deckName}.json"));
       cell.nodes.add(deckLink);
     }
     
 
   }
 
-  void loadWordTable(Engine engine, String wordfile) {
+  void loadWordTable(String wordfile) {
     engine.loadData('wordfiles/$wordfile', () { 
       query("#wordListDiv").hidden=false;
       fillWordsTable();
@@ -68,7 +73,8 @@ class FlashCardsApp {
   }
   
   void fillSummary() {
-    query("#totalWords").text = "${engine.allCardsInDeck.length}";
+    query("#totalWords").text = "${engine.deckSize}";
+    query("#completedWords").text = "${engine.completedSize}";
   }
   
   void fillWordsTable() {
@@ -112,13 +118,13 @@ class FlashCardsApp {
 
 
   void showAnswer() {
-    Card card = engine.currentCard();
+    Card card = engine.getCurrentCard();
     ui.showAnswer(card);
   }
 
 
   void showQuestion() {
-    Card card = engine.currentCard();
+    Card card = engine.getCurrentCard();
     ui.showQuestion(card);    
   }
 

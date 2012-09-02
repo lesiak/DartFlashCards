@@ -1,25 +1,45 @@
 [
+ 
+{ "en": "bag",        "ko": "가방",          "fi": "laukku",    "fr": "sac" },
+{ "en": "trousers",        "ko": "바지",          "fi": "housut",    "fr": "housut" },
+{ "en": "skirt",        "ko": "치마",          "fi": "hame",    "fr": "jupe" },
+{ "en": "shoe",        "ko": "구두",          "fi": "kenkä",    "fr": "chaussure" },
+{ "en": "headphones",        "ko": "헤드폰",          "fi": "kuulokkeet",    "fr": "casque" },
+{ "en": "key",        "ko": "열쇠",          "fi": "uusi",    "fr": "nouveau" },
+
+{ "en": "dictionary",        "ko": "사전",          "fi": "sanakirja",    "fr": "dictionnaire" },
+
+{ "en": "hobby",        "ko": "취미",       "fi": "mieliharrastus", "fr": "hobby" },
+{ "en": "football",     "ko": "축구",       "fi": "jalkapallo",     "fr": "football" },
+{ "en": "volleyball",     "ko": "배구",       "fi": "lentopallo",     "fr": "volley-ball" },
+{ "en": "basketball",     "ko": "농구",       "fi": "koripallo",     "fr": "basket-ball" },
+{ "en": "jump",     "ko": "뛰다",       "fi": "hypätä",     "fr": "sauter" },
+{ "en": "run",     "ko": "달리다",       "fi": "juosta",     "fr": "courir" },
+{ "en": "swim",     "ko": "수영하다",       "fi": "uida",     "fr": "nager" },
+
+{ "en": "chest",       "ko": "가슴",         "fi": "rinta",    "fr": "poitrine" },
+{ "en": "heart",       "ko": "심장",         "fi": "sydän",    "fr": "cœur" },
+{ "en": "leg",       "ko": "다리",         "fi": "jalka",    "fr": "jambe" },
+{ "en": "foot",       "ko": "발",         "fi": "jalka",    "fr": "pied" },
+{ "en": "neck",       "ko": "목",         "fi": "kaula",    "fr": "cou" },
+{ "en": "tongue",       "ko": "혀",         "fi": "kieli",    "fr": "langue" },
+
+{ "en": "photo",     "ko": "사진",       "fi": "kuva",     "fr": "photo" },
+{ "en": "letter",     "ko": "편지",       "fi": "kirje",     "fr": "lettre" },
+{ "en": "send",     "ko": "보내다",       "fi": "lähettää",     "fr": "envoyer" },
+
+{ "en": "today",        "ko": "오늘",          "fi": "tänään",    "fr": "aujourd'hui" },
 
 { "en": "think",        "ko": "생각하다",          "fi": "ajatella",    "fr": "penser" },
-{ "en": "same",        "ko": "같다",          "fi": "samanlainen",    "fr": "même" },
-{ "en": "similar",        "ko": "비슷하다",          "fi": "samanlainen",    "fr": "similaire, semblable" },
-{ "en": "different",        "ko": "다르다",          "fi": "erilainen, eri",    "fr": "différent, autre" },
+{ "en": "live, dwell",        "ko": "살다",          "fi": "asua",    "fr": "habiter" },
+
 
 
 { "en": "enter",        "ko": "들어가다",          "fi": "astua sisään",    "fr": "entrer" },
-
 { "en": "search",        "ko": "찾다",          "fi": "hakea",    "fr": "chercher" },
+{ "en": "find",        "ko": "발견하다",          "fi": "löytää",    "fr": "trouver" },
 
-{ "en": "live, dwell",        "ko": "살다",          "fi": "asua",    "fr": "habiter" },
+{ "en": "shadow",        "ko": "그림자",          "fi": "varjo",    "fr": "ombre" },
+{ "en": "remember",         "ko": "기억하다",       "fi": "muistaa",    "fr": "rappeler" }
 
-{ "en": "become",        "ko": "되다",          "fi": "tulla",    "fr": "devenir" },
-{ "en": "introduce",    "ko": "소개하다",       "fi": "esitellä",    "fr": "introduire" },
-{ "en": "put",       "ko": " 두다",       "fi": "panna",    "fr": "placer, mettre" },
-{ "en": "appear",       "ko": "나타나다",       "fi": "näyttää",    "fr": "apparaître" },
-
-{ "en": "headphones",        "ko": "헤드폰",          "fi": "kuulokkeet",    "fr": "casque" },
-
-{ "en": "sword",        "ko": "검",          "fi": "miekka",    "fr": "épée" },
-{ "en": "bow",        "ko": "활",          "fi": "jousi",    "fr": "arc" },
-{ "en": "shadow",        "ko": "그림자",          "fi": "varjo",    "fr": "ombre" }
 ]

@@ -1,0 +1,15 @@
+[
+{ "en": "hole",        "ko": "구멍",          "fi": "reikä, aukko, kuoppa, kolo",    "fr": "trou" },
+{ "en": "skipping rope",     "ko": "밧줄을 건너 뛰는",       "fi": "hyppynaru",     "fr": "corde à sauter" },
+{ "en": "hang",        "ko": "걸다",          "fi": "riippua",    "fr": "pendre" },
+
+{ "en": "war",        "ko": "전쟁",          "fi": "sota",    "fr": "guerre" },
+{ "en": "enemy",        "ko": "적",          "fi": "vihollinen",    "fr": "ennemi" },
+{ "en": "weapon",        "ko": "무기",          "fi": "ase",    "fr": "arme" },
+{ "en": "machine gun",        "ko": "기관총",          "fi": "konekivääri",    "fr": "mitrailleuse" },
+
+{ "en": "sword",        "ko": "검",          "fi": "miekka",    "fr": "épée" },
+{ "en": "bow",        "ko": "활",          "fi": "jousi",    "fr": "arc" },
+
+{ "en": "appear",       "ko": "나타나다",       "fi": "näyttää",    "fr": "apparaître" }
+]

@@ -1,0 +1,38 @@
+[
+
+
+
+{ "en": "give",         "ko": "주다",       "fi": "antaa",    "fr": "donner" },
+{ "en": "receive",         "ko": "받다",       "fi": "saada",    "fr": "recevoir" },
+{ "en": "present",        "ko": "선물",          "fi": "lahja",    "fr": "cadeau" },
+{ "en": "borrow",        "ko": "빌리다",          "fi": "lainata, ottaa lainaksi",    "fr": "emprunter" },
+{ "en": "lend",        "ko": "빌려주다",          "fi": "lainata, antaa lainaksi",    "fr": "prêter" },
+
+
+{ "en": "doll",        "ko": "인형",          "fi": "nukke",    "fr": "poupée" },
+{ "en": "joyful",        "ko": "즐겁다",          "fi": "iloinen",    "fr": "joyeux" },
+{ "en": "healthy",        "ko": "건강하다",          "fi": "terveellinen",    "fr": "en bonne santé" },
+
+{ "en": "information",        "ko": "정보",          "fi": "tiedot",    "fr": "information" },
+{ "en": "important",        "ko": "중요하다",          "fi": "tärkeä",    "fr": "important" },
+{ "en": "rise",        "ko": "오르다",          "fi": "nousta",    "fr": "augmenter" },
+{ "en": "significantly",        "ko": "크게",          "fi": "merkittävästi",    "fr": "significativement" },
+{ "en": "advertisment",        "ko": "광고",          "fi": "mainos",    "fr": "publicité" },
+{ "en": "training",        "ko": "훈련",          "fi": "harjoitus",    "fr": "entraînement" },
+
+
+{ "en": "fight",        "ko": "싸우다",          "fi": "taistella",    "fr": "combattre" },
+{ "en": "defense",        "ko": "방어",          "fi": "puolustus",    "fr": "défense" },
+{ "en": "attack",        "ko": "공격",          "fi": "hyökkäys",    "fr": "attaque" },
+
+{ "en": "same",        "ko": "같다",          "fi": "samanlainen",    "fr": "même" },
+{ "en": "similar",        "ko": "비슷하다",          "fi": "samanlainen",    "fr": "similaire, semblable" },
+{ "en": "different",        "ko": "다르다",          "fi": "erilainen, eri",    "fr": "différent, autre" },
+
+
+
+{ "en": "become",        "ko": "되다",          "fi": "tulla",    "fr": "devenir" },
+{ "en": "introduce",    "ko": "소개하다",       "fi": "esitellä",    "fr": "introduire" },
+{ "en": "put",       "ko": " 두다",       "fi": "panna",    "fr": "placer, mettre" }
+
+]

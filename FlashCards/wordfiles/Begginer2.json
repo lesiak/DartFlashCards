@@ -1,7 +1,25 @@
 [
+{ "en": "map",   	    "ko": "지도", 		 "fi": "kartta" ,       "fr":"carte"},
+{ "en": "church",   	"ko": "교회", 		 "fi": "kirkko" ,       "fr":"église"},
+{ "en": "pharmacy",     "ko": "약국", 		 "fi": "apteekki" ,     "fr":"pharmacie"},
+{ "en": "castle",     "ko": "성", 		 "fi": "linna" ,     "fr":"château"},
+{ "en": "bridge",     "ko": "다리", 		 "fi": "silta" ,     "fr":"pont"},
+{ "en": "building",        "ko": "건물",          "fi": "rakennus",    "fr": "bâtiment" },
+{ "en": "hospital",        "ko": "병원",          "fi": "sairaala",    "fr": "hôpital" },
+{ "en": "school",   	"ko": "학교", 	 "fi": "koulu" ,   "fr":"école"},
+{ "en": "museum",   	"ko": "박물관", 	 "fi": "museo" ,   "fr":"musée"},
+{ "en": "centre",   	"ko": "가운데", 	 "fi": "keskipiste" ,   "fr":"milieu"},
+{ "en": "floor",   	"ko": "층", 	 "fi": "kerros" ,   "fr":"étage"},
+{ "en": "lift",   	"ko": "엘리베이터", 	 "fi": "hissi" ,   "fr":"ascenseur"},
+
+{ "en": "buy",         "ko": "사다",       "fi": "ostaa",    "fr": "acheter" },
+{ "en": "sell",         "ko": "팔다",       "fi": "myydä",    "fr": "vendre" },
+{ "en": "open",    "ko": "열다",       "fi": "auki",    "fr": "ouvert" },
+
 { "en": "price",        "ko": "가격",    	"fi": "hinta",    "fr": "prix" },
 { "en": "weight",       "ko": "무게",     	"fi": "paino",    "fr": "poids" },
 
+{ "en": "food",       "ko": "음식",         "fi": "ruoka",    "fr": "nourritures" },
 { "en": "powder",       "ko": "가루",         "fi": "jauhe",    "fr": "poudre" },
 { "en": "flour",       "ko": "가루",         "fi": "jauhot",    "fr": "farine" },
 { "en": "bread",       "ko": "빵",         "fi": "leipä",    "fr": "pain" },
@@ -10,6 +28,8 @@
 { "en": "beer",       "ko": "맥주",         "fi": "olut",    "fr": "bière" },
 { "en": "apple",       "ko": "사과",         "fi": "omena",    "fr": "pomme" },
 { "en": "cheese",       "ko": "치즈",         "fi": "juusto",    "fr": "fromage" },
+{ "en": "carrot",       "ko": "당근",         "fi": "porkkana",    "fr": "carotte" },
+{ "en": "aubergine",       "ko": "가지",         "fi": "munakoiso",    "fr": "aubergine" },
 
 { "en": "sweet",       "ko": "달다",         "fi": "makea",    "fr": "doux" },
 { "en": "bitter",       "ko": "쓰다",         "fi": "kitkerä",    "fr": "amer" },
@@ -20,11 +40,7 @@
 { "en": "chopsticks",       "ko": "젓가락",         "fi": "syömäpuikot",    "fr": "baguettes" },
 { "en": "cup",       "ko": "컵",         "fi": "kuppi",    "fr": "tasse" },
 
-{ "en": "chest",       "ko": "가슴",         "fi": "rinta",    "fr": "poitrine" },
-{ "en": "heart",       "ko": "심장",         "fi": "sydän",    "fr": "cœur" },
-{ "en": "leg",       "ko": "다리",         "fi": "jalka",    "fr": "jambe" },
-{ "en": "foot",       "ko": "발",         "fi": "jalka",    "fr": "pied" },
-{ "en": "neck",       "ko": "목",         "fi": "kaula",    "fr": "cou" },
+
 
 { "en": "morning",       "ko": "아침",         "fi": "aamu",    "fr": "matin" },
 { "en": "evening",       "ko": "저녁",         "fi": "ilta",    "fr": "soir" },
@@ -38,9 +54,11 @@
 { "en": "laugh",       "ko": "웃다",      "fi": "nauraa",    "fr": "rire" },
 
 { "en": "drive",       "ko": "운전하다",       "fi": "kuljettaa",    "fr": "conduire" },
-{ "en": "open",    "ko": "열다",       "fi": "auki",    "fr": "ouvert" },
+
 
 { "en": "smoke",         "ko": "피우다",       "fi": "tupakoida",    "fr": "fumer" },
+{ "en": "cigarette",         "ko": "담배",       "fi": "savuke",    "fr": "cigarette" },
+{ "en": "tobacco",         "ko": "담배",       "fi": "tupakka",    "fr": "tabac" },
 
 { "en": "clean",   	"ko": "깨끗하다", 	 "fi": "puhdas" , "fr":"propre"},
 { "en": "dirty",   	"ko": "더럽다", 		 "fi": "likainen" , "fr":"sale"},

@@ -1,8 +1,7 @@
 [
-{ "en": "home",        "ko": "집",    	"fi": "koti",    "fr": "maison" },
+
 
 { "en": "machine",        "ko": "기계",    	"fi": "kone",    "fr": "machine" },  
-
 { "en": "car",        "ko": "자동차",    	"fi": "auto",    "fr": "voiture" },
 { "en": "train",        "ko": "기차",    	"fi": "juna",    "fr": "train" },
 { "en": "metro",        "ko": "지하철",  	"fi": "maanalainen",    "fr": "métro" },
@@ -11,13 +10,21 @@
 { "en": "airplane",         "ko": "비행기",      	"fi": "lentokone",    "fr": "avion" },
 { "en": "airport",         "ko": "공항",      	"fi": "lentokone",    "fr": "aéroport" },
 { "en": "balloon",         "ko": "풍선",          "fi": "ilmapallo",    "fr": "ballon" },
+{ "en": "fly",     "ko": "날다",       "fi": "lentää",     "fr": "voler" },
 
 
+{ "en": "home",        "ko": "집",    	"fi": "koti",    "fr": "maison" },
+{ "en": "room",        "ko": "방",    	"fi": "huone",    "fr": "chambre" },
 { "en": "door",         "ko": "문",         "fi": "ovi",    "fr": "porte" },    
 { "en": "window",       "ko": "창",         "fi": "ikkuna",    "fr": "fenêtre" },   
 { "en": "furniture",    "ko": "가구",		"fi": "kalusteet",    "fr": "meubles" },
 { "en": "refrigerator", "ko": "냉장고",   	"fi": "jääkaappi",    "fr": "réfrigérateur" },
 { "en": "washing machine", "ko": "세탁기",    "fi": "pesukone",    "fr": "machine à laver" },
+{ "en": "chair", "ko": "의자",    "fi": "tuoli",    "fr": "chaise" },
+{ "en": "bed", "ko": "침대",    "fi": "sänky, vuode",    "fr": "lit" },
+{ "en": "roof", "ko": "지붕",    "fi": "katto",    "fr": "toit" },
+{ "en": "fence", "ko": "울타리",    "fi": "aita",    "fr": "clôture" },
+
 { "en": "umbrella",     "ko": "우산",     	"fi": "sateenvarjo",   "fr": "parapluie" },
 
 { "en": "fire",         "ko": "불",			"fi": "palo",    "fr": "feu" },
@@ -28,7 +35,12 @@
 { "en": "forest",        "ko": "숲",          "fi": "metsä",    "fr": "forêt" },
 { "en": "garden",        "ko": "정원",          "fi": "puutarha",    "fr": "jardin" },
 { "en": "park",        "ko": "공원",          "fi": "puisto",    "fr": "parc" },
+{ "en": "tree",        "ko": "나무",          "fi": "puu",    "fr": "arbre" },
 { "en": "lake",        "ko": "호수",          "fi": "järvi",    "fr": "lac" },
+{ "en": "sun",        "ko": "해",          "fi": "aurinko",    "fr": "soleil" },
+{ "en": "moon",        "ko": "달",          "fi": "kuu",    "fr": "lune" },
+{ "en": "air",        "ko": "공기",          "fi": "ilma",    "fr": "air" },
+{ "en": "star",        "ko": "별",          "fi": "tähti",    "fr": "étoile" },
 
 { "en": "cat",          "ko": "고양이",   	"fi": "kissa",   "fr": "chat" },
 { "en": "tiger",      "ko": "호랑이",      "fi": "tiikeri",   "fr": "tigre" },
@@ -39,7 +51,6 @@
 
 { "en": "family",       "ko": "가족",     	"fi": "perhe",   "fr": "famille" },
 { "en": "chef",         "ko": "요리사",   "fi": "kokki",   "fr": "chef de cuisine" },
-
 { "en": "actor",        "ko": "배우",     "fi": "näyttelijä",         "fr": "acteur" },
 { "en": "movie star",   "ko": "영화 배우",   "fi": "päänäyttelijä",   "fr": "star de cinéma" },
 { "en": "singer",        "ko": "가수",     "fi": "laulaja",         "fr": "chanteur" },
@@ -51,25 +62,14 @@
 { "en": "magazine",     "ko": "잡지",   "fi": "aikakauslehti",      "fr": "magazine" },
 { "en": "paper",        "ko": "종이",      "fi": "paperi",          "fr": "papier" },
 { "en": "song",         "ko": "노래",       "fi": "laulu",          "fr": "chanson" },
-{ "en": "hobby",        "ko": "취미",       "fi": "mieliharrastus", "fr": "hobby" },
-{ "en": "football",     "ko": "축구",       "fi": "jalkapallo",     "fr": "football" },
-
-
-
-{ "en": "map",   	    "ko": "지도", 		 "fi": "kartta" ,       "fr":"carte"},
-{ "en": "church",   	"ko": "교회", 		 "fi": "kirkko" ,       "fr":"église"},
-{ "en": "pharmacy",     "ko": "약국", 		 "fi": "apteekki" ,     "fr":"pharmacie"},
-{ "en": "castle",     "ko": "성", 		 "fi": "linna" ,     "fr":"château"},
-{ "en": "bridge",     "ko": "다리", 		 "fi": "silta" ,     "fr":"pont"},
-{ "en": "building",        "ko": "건물",          "fi": "rakennus",    "fr": "bâtiment" },
-{ "en": "hospital",        "ko": "병원",          "fi": "sairaala",    "fr": "hôpital" },
-{ "en": "centre",   	"ko": "가운데", 	 "fi": "keskipiste" ,   "fr":"milieu"},
 
 { "en": "sit",         "ko": "앉다",       "fi": "istua",    "fr": "être assis" },
 { "en": "stand",         "ko": "서다",       "fi": "seisoa",    "fr": "être debout" },
-{ "en": "sleep",         "ko": "자다",       "fi": "nukkua",    "fr": "dormir" },
+{ "en": "sleep",         "ko": "자다",       "fi": "nukkua",    "fr": "dormir" }
 
-{ "en": "remember",         "ko": "기억하다",       "fi": "muistaa",    "fr": "rappeler" }
+
+
+
 
 
 ]

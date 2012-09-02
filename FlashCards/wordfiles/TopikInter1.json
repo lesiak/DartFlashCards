@@ -1,7 +1,5 @@
 [
 
-
-
 { "en": "salary",        "ko": "급여",    	"fi": "palkkaus",    "fr": "salaire" },
 
 { "en": "wound",        "ko": "상처",    	"fi": "haava",    "fr": "blessure" },
@@ -38,6 +36,11 @@
 
 
 { "en": "land",    "ko": "땅",    "fi": "maa" , "fr":"terre"},
+
+{ "en": "toilet seat",        "ko": "변기",    	"fi": "wc-istuin, vessanpönttö",    "fr": "toilette" },
+{ "en": "urinal",        "ko": "소변기",    	"fi": "urinaali",    "fr": "urinoir" },
+{ "en": "toilet paper",        "ko": "화장지",    	"fi": "vessapaperi",    "fr": "papier de toilette, papier-cul, abbreviated PQ" },
+
 
 { "en": "discussion",    "ko": "토론",    "fi": "keskustelu" , "fr":"discussion"}
 

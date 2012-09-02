@@ -42,8 +42,10 @@ class Engine {
   void _initLearningList() {
     learningList = buildLearningList(allCardsInDeck);
     if (!learningList.isEmpty()) {
+      _currentWord = 0;
       _currentCard = learningList[_currentWord];
       _currentScore = getCardScoreFromStore(_currentCard);
+      
     }
   }
   
@@ -60,7 +62,9 @@ class Engine {
     return (inStore.lastResult == POOR_ANSWER || inStore.lastResult == BAD_ANSWER);
   }
   
-  Card currentCard() {    
+  
+  
+  Card getCurrentCard() {    
     return _currentCard;   
   }
   
@@ -86,7 +90,7 @@ class Engine {
   }
   
   void _processAnswer(String answerResult) {
-    Card currentCard = currentCard();
+    Card currentCard = getCurrentCard();
     
     var resultString = makeWordResultString(answerResult);
     window.localStorage[currentCard.en] = resultString;
@@ -111,7 +115,17 @@ class Engine {
       window.localStorage.remove(card.en);
     }
     _initLearningList();
-  } 
+  }
+  
+  int get deckSize() => allCardsInDeck.length;
+  int get completedSize() => allCardsInDeck.filter((card) {
+    CardScore inStore = getCardScoreFromStore(card); 
+    if (inStore == null) {
+      return false;
+    }
+    return (inStore.lastResult == GOOD_ANSWER);
+  }).length;
+  
   
 }
 
