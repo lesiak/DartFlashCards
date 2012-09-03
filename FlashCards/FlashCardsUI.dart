@@ -2,14 +2,17 @@
 #import('dart:html');
 #import('Card.dart');
 #import('ForvoApi.dart');
+#import('PronounciationManager.dart');
+#import('Engine.dart');
 
-typedef void ForvoResonseCallback();
 
 class FlashCardsUI {
   
   final String NBSP = "\u00A0";
   
-  final String forvoKey="ca19d7cd6c0d10ed257b2d23960933ee";
+  DeckState deckState;
+  
+  FlashCardsUI(this.deckState);
   
   void showQuestion(Card card) {
     query("#en").text = card.en;    
@@ -53,48 +56,49 @@ class FlashCardsUI {
     ButtonElement showAnswerButton = query("#showAnswerButton");
     showAnswerButton.disabled = disabled;    
   }
-
-
   
-  void getPronunciations(String lang, String word, String containerId, bool play) {
-    var url = "http://apifree.forvo.com/action/word-pronunciations/format/json/word/$word/language/$lang/key/$forvoKey/";
-    
-    // call the web server asynchronously
-    Element container = query(containerId);
-    
-    var request = new XMLHttpRequest.get(url, (req) => onForvoSuccess(req, container, play));
-    //processForvoRespone(ff, container); 
+  void showLearningPanel() {
+    query("#wordFilesDiv").hidden=true;
+    query("#learningPanel").hidden=false;
   }
 
-// print the raw json response text from the server
-  void onForvoSuccess(XMLHttpRequest req, Element container, bool play) {  
+  void showHomePanel() {
+    query("#wordFilesDiv").hidden=false;
+    query("#learningPanel").hidden=true;
+    query("#wordListDiv").hidden=false;
+  }
+  
+  
+  void getPronunciations(String lang, String word, String containerId, bool play) {    
+    // call the web server asynchronously
+    Element container = query(containerId);
+    PronounciationManager.getPronunciations(lang, word, (req) => onForvoSuccess(req, lang, word, container, play));
+ 
+  }
+
+
+  void onForvoSuccess(HttpRequest req, String lang, String word, Element container, bool play) {  
     String responseText = req.responseText;
     if (!responseText.isEmpty()) {
-      processForvoResponeText(responseText, container, play);
+      ForvoResponse r = new ForvoResponse.fromJsonString(responseText);
+      displayPronounciations(r, container, play);
     }
     
   }
 
-  void processForvoResponeText(String responseText, Element container, bool play) {  
-    ForvoResponse r = ForvoResponse.fromJsonString(responseText);
+  void displayPronounciations(ForvoResponse r,  Element container, bool play) {      
+   /* if (deckState.currentCard.en != r.requestWord) {
+      return;
+    }*/
     List<Element> pronounciationNodes = createAudioNodes(r);
     container.nodes.clear();
     container.nodes.addAll(pronounciationNodes);  
     if (play && !r.items.isEmpty()) {
-      playPronounciation(getPreferredPronunciation(r));
+      playPronounciation(PronounciationManager.getPreferredPronunciation(r));
     }
   }
   
-  ForvoItem getPreferredPronunciation(ForvoResponse r) {
-    Set<String> favoriteUsers = new Set();
-    favoriteUsers.addAll(['ssoonkimi', 'x_WoofyWoo_x', 'floridagirl']);
-    for (ForvoItem item in r.items) {
-      if (favoriteUsers.contains(item.username) ) {
-        return item;
-      }
-    }
-    return r.items[0];
-  }
+ 
   
   List<Element> createAudioNodes(ForvoResponse r) {
     List<Element> ret = [];

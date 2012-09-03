@@ -1,13 +1,23 @@
 [
+{ "en": "office",         "ko": "사무실",       "fi": "toimisto, konttori",    "fr": "bureau" },
+{ "en": "programmer",         "ko": "프로그래머",       "fi": "ohjelmoija",    "fr": "programmeur" },
+{ "en": "software",         "ko": "소프트웨어",       "fi": "ohjelmisto",    "fr": "logiciel" },
+{ "en": "colleague",         "ko": "동료",       "fi": "kollega, virkaveli, virkatoveri",    "fr": "collègue" },
+
+{ "en": "atmosphere",         "ko": "분위기",       "fi": "ilmapiiri, tunnelma",    "fr": "ambiance" },
+
+{ "en": "clean",    "ko": "깨끗하다",    "fi": "puhdas" , "fr":"propre"},
+{ "en": "dirty",    "ko": "더럽다",         "fi": "likainen" , "fr":"sale"},
+
+{ "en": "quiet",    "ko": "조용하다",    "fi": "hiljainen" , "fr":"calme"},
 
 
 
 { "en": "give",         "ko": "주다",       "fi": "antaa",    "fr": "donner" },
 { "en": "receive",         "ko": "받다",       "fi": "saada",    "fr": "recevoir" },
-{ "en": "present",        "ko": "선물",          "fi": "lahja",    "fr": "cadeau" },
 { "en": "borrow",        "ko": "빌리다",          "fi": "lainata, ottaa lainaksi",    "fr": "emprunter" },
 { "en": "lend",        "ko": "빌려주다",          "fi": "lainata, antaa lainaksi",    "fr": "prêter" },
-
+{ "en": "present",        "ko": "선물",          "fi": "lahja",    "fr": "cadeau" },
 
 { "en": "doll",        "ko": "인형",          "fi": "nukke",    "fr": "poupée" },
 { "en": "joyful",        "ko": "즐겁다",          "fi": "iloinen",    "fr": "joyeux" },

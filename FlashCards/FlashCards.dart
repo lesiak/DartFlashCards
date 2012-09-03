@@ -13,7 +13,7 @@ class FlashCardsApp {
   
   FlashCardsApp() {
     this.engine = new Engine();
-    this.ui = new FlashCardsUI();
+    this.ui = new FlashCardsUI(engine);
     
     query("#showAnswerButton").on.click.add((e) => showAnswer());    
     query("#goodAnswerButton").on.click.add((e) => goodAnswer());
@@ -23,15 +23,13 @@ class FlashCardsApp {
     query("#clearCache").on.click.add((e) => window.localStorage.clear());
         
     query("#startButton").on.click.add((e) {
-      query("#wordFilesDiv").hidden=true;
-      query("#learningPanel").hidden=false;
+      ui.showLearningPanel();
       showQuestion(); 
     });
     query("#clearResultsButton").on.click.add((e) => clearDeckResults());
     query("#homePill").on.click.add((e) {
-      query("#wordFilesDiv").hidden=false;
-      query("#learningPanel").hidden=true;
-      query("#wordListDiv").hidden=true;
+      ui.showHomePanel();
+      fillDeckData();
     });
   }
   
@@ -45,31 +43,43 @@ class FlashCardsApp {
     TableSectionElement tBody = table.tBodies[0]; 
     tBody.nodes.clear();
     for (String deckName in wordFiles) {
-      TableRowElement newLine = tBody.insertRow(-1); // add at the end
-      Element cell = newLine.insertCell(0);
+      TableRowElement tRow = tBody.insertRow(-1); // add at the end
+      
+      Element cell = tRow.insertCell(0);
       cell.classes.add('deckLink');
       AnchorElement deckLink = new AnchorElement("#");
       deckLink.text = deckName;
-      deckLink.on.click.add((e) => loadWordTable( "${deckName}.json"));
+      deckLink.on.click.add((e) {
+        
+        tBody.elements.forEach((aRow) => aRow.classes.remove('selectedTableRow'));
+        tRow.classes.add('selectedTableRow');
+        loadWordTable( "${deckName}.json");        
+      });
       cell.nodes.add(deckLink);
     }
-    
-
   }
+  
+  
+  
+  
+  
 
   void loadWordTable(String wordfile) {
     engine.loadData('wordfiles/$wordfile', () { 
       query("#wordListDiv").hidden=false;
-      fillWordsTable();
-      fillSummary();
+      fillDeckData();
     }  
     );
   }
   
-  void clearDeckResults() {
-    engine.clearDeckResults();
+  void fillDeckData() {
     fillWordsTable();
     fillSummary();
+  }
+  
+  void clearDeckResults() {
+    engine.clearDeckResults();
+    fillDeckData();
   }
   
   void fillSummary() {
@@ -118,13 +128,13 @@ class FlashCardsApp {
 
 
   void showAnswer() {
-    Card card = engine.getCurrentCard();
+    Card card = engine.currentCard;
     ui.showAnswer(card);
   }
 
 
   void showQuestion() {
-    Card card = engine.getCurrentCard();
+    Card card = engine.currentCard;
     ui.showQuestion(card);    
   }
 

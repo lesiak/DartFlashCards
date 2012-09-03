@@ -7,4 +7,6 @@ class Card {
   String fr;
   
   Card(this.en, this.ko, this.fi, this.fr);
+  
+  
 }

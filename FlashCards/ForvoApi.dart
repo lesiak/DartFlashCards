@@ -1,21 +1,18 @@
 #library('forvo_api');
 #import("dart:json");
 
-class ForvoApi {
-  
-}
-
 class ForvoResponse {
   
+ 
   var attributes;
   List<ForvoItem> items;
   
-  static ForvoResponse fromJsonString(String responseText) {
+  factory ForvoResponse.fromJsonString(String responseText) {
     Map forvoData = JSON.parse(responseText);
-    return fromMap(forvoData);
+    return new ForvoResponse.fromMap(forvoData);
   }
   
-  static ForvoResponse fromMap(Map jsonMap) {
+  factory ForvoResponse.fromMap(Map jsonMap) {  
       return new ForvoResponse(jsonMap);
   }
   

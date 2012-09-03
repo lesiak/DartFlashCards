@@ -47,7 +47,7 @@
 { "en": "sweet",       "ko": "달다",         "fi": "makea",    "fr": "doux" },
 { "en": "bitter",       "ko": "쓰다",         "fi": "kitkerä",    "fr": "amer" },
 { "en": "cuisine",       "ko": "요리",         "fi": "keittiö",    "fr": "cuisine" },
-
+{ "en": "chef",         "ko": "요리사",   "fi": "kokki",   "fr": "chef de cuisine" },
 
 { "en": "knife",       "ko": "칼",         "fi": "veitsi",    "fr": "couteau" },
 { "en": "spoon",       "ko": "스푼",         "fi": "lusikka",    "fr": "cuillère" },
@@ -68,17 +68,9 @@
 { "en": "travel",       "ko": "여행하다",       "fi": "matkustaa",    "fr": "voyager" },
 { "en": "laugh",       "ko": "웃다",      "fi": "nauraa",    "fr": "rire" },
 
-{ "en": "drive",       "ko": "운전하다",       "fi": "kuljettaa",    "fr": "conduire" },
-
-
 { "en": "smoke",         "ko": "피우다",       "fi": "tupakoida",    "fr": "fumer" },
 { "en": "cigarette",         "ko": "담배",       "fi": "savuke",    "fr": "cigarette" },
-{ "en": "tobacco",         "ko": "담배",       "fi": "tupakka",    "fr": "tabac" },
-
-{ "en": "clean",   	"ko": "깨끗하다", 	 "fi": "puhdas" , "fr":"propre"},
-{ "en": "dirty",   	"ko": "더럽다", 		 "fi": "likainen" , "fr":"sale"},
-{ "en": "warm",   	"ko": "따뜻하다", 	 "fi": "lämmin" , "fr":"chaud"},
-{ "en": "quiet",   	"ko": "조용하다", 	 "fi": "hiljainen" , "fr":"calme"}
+{ "en": "tobacco",         "ko": "담배",       "fi": "tupakka",    "fr": "tabac" }
 
 
 

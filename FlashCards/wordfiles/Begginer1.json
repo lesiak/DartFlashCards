@@ -11,6 +11,8 @@
 { "en": "airport",         "ko": "공항",      	"fi": "lentokone",    "fr": "aéroport" },
 { "en": "balloon",         "ko": "풍선",          "fi": "ilmapallo",    "fr": "ballon" },
 { "en": "fly",     "ko": "날다",       "fi": "lentää",     "fr": "voler" },
+{ "en": "drive",       "ko": "운전하다",       "fi": "kuljettaa",    "fr": "conduire" },
+{ "en": "driver",       "ko": "운전사",       "fi": "kuljettaja",    "fr": "conducteur" },
 
 
 { "en": "home",        "ko": "집",    	"fi": "koti",    "fr": "maison" },
@@ -25,7 +27,7 @@
 { "en": "roof", "ko": "지붕",    "fi": "katto",    "fr": "toit" },
 { "en": "fence", "ko": "울타리",    "fi": "aita",    "fr": "clôture" },
 
-{ "en": "umbrella",     "ko": "우산",     	"fi": "sateenvarjo",   "fr": "parapluie" },
+
 
 { "en": "fire",         "ko": "불",			"fi": "palo",    "fr": "feu" },
 { "en": "light",        "ko": "빛",        	"fi": "valo",    "fr": "lumière" },
@@ -41,21 +43,12 @@
 { "en": "moon",        "ko": "달",          "fi": "kuu",    "fr": "lune" },
 { "en": "air",        "ko": "공기",          "fi": "ilma",    "fr": "air" },
 { "en": "star",        "ko": "별",          "fi": "tähti",    "fr": "étoile" },
-
-{ "en": "cat",          "ko": "고양이",   	"fi": "kissa",   "fr": "chat" },
-{ "en": "tiger",      "ko": "호랑이",      "fi": "tiikeri",   "fr": "tigre" },
-{ "en": "lion",      "ko": "사자",   	"fi": "tiikeri",   "fr": "lion" },
-{ "en": "chicken",      "ko": "닭",      "fi": "kana",   "fr": "poulet" },
-{ "en": "pig",      "ko": "돼지",   	"fi": "leijona",   "fr": "cochon" },
-{ "en": "ant",      "ko": "개미",   	"fi": "muurahainen",   "fr": "fourmi" },
+{ "en": "fog",        "ko": "안개",          "fi": "sumu",    "fr": "brouillard" },
 
 { "en": "family",       "ko": "가족",     	"fi": "perhe",   "fr": "famille" },
-{ "en": "chef",         "ko": "요리사",   "fi": "kokki",   "fr": "chef de cuisine" },
 { "en": "actor",        "ko": "배우",     "fi": "näyttelijä",         "fr": "acteur" },
 { "en": "movie star",   "ko": "영화 배우",   "fi": "päänäyttelijä",   "fr": "star de cinéma" },
 { "en": "singer",        "ko": "가수",     "fi": "laulaja",         "fr": "chanteur" },
-
-
 
 { "en": "library",      "ko": "도서관",   "fi": "kirjasto",         "fr": "bibliothèque" },    
 { "en": "culture",      "ko": "문화",    "fi": "kulttuuri",         "fr": "culture" },
@@ -66,10 +59,5 @@
 { "en": "sit",         "ko": "앉다",       "fi": "istua",    "fr": "être assis" },
 { "en": "stand",         "ko": "서다",       "fi": "seisoa",    "fr": "être debout" },
 { "en": "sleep",         "ko": "자다",       "fi": "nukkua",    "fr": "dormir" }
-
-
-
-
-
 
 ]

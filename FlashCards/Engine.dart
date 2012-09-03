@@ -3,12 +3,18 @@
 #import('dart:html');
 #import("dart:json");
 
+
 #import('Card.dart');
 #import('CardScore.dart');
 
 typedef void DataLoadedCallback();
 
-class Engine {
+interface DeckState {
+  int get deckSize();
+  Card get currentCard();
+}
+
+class Engine implements DeckState {
   
   static final String GOOD_ANSWER = 'GOOD';
   static final String POOR_ANSWER = 'POOR';
@@ -27,7 +33,7 @@ class Engine {
   
   
   void loadData(String wordfilePath, DataLoadedCallback onDataReady) {
-    var request = new XMLHttpRequest.get(wordfilePath, (req) {
+    var request = new HttpRequest.get(wordfilePath, (req) {
       _initDeck(req.responseText);
       onDataReady();
     });
@@ -64,7 +70,7 @@ class Engine {
   
   
   
-  Card getCurrentCard() {    
+  Card get currentCard() {    
     return _currentCard;   
   }
   
@@ -72,6 +78,9 @@ class Engine {
     if (_currentWord < learningList.length-1) {
       _currentWord++;
     }
+    /*else {
+      _currentWord = 0;
+    }*/
     _currentCard = learningList[_currentWord];
     _currentScore = getCardScoreFromStore(_currentCard);
     
@@ -90,8 +99,6 @@ class Engine {
   }
   
   void _processAnswer(String answerResult) {
-    Card currentCard = getCurrentCard();
-    
     var resultString = makeWordResultString(answerResult);
     window.localStorage[currentCard.en] = resultString;
   }
