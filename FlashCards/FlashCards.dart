@@ -28,6 +28,7 @@ class FlashCardsApp {
     });
     query("#clearResultsButton").on.click.add((e) => clearDeckResults());
     query("#homePill").on.click.add((e) {
+      engine.initLearningList();
       ui.showHomePanel();
       fillDeckData();
     });

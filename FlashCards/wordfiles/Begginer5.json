@@ -2,6 +2,8 @@
 { "en": "lesson",        "ko": "수업",          "fi": "oppitunti",    "fr": "leçon" },
 { "en": "professor",        "ko": "교수",          "fi": "professeur",    "fr": "professori" },
 { "en": "dictionary",        "ko": "사전",          "fi": "sanakirja",    "fr": "dictionnaire" },
+{ "en": "test",        "ko": "시험",          "fi": "koe, tentti",    "fr": "test, examen" },
+
 
 { "en": "warm",     "ko": "따뜻하다",    "fi": "lämmin" , "fr":"chaud"},
 
@@ -14,6 +16,10 @@
 { "en": "enemy",        "ko": "적",          "fi": "vihollinen",    "fr": "ennemi" },
 { "en": "weapon",        "ko": "무기",          "fi": "ase",    "fr": "arme" },
 { "en": "machine gun",        "ko": "기관총",          "fi": "konekivääri",    "fr": "mitrailleuse" },
+{ "en": "fight",        "ko": "싸우다",          "fi": "taistella",    "fr": "combattre" },
+{ "en": "defense",        "ko": "방어",          "fi": "puolustus",    "fr": "défense" },
+{ "en": "attack",        "ko": "공격",          "fi": "hyökkäys",    "fr": "attaque" },
+
 
 { "en": "sword",        "ko": "검",          "fi": "miekka",    "fr": "épée" },
 { "en": "bow",        "ko": "활",          "fi": "jousi",    "fr": "arc" },

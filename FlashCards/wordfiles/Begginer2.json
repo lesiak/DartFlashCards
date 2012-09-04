@@ -11,6 +11,8 @@
 { "en": "centre",   	"ko": "가운데", 	 "fi": "keskipiste" ,   "fr":"milieu"},
 { "en": "floor",   	"ko": "층", 	 "fi": "kerros" ,   "fr":"étage"},
 { "en": "lift",   	"ko": "엘리베이터", 	 "fi": "hissi" ,   "fr":"ascenseur"},
+{ "en": "architecture",     "ko": " 건축학",   "fi": "arkkitehtuuri" ,   "fr":"architecture"},
+{ "en": "architect",     "ko": " 건축가",   "fi": "arkkitehti" ,   "fr":"architecte"},
 
 { "en": "buy",         "ko": "사다",       "fi": "ostaa",    "fr": "acheter" },
 { "en": "sell",         "ko": "팔다",       "fi": "myydä",    "fr": "vendre" },
@@ -65,13 +67,13 @@
 { "en": "rest",         "ko": "쉬다",       "fi": "levätä",    "fr": "se reposer" },
 { "en": "wait",         "ko": "기다리다",       "fi": "odottaa",    "fr": "patienter" },
 { "en": "begin",        "ko": "시작하다",       "fi": "aloittaa",    "fr": "commencer" },
-{ "en": "travel",       "ko": "여행하다",       "fi": "matkustaa",    "fr": "voyager" },
+
 { "en": "laugh",       "ko": "웃다",      "fi": "nauraa",    "fr": "rire" },
+
 
 { "en": "smoke",         "ko": "피우다",       "fi": "tupakoida",    "fr": "fumer" },
 { "en": "cigarette",         "ko": "담배",       "fi": "savuke",    "fr": "cigarette" },
 { "en": "tobacco",         "ko": "담배",       "fi": "tupakka",    "fr": "tabac" }
-
 
 
 ]

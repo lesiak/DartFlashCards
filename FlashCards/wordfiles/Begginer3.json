@@ -44,8 +44,7 @@
 { "en": "ant",      "ko": "개미",     "fi": "muurahainen",   "fr": "fourmi" },
 { "en": "hamster",      "ko": "조선 쥐",     "fi": "hamsteri",   "fr": "hamster" },
 
-{ "en": "photo",     "ko": "사진",       "fi": "kuva",     "fr": "photo" },
-{ "en": "passport",     "ko": "여권",       "fi": "passi",     "fr": "passeport" },
+
 
 { "en": "letter",     "ko": "편지",       "fi": "kirje",     "fr": "lettre" },
 { "en": "send",     "ko": "보내다",       "fi": "lähettää",     "fr": "envoyer" },

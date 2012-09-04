@@ -42,10 +42,10 @@ class Engine implements DeckState {
   void _initDeck(String wordListJSON) {
     List rawData = JSON.parse(wordListJSON); // parse response text
     allCardsInDeck = rawData.map((entry) => new Card(entry["en"], entry["ko"], entry["fi"], entry["fr"]));
-    _initLearningList();
+    initLearningList();
   }
   
-  void _initLearningList() {
+  void initLearningList() {
     learningList = buildLearningList(allCardsInDeck);
     if (!learningList.isEmpty()) {
       _currentWord = 0;
@@ -121,7 +121,7 @@ class Engine implements DeckState {
     for (Card card in allCardsInDeck) {
       window.localStorage.remove(card.en);
     }
-    _initLearningList();
+    initLearningList();
   }
   
   int get deckSize() => allCardsInDeck.length;

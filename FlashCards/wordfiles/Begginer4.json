@@ -1,15 +1,21 @@
 [
-{ "en": "office",         "ko": "사무실",       "fi": "toimisto, konttori",    "fr": "bureau" },
-{ "en": "programmer",         "ko": "프로그래머",       "fi": "ohjelmoija",    "fr": "programmeur" },
-{ "en": "software",         "ko": "소프트웨어",       "fi": "ohjelmisto",    "fr": "logiciel" },
-{ "en": "colleague",         "ko": "동료",       "fi": "kollega, virkaveli, virkatoveri",    "fr": "collègue" },
+{ "en": "office",           "ko": "사무실",           "fi": "toimisto, konttori",    "fr": "bureau" },
+{ "en": "programmer",       "ko": "프로그래머",      "fi": "ohjelmoija",    "fr": "programmeur" },
+{ "en": "software",         "ko": "소프트웨어",      "fi": "ohjelmisto",    "fr": "logiciel" },
+{ "en": "colleague",        "ko": "동료",             "fi": "kollega, virkaveli, virkatoveri",    "fr": "collègue" },
 
 { "en": "atmosphere",         "ko": "분위기",       "fi": "ilmapiiri, tunnelma",    "fr": "ambiance" },
+{ "en": "quiet",    "ko": "조용하다",    "fi": "hiljainen" , "fr":"calme"},
+
+{ "en": "travel",       "ko": "여행하다",       "fi": "matkustaa",    "fr": "voyager" },
+{ "en": "tourist",       "ko": "관광객",       "fi": "turisti, matkailija",    "fr": "touriste" },
+{ "en": "photo",     "ko": "사진",       "fi": "kuva",     "fr": "photo" },
+{ "en": "passport",     "ko": "여권",       "fi": "passi",     "fr": "passeport" },
 
 { "en": "clean",    "ko": "깨끗하다",    "fi": "puhdas" , "fr":"propre"},
 { "en": "dirty",    "ko": "더럽다",         "fi": "likainen" , "fr":"sale"},
 
-{ "en": "quiet",    "ko": "조용하다",    "fi": "hiljainen" , "fr":"calme"},
+
 
 
 
@@ -31,9 +37,6 @@
 { "en": "training",        "ko": "훈련",          "fi": "harjoitus",    "fr": "entraînement" },
 
 
-{ "en": "fight",        "ko": "싸우다",          "fi": "taistella",    "fr": "combattre" },
-{ "en": "defense",        "ko": "방어",          "fi": "puolustus",    "fr": "défense" },
-{ "en": "attack",        "ko": "공격",          "fi": "hyökkäys",    "fr": "attaque" },
 
 { "en": "same",        "ko": "같다",          "fi": "samanlainen",    "fr": "même" },
 { "en": "similar",        "ko": "비슷하다",          "fi": "samanlainen",    "fr": "similaire, semblable" },
