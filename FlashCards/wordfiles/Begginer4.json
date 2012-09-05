@@ -4,13 +4,22 @@
 { "en": "software",         "ko": "소프트웨어",      "fi": "ohjelmisto",    "fr": "logiciel" },
 { "en": "colleague",        "ko": "동료",             "fi": "kollega, virkaveli, virkatoveri",    "fr": "collègue" },
 
+{ "en": "tired",        "ko": "피곤하다",             "fi": "väsynyt",    "fr": "fatigué" },
+{ "en": "busy",        "ko": "바쁘다",             "fi": "kiireinen, työntäyteinen",    "fr": "occupé" },
+
 { "en": "atmosphere",         "ko": "분위기",       "fi": "ilmapiiri, tunnelma",    "fr": "ambiance" },
 { "en": "quiet",    "ko": "조용하다",    "fi": "hiljainen" , "fr":"calme"},
+
+{ "en": "fisherman",    "ko": "어부",    "fi": "kalastaja" , "fr":"pêcheur"},
+{ "en": "nurse",    "ko": "간호사",    "fi": "sairaanhoitaja" , "fr":"infirmière"},
+{ "en": "waiter",    "ko": "웨이터",    "fi": "tarjoilija" , "fr":"serveur"},
+
 
 { "en": "travel",       "ko": "여행하다",       "fi": "matkustaa",    "fr": "voyager" },
 { "en": "tourist",       "ko": "관광객",       "fi": "turisti, matkailija",    "fr": "touriste" },
 { "en": "photo",     "ko": "사진",       "fi": "kuva",     "fr": "photo" },
 { "en": "passport",     "ko": "여권",       "fi": "passi",     "fr": "passeport" },
+{ "en": "sunbathe",     "ko": "일광욕을하다",       "fi": "ottaa aurinkoa",     "fr": "bronzer" },
 
 { "en": "clean",    "ko": "깨끗하다",    "fi": "puhdas" , "fr":"propre"},
 { "en": "dirty",    "ko": "더럽다",         "fi": "likainen" , "fr":"sale"},

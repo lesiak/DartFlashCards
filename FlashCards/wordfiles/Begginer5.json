@@ -3,12 +3,16 @@
 { "en": "professor",        "ko": "교수",          "fi": "professeur",    "fr": "professori" },
 { "en": "dictionary",        "ko": "사전",          "fi": "sanakirja",    "fr": "dictionnaire" },
 { "en": "test",        "ko": "시험",          "fi": "koe, tentti",    "fr": "test, examen" },
+{ "en": "science",       "ko": "과학",       "fi": "tiede",    "fr": "science" },
+{ "en": "geometry",       "ko": "기하학",       "fi": "geometria",    "fr": "géométrie" },
+{ "en": "biology",       "ko": "생물학",       "fi": "biologia",    "fr": "biologie" },
+
 
 
 { "en": "warm",     "ko": "따뜻하다",    "fi": "lämmin" , "fr":"chaud"},
 
 { "en": "hole",        "ko": "구멍",          "fi": "reikä, aukko, kuoppa, kolo",    "fr": "trou" },
-{ "en": "skipping rope",     "ko": "밧줄을 건너 뛰는",       "fi": "hyppynaru",     "fr": "corde à sauter" },
+
 { "en": "hang",        "ko": "걸다",          "fi": "riippua",    "fr": "pendre" },
 
 { "en": "war",        "ko": "전쟁",          "fi": "sota",    "fr": "guerre" },

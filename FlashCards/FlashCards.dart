@@ -39,7 +39,7 @@ class FlashCardsApp {
   }
   
   void fillQuestionDecksTable() {
-    var wordFiles = ['Begginer1', 'Begginer2', 'Begginer3','Begginer4','Begginer5', 'TopikInter1'];
+    var wordFiles = ['Begginer1', 'Begginer2', 'Begginer3','Begginer4','Begginer5', 'Food', 'TopikInter1'];
     TableElement table = query("#questionDecksTable");
     TableSectionElement tBody = table.tBodies[0]; 
     tBody.nodes.clear();

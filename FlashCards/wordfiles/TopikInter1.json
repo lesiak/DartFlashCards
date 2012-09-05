@@ -18,7 +18,7 @@
 
 
 { "en": "economy",       "ko": "경제",       "fi": "talous",    "fr": "économie" },
-{ "en": "science",       "ko": "과학",       "fi": "tiede",    "fr": "science" },
+
 { "en": "communication",       "ko": "통신",       "fi": "kommunikaatio, tietoliikenne",    "fr": "communication" },
 { "en": "platform",       "ko": "플랫폼",       "fi": "alusta",    "fr": "plate-forme" },
 
@@ -43,7 +43,7 @@
 
 
 { "en": "discussion",    "ko": "토론",    "fi": "keskustelu" , "fr":"discussion"}
-
+{ "en": "skipping rope",     "ko": "밧줄을 건너 뛰는",       "fi": "hyppynaru",     "fr": "corde à sauter" },
 
 
 ]

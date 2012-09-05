@@ -14,6 +14,8 @@
 { "en": "jacket",        "ko": "재킷",          "fi": "takki",    "fr": "veste" },
 { "en": "key",        "ko": "열쇠",          "fi": "uusi",    "fr": "nouveau" },
 { "en": "umbrella",     "ko": "우산",         "fi": "sateenvarjo",   "fr": "parapluie" },
+{ "en": "eyeglasses",     "ko": "안경",         "fi": "silmälasit",   "fr": "lunettes" },
+
 
 { "en": "hobby",        "ko": "취미",       "fi": "mieliharrastus", "fr": "hobby" },
 { "en": "football",     "ko": "축구",       "fi": "jalkapallo",     "fr": "football" },
@@ -41,7 +43,10 @@
 { "en": "chicken",      "ko": "닭",      "fi": "kana",   "fr": "poulet" },
 { "en": "pig",      "ko": "돼지",     "fi": "leijona",   "fr": "cochon" },
 { "en": "sheep",      "ko": "양",     "fi": "lammas",   "fr": "mouton" },
+{ "en": "fox",      "ko": "여우",     "fi": "kettu",   "fr": "renard" },
 { "en": "ant",      "ko": "개미",     "fi": "muurahainen",   "fr": "fourmi" },
+{ "en": "snake",      "ko": "뱀",     "fi": "käärme",   "fr": "serpent" },
+
 { "en": "hamster",      "ko": "조선 쥐",     "fi": "hamsteri",   "fr": "hamster" },
 
 
