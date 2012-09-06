@@ -1,0 +1,17 @@
+[
+{ "en": "culture",      "ko": "문화",    "fi": "kulttuuri",         "fr": "culture" },
+{ "en": "magazine",     "ko": "잡지",   "fi": "aikakauslehti",      "fr": "magazine" },
+{ "en": "paper",        "ko": "종이",      "fi": "paperi",          "fr": "papier" },
+{ "en": "actor",        "ko": "배우",     "fi": "näyttelijä",         "fr": "acteur" },
+{ "en": "movie star",   "ko": "영화 배우",   "fi": "päänäyttelijä",   "fr": "star de cinéma" },
+{ "en": "singer",        "ko": "가수",     "fi": "laulaja",         "fr": "chanteur" },
+{ "en": "song",         "ko": "노래",       "fi": "laulu",          "fr": "chanson" },
+{ "en": "title",         "ko": "제목",       "fi": "nimi",          "fr": "titre" },
+{ "en": "lyrics",         "ko": "가사",       "fi": "sanoitus",          "fr": "paroles" },
+{ "en": "recommend",         "ko": "추천하다",       "fi": "suositella",          "fr": "recommander" },
+{ "en": "listen",         "ko": "듣다",       "fi": "kuunnella",          "fr": "écouter" },
+{ "en": "writer",         "ko": "작가",       "fi": "kirjoittaja, kirjailija",          "fr": "écrivain, auteur" }
+
+
+]
+        

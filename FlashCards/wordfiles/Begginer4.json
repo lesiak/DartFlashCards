@@ -10,6 +10,8 @@
 { "en": "atmosphere",         "ko": "분위기",       "fi": "ilmapiiri, tunnelma",    "fr": "ambiance" },
 { "en": "quiet",    "ko": "조용하다",    "fi": "hiljainen" , "fr":"calme"},
 
+{ "en": "late",        "ko": "늦다",             "fi": "myöhässä",    "fr": "tard" },
+
 { "en": "fisherman",    "ko": "어부",    "fi": "kalastaja" , "fr":"pêcheur"},
 { "en": "nurse",    "ko": "간호사",    "fi": "sairaanhoitaja" , "fr":"infirmière"},
 { "en": "waiter",    "ko": "웨이터",    "fi": "tarjoilija" , "fr":"serveur"},

@@ -6,7 +6,10 @@
 { "en": "science",       "ko": "과학",       "fi": "tiede",    "fr": "science" },
 { "en": "geometry",       "ko": "기하학",       "fi": "geometria",    "fr": "géométrie" },
 { "en": "biology",       "ko": "생물학",       "fi": "biologia",    "fr": "biologie" },
+{ "en": "graduate",       "ko": "졸업하다",       "fi": " valmistua, suorittaa tutkinto, saada oppiarvo",    "fr": "obtenir sa licence, son diplôme" },
 
+{ "en": "choose",     "ko": "고르다",    "fi": "valita" , "fr":"choisir"},
+{ "en": "choice",     "ko": "선택",    "fi": "valinta, valikoima" , "fr":"choix"},
 
 
 { "en": "warm",     "ko": "따뜻하다",    "fi": "lämmin" , "fr":"chaud"},
@@ -27,6 +30,11 @@
 
 { "en": "sword",        "ko": "검",          "fi": "miekka",    "fr": "épée" },
 { "en": "bow",        "ko": "활",          "fi": "jousi",    "fr": "arc" },
+{ "en": "prosecutor",        "ko": "검사",          "fi": "syyttäjä",    "fr": "procureur" },
 
 { "en": "appear",       "ko": "나타나다",       "fi": "näyttää",    "fr": "apparaître" }
+
+    
+
+
 ]

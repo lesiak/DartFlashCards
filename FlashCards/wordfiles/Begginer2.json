@@ -16,7 +16,7 @@
 { "en": "bank",     "ko": " 은행",   "fi": "pankki" ,   "fr":"banque"},
 { "en": "pub",     "ko": " 술집",   "fi": "baari, kapakka, pubi" ,   "fr":"bar, pub"},
 { "en": "bus stop",     "ko": " 버스 정류장",   "fi": "bussipysäkki" ,   "fr":"arrêt de bus"},
-
+{ "en": "library",      "ko": "도서관",   "fi": "kirjasto",         "fr": "bibliothèque" },
 
 { "en": "buy",         "ko": "사다",       "fi": "ostaa",    "fr": "acheter" },
 { "en": "sell",         "ko": "팔다",       "fi": "myydä",    "fr": "vendre" },

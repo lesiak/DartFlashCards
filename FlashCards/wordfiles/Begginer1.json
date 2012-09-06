@@ -44,17 +44,13 @@
 { "en": "air",        "ko": "공기",          "fi": "ilma",    "fr": "air" },
 { "en": "star",        "ko": "별",          "fi": "tähti",    "fr": "étoile" },
 { "en": "fog",        "ko": "안개",          "fi": "sumu",    "fr": "brouillard" },
+{ "en": "sky",        "ko": "하늘",          "fi": "taivas",    "fr": "ciel" },
+{ "en": "cloud",        "ko": "구름",          "fi": "pilvi",    "fr": "nuage" },
+{ "en": "rainbow",        "ko": "무지개",          "fi": "sateenkaari",    "fr": "arc-en-ciel" },
+
 
 { "en": "family",       "ko": "가족",     	"fi": "perhe",   "fr": "famille" },
-{ "en": "actor",        "ko": "배우",     "fi": "näyttelijä",         "fr": "acteur" },
-{ "en": "movie star",   "ko": "영화 배우",   "fi": "päänäyttelijä",   "fr": "star de cinéma" },
-{ "en": "singer",        "ko": "가수",     "fi": "laulaja",         "fr": "chanteur" },
 
-{ "en": "library",      "ko": "도서관",   "fi": "kirjasto",         "fr": "bibliothèque" },    
-{ "en": "culture",      "ko": "문화",    "fi": "kulttuuri",         "fr": "culture" },
-{ "en": "magazine",     "ko": "잡지",   "fi": "aikakauslehti",      "fr": "magazine" },
-{ "en": "paper",        "ko": "종이",      "fi": "paperi",          "fr": "papier" },
-{ "en": "song",         "ko": "노래",       "fi": "laulu",          "fr": "chanson" },
 
 { "en": "sit",         "ko": "앉다",       "fi": "istua",    "fr": "être assis" },
 { "en": "stand",         "ko": "서다",       "fi": "seisoa",    "fr": "être debout" },
