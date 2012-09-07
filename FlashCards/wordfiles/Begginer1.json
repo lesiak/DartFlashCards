@@ -27,8 +27,6 @@
 { "en": "roof", "ko": "지붕",    "fi": "katto",    "fr": "toit" },
 { "en": "fence", "ko": "울타리",    "fi": "aita",    "fr": "clôture" },
 
-
-
 { "en": "fire",         "ko": "불",			"fi": "palo",    "fr": "feu" },
 { "en": "light",        "ko": "빛",        	"fi": "valo",    "fr": "lumière" },
 { "en": "river",        "ko": "강",       	"fi": "joki",    "fr": "fleuve" },
@@ -47,7 +45,9 @@
 { "en": "sky",        "ko": "하늘",          "fi": "taivas",    "fr": "ciel" },
 { "en": "cloud",        "ko": "구름",          "fi": "pilvi",    "fr": "nuage" },
 { "en": "rainbow",        "ko": "무지개",          "fi": "sateenkaari",    "fr": "arc-en-ciel" },
-
+{ "en": "snow",        "ko": "눈",          "fi": "lumi",    "fr": "neige" },
+{ "en": "world",        "ko": "세계",          "fi": "maailma",    "fr": "monde" },
+{ "en": "wind",        "ko": "바람",          "fi": "tuuli",    "fr": "vent" },
 
 { "en": "family",       "ko": "가족",     	"fi": "perhe",   "fr": "famille" },
 

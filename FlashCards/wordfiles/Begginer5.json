@@ -2,6 +2,8 @@
 { "en": "lesson",        "ko": "수업",          "fi": "oppitunti",    "fr": "leçon" },
 { "en": "professor",        "ko": "교수",          "fi": "professeur",    "fr": "professori" },
 { "en": "dictionary",        "ko": "사전",          "fi": "sanakirja",    "fr": "dictionnaire" },
+{ "en": "question",       "ko": "문제",       "fi": "kysymys, asia",    "fr": "question" },
+{ "en": "answer",       "ko": "답변",       "fi": "vastaus",    "fr": "réponse" },
 { "en": "test",        "ko": "시험",          "fi": "koe, tentti",    "fr": "test, examen" },
 { "en": "science",       "ko": "과학",       "fi": "tiede",    "fr": "science" },
 { "en": "geometry",       "ko": "기하학",       "fi": "geometria",    "fr": "géométrie" },
@@ -11,11 +13,8 @@
 { "en": "choose",     "ko": "고르다",    "fi": "valita" , "fr":"choisir"},
 { "en": "choice",     "ko": "선택",    "fi": "valinta, valikoima" , "fr":"choix"},
 
-
 { "en": "warm",     "ko": "따뜻하다",    "fi": "lämmin" , "fr":"chaud"},
-
 { "en": "hole",        "ko": "구멍",          "fi": "reikä, aukko, kuoppa, kolo",    "fr": "trou" },
-
 { "en": "hang",        "ko": "걸다",          "fi": "riippua",    "fr": "pendre" },
 
 { "en": "war",        "ko": "전쟁",          "fi": "sota",    "fr": "guerre" },
@@ -26,11 +25,13 @@
 { "en": "fight",        "ko": "싸우다",          "fi": "taistella",    "fr": "combattre" },
 { "en": "defense",        "ko": "방어",          "fi": "puolustus",    "fr": "défense" },
 { "en": "attack",        "ko": "공격",          "fi": "hyökkäys",    "fr": "attaque" },
-
-
 { "en": "sword",        "ko": "검",          "fi": "miekka",    "fr": "épée" },
 { "en": "bow",        "ko": "활",          "fi": "jousi",    "fr": "arc" },
 { "en": "prosecutor",        "ko": "검사",          "fi": "syyttäjä",    "fr": "procureur" },
+
+{ "en": "president",        "ko": "대통령",          "fi": "presidentti",    "fr": "président" },
+{ "en": "president",        "ko": "정부",          "fi": "hallitus",    "fr": "gouvernement" },
+{ "en": "economy",        "ko": "경제",          "fi": "talous",    "fr": "économie" },
 
 { "en": "appear",       "ko": "나타나다",       "fi": "näyttää",    "fr": "apparaître" }
 

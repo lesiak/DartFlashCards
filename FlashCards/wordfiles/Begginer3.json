@@ -33,8 +33,9 @@
 { "en": "tongue",       "ko": "혀",         "fi": "kieli",    "fr": "langue" },
 { "en": "ear",       "ko": "귀",         "fi": "korva",    "fr": "oreille" },
 { "en": "body",       "ko": "몸",         "fi": "keho",    "fr": "corps" },
+{ "en": "body",       "ko": "손",         "fi": "käsi",    "fr": "main" },
 { "en": "doctor",       "ko": "의사",         "fi": "lääkäri, tohtori",    "fr": "médecin, docteur" },
-
+{ "en": "female",       "ko": "여성",         "fi": "nainen",    "fr": "femelle" },
 
 { "en": "cat",          "ko": "고양이",    "fi": "kissa",   "fr": "chat" },
 { "en": "tiger",      "ko": "호랑이",      "fi": "tiikeri",   "fr": "tigre" },

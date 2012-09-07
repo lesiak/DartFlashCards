@@ -10,8 +10,13 @@
 { "en": "lyrics",         "ko": "가사",       "fi": "sanoitus",          "fr": "paroles" },
 { "en": "recommend",         "ko": "추천하다",       "fi": "suositella",          "fr": "recommander" },
 { "en": "listen",         "ko": "듣다",       "fi": "kuunnella",          "fr": "écouter" },
-{ "en": "writer",         "ko": "작가",       "fi": "kirjoittaja, kirjailija",          "fr": "écrivain, auteur" }
+{ "en": "sound",         "ko": "소리",       "fi": "ääni",          "fr": "son" },
+{ "en": "music",         "ko": "음악",       "fi": "musiikki",          "fr": "musique" },
+{ "en": "concert",         "ko": "음악회",       "fi": "konsertti",          "fr": "concert" },
+{ "en": "writer",         "ko": "작가",       "fi": "kirjoittaja, kirjailija",          "fr": "écrivain, auteur" }, 
 
+{ "en": "after",         "ko": "후",       "fi": "jälkeen",          "fr": "après" },
+{ "en": "afternoon",         "ko": "오후에",       "fi": "iltapäivä",          "fr": "après-midi" }
 
 ]
         
