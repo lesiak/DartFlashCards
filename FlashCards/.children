@@ -1,6 +1,7 @@
 Card.dart
 Engine.dart
 FlashCardsUI.dart
+PronounciationManager.dart
 CardScore.dart
 ForvoApi.dart
 FlashCards.dart

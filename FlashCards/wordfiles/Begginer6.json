@@ -16,7 +16,14 @@
 { "en": "writer",         "ko": "작가",       "fi": "kirjoittaja, kirjailija",          "fr": "écrivain, auteur" }, 
 
 { "en": "after",         "ko": "후",       "fi": "jälkeen",          "fr": "après" },
-{ "en": "afternoon",         "ko": "오후에",       "fi": "iltapäivä",          "fr": "après-midi" }
+{ "en": "afternoon",         "ko": "오후에",       "fi": "iltapäivä",          "fr": "après-midi" },
+
+{ "en": "number",         "ko": "번호",       "fi": "numero",          "fr": "numéro" },
+{ "en": "long",         "ko": "길다",       "fi": "pitkä",          "fr": "long" },
+{ "en": "short",         "ko": "짧다",       "fi": "lyhyt",          "fr": "court" },
+{ "en": "far",         "ko": "멀다",       "fi": "kaukana",          "fr": "loin" },
+{ "en": "near",         "ko": "가깝다",       "fi": "lähellä",          "fr": "près de" }
+
 
 ]
         
