@@ -41,8 +41,8 @@
 { "en": "spoon",       "ko": "스푼",         "fi": "lusikka",    "fr": "cuillère" },
 { "en": "fork",       "ko": "포크",         "fi": "haarukka",    "fr": "fourchette" },
 { "en": "chopsticks",       "ko": "젓가락",         "fi": "syömäpuikot",    "fr": "baguettes" },
-{ "en": "cup",       "ko": "컵",         "fi": "kuppi",    "fr": "tasse" }
+{ "en": "cup",       "ko": "컵",         "fi": "kuppi",    "fr": "tasse" }, 
 
-
+{ "en": "pot",       "ko": "냄비",         "fi": "potti",    "fr": "casserole" }
 
 ]

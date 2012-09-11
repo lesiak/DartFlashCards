@@ -1,0 +1,35 @@
+[
+{ "en": "yellow",         "ko": "노란색",       "fi": "ladata",          "fr": "keltainen" },
+{ "en": "green",         "ko": "녹색",       "fi": "vihreä",          "fr": "vert" },
+
+{ "en": "cool, stylish, good-looking",         "ko": "멋있다",       "fi": "mahtava",          "fr": "excellent" },
+{ "en": "sexy",         "ko": "섹시하다",       "fi": "seksikäs",          "fr": "sexy" },
+
+{ "en": "noisy",         "ko": "시끄럽다",       "fi": "meluisa",          "fr": "bruyant" },
+{ "en": "collect",         "ko": "모으다",       "fi": "kerätä",          "fr": "recueillir" },
+{ "en": "save up",         "ko": "모으다",       "fi": "säästää",          "fr": "épargner" },
+
+{ "en": "according to",         "ko": "-에 따라서",       "fi": "mukaan",          "fr": "selon" },
+{ "en": "for example",         "ko": "예를 들어서",       "fi": "esimerkiksi",          "fr": "par exemple" },
+
+{ "en": "lie",         "ko": "거짓말",       "fi": "valhe",          "fr": "mensonge" },
+{ "en": "to lie",         "ko": "거짓말",       "fi": "valhe",          "fr": "mensonge" },
+{ "en": "fact",         "ko": "사실",       "fi": "tosiasia",          "fr": "fait, vérité" },
+
+{ "en": "angel",         "ko": "천사",       "fi": "enkeli",          "fr": "ange" },
+{ "en": "devil",         "ko": "악마",       "fi": "paholainen, piru , perkele",          "fr": "diable" },
+{ "en": "genius",         "ko": "천재",       "fi": "nero",          "fr": "génie" },
+
+{ "en": "beautiful",         "ko": "아름답다",       "fi": "kaunis",          "fr": "beau" },
+
+
+{ "en": "help",         "ko": "도움",       "fi": "apu, ohje",          "fr": "aide, secours" },
+{ "en": "to help",         "ko": "돕다",       "fi": "auttaa",          "fr": "aider" },
+
+{ "en": "hole",        "ko": "구멍",          "fi": "reikä, aukko, kuoppa, kolo",    "fr": "trou" },
+{ "en": "hang",        "ko": "걸다",          "fi": "riippua",    "fr": "pendre" }
+
+
+
+]
+        

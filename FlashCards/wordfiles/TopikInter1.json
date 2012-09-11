@@ -33,7 +33,7 @@
 { "en": "nail",       "ko": "손톱",       "fi": "kynsi",    "fr": "ongle" },
 { "en": "ankle",       "ko": "발목",       "fi": "nilkka",    "fr": "cheville" },
 { "en": "hip",       "ko": "엉덩이",       "fi": "lonkka, lanne ",    "fr": "hanche" },
-
+{ "en": "cheek",       "ko": "볼",         "fi": "poski",    "fr": "joue" },
 
 { "en": "land",    "ko": "땅",    "fi": "maa" , "fr":"terre"},
 

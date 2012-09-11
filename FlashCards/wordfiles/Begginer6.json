@@ -13,6 +13,7 @@
 { "en": "sound",         "ko": "소리",       "fi": "ääni",          "fr": "son" },
 { "en": "music",         "ko": "음악",       "fi": "musiikki",          "fr": "musique" },
 { "en": "concert",         "ko": "음악회",       "fi": "konsertti",          "fr": "concert" },
+{ "en": "ticket",         "ko": "표",       "fi": "lippu",          "fr": "billet" },
 { "en": "writer",         "ko": "작가",       "fi": "kirjoittaja, kirjailija",          "fr": "écrivain, auteur" }, 
 
 { "en": "after",         "ko": "후",       "fi": "jälkeen",          "fr": "après" },
@@ -22,8 +23,16 @@
 { "en": "long",         "ko": "길다",       "fi": "pitkä",          "fr": "long" },
 { "en": "short",         "ko": "짧다",       "fi": "lyhyt",          "fr": "court" },
 { "en": "far",         "ko": "멀다",       "fi": "kaukana",          "fr": "loin" },
-{ "en": "near",         "ko": "가깝다",       "fi": "lähellä",          "fr": "près de" }
+{ "en": "near",         "ko": "가깝다",       "fi": "lähellä",          "fr": "près de" },
 
+{ "en": "wide",         "ko": "넓다",       "fi": "leveä",          "fr": "large" },
+{ "en": "narrow",         "ko": "좁다",       "fi": "kapea",          "fr": "étroit" },
+
+
+{ "en": "ring",         "ko": "반지",       "fi": "sormus",          "fr": "anneau" },
+{ "en": "recharge",         "ko": "충전하다",       "fi": "ladata",          "fr": "recharger" },
+
+{ "en": "wall",         "ko": "담",       "fi": "seinä, muuri",          "fr": "mur" }
 
 ]
         

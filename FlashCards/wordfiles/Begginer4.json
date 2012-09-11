@@ -4,6 +4,9 @@
 { "en": "software",         "ko": "소프트웨어",      "fi": "ohjelmisto",    "fr": "logiciel" },
 { "en": "colleague",        "ko": "동료",             "fi": "kollega, virkaveli, virkatoveri",    "fr": "collègue" },
 
+{ "en": "Pleased to meet you",        "ko": "만나서 반가워요",             "fi": "Ilo tavata",    "fr": "c'est un plaisir de vous rencontrer, ravi de vous avoir rencontré" },
+
+
 { "en": "tired",        "ko": "피곤하다",             "fi": "väsynyt",    "fr": "fatigué" },
 { "en": "busy",        "ko": "바쁘다",             "fi": "kiireinen, työntäyteinen",    "fr": "occupé" },
 

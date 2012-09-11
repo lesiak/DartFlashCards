@@ -70,6 +70,13 @@ class FlashCardsUI {
   
   
   void getPronunciations(String lang, String word, String containerId, bool play) {    
+    if (word.contains(',')) {
+      word = word.split(',')[0];
+    }
+    else if (word.startsWith("to ")) {
+      word = word.substring(3);
+    }
+    
     // call the web server asynchronously
     Element container = query(containerId);
     PronounciationManager.getPronunciations(lang, word, (req) => onForvoSuccess(req, lang, word, container, play));

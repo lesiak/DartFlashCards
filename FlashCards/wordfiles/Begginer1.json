@@ -36,6 +36,7 @@
 { "en": "garden",        "ko": "정원",          "fi": "puutarha",    "fr": "jardin" },
 { "en": "park",        "ko": "공원",          "fi": "puisto",    "fr": "parc" },
 { "en": "tree",        "ko": "나무",          "fi": "puu",    "fr": "arbre" },
+{ "en": "leaf",        "ko": "잎",          "fi": "lehti",    "fr": "feuille" },
 { "en": "lake",        "ko": "호수",          "fi": "järvi",    "fr": "lac" },
 { "en": "sun",        "ko": "해",          "fi": "aurinko",    "fr": "soleil" },
 { "en": "moon",        "ko": "달",          "fi": "kuu",    "fr": "lune" },

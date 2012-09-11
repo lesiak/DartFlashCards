@@ -15,6 +15,9 @@
 { "en": "key",        "ko": "열쇠",          "fi": "uusi",    "fr": "nouveau" },
 { "en": "umbrella",     "ko": "우산",         "fi": "sateenvarjo",   "fr": "parapluie" },
 { "en": "eyeglasses",     "ko": "안경",         "fi": "silmälasit",   "fr": "lunettes" },
+{ "en": "wallet",     "ko": "지갑",         "fi": "lompakko",   "fr": "portefeuille" },
+
+{ "en": "to wear",     "ko": "입다",         "fi": "olla yllään",   "fr": "porter" },
 
 
 { "en": "hobby",        "ko": "취미",       "fi": "mieliharrastus", "fr": "hobby" },
@@ -33,7 +36,7 @@
 { "en": "tongue",       "ko": "혀",         "fi": "kieli",    "fr": "langue" },
 { "en": "ear",       "ko": "귀",         "fi": "korva",    "fr": "oreille" },
 { "en": "body",       "ko": "몸",         "fi": "keho",    "fr": "corps" },
-{ "en": "body",       "ko": "손",         "fi": "käsi",    "fr": "main" },
+{ "en": "hand",       "ko": "손",         "fi": "käsi",    "fr": "main" },
 { "en": "doctor",       "ko": "의사",         "fi": "lääkäri, tohtori",    "fr": "médecin, docteur" },
 { "en": "female",       "ko": "여성",         "fi": "nainen",    "fr": "femelle" },
 
@@ -47,6 +50,8 @@
 { "en": "fox",      "ko": "여우",     "fi": "kettu",   "fr": "renard" },
 { "en": "ant",      "ko": "개미",     "fi": "muurahainen",   "fr": "fourmi" },
 { "en": "snake",      "ko": "뱀",     "fi": "käärme",   "fr": "serpent" },
+{ "en": "bear",      "ko": "곰",     "fi": "karhu",   "fr": "ours" },
+{ "en": "butterfly",      "ko": "나비",     "fi": "perhonen",   "fr": "papillon" },
 
 { "en": "hamster",      "ko": "조선 쥐",     "fi": "hamsteri",   "fr": "hamster" },
 

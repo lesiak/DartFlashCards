@@ -2,9 +2,9 @@
 
 .flashcardQuestion {
  padding: 19px;
- padding-top: 30px;
- padding-bottom: 30px;
-  margin-bottom: 30px;
+ /*padding-top: 30px;
+ padding-bottom: 30px;*/
+  margin-bottom: 20px;
   background-color: #eeeeee;
   
   -webkit-border-radius: 6px;
@@ -49,21 +49,10 @@
   margin-bottom: 20px;
 }
 
-.show-grid [class*="span"] {
- /* text-align: center; */
-  -webkit-border-radius: 3px;
-     -moz-border-radius: 3px;
-          border-radius: 3px;
-  min-height: 30px;
-  line-height: 30px;
-}
-
-
 .show-grid .show-grid {
   margin-top: 0;
   margin-bottom: 0;
 }
-
 
 .table tbody tr.selectedTableRow a {
   color: #ffffff;

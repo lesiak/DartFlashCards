@@ -9,13 +9,19 @@
 { "en": "geometry",       "ko": "기하학",       "fi": "geometria",    "fr": "géométrie" },
 { "en": "biology",       "ko": "생물학",       "fi": "biologia",    "fr": "biologie" },
 { "en": "graduate",       "ko": "졸업하다",       "fi": " valmistua, suorittaa tutkinto, saada oppiarvo",    "fr": "obtenir sa licence, son diplôme" },
+{ "en": "diligently",       "ko": "열심히",       "fi": "ahkerasti",    "fr": "diligemment" },
+
+{ "en": "difficult",       "ko": "어렵다",       "fi": "vaikea",    "fr": "difficile" },
+{ "en": "easy",       "ko": "쉽다",       "fi": "helppo",    "fr": "facile" },
+
 
 { "en": "choose",     "ko": "고르다",    "fi": "valita" , "fr":"choisir"},
 { "en": "choice",     "ko": "선택",    "fi": "valinta, valikoima" , "fr":"choix"},
 
 { "en": "warm",     "ko": "따뜻하다",    "fi": "lämmin" , "fr":"chaud"},
-{ "en": "hole",        "ko": "구멍",          "fi": "reikä, aukko, kuoppa, kolo",    "fr": "trou" },
-{ "en": "hang",        "ko": "걸다",          "fi": "riippua",    "fr": "pendre" },
+{ "en": "cold",     "ko": "춥다",    "fi": "kylmä" , "fr":"froid"},
+{ "en": "hot",     "ko": "덥다",    "fi": "kuuma" , "fr":"chaud"},
+
 
 { "en": "war",        "ko": "전쟁",          "fi": "sota",    "fr": "guerre" },
 { "en": "soldier",        "ko": "군인",          "fi": "sotilas",    "fr": "soldat" },
