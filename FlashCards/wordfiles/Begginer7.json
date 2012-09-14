@@ -1,9 +1,15 @@
 [
+
+{ "en": "generally",         "ko": "일반적으로",       "fi": "yleensä, tavallisesti",          "fr": "généralement, en général" },
 { "en": "yellow",         "ko": "노란색",       "fi": "ladata",          "fr": "keltainen" },
 { "en": "green",         "ko": "녹색",       "fi": "vihreä",          "fr": "vert" },
 
 { "en": "cool, stylish, good-looking",         "ko": "멋있다",       "fi": "mahtava",          "fr": "excellent" },
 { "en": "sexy",         "ko": "섹시하다",       "fi": "seksikäs",          "fr": "sexy" },
+
+{ "en": "new",         "ko": "새로운",       "fi": "uusi",          "fr": "nouveau, neuf" },
+{ "en": "already",         "ko": "벌써",       "fi": "jo",          "fr": "déjà" },
+
 
 { "en": "noisy",         "ko": "시끄럽다",       "fi": "meluisa",          "fr": "bruyant" },
 { "en": "collect",         "ko": "모으다",       "fi": "kerätä",          "fr": "recueillir" },
@@ -11,23 +17,50 @@
 
 { "en": "according to",         "ko": "-에 따라서",       "fi": "mukaan",          "fr": "selon" },
 { "en": "for example",         "ko": "예를 들어서",       "fi": "esimerkiksi",          "fr": "par exemple" },
+{ "en": "example",         "ko": "예",       "fi": "esimerkki",          "fr": "exemple" },
 
 { "en": "lie",         "ko": "거짓말",       "fi": "valhe",          "fr": "mensonge" },
-{ "en": "to lie",         "ko": "거짓말",       "fi": "valhe",          "fr": "mensonge" },
+{ "en": "to lie",         "ko": "거짓말하다",       "fi": "valehdella",          "fr": "mentir" },
 { "en": "fact",         "ko": "사실",       "fi": "tosiasia",          "fr": "fait, vérité" },
+{ "en": "joke",         "ko": "농담",       "fi": "vitsi",          "fr": "blague" },
+{ "en": "sincere",         "ko": "진실하다",       "fi": "vilpitön",          "fr": "sincère" },
 
 { "en": "angel",         "ko": "천사",       "fi": "enkeli",          "fr": "ange" },
 { "en": "devil",         "ko": "악마",       "fi": "paholainen, piru , perkele",          "fr": "diable" },
 { "en": "genius",         "ko": "천재",       "fi": "nero",          "fr": "génie" },
+{ "en": "god",         "ko": "신",       "fi": "jumala",          "fr": "dieu" },
 
 { "en": "beautiful",         "ko": "아름답다",       "fi": "kaunis",          "fr": "beau" },
-
 
 { "en": "help",         "ko": "도움",       "fi": "apu, ohje",          "fr": "aide, secours" },
 { "en": "to help",         "ko": "돕다",       "fi": "auttaa",          "fr": "aider" },
 
+{ "en": "only",         "ko": "만",       "fi": "vain",          "fr": "seulement" },
+{ "en": "other",         "ko": "다른",       "fi": "muu",          "fr": "autre" },
+
 { "en": "hole",        "ko": "구멍",          "fi": "reikä, aukko, kuoppa, kolo",    "fr": "trou" },
-{ "en": "hang",        "ko": "걸다",          "fi": "riippua",    "fr": "pendre" }
+{ "en": "hang",        "ko": "걸다",          "fi": "riippua",    "fr": "pendre" },
+{ "en": "own",        "ko": "자기의",          "fi": "oma",    "fr": "propre" },
+
+{ "en": "soon, immediately",        "ko": "금방",          "fi": "heti",    "fr": "immédiatement" },
+{ "en": "long, for a long time",        "ko": "오래",          "fi": "kauan",    "fr": "longtemps" },
+{ "en": "to change, to transfer to another vehicle",        "ko": "갈아타다",          "fi": "vaihtaa",    "fr": "changer" },
+{ "en": "to change, to replace one's own clothing",        "ko": " 갈아입다",          "fi": "vaihtaa vaatteet",    "fr": "se changer" }, 
+
+{ "en": "line",        "ko": " 호선",          "fi": "linja",    "fr": "ligne de métro" },
+{ "en": "doll",        "ko": "인형",          "fi": "nukke",    "fr": "poupée" },
+{ "en": "separately",        "ko": "따로",          "fi": "erillään",    "fr": "séparément" }, 
+{ "en": "method",        "ko": "방법",          "fi": "menetelmä, metodi",    "fr": "méthode" },
+{ "en": "other side",        "ko": "건너편",          "fi": "?",    "fr": "?" },
+{ "en": "stay",        "ko": "머무르다",          "fi": "jäädä, ",    "fr": "rester" },
+{ "en": "take",        "ko": "?",          "fi": "ottaa",    "fr": "prendre" },
+{ "en": "percent",        "ko": "퍼센트",          "fi": "prosentti",    "fr": "pour cent" },
+{ "en": "part",        "ko": "부분",          "fi": "partie",    "fr": "pour cent" },
+{ "en": "region",        "ko": "지방",          "fi": "alue",    "fr": "région" },
+{ "en": "get to",        "ko": "?",          "fi": "päästä",    "fr": "?" },
+{ "en": "arrive",        "ko": "도착하다",          "fi": "saapua",    "fr": "arriver" }
+
+
 
 
 

@@ -1,4 +1,5 @@
 [
+{ "en": "company",           "ko": "회사",           "fi": "yritys, yhtiö",    "fr": "entreprise, société" },
 { "en": "office",           "ko": "사무실",           "fi": "toimisto, konttori",    "fr": "bureau" },
 { "en": "programmer",       "ko": "프로그래머",      "fi": "ohjelmoija",    "fr": "programmeur" },
 { "en": "software",         "ko": "소프트웨어",      "fi": "ohjelmisto",    "fr": "logiciel" },
@@ -19,8 +20,7 @@
 { "en": "nurse",    "ko": "간호사",    "fi": "sairaanhoitaja" , "fr":"infirmière"},
 { "en": "waiter",    "ko": "웨이터",    "fi": "tarjoilija" , "fr":"serveur"},
 
-
-{ "en": "travel",       "ko": "여행하다",       "fi": "matkustaa",    "fr": "voyager" },
+{ "en": "to travel",       "ko": "여행하다",       "fi": "matkustaa",    "fr": "voyager" },
 { "en": "tourist",       "ko": "관광객",       "fi": "turisti, matkailija",    "fr": "touriste" },
 { "en": "photo",     "ko": "사진",       "fi": "kuva",     "fr": "photo" },
 { "en": "passport",     "ko": "여권",       "fi": "passi",     "fr": "passeport" },
@@ -29,17 +29,13 @@
 { "en": "clean",    "ko": "깨끗하다",    "fi": "puhdas" , "fr":"propre"},
 { "en": "dirty",    "ko": "더럽다",         "fi": "likainen" , "fr":"sale"},
 
-
-
-
-
-{ "en": "give",         "ko": "주다",       "fi": "antaa",    "fr": "donner" },
-{ "en": "receive",         "ko": "받다",       "fi": "saada",    "fr": "recevoir" },
-{ "en": "borrow",        "ko": "빌리다",          "fi": "lainata, ottaa lainaksi",    "fr": "emprunter" },
-{ "en": "lend",        "ko": "빌려주다",          "fi": "lainata, antaa lainaksi",    "fr": "prêter" },
+{ "en": "to give",         "ko": "주다",       "fi": "antaa",    "fr": "donner" },
+{ "en": "to receive",         "ko": "받다",       "fi": "saada",    "fr": "recevoir" },
+{ "en": "to borrow",        "ko": "빌리다",          "fi": "lainata, ottaa lainaksi",    "fr": "emprunter" },
+{ "en": "to lend",        "ko": "빌려주다",          "fi": "lainata, antaa lainaksi",    "fr": "prêter" },
 { "en": "present",        "ko": "선물",          "fi": "lahja",    "fr": "cadeau" },
+{ "en": "to need",         "ko": "필요하다",       "fi": "tarvita",          "fr": "avoir besoin de" },
 
-{ "en": "doll",        "ko": "인형",          "fi": "nukke",    "fr": "poupée" },
 { "en": "joyful",        "ko": "즐겁다",          "fi": "iloinen",    "fr": "joyeux" },
 { "en": "healthy",        "ko": "건강하다",          "fi": "terveellinen",    "fr": "en bonne santé" },
 
@@ -49,8 +45,6 @@
 { "en": "significantly",        "ko": "크게",          "fi": "merkittävästi",    "fr": "significativement" },
 { "en": "advertisment",        "ko": "광고",          "fi": "mainos",    "fr": "publicité" },
 { "en": "training",        "ko": "훈련",          "fi": "harjoitus",    "fr": "entraînement" },
-
-
 
 { "en": "same",        "ko": "같다",          "fi": "samanlainen",    "fr": "même" },
 { "en": "similar",        "ko": "비슷하다",          "fi": "samanlainen",    "fr": "similaire, semblable" },

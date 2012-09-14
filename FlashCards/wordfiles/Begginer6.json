@@ -32,7 +32,14 @@
 { "en": "ring",         "ko": "반지",       "fi": "sormus",          "fr": "anneau" },
 { "en": "recharge",         "ko": "충전하다",       "fi": "ladata",          "fr": "recharger" },
 
-{ "en": "wall",         "ko": "담",       "fi": "seinä, muuri",          "fr": "mur" }
+{ "en": "wall",         "ko": "담",       "fi": "seinä, muuri",          "fr": "mur" },
+{ "en": "country",         "ko": "나라",       "fi": "maa",          "fr": "pays" },
+
+{ "en": "shadow",        "ko": "그림자",          "fi": "varjo",    "fr": "ombre" },
+{ "en": "memory",         "ko": "기억",       "fi": "muisto",    "fr": "souvenir" },
+{ "en": "remember",         "ko": "기억하다",       "fi": "muistaa",    "fr": "rappeler" }
+
+
 
 ]
         

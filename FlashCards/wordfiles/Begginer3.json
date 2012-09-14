@@ -60,17 +60,17 @@
 { "en": "letter",     "ko": "편지",       "fi": "kirje",     "fr": "lettre" },
 { "en": "send",     "ko": "보내다",       "fi": "lähettää",     "fr": "envoyer" },
 
+{ "en": "now",        "ko": "지금",          "fi": "nyt",    "fr": "maintenant" },
 { "en": "today",        "ko": "오늘",          "fi": "tänään",    "fr": "aujourd'hui" },
+{ "en": "year",        "ko": "년",          "fi": "vuosi",    "fr": "année" },
+{ "en": "last year",        "ko": "작년",          "fi": "viime vuonna",    "fr": "année dernière" },
 
 { "en": "think",        "ko": "생각하다",          "fi": "ajatella",    "fr": "penser" },
 { "en": "live, dwell",        "ko": "살다",          "fi": "asua",    "fr": "habiter" },
 
 { "en": "enter",        "ko": "들어가다",          "fi": "astua sisään",    "fr": "entrer" },
+{ "en": "come",        "ko": "오다",          "fi": "tulla",    "fr": "venir" },
 { "en": "search",        "ko": "찾다",          "fi": "hakea",    "fr": "chercher" },
-{ "en": "find",        "ko": "발견하다",          "fi": "löytää",    "fr": "trouver" },
-
-{ "en": "shadow",        "ko": "그림자",          "fi": "varjo",    "fr": "ombre" },
-{ "en": "memory",         "ko": "기억",       "fi": "muisto",    "fr": "souvenir" },
-{ "en": "remember",         "ko": "기억하다",       "fi": "muistaa",    "fr": "rappeler" }
+{ "en": "find",        "ko": "발견하다",          "fi": "löytää",    "fr": "trouver" }
 
 ]

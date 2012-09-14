@@ -4,9 +4,13 @@
 { "en": "dictionary",        "ko": "사전",          "fi": "sanakirja",    "fr": "dictionnaire" },
 { "en": "question",       "ko": "문제",       "fi": "kysymys, asia",    "fr": "question" },
 { "en": "answer",       "ko": "답변",       "fi": "vastaus",    "fr": "réponse" },
+{ "en": "topic",       "ko": "주제",       "fi": "aihe",    "fr": "sujet" },
+
 { "en": "test",        "ko": "시험",          "fi": "koe, tentti",    "fr": "test, examen" },
 { "en": "science",       "ko": "과학",       "fi": "tiede",    "fr": "science" },
 { "en": "geometry",       "ko": "기하학",       "fi": "geometria",    "fr": "géométrie" },
+{ "en": "mathematics",       "ko": "수학",       "fi": "matematiikka",    "fr": "mathématiques" },
+ 
 { "en": "biology",       "ko": "생물학",       "fi": "biologia",    "fr": "biologie" },
 { "en": "graduate",       "ko": "졸업하다",       "fi": " valmistua, suorittaa tutkinto, saada oppiarvo",    "fr": "obtenir sa licence, son diplôme" },
 { "en": "diligently",       "ko": "열심히",       "fi": "ahkerasti",    "fr": "diligemment" },

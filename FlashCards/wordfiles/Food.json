@@ -1,12 +1,5 @@
 [
 
-{ "en": "buy",         "ko": "사다",       "fi": "ostaa",    "fr": "acheter" },
-{ "en": "sell",         "ko": "팔다",       "fi": "myydä",    "fr": "vendre" },
-{ "en": "open",    "ko": "열다",       "fi": "auki",    "fr": "ouvert" },
-
-{ "en": "price",        "ko": "가격",     "fi": "hinta",    "fr": "prix" },
-{ "en": "weight",       "ko": "무게",         "fi": "paino",    "fr": "poids" },
-
 { "en": "food",       "ko": "음식",         "fi": "ruoka",    "fr": "nourritures" },
 { "en": "powder",       "ko": "가루",         "fi": "jauhe",    "fr": "poudre" },
 { "en": "flour",       "ko": "가루",         "fi": "jauhot",    "fr": "farine" },
@@ -21,6 +14,9 @@
 { "en": "cucumber",       "ko": "오이",         "fi": "kurkku",    "fr": "concombre" },
 { "en": "carrot",       "ko": "당근",         "fi": "porkkana",    "fr": "carotte" },
 { "en": "aubergine",       "ko": "가지",         "fi": "munakoiso",    "fr": "aubergine" },
+
+{ "en": "soup",       "ko": "국",         "fi": "keitto",    "fr": "soupe" },
+
 
 { "en": "ice",       "ko": "얼음",         "fi": "jää",    "fr": "glace" },
 { "en": "hot pepper",       "ko": "고추",         "fi": "kuuma pippuria",    "fr": "piment" },
