@@ -1,6 +1,8 @@
 [
 
 { "en": "food",       "ko": "음식",         "fi": "ruoka",    "fr": "nourritures" },
+{ "en": "I am hungry",       "ko": "배고파요",         "fi": "Minulla on nälkä",    "fr": "J'ai faim" },
+
 { "en": "powder",       "ko": "가루",         "fi": "jauhe",    "fr": "poudre" },
 { "en": "flour",       "ko": "가루",         "fi": "jauhot",    "fr": "farine" },
 { "en": "bread",       "ko": "빵",         "fi": "leipä",    "fr": "pain" },
@@ -14,6 +16,10 @@
 { "en": "cucumber",       "ko": "오이",         "fi": "kurkku",    "fr": "concombre" },
 { "en": "carrot",       "ko": "당근",         "fi": "porkkana",    "fr": "carotte" },
 { "en": "aubergine",       "ko": "가지",         "fi": "munakoiso",    "fr": "aubergine" },
+{ "en": "potato",       "ko": "감자",         "fi": "peruna",    "fr": "pomme de terre" },
+
+{ "en": "fruit",       "ko": "과일",         "fi": "hedelmä",    "fr": "fruit" },
+
 
 { "en": "soup",       "ko": "국",         "fi": "keitto",    "fr": "soupe" },
 
@@ -27,6 +33,9 @@
 { "en": "vodka",       "ko": "보드카",         "fi": "vodka",    "fr": "vodka" },
 { "en": "wine",       "ko": "포도주",         "fi": "viini",    "fr": "vin" },
 { "en": "honey",       "ko": "꿀",         "fi": "hunaja",    "fr": "miel" },
+{ "en": "candy",       "ko": "사탕",         "fi": "karkki, karamelli",    "fr": "bonbon" },
+
+고프다
 
 { "en": "sweet",       "ko": "달다",         "fi": "makea",    "fr": "doux" },
 { "en": "bitter",       "ko": "쓰다",         "fi": "kitkerä",    "fr": "amer" },

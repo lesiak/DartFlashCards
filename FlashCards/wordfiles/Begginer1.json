@@ -8,7 +8,7 @@
 { "en": "bicycle",      "ko": "자전거",  	"fi": "polkupyörä",    "fr": "vélo" },
 { "en": "ship",         "ko": "배",      	"fi": "laiva",    "fr": "bateau" },
 { "en": "airplane",         "ko": "비행기",      	"fi": "lentokone",    "fr": "avion" },
-{ "en": "airport",         "ko": "공항",      	"fi": "lentokone",    "fr": "aéroport" },
+{ "en": "airport",         "ko": "공항",      	"fi": "lentokenttä",    "fr": "aéroport" },
 { "en": "balloon",         "ko": "풍선",          "fi": "ilmapallo",    "fr": "ballon" },
 { "en": "fly",     "ko": "날다",       "fi": "lentää",     "fr": "voler" },
 { "en": "drive",       "ko": "운전하다",       "fi": "kuljettaa",    "fr": "conduire" },
@@ -51,7 +51,7 @@
 { "en": "wind",        "ko": "바람",          "fi": "tuuli",    "fr": "vent" },
 
 { "en": "family",       "ko": "가족",     	"fi": "perhe",   "fr": "famille" },
-
+{ "en": "child",        "ko": "아이",          "fi": "lapsi",    "fr": "enfant" },
 
 { "en": "sit",         "ko": "앉다",       "fi": "istua",    "fr": "être assis" },
 { "en": "stand",         "ko": "서다",       "fi": "seisoa",    "fr": "être debout" },

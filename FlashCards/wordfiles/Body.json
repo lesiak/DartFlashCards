@@ -1,0 +1,30 @@
+[
+
+
+{ "en": "chest",       "ko": "가슴",         "fi": "rinta",    "fr": "poitrine" },
+{ "en": "heart",       "ko": "심장",         "fi": "sydän",    "fr": "cœur" },
+{ "en": "leg",       "ko": "다리",         "fi": "jalka",    "fr": "jambe" },
+{ "en": "foot",       "ko": "발",         "fi": "jalka",    "fr": "pied" },
+{ "en": "neck",       "ko": "목",         "fi": "kaula",    "fr": "cou" },
+{ "en": "tongue",       "ko": "혀",         "fi": "kieli",    "fr": "langue" },
+{ "en": "ear",       "ko": "귀",         "fi": "korva",    "fr": "oreille" },
+{ "en": "body",       "ko": "몸",         "fi": "keho",    "fr": "corps" },
+{ "en": "hand",       "ko": "손",         "fi": "käsi",    "fr": "main" },
+{ "en": "head",       "ko": "머리",         "fi": "pää",    "fr": "tête" },
+{ "en": "doctor",       "ko": "의사",         "fi": "lääkäri, tohtori",    "fr": "médecin, docteur" },
+
+{ "en": "brain",       "ko": "뇌",         "fi": "aivot",    "fr": "cerveau" },
+{ "en": "(a) cold",        "ko": "감기",          "fi": "nuha",    "fr": "rhume" }, 
+{ "en": "female",       "ko": "여성",         "fi": "nainen",    "fr": "femelle" },
+
+{ "en": "liver",       "ko": "간",       "fi": "maksa",    "fr": "foie" },
+{ "en": "eyebrow",       "ko": "눈썹",       "fi": "kulmakarva",    "fr": "sourcil" },
+{ "en": "nail",       "ko": "손톱",       "fi": "kynsi",    "fr": "ongle" },
+{ "en": "ankle",       "ko": "발목",       "fi": "nilkka",    "fr": "cheville" },
+{ "en": "hip",       "ko": "엉덩이",       "fi": "lonkka, lanne ",    "fr": "hanche" },
+{ "en": "cheek",       "ko": "볼",         "fi": "poski",    "fr": "joue" }
+
+
+
+
+]

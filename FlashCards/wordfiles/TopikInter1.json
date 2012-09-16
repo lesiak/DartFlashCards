@@ -28,12 +28,6 @@
 
 
 
-{ "en": "liver",       "ko": "간",       "fi": "maksa",    "fr": "foie" },
-{ "en": "eyebrow",       "ko": "눈썹",       "fi": "kulmakarva",    "fr": "sourcil" },
-{ "en": "nail",       "ko": "손톱",       "fi": "kynsi",    "fr": "ongle" },
-{ "en": "ankle",       "ko": "발목",       "fi": "nilkka",    "fr": "cheville" },
-{ "en": "hip",       "ko": "엉덩이",       "fi": "lonkka, lanne ",    "fr": "hanche" },
-{ "en": "cheek",       "ko": "볼",         "fi": "poski",    "fr": "joue" },
 
 { "en": "land",    "ko": "땅",    "fi": "maa" , "fr":"terre"},
 
@@ -42,8 +36,11 @@
 { "en": "toilet paper",        "ko": "화장지",    	"fi": "vessapaperi",    "fr": "papier de toilette, papier-cul, abbreviated PQ" },
 
 
-{ "en": "discussion",    "ko": "토론",    "fi": "keskustelu" , "fr":"discussion"}
+{ "en": "discussion",    "ko": "토론",    "fi": "keskustelu" , "fr":"discussion"},
 { "en": "skipping rope",     "ko": "밧줄을 건너 뛰는",       "fi": "hyppynaru",     "fr": "corde à sauter" },
 
+{ "en": "amount",     "ko": "",       "fi": "määrä (fi), lukumäärä",     "fr": " quantité (fr), nombre (fr), montant" },
+{ "en": "demand",     "ko": "요구하다, 필요로하다",       "fi": "vaatia",     "fr": "exiger" },
+{ "en": "perform (in front of an audience)",     "ko": "",       "fi": " esittää",     "fr": "jouer (actor), danser (dancer), chanter (singer)" }
 
 ]

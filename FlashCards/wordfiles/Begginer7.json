@@ -4,10 +4,7 @@
 { "en": "yellow",         "ko": "노란색",       "fi": "ladata",          "fr": "keltainen" },
 { "en": "green",         "ko": "녹색",       "fi": "vihreä",          "fr": "vert" },
 
-{ "en": "cool, stylish, good-looking",         "ko": "멋있다",       "fi": "mahtava",          "fr": "excellent" },
-{ "en": "sexy",         "ko": "섹시하다",       "fi": "seksikäs",          "fr": "sexy" },
 
-{ "en": "new",         "ko": "새로운",       "fi": "uusi",          "fr": "nouveau, neuf" },
 { "en": "already",         "ko": "벌써",       "fi": "jo",          "fr": "déjà" },
 
 
@@ -30,7 +27,7 @@
 { "en": "genius",         "ko": "천재",       "fi": "nero",          "fr": "génie" },
 { "en": "god",         "ko": "신",       "fi": "jumala",          "fr": "dieu" },
 
-{ "en": "beautiful",         "ko": "아름답다",       "fi": "kaunis",          "fr": "beau" },
+
 
 { "en": "help",         "ko": "도움",       "fi": "apu, ohje",          "fr": "aide, secours" },
 { "en": "to help",         "ko": "돕다",       "fi": "auttaa",          "fr": "aider" },
@@ -51,17 +48,36 @@
 { "en": "doll",        "ko": "인형",          "fi": "nukke",    "fr": "poupée" },
 { "en": "separately",        "ko": "따로",          "fi": "erillään",    "fr": "séparément" }, 
 { "en": "method",        "ko": "방법",          "fi": "menetelmä, metodi",    "fr": "méthode" },
-{ "en": "other side",        "ko": "건너편",          "fi": "?",    "fr": "?" },
+
 { "en": "stay",        "ko": "머무르다",          "fi": "jäädä, ",    "fr": "rester" },
 { "en": "take",        "ko": "?",          "fi": "ottaa",    "fr": "prendre" },
 { "en": "percent",        "ko": "퍼센트",          "fi": "prosentti",    "fr": "pour cent" },
 { "en": "part",        "ko": "부분",          "fi": "partie",    "fr": "pour cent" },
 { "en": "region",        "ko": "지방",          "fi": "alue",    "fr": "région" },
-{ "en": "get to",        "ko": "?",          "fi": "päästä",    "fr": "?" },
-{ "en": "arrive",        "ko": "도착하다",          "fi": "saapua",    "fr": "arriver" }
 
 
 
+
+
+{ "en": "to function",       "ko": "?",       "fi": "toimia",    "fr": "marcher, fonctionner" },
+{ "en": "to use",       "ko": "사용하다, 쓰다",       "fi": "käyttää",    "fr": "utiliser, se servir de" },
+{ "en": "belong",       "ko": "속하다",       "fi": "kuulua",    "fr": "appartenir à, être membre de" },
+{ "en": "get up",       "ko": "일어나다",       "fi": "nousta",    "fr": "se lever" },
+
+{ "en": "see",       "ko": "보다",       "fi": "nähdä",    "fr": "voir" },
+{ "en": "time (occurence)",       "ko": "번",       "fi": "kerta",    "fr": "fois" },
+{ "en": "situation",       "ko": "?",       "fi": "tilanne",    "fr": "situation" },
+{ "en": "knowledge",       "ko": "지식",       "fi": "tieto",    "fr": "connaissance" },
+{ "en": "finish (intr)",       "ko": "끝나다",       "fi": "loppua",    "fr": "finir, terminer" },
+{ "en": "finish (sth)",       "ko": "끝내다",       "fi": "lopettaa",    "fr": "finir, terminer" },
+{ "en": "know",       "ko": "알다",       "fi": "tietää",    "fr": "savoir, connaître" },
+{ "en": "always",       "ko": "항상 (ko) (hangsang), 늘 (ko) (neul), 언제나",       "fi": "aina",    "fr": "toujours" },
+{ "en": "believe",       "ko": "믿다",       "fi": "uskoa",    "fr": "croire" },
+{ "en": "to end up",       "ko": " ?",       "fi": "joutua",    "fr": "?" },
+{ "en": "fisherman",    "ko": "어부",    "fi": "kalastaja" , "fr":"pêcheur"},
+{ "en": "nurse",    "ko": "간호사",    "fi": "sairaanhoitaja" , "fr":"infirmière"},
+{ "en": "waiter",    "ko": "웨이터",    "fi": "tarjoilija" , "fr":"serveur"},
+{ "en": "traffic",    "ko": "교통",    "fi": "liikenne" , "fr":"circulation"}
 
 
 ]

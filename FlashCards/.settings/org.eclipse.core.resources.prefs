@@ -1,4 +1,5 @@
 eclipse.preferences.version=1
+encoding//wordfiles/Animals.json=UTF-8
 encoding//wordfiles/Begginer1.json=UTF-8
 encoding//wordfiles/Begginer2.json=UTF-8
 encoding//wordfiles/Begginer3.json=UTF-8
@@ -6,6 +7,7 @@ encoding//wordfiles/Begginer4.json=UTF-8
 encoding//wordfiles/Begginer5.json=UTF-8
 encoding//wordfiles/Begginer6.json=UTF-8
 encoding//wordfiles/Begginer7.json=UTF-8
+encoding//wordfiles/Body.json=UTF-8
 encoding//wordfiles/Food.json=UTF-8
 encoding//wordfiles/TopikInter1.json=UTF-8
 encoding/FlashCards.html=UTF-8

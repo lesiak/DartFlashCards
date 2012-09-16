@@ -1,4 +1,18 @@
 [
+{ "en": "hobby",        "ko": "취미",       "fi": "mieliharrastus", "fr": "hobby" },
+{ "en": "football",     "ko": "축구",       "fi": "jalkapallo",     "fr": "football" },
+{ "en": "volleyball",     "ko": "배구",       "fi": "lentopallo",     "fr": "volley-ball" },
+{ "en": "basketball",     "ko": "농구",       "fi": "koripallo",     "fr": "basket-ball" },
+{ "en": "baseball",     "ko": "야구",       "fi": "baseball",     "fr": "base-ball" },
+
+{ "en": "jump",     "ko": "뛰다",       "fi": "hypätä",     "fr": "sauter" },
+{ "en": "run",     "ko": "달리다",       "fi": "juosta",     "fr": "courir" },
+{ "en": "swim",     "ko": "수영하다",       "fi": "uida",     "fr": "nager" },
+{ "en": "swimming pool",     "ko": "수영장",       "fi": "uimahalli",     "fr": "piscine" },
+
+
+ 
+ 
 { "en": "culture",      "ko": "문화",    "fi": "kulttuuri",         "fr": "culture" },
 { "en": "magazine",     "ko": "잡지",   "fi": "aikakauslehti",      "fr": "magazine" },
 { "en": "paper",        "ko": "종이",      "fi": "paperi",          "fr": "papier" },
@@ -16,8 +30,11 @@
 { "en": "ticket",         "ko": "표",       "fi": "lippu",          "fr": "billet" },
 { "en": "writer",         "ko": "작가",       "fi": "kirjoittaja, kirjailija",          "fr": "écrivain, auteur" }, 
 
-{ "en": "after",         "ko": "후",       "fi": "jälkeen",          "fr": "après" },
-{ "en": "afternoon",         "ko": "오후에",       "fi": "iltapäivä",          "fr": "après-midi" },
+{ "en": "guitar",         "ko": "기타",       "fi": "kitara",          "fr": "guitare" }, 
+{ "en": "piano",         "ko": "피아노",       "fi": "piano",          "fr": "piano" },
+{ "en": "saxophone",         "ko": "색소폰",       "fi": "saksofoni",          "fr": "saxophone" },
+
+
 
 { "en": "number",         "ko": "번호",       "fi": "numero",          "fr": "numéro" },
 { "en": "long",         "ko": "길다",       "fi": "pitkä",          "fr": "long" },
@@ -27,13 +44,14 @@
 
 { "en": "wide",         "ko": "넓다",       "fi": "leveä",          "fr": "large" },
 { "en": "narrow",         "ko": "좁다",       "fi": "kapea",          "fr": "étroit" },
+{ "en": "heavy",         "ko": "무거운",       "fi": "painava",          "fr": "lourd" },
+
+{ "en": "light",         "ko": "가볍다",       "fi": "kevyt",          "fr": "léger" },
 
 
 { "en": "ring",         "ko": "반지",       "fi": "sormus",          "fr": "anneau" },
 { "en": "recharge",         "ko": "충전하다",       "fi": "ladata",          "fr": "recharger" },
 
-{ "en": "wall",         "ko": "담",       "fi": "seinä, muuri",          "fr": "mur" },
-{ "en": "country",         "ko": "나라",       "fi": "maa",          "fr": "pays" },
 
 { "en": "shadow",        "ko": "그림자",          "fi": "varjo",    "fr": "ombre" },
 { "en": "memory",         "ko": "기억",       "fi": "muisto",    "fr": "souvenir" },

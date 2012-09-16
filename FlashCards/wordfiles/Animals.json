@@ -1,0 +1,28 @@
+[
+
+
+{ "en": "cat",          "ko": "고양이",    "fi": "kissa",   "fr": "chat" },
+{ "en": "tiger",      "ko": "호랑이",      "fi": "tiikeri",   "fr": "tigre" },
+{ "en": "lion",      "ko": "사자",    "fi": "leijona",   "fr": "lion" },
+{ "en": "dog",      "ko": "개",      "fi": "koira",   "fr": "chien" },
+{ "en": "chicken",      "ko": "닭",      "fi": "kana",   "fr": "poulet" },
+{ "en": "pig",      "ko": "돼지",     "fi": "leijona",   "fr": "cochon" },
+{ "en": "sheep",      "ko": "양",     "fi": "lammas",   "fr": "mouton" },
+{ "en": "fox",      "ko": "여우",     "fi": "kettu",   "fr": "renard" },
+{ "en": "ant",      "ko": "개미",     "fi": "muurahainen",   "fr": "fourmi" },
+{ "en": "snake",      "ko": "뱀",     "fi": "käärme",   "fr": "serpent" },
+{ "en": "bear",      "ko": "곰",     "fi": "karhu",   "fr": "ours" },
+{ "en": "butterfly",      "ko": "나비",     "fi": "perhonen",   "fr": "papillon" },
+{ "en": "bird",      "ko": "새",     "fi": "lintu",   "fr": "oiseau" },
+{ "en": "duck",      "ko": "오리",     "fi": "ankka",   "fr": "canard" },
+{ "en": "cow",      "ko": "오리",     "fi": "vache",   "fr": "lehmä" },
+{ "en": "horse",      "ko": "말",     "fi": "hevonen",   "fr": "cheval" },
+
+
+
+
+{ "en": "hamster",      "ko": "조선 쥐",     "fi": "hamsteri",   "fr": "hamster" }
+
+
+
+]

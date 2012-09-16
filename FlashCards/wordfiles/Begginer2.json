@@ -12,6 +12,7 @@
 { "en": "floor",   	"ko": "층", 	 "fi": "kerros" ,   "fr":"étage"},
 { "en": "lift",   	"ko": "엘리베이터", 	 "fi": "hissi" ,   "fr":"ascenseur"},
 { "en": "staircase",     "ko": "계단",   "fi": "portaikko" ,   "fr":"escalier"},
+{ "en": "street",     "ko": "거리",   "fi": "katu" ,   "fr":"rue"},
 { "en": "alley, backstreet",     "ko": "골목",   "fi": "kuja" ,   "fr":"ruelle"},
 
 { "en": "architecture",     "ko": " 건축학",   "fi": "arkkitehtuuri" ,   "fr":"architecture"},
@@ -22,10 +23,21 @@
 { "en": "library",      "ko": "도서관",   "fi": "kirjasto",         "fr": "bibliothèque" },
 { "en": "shop",      "ko": "가게",   "fi": "myymälä, kauppa",         "fr": "magasin, boutique" },
 
+{ "en": "get to",        "ko": "?",          "fi": "päästä",    "fr": "?" },
+{ "en": "arrive",        "ko": "도착하다",          "fi": "saapua",    "fr": "arriver" },
+{ "en": "to leave (from)",        "ko": "떠나다",          "fi": "lähteä",    "fr": "partir" },
+
+{ "en": "other side",        "ko": "건너편",          "fi": "?",    "fr": "?" },
+{ "en": "wall",         "ko": "담",       "fi": "seinä, muuri",          "fr": "mur" },
+{ "en": "country",         "ko": "나라",       "fi": "maa",          "fr": "pays" },
+
 
 
 { "en": "buy",         "ko": "사다",       "fi": "ostaa",    "fr": "acheter" },
 { "en": "sell",         "ko": "팔다",       "fi": "myydä",    "fr": "vendre" },
+{ "en": "pay",         "ko": "지불하다",       "fi": "maksaa",    "fr": "payer" },
+{ "en": "bring",     "ko": " 가져오다 ",       "fi": "touda",     "fr": "apporter, amener" },
+
 { "en": "open",    "ko": "열다",       "fi": "auki",    "fr": "ouvert" },
 
 { "en": "price",        "ko": "가격",    	"fi": "hinta",    "fr": "prix" },
@@ -37,6 +49,8 @@
 { "en": "morning",       "ko": "아침",         "fi": "aamu",    "fr": "matin" },
 { "en": "evening",       "ko": "저녁",         "fi": "ilta",    "fr": "soir" },
 { "en": "night",       "ko": "밤",         "fi": "yö",    "fr": "nuit" },
+
+
 
 { "en": "breakfast",       "ko": "아침",         "fi": "aamiainen",    "fr": "petit déjeuner" },
 { "en": "lunch",       "ko": "점심",         "fi": "lounas",    "fr": "déjeuner" },
