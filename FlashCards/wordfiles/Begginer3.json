@@ -54,6 +54,9 @@
 
 { "en": "come",        "ko": "오다",          "fi": "tulla",    "fr": "venir" },
 { "en": "enter",        "ko": "들어가다",          "fi": "astua sisään",    "fr": "entrer" },
+{ "en": "walk",        "ko": "걸어가다",          "fi": "kävellä",    "fr": "marcher (fr), se promener" },
+
+
 { "en": "search",        "ko": "찾다",          "fi": "hakea",    "fr": "chercher" },
 { "en": "find",        "ko": "발견하다",          "fi": "löytää",    "fr": "trouver" }
 

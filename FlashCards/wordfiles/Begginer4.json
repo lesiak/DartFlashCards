@@ -54,8 +54,8 @@
 { "en": "become",        "ko": "되다",          "fi": "tulla",    "fr": "devenir" },
 
 { "en": "put",       "ko": " 두다",       "fi": "panna",    "fr": "placer, mettre" }, 
-{ "en": "small",       "ko": " 작다",       "fi": "pieni",    "fr": "petit" }
-
-
+{ "en": "small",       "ko": " 작다",       "fi": "pieni",    "fr": "petit" }, 
+{ "en": "heavy",       "ko": " 가볍다",       "fi": "painava",    "fr": "léger" },
+{ "en": "light (weight)",       "ko": " 무거운",       "fi": "kevyt",    "fr": "lourd" }
 
 ]

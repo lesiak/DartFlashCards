@@ -22,7 +22,7 @@
 
 
 { "en": "soup",       "ko": "국",         "fi": "keitto",    "fr": "soupe" },
-
+{ "en": "meat",       "ko": "고기",         "fi": "liha",    "fr": "viande" },
 
 { "en": "ice",       "ko": "얼음",         "fi": "jää",    "fr": "glace" },
 { "en": "hot pepper",       "ko": "고추",         "fi": "kuuma pippuria",    "fr": "piment" },
@@ -34,8 +34,6 @@
 { "en": "wine",       "ko": "포도주",         "fi": "viini",    "fr": "vin" },
 { "en": "honey",       "ko": "꿀",         "fi": "hunaja",    "fr": "miel" },
 { "en": "candy",       "ko": "사탕",         "fi": "karkki, karamelli",    "fr": "bonbon" },
-
-고프다
 
 { "en": "sweet",       "ko": "달다",         "fi": "makea",    "fr": "doux" },
 { "en": "bitter",       "ko": "쓰다",         "fi": "kitkerä",    "fr": "amer" },

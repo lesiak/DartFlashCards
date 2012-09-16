@@ -28,7 +28,9 @@
 { "en": "music",         "ko": "음악",       "fi": "musiikki",          "fr": "musique" },
 { "en": "concert",         "ko": "음악회",       "fi": "konsertti",          "fr": "concert" },
 { "en": "ticket",         "ko": "표",       "fi": "lippu",          "fr": "billet" },
-{ "en": "writer",         "ko": "작가",       "fi": "kirjoittaja, kirjailija",          "fr": "écrivain, auteur" }, 
+{ "en": "writer",         "ko": "작가",       "fi": "kirjoittaja, kirjailija",          "fr": "écrivain, auteur" },
+{ "en": "to draw",         "ko": "그리다",       "fi": "piirtää",          "fr": "dessiner" },
+
 
 { "en": "guitar",         "ko": "기타",       "fi": "kitara",          "fr": "guitare" }, 
 { "en": "piano",         "ko": "피아노",       "fi": "piano",          "fr": "piano" },

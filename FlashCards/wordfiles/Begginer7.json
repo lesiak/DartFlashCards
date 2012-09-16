@@ -77,7 +77,12 @@
 { "en": "fisherman",    "ko": "어부",    "fi": "kalastaja" , "fr":"pêcheur"},
 { "en": "nurse",    "ko": "간호사",    "fi": "sairaanhoitaja" , "fr":"infirmière"},
 { "en": "waiter",    "ko": "웨이터",    "fi": "tarjoilija" , "fr":"serveur"},
-{ "en": "traffic",    "ko": "교통",    "fi": "liikenne" , "fr":"circulation"}
+{ "en": "traffic",    "ko": "교통",    "fi": "liikenne" , "fr":"circulation"},
+{ "en": "policeman",    "ko": "경찰관",    "fi": "poliisi" , "fr":"policier, gendarme"},
+{ "en": "police station",    "ko": "경찰서",    "fi": "poliisiasema" , "fr":"poste de police"}
+
+
+
 
 
 ]
