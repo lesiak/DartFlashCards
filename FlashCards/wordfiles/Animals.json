@@ -17,8 +17,8 @@
 { "en": "duck",      "ko": "오리",     "fi": "ankka",   "fr": "canard" },
 { "en": "cow",      "ko": "오리",     "fi": "vache",   "fr": "lehmä" },
 { "en": "horse",      "ko": "말",     "fi": "hevonen",   "fr": "cheval" },
-
-
+{ "en": "frog",      "ko": "개구리",     "fi": "sammakko",   "fr": "grenouille" },
+{ "en": "puppy",      "ko": "강아지",     "fi": "pentu",   "fr": "chiot" },
 
 
 { "en": "hamster",      "ko": "조선 쥐",     "fi": "hamsteri",   "fr": "hamster" }

@@ -79,10 +79,14 @@
 { "en": "waiter",    "ko": "웨이터",    "fi": "tarjoilija" , "fr":"serveur"},
 { "en": "traffic",    "ko": "교통",    "fi": "liikenne" , "fr":"circulation"},
 { "en": "policeman",    "ko": "경찰관",    "fi": "poliisi" , "fr":"policier, gendarme"},
-{ "en": "police station",    "ko": "경찰서",    "fi": "poliisiasema" , "fr":"poste de police"}
+{ "en": "police station",    "ko": "경찰서",    "fi": "poliisiasema" , "fr":"poste de police"},
+{ "en": "rubbish",    "ko": "쓰레기",    "fi": "roska" , "fr":"déchets"},
 
+{ "en": "Air conditioning",    "ko": "에어컨",    "fi": "ilmastointi" , "fr":"climatisation"},
 
+{ "en": "rose",    "ko": "장미",    "fi": "ruusu" , "fr":"rose"},
 
+{ "en": "poor",    "ko": "가난하다",    "fi": "köyhä" , "fr":"pauvre"}
 
 
 ]

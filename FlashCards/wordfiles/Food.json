@@ -34,6 +34,8 @@
 { "en": "wine",       "ko": "포도주",         "fi": "viini",    "fr": "vin" },
 { "en": "honey",       "ko": "꿀",         "fi": "hunaja",    "fr": "miel" },
 { "en": "candy",       "ko": "사탕",         "fi": "karkki, karamelli",    "fr": "bonbon" },
+{ "en": "candy",       "ko": "샌드위치",         "fi": "voileipä",    "fr": "sandwich" },
+
 
 { "en": "sweet",       "ko": "달다",         "fi": "makea",    "fr": "doux" },
 { "en": "bitter",       "ko": "쓰다",         "fi": "kitkerä",    "fr": "amer" },
