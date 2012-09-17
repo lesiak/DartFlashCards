@@ -86,7 +86,17 @@
 
 { "en": "rose",    "ko": "장미",    "fi": "ruusu" , "fr":"rose"},
 
-{ "en": "poor",    "ko": "가난하다",    "fi": "köyhä" , "fr":"pauvre"}
+{ "en": "poor",    "ko": "가난하다",    "fi": "köyhä" , "fr":"pauvre"},
+{ "en": "competation",    "ko": "경기 (競  “contest” and 技 “talent”)",    "fi": "kilpailu, kisat" , "fr":"concours, compétition"},
+{ "en": "stadium",    "ko": "경기장",    "fi": "stadion" , "fr":"stade"},
+{ "en": "different",    "ko": "다른",    "fi": "eri, erilainen" , "fr":"différent"},
+{ "en": "previous",    "ko": "이전",    "fi": "edellinen" , "fr":"précédent"},
+{ "en": "to show",    "ko": "가리키다",    "fi": "näyttää" , "fr":"montrer"},
+{ "en": "to be born",    "ko": "태어나다",    "fi": "syntyä" , "fr":"naître"},
+{ "en": "result",    "ko": "결과",    "fi": "tulos" , "fr":"résultat"},
+{ "en": "to decide",    "ko": "결정하다",    "fi": "päättää" , "fr":"décider"},
+{ "en": "decision",    "ko": "결정",    "fi": "päätös" , "fr":"décision"}
+
 
 
 ]
