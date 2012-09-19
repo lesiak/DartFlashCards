@@ -49,6 +49,7 @@ class FlashCardsApp {
                      'Begginer8',
                      'Food',
                      'Animals',
+                     'People',
                      'Body',
                      'People',
                      'TopikInter1'];

@@ -1,8 +1,7 @@
 #library('FlashCards');
 #import('dart:html');
 #import('Card.dart');
-#import('ForvoApi.dart');
-#import('PronounciationManager.dart');
+#import('audio/forvo_api.dart');
 #import('Engine.dart');
 
 
@@ -73,8 +72,10 @@ class FlashCardsUI {
     if (word.contains(',')) {
       word = word.split(',')[0];
     }
-    else if (word.startsWith("to ")) {
+    if (word.startsWith("to ")) {
       word = word.substring(3);
+    }
+    if (word.contains("(.*)")) {
     }
     
     // call the web server asynchronously
