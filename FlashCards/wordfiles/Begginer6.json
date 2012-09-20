@@ -4,6 +4,7 @@
 { "en": "volleyball",     "ko": "배구",       "fi": "lentopallo",     "fr": "volley-ball" },
 { "en": "basketball",     "ko": "농구",       "fi": "koripallo",     "fr": "basket-ball" },
 { "en": "baseball",     "ko": "야구",       "fi": "baseball",     "fr": "base-ball" },
+{ "en": "team",    "ko": " 팀",    "fi": "" , "fr":""},
 
 { "en": "jump",     "ko": "뛰다",       "fi": "hypätä",     "fr": "sauter" },
 { "en": "run",     "ko": "달리다",       "fi": "juosta",     "fr": "courir" },
@@ -12,8 +13,9 @@
 
 { "en": "competition",    "ko": "경기 (競  “contest” and 技 “talent”)",    "fi": "kilpailu, kisat" , "fr":"concours, compétition"},
 { "en": "stadium",    "ko": "경기장",    "fi": "stadion" , "fr":"stade"},
+{ "en": "gym",    "ko": "체육관",    "fi": "" , "fr":""},
 
- 
+
  
 { "en": "culture",      "ko": "문화",    "fi": "kulttuuri",         "fr": "culture" },
 { "en": "magazine",     "ko": "잡지",   "fi": "aikakauslehti",      "fr": "magazine" },
@@ -28,10 +30,11 @@
 { "en": "listen",         "ko": "듣다",       "fi": "kuunnella",          "fr": "écouter" },
 { "en": "sound",         "ko": "소리",       "fi": "ääni",          "fr": "son" },
 { "en": "music",         "ko": "음악",       "fi": "musiikki",          "fr": "musique" },
-{ "en": "concert",         "ko": "음악회",       "fi": "konsertti",          "fr": "concert" },
+{ "en": "concert",         "ko": "음악회, 콘서트",       "fi": "konsertti",          "fr": "concert" },
 { "en": "ticket",         "ko": "표",       "fi": "lippu",          "fr": "billet" },
 { "en": "writer",         "ko": "작가",       "fi": "kirjoittaja, kirjailija",          "fr": "écrivain, auteur" },
 { "en": "to draw",         "ko": "그리다",       "fi": "piirtää",          "fr": "dessiner" },
+{ "en": "earnings, gains, proceeds",         "ko": "수익금",       "fi": "",          "fr": "" },
 
 
 { "en": "guitar",         "ko": "기타",       "fi": "kitara",          "fr": "guitare" }, 
