@@ -1,6 +1,5 @@
 [
 
-
 { "en": "girl",    "ko": "소녀",    "fi": "tyttö" , "fr":"fille"},
 { "en": "generation",    "ko": "세대",    "fi": "sukupolvi" , "fr":"génération"},
 
@@ -23,6 +22,8 @@
 { "en": "a bone, ashes, an implication",    "ko": "뼈",    "fi": "" , "fr":""},
 { "en": "dry",    "ko": "마르다",    "fi": "" , "fr":""},
 { "en": "towel",    "ko": "수건 , 타월",    "fi": "" , "fr":""}
+
+
 
 ]
         

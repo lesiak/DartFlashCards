@@ -6,6 +6,7 @@
 { "en": "mirror",        "ko": "거울",          "fi": "peili",    "fr": "miroir" },
 { "en": "towel",        "ko": "수건",          "fi": "pyyhe",    "fr": "serviette" },
 
+{ "en": "get up",       "ko": "일어나다",       "fi": "nousta",    "fr": "se lever" },
 
 { "en": "bag",        "ko": "가방",          "fi": "laukku",    "fr": "sac" },
 { "en": "trousers",        "ko": "바지",          "fi": "housut",    "fr": "housut" },
@@ -21,7 +22,7 @@
 { "en": "gloves",     "ko": "장갑",         "fi": "gants",   "fr": "käsineet" },
 { "en": "panties",     "ko": "팬티",         "fi": "pikkuhousut, alushousut",   "fr": "culotte" },
 { "en": "necktie",     "ko": "넥타이",         "fi": "kravatti",   "fr": "cravate" },
-
+{ "en": "ring",         "ko": "반지",       "fi": "sormus",          "fr": "anneau" },
 
 { "en": "to wear",     "ko": "입다",         "fi": "olla yllään",   "fr": "porter" },
 { "en": "cool, stylish, good-looking",         "ko": "멋있다",       "fi": "mahtava",          "fr": "excellent" },
@@ -55,7 +56,7 @@
 { "en": "come",        "ko": "오다",          "fi": "tulla",    "fr": "venir" },
 { "en": "enter",        "ko": "들어가다",          "fi": "astua sisään",    "fr": "entrer" },
 { "en": "walk",        "ko": "걸어가다",          "fi": "kävellä",    "fr": "marcher (fr), se promener" },
-
+{ "en": "stay",        "ko": "머무르다",          "fi": "jäädä, ",    "fr": "rester" },
 
 { "en": "search",        "ko": "찾다",          "fi": "hakea",    "fr": "chercher" },
 { "en": "find",        "ko": "발견하다",          "fi": "löytää",    "fr": "trouver" }

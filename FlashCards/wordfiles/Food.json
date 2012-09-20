@@ -34,7 +34,7 @@
 { "en": "wine",       "ko": "포도주",         "fi": "viini",    "fr": "vin" },
 { "en": "honey",       "ko": "꿀",         "fi": "hunaja",    "fr": "miel" },
 { "en": "candy",       "ko": "사탕",         "fi": "karkki, karamelli",    "fr": "bonbon" },
-{ "en": "candy",       "ko": "샌드위치",         "fi": "voileipä",    "fr": "sandwich" },
+{ "en": "sandwich",       "ko": "샌드위치",         "fi": "voileipä",    "fr": "sandwich" },
 
 
 { "en": "sweet",       "ko": "달다",         "fi": "makea",    "fr": "doux" },
@@ -48,6 +48,7 @@
 { "en": "chopsticks",       "ko": "젓가락",         "fi": "syömäpuikot",    "fr": "baguettes" },
 { "en": "cup",       "ko": "컵",         "fi": "kuppi",    "fr": "tasse" }, 
 
-{ "en": "pot",       "ko": "냄비",         "fi": "potti",    "fr": "casserole" }
+{ "en": "pot",       "ko": "냄비",         "fi": "potti",    "fr": "casserole" },
+{ "en": "waiter",    "ko": "웨이터",    "fi": "tarjoilija" , "fr":"serveur"}
 
 ]

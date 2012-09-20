@@ -46,9 +46,11 @@ class FlashCardsApp {
                      'Begginer5', 
                      'Begginer6',
                      'Begginer7',
+                     'Begginer8',
                      'Food',
                      'Animals',
                      'Body',
+                     'People',
                      'TopikInter1'];
     TableElement table = query("#questionDecksTable");
     TableSectionElement tBody = table.tBodies[0]; 

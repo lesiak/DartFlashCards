@@ -17,7 +17,7 @@
 { "en": "quiet",    "ko": "조용하다",    "fi": "hiljainen" , "fr":"calme"},
 
 { "en": "late",        "ko": "늦다",             "fi": "myöhässä",    "fr": "tard" },
-
+{ "en": "traffic",    "ko": "교통",    "fi": "liikenne" , "fr":"circulation"},
 
 { "en": "to travel",       "ko": "여행하다",       "fi": "matkustaa",    "fr": "voyager" },
 { "en": "tourist",       "ko": "관광객",       "fi": "turisti, matkailija",    "fr": "touriste" },
@@ -47,8 +47,7 @@
 
 { "en": "same",        "ko": "같다",          "fi": "samanlainen",    "fr": "même" },
 { "en": "similar",        "ko": "비슷하다",          "fi": "samanlainen",    "fr": "similaire, semblable" },
-{ "en": "different",        "ko": "다르다",          "fi": "erilainen, eri",    "fr": "différent, autre" },
-
+{ "en": "different",        "ko": "다르다, 다른",          "fi": "eri, erilainen",    "fr": "différent, autre" },
 
 
 { "en": "become",        "ko": "되다",          "fi": "tulla",    "fr": "devenir" },

@@ -4,7 +4,6 @@
 { "en": "yellow",         "ko": "노란색",       "fi": "ladata",          "fr": "keltainen" },
 { "en": "green",         "ko": "녹색",       "fi": "vihreä",          "fr": "vert" },
 
-
 { "en": "already",         "ko": "벌써",       "fi": "jo",          "fr": "déjà" },
 
 
@@ -95,7 +94,13 @@
 { "en": "to be born",    "ko": "태어나다",    "fi": "syntyä" , "fr":"naître"},
 { "en": "result",    "ko": "결과",    "fi": "tulos" , "fr":"résultat"},
 { "en": "to decide",    "ko": "결정하다",    "fi": "päättää" , "fr":"décider"},
-{ "en": "decision",    "ko": "결정",    "fi": "päätös" , "fr":"décision"}
+{ "en": "decision",    "ko": "결정",    "fi": "päätös" , "fr":"décision"},
+
+{ "en": "cause, reason",    "ko": "원인",    "fi": "syy" , "fr":"cause, raison "},
+{ "en": "to grow",    "ko": "자라다",    "fi": "kasvaa" , "fr":"grandir"},
+
+{ "en": "to arrange, organize",    "ko": "배치하다",    "fi": "järjestää" , "fr":"arranger, organiser"},
+{ "en": "to lead",    "ko": "안내하다",    "fi": "johtaa" , "fr":"diriger, commander"}
 
 
 

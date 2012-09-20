@@ -10,6 +10,8 @@
 { "en": "swim",     "ko": "수영하다",       "fi": "uida",     "fr": "nager" },
 { "en": "swimming pool",     "ko": "수영장",       "fi": "uimahalli",     "fr": "piscine" },
 
+{ "en": "competition",    "ko": "경기 (競  “contest” and 技 “talent”)",    "fi": "kilpailu, kisat" , "fr":"concours, compétition"},
+{ "en": "stadium",    "ko": "경기장",    "fi": "stadion" , "fr":"stade"},
 
  
  
@@ -51,7 +53,7 @@
 { "en": "light",         "ko": "가볍다",       "fi": "kevyt",          "fr": "léger" },
 
 
-{ "en": "ring",         "ko": "반지",       "fi": "sormus",          "fr": "anneau" },
+
 { "en": "recharge",         "ko": "충전하다",       "fi": "ladata",          "fr": "recharger" },
 
 

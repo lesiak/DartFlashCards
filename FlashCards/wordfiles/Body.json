@@ -16,7 +16,8 @@
 { "en": "brain",       "ko": "뇌",         "fi": "aivot",    "fr": "cerveau" },
 
 { "en": "doctor",       "ko": "의사",         "fi": "lääkäri, tohtori",    "fr": "médecin, docteur" },
-{ "en": "patient",        "ko": "환자",          "fi": "potilas",    "fr": "patient" }, 
+{ "en": "patient",        "ko": "환자",          "fi": "potilas",    "fr": "patient" },
+{ "en": "nurse",    "ko": "간호사",    "fi": "sairaanhoitaja" , "fr":"infirmière"},
 { "en": "(a) cold",        "ko": "감기",          "fi": "nuha",    "fr": "rhume" },
 
 { "en": "female",       "ko": "여성",         "fi": "nainen",    "fr": "femelle" },

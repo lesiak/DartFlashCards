@@ -66,7 +66,7 @@
 { "en": "laugh",       "ko": "웃다",      "fi": "nauraa",    "fr": "rire" },
 
 
-{ "en": "smoke",         "ko": "피우다",       "fi": "tupakoida",    "fr": "fumer" },
+{ "en": "to smoke",         "ko": "피우다",       "fi": "tupakoida",    "fr": "fumer" },
 { "en": "cigarette",         "ko": "담배",       "fi": "savuke",    "fr": "cigarette" },
 { "en": "tobacco",         "ko": "담배",       "fi": "tupakka",    "fr": "tabac" }
 
