@@ -1,0 +1,28 @@
+[
+ 
+{ "en": "car",        "ko": "자동차",      "fi": "auto",    "fr": "voiture" },
+{ "en": "train",        "ko": "기차",     "fi": "juna",    "fr": "train" },
+{ "en": "metro",        "ko": "지하철",    "fi": "maanalainen",    "fr": "métro" },
+{ "en": "bicycle",      "ko": "자전거",    "fi": "polkupyörä",    "fr": "vélo" },
+{ "en": "ship",         "ko": "배",          "fi": "laiva",    "fr": "bateau" },
+{ "en": "airplane",         "ko": "비행기",        "fi": "lentokone",    "fr": "avion" },
+{ "en": "airport",         "ko": "공항",          "fi": "lentokenttä",    "fr": "aéroport" },
+{ "en": "balloon",         "ko": "풍선",          "fi": "ilmapallo",    "fr": "ballon" },
+{ "en": "fly",     "ko": "날다",       "fi": "lentää",     "fr": "voler" },
+{ "en": "drive",       "ko": "운전하다",       "fi": "kuljettaa",    "fr": "conduire" },
+{ "en": "driver",       "ko": "운전사",       "fi": "kuljettaja",    "fr": "conducteur" },
+{ "en": "station",    "ko": "역",    "fi": "asema" , "fr":"station"},
+{ "en": "platform",    "ko": "플랫폼, 승강장",    "fi": "asemalaituri" , "fr":" quai "},
+
+{ "en": "get to",        "ko": "도착하다",          "fi": "päästä",    "fr": "?" },
+{ "en": "arrive",        "ko": "도착하다",          "fi": "saapua",    "fr": "arriver" },
+{ "en": "to leave (from)",        "ko": "떠나다",          "fi": "lähteä",    "fr": "partir" },
+
+{ "en": "hotel",        "ko": "호텔",          "fi": "hotelli",    "fr": "hôtel" },
+
+{ "en": "slow",        "ko": "느리다",          "fi": "hidas",    "fr": "lent" },
+{ "en": "fast",        "ko": "빠르다",          "fi": "nopea",    "fr": "rapide" },
+{ "en": "speed",        "ko": "속도 (速 speed and 度 amount), 속력",          "fi": "nopeus",    "fr": "vitesse" }
+
+]
+        

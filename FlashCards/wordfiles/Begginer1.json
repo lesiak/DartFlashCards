@@ -2,17 +2,6 @@
 
 
 { "en": "machine",        "ko": "기계",    	"fi": "kone",    "fr": "machine" },  
-{ "en": "car",        "ko": "자동차",    	"fi": "auto",    "fr": "voiture" },
-{ "en": "train",        "ko": "기차",    	"fi": "juna",    "fr": "train" },
-{ "en": "metro",        "ko": "지하철",  	"fi": "maanalainen",    "fr": "métro" },
-{ "en": "bicycle",      "ko": "자전거",  	"fi": "polkupyörä",    "fr": "vélo" },
-{ "en": "ship",         "ko": "배",      	"fi": "laiva",    "fr": "bateau" },
-{ "en": "airplane",         "ko": "비행기",      	"fi": "lentokone",    "fr": "avion" },
-{ "en": "airport",         "ko": "공항",      	"fi": "lentokenttä",    "fr": "aéroport" },
-{ "en": "balloon",         "ko": "풍선",          "fi": "ilmapallo",    "fr": "ballon" },
-{ "en": "fly",     "ko": "날다",       "fi": "lentää",     "fr": "voler" },
-{ "en": "drive",       "ko": "운전하다",       "fi": "kuljettaa",    "fr": "conduire" },
-{ "en": "driver",       "ko": "운전사",       "fi": "kuljettaja",    "fr": "conducteur" },
 
 
 { "en": "home",        "ko": "집",    	"fi": "koti",    "fr": "maison" },

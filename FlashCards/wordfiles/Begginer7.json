@@ -1,28 +1,24 @@
 [
-
-{ "en": "girl",    "ko": "소녀",    "fi": "tyttö" , "fr":"fille"},
-{ "en": "generation",    "ko": "세대",    "fi": "sukupolvi" , "fr":"génération"},
-
 { "en": "gas",    "ko": "가스",    "fi": "kaasu" , "fr":"gaz"},
 { "en": "stalker",    "ko": "스토커",    "fi": "ahdistelija" , "fr":"rôdeur"},
-{ "en": "melody",    "ko": "멜로디",    "fi": "melodia, sävel" , "fr":"mélodie"},
+
 { "en": "size",    "ko": "사이즈",    "fi": "koko, suuruus" , "fr":"taille"},
 { "en": "drum",    "ko": "드럼",    "fi": "tambour, batterie" , "fr":"rumpu"},
 
 { "en": "game",    "ko": "게임,  놀이",    "fi": "peli, leikki" , "fr":"jeu"},
-{ "en": "bacon",    "ko": "베이컨",    "fi": "" , "fr":"lardon"},
 
-{ "en": "fries",    "ko": "감자튀김",    "fi": "" , "fr":""},
+
+
 { "en": "to continue",    "ko": "계속하다",    "fi": "" , "fr":""},
-{ "en": "pain",    "ko": "고통, 아픔",    "fi": "" , "fr":""},
+
 
 { "en": "ocean",    "ko": "대양, 해양",    "fi": "" , "fr":""},
 { "en": "freedom, liberty",    "ko": "자유",    "fi": "" , "fr":""},
 { "en": "religion",    "ko": "종교",    "fi": "" , "fr":""},
-{ "en": "a bone, ashes, an implication",    "ko": "뼈",    "fi": "" , "fr":""},
-{ "en": "dry",    "ko": "마르다",    "fi": "" , "fr":""},
-{ "en": "towel",    "ko": "수건 , 타월",    "fi": "" , "fr":""}
 
+{ "en": "dry",    "ko": "마르다",    "fi": "" , "fr":""},
+
+{ "en": "lamp",    "ko": "전등, 램프",    "fi": "lamppu" , "fr":"lampe"}
 
 
 ]

@@ -30,17 +30,20 @@
 { "en": "listen",         "ko": "듣다",       "fi": "kuunnella",          "fr": "écouter" },
 { "en": "sound",         "ko": "소리",       "fi": "ääni",          "fr": "son" },
 { "en": "music",         "ko": "음악",       "fi": "musiikki",          "fr": "musique" },
+{ "en": "melody",    "ko": "멜로디",    "fi": "melodia, sävel" , "fr":"mélodie"},
 { "en": "concert",         "ko": "음악회, 콘서트",       "fi": "konsertti",          "fr": "concert" },
+
 { "en": "ticket",         "ko": "표",       "fi": "lippu",          "fr": "billet" },
 { "en": "writer",         "ko": "작가",       "fi": "kirjoittaja, kirjailija",          "fr": "écrivain, auteur" },
+
 { "en": "to draw",         "ko": "그리다",       "fi": "piirtää",          "fr": "dessiner" },
+
 { "en": "earnings, gains, proceeds",         "ko": "수익금",       "fi": "",          "fr": "" },
 
 
 { "en": "guitar",         "ko": "기타",       "fi": "kitara",          "fr": "guitare" }, 
 { "en": "piano",         "ko": "피아노",       "fi": "piano",          "fr": "piano" },
 { "en": "saxophone",         "ko": "색소폰",       "fi": "saksofoni",          "fr": "saxophone" },
-
 
 
 { "en": "number",         "ko": "번호",       "fi": "numero",          "fr": "numéro" },

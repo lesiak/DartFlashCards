@@ -23,9 +23,6 @@
 { "en": "library",      "ko": "도서관",   "fi": "kirjasto",         "fr": "bibliothèque" },
 { "en": "shop",      "ko": "가게",   "fi": "myymälä, kauppa",         "fr": "magasin, boutique" },
 
-{ "en": "get to",        "ko": "?",          "fi": "päästä",    "fr": "?" },
-{ "en": "arrive",        "ko": "도착하다",          "fi": "saapua",    "fr": "arriver" },
-{ "en": "to leave (from)",        "ko": "떠나다",          "fi": "lähteä",    "fr": "partir" },
 
 { "en": "other side",        "ko": "건너편",          "fi": "?",    "fr": "?" },
 { "en": "wall",         "ko": "담",       "fi": "seinä, muuri",          "fr": "mur" },

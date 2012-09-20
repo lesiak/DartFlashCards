@@ -17,12 +17,13 @@
 { "en": "carrot",       "ko": "당근",         "fi": "porkkana",    "fr": "carotte" },
 { "en": "aubergine",       "ko": "가지",         "fi": "munakoiso",    "fr": "aubergine" },
 { "en": "potato",       "ko": "감자",         "fi": "peruna",    "fr": "pomme de terre" },
+{ "en": "fries",    "ko": "감자튀김",    "fi": "" , "fr":""},
 
 { "en": "fruit",       "ko": "과일",         "fi": "hedelmä",    "fr": "fruit" },
 
-
 { "en": "soup",       "ko": "국",         "fi": "keitto",    "fr": "soupe" },
 { "en": "meat",       "ko": "고기",         "fi": "liha",    "fr": "viande" },
+{ "en": "bacon",    "ko": "베이컨",    "fi": "" , "fr":"lardon"},
 
 { "en": "ice",       "ko": "얼음",         "fi": "jää",    "fr": "glace" },
 { "en": "hot pepper",       "ko": "고추",         "fi": "kuuma pippuria",    "fr": "piment" },

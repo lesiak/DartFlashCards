@@ -1,12 +1,19 @@
 [
+
+{ "en": "girl",    "ko": "소녀",    "fi": "tyttö" , "fr":"fille"},
+{ "en": "generation",    "ko": "세대",    "fi": "sukupolvi" , "fr":"génération"},
+ 
 { "en": "to be born",    "ko": "태어나다",    "fi": "syntyä" , "fr":"naître"},
 { "en": "poor",    "ko": "가난하다",    "fi": "köyhä" , "fr":"pauvre"},
+{ "en": "rich",    "ko": "부자 (rich man)",    "fi": "rikas" , "fr":"riche"},
+
+
 { "en": "life",    "ko": "생명",    "fi": "elämä" , "fr":"vie"},
 
 { "en": "fat",    "ko": "뚱뚱하다",    "fi": "lihava, läski (derogatory), paksu" , "fr":"gros"},
 { "en": "slim, slender",    "ko": "호리호리하다, 날씬하다",    "fi": "hoikka, laiha" , "fr":"mince, maigre, svelte"},
-{ "en": "(one's) figure",    "ko": "몸매"    "fi": "" , "fr":""},
-{ "en": "a slender figure",    "ko": "날씬한 몸매"    "fi": "" , "fr":""},
+{ "en": "(one's) figure",    "ko": "몸매"    ,"fi": "" , "fr":""},
+{ "en": "a slender figure",    "ko": "날씬한 몸매"  ,  "fi": "" , "fr":""},
 
 
 
