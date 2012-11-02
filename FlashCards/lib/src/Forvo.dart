@@ -1,9 +1,7 @@
-
-
+part of forvo_api;
 
 class ForvoResponse {
-  
- 
+   
   var attributes;
   List<ForvoItem> items;
   

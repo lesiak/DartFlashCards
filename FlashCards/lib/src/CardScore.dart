@@ -1,6 +1,4 @@
-#library('flashcards_core');
-
-#import("dart:json");
+part of flashcards_core;
 
 class CardScore {
   static final String GOOD_ANSWER = 'GOOD';

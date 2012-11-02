@@ -1,3 +1,4 @@
+part of forvo_api;
 
 typedef void ForvoResonseCallback(HttpRequest req);
 

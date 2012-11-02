@@ -1,5 +1,5 @@
 name: FlashCards
-dependencies:
-    unittest:
-        sdk: unittest
+#dependencies:
+#    unittest:
+#        sdk: unittest
     

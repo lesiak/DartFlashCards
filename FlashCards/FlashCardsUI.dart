@@ -1,8 +1,8 @@
-#library('FlashCards');
-#import('dart:html');
-#import('Card.dart');
-#import('audio/forvo_api.dart');
-#import('Engine.dart');
+library FlashCards;
+
+import 'dart:html';
+import 'lib/forvo_api.dart';
+import 'lib/flashcards_core.dart';
 
 
 class FlashCardsUI {
@@ -87,7 +87,7 @@ class FlashCardsUI {
 
   void onForvoSuccess(HttpRequest req, String lang, String word, Element container, bool play) {  
     String responseText = req.responseText;
-    if (!responseText.isEmpty()) {
+    if (!responseText.isEmpty) {
       ForvoResponse r = new ForvoResponse.fromJsonString(responseText);
       displayPronounciations(r, container, play);
     }
@@ -101,7 +101,7 @@ class FlashCardsUI {
     List<Element> pronounciationNodes = createAudioNodes(r);
     container.nodes.clear();
     container.nodes.addAll(pronounciationNodes);  
-    if (play && !r.items.isEmpty()) {
+    if (play && !r.items.isEmpty) {
       playPronounciation(PronounciationManager.getPreferredPronunciation(r));
     }
   }

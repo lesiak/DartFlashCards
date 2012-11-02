@@ -1,11 +1,4 @@
-#library('flashcards_core');
-
-#import('dart:html');
-#import("dart:json");
-
-
-#import('Card.dart');
-#import('CardScore.dart');
+part of flashcards_core;
 
 typedef void DataLoadedCallback();
 
@@ -20,8 +13,7 @@ class Engine implements DeckState {
   static final String POOR_ANSWER = 'POOR';
   static final String BAD_ANSWER = 'BAD';
   
-  int _currentWord = 0;
-  
+  int _currentWord = 0;  
   Card _currentCard;
   CardScore _currentScore;
   
@@ -47,11 +39,10 @@ class Engine implements DeckState {
   
   void initLearningList() {
     learningList = buildLearningList(allCardsInDeck);
-    if (!learningList.isEmpty()) {
+    if (!learningList.isEmpty) {
       _currentWord = 0;
       _currentCard = learningList[_currentWord];
-      _currentScore = getCardScoreFromStore(_currentCard);
-      
+      _currentScore = getCardScoreFromStore(_currentCard);      
     }
   }
   

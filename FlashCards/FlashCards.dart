@@ -1,9 +1,6 @@
-#import('dart:html');
-
-#import('Card.dart');
-#import('CardScore.dart');
-#import('FlashCardsUI.dart');
-#import('Engine.dart');
+import 'dart:html';
+import 'lib/flashcards_core.dart';
+import 'FlashCardsUI.dart';
 
 class FlashCardsApp {
   
@@ -61,7 +58,7 @@ class FlashCardsApp {
       
       Element cell = tRow.insertCell(0);
       cell.classes.add('deckLink');
-      AnchorElement deckLink = new AnchorElement("#");
+      AnchorElement deckLink = new AnchorElement(href: "#");
       deckLink.text = deckName;
       deckLink.on.click.add((e) {
         

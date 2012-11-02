@@ -1,4 +1,4 @@
-#library('flashcards_core');
+part of flashcards_core;
 
 class Card {
   String en;
