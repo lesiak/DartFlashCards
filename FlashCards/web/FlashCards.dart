@@ -99,12 +99,15 @@ class FlashCardsApp {
   }
   
   void fillWordsTable() {
+    var currentDate = new Date.now();
     TableElement table = query("#wordTable");
     TableSectionElement tBody = table.tBodies[0]; 
     tBody.nodes.clear();
     for (Card card in engine.allCardsInDeck) {
       CardScore score = ResultStore.getCardScoreFromStore(card);
       TableRowElement newLine = tBody.insertRow(-1); // add at the end
+      
+      String timeSinceLastAnswer = "";
       if (score != null) {
         if (score.isGoodAnswer()) {
           newLine.classes.add("succ");
@@ -115,13 +118,15 @@ class FlashCardsApp {
         else if (score.isBadAnswer()) {
           newLine.classes.add("error");
         }
+        
+        timeSinceLastAnswer = score.getDateDifference(currentDate).toString();
       }
       
       newLine.insertCell(0).text = card.en;
       newLine.insertCell(1).text = card.ko;
       newLine.insertCell(2).text = card.fi;
       newLine.insertCell(3).text = card.fr;
-      
+      newLine.insertCell(4).text = timeSinceLastAnswer;
     }
   } 
   

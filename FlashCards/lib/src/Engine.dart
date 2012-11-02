@@ -58,8 +58,9 @@ class Engine implements DeckState {
       return true;
     }
     var currentDate = new Date.now();
-    var lastAnswerDate = new Date.fromMillisecondsSinceEpoch(lastCardScore.lastAnswerTime);
-    var dateDifference = currentDate.difference(lastAnswerDate);    
+    //var lastAnswerDate = new Date.fromMillisecondsSinceEpoch(lastCardScore.lastAnswerTime);
+    var dateDifference = lastCardScore.getDateDifference(currentDate);    
+    print('${card.en} ${lastCardScore.lastResult} ${dateDifference}');
     return (
         lastCardScore.lastResult == BAD_ANSWER
         || lastCardScore.lastResult == POOR_ANSWER && dateDifference.inHours > 1
