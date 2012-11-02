@@ -1,8 +1,8 @@
 library FlashCards;
 
 import 'dart:html';
-import 'lib/forvo_api.dart';
-import 'lib/flashcards_core.dart';
+import '../lib/forvo_api.dart';
+import '../lib/flashcards_core.dart';
 
 
 class FlashCardsUI {

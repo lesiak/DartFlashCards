@@ -6,9 +6,9 @@ class CardScore {
   static final String BAD_ANSWER = 'BAD';
   
   String lastResult;
-  int time;
+  int lastAnswerTime;
   
-  CardScore(this.lastResult, this.time);
+  CardScore(this.lastResult, this.lastAnswerTime);
   
   factory CardScore.fromJsonString(String jsonString) {   
     Map map =  JSON.parse(jsonString);
@@ -17,6 +17,11 @@ class CardScore {
   
   factory CardScore.fromMap(Map jsonMap) {
     return new CardScore(jsonMap["lastResult"], jsonMap["time"]);
+  }
+  
+  String toJSON() {
+    Map resultMap = {"lastResult" : lastResult, "time" : lastAnswerTime};
+    return JSON.stringify(resultMap);
   }
   
   bool isGoodAnswer() {

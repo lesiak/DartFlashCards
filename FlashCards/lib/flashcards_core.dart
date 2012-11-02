@@ -5,4 +5,5 @@ import 'dart:json';
 
 part 'src/Card.dart';
 part 'src/CardScore.dart';
+part 'src/ResultStore.dart';
 part 'src/Engine.dart';

@@ -1,5 +1,5 @@
 import 'dart:html';
-import 'lib/flashcards_core.dart';
+import '../lib/flashcards_core.dart';
 import 'FlashCardsUI.dart';
 
 class FlashCardsApp {
@@ -103,7 +103,7 @@ class FlashCardsApp {
     TableSectionElement tBody = table.tBodies[0]; 
     tBody.nodes.clear();
     for (Card card in engine.allCardsInDeck) {
-      CardScore score = engine.getCardScoreFromStore(card);
+      CardScore score = ResultStore.getCardScoreFromStore(card);
       TableRowElement newLine = tBody.insertRow(-1); // add at the end
       if (score != null) {
         if (score.isGoodAnswer()) {

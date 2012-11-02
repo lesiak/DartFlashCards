@@ -19,10 +19,8 @@ class Engine implements DeckState {
   
   List<Card> allCardsInDeck;
   List<Card> learningList;
-   
-  
-  Engine() {}
-  
+     
+  Engine() {}  
   
   void loadData(String wordfilePath, DataLoadedCallback onDataReady) {
     var request = new HttpRequest.get(wordfilePath, (req) {
@@ -42,21 +40,31 @@ class Engine implements DeckState {
     if (!learningList.isEmpty) {
       _currentWord = 0;
       _currentCard = learningList[_currentWord];
-      _currentScore = getCardScoreFromStore(_currentCard);      
+      _currentScore = ResultStore.getCardScoreFromStore(_currentCard);      
     }
   }
-  
-  
+    
   List<Card> buildLearningList(List<Card> allElements) {
-    return allElements.filter(isInLearningList);
+    return allElements.filter(isCardInLearningList);
   }
   
-  bool isInLearningList(Card card) {    
-    CardScore inStore = getCardScoreFromStore(card);
-    if (inStore == null) {
+  bool isCardInLearningList(Card card) {    
+    CardScore lastCardScore = ResultStore.getCardScoreFromStore(card);
+    return isInLearningList(card, lastCardScore);
+  }
+  
+  bool isInLearningList(Card card, CardScore lastCardScore) {
+    if (lastCardScore == null) {
       return true;
     }
-    return (inStore.lastResult == POOR_ANSWER || inStore.lastResult == BAD_ANSWER);
+    var currentDate = new Date.now();
+    var lastAnswerDate = new Date.fromMillisecondsSinceEpoch(lastCardScore.lastAnswerTime);
+    var dateDifference = currentDate.difference(lastAnswerDate);    
+    return (
+        lastCardScore.lastResult == BAD_ANSWER
+        || lastCardScore.lastResult == POOR_ANSWER && dateDifference.inHours > 1
+        || lastCardScore.lastResult == GOOD_ANSWER && dateDifference.inDays > 2    
+    );
   }
   
   
@@ -73,7 +81,7 @@ class Engine implements DeckState {
       _currentWord = 0;
     }*/
     _currentCard = learningList[_currentWord];
-    _currentScore = getCardScoreFromStore(_currentCard);
+    _currentScore = ResultStore.getCardScoreFromStore(_currentCard);
     
   }
   
@@ -90,34 +98,20 @@ class Engine implements DeckState {
   }
   
   void _processAnswer(String answerResult) {
-    var resultString = makeWordResultString(answerResult);
-    window.localStorage[currentCard.en] = resultString;
-  }
-  
-  String makeWordResultString(String answerResult) {
     var time = new Date.now().millisecondsSinceEpoch;    
-    Map resultMap = {"lastResult" : answerResult, "time" : time};
-    return JSON.stringify(resultMap);
+    CardScore newScore = new CardScore(answerResult, time);
+    ResultStore.storeResult(currentCard, newScore);
   }
-  
-  CardScore getCardScoreFromStore(Card card) {
-    var inStoreJson = window.localStorage[card.en];    
-    if (inStoreJson == null) {
-      return null;
-    }
-    return new CardScore.fromJsonString(inStoreJson);    
-  }
+      
   
   void clearDeckResults() {
-    for (Card card in allCardsInDeck) {
-      window.localStorage.remove(card.en);
-    }
+    ResultStore.clearScores(allCardsInDeck);    
     initLearningList();
   }
   
   int get deckSize() => allCardsInDeck.length;
   int get completedSize() => allCardsInDeck.filter((card) {
-    CardScore inStore = getCardScoreFromStore(card); 
+    CardScore inStore = ResultStore.getCardScoreFromStore(card); 
     if (inStore == null) {
       return false;
     }
