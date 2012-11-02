@@ -96,6 +96,8 @@ class FlashCardsApp {
   void fillSummary() {
     query("#totalWords").text = "${engine.deckSize}";
     query("#completedWords").text = "${engine.completedSize}";
+    int progress = ((engine.completedSize/engine.deckSize) * 100).toInt();
+    query("#deckProgress").text = "${progress}%";
   }
   
   void fillWordsTable() {
@@ -119,7 +121,7 @@ class FlashCardsApp {
           newLine.classes.add("error");
         }
         
-        timeSinceLastAnswer = score.getDateDifference(currentDate).toString();
+        timeSinceLastAnswer = formatDuration(score.getDateDifference(currentDate));
       }
       
       newLine.insertCell(0).text = card.en;
@@ -128,7 +130,25 @@ class FlashCardsApp {
       newLine.insertCell(3).text = card.fr;
       newLine.insertCell(4).text = timeSinceLastAnswer;
     }
-  } 
+  }
+  
+  String formatDuration (Duration d) {    
+    String twoDigits(int n) {
+      if (n >= 10) return "$n";
+      return "0$n";
+    }
+
+    if (d.inMilliseconds < 0) {
+      Duration duration =
+          new Duration(milliseconds: -d.inMilliseconds);
+      return "-$duration";
+    }
+    String twoDigitMinutes =
+        twoDigits(d.inMinutes.remainder(Duration.MINUTES_PER_HOUR));
+    String twoDigitSeconds =
+        twoDigits(d.inSeconds.remainder(Duration.SECONDS_PER_MINUTE));    
+    return "${d.inHours}:$twoDigitMinutes:$twoDigitSeconds";
+  }
   
   
 

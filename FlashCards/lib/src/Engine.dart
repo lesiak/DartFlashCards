@@ -58,9 +58,7 @@ class Engine implements DeckState {
       return true;
     }
     var currentDate = new Date.now();
-    //var lastAnswerDate = new Date.fromMillisecondsSinceEpoch(lastCardScore.lastAnswerTime);
     var dateDifference = lastCardScore.getDateDifference(currentDate);    
-    print('${card.en} ${lastCardScore.lastResult} ${dateDifference}');
     return (
         lastCardScore.lastResult == BAD_ANSWER
         || lastCardScore.lastResult == POOR_ANSWER && dateDifference.inHours > 1
@@ -104,20 +102,21 @@ class Engine implements DeckState {
     ResultStore.storeResult(currentCard, newScore);
   }
       
-  
   void clearDeckResults() {
     ResultStore.clearScores(allCardsInDeck);    
     initLearningList();
   }
   
-  int get deckSize() => allCardsInDeck.length;
-  int get completedSize() => allCardsInDeck.filter((card) {
+  bool isCardCompleted(Card card) {
     CardScore inStore = ResultStore.getCardScoreFromStore(card); 
     if (inStore == null) {
       return false;
     }
     return (inStore.lastResult == GOOD_ANSWER);
-  }).length;
+  }
+  
+  int get deckSize() => allCardsInDeck.length;
+  int get completedSize() => allCardsInDeck.filter(isCardCompleted).length;
   
   
 }
