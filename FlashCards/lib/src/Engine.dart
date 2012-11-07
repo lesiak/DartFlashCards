@@ -2,9 +2,9 @@ part of flashcards_core;
 
 typedef void DataLoadedCallback();
 
-interface DeckState {
-  int get deckSize();
-  Card get currentCard();
+abstract class DeckState {
+  int get deckSize;
+  Card get currentCard;
 }
 
 class Engine implements DeckState {
@@ -68,7 +68,7 @@ class Engine implements DeckState {
   
   
   
-  Card get currentCard() {    
+  Card get currentCard {    
     return _currentCard;   
   }
   
@@ -115,8 +115,8 @@ class Engine implements DeckState {
     return (inStore.lastResult == GOOD_ANSWER);
   }
   
-  int get deckSize() => allCardsInDeck.length;
-  int get completedSize() => allCardsInDeck.filter(isCardCompleted).length;
+  int get deckSize => allCardsInDeck.length;
+  int get completedSize => allCardsInDeck.filter(isCardCompleted).length;
   
   
 }
