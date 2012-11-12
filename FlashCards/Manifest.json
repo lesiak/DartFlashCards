@@ -1,7 +1,7 @@
 {
 "name": "FlashCards",
-"version": "0.0.2",
-"manifest_version": 1,
+"version": "0.0.3",
+"manifest_version": 2,
 "description": "My Flashcards application.",
 "app": {
 "launch": {
@@ -12,12 +12,7 @@
 "16": "1345540112_konqsidebar_news.png",
 "128": "1345540046_rss.png"
 },
-"permissions": [  "http://apifree.forvo.com/",
-	"http://dart.googlecode.com/",
-	"unlimitedStorage" ]/*,
-"sandbox": {
-    "pages": [
-      "FlashCards.html"      
-    ]
-    }*/
+"content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'",
+"permissions": [  "http://apifree.forvo.com/",	
+	"unlimitedStorage" ]
 }
