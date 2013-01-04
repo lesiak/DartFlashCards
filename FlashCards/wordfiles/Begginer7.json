@@ -1,6 +1,8 @@
 [
-{ "en": "gas",    "ko": "가스",    "fi": "kaasu" , "fr":"gaz"},
-{ "en": "stalker",    "ko": "스토커",    "fi": "ahdistelija" , "fr":"rôdeur"},
+{ "en": "gas",    	"ko": "가스",    "fi": "kaasu" , 	"fr":"gaz"},
+{ "en": "insult",   "ko": "모욕",    "fi": "loukkaus", 	"fr":"insulte"},
+
+
 
 { "en": "size",    "ko": "사이즈",    "fi": "koko, suuruus" , "fr":"taille"},
 { "en": "drum",    "ko": "드럼",    "fi": "tambour, batterie" , "fr":"rumpu"},
@@ -15,7 +17,7 @@
 { "en": "ocean",    "ko": "대양, 해양",    "fi": "" , "fr":""},
 { "en": "freedom, liberty",    "ko": "자유",    "fi": "" , "fr":""},
 { "en": "religion",    "ko": "종교",    "fi": "" , "fr":""},
-
+{ "en": "stalker",    "ko": "스토커",    "fi": "ahdistelija" , "fr":"rôdeur"},
 { "en": "dry",    "ko": "마르다",    "fi": "" , "fr":""},
 
 { "en": "lamp",    "ko": "전등, 램프",    "fi": "lamppu" , "fr":"lampe"}
