@@ -7,6 +7,25 @@ class FlashCardsApp {
   Engine engine;
   FlashCardsUI ui;
   
+  List<String> level1Files = ['Begginer1',
+                     'Begginer2',
+                     'Begginer3',
+                     'Begginer4',
+                     'Food',
+                     'Animals',
+                     'People',
+                     'Body',
+                     'People',
+                     'Colors'];
+  
+  List<String> level2Files = ['Begginer5', 
+                              'Begginer6',
+                              'Begginer7',
+                              'Begginer8',
+                              'Begginer9',
+                              'TopikInter1'];
+  
+  
   
   FlashCardsApp() {
     this.engine = new Engine();
@@ -29,27 +48,26 @@ class FlashCardsApp {
       ui.showHomePanel();
       fillDeckData();
     });
+    
+    Element level1Tab = query("#level1Tab");
+    Element level2Tab = query("#level2Tab");
+    level1Tab.on.click.add((e) {
+      level2Tab.parent.classes.remove('active');
+      level1Tab.parent.classes.add('active');
+      fillQuestionDecksTable(level1Files);
+    });
+    level2Tab.on.click.add((e) {
+      level1Tab.parent.classes.remove('active');
+      level2Tab.parent.classes.add('active');
+      fillQuestionDecksTable(level2Files);
+    });
   }
   
   void startApplication() {
-    fillQuestionDecksTable();
+    fillQuestionDecksTable(level1Files);
   }
   
-  void fillQuestionDecksTable() {
-    var wordFiles = ['Begginer1',
-                     'Begginer2',
-                     'Begginer3',
-                     'Begginer4',
-                     'Begginer5', 
-                     'Begginer6',
-                     'Begginer7',
-                     'Begginer8',
-                     'Food',
-                     'Animals',
-                     'People',
-                     'Body',
-                     'People',
-                     'TopikInter1'];
+  void fillQuestionDecksTable(List<String> wordFiles) {
     TableElement table = query("#questionDecksTable");
     TableSectionElement tBody = table.tBodies[0]; 
     tBody.nodes.clear();

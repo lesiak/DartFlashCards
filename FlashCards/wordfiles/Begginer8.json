@@ -1,8 +1,10 @@
 [
 
+{ "en": "reliable",         	"ko": "믿음직하다",       "fi": "luotettava",          "fr": "fiable" },
+{ "en": "likely (probable)",	"ko": "음직하다",       "fi": "todennäköinen",      "fr": "probable" },
+{ "en": "likely (probably)",   	"ko": "아마도",       "fi": "todennäköisesti",      "fr": "probablement" },
+
 { "en": "generally",         "ko": "일반적으로",       "fi": "yleensä, tavallisesti",          "fr": "généralement, en général" },
-{ "en": "yellow",         "ko": "노란색",       "fi": "ladata",          "fr": "keltainen" },
-{ "en": "green",         "ko": "녹색",       "fi": "vihreä",          "fr": "vert" },
 
 { "en": "already",         "ko": "벌써",       "fi": "jo",          "fr": "déjà" },
 
