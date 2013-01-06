@@ -1,0 +1,27 @@
+[
+{ "en": "bag",        "ko": "가방",          "fi": "laukku",    "fr": "sac" },
+{ "en": "trousers",        "ko": "바지",          "fi": "housut",    "fr": "housut" },
+{ "en": "skirt",        "ko": "치마",          "fi": "hame",    "fr": "jupe" },
+{ "en": "shorts",        "ko": "반바지",          "fi": "sortsit",    "fr": "short" },
+{ "en": "shoe",        "ko": "구두",          "fi": "kenkä",    "fr": "chaussure" },
+{ "en": "headphones",        "ko": "헤드폰",          "fi": "kuulokkeet",    "fr": "casque" },
+{ "en": "jacket",        "ko": "재킷",          "fi": "takki",    "fr": "veste" },
+{ "en": "key",        "ko": "열쇠",          "fi": "avain",    "fr": "nouveau" },
+{ "en": "umbrella",     "ko": "우산",         "fi": "sateenvarjo",   "fr": "parapluie" },
+{ "en": "eyeglasses",     "ko": "안경",         "fi": "silmälasit",   "fr": "lunettes" },
+{ "en": "wallet",     "ko": "지갑",         "fi": "lompakko",   "fr": "portefeuille" },
+{ "en": "gloves",     "ko": "장갑",         "fi": "gants",   "fr": "käsineet" },
+{ "en": "panties",     "ko": "팬티",         "fi": "pikkuhousut, alushousut",   "fr": "culotte" },
+{ "en": "necktie",     "ko": "넥타이",         "fi": "kravatti",   "fr": "cravate" },
+{ "en": "ring",         "ko": "반지",       "fi": "sormus",          "fr": "anneau" },
+
+{ "en": "to wear",     "ko": "입다",         "fi": "olla yllään",   "fr": "porter" },
+{ "en": "cool, stylish, good-looking",         "ko": "멋있다",       "fi": "mahtava",          "fr": "excellent" },
+{ "en": "sexy",         "ko": "섹시하다",       "fi": "seksikäs",          "fr": "sexy" },
+
+{ "en": "new",         "ko": "새로운",       "fi": "uusi",          "fr": "nouveau, neuf" },
+{ "en": "old",         "ko": " 낡다 (ko) (nakda), 오래되다, 늙다(of people)",       "fi": "vanha",          "fr": "vieux" },
+
+{ "en": "beautiful",         "ko": "아름답다",       "fi": "kaunis",          "fr": "beau" }
+
+]
