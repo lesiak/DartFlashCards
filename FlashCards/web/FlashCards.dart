@@ -82,7 +82,7 @@ class FlashCardsApp {
       deckLink.text = deckName;
       deckLink.on.click.add((e) {
         
-        tBody.elements.forEach((aRow) => aRow.classes.remove('selectedTableRow'));
+        tBody.children.forEach((aRow) => aRow.classes.remove('selectedTableRow'));
         tRow.classes.add('selectedTableRow');
         loadWordTable( "${deckName}.json");        
       });
@@ -131,11 +131,11 @@ class FlashCardsApp {
       
       String timeSinceLastAnswer = "";
       if (score != null) {
-        if (score.isGoodAnswer()) {
+        if (score.isGoodAnswer() && !engine.isInLearningList(card, score)) {
           newLine.classes.add("succ");
         }
         else if (score.isPoorAnswer()) {
-          newLine.classes.add("error");
+          newLine.classes.add("almost");
         }
         else if (score.isBadAnswer()) {
           newLine.classes.add("error");

@@ -73,6 +73,11 @@
   background-color: #dff0d8;
 }
 
+.table tbody tr.almost td {
+  background-color: #dfffd8;
+}
+
+
 
 .table-striped tbody tr.succ:nth-child(odd) td,
 .table-striped tbody tr.succ:nth-child(odd) th {

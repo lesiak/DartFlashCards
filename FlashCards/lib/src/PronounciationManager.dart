@@ -8,6 +8,8 @@ class PronounciationManager {
   
   static Set<String> favoriteUsers = new Set.from(['ssoonkimi', 'x_WoofyWoo_x', 'floridagirl']);
   
+  static Set<String> bannedUsers = new Set.from(['jcung']);
+  
   static void getPronunciations(String lang, String word, ForvoResonseCallback onSuccessfullyParsedResponse) {
     var url = "http://apifree.forvo.com/action/word-pronunciations/format/json/word/$word/language/$lang/key/$forvoKey/";
     
@@ -17,11 +19,17 @@ class PronounciationManager {
   
   
   static ForvoItem getPreferredPronunciation(ForvoResponse r) {
+    //is in favorites    
     for (ForvoItem item in r.items) {
       if (favoriteUsers.contains(item.username) ) {
         return item;
       }
     }
-    return r.items[0];
+    for (ForvoItem item in r.items) {
+      if (!bannedUsers.contains(item.username) ) {
+        return item;
+      }
+    }
+    
   }
 }
