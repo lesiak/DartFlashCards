@@ -16,6 +16,7 @@ class FlashCardsApp {
                      'Animals',
                      'People',
                      'Body',
+                     'Health',
                      'People',
                      'Colors'];
   
