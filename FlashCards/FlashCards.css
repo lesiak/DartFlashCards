@@ -73,16 +73,28 @@
   background-color: #dff0d8;
 }
 
-.table tbody tr.almost td {
-  background-color: #dfffd8;
-}
-
-
-
 .table-striped tbody tr.succ:nth-child(odd) td,
 .table-striped tbody tr.succ:nth-child(odd) th {
   background-color: #e2f4dd;
 }
+
+.table tbody tr.succInList td {
+  background-color: #efefec;
+}
+
+.table-striped tbody tr.succInList:nth-child(odd) td,
+.table-striped tbody tr.succInList:nth-child(odd) th {
+  background-color: #f8f8f8;
+}
+
+
+
+
+
+.table tbody tr.almost td {
+  background-color: #F1F587;
+}
+
 
 
 .deckLink a {

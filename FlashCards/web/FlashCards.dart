@@ -134,6 +134,9 @@ class FlashCardsApp {
         if (score.isGoodAnswer() && !engine.isInLearningList(card, score)) {
           newLine.classes.add("succ");
         }
+        else if (score.isGoodAnswer() && engine.isInLearningList(card, score)) {
+          newLine.classes.add("succInList");
+        }
         else if (score.isPoorAnswer()) {
           newLine.classes.add("almost");
         }
@@ -163,11 +166,16 @@ class FlashCardsApp {
           new Duration(milliseconds: -d.inMilliseconds);
       return "-$duration";
     }
+    var days = d.inDays;
+    var hours = d.inHours.remainder(Duration.HOURS_PER_DAY);
     String twoDigitMinutes =
-        twoDigits(d.inMinutes.remainder(Duration.MINUTES_PER_HOUR));
-    String twoDigitSeconds =
-        twoDigits(d.inSeconds.remainder(Duration.SECONDS_PER_MINUTE));    
-    return "${d.inHours}:$twoDigitMinutes:$twoDigitSeconds";
+        twoDigits(d.inMinutes.remainder(Duration.MINUTES_PER_HOUR));       
+    if (days == 0) {
+      return "${d.inHours} hours ${twoDigitMinutes} min";
+    }
+    else {
+      return "${days} days ${hours} hours";
+    }
   }
   
   
