@@ -44,6 +44,10 @@
 
 { "en": "sit",         "ko": "앉다",       "fi": "istua",    "fr": "être assis" },
 { "en": "stand",         "ko": "서다",       "fi": "seisoa",    "fr": "être debout" },
-{ "en": "sleep",         "ko": "자다",       "fi": "nukkua",    "fr": "dormir" }
+{ "en": "sleep",         "ko": "자다",       "fi": "nukkua",    "fr": "dormir" },
+{ "en": "know",       "ko": "알다",       "fi": "tietää",    "fr": "savoir, connaître" },
+{ "en": "not to know",       "ko": "모르다",       "fi": "ei tiedä",    "fr": "ne pas savoir" },
+{ "en": "make",       "ko": "만들다",       "fi": "tehdä",    "fr": "faire" }
+
 
 ]

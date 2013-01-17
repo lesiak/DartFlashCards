@@ -1,6 +1,11 @@
 [
 
-{ "en": "girl",    "ko": "소녀",    "fi": "tyttö" , "fr":"fille"},
+{ "en": "girl",    "ko": "소녀 (girly)",    "fi": "tyttö" , "fr":"fille"},
+
+
+{ "en": "man (masculine type)",         "ko": "사나이",       "fi": "",          "fr": "" },
+{ "en": "lady",         "ko": "숙녀",       "fi": "leidi",          "fr": "dame" },
+
 { "en": "generation",    "ko": "세대",    "fi": "sukupolvi" , "fr":"génération"},
  
 
@@ -33,7 +38,7 @@
 { "en": "angel",         "ko": "천사",       "fi": "enkeli",          "fr": "ange" },
 { "en": "devil",         "ko": "악마",       "fi": "paholainen, piru , perkele",          "fr": "diable" },
 { "en": "genius",         "ko": "천재",       "fi": "nero",          "fr": "génie" },
-{ "en": "god",         "ko": "신",       "fi": "jumala",          "fr": "dieu" }
+{ "en": "god",         "ko": "신",       "fi": "jumala",          "fr": "dieu" },
 
 
 

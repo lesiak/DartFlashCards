@@ -1,0 +1,22 @@
+[
+
+{ "en": "company",           "ko": "회사",           "fi": "yritys, yhtiö",    "fr": "entreprise, société" },
+{ "en": "office",           "ko": "사무실",           "fi": "toimisto, konttori",    "fr": "bureau" },
+{ "en": "programmer",       "ko": "프로그래머",      "fi": "ohjelmoija",    "fr": "programmeur" },
+{ "en": "software",         "ko": "소프트웨어",      "fi": "ohjelmisto",    "fr": "logiciel" },
+{ "en": "colleague",        "ko": "동료",             "fi": "kollega, virkaveli, virkatoveri",    "fr": "collègue" },
+
+{ "en": "Pleased to meet you",        "ko": "만나서 반가워요",             "fi": "Ilo tavata",    "fr": "c'est un plaisir de vous rencontrer, ravi de vous avoir rencontré" },
+{ "en": "introduce",    "ko": "소개하다",       "fi": "esitellä",    "fr": "introduire" },
+
+{ "en": "tired",        "ko": "피곤하다",             "fi": "väsynyt",    "fr": "fatigué" },
+{ "en": "busy",        "ko": "바쁘다",             "fi": "kiireinen, työntäyteinen",    "fr": "occupé" },
+
+{ "en": "atmosphere",         "ko": "분위기",       "fi": "ilmapiiri, tunnelma",    "fr": "ambiance" },
+{ "en": "quiet",    "ko": "조용하다",    "fi": "hiljainen" , "fr":"calme"},
+
+{ "en": "late",        "ko": "늦다",             "fi": "myöhässä",    "fr": "tard" },
+{ "en": "traffic",    "ko": "교통",    "fi": "liikenne" , "fr":"circulation"}
+
+
+]

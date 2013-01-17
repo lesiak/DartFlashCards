@@ -23,7 +23,10 @@
 { "en": "nail",       "ko": "손톱",       "fi": "kynsi",    "fr": "ongle" },
 { "en": "ankle",       "ko": "발목",       "fi": "nilkka",    "fr": "cheville" },
 { "en": "hip",       "ko": "엉덩이",       "fi": "lonkka, lanne ",    "fr": "hanche" },
-{ "en": "cheek",       "ko": "볼",         "fi": "poski",    "fr": "joue" }
+{ "en": "cheek",       "ko": "볼",         "fi": "poski",    "fr": "joue" },
+{ "en": "chin",       "ko": "턱",         "fi": "leuka",    "fr": "menton" },
+{ "en": "jaw",       "ko": "턱",         "fi": "leuka",    "fr": "mâchoire" },
+{ "en": "shoulder",       "ko": "어깨",         "fi": "olkapää",    "fr": "épaule" }
 
 
 
