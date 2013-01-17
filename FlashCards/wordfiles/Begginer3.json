@@ -6,7 +6,7 @@
 { "en": "mirror",        "ko": "거울",          "fi": "peili",    "fr": "miroir" },
 { "en": "towel",        "ko": "수건, 타월",          "fi": "pyyhe",    "fr": "serviette" },
 
-{ "en": "get up",       "ko": "일어나다",       "fi": "nousta",    "fr": "se lever" },
+{ "en": "get up, wake up",       "ko": "일어나다",       "fi": "nousta",    "fr": "se lever" },
 
 
 { "en": "letter",     "ko": "편지",       "fi": "kirje",     "fr": "lettre" },

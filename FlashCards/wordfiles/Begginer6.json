@@ -8,6 +8,7 @@
 
 { "en": "jump",     "ko": "뛰다",       "fi": "hypätä",     "fr": "sauter" },
 { "en": "run",     "ko": "달리다",       "fi": "juosta",     "fr": "courir" },
+{ "en": "catch",     "ko": "잡다",       "fi": "ottaa kiinni",     "fr": "" },
 { "en": "swim",     "ko": "수영하다",       "fi": "uida",     "fr": "nager" },
 { "en": "swimming pool",     "ko": "수영장",       "fi": "uimahalli",     "fr": "piscine" },
 

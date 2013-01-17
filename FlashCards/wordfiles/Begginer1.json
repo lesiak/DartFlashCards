@@ -48,6 +48,6 @@
 { "en": "know",       "ko": "알다",       "fi": "tietää",    "fr": "savoir, connaître" },
 { "en": "not to know",       "ko": "모르다",       "fi": "ei tiedä",    "fr": "ne pas savoir" },
 { "en": "make",       "ko": "만들다",       "fi": "tehdä",    "fr": "faire" }
-
+{ "en": "see",       "ko": "보다",       "fi": "nähdä",    "fr": "voir" },
 
 ]
