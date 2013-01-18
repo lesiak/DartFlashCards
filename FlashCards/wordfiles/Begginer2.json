@@ -14,6 +14,7 @@
 { "en": "staircase",     "ko": "계단",   "fi": "portaikko" ,   "fr":"escalier"},
 { "en": "street",     "ko": "거리",   "fi": "katu" ,   "fr":"rue"},
 { "en": "alley, backstreet",     "ko": "골목",   "fi": "kuja" ,   "fr":"ruelle"},
+{ "en": "bakery",     "ko": "빵집",   "fi": "" ,   "fr":""},
 
 { "en": "architecture",     "ko": " 건축학",   "fi": "arkkitehtuuri" ,   "fr":"architecture"},
 { "en": "architect",     "ko": " 건축가",   "fi": "arkkitehti" ,   "fr":"architecte"},

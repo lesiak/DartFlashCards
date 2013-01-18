@@ -1,0 +1,33 @@
+[
+{ "en": "map",        "ko": "지도",      "fi": "kartta" ,       "fr":"carte"},
+{ "en": "church",     "ko": "교회",      "fi": "kirkko" ,       "fr":"église"},
+{ "en": "pharmacy",     "ko": "약국",      "fi": "apteekki" ,     "fr":"pharmacie"},
+{ "en": "castle",     "ko": "성",     "fi": "linna" ,     "fr":"château"},
+{ "en": "bridge",     "ko": "다리",      "fi": "silta" ,     "fr":"pont"},
+{ "en": "building",        "ko": "건물",          "fi": "rakennus",    "fr": "bâtiment" },
+{ "en": "hospital",        "ko": "병원",          "fi": "sairaala",    "fr": "hôpital" },
+{ "en": "school",     "ko": "학교",    "fi": "koulu" ,   "fr":"école"},
+{ "en": "museum",     "ko": "박물관",   "fi": "museo" ,   "fr":"musée"},
+{ "en": "centre",     "ko": "가운데",   "fi": "keskipiste" ,   "fr":"milieu"},
+{ "en": "floor",    "ko": "층",   "fi": "kerros" ,   "fr":"étage"},
+{ "en": "lift",     "ko": "엘리베이터",   "fi": "hissi" ,   "fr":"ascenseur"},
+{ "en": "staircase",     "ko": "계단",   "fi": "portaikko" ,   "fr":"escalier"},
+{ "en": "street",     "ko": "거리",   "fi": "katu" ,   "fr":"rue"},
+{ "en": "alley, backstreet",     "ko": "골목",   "fi": "kuja" ,   "fr":"ruelle"},
+{ "en": "bakery",     "ko": "빵집",   "fi": "" ,   "fr":""},
+
+{ "en": "architecture",     "ko": " 건축학",   "fi": "arkkitehtuuri" ,   "fr":"architecture"},
+{ "en": "architect",     "ko": " 건축가",   "fi": "arkkitehti" ,   "fr":"architecte"},
+{ "en": "bank",     "ko": " 은행",   "fi": "pankki" ,   "fr":"banque"},
+{ "en": "pub",     "ko": " 술집",   "fi": "baari, kapakka, pubi" ,   "fr":"bar, pub"},
+{ "en": "bus stop",     "ko": " 버스 정류장",   "fi": "bussipysäkki" ,   "fr":"arrêt de bus"},
+{ "en": "library",      "ko": "도서관",   "fi": "kirjasto",         "fr": "bibliothèque" },
+{ "en": "shop",      "ko": "가게",   "fi": "myymälä, kauppa",         "fr": "magasin, boutique" },
+
+
+{ "en": "other side",        "ko": "건너편",          "fi": "?",    "fr": "?" },
+{ "en": "wall",         "ko": "담",       "fi": "seinä, muuri",          "fr": "mur" }
+
+
+
+]

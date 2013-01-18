@@ -15,7 +15,8 @@
 { "en": "competition",    "ko": "경기 (競  “contest” and 技 “talent”)",    "fi": "kilpailu, kisat" , "fr":"concours, compétition"},
 { "en": "stadium",    "ko": "경기장",    "fi": "stadion" , "fr":"stade"},
 { "en": "gym",    "ko": "체육관",    "fi": "" , "fr":""},
-
+{ "en": "push-ups",    "ko": "팔 굽혀 펴기",    "fi": "" , "fr":""},
+  
 
  
 { "en": "culture",      "ko": "문화",    "fi": "kulttuuri",         "fr": "culture" },

@@ -35,9 +35,17 @@
 { "en": "sky",        "ko": "하늘",          "fi": "taivas",    "fr": "ciel" },
 { "en": "cloud",        "ko": "구름",          "fi": "pilvi",    "fr": "nuage" },
 { "en": "rainbow",        "ko": "무지개",          "fi": "sateenkaari",    "fr": "arc-en-ciel" },
+ 
+{ "en": "rain",        "ko": "비",          "fi": "",    "fr": "" },
 { "en": "snow",        "ko": "눈",          "fi": "lumi",    "fr": "neige" },
-{ "en": "world",        "ko": "세계",          "fi": "maailma",    "fr": "monde" },
+{ "en": "weather",        "ko": "날씨",          "fi": "",    "fr": "" },
 { "en": "wind",        "ko": "바람",          "fi": "tuuli",    "fr": "vent" },
+{ "en": "sunset",        "ko": "일몰",          "fi": "",    "fr": "" },
+{ "en": "sunrise",        "ko": "해돋이",          "fi": "",    "fr": "" },
+
+
+{ "en": "world",        "ko": "세계",          "fi": "maailma",    "fr": "monde" },
+
 
 { "en": "family",       "ko": "가족",     	"fi": "perhe",   "fr": "famille" },
 { "en": "child",        "ko": "아이",          "fi": "lapsi",    "fr": "enfant" },

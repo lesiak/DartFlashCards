@@ -65,7 +65,7 @@
 { "en": "belong",       "ko": "속하다",       "fi": "kuulua",    "fr": "appartenir à, être membre de" },
 { "en": "get up",       "ko": "일어나다",       "fi": "nousta",    "fr": "se lever" },
 
-{ "en": "see",       "ko": "보다",       "fi": "nähdä",    "fr": "voir" },
+
 { "en": "time (occurence)",       "ko": "번",       "fi": "kerta",    "fr": "fois" },
 { "en": "situation",       "ko": "?",       "fi": "tilanne",    "fr": "situation" },
 { "en": "knowledge",       "ko": "지식",       "fi": "tieto",    "fr": "connaissance" },
@@ -84,7 +84,7 @@
 
 { "en": "Air conditioning",    "ko": "에어컨",    "fi": "ilmastointi" , "fr":"climatisation"},
 
-{ "en": "rose",    "ko": "장미",    "fi": "ruusu" , "fr":"rose"},
+
 
 { "en": "poor",    "ko": "가난하다",    "fi": "köyhä" , "fr":"pauvre"},
 { "en": "competation",    "ko": "경기 (競  “contest” and 技 “talent”)",    "fi": "kilpailu, kisat" , "fr":"concours, compétition"},
