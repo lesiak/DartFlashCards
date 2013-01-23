@@ -27,6 +27,7 @@ class FlashCardsApp {
                               'Begginer7',
                               'Begginer8',
                               'Begginer9',
+                              'Mythology',
                               'Sentences1',
                               'TopikInter1'];
   
