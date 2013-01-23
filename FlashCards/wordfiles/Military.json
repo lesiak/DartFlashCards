@@ -1,0 +1,23 @@
+[
+
+ 
+{ "en": "soldier",        "ko": "군인",          "fi": "sotilas",    "fr": "soldat" },
+{ "en": "army",        "ko": "군대",          "fi": "",    "fr": "" },
+{ "en": "war",        "ko": "전쟁",          "fi": "sota",    "fr": "guerre" },
+{ "en": "enemy",        "ko": "적",          "fi": "vihollinen",    "fr": "ennemi" },
+{ "en": "weapon",        "ko": "무기",          "fi": "ase",    "fr": "arme" },
+{ "en": "gun",        "ko": "총",          "fi": "",    "fr": "" },
+{ "en": "rifle",        "ko": "소총",          "fi": "",    "fr": "" },
+{ "en": "pistol",        "ko": "권총",          "fi": "",    "fr": "" },
+{ "en": "machine gun",        "ko": "기관총",          "fi": "konekivääri",    "fr": "mitrailleuse" },
+
+{ "en": "bomb",        "ko": "폭탄",          "fi": "",    "fr": "" },
+
+{ "en": "fight",        "ko": "싸우다",          "fi": "taistella",    "fr": "combattre" },
+{ "en": "defense",        "ko": "방어",          "fi": "puolustus",    "fr": "défense" },
+{ "en": "attack",        "ko": "공격",          "fi": "hyökkäys",    "fr": "attaque" },
+{ "en": "sword",        "ko": "검",          "fi": "miekka",    "fr": "épée" },
+{ "en": "bow",        "ko": "활",          "fi": "jousi",    "fr": "arc" }
+
+
+]

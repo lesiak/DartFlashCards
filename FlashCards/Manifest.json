@@ -1,6 +1,6 @@
 {
 "name": "FlashCards",
-"version": "0.0.3",
+"version": "0.0.4",
 "manifest_version": 2,
 "description": "My Flashcards application.",
 "app": {
@@ -9,8 +9,8 @@
 }
 },
 "icons": {
-"16": "1345540112_konqsidebar_news.png",
-"128": "1345540046_rss.png"
+"16": "assets/1345540112_konqsidebar_news.png",
+"128": "assets/1345540046_rss.png"
 },
 "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'",
 "permissions": [  "http://apifree.forvo.com/",	

@@ -28,6 +28,8 @@ class FlashCardsApp {
                               'Begginer8',
                               'Begginer9',
                               'Mythology',
+                              'Professions',
+                              'Military',
                               'Sentences1',
                               'TopikInter1'];
   
