@@ -36,22 +36,22 @@ class FlashCardsApp {
   
   
   FlashCardsApp() {
-    this.engine = new Engine();
+    this.engine = new Engine();    
     this.ui = new FlashCardsUI(engine);
     
-    query("#showAnswerButton").on.click.add((e) => showAnswer());    
-    query("#goodAnswerButton").on.click.add((e) => goodAnswer());
-    query("#poorAnswerButton").on.click.add((e) => poorAnswer());
-    query("#badAnswerButton").on.click.add((e) => badAnswer());
+    query("#showAnswerButton").onClick.listen((e) => showAnswer());    
+    query("#goodAnswerButton").onClick.listen((e) => goodAnswer());
+    query("#poorAnswerButton").onClick.listen((e) => poorAnswer());
+    query("#badAnswerButton").onClick.listen((e) => badAnswer());
     
-    query("#clearCache").on.click.add((e) => window.localStorage.clear());
+    query("#clearCache").onClick.listen((e) => window.localStorage.clear());
         
-    query("#startButton").on.click.add((e) {
+    query("#startButton").onClick.listen((e) {
       ui.showLearningPanel();
       showQuestion(); 
     });
-    query("#clearResultsButton").on.click.add((e) => clearDeckResults());
-    query("#homePill").on.click.add((e) {
+    query("#clearResultsButton").onClick.listen((e) => clearDeckResults());
+    query("#homePill").onClick.listen((e) {
       engine.initLearningList();
       ui.showHomePanel();
       fillDeckData();
@@ -59,12 +59,12 @@ class FlashCardsApp {
     
     Element level1Tab = query("#level1Tab");
     Element level2Tab = query("#level2Tab");
-    level1Tab.on.click.add((e) {
+    level1Tab.onClick.listen((e) {
       level2Tab.parent.classes.remove('active');
       level1Tab.parent.classes.add('active');
       fillQuestionDecksTable(level1Files);
     });
-    level2Tab.on.click.add((e) {
+    level2Tab.onClick.listen((e) {
       level1Tab.parent.classes.remove('active');
       level2Tab.parent.classes.add('active');
       fillQuestionDecksTable(level2Files);
@@ -86,7 +86,7 @@ class FlashCardsApp {
       cell.classes.add('deckLink');
       AnchorElement deckLink = new AnchorElement(href: "#");
       deckLink.text = deckName;
-      deckLink.on.click.add((e) {
+      deckLink.onClick.listen((e) {
         
         tBody.children.forEach((aRow) => aRow.classes.remove('selectedTableRow'));
         tRow.classes.add('selectedTableRow');
@@ -137,10 +137,10 @@ class FlashCardsApp {
       
       String timeSinceLastAnswer = "";
       if (score != null) {
-        if (score.isGoodAnswer() && !engine.isInLearningList(card, score)) {
+        if (score.isGoodAnswer() && !engine.isInLearningList(score)) {
           newLine.classes.add("succ");
         }
-        else if (score.isGoodAnswer() && engine.isInLearningList(card, score)) {
+        else if (score.isGoodAnswer() && engine.isInLearningList(score)) {
           newLine.classes.add("succInList");
         }
         else if (score.isPoorAnswer()) {

@@ -6,9 +6,10 @@ class CardScore {
   static final String BAD_ANSWER = 'BAD';
   
   String lastResult;
+  int goodInARow;
   int lastAnswerTime;
   
-  CardScore(this.lastResult, this.lastAnswerTime);
+  CardScore(this.lastResult, this.goodInARow, this.lastAnswerTime);
   
   factory CardScore.fromJsonString(String jsonString) {   
     Map map =  JSON.parse(jsonString);
@@ -16,7 +17,7 @@ class CardScore {
   }
   
   factory CardScore.fromMap(Map jsonMap) {
-    return new CardScore(jsonMap["lastResult"], jsonMap["time"]);
+    return new CardScore(jsonMap["lastResult"], jsonMap["goodInARow"], jsonMap["time"]);
   }
     
   bool isGoodAnswer() {
@@ -31,14 +32,16 @@ class CardScore {
     return lastResult == BAD_ANSWER;
   }
   
-  Duration getDateDifference(Date currentDate) {
+  Duration getDateDifferenceSinceLast(Date currentDate) {
     var lastAnswerDate = new Date.fromMillisecondsSinceEpoch(lastAnswerTime);
     var dateDifference = currentDate.difference(lastAnswerDate);
     return dateDifference;
   }
   
   String toJSON() {
-    Map resultMap = {"lastResult" : lastResult, "time" : lastAnswerTime};
+    Map resultMap = {"lastResult" : lastResult,
+                     "goodInARow" : goodInARow,
+                     "time" : lastAnswerTime};
     return JSON.stringify(resultMap);
   }
   

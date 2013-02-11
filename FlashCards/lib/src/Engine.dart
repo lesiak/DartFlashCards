@@ -23,16 +23,16 @@ class Engine implements DeckState {
   Engine() {}  
   
   void loadData(String wordfilePath, DataLoadedCallback onDataReady) {
-    var request = new HttpRequest.get(wordfilePath, (req) {
-      _initDeck(req.responseText);
+    HttpRequest.getString(wordfilePath).then((responseText) {
+      _initDeck(responseText);
       onDataReady();
     });
   }
   
   void _initDeck(String wordListJSON) {
     List rawData = JSON.parse(wordListJSON); // parse response text
-    allCardsInDeck = rawData.map((entry) => new Card(entry["en"], entry["ko"], entry["fi"], entry["fr"]));
-    initLearningList();
+    allCardsInDeck = rawData.mappedBy((entry) => new Card(entry["en"], entry["ko"], entry["fi"], entry["fr"])).toList();
+    initLearningList();    
   }
   
   void initLearningList() {
@@ -45,26 +45,47 @@ class Engine implements DeckState {
   }
     
   List<Card> buildLearningList(List<Card> allElements) {
-    return allElements.filter(isCardInLearningList);
+    return allElements.where(isCardInLearningList).toList();
   }
   
   bool isCardInLearningList(Card card) {    
     CardScore lastCardScore = ResultStore.getCardScoreFromStore(card);
-    return isInLearningList(card, lastCardScore);
+    return isInLearningList(lastCardScore);
   }
   
-  bool isInLearningList(Card card, CardScore lastCardScore) {
+  bool isInLearningList(CardScore lastCardScore) {
     if (lastCardScore == null) {
       return true;
     }
     var currentDate = new Date.now();
-    var dateDifference = lastCardScore.getDateDifference(currentDate);    
+    var dateDifference = lastCardScore.getDateDifferenceSinceLast(currentDate);
+    var goodInARow = lastCardScore.goodInARow;
     return (
         lastCardScore.lastResult == BAD_ANSWER
         || lastCardScore.lastResult == POOR_ANSWER && dateDifference.inHours > 1
-        || lastCardScore.lastResult == GOOD_ANSWER && dateDifference.inDays > 2    
+        || lastCardScore.lastResult == GOOD_ANSWER && dateDifference.inDays > fib(goodInARow+1)    
     );
   }
+  
+  /**
+   * 0 -> 1
+   * 1 -> 1
+   * 2 -> 2
+   */
+  int fib(int num) {
+    var a = 0;
+    var b = 1;
+    var c = 1;
+    for (int i = 0; i < num; ++i) {
+      c = a+b;
+      a = b; 
+      b = c; 
+    }
+    print("AAAA $c");
+    return c;
+  }
+  
+  
   
   
   
@@ -97,8 +118,18 @@ class Engine implements DeckState {
   }
   
   void _processAnswer(String answerResult) {
-    var time = new Date.now().millisecondsSinceEpoch;    
-    CardScore newScore = new CardScore(answerResult, time);
+    var time = new Date.now().millisecondsSinceEpoch; 
+    int previousGoodInARow = 0;
+    
+    if (_currentScore != null) {
+     // previousGoodInARow = _currentScore.goodInARow;
+      previousGoodInARow = _currentScore.goodInARow;
+    }
+    int goodInARow = 0;
+    if (answerResult == CardScore.GOOD_ANSWER) {
+      goodInARow = previousGoodInARow + 1;
+    }
+    CardScore newScore = new CardScore(answerResult, previousGoodInARow, time);
     ResultStore.storeResult(currentCard, newScore);
   }
       
@@ -116,7 +147,7 @@ class Engine implements DeckState {
   }
   
   int get deckSize => allCardsInDeck.length;
-  int get completedSize => allCardsInDeck.filter(isCardCompleted).length;
+  int get completedSize => allCardsInDeck.where(isCardCompleted).length;
   
   
 }

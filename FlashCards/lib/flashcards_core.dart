@@ -1,7 +1,7 @@
 library flashcards_core;
 
 import 'dart:html';
-import 'dart:json';
+import 'dart:json' as JSON;
 
 part 'src/Card.dart';
 part 'src/CardScore.dart';
