@@ -135,7 +135,7 @@ class FlashCardsApp {
       CardScore score = ResultStore.getCardScoreFromStore(card);
       TableRowElement newLine = tBody.insertRow(-1); // add at the end
       
-      String timeSinceLastAnswer = "";
+      String dueIn = "";
       if (score != null) {
         if (score.isGoodAnswer() && !engine.isInLearningList(score)) {
           newLine.classes.add("succ");
@@ -150,14 +150,14 @@ class FlashCardsApp {
           newLine.classes.add("error");
         }
         
-        timeSinceLastAnswer = formatDuration(score.getDateDifference(currentDate));
+        dueIn = formatDuration(score.getDueInDuration(currentDate));
       }
       
       newLine.insertCell(0).text = card.en;
       newLine.insertCell(1).text = card.ko;
       newLine.insertCell(2).text = card.fi;
       newLine.insertCell(3).text = card.fr;
-      newLine.insertCell(4).text = timeSinceLastAnswer;
+      newLine.insertCell(4).text = dueIn;
     }
   }
   
@@ -168,9 +168,11 @@ class FlashCardsApp {
     }
 
     if (d.inMilliseconds < 0) {
-      Duration duration =
+     /* Duration duration =
           new Duration(milliseconds: -d.inMilliseconds);
       return "-$duration";
+      */
+      return "now";
     }
     var days = d.inDays;
     var hours = d.inHours.remainder(Duration.HOURS_PER_DAY);

@@ -38,6 +38,44 @@ class CardScore {
     return dateDifference;
   }
   
+  Duration getDueInDuration(Date currentDate) {
+    var scheduledDate = getNextScheduledTime();
+    var dateDifference = scheduledDate.difference(currentDate);
+    return dateDifference;
+    
+  }
+  
+  Date getNextScheduledTime() {
+    var lastAnswerDate = new Date.fromMillisecondsSinceEpoch(lastAnswerTime);
+    if (lastResult == BAD_ANSWER) {
+      return lastAnswerDate;
+    } 
+    else if (lastResult == POOR_ANSWER) {      
+      return lastAnswerDate.add(new Duration(hours: 1));     
+    }
+    else {
+      return lastAnswerDate.add(new Duration(days: fib(goodInARow+1)));
+    }
+  }
+  
+  /**
+   * 0 -> 1
+   * 1 -> 1
+   * 2 -> 2
+   */
+  int fib(int num) {
+    var a = 0;
+    var b = 1;
+    var c = 1;
+    for (int i = 0; i < num; ++i) {
+      c = a+b;
+      a = b; 
+      b = c; 
+    }
+    print("AAAA $c");
+    return c;
+  }
+  
   String toJSON() {
     Map resultMap = {"lastResult" : lastResult,
                      "goodInARow" : goodInARow,

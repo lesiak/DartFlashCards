@@ -58,13 +58,15 @@ class Engine implements DeckState {
       return true;
     }
     var currentDate = new Date.now();
-    var dateDifference = lastCardScore.getDateDifferenceSinceLast(currentDate);
+    var scheduledDate = lastCardScore.getNextScheduledTime();
+    return currentDate > scheduledDate;
+    /*var dateDifference = lastCardScore.getDateDifferenceSinceLast(currentDate);
     var goodInARow = lastCardScore.goodInARow;
     return (
         lastCardScore.lastResult == BAD_ANSWER
         || lastCardScore.lastResult == POOR_ANSWER && dateDifference.inHours > 1
         || lastCardScore.lastResult == GOOD_ANSWER && dateDifference.inDays > fib(goodInARow+1)    
-    );
+    );*/
   }
   
   /**
