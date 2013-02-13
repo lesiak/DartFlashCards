@@ -69,27 +69,6 @@ class Engine implements DeckState {
     );*/
   }
   
-  /**
-   * 0 -> 1
-   * 1 -> 1
-   * 2 -> 2
-   */
-  int fib(int num) {
-    var a = 0;
-    var b = 1;
-    var c = 1;
-    for (int i = 0; i < num; ++i) {
-      c = a+b;
-      a = b; 
-      b = c; 
-    }
-    print("AAAA $c");
-    return c;
-  }
-  
-  
-  
-  
   
   Card get currentCard {    
     return _currentCard;   
@@ -131,7 +110,7 @@ class Engine implements DeckState {
     if (answerResult == CardScore.GOOD_ANSWER) {
       goodInARow = previousGoodInARow + 1;
     }
-    CardScore newScore = new CardScore(answerResult, previousGoodInARow, time);
+    CardScore newScore = new CardScore(answerResult, goodInARow, time);
     ResultStore.storeResult(currentCard, newScore);
   }
       

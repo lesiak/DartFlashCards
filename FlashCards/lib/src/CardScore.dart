@@ -54,6 +54,7 @@ class CardScore {
       return lastAnswerDate.add(new Duration(hours: 1));     
     }
     else {
+      print("goodInARow $goodInARow");
       return lastAnswerDate.add(new Duration(days: fib(goodInARow+1)));
     }
   }
@@ -72,7 +73,7 @@ class CardScore {
       a = b; 
       b = c; 
     }
-    print("AAAA $c");
+    print("fib $num: $c");
     return c;
   }
   

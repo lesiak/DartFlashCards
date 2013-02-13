@@ -14,7 +14,7 @@ class PronounciationManager {
     var url = "http://apifree.forvo.com/action/word-pronunciations/format/json/word/$word/language/$lang/key/$forvoKey/";
     
     // call the web server asynchronously
-    HttpRequest.request(url).then(onSuccessfullyParsedResponse);
+    HttpRequest.request(url).then(onSuccessfullyParsedResponse, onError: (asyncError) => print(asyncError));
   }
   
   
