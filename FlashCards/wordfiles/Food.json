@@ -53,6 +53,8 @@
 { "en": "cup",       "ko": "컵",         "fi": "kuppi",    "fr": "tasse" }, 
 
 { "en": "pot",       "ko": "냄비",         "fi": "potti",    "fr": "casserole" },
+
+{ "en": "meal",       "ko": "식사",         "fi": "ateria",    "fr": "repas" },
 { "en": "waiter",    "ko": "웨이터",    "fi": "tarjoilija" , "fr":"serveur"}
 
 ]

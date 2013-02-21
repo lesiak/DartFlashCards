@@ -71,7 +71,7 @@ class FlashCardsApp {
     });
   }
   
-  void startApplication() {
+  void startApplication() {    
     fillQuestionDecksTable(level1Files);
   }
   

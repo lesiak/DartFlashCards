@@ -2,6 +2,17 @@
 
 { "en": "company",           "ko": "회사",           "fi": "yritys, yhtiö",    "fr": "entreprise, société" },
 { "en": "office",           "ko": "사무실",           "fi": "toimisto, konttori",    "fr": "bureau" },
+
+{ "en": "supervisor, manager",           "ko": "과장님",           "fi": "",    "fr": "" },
+{ "en": "to request",           "ko": "부탁하다",           "fi": "",    "fr": "" },
+{ "en": "please (do so)",           "ko": "부탁합니다",           "fi": "",    "fr": "" },
+{ "en": "meeting",           "ko": "회의",           "fi": "kokous",    "fr": "réunion" },
+
+{ "en": "vacation",           "ko": "휴가",           "fi": "loma",    "fr": "vacances" },
+{ "en": "holidays",           "ko": "휴가",           "fi": "vapaapäivät",    "fr": "fêtes" },
+
+
+
 { "en": "programmer",       "ko": "프로그래머",      "fi": "ohjelmoija",    "fr": "programmeur" },
 { "en": "software",         "ko": "소프트웨어",      "fi": "ohjelmisto",    "fr": "logiciel" },
 { "en": "colleague",        "ko": "동료",             "fi": "kollega, virkaveli, virkatoveri",    "fr": "collègue" },

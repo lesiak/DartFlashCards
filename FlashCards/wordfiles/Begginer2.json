@@ -4,6 +4,9 @@
 { "en": "sell",         "ko": "팔다",       "fi": "myydä",    "fr": "vendre" },
 { "en": "pay",         "ko": "지불하다",       "fi": "maksaa",    "fr": "payer" },
 { "en": "bring",     "ko": " 가져오다 ",       "fi": "touda",     "fr": "apporter, amener" },
+{ "en": "leave (behind)",     "ko": " 남기다 ",       "fi": "jättää",     "fr": "laisser" },
+  
+
 
 { "en": "open",    "ko": "열다",       "fi": "auki",    "fr": "ouvert" },
 

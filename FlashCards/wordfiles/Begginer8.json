@@ -37,7 +37,7 @@
 { "en": "other",         "ko": "다른",       "fi": "muu",          "fr": "autre" },
 
 { "en": "hole",        "ko": "구멍",          "fi": "reikä, aukko, kuoppa, kolo",    "fr": "trou" },
-{ "en": "hang",        "ko": "걸다",          "fi": "riippua",    "fr": "pendre" },
+{ "en": "hang (sth)",        "ko": "걸다",          "fi": "riippua",    "fr": "pendre" },
 { "en": "own",        "ko": "자기의",          "fi": "oma",    "fr": "propre" },
 
 { "en": "soon, immediately",        "ko": "금방",          "fi": "heti",    "fr": "immédiatement" },
