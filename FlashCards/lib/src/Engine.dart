@@ -31,7 +31,7 @@ class Engine implements DeckState {
   
   void _initDeck(String wordListJSON) {
     List rawData = JSON.parse(wordListJSON); // parse response text
-    allCardsInDeck = rawData.mappedBy((entry) => new Card(entry["en"], entry["ko"], entry["fi"], entry["fr"])).toList();
+    allCardsInDeck = rawData.map((entry) => new Card(entry["en"], entry["ko"], entry["fi"], entry["fr"])).toList();
     initLearningList();    
   }
   

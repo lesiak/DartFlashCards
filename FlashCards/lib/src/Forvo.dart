@@ -17,7 +17,7 @@ class ForvoResponse {
   ForvoResponse(Map json) {
     attributes = json["attributes"];
     List itemObjects = json["items"];
-    items = itemObjects.mappedBy((o) => ForvoItem.fromMap(o)).toList();
+    items = itemObjects.map((o) => ForvoItem.fromMap(o)).toList();
     
   }
   

@@ -118,7 +118,7 @@ class FlashCardsUI {
       button.classes.add("btn");
       button.attributes['rel'] = 'tooltip';
       button.attributes['title'] = '${item.sex} ${item.country}';
-      button.on.click.add((e)  => playPronounciation(item));
+      button.onClick.listen((e)  => playPronounciation(item));
       div.nodes.add(button);   
       ret.add(div);
     }
