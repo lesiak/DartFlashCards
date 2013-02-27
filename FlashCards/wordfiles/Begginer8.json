@@ -83,7 +83,7 @@
 { "en": "rubbish",    "ko": "쓰레기",    "fi": "roska" , "fr":"déchets"},
 
 { "en": "Air conditioning",    "ko": "에어컨",    "fi": "ilmastointi" , "fr":"climatisation"},
-
+{ "en": "gas cooker",    "ko": "가스레인지",    "fi": "" , "fr":""},
 
 
 { "en": "poor",    "ko": "가난하다",    "fi": "köyhä" , "fr":"pauvre"},
