@@ -32,21 +32,21 @@ class CardScore {
     return lastResult == BAD_ANSWER;
   }
   
-  Duration getDateDifferenceSinceLast(Date currentDate) {
-    var lastAnswerDate = new Date.fromMillisecondsSinceEpoch(lastAnswerTime);
+  Duration getDateDifferenceSinceLast(DateTime currentDate) {
+    var lastAnswerDate = new DateTime.fromMillisecondsSinceEpoch(lastAnswerTime);
     var dateDifference = currentDate.difference(lastAnswerDate);
     return dateDifference;
   }
   
-  Duration getDueInDuration(Date currentDate) {
+  Duration getDueInDuration(DateTime currentDate) {
     var scheduledDate = getNextScheduledTime();
     var dateDifference = scheduledDate.difference(currentDate);
     return dateDifference;
     
   }
   
-  Date getNextScheduledTime() {
-    var lastAnswerDate = new Date.fromMillisecondsSinceEpoch(lastAnswerTime);
+  DateTime getNextScheduledTime() {
+    var lastAnswerDate = new DateTime.fromMillisecondsSinceEpoch(lastAnswerTime);
     if (lastResult == BAD_ANSWER) {
       return lastAnswerDate;
     } 

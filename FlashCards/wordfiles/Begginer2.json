@@ -5,7 +5,16 @@
 { "en": "pay",         "ko": "지불하다",       "fi": "maksaa",    "fr": "payer" },
 { "en": "bring",     "ko": " 가져오다 ",       "fi": "touda",     "fr": "apporter, amener" },
 { "en": "leave (behind)",     "ko": " 남기다 ",       "fi": "jättää",     "fr": "laisser" },
+
+{ "en": "come",        "ko": "오다",          "fi": "tulla",    "fr": "venir" },
+{ "en": "enter, go in",        "ko": "들어가다",          "fi": "astua sisään",    "fr": "entrer" },
+{ "en": "come in",        "ko": "들어오다",          "fi": "",    "fr": "" },
+
+{ "en": "walk",        "ko": "걸어가다",          "fi": "kävellä",    "fr": "marcher, se promener" },
+{ "en": "stay",        "ko": "머무르다",          "fi": "jäädä, ",    "fr": "rester" },
   
+{ "en": "think",        "ko": "생각하다",          "fi": "ajatella",    "fr": "penser" },
+{ "en": "live, dwell",        "ko": "살다",          "fi": "asua",    "fr": "habiter" },
 
 
 { "en": "open",    "ko": "열다",       "fi": "auki",    "fr": "ouvert" },
