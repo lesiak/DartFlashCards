@@ -18,6 +18,14 @@
 { "en": "colleague",        "ko": "동료",             "fi": "kollega, virkaveli, virkatoveri",    "fr": "collègue" },
 { "en": "coworker",        "ko": "회사동료",             "fi": "",    "fr": "" },
 
+{ "en": "coworker",        "ko": "루틴",             "fi": "rutiini",    "fr": "routine" },
+{ "en": "pretext",        "ko": "핑계",             "fi": "tekosyy",    "fr": "prétexte" },
+
+
+{ "en": "repair",        "ko": "수리",             "fi": "",    "fr": "" },
+{ "en": "to repair",        "ko": "수리하다",             "fi": "",    "fr": "" },
+
+
 { "en": "Pleased to meet you",        "ko": "만나서 반가워요",             "fi": "Ilo tavata",    "fr": "c'est un plaisir de vous rencontrer, ravi de vous avoir rencontré" },
 { "en": "introduce",    "ko": "소개하다",       "fi": "esitellä",    "fr": "introduire" },
 

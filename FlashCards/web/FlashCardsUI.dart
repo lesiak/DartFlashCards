@@ -126,6 +126,7 @@ class FlashCardsUI {
   }
 
   void playPronounciation(ForvoItem item) {
+    print(item);
     String url= item.pathogg;
     var html='<audio autoplay="true"><source src="$url"></audio>';
     query("#audioContainer").innerHtml = html;

@@ -48,20 +48,6 @@
 { "en": "saxophone",         "ko": "색소폰",       "fi": "saksofoni",          "fr": "saxophone" },
 
 
-{ "en": "number",         "ko": "번호",       "fi": "numero",          "fr": "numéro" },
-{ "en": "long",         "ko": "길다",       "fi": "pitkä",          "fr": "long" },
-{ "en": "short",         "ko": "짧다",       "fi": "lyhyt",          "fr": "court" },
-{ "en": "far",         "ko": "멀다",       "fi": "kaukana",          "fr": "loin" },
-{ "en": "near",         "ko": "가깝다",       "fi": "lähellä",          "fr": "près de" },
-
-{ "en": "wide",         "ko": "넓다",       "fi": "leveä",          "fr": "large" },
-{ "en": "narrow",         "ko": "좁다",       "fi": "kapea",          "fr": "étroit" },
-{ "en": "heavy",         "ko": "무거운",       "fi": "painava",          "fr": "lourd" },
-
-{ "en": "light",         "ko": "가볍다",       "fi": "kevyt",          "fr": "léger" },
-
-
-
 { "en": "recharge",         "ko": "충전하다",       "fi": "ladata",          "fr": "recharger" },
 
 

@@ -72,8 +72,7 @@ class CardScore {
       c = a+b;
       a = b; 
       b = c; 
-    }
-    print("fib $num: $c");
+    }    
     return c;
   }
   
