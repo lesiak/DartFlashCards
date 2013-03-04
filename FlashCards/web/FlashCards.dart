@@ -1,5 +1,4 @@
 import 'dart:html';
-import 'dart:async';
 import '../lib/flashcards_core.dart';
 import '../lib/filecache_api.dart';
 import 'FlashCardsUI.dart';
@@ -37,9 +36,15 @@ class FlashCardsApp {
   
   
   
-  FlashCardsApp() {
+  FlashCardsApp(FileCache fileCache) {
+    
+    
+      
+      
+   
+    
     this.engine = new Engine();    
-    this.ui = new FlashCardsUI(engine);
+    this.ui = new FlashCardsUI(engine, fileCache);
     
     query("#showAnswerButton").onClick.listen((e) => showAnswer());    
     query("#goodAnswerButton").onClick.listen((e) => goodAnswer());
@@ -239,101 +244,12 @@ class FlashCardsApp {
 }
 
 
-void _handleError(FileError e) {
-  var msg = '';
-  switch (e.code) {
-    case FileError.QUOTA_EXCEEDED_ERR:
-      msg = 'QUOTA_EXCEEDED_ERR';
-      break;
-    case FileError.NOT_FOUND_ERR:
-      msg = 'NOT_FOUND_ERR';
-      break;
-    case FileError.SECURITY_ERR:
-      msg = 'SECURITY_ERR';
-      break;
-    case FileError.INVALID_MODIFICATION_ERR:
-      msg = 'INVALID_MODIFICATION_ERR';
-      break;
-    case FileError.INVALID_STATE_ERR:
-      msg = 'INVALID_STATE_ERR';
-      break;
-    default:
-      msg = 'Unknown Error';
-      break;
-  }
-  print("Error: $msg");
-}
-
-void writeBlobCallback(FileEntry e, Blob b) {
-  print(e.fullPath);
-  e.createWriter((writer) {
-    writer.write(b);
-    print("blob written");
-  }, _handleError);
-}
-
-void readBlobCallback(FileEntry e) {
-  //e.toUrl();
-  
-  var img = new ImageElement();
-  //img.onLoad.listen((e) {
-//    Url.revokeObjectUrl(img.src); // Clean up after yourself.
-  //});
-  print(e.isFile);
-  img.src = e.toUrl();
-  query('#wordFilesDiv').children.add(img);
-}
-
-
-
-void requestFileSystemSaveBlobCallback(FileSystem filesystem, Blob blob) {
-  filesystem.root.getFile('image.png', options: {"create": true},successCallback: (entry) => writeBlobCallback(entry, blob), errorCallback: _handleError);
-}
-
-void requestFileSystemReadBlobCallback(FileSystem filesystem) {
-  
-  filesystem.root.getFile('ko/image.png', options: {"create": false },successCallback: (entry) => readBlobCallback(entry), errorCallback: _handleError);
-}
-
-
 void main() {
-  
   FileCache fileCache = new FileCache( (cache) {
-    Future<HttpRequest> aaa = HttpRequest.request('assets/img/glyphicons-halflings.png', 
-        responseType: 'blob');
-    aaa.then((xhr) {
-      if (xhr.status == 200) {
-        var blob = xhr.response;
-        
-        
-        /*  var img = new ImageElement();
-        img.onLoad.listen((e) {
-        Url.revokeObjectUrl(img.src); // Clean up after yourself.
-      });
-      img.src = Url.createObjectUrl(blob);
-      query('#wordFilesDiv').children.add(img);
-      */
-     // window.requestFileSystem(Window.PERSISTENT, 1024* 1024 * 1024,
-       //   (filesystem) => requestFileSystemSaveBlobCallback(filesystem, blob), _handleError);
-        cache.saveBlob('ko', 'image.png', blob);
-          
-    }
-    cache.readBlob('ko', 'image.png', readBlobCallback);
+    FlashCardsApp app = new FlashCardsApp(cache);
+    app.startApplication();  
   });
-    
-    
-  } );  
   
- 
-  
-  
-//  window.requestFileSystem(Window.PERSISTENT, 1024* 1024 * 1024,
- //     (filesystem) => requestFileSystemReadBlobCallback(filesystem), _handleError);
-  
-  
-   
-  FlashCardsApp app = new FlashCardsApp();
-  app.startApplication();
 }
 
 

@@ -3,6 +3,7 @@ part of dbcache_api;
 
 typedef void FileCacheReadyCallback(FileCache cache);
 typedef void ReadBlobCallback(FileEntry e);
+typedef void ReadBlobErrorCallback();
 
 class FileCache {
   
@@ -38,20 +39,28 @@ class FileCache {
     }
   }
   
-  void saveBlob(String dir, String name, Blob blob) {    
-    dirs[dir].getFile(name, options: {"create": true},successCallback: (entry) => _writeBlobCallback(entry, blob), errorCallback: _handleError);
+  void saveBlob(String dir, String name, Blob blob, EntryCallback successCallback1) {    
+    dirs[dir].getFile(name, 
+      options: {"create": true},
+      successCallback: (entry) => _writeBlobCallback(entry, blob, successCallback1),
+      errorCallback: _handleError);
   }
   
   void readBlob(String dir, String name, ReadBlobCallback readBlobCallback) {    
     dirs[dir].getFile(name, options: {"create": false },successCallback: readBlobCallback, errorCallback: _handleError);
   }
+  
+  void readBlobIfExists(String dir, String name, ReadBlobCallback readBlobCallback, ErrorCallback errorCallback) {    
+    dirs[dir].getFile(name, options: {"create": false },successCallback: readBlobCallback, errorCallback: errorCallback);
+  }
 
   
-  void _writeBlobCallback(FileEntry e, Blob b) {
+  void _writeBlobCallback(FileEntry e, Blob b, EntryCallback successCallback) {
     print("Writing blob ${e.fullPath}");
     e.createWriter((writer) {
       writer.write(b);
       print("blob written");
+      successCallback(e);
     }, _handleError);
   }  
   

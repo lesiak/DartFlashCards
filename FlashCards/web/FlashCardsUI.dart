@@ -1,8 +1,10 @@
 library FlashCards;
 
 import 'dart:html';
+import 'dart:async';
 import '../lib/forvo_api.dart';
 import '../lib/flashcards_core.dart';
+import '../lib/filecache_api.dart';
 
 
 class FlashCardsUI {
@@ -11,7 +13,9 @@ class FlashCardsUI {
   
   DeckState deckState;
   
-  FlashCardsUI(this.deckState);
+  FileCache fileCache;
+  
+  FlashCardsUI(this.deckState, this.fileCache);
   
   void showQuestion(Card card) {
     query("#en").text = card.en;    
@@ -88,7 +92,7 @@ class FlashCardsUI {
   void onForvoSuccess(HttpRequest req, String lang, String word, Element container, bool play) {  
     String responseText = req.responseText;
     if (!responseText.isEmpty) {
-      ForvoResponse r = new ForvoResponse.fromJsonString(responseText);
+      ForvoResponse r = new ForvoResponse.fromJsonString(lang, word, responseText);
       displayPronounciations(r, container, play);
     }
     
@@ -102,7 +106,7 @@ class FlashCardsUI {
     container.nodes.clear();
     container.nodes.addAll(pronounciationNodes);  
     if (play && !r.items.isEmpty) {
-      playPronounciation(PronounciationManager.getPreferredPronunciation(r));
+      playPronounciation(r.lang, r.word, PronounciationManager.getPreferredPronunciation(r));
     }
   }
   
@@ -118,19 +122,50 @@ class FlashCardsUI {
       button.classes.add("btn");
       button.attributes['rel'] = 'tooltip';
       button.attributes['title'] = '${item.sex} ${item.country}';
-      button.onClick.listen((e)  => playPronounciation(item));
+      button.onClick.listen((e)  => playPronounciation(r.lang, r.word, item));
       div.nodes.add(button);   
       ret.add(div);
     }
     return ret;
   }
 
-  void playPronounciation(ForvoItem item) {
-    print(item);
-    String url= item.pathogg;
+  void playPronounciation(String lang, String word, ForvoItem item) {
+    var filename = '${word}_${item.username}.ogg';
+    //print(filename);
+    fileCache.readBlobIfExists(lang, filename, readBlobCallback, (e) => readErrorCallback(lang, word, item, e));
+   // String url= item.pathogg;)(
+    //var html='<audio autoplay="true"><source src="$url"></audio>';
+    //query("#audioContainer").innerHtml = html;
+  }
+  
+  void readBlobCallback(FileEntry e) {    
+    String url= e.toUrl();
+    print('playing from disk ${url}');
     var html='<audio autoplay="true"><source src="$url"></audio>';
     query("#audioContainer").innerHtml = html;
   }
+  
+  void playBlobCallback(Blob b) {    
+    String url=  Url.createObjectUrl(b);
+    print('playing from blob ${url}');
+    var html='<audio autoplay="true"><source src="$url"></audio>';
+    query("#audioContainer").innerHtml = html;
+  }
+  
+  void readErrorCallback(String lang, String word, ForvoItem item, FileError e) {
+    var filename = '${word}_${item.username}.ogg';
+    print("not found in cache $filename");
+    Future<HttpRequest> mp3req = HttpRequest.request(item.pathogg, 
+        responseType: 'blob');
+    
+    mp3req.then((xhr) {
+      if (xhr.status == 200) {        
+        var blob = xhr.response;
+        fileCache.saveBlob(lang, filename, blob, (e) => playBlobCallback(blob));                        
+      }
+    });    
+  }
+
 
 
 }

@@ -53,8 +53,7 @@ class CardScore {
     else if (lastResult == POOR_ANSWER) {      
       return lastAnswerDate.add(new Duration(hours: 1));     
     }
-    else {
-      print("goodInARow $goodInARow");
+    else {      
       return lastAnswerDate.add(new Duration(days: fib(goodInARow+1)));
     }
   }

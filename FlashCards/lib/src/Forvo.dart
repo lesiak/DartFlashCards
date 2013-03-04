@@ -1,24 +1,25 @@
 part of forvo_api;
 
 class ForvoResponse {
-   
+  
+  String lang;  
+  String word; 
   var attributes;
   List<ForvoItem> items;
   
-  factory ForvoResponse.fromJsonString(String responseText) {
+  factory ForvoResponse.fromJsonString(String lang, String word, String responseText) {
     Map forvoData = JSON.parse(responseText);
-    return new ForvoResponse.fromMap(forvoData);
+    return new ForvoResponse.fromMap(lang, word, forvoData);
   }
   
-  factory ForvoResponse.fromMap(Map jsonMap) {  
-      return new ForvoResponse(jsonMap);
+  factory ForvoResponse.fromMap(String lang, String word, Map jsonMap) {  
+      return new ForvoResponse(lang, word, jsonMap);
   }
   
-  ForvoResponse(Map json) {
+  ForvoResponse(this.lang, this.word, Map json) {
     attributes = json["attributes"];
     List itemObjects = json["items"];
-    items = itemObjects.map((o) => ForvoItem.fromMap(o)).toList();
-    
+    items = itemObjects.map((o) => ForvoItem.fromMap(o)).toList();    
   }
   
 }
