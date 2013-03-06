@@ -14,9 +14,31 @@
 { "en": "station",    "ko": "역",    "fi": "asema" , "fr":"station"},
 { "en": "platform",    "ko": "플랫폼, 승강장",    "fi": "asemalaituri" , "fr":" quai "},
 
+{ "en": "exit",    "ko": "출구",    "fi": "uloskäynti" , "fr":"sortie"},
+{ "en": "entrance",    "ko": "입구",    "fi": "sisäänkäynti" , "fr":"entrée"},
+
+
 { "en": "get to",        "ko": "도착하다",          "fi": "päästä",    "fr": "?" },
 { "en": "arrive",        "ko": "도착하다",          "fi": "saapua",    "fr": "arriver" },
 { "en": "to leave (from)",        "ko": "떠나다",          "fi": "lähteä",    "fr": "partir" },
+{ "en": "to transfer, change",        "ko": "갈아 타다",          "fi": "vaihtaa",    "fr": "" },
+
+{ "en": "to get off",        "ko": "내리다",          "fi": "jäädä pois",    "fr": "descendre" },
+{ "en": "to get out, (go out)",        "ko": "나가다",          "fi": "",    "fr": "sortir" },
+
+{ "en": "to go out (from home)",        "ko": "외출하다",          "fi": "",    "fr": "sortir" },
+
+{ "en": "to ride",        "ko": "타다",          "fi": "",    "fr": "" },
+{ "en": "to burn",        "ko": "타다",          "fi": "",    "fr": "" },
+
+{ "en": "class",        "ko": "등",          "fi": "",    "fr": "" },
+{ "en": "line",        "ko": "호선",          "fi": "linja",    "fr": "ligne" },
+
+{ "en": "to ask",        "ko": "묻다 (물어)",          "fi": "",    "fr": "" },
+
+
+{ "en": "complicated",        "ko": "복잡하다",          "fi": "monimutkainen",    "fr": "compliqué" },
+{ "en": "immediately, right away, right",        "ko": "바로",          "fi": "heti",    "fr": "immédiatement" },
 
 { "en": "hotel",        "ko": "호텔",          "fi": "hotelli",    "fr": "hôtel" },
 

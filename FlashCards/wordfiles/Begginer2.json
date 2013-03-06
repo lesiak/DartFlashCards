@@ -61,6 +61,10 @@
 { "en": "a little",         "ko": "조금",       "fi": "vähän",          "fr": "un peu" },
 { "en": "very",         "ko": "아주",       "fi": "hyvin",          "fr": "très" },
 
+{ "en": "really",         "ko": "정말",       "fi": "todella",          "fr": "vraiment" },
+{ "en": "not really",         "ko": "별로",       "fi": "",          "fr": "" },
+
+
 { "en": "wide",         "ko": "넓다",       "fi": "leveä",          "fr": "large" },
 { "en": "narrow",         "ko": "좁다",       "fi": "kapea",          "fr": "étroit" },
 { "en": "heavy",         "ko": "무거운",       "fi": "painava",          "fr": "lourd" },

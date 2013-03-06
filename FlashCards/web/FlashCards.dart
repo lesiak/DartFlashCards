@@ -134,7 +134,7 @@ class FlashCardsApp {
   }
   
   void fillWordsTable() {
-    var currentDate = new Date.now();
+    var currentDate = new DateTime.now();
     TableElement table = query("#wordTable");
     TableSectionElement tBody = table.tBodies[0]; 
     tBody.nodes.clear();

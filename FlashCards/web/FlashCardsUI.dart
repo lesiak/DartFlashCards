@@ -15,6 +15,8 @@ class FlashCardsUI {
   
   FileCache fileCache;
   
+  RegExp IN_PARENTHESES = new RegExp("\\(.+?\\)");
+  
   FlashCardsUI(this.deckState, this.fileCache);
   
   void showQuestion(Card card) {
@@ -79,7 +81,8 @@ class FlashCardsUI {
     if (word.startsWith("to ")) {
       word = word.substring(3);
     }
-    if (word.contains("(.*)")) {
+    if (word.contains(IN_PARENTHESES)) {
+      word = word.replaceAll(IN_PARENTHESES, "");
     }
     
     // call the web server asynchronously

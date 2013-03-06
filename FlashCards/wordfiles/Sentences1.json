@@ -1,5 +1,10 @@
 [
 
+{ "en": "I dont know",   "ko": "몰라요",    "fi": "",   "fr":""},
+{ "en": "I dont really know (more polite)",   "ko": "잘 모르겠어요",    "fi": "",   "fr":""},
+ 
+{ "en": "Try asking",   "ko": "물어보세요",    "fi": "",   "fr":""},
+ 
 { "en": "I knew it! (That's what I thought)",   "ko": "역시나",    "fi": "",   "fr":""},
 
 { "en": "Are you mad at me?",   "ko": "저한테 화났어요?",    "fi": "", 	"fr":""},
@@ -12,7 +17,10 @@
 { "en": "Can I give you a massage?",   "ko": "안마(or 마사지)해 드릴까요?",    "fi": "",  "fr":""},
 { "en": "Have you (been) gone to Namsan before?",   "ko": "남산에 가 본 적 있어요?",    "fi": "",  "fr":""},
 { "en": "Have you ever heard (of it) before?",   "ko": "들어 본 적 있어요?",    "fi": "",  "fr":""},
-{ "en": "I've been there once.",   "ko": "  한 번 가 봤어요",    "fi": "",  "fr":""}
+{ "en": "I've been there once.",   "ko": "한 번 가 봤어요",    "fi": "",  "fr":""},
+{ "en": "I have to go now.",   "ko": "지금 가야돼요.",    "fi": "",  "fr":""},
+{ "en": "Not really that complicated (short form)",   "ko": "변로 안 복십해요.",    "fi": "",  "fr":""},
+{ "en": "Not really that complicated",   "ko": "아니에요, 별로 복잡하지 않아요.",    "fi": "",  "fr":""}
   
 
 ]
