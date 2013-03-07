@@ -17,6 +17,8 @@
 { "en": "alley, backstreet",     "ko": "골목",   "fi": "kuja" ,   "fr":"ruelle"},
 { "en": "bakery",     "ko": "빵집",   "fi": "" ,   "fr":""},
 
+{ "en": "to build",     "ko": "건조하다",   "fi": "" ,   "fr":""},
+{ "en": "dry",     "ko": "건조하다",   "fi": "" ,   "fr":""},
 { "en": "architecture",     "ko": " 건축학",   "fi": "arkkitehtuuri" ,   "fr":"architecture"},
 { "en": "architect",     "ko": " 건축가",   "fi": "arkkitehti" ,   "fr":"architecte"},
 { "en": "bank",     "ko": " 은행",   "fi": "pankki" ,   "fr":"banque"},
@@ -37,7 +39,9 @@
 { "en": "statue",         "ko": "상",       "fi": "",          "fr": "" },
 { "en": "gallery",         "ko": "화랑",       "fi": "",          "fr": "" },
 { "en": "railway station",         "ko": "철도역",       "fi": "",          "fr": "" },
-{ "en": "intersection",         "ko": "교차점",       "fi": "",          "fr": "" }
+{ "en": "intersection",         "ko": "교차점",       "fi": "",          "fr": "" },
+{ "en": "brick",         "ko": "벽돌",       "fi": "tiili",          "fr": "brique" }
+
 
 
 

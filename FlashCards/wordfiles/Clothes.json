@@ -22,6 +22,9 @@
 { "en": "new",         "ko": "새로운",       "fi": "uusi",          "fr": "nouveau, neuf" },
 { "en": "old",         "ko": " 낡다, 오래되다, 늙다(of people)",       "fi": "vanha",          "fr": "vieux" },
 { "en": "size",    "ko": "사이즈",    "fi": "koko, suuruus" , "fr":"taille"},
-{ "en": "beautiful",         "ko": "아름답다",       "fi": "kaunis",          "fr": "beau" }
+{ "en": "beautiful",         "ko": "아름답다",       "fi": "kaunis",          "fr": "beau" },
+
+{ "en": "make, manufacture, tailor",         "ko": "짓다",       "fi": "",          "fr": "" }
+
 
 ]

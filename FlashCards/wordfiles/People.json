@@ -36,6 +36,18 @@
 { "en": "joke",         "ko": "농담",       "fi": "vitsi",          "fr": "blague" },
 { "en": "sincere",         "ko": "진실하다",       "fi": "vilpitön",          "fr": "sincère" },
 
+{ "en": "happy",         "ko": "행복하다",       "fi": "onnellinen",          "fr": "heureux" },
+{ "en": "to feel",         "ko": "느끼다",       "fi": "sentir",          "fr": "tuntea" },
+{ "en": "stress",         "ko": "스트레스",       "fi": "",          "fr": "" },
+
+{ "en": "to hug",         "ko": "포옹하다",       "fi": "halata",          "fr": "étreindre" },
+{ "en": "a smile",         "ko": "미소",       "fi": "hymy",          "fr": "sourire" },
+
+{ "en": "to decorate",         "ko": "장식하다",       "fi": "koristella",          "fr": "décorer" },
+
+
+{ "en": "fool",         "ko": "바보",       "fi": "typerys, hullu",          "fr": "fou" },
+
 { "en": "angel",         "ko": "천사",       "fi": "enkeli",          "fr": "ange" },
 { "en": "devil",         "ko": "악마",       "fi": "paholainen, piru , perkele",          "fr": "diable" },
 { "en": "genius",         "ko": "천재",       "fi": "nero",          "fr": "génie" },

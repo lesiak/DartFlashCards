@@ -36,10 +36,12 @@
 { "en": "cloud",        "ko": "구름",          "fi": "pilvi",    "fr": "nuage" },
 { "en": "rainbow",        "ko": "무지개",          "fi": "sateenkaari",    "fr": "arc-en-ciel" },
  
-{ "en": "rain",        "ko": "비",          "fi": "",    "fr": "" },
+{ "en": "rain",        "ko": "비",          "fi": "sade",    "fr": "pluie" },
 { "en": "snow",        "ko": "눈",          "fi": "lumi",    "fr": "neige" },
-{ "en": "weather",        "ko": "날씨",          "fi": "",    "fr": "" },
 { "en": "wind",        "ko": "바람",          "fi": "tuuli",    "fr": "vent" },
+{ "en": "weather",        "ko": "날씨",          "fi": "sää, ilma",    "fr": "temps" },
+{ "en": "climate",        "ko": "기후",          "fi": "ilmasto",    "fr": "climat" },
+
 { "en": "sunset",        "ko": "일몰",          "fi": "",    "fr": "" },
 { "en": "sunrise",        "ko": "해돋이",          "fi": "",    "fr": "" },
 
@@ -58,6 +60,8 @@
 { "en": "make",       "ko": "만들다",       "fi": "tehdä",    "fr": "faire" },
 { "en": "see",       "ko": "보다",       "fi": "nähdä",    "fr": "voir" },
 { "en": "hear",       "ko": "들리다",       "fi": "kuulla",    "fr": "entendre" }
+
+
 
 
 ]

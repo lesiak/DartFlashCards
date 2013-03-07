@@ -1,12 +1,5 @@
 [
 
- 
-
-{ "en": "to travel",       "ko": "여행하다",       "fi": "matkustaa",    "fr": "voyager" },
-{ "en": "tourist",       "ko": "관광객",       "fi": "turisti, matkailija",    "fr": "touriste" },
-{ "en": "photo",     "ko": "사진",       "fi": "kuva",     "fr": "photo" },
-{ "en": "passport",     "ko": "여권",       "fi": "passi",     "fr": "passeport" },
-{ "en": "sunbathe",     "ko": "일광욕을하다",       "fi": "ottaa aurinkoa",     "fr": "bronzer" },
 
 { "en": "clean",    "ko": "깨끗하다",    "fi": "puhdas" , "fr":"propre"},
 { "en": "dirty",    "ko": "더럽다",         "fi": "likainen" , "fr":"sale"},
@@ -39,6 +32,11 @@
  
 { "en": "small",       "ko": " 작다",       "fi": "pieni",    "fr": "petit" }, 
 { "en": "heavy",       "ko": " 가볍다",       "fi": "painava",    "fr": "léger" },
-{ "en": "light (weight)",       "ko": " 무거운",       "fi": "kevyt",    "fr": "lourd" }
+{ "en": "light (weight)",       "ko": " 무거운",       "fi": "kevyt",    "fr": "lourd" },
+{ "en": "to be used, be utilized",       "ko": "쓰이다",       "fi": "",    "fr": "" },
+{ "en": "event",       "ko": "행사",       "fi": "tapahtuma",    "fr": "événement" },
+{ "en": "prize",       "ko": "v",       "fi": "palkinto",    "fr": "prix" }
+
+
 
 ]

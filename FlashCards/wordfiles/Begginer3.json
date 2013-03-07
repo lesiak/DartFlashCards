@@ -7,11 +7,13 @@
 { "en": "towel",        "ko": "수건, 타월",          "fi": "pyyhe",    "fr": "serviette" },
 { "en": "shaving",        "ko": "면도",          "fi": "parranajo",    "fr": "rasage" },
 { "en": "razor",        "ko": "면도칼",          "fi": "partakone",    "fr": "rasoir" },
+{ "en": "lamp",        "ko": "램프",          "fi": "lamppu",    "fr": "lampe" },
 
 { "en": "get up, wake up",       "ko": "일어나다",       "fi": "nousta",    "fr": "se lever" },
 
 
 { "en": "letter",     "ko": "편지",       "fi": "kirje",     "fr": "lettre" },
+{ "en": "message",     "ko": "메시지",       "fi": "viesti",     "fr": "message" },
 { "en": "send",     "ko": "보내다",       "fi": "lähettää",     "fr": "envoyer" },
 
 { "en": "after",         "ko": "후",       "fi": "jälkeen",          "fr": "après" },
@@ -46,7 +48,11 @@
 
 
 { "en": "awhile",        "ko": "잠깐",          "fi": "hetken",    "fr": "" },
-{ "en": "first (adv, in time or sequence)",        "ko": "먼저",          "fi": "",    "fr": "" }
+{ "en": "first (adv, in time or sequence)",        "ko": "먼저",          "fi": "",    "fr": "" },
+{ "en": "but",        "ko": "하지만",          "fi": "mutta",    "fr": "mais" },
+{ "en": "recently",        "ko": "최근에",          "fi": "äskettäin",    "fr": "récemment" }
+
+
 
 
 ]
