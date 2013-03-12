@@ -1,24 +1,6 @@
 [
-{ "en": "lesson",        "ko": "수업, 과",          "fi": "oppitunti",    "fr": "leçon" },
-{ "en": "professor",        "ko": "교수",          "fi": "professeur",    "fr": "professori" },
-{ "en": "dictionary",        "ko": "사전",          "fi": "sanakirja",    "fr": "dictionnaire" },
 { "en": "question",       "ko": "문제",       "fi": "kysymys, asia",    "fr": "question" },
 { "en": "answer",       "ko": "답변",       "fi": "vastaus",    "fr": "réponse" },
-{ "en": "topic",       "ko": "주제",       "fi": "aihe",    "fr": "sujet" },
-{ "en": "course",       "ko": "과목",       "fi": "kurssi",    "fr": "cours" },
-
-{ "en": "test",        "ko": "시험",          "fi": "koe, tentti",    "fr": "test, examen" },
-{ "en": "science",       "ko": "과학",       "fi": "tiede",    "fr": "science" },
-
-{ "en": "number",       "ko": "수",       "fi": "luku",    "fr": "nombre, numéro" },
-{ "en": "mathematics",       "ko": "수학",       "fi": "matematiikka",    "fr": "mathématiques" },
-{ "en": "geometry",       "ko": "기하학",       "fi": "geometria",    "fr": "géométrie" },
-
-{ "en": "biology",       "ko": "생물학",       "fi": "biologia",    "fr": "biologie" },
-{ "en": "psychology",       "ko": "심리학",       "fi": "psykologia",    "fr": "psychologie" },
-
-{ "en": "graduate",       "ko": "졸업하다",       "fi": " valmistua, suorittaa tutkinto, saada oppiarvo",    "fr": "obtenir sa licence, son diplôme" },
-{ "en": "diligently",       "ko": "열심히",       "fi": "ahkerasti",    "fr": "diligemment" },
 
 { "en": "difficult",       "ko": "어렵다",       "fi": "vaikea",    "fr": "difficile" },
 { "en": "easy",       "ko": "쉽다",       "fi": "helppo",    "fr": "facile" },
@@ -31,6 +13,10 @@
 { "en": "cold",     "ko": "춥다",    "fi": "kylmä" , "fr":"froid"},
 { "en": "hot",     "ko": "덥다",    "fi": "kuuma" , "fr":"chaud"},
 
+{ "en": "finish (intr)",       "ko": "끝나다",       "fi": "loppua",    "fr": "finir, terminer" },
+{ "en": "finish (sth)",       "ko": "끝내다",       "fi": "lopettaa",    "fr": "finir, terminer" },
+
+{ "en": "time (occurence)",       "ko": "번",       "fi": "kerta",    "fr": "fois" },
 
 { "en": "prosecutor",        "ko": "검사",          "fi": "syyttäjä",    "fr": "procureur" },
 

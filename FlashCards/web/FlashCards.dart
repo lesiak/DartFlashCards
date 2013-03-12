@@ -12,6 +12,7 @@ class FlashCardsApp {
                      'Begginer2',
                      'Begginer3',
                      'Begginer4',
+                     'Begginer5', 
                      'City',
                      'Travel',
                      'Clothes',
@@ -24,7 +25,7 @@ class FlashCardsApp {
                      'Colors'];
   
   List<String> level2Files = ['Work',
-                              'Begginer5', 
+                              'School',  
                               'Begginer6',
                               'Begginer7',
                               'Begginer8',
@@ -38,12 +39,7 @@ class FlashCardsApp {
   
   
   FlashCardsApp(FileCache fileCache) {
-    
-    
-      
-      
-   
-    
+        
     this.engine = new Engine();    
     this.ui = new FlashCardsUI(engine, fileCache);
     
@@ -89,19 +85,70 @@ class FlashCardsApp {
     tBody.nodes.clear();
     for (String deckName in wordFiles) {
       TableRowElement tRow = tBody.insertRow(-1); // add at the end
-      
-      Element cell = tRow.insertCell(0);
-      cell.classes.add('deckLink');
-      AnchorElement deckLink = new AnchorElement(href: "#");
-      deckLink.text = deckName;
-      deckLink.onClick.listen((e) {
-        
-        tBody.children.forEach((aRow) => aRow.classes.remove('selectedTableRow'));
-        tRow.classes.add('selectedTableRow');
-        loadWordTable( "${deckName}.json");        
-      });
-      cell.nodes.add(deckLink);
+                         
+        Element cell = tRow.insertCell(-1);
+        cell.classes.add('deckLink');
+        AnchorElement deckLink = new AnchorElement(href: "#");
+        deckLink.text = deckName;
+        deckLink.onClick.listen((e) {
+          
+          tBody.children.forEach((aRow) => aRow.classes.remove('selectedTableRow'));
+          tRow.classes.add('selectedTableRow');
+          loadWordTable( "${deckName}.json");        
+        });
+        cell.nodes.add(deckLink);
     }
+    /*for (List<String> rowDeckNames in invertList(wordFiles)) {
+      TableRowElement tRow = tBody.insertRow(-1); // add at the end
+      for (String deckName in rowDeckNames) {                   
+        Element cell = tRow.insertCell(-1);
+        cell.classes.add('deckLink');
+        AnchorElement deckLink = new AnchorElement(href: "#");
+        deckLink.text = deckName;
+        deckLink.onClick.listen((e) {
+          
+          tBody.children.forEach((aRow) => aRow.classes.remove('selectedTableRow'));
+          tRow.classes.add('selectedTableRow');
+          loadWordTable( "${deckName}.json");        
+        });
+        cell.nodes.add(deckLink);
+      }
+    }*/
+  }
+  
+  List<List<String>> invertList(List<String> list) {
+    int sIndex = list.length~/2;
+    int lastIndex = list.length;
+    print(sIndex);
+    print(lastIndex);
+    List<String> list1 = list.getRange(0,sIndex);
+    List<String> list2 = list.getRange(sIndex,lastIndex-sIndex);
+    List<String> ret = new List<String>();
+  
+   return zip(list1, list2);
+  }
+   
+  static List<List<String>> zip(List<String> list1, List<String> list2) {
+    List<List<String>> zipped = new List<List<String>>();
+    for (List<String> list in [list1, list2]) {
+        for (int i = 0, listSize = list.length; i < listSize; i++) {
+            List<String> list2;
+            if (i >= zipped.length) {
+                zipped.add(list2 = new List<String>());
+            }
+            else {
+                list2 = zipped[i];
+            }
+            list2.add(list[i]);
+        }
+    }
+    return zipped;
+}
+  // while(it1.moveNext()) 
+  //}
+  
+  void _createDeckCell(String deckName) {
+    
   }
   
   
@@ -246,6 +293,9 @@ class FlashCardsApp {
 
 
 void main() {
+  List l1 = ['1','2','3','77'];
+  List l2 = ['3','4','5'];
+  print(FlashCardsApp.zip(l1,l2));
   FileCache fileCache = new FileCache( (cache) {
     FlashCardsApp app = new FlashCardsApp(cache);
     app.startApplication();  

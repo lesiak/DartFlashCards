@@ -26,12 +26,12 @@
 { "en": "life",    "ko": "생명",    "fi": "elämä" , "fr":"vie"},
 { "en": "to be born",    "ko": "태어나다",    "fi": "syntyä" , "fr":"naître"},
 
-{ "en": "help",         "ko": "도움",       "fi": "apu, ohje",          "fr": "aide, secours" },
 { "en": "to help",         "ko": "돕다",       "fi": "auttaa",          "fr": "aider" },
+{ "en": "help",         "ko": "도움",       "fi": "apu, ohje",          "fr": "aide, secours" },
 
-
-{ "en": "lie",         "ko": "거짓말",       "fi": "valhe",          "fr": "mensonge" },
 { "en": "to lie",         "ko": "거짓말하다",       "fi": "valehdella",          "fr": "mentir" },
+{ "en": "lie",         "ko": "거짓말",       "fi": "valhe",          "fr": "mensonge" },
+
 { "en": "fact",         "ko": "사실",       "fi": "tosiasia",          "fr": "fait, vérité" },
 { "en": "joke",         "ko": "농담",       "fi": "vitsi",          "fr": "blague" },
 { "en": "sincere",         "ko": "진실하다",       "fi": "vilpitön",          "fr": "sincère" },

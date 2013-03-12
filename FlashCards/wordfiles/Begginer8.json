@@ -17,16 +17,6 @@
 { "en": "for example",         "ko": "예를 들어서",       "fi": "esimerkiksi",          "fr": "par exemple" },
 { "en": "example",         "ko": "예",       "fi": "esimerkki",          "fr": "exemple" },
 
-{ "en": "lie",         "ko": "거짓말",       "fi": "valhe",          "fr": "mensonge" },
-{ "en": "to lie",         "ko": "거짓말하다",       "fi": "valehdella",          "fr": "mentir" },
-{ "en": "fact",         "ko": "사실",       "fi": "tosiasia",          "fr": "fait, vérité" },
-{ "en": "joke",         "ko": "농담",       "fi": "vitsi",          "fr": "blague" },
-{ "en": "sincere",         "ko": "진실하다",       "fi": "vilpitön",          "fr": "sincère" },
-
-{ "en": "angel",         "ko": "천사",       "fi": "enkeli",          "fr": "ange" },
-{ "en": "devil",         "ko": "악마",       "fi": "paholainen, piru , perkele",          "fr": "diable" },
-{ "en": "genius",         "ko": "천재",       "fi": "nero",          "fr": "génie" },
-{ "en": "god",         "ko": "신",       "fi": "jumala",          "fr": "dieu" },
 
 
 
@@ -66,16 +56,14 @@
 { "en": "get up",       "ko": "일어나다",       "fi": "nousta",    "fr": "se lever" },
 
 
-{ "en": "time (occurence)",       "ko": "번",       "fi": "kerta",    "fr": "fois" },
+
 { "en": "situation",       "ko": "?",       "fi": "tilanne",    "fr": "situation" },
 { "en": "knowledge",       "ko": "지식",       "fi": "tieto",    "fr": "connaissance" },
-{ "en": "finish (intr)",       "ko": "끝나다",       "fi": "loppua",    "fr": "finir, terminer" },
-{ "en": "finish (sth)",       "ko": "끝내다",       "fi": "lopettaa",    "fr": "finir, terminer" },
 { "en": "always",       "ko": "항상 (ko) (hangsang), 늘 (ko) (neul), 언제나",       "fi": "aina",    "fr": "toujours" },
 { "en": "believe",       "ko": "믿다",       "fi": "uskoa",    "fr": "croire" },
 { "en": "to end up",       "ko": " ?",       "fi": "joutua",    "fr": "?" },
-{ "en": "fisherman",    "ko": "어부",    "fi": "kalastaja" , "fr":"pêcheur"},
-{ "en": "nurse",    "ko": "간호사",    "fi": "sairaanhoitaja" , "fr":"infirmière"},
+
+
 { "en": "waiter",    "ko": "웨이터",    "fi": "tarjoilija" , "fr":"serveur"},
 { "en": "traffic",    "ko": "교통",    "fi": "liikenne" , "fr":"circulation"},
 { "en": "policeman",    "ko": "경찰관",    "fi": "poliisi" , "fr":"policier, gendarme"},
@@ -86,7 +74,6 @@
 { "en": "gas cooker",    "ko": "가스레인지",    "fi": "" , "fr":""},
 
 
-{ "en": "poor",    "ko": "가난하다",    "fi": "köyhä" , "fr":"pauvre"},
 { "en": "competation",    "ko": "경기 (競  “contest” and 技 “talent”)",    "fi": "kilpailu, kisat" , "fr":"concours, compétition"},
 { "en": "stadium",    "ko": "경기장",    "fi": "stadion" , "fr":"stade"},
 { "en": "different",    "ko": "다른",    "fi": "eri, erilainen" , "fr":"différent"},
