@@ -15,9 +15,13 @@ class FlashCardsUI {
   
   FileCache fileCache;
   
+  PronounciationManager pronounciationManager;
+  
   RegExp IN_PARENTHESES = new RegExp("\\(.+?\\)");
   
-  FlashCardsUI(this.deckState, this.fileCache);
+  FlashCardsUI(this.deckState, this.fileCache) {
+    this.pronounciationManager = new PronounciationManager(fileCache, playMp3FromUrl);
+  }
   
   void showQuestion(Card card) {
     query("#en").text = card.en;    
@@ -87,7 +91,9 @@ class FlashCardsUI {
     
     // call the web server asynchronously
     Element container = query(containerId);
-    PronounciationManager.getPronunciations(lang, word, (req) => onForvoSuccess(req, lang, word, container, play));
+    pronounciationManager.getPronunciations(lang, 
+        word, 
+        (req) => onForvoSuccess(req, lang, word, container, play));
  
   }
 
@@ -109,7 +115,7 @@ class FlashCardsUI {
     container.nodes.clear();
     container.nodes.addAll(pronounciationNodes);  
     if (play && !r.items.isEmpty) {
-      playPronounciation(r.lang, r.word, PronounciationManager.getPreferredPronunciation(r));
+      pronounciationManager.playPronounciation(r.lang, r.word, PronounciationManager.getPreferredPronunciation(r));
     }
   }
   
@@ -125,49 +131,23 @@ class FlashCardsUI {
       button.classes.add("btn");
       button.attributes['rel'] = 'tooltip';
       button.attributes['title'] = '${item.sex} ${item.country}';
-      button.onClick.listen((e)  => playPronounciation(r.lang, r.word, item));
+      button.onClick.listen((e)  => pronounciationManager.playPronounciation(r.lang, r.word, item));
       div.nodes.add(button);   
       ret.add(div);
     }
     return ret;
   }
 
-  void playPronounciation(String lang, String word, ForvoItem item) {
-    var filename = '${word}_${item.username}.ogg';
-    //print(filename);
-    fileCache.readBlobIfExists(lang, filename, readBlobCallback, (e) => readErrorCallback(lang, word, item, e));
-   // String url= item.pathogg;)(
-    //var html='<audio autoplay="true"><source src="$url"></audio>';
-    //query("#audioContainer").innerHtml = html;
-  }
   
-  void readBlobCallback(FileEntry e) {    
-    String url= e.toUrl();
-    print('playing from disk ${url}');
+  
+ 
+  
+  void playMp3FromUrl(String url) {
     var html='<audio autoplay="true"><source src="$url"></audio>';
     query("#audioContainer").innerHtml = html;
   }
   
-  void playBlobCallback(Blob b) {    
-    String url=  Url.createObjectUrl(b);
-    print('playing from blob ${url}');
-    var html='<audio autoplay="true"><source src="$url"></audio>';
-    query("#audioContainer").innerHtml = html;
-  }
-  
-  void readErrorCallback(String lang, String word, ForvoItem item, FileError e) {
-    var filename = '${word}_${item.username}.ogg';
-    print("not found in cache $filename");
-    Future<HttpRequest> mp3req = HttpRequest.request(item.pathogg, 
-        responseType: 'blob');
-    
-    mp3req.then((xhr) {
-      if (xhr.status == 200) {        
-        var blob = xhr.response;
-        fileCache.saveBlob(lang, filename, blob, (e) => playBlobCallback(blob));                        
-      }
-    });    
-  }
+ 
 
 
 

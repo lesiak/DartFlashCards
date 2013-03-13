@@ -293,9 +293,9 @@ class FlashCardsApp {
 
 
 void main() {
-  List l1 = ['1','2','3','77'];
-  List l2 = ['3','4','5'];
-  print(FlashCardsApp.zip(l1,l2));
+ // List l1 = ['1','2','3','77'];
+ // List l2 = ['3','4','5'];
+ // print(FlashCardsApp.zip(l1,l2));
   FileCache fileCache = new FileCache( (cache) {
     FlashCardsApp app = new FlashCardsApp(cache);
     app.startApplication();  

@@ -15,6 +15,10 @@
   
 { "en": "think",        "ko": "생각하다",          "fi": "ajatella",    "fr": "penser" },
 { "en": "understand",       "ko": "이해하다",       "fi": "ymmärtää",    "fr": "comprendre" },
+{ "en": "memory",         "ko": "기억",       "fi": "muisto",    "fr": "souvenir" },
+{ "en": "remember",         "ko": "기억하다",       "fi": "muistaa",    "fr": "rappeler" },
+{ "en": "recommend",         "ko": "추천하다",       "fi": "suositella",          "fr": "recommander" },
+
 { "en": "live, dwell",        "ko": "살다",          "fi": "asua",    "fr": "habiter" },
 
 
@@ -53,11 +57,20 @@
 { "en": "silver",         "ko": "은",       "fi": "hopea",    "fr": "argent" }, 
 { "en": "gold",         "ko": "금",       "fi": "kulta",    "fr": "or" },
 
-{ "en": "number",         "ko": "번호",       "fi": "numero",          "fr": "numéro" },
+
+
 { "en": "long",         "ko": "길다",       "fi": "pitkä",          "fr": "long" },
 { "en": "short",         "ko": "짧다",       "fi": "lyhyt",          "fr": "court" },
+
 { "en": "far",         "ko": "멀다",       "fi": "kaukana",          "fr": "loin" },
 { "en": "near",         "ko": "가깝다",       "fi": "lähellä",          "fr": "près de" },
+
+{ "en": "wide",         "ko": "넓다",       "fi": "leveä",          "fr": "large" },
+{ "en": "narrow",         "ko": "좁다",       "fi": "kapea",          "fr": "étroit" },
+
+{ "en": "thin",         "ko": "얇다",       "fi": "ohut",          "fr": "mince" },
+{ "en": "thick",         "ko": "두껍다",       "fi": "paksu",          "fr": "mince" },
+
 
 { "en": "a little",         "ko": "조금",       "fi": "vähän",          "fr": "un peu" },
 { "en": "very",         "ko": "아주",       "fi": "hyvin",          "fr": "très" },
@@ -66,8 +79,6 @@
 { "en": "not really",         "ko": "별로",       "fi": "",          "fr": "" },
 
 
-{ "en": "wide",         "ko": "넓다",       "fi": "leveä",          "fr": "large" },
-{ "en": "narrow",         "ko": "좁다",       "fi": "kapea",          "fr": "étroit" },
 { "en": "heavy",         "ko": "무거운",       "fi": "painava",          "fr": "lourd" },
 
 { "en": "light",         "ko": "가볍다",       "fi": "kevyt",          "fr": "léger" }

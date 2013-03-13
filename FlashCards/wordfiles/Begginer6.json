@@ -8,6 +8,8 @@
 
 { "en": "jump",     "ko": "뛰다",       "fi": "hypätä",     "fr": "sauter" },
 { "en": "run",     "ko": "달리다",       "fi": "juosta",     "fr": "courir" },
+
+{ "en": "throw",     "ko": "던지다",       "fi": "heittää",     "fr": "jeter" },
 { "en": "catch",     "ko": "잡다",       "fi": "ottaa kiinni",     "fr": "" },
 { "en": "swim",     "ko": "수영하다",       "fi": "uida",     "fr": "nager" },
 { "en": "swimming pool",     "ko": "수영장",       "fi": "uimahalli",     "fr": "piscine" },
@@ -28,7 +30,7 @@
 { "en": "song",         "ko": "노래",       "fi": "laulu",          "fr": "chanson" },
 { "en": "title",         "ko": "제목",       "fi": "nimi",          "fr": "titre" },
 { "en": "lyrics",         "ko": "가사",       "fi": "sanoitus",          "fr": "paroles" },
-{ "en": "recommend",         "ko": "추천하다",       "fi": "suositella",          "fr": "recommander" },
+
 { "en": "listen",         "ko": "듣다",       "fi": "kuunnella",          "fr": "écouter" },
 { "en": "sound",         "ko": "소리",       "fi": "ääni",          "fr": "son" },
 { "en": "music",         "ko": "음악",       "fi": "musiikki",          "fr": "musique" },
@@ -51,9 +53,7 @@
 { "en": "recharge",         "ko": "충전하다",       "fi": "ladata",          "fr": "recharger" },
 
 
-{ "en": "shadow",        "ko": "그림자",          "fi": "varjo",    "fr": "ombre" },
-{ "en": "memory",         "ko": "기억",       "fi": "muisto",    "fr": "souvenir" },
-{ "en": "remember",         "ko": "기억하다",       "fi": "muistaa",    "fr": "rappeler" }
+{ "en": "shadow",        "ko": "그림자",          "fi": "varjo",    "fr": "ombre" }
 
 
 

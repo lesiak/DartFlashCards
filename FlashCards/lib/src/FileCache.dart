@@ -24,7 +24,7 @@ class FileCache {
   
   void _requestFileSystemCallback(FileSystem filesystem) {
     _filesystem = filesystem;
-    ["en", "ko", "fi", "fr"].forEach((lang) {    
+    ["en", "ko", "fi", "fr", "enResp", "koResp", "fiResp", "frResp"].forEach((lang) {    
       _filesystem.root.getDirectory(lang, options: {"create": true}, 
           successCallback: (entry) => _createDirectoryCallback(entry, lang), 
           errorCallback: _handleError);

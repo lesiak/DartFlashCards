@@ -13,7 +13,9 @@
 
 { "en": "fashion model",         "ko": "패션 모델",       "fi": "",          "fr": "" },
 { "en": "prostitute",         "ko": "창녀",       "fi": "",          "fr": "" },
-{ "en": "fisherman",    "ko": "어부",    "fi": "kalastaja" , "fr":"pêcheur"},
+{ "en": "fisherman",    "ko": "어부",    "fi": "kalastaja" , "fr":"pêcheur"},`
+
+{ "en": "prosecutor",        "ko": "검사",          "fi": "syyttäjä",    "fr": "procureur" },
 
 { "en": "god",         "ko": "신",       "fi": "jumala",          "fr": "dieu" }
 

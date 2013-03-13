@@ -1,6 +1,8 @@
 [
 
-{ "en": "yellow", 		"ko": "노란색",       	"fi": "ladata",          "fr": "keltainen" },
+{ "en": "blue (nature)",     "ko": "푸르다",        "fi": "sininen",          "fr": "bleu" },
+{ "en": "blue",     "ko": "파랗다",        "fi": "sininen",          "fr": "bleu" },
+{ "en": "yellow", 		"ko": "노란색",       	"fi": "keltainen",          "fr": "jaune" },
 { "en": "green",     	"ko": "녹색",       	"fi": "vihreä",          "fr": "vert" }
 
 ]

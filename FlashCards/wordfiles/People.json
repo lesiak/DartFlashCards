@@ -25,6 +25,7 @@
 
 { "en": "life",    "ko": "생명",    "fi": "elämä" , "fr":"vie"},
 { "en": "to be born",    "ko": "태어나다",    "fi": "syntyä" , "fr":"naître"},
+{ "en": "young",    "ko": "어리다",    "fi": "nuori" , "fr":"jeune"},
 
 { "en": "to help",         "ko": "돕다",       "fi": "auttaa",          "fr": "aider" },
 { "en": "help",         "ko": "도움",       "fi": "apu, ohje",          "fr": "aide, secours" },

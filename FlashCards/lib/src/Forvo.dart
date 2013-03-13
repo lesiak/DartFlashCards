@@ -3,7 +3,7 @@ part of forvo_api;
 class ForvoResponse {
   
   String lang;  
-  String word; 
+  String word;      //not in server response 
   var attributes;
   List<ForvoItem> items;
   
@@ -32,7 +32,7 @@ class ForvoItem {
   var username;
   var sex;
   var country;
-  var code;
+  var code;       //country code
   var langname;
   var pathmp3;
   var pathogg;

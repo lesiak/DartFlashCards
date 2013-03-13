@@ -18,7 +18,12 @@
 
 { "en": "time (occurence)",       "ko": "번",       "fi": "kerta",    "fr": "fois" },
 
-{ "en": "prosecutor",        "ko": "검사",          "fi": "syyttäjä",    "fr": "procureur" },
+
+{ "en": "to save up",       "ko": "모으다",       "fi": "",    "fr": "" },
+{ "en": "according to",       "ko": "-에 따라서",       "fi": "",    "fr": "" },
+{ "en": "for example",       "ko": "예를 들어서",       "fi": "",    "fr": "" },
+
+{ "en": "by chance",   "ko": "우연히",    "fi": "sattumalta",   "fr":"par hasard"},
 
 { "en": "president",        "ko": "대통령",          "fi": "presidentti",    "fr": "président" },
 { "en": "government",        "ko": "정부",          "fi": "hallitus",    "fr": "gouvernement" },

@@ -2,6 +2,9 @@
 
 { "en": "food",       "ko": "음식",         "fi": "ruoka",    "fr": "nourritures" },
 { "en": "I am hungry",       "ko": "배고파요",         "fi": "Minulla on nälkä",    "fr": "J'ai faim" },
+{ "en": "I am full",       "ko": "배 불러요",         "fi": "",    "fr": "" },
+{ "en": "to be full",       "ko": "배 부르다",         "fi": "",    "fr": "" },
+
 
 { "en": "powder",       "ko": "가루",         "fi": "jauhe",    "fr": "poudre" },
 { "en": "flour",       "ko": "가루",         "fi": "jauhot",    "fr": "farine" },
