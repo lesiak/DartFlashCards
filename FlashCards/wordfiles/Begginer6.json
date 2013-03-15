@@ -17,9 +17,6 @@
 { "en": "competition",    "ko": "경기 (競  “contest” and 技 “talent”)",    "fi": "kilpailu, kisat" , "fr":"concours, compétition"},
 { "en": "stadium",    "ko": "경기장",    "fi": "stadion" , "fr":"stade"},
 { "en": "gym",    "ko": "체육관",    "fi": "" , "fr":""},
-{ "en": "push-ups",    "ko": "팔 굽혀 펴기",    "fi": "" , "fr":""},
-  
-
  
 { "en": "culture",      "ko": "문화",    "fi": "kulttuuri",         "fr": "culture" },
 { "en": "magazine",     "ko": "잡지",   "fi": "aikakauslehti",      "fr": "magazine" },
@@ -31,7 +28,7 @@
 { "en": "title",         "ko": "제목",       "fi": "nimi",          "fr": "titre" },
 { "en": "lyrics",         "ko": "가사",       "fi": "sanoitus",          "fr": "paroles" },
 
-{ "en": "listen",         "ko": "듣다",       "fi": "kuunnella",          "fr": "écouter" },
+
 { "en": "sound",         "ko": "소리",       "fi": "ääni",          "fr": "son" },
 { "en": "music",         "ko": "음악",       "fi": "musiikki",          "fr": "musique" },
 { "en": "melody",    "ko": "멜로디",    "fi": "melodia, sävel" , "fr":"mélodie"},
@@ -45,10 +42,10 @@
 { "en": "earnings, gains, proceeds",         "ko": "수익금",       "fi": "",          "fr": "" },
 
 
-{ "en": "guitar",         "ko": "기타",       "fi": "kitara",          "fr": "guitare" }, 
-{ "en": "piano",         "ko": "피아노",       "fi": "piano",          "fr": "piano" },
-{ "en": "saxophone",         "ko": "색소폰",       "fi": "saksofoni",          "fr": "saxophone" },
-
+{ "en": "guitar",         "ko": "기타",         "fi": "kitara",              "fr": "guitare" }, 
+{ "en": "piano",          "ko": "피아노",       "fi": "piano",               "fr": "piano" },
+{ "en": "saxophone",      "ko": "색소폰",       "fi": "saksofoni",           "fr": "saxophone" },
+{ "en": "drum",           "ko": "드럼",         "fi": "tambour, batterie",   "fr":"rumpu"},
 
 { "en": "recharge",         "ko": "충전하다",       "fi": "ladata",          "fr": "recharger" },
 

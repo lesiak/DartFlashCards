@@ -9,7 +9,10 @@
 { "en": "razor",        "ko": "면도칼",          "fi": "partakone",    "fr": "rasoir" },
 { "en": "lamp",        "ko": "램프",          "fi": "lamppu",    "fr": "lampe" },
 
+
+
 { "en": "get up, wake up",       "ko": "일어나다",       "fi": "nousta",    "fr": "se lever" },
+{ "en": "to wash",       "ko": "씻다",       "fi": "",    "fr": "" },
 
 
 { "en": "letter",     "ko": "편지",       "fi": "kirje",     "fr": "lettre" },
@@ -22,6 +25,7 @@
 { "en": "afternoon",         "ko": "오후에",       "fi": "iltapäivä",          "fr": "après-midi" },
 
 { "en": "yet",         "ko": "아직",       "fi": "vielä",          "fr": "encore" },
+{ "en": "later",         "ko": "나중에",       "fi": "",          "fr": "" },
 
 
 { "en": "now",        "ko": "지금",          "fi": "nyt",    "fr": "maintenant" },

@@ -12,7 +12,8 @@ class FlashCardsApp {
                      'Begginer2',
                      'Begginer3',
                      'Begginer4',
-                     'Begginer5', 
+                     'Begginer5',
+                     'Begginer6',
                      'City',
                      'Travel',
                      'Clothes',
@@ -25,14 +26,14 @@ class FlashCardsApp {
                      'Colors'];
   
   List<String> level2Files = ['Work',
-                              'School',  
-                              'Begginer6',
+                              'School',                                
                               'Begginer7',
                               'Begginer8',
                               'Begginer9',
                               'Mythology',
                               'Professions',
                               'Military',
+                              'Countries',
                               'Sentences1',
                               'TopikInter1'];
   
@@ -175,9 +176,13 @@ class FlashCardsApp {
   }
   
   void fillSummary() {
-    query("#totalWords").text = "${engine.deckSize}";
-    query("#completedWords").text = "${engine.completedSize}";
-    int progress = ((engine.completedSize/engine.deckSize) * 100).toInt();
+    var deckSize = engine.deckSize;
+    var completedSize = engine.completedSize;
+    query("#totalWords").text = "${deckSize}";
+    query("#completedWords").text = "${completedSize}";
+    query("#dueTodayWords").text = "${engine.dueSize}";
+    
+    int progress = ((completedSize/deckSize) * 100).toInt();
     query("#deckProgress").text = "${progress}%";
   }
   

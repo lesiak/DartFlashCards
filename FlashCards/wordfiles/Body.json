@@ -10,6 +10,12 @@
 { "en": "ear",       "ko": "귀",         "fi": "korva",    "fr": "oreille" },
 { "en": "body",       "ko": "몸",         "fi": "keho",    "fr": "corps" },
 { "en": "hand",       "ko": "손",         "fi": "käsi",    "fr": "main" },
+{ "en": "left",       "ko": "왼",         "fi": "",    "fr": "" },
+{ "en": "right",       "ko": "오른",         "fi": "",    "fr": "" },
+{ "en": "to touch",       "ko": "대다",         "fi": "",    "fr": "" },
+{ "en": "to raise",       "ko": "들다",         "fi": "",    "fr": "" },
+
+
 { "en": "finger",       "ko": "손가락",         "fi": "sormi",    "fr": "doigt" },
 { "en": "a bone",    "ko": "뼈",    "fi": "" , "fr":""},
 

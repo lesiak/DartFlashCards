@@ -57,16 +57,9 @@ class Engine implements DeckState {
     if (lastCardScore == null) {
       return true;
     }
-    var currentDate = new Date.now();
+    var currentDate = new DateTime.now();
     var scheduledDate = lastCardScore.getNextScheduledTime();
-    return currentDate > scheduledDate;
-    /*var dateDifference = lastCardScore.getDateDifferenceSinceLast(currentDate);
-    var goodInARow = lastCardScore.goodInARow;
-    return (
-        lastCardScore.lastResult == BAD_ANSWER
-        || lastCardScore.lastResult == POOR_ANSWER && dateDifference.inHours > 1
-        || lastCardScore.lastResult == GOOD_ANSWER && dateDifference.inDays > fib(goodInARow+1)    
-    );*/
+    return currentDate.isAfter(scheduledDate);    
   }
   
   
@@ -99,7 +92,7 @@ class Engine implements DeckState {
   }
   
   void _processAnswer(String answerResult) {
-    var time = new Date.now().millisecondsSinceEpoch; 
+    var time = new DateTime.now().millisecondsSinceEpoch; 
     int previousGoodInARow = 0;
     
     if (_currentScore != null) {
@@ -129,6 +122,7 @@ class Engine implements DeckState {
   
   int get deckSize => allCardsInDeck.length;
   int get completedSize => allCardsInDeck.where(isCardCompleted).length;
+  int get dueSize => allCardsInDeck.where(isCardInLearningList).length;
   
   
 }

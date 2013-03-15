@@ -60,8 +60,10 @@
 { "en": "make",       "ko": "만들다",       "fi": "tehdä",    "fr": "faire" },
 { "en": "see",       "ko": "보다",       "fi": "nähdä",    "fr": "voir" },
 { "en": "to be seen",       "ko": "보이다",       "fi": "",    "fr": "" },
+{ "en": "to show",       "ko": "보여주다",       "fi": "",    "fr": "" },
 
-{ "en": "hear",       "ko": "들리다",       "fi": "kuulla",    "fr": "entendre" }
+{ "en": "hear",       "ko": "들리다",       "fi": "kuulla",    "fr": "entendre" },
+{ "en": "listen",         "ko": "듣다",       "fi": "kuunnella",          "fr": "écouter" }
 
 
 
