@@ -10,15 +10,9 @@
 
 
 { "en": "noisy",         "ko": "시끄럽다",       "fi": "meluisa",          "fr": "bruyant" },
-{ "en": "collect",         "ko": "모으다",       "fi": "kerätä",          "fr": "recueillir" },
-{ "en": "save up",         "ko": "모으다",       "fi": "säästää",          "fr": "épargner" },
-
-{ "en": "according to",         "ko": "-에 따라서",       "fi": "mukaan",          "fr": "selon" },
-{ "en": "for example",         "ko": "예를 들어서",       "fi": "esimerkiksi",          "fr": "par exemple" },
-{ "en": "example",         "ko": "예",       "fi": "esimerkki",          "fr": "exemple" },
 
 
-
+{ "en": "to bite",         "ko": "씹다",       "fi": "purra, haukata",          "fr": "mordre" },
 
 { "en": "help",         "ko": "도움",       "fi": "apu, ohje",          "fr": "aide, secours" },
 { "en": "to help",         "ko": "돕다",       "fi": "auttaa",          "fr": "aider" },
@@ -40,7 +34,7 @@
 { "en": "separately",        "ko": "따로",          "fi": "erillään",    "fr": "séparément" }, 
 { "en": "method",        "ko": "방법",          "fi": "menetelmä, metodi",    "fr": "méthode" },
 
-{ "en": "stay",        "ko": "머무르다",          "fi": "jäädä, ",    "fr": "rester" },
+
 { "en": "take",        "ko": "?",          "fi": "ottaa",    "fr": "prendre" },
 { "en": "percent",        "ko": "퍼센트",          "fi": "prosentti",    "fr": "pour cent" },
 { "en": "part",        "ko": "부분",          "fi": "partie",    "fr": "pour cent" },

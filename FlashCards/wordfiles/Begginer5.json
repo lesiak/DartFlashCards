@@ -11,17 +11,21 @@
 
 { "en": "warm",     "ko": "따뜻하다",    "fi": "lämmin" , "fr":"chaud"},
 { "en": "cold",     "ko": "춥다",    "fi": "kylmä" , "fr":"froid"},
-{ "en": "hot",     "ko": "덥다",    "fi": "kuuma" , "fr":"chaud"},
+{ "en": "hot (weather)",     "ko": "덥다",    "fi": "kuuma" , "fr":"chaud"},
 
 { "en": "finish (intr)",       "ko": "끝나다",       "fi": "loppua",    "fr": "finir, terminer" },
 { "en": "finish (sth)",       "ko": "끝내다",       "fi": "lopettaa",    "fr": "finir, terminer" },
 
 { "en": "time (occurence)",       "ko": "번",       "fi": "kerta",    "fr": "fois" },
 
+{ "en": "money",         "ko": "돈",       "fi": "raha",          "fr": "argent" },
+{ "en": "collect",         "ko": "모으다",       "fi": "kerätä",          "fr": "recueillir" },
+{ "en": "save up",         "ko": "모으다",       "fi": "säästää",          "fr": "épargner" },
 
-{ "en": "to save up",       "ko": "모으다",       "fi": "",    "fr": "" },
-{ "en": "according to",       "ko": "-에 따라서",       "fi": "",    "fr": "" },
-{ "en": "for example",       "ko": "예를 들어서",       "fi": "",    "fr": "" },
+{ "en": "according to",         "ko": "-에 따라서",       "fi": "mukaan",          "fr": "selon" },
+
+{ "en": "for example",         "ko": "예를 들어서",       "fi": "esimerkiksi",          "fr": "par exemple" },
+{ "en": "example",         "ko": "예",       "fi": "esimerkki",          "fr": "exemple" },
 
 { "en": "by chance",   "ko": "우연히",    "fi": "sattumalta",   "fr":"par hasard"},
 

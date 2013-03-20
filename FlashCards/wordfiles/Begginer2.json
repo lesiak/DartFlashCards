@@ -40,6 +40,7 @@
 { "en": "lunch",       "ko": "점심",         "fi": "lounas",    "fr": "déjeuner" },
 { "en": "dinner",       "ko": "저녁",         "fi": "dîner",    "fr": "päivällinen" },
 { "en": "cook",       "ko": "요리하다",         "fi": "keittää, laittaa ruokaa",    "fr": "cuisiner" },
+{ "en": "to bake",   "ko": "굽다",    "fi": "leipoa",   "fr":""},
 { "en": "prepare",       "ko": "준비하다",         "fi": "valmistella",    "fr": "préparer" },
 
 

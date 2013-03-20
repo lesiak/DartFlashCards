@@ -23,6 +23,7 @@
 
 { "en": "after",         "ko": "후",       "fi": "jälkeen",          "fr": "après" },
 { "en": "afternoon",         "ko": "오후에",       "fi": "iltapäivä",          "fr": "après-midi" },
+{ "en": "before",         "ko": "전에",       "fi": "ennen",          "fr": "avant" },
 
 { "en": "yet",         "ko": "아직",       "fi": "vielä",          "fr": "encore" },
 { "en": "later",         "ko": "나중에",       "fi": "",          "fr": "" },
