@@ -45,7 +45,8 @@
 { "en": "guitar",         "ko": "기타",         "fi": "kitara",              "fr": "guitare" }, 
 { "en": "piano",          "ko": "피아노",       "fi": "piano",               "fr": "piano" },
 { "en": "saxophone",      "ko": "색소폰",       "fi": "saksofoni",           "fr": "saxophone" },
-{ "en": "drum",           "ko": "드럼",         "fi": "tambour, batterie",   "fr":"rumpu"},
+{ "en": "drum",           "ko": "드럼",         "fi": "rumpu",   "fr":"tambour, batterie"},
+{ "en": "musical instrument",  "ko": "악기",    "fi": "soitin",   "fr":"instrument de musique"},
 
 { "en": "recharge",         "ko": "충전하다",       "fi": "ladata",          "fr": "recharger" },
 

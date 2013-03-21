@@ -35,7 +35,15 @@
 { "en": "light (weight)",       "ko": " 무거운",       "fi": "kevyt",    "fr": "lourd" },
 { "en": "to be used, be utilized",       "ko": "쓰이다",       "fi": "",    "fr": "" },
 { "en": "event",       "ko": "행사",       "fi": "tapahtuma",    "fr": "événement" },
-{ "en": "prize",       "ko": "v",       "fi": "palkinto",    "fr": "prix" }
+{ "en": "prize",       "ko": "v",       "fi": "palkinto",    "fr": "prix" },
+
+
+{ "en": "family",       "ko": "가족",       "fi": "perhe",   "fr": "famille" },
+{ "en": "father",        "ko": "아버지",          "fi": "isä",    "fr": "père" },
+{ "en": "child",        "ko": "아이",          "fi": "lapsi",    "fr": "enfant" },
+{ "en": "son",        "ko": "아들",          "fi": "poika",    "fr": "fils" },
+{ "en": "baby",        "ko": "아가",          "fi": "vauva, beibi",    "fr": "bébé" },
+{ "en": "wife",        "ko": "아내",          "fi": "vaimo",    "fr": "femme" }
 
 
 

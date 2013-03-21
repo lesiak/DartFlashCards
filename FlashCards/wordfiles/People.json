@@ -1,7 +1,7 @@
 [
 
 { "en": "girl",    "ko": "소녀 (girly)",    "fi": "tyttö" , "fr":"fille"},
-
+{ "en": "miss, young girl",    "ko": "아가씨",    "fi": "neiti" , "fr":"Mademoiselle"},
 
 { "en": "man (masculine type)",         "ko": "사나이",       "fi": "",          "fr": "" },
 { "en": "lady",         "ko": "숙녀",       "fi": "leidi",          "fr": "dame" },
@@ -52,6 +52,7 @@
 { "en": "cute",         "ko": "귀엽다",       "fi": "soma",          "fr": "mignon" },
 
 { "en": "fool",         "ko": "바보",       "fi": "typerys, hullu",          "fr": "fou" },
+{ "en": "lover",         "ko": "애인",       "fi": "rakastaja",          "fr": "amant" },
 
 { "en": "angel",         "ko": "천사",       "fi": "enkeli",          "fr": "ange" },
 { "en": "devil",         "ko": "악마",       "fi": "paholainen, piru , perkele",          "fr": "diable" },

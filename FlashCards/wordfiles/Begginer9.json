@@ -12,7 +12,13 @@
 
 { "en": "cloudy",   "ko": "흐리다",    "fi": "pilvinen",   "fr":"nuageux"},
 { "en": "fall asleep",   "ko": "잠들다",    "fi": "nukahtaa",   "fr":"s'endormir"},
-{ "en": "for sure",   "ko": "꼭",    "fi": "varmasti",   "fr":""}
+{ "en": "for sure",   "ko": "꼭",    "fi": "varmasti",   "fr":""},
+{ "en": "appear",       "ko": "나타나다",       "fi": "näyttää",    "fr": "apparaître" },
+
+{ "en": "female (animals)",       "ko": "암컷",       "fi": "naaras",    "fr": "femelle" },
+{ "en": "pressure",       "ko": "압력 (press + strength)",       "fi": "paine",    "fr": "pression" }
+
+
 
 
 

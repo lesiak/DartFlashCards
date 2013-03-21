@@ -19,13 +19,13 @@
 { "en": "remember",         "ko": "기억하다",       "fi": "muistaa",    "fr": "rappeler" },
 { "en": "recommend",         "ko": "추천하다",       "fi": "suositella",          "fr": "recommander" },
 
+
 { "en": "live, dwell",        "ko": "살다",          "fi": "asua",    "fr": "habiter" },
 
 
 { "en": "open",    "ko": "열다",       "fi": "auki",    "fr": "ouvert" },
 
 { "en": "price",        "ko": "가격",    	"fi": "hinta",    "fr": "prix" },
-{ "en": "weight",       "ko": "무게",     	"fi": "paino",    "fr": "poids" },
 
 { "en": "sign",      "ko": "간판",   "fi": "merkki",         "fr": "panneau" },
 { "en": "warning",      "ko": "경고",   "fi": "varoitus",         "fr": "avertissement" },
@@ -80,8 +80,8 @@
 { "en": "not really",         "ko": "별로",       "fi": "",          "fr": "" },
 
 
+{ "en": "weight",       "ko": "무게",       "fi": "paino",    "fr": "poids" },
 { "en": "heavy",         "ko": "무거운",       "fi": "painava",          "fr": "lourd" },
-
 { "en": "light",         "ko": "가볍다",       "fi": "kevyt",          "fr": "léger" }
 
 ]

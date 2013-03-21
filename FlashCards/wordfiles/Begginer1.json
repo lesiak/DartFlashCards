@@ -49,8 +49,6 @@
 { "en": "world",        "ko": "세계",          "fi": "maailma",    "fr": "monde" },
 
 
-{ "en": "family",       "ko": "가족",     	"fi": "perhe",   "fr": "famille" },
-{ "en": "child",        "ko": "아이",          "fi": "lapsi",    "fr": "enfant" },
 
 { "en": "sit",         "ko": "앉다",       "fi": "istua",    "fr": "être assis" },
 { "en": "stand",         "ko": "서다",       "fi": "seisoa",    "fr": "être debout" },
