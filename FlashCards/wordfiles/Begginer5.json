@@ -33,16 +33,16 @@
 { "en": "government",        "ko": "정부",          "fi": "hallitus",    "fr": "gouvernement" },
 { "en": "economy",        "ko": "경제",          "fi": "talous",    "fr": "économie" },
 
-{ "en": "country",         "ko": "나라",       "fi": "maa",          "fr": "pays" },
-{ "en": "Asia",        "ko": "아시아",          "fi": "Aasia",    "fr": "Asie" },
+
 
 { "en": "keyboard",        "ko": "키보드",          "fi": "",    "fr": "" },
 { "en": "notebook",        "ko": "노트북",          "fi": "",    "fr": "" },
 { "en": "monitor",        "ko": "모니터",          "fi": "",    "fr": "" },
 { "en": "screen",        "ko": "화면",          "fi": "",    "fr": "" },
 { "en": "mouse",        "ko": "마우스",          "fi": "",    "fr": "" },
+{ "en": "battery",        "ko": "배터리",          "fi": "akku",    "fr": "pile" }
 
-{ "en": "idea",         "ko": "아이디어",       "fi": "idea",          "fr": "idée" }
+
 
     
 

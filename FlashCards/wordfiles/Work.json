@@ -39,5 +39,7 @@
 { "en": "traffic",    "ko": "교통",    "fi": "liikenne" , "fr":"circulation"},
 { "en": "login",    "ko": "로그인",    "fi": "" , "fr":""},
 
-{ "en": "password",    "ko": "비밀번호",    "fi": "" , "fr":""}
+{ "en": "password",    "ko": "비밀번호",    "fi": "" , "fr":""},
+{ "en": "part time job",    "ko": "아르바이트",    "fi": "osa-aikaista työtä" , "fr":"emploi à temps partiel"},
+
 ]

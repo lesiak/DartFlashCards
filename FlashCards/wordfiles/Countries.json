@@ -14,6 +14,8 @@
 { "en": "China",         "ko": "중국",       "fi": "Kiina",          "fr": "Chine" },
 { "en": "Korea",         "ko": "한국",       "fi": "Korea",          "fr": "Corée" },
 { "en": "Africa",         "ko": "아프리카",       "fi": "Afrikka",          "fr": "Afrique" }
+{ "en": "Asia",        "ko": "아시아",          "fi": "Aasia",    "fr": "Asie" },
+{ "en": "country",         "ko": "나라",       "fi": "maa",          "fr": "pays" }
 
 
 

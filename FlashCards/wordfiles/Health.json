@@ -9,7 +9,9 @@
 { "en": "(a) cold",        "ko": "감기",          "fi": "nuha",    "fr": "rhume" },
 { "en": "pain",    "ko": "고통, 아픔",    "fi": "" , "fr":""},
 { "en": "to be injured",    "ko": "다치다",    "fi": "" , "fr":""},
-{ "en": "cancer",    "ko": "암",    "fi": "syöpä" , "fr":"cancer"}
+{ "en": "cancer",    "ko": "암",    "fi": "syöpä" , "fr":"cancer"},
+{ "en": "virus",    "ko": "바이러스",    "fi": "virus" , "fr":"virus"}
+
 
 
 ]

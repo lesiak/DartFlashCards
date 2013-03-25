@@ -47,22 +47,22 @@
 { "en": "alkohol",       "ko": "알코올",         "fi": "alkoholi",    "fr": "alcool" },
 
 
-{ "en": "sweet",       "ko": "달다",         "fi": "makea",    "fr": "doux" },
-{ "en": "bitter",       "ko": "쓰다",         "fi": "kitkerä",    "fr": "amer" },
-{ "en": "spicy",    "ko": "맵다",    "fi": "mausteinen" , "fr":"piquant"}
-{ "en": "cuisine",       "ko": "요리",         "fi": "keittiö",    "fr": "cuisine" },
-{ "en": "chef",         "ko": "요리사",   "fi": "kokki",   "fr": "chef de cuisine" },
+{ "en": "sweet",        "ko": "달다",       "fi": "makea",        "fr": "doux" },
+{ "en": "bitter",       "ko": "쓰다",       "fi": "kitkerä",      "fr": "amer" },
+{ "en": "spicy",        "ko": "맵다",       "fi": "mausteinen" ,  "fr":"piquant"},
+{ "en": "cuisine",      "ko": "요리",       "fi": "keittiö",      "fr": "cuisine" },
+{ "en": "chef",         "ko": "요리사",     "fi": "kokki",        "fr": "chef de cuisine" },
 
-{ "en": "knife",       "ko": "칼",         "fi": "veitsi",    "fr": "couteau" },
-{ "en": "spoon",       "ko": "스푼",         "fi": "lusikka",    "fr": "cuillère" },
-{ "en": "fork",       "ko": "포크",         "fi": "haarukka",    "fr": "fourchette" },
-{ "en": "chopsticks",       "ko": "젓가락",         "fi": "syömäpuikot",    "fr": "baguettes" },
-{ "en": "cup",       "ko": "컵",         "fi": "kuppi",    "fr": "tasse" }, 
+{ "en": "knife",        "ko": "칼",         "fi": "veitsi",    "fr": "couteau" },
+{ "en": "spoon",        "ko": "스푼",       "fi": "lusikka",    "fr": "cuillère" },
+{ "en": "fork",         "ko": "포크",       "fi": "haarukka",    "fr": "fourchette" },
+{ "en": "chopsticks",   "ko": "젓가락",     "fi": "syömäpuikot",    "fr": "baguettes" },
+{ "en": "cup",          "ko": "컵",         "fi": "kuppi",    "fr": "tasse" }, 
 
-{ "en": "pot",       "ko": "냄비",         "fi": "potti",    "fr": "casserole" },
+{ "en": "pot",          "ko": "냄비",       "fi": "potti",    "fr": "casserole" },
 
-{ "en": "meal",       "ko": "식사",         "fi": "ateria",    "fr": "repas" },
-{ "en": "waiter",    "ko": "웨이터",    "fi": "tarjoilija" , "fr":"serveur"}
+{ "en": "meal",         "ko": "식사",       "fi": "ateria",    "fr": "repas" },
+{ "en": "waiter",       "ko": "웨이터",     "fi": "tarjoilija" , "fr":"serveur"}
 
 
 

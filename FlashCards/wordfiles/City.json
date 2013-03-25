@@ -22,11 +22,11 @@
 { "en": "architecture",     "ko": " 건축학",   "fi": "arkkitehtuuri" ,   "fr":"architecture"},
 { "en": "architect",     "ko": " 건축가",   "fi": "arkkitehti" ,   "fr":"architecte"},
 { "en": "bank",     "ko": " 은행",   "fi": "pankki" ,   "fr":"banque"},
-{ "en": "pub",     "ko": " 술집",   "fi": "baari, kapakka, pubi" ,   "fr":"bar, pub"},
+{ "en": "pub, bar",     "ko": " 술집, 바",   "fi": "baari, kapakka, pubi" ,   "fr":"bar, pub"},
 { "en": "bus stop",     "ko": " 버스 정류장",   "fi": "bussipysäkki" ,   "fr":"arrêt de bus"},
 { "en": "library",      "ko": "도서관",   "fi": "kirjasto",         "fr": "bibliothèque" },
 { "en": "shop",      "ko": "가게",   "fi": "myymälä, kauppa",         "fr": "magasin, boutique" },
-
+{ "en": "departmant store",      "ko": "백화점 (hundred + goods + shop)",   "fi": "tavaratalo",     "fr": "grand magasin" },
 
 { "en": "other side",        "ko": "건너편",          "fi": "?",    "fr": "?" },
 { "en": "wall",         "ko": "담",       "fi": "seinä, muuri",          "fr": "mur" },

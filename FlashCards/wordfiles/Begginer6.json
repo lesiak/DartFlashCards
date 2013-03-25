@@ -1,9 +1,11 @@
 [
 { "en": "hobby",        "ko": "취미",       "fi": "mieliharrastus", "fr": "hobby" },
 { "en": "football",     "ko": "축구",       "fi": "jalkapallo",     "fr": "football" },
-{ "en": "volleyball",     "ko": "배구",       "fi": "lentopallo",     "fr": "volley-ball" },
+{ "en": "volleyball",     "ko": "배구 (push + ball)",       "fi": "lentopallo",     "fr": "volley-ball" },
 { "en": "basketball",     "ko": "농구",       "fi": "koripallo",     "fr": "basket-ball" },
 { "en": "baseball",     "ko": "야구",       "fi": "baseball",     "fr": "base-ball" },
+{ "en": "badminton",     "ko": "배드민턴",       "fi": "sulkapallo",     "fr": "badminton" },
+
 { "en": "team",    "ko": " 팀",    "fi": "" , "fr":""},
 
 { "en": "jump",     "ko": "뛰다",       "fi": "hypätä",     "fr": "sauter" },
@@ -46,6 +48,8 @@
 { "en": "piano",          "ko": "피아노",       "fi": "piano",               "fr": "piano" },
 { "en": "saxophone",      "ko": "색소폰",       "fi": "saksofoni",           "fr": "saxophone" },
 { "en": "drum",           "ko": "드럼",         "fi": "rumpu",   "fr":"tambour, batterie"},
+{ "en": "violin",           "ko": "바이올린",         "fi": "viulu",   "fr":"violon"},
+
 { "en": "musical instrument",  "ko": "악기",    "fi": "soitin",   "fr":"instrument de musique"},
 
 { "en": "recharge",         "ko": "충전하다",       "fi": "ladata",          "fr": "recharger" },
@@ -56,4 +60,5 @@
 
 
 ]
+        
         

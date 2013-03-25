@@ -18,7 +18,7 @@
 { "en": "memory",         "ko": "기억",       "fi": "muisto",    "fr": "souvenir" },
 { "en": "remember",         "ko": "기억하다",       "fi": "muistaa",    "fr": "rappeler" },
 { "en": "recommend",         "ko": "추천하다",       "fi": "suositella",          "fr": "recommander" },
-
+{ "en": "idea",         "ko": "아이디어",       "fi": "idea",          "fr": "idée" },
 
 { "en": "live, dwell",        "ko": "살다",          "fi": "asua",    "fr": "habiter" },
 

@@ -1,6 +1,9 @@
 [
 
 { "en": "insult",   "ko": "모욕",    "fi": "loukkaus", 	"fr":"insulte"},
+{ "en": "to insult",   "ko": "모욕하다",    "fi": "loukata",  "fr":"insulter"},
+
+
 { "en": "intuition",   "ko": "직관",    "fi": "intuitio", 	"fr":"intuition"},
 { "en": "bellwether (leader, trendsetter)",   "ko": "선도자",    "fi": "",   "fr":""},
 
@@ -8,7 +11,7 @@
 { "en": "to run away",   "ko": "도망가다",    "fi": "",   "fr":""},
 
 
-{ "en": "blind date",   "ko": "소개팅",    "fi": "", 	"fr":""},
+{ "en": "blind date",   "ko": "소개팅",    "fi": "sokkotreffit", 	"fr":""},
 
 { "en": "cloudy",   "ko": "흐리다",    "fi": "pilvinen",   "fr":"nuageux"},
 { "en": "fall asleep",   "ko": "잠들다",    "fi": "nukahtaa",   "fr":"s'endormir"},
@@ -17,7 +20,17 @@
 
 { "en": "female (animals)",       "ko": "암컷",       "fi": "naaras",    "fr": "femelle" },
 { "en": "pressure",       "ko": "압력 (press + strength)",       "fi": "paine",    "fr": "pression" },
-{ "en": "nightmare",       "ko": "악몽 (bad + dream)",       "fi": "painajainen",    "fr": "cauchemar" }
+{ "en": "nightmare",       "ko": "악몽 (bad + dream)",       "fi": "painajainen",    "fr": "cauchemar" },
+{ "en": "to spit",       "ko": "뱉다",       "fi": "sylkeä",    "fr": "cracher" },
+{ "en": "basket",       "ko": "바구니",       "fi": "kori",    "fr": "panier" },
+{ "en": "wheel",       "ko": "바퀴",       "fi": "pyörä",    "fr": "roue" },
+{ "en": "needle",       "ko": "바늘",       "fi": "neula",    "fr": "aiguille" },
+{ "en": "reaction",       "ko": "반응 (reverse + answer)",       "fi": "reaktio",    "fr": "réaction" }
+{ "en": "to react",       "ko": "반응하다",       "fi": "suhtautua",    "fr": "réagir" },
+{ "en": "to disturb",       "ko": "방해하다",       "fi": "häiritä",    "fr": "perturber" },
+{ "en": "to interrupt",       "ko": "방해하다",       "fi": "keskeyttää",    "fr": "interrompre" }
+
+
 
 
 
