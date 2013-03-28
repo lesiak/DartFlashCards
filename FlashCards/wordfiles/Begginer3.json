@@ -11,6 +11,7 @@
 { "en": "bath",        "ko": "목욕",          "fi": "kylpy",    "fr": "bain" },
 { "en": "bathroom",        "ko": "욕실",          "fi": "kylpyhuone",    "fr": "salle de bain" },
 { "en": "bathe",        "ko": " 목욕시키다",          "fi": "kylpeä",    "fr": "se baigner" },
+{ "en": "pillow",        "ko": " 베개",          "fi": "tyyny",    "fr": "oreiller" },
 
 
 { "en": "get up, wake up",       "ko": "일어나다",       "fi": "nousta",    "fr": "se lever" },
@@ -29,6 +30,7 @@
 
 { "en": "yet",         "ko": "아직",       "fi": "vielä",          "fr": "encore" },
 { "en": "later",         "ko": "나중에",       "fi": "",          "fr": "" },
+{ "en": "already",         "ko": "벌써, 이미",       "fi": "jo",          "fr": "déjà" },
 
 
 { "en": "now",        "ko": "지금",          "fi": "nyt",    "fr": "maintenant" },

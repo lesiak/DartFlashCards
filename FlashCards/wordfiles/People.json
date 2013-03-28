@@ -21,6 +21,7 @@
 { "en": "slim, slender",    "ko": "날씬하다, 호리 호리하다",    "fi": "hoikka, laiha" , "fr":"mince, maigre, svelte"},
 { "en": "(one's) figure",    "ko": "몸매"    ,"fi": "" , "fr":""},
 { "en": "a slender figure",    "ko": "날씬한 몸매"  ,  "fi": "" , "fr":""},
+{ "en": "obesity",    "ko": "비만 (fat + full)"  ,  "fi": "liikalihavuus" , "fr":"obésité"},
 
 
 { "en": "life",    "ko": "생명",    "fi": "elämä" , "fr":"vie"},
@@ -48,8 +49,13 @@
 
 { "en": "strange",         "ko": "이상하다",       "fi": "outo, kummallinen, omituinen",          "fr": "étrange" },
 
+
 { "en": "beautiful",         "ko": "아름답다",       "fi": "kaunis",          "fr": "beau" },
 { "en": "cute",         "ko": "귀엽다",       "fi": "soma",          "fr": "mignon" },
+
+{ "en": "habit",         "ko": "버릇",       "fi": "tapa",          "fr": "habitude" },
+{ "en": "manners",         "ko": "버릇",       "fi": "käytöstavat",          "fr": "manières" },
+
 
 { "en": "fool",         "ko": "바보",       "fi": "typerys, hullu",          "fr": "fou" },
 { "en": "lover",         "ko": "애인",       "fi": "rakastaja",          "fr": "amant" },
@@ -57,7 +63,7 @@
 { "en": "angel",         "ko": "천사",       "fi": "enkeli",          "fr": "ange" },
 { "en": "devil",         "ko": "악마",       "fi": "paholainen, piru , perkele",          "fr": "diable" },
 { "en": "genius",         "ko": "천재",       "fi": "nero",          "fr": "génie" },
-{ "en": "god",         "ko": "신",       "fi": "jumala",          "fr": "dieu" }
+{ "en": "god",         "ko": "신",       "fi": "jumala",          "fr": "dieu" } 
 
 
 

@@ -23,6 +23,8 @@
 { "en": "fries",    "ko": "감자튀김",    "fi": "" , "fr":""},
 
 { "en": "fruit",       "ko": "과일",         "fi": "hedelmä",    "fr": "fruit" },
+{ "en": "mushroom",       "ko": "버섯",         "fi": "sieni",    "fr": "champignon" },
+
 
 { "en": "soup",       "ko": "국",         "fi": "keitto",    "fr": "soupe" },
 { "en": "meat",       "ko": "고기",         "fi": "liha",    "fr": "viande" },
@@ -60,6 +62,8 @@
 { "en": "cup",          "ko": "컵",         "fi": "kuppi",    "fr": "tasse" }, 
 
 { "en": "pot",          "ko": "냄비",       "fi": "potti",    "fr": "casserole" },
+{ "en": "rice cooker",          "ko": "밥솥",       "fi": "riisi liesi",    "fr": "cuiseur à riz" },
+
 
 { "en": "meal",         "ko": "식사",       "fi": "ateria",    "fr": "repas" },
 { "en": "waiter",       "ko": "웨이터",     "fi": "tarjoilija" , "fr":"serveur"}

@@ -30,6 +30,8 @@
 
 { "en": "other side",        "ko": "건너편",          "fi": "?",    "fr": "?" },
 { "en": "wall",         "ko": "담",       "fi": "seinä, muuri",          "fr": "mur" },
+{ "en": "bench",         "ko": "벤치",       "fi": "penkki",          "fr": "banc" },
+
 
 { "en": "prison",         "ko": "교도소",       "fi": "",          "fr": "" },
 { "en": "city",         "ko": "도시",       "fi": "",          "fr": "" },

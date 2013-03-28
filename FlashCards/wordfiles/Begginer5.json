@@ -21,6 +21,8 @@
 { "en": "money",         "ko": "돈",       "fi": "raha",          "fr": "argent" },
 { "en": "collect",         "ko": "모으다",       "fi": "kerätä",          "fr": "recueillir" },
 { "en": "save up",         "ko": "모으다",       "fi": "säästää",          "fr": "épargner" },
+{ "en": "a fine, penalty",         "ko": "벌금",       "fi": "sakko",          "fr": "amende" },
+
 
 { "en": "according to",         "ko": "-에 따라서",       "fi": "mukaan",          "fr": "selon" },
 
@@ -33,6 +35,10 @@
 { "en": "government",        "ko": "정부",          "fi": "hallitus",    "fr": "gouvernement" },
 { "en": "economy",        "ko": "경제",          "fi": "talous",    "fr": "économie" },
 
+{ "en": "criticize, reproach",  "ko": "비난하다 (blame + blame)",          "fi": "arvostella",    "fr": "critiquer" },
+{ "en": "criticize",            "ko": "비판하다 (blame + judge)",          "fi": "arvostella",    "fr": "critiquer" },
+{ "en": "critical",            "ko": "비판적 (blame + judge + of)",          "fi": "kriittinen",    "fr": "critique" },
+  
 
 
 { "en": "keyboard",        "ko": "키보드",          "fi": "",    "fr": "" },

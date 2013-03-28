@@ -2,10 +2,10 @@
 
 { "en": "photographer",         "ko": "사진사",       "fi": "",          "fr": "" },
 { "en": "cook",         "ko": "요리사",       "fi": "",          "fr": "" },
-{ "en": "secretary",         "ko": "비서",       "fi": "",          "fr": "" },
+{ "en": "secretary",         "ko": "비서 (secret + writing)",       "fi": "sihteeri",          "fr": "secrétaire" },
 
 { "en": "dancer",         "ko": "무용가",       "fi": "",          "fr": "" },
-{ "en": "painter",         "ko": "화가",       "fi": "",          "fr": "" },
+{ "en": "painter",         "ko": "화가",       "fi": "maalari",          "fr": "peintre" },
  
 { "en": "princess",         "ko": "왕자비",       "fi": "",          "fr": "" },
 { "en": "scientist",         "ko": "과학자",       "fi": "",          "fr": "" },
@@ -17,7 +17,14 @@
 
 { "en": "prosecutor",        "ko": "검사",          "fi": "syyttäjä",    "fr": "procureur" },
 
-{ "en": "god",         "ko": "신",       "fi": "jumala",          "fr": "dieu" }
+{ "en": "god",         "ko": "신",       "fi": "jumala",          "fr": "dieu" },
+{ "en": "criminal",         "ko": "범인 (violate + people)",       "fi": "rikollinen",          "fr": "criminel" },
+{ "en": "crime",         "ko": "범죄 (violate + fault)",       "fi": "rikollisuus, rikos",     "fr": "crime" },
+{ "en": "law",         "ko": "법",       "fi": "laki",     "fr": "loi" },
+{ "en": "rule, law",         "ko": "법칙 (law + rule)",       "fi": "sääntö",     "fr": "règle" }
+
+  
+
 
 
 

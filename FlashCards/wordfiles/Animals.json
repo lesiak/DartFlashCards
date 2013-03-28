@@ -12,12 +12,18 @@
 { "en": "goat",      "ko": "염소",     "fi": "vuohi",   "fr": "chèvre" },
 
 { "en": "fox",      "ko": "여우",     "fi": "kettu",   "fr": "renard" },
-{ "en": "ant",      "ko": "개미",     "fi": "muurahainen",   "fr": "fourmi" },
 { "en": "snake",      "ko": "뱀",     "fi": "käärme",   "fr": "serpent" },
 { "en": "bear",      "ko": "곰",     "fi": "karhu",   "fr": "ours" },
-{ "en": "butterfly",      "ko": "나비",     "fi": "perhonen",   "fr": "papillon" },
+
 { "en": "bird",      "ko": "새",     "fi": "lintu",   "fr": "oiseau" },
 { "en": "duck",      "ko": "오리",     "fi": "ankka",   "fr": "canard" },
+{ "en": "pigeon",      "ko": "비둘기",     "fi": "kyyhkynen",   "fr": "pigeon" },
+
+
+{ "en": "ant",      "ko": "개미",     "fi": "muurahainen",   "fr": "fourmi" },
+{ "en": "butterfly",      "ko": "나비",     "fi": "perhonen",   "fr": "papillon" },
+{ "en": "bee",      "ko": "벌",     "fi": "mehiläinen",   "fr": "abeille" },
+
 
 { "en": "horse",      "ko": "말",     "fi": "hevonen",   "fr": "cheval" },
 { "en": "frog",      "ko": "개구리",     "fi": "sammakko",   "fr": "grenouille" },

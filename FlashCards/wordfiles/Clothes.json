@@ -13,7 +13,7 @@
 { "en": "gloves",     "ko": "장갑",         "fi": "gants",   "fr": "käsineet" },
 { "en": "panties",     "ko": "팬티",         "fi": "pikkuhousut, alushousut",   "fr": "culotte" },
 { "en": "necktie",     "ko": "넥타이",         "fi": "kravatti",   "fr": "cravate" },
-{ "en": "ring",         "ko": "반지",       "fi": "sormus",          "fr": "anneau" },
+{ "en": "ring",         "ko": "반지 (half + finger)",       "fi": "sormus",          "fr": "anneau" },
 
 { "en": "to wear",     "ko": "입다",         "fi": "olla yllään",   "fr": "porter" },
 { "en": "cool, stylish, good-looking",         "ko": "멋있다",       "fi": "mahtava",          "fr": "excellent" },
