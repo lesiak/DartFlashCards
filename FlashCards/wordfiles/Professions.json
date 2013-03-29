@@ -17,7 +17,9 @@
 
 { "en": "prosecutor",        "ko": "검사",          "fi": "syyttäjä",    "fr": "procureur" },
 
-{ "en": "god",         "ko": "신",       "fi": "jumala",          "fr": "dieu" },
+{ "en": "waiter",    "ko": "웨이터",    "fi": "tarjoilija" , "fr":"serveur"},
+{ "en": "policeman",    "ko": "경찰관",    "fi": "poliisi" , "fr":"policier, gendarme"},
+
 { "en": "criminal",         "ko": "범인 (violate + people)",       "fi": "rikollinen",          "fr": "criminel" },
 { "en": "crime",         "ko": "범죄 (violate + fault)",       "fi": "rikollisuus, rikos",     "fr": "crime" },
 { "en": "law",         "ko": "법",       "fi": "laki",     "fr": "loi" },

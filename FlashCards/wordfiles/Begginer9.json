@@ -3,14 +3,16 @@
 { "en": "insult",   "ko": "모욕",    "fi": "loukkaus", 	"fr":"insulte"},
 { "en": "to insult",   "ko": "모욕하다",    "fi": "loukata",  "fr":"insulter"},
 
+{ "en": "information",        "ko": "정보",          "fi": "tiedot",    "fr": "information" },
 
 { "en": "intuition",   "ko": "직관",    "fi": "intuitio", 	"fr":"intuition"},
 { "en": "bellwether (leader, trendsetter)",   "ko": "선도자",    "fi": "",   "fr":""},
 
+{ "en": "Buddhism",   "ko": "불교",    "fi": "buddhalaisuus",   "fr":"bouddhisme"},
+
+
 
 { "en": "to run away",   "ko": "도망가다",    "fi": "",   "fr":""},
-{ "en": "to rub",   "ko": "비비다",    "fi": "hieroa",   "fr":"frotter"},
-{ "en": "to mix",   "ko": "비비다",    "fi": "sekoittaa",   "fr":"mélanger"},
 
 
 { "en": "blind date",   "ko": "소개팅",    "fi": "sokkotreffit", 	"fr":""},

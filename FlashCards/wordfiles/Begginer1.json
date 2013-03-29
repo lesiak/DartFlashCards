@@ -4,17 +4,6 @@
 { "en": "machine",        "ko": "기계",    	"fi": "kone",    "fr": "machine" },  
 
 
-{ "en": "home",        "ko": "집",    	"fi": "koti",    "fr": "maison" },
-{ "en": "room",        "ko": "방",    	"fi": "huone",    "fr": "chambre" },
-{ "en": "door",         "ko": "문",         "fi": "ovi",    "fr": "porte" },    
-{ "en": "window",       "ko": "창",         "fi": "ikkuna",    "fr": "fenêtre" },   
-{ "en": "furniture",    "ko": "가구",		"fi": "kalusteet",    "fr": "meubles" },
-{ "en": "refrigerator", "ko": "냉장고",   	"fi": "jääkaappi",    "fr": "réfrigérateur" },
-{ "en": "washing machine", "ko": "세탁기",    "fi": "pesukone",    "fr": "machine à laver" },
-{ "en": "chair", "ko": "의자",    "fi": "tuoli",    "fr": "chaise" },
-{ "en": "bed", "ko": "침대",    "fi": "sänky, vuode",    "fr": "lit" },
-{ "en": "roof", "ko": "지붕",    "fi": "katto",    "fr": "toit" },
-{ "en": "fence", "ko": "울타리",    "fi": "aita",    "fr": "clôture" },
 
 { "en": "fire",         "ko": "불",			"fi": "palo",    "fr": "feu" },
 { "en": "light",        "ko": "빛",        	"fi": "valo",    "fr": "lumière" },

@@ -1,21 +1,4 @@
 [
-{ "en": "soap",        "ko": "비누",          "fi": "saippua",    "fr": "savon" }, 
-{ "en": "shampoo",        "ko": "샴푸",          "fi": "shampoo (fi), hiustenpesuaine",    "fr": "shampoing" },
-{ "en": "toothpaste",        "ko": "치약",          "fi": "hammastahna",    "fr": "dentifrice" },
-{ "en": "toothbrush",        "ko": "칫솔",          "fi": "hammasharja",    "fr": "brosse à dents" },
-{ "en": "mirror",        "ko": "거울",          "fi": "peili",    "fr": "miroir" },
-{ "en": "towel",        "ko": "수건, 타월",          "fi": "pyyhe",    "fr": "serviette" },
-{ "en": "shaving",        "ko": "면도",          "fi": "parranajo",    "fr": "rasage" },
-{ "en": "razor",        "ko": "면도칼",          "fi": "partakone",    "fr": "rasoir" },
-{ "en": "lamp",        "ko": "램프",          "fi": "lamppu",    "fr": "lampe" },
-{ "en": "bath",        "ko": "목욕",          "fi": "kylpy",    "fr": "bain" },
-{ "en": "bathroom",        "ko": "욕실",          "fi": "kylpyhuone",    "fr": "salle de bain" },
-{ "en": "bathe",        "ko": " 목욕시키다",          "fi": "kylpeä",    "fr": "se baigner" },
-{ "en": "pillow",        "ko": " 베개",          "fi": "tyyny",    "fr": "oreiller" },
-
-
-{ "en": "get up, wake up",       "ko": "일어나다",       "fi": "nousta",    "fr": "se lever" },
-{ "en": "to wash",       "ko": "씻다",       "fi": "",    "fr": "" },
 
 
 { "en": "letter",     "ko": "편지",       "fi": "kirje",     "fr": "lettre" },

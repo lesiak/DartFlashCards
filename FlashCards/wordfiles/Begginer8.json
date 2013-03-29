@@ -14,9 +14,6 @@
 
 { "en": "to bite",         "ko": "씹다",       "fi": "purra, haukata",          "fr": "mordre" },
 
-{ "en": "help",         "ko": "도움",       "fi": "apu, ohje",          "fr": "aide, secours" },
-{ "en": "to help",         "ko": "돕다",       "fi": "auttaa",          "fr": "aider" },
-
 { "en": "only",         "ko": "만",       "fi": "vain",          "fr": "seulement" },
 { "en": "other",         "ko": "다른",       "fi": "muu",          "fr": "autre" },
 
@@ -36,20 +33,14 @@
 
 
 { "en": "take",        "ko": "?",          "fi": "ottaa",    "fr": "prendre" },
-{ "en": "percent",        "ko": "퍼센트",          "fi": "prosentti",    "fr": "pour cent" },
+
 { "en": "part",        "ko": "부분",          "fi": "partie",    "fr": "pour cent" },
 { "en": "region",        "ko": "지방",          "fi": "alue",    "fr": "région" },
-
-
-
 
 
 { "en": "to function",       "ko": "?",       "fi": "toimia",    "fr": "marcher, fonctionner" },
 { "en": "to use",       "ko": "사용하다, 쓰다",       "fi": "käyttää",    "fr": "utiliser, se servir de" },
 { "en": "belong",       "ko": "속하다",       "fi": "kuulua",    "fr": "appartenir à, être membre de" },
-{ "en": "get up",       "ko": "일어나다",       "fi": "nousta",    "fr": "se lever" },
-
-
 
 { "en": "situation",       "ko": "?",       "fi": "tilanne",    "fr": "situation" },
 { "en": "knowledge",       "ko": "지식",       "fi": "tieto",    "fr": "connaissance" },
@@ -58,9 +49,9 @@
 { "en": "to end up",       "ko": " ?",       "fi": "joutua",    "fr": "?" },
 
 
-{ "en": "waiter",    "ko": "웨이터",    "fi": "tarjoilija" , "fr":"serveur"},
+
 { "en": "traffic",    "ko": "교통",    "fi": "liikenne" , "fr":"circulation"},
-{ "en": "policeman",    "ko": "경찰관",    "fi": "poliisi" , "fr":"policier, gendarme"},
+
 { "en": "police station",    "ko": "경찰서",    "fi": "poliisiasema" , "fr":"poste de police"},
 { "en": "rubbish",    "ko": "쓰레기",    "fi": "roska" , "fr":"déchets"},
 

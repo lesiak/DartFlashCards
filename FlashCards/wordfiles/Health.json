@@ -1,6 +1,6 @@
 [
 
-
+{ "en": "hospital",        "ko": "병원 (illness + public building)",          "fi": "sairaala",    "fr": "hôpital" },
 { "en": "sick, painful",       "ko": "아프다",         "fi": "sairas",    "fr": " malade" },
 { "en": "healthy",        "ko": "건강하다",          "fi": "terveellinen",    "fr": "en bonne santé" },
 { "en": "doctor",       "ko": "의사",         "fi": "lääkäri, tohtori",    "fr": "médecin, docteur" },
@@ -10,7 +10,9 @@
 { "en": "pain",    "ko": "고통, 아픔",    "fi": "" , "fr":""},
 { "en": "to be injured",    "ko": "다치다",    "fi": "" , "fr":""},
 { "en": "cancer",    "ko": "암",    "fi": "syöpä" , "fr":"cancer"},
-{ "en": "virus",    "ko": "바이러스",    "fi": "virus" , "fr":"virus"}
+{ "en": "virus",    "ko": "바이러스",    "fi": "virus" , "fr":"virus"},
+{ "en": "vitamin",    "ko": "비타민",    "fi": "vitamiini" , "fr":"vitamine"},
+{ "en": "wound",        "ko": "상처",     "fi": "haava",    "fr": "blessure" }
 
 
 

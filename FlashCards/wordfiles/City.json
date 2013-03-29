@@ -5,7 +5,7 @@
 { "en": "castle",     "ko": "성",     "fi": "linna" ,     "fr":"château"},
 { "en": "bridge",     "ko": "다리",      "fi": "silta" ,     "fr":"pont"},
 { "en": "building",        "ko": "건물",          "fi": "rakennus",    "fr": "bâtiment" },
-{ "en": "hospital",        "ko": "병원",          "fi": "sairaala",    "fr": "hôpital" },
+
 { "en": "school",     "ko": "학교",    "fi": "koulu" ,   "fr":"école"},
 { "en": "museum",     "ko": "박물관",   "fi": "museo" ,   "fr":"musée"},
 { "en": "centre",     "ko": "가운데",   "fi": "keskipiste" ,   "fr":"milieu"},
@@ -29,7 +29,7 @@
 { "en": "departmant store",      "ko": "백화점 (hundred + goods + shop)",   "fi": "tavaratalo",     "fr": "grand magasin" },
 
 { "en": "other side",        "ko": "건너편",          "fi": "?",    "fr": "?" },
-{ "en": "wall",         "ko": "담",       "fi": "seinä, muuri",          "fr": "mur" },
+
 { "en": "bench",         "ko": "벤치",       "fi": "penkki",          "fr": "banc" },
 
 
@@ -41,8 +41,8 @@
 { "en": "statue",         "ko": "상",       "fi": "",          "fr": "" },
 { "en": "gallery",         "ko": "화랑",       "fi": "",          "fr": "" },
 { "en": "railway station",         "ko": "철도역",       "fi": "",          "fr": "" },
-{ "en": "intersection",         "ko": "교차점",       "fi": "",          "fr": "" },
-{ "en": "brick",         "ko": "벽돌",       "fi": "tiili",          "fr": "brique" }
+{ "en": "intersection",         "ko": "교차점",       "fi": "",          "fr": "" }
+
 
 
 

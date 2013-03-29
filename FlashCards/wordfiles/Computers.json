@@ -1,0 +1,18 @@
+[
+
+{ "en": "keyboard",        "ko": "키보드",          "fi": "",    "fr": "" },
+{ "en": "notebook",        "ko": "노트북",          "fi": "",    "fr": "" },
+{ "en": "monitor",        "ko": "모니터",          "fi": "",    "fr": "" },
+{ "en": "screen",        "ko": "화면",          "fi": "",    "fr": "" },
+{ "en": "mouse",        "ko": "마우스",          "fi": "",    "fr": "" },
+{ "en": "battery",        "ko": "배터리",          "fi": "akku",    "fr": "pile" },
+
+{ "en": "programmer",       "ko": "프로그래머",      "fi": "ohjelmoija",    "fr": "programmeur" },
+{ "en": "software",         "ko": "소프트웨어",      "fi": "ohjelmisto",    "fr": "logiciel" },
+
+{ "en": "login",    "ko": "로그인",    "fi": "" , "fr":""},
+{ "en": "password",    "ko": "비밀번호",    "fi": "" , "fr":""}
+
+
+
+]

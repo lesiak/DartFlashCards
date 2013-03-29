@@ -18,10 +18,22 @@
 
 { "en": "time (occurence)",       "ko": "번",       "fi": "kerta",    "fr": "fois" },
 
-{ "en": "money",         "ko": "돈",       "fi": "raha",          "fr": "argent" },
-{ "en": "collect",         "ko": "모으다",       "fi": "kerätä",          "fr": "recueillir" },
-{ "en": "save up",         "ko": "모으다",       "fi": "säästää",          "fr": "épargner" },
-{ "en": "a fine, penalty",         "ko": "벌금",       "fi": "sakko",          "fr": "amende" },
+{ "en": "money",         "ko": "돈",                "fi": "raha",          "fr": "argent" },
+{ "en": "collect",         "ko": "모으다",          "fi": "kerätä",          "fr": "recueillir" },
+{ "en": "save up",         "ko": "모으다",          "fi": "säästää",          "fr": "épargner" },
+{ "en": "a fine, penalty",         "ko": "벌금",    "fi": "sakko",          "fr": "amende" },
+{ "en": "debt",             "ko": "빚",              "fi": "velka",          "fr": "dette, créance" },
+{ "en": "cost, expense",    "ko": "비용",            "fi": "kustannus",          "fr": "coût" },
+{ "en": "insurance",        "ko": "보험 (protect + dangerous)",  "fi": "vakuutus",          "fr": "assurance" },
+{ "en": "a guarantee",      "ko": "보장 (protect + block)",      "fi": "takaus",          "fr": "garantie" },
+{ "en": "to guarantee",      "ko": "보장하다",      "fi": "taata",          "fr": "garantir" },
+{ "en": "percent",        "ko": "퍼센트",          "fi": "prosentti",    "fr": "pour cent" },
+{ "en": "salary",        "ko": "급여",      "fi": "palkkaus",    "fr": "salaire" },
+
+{ "en": "complicated",      "ko": "복잡하다 (double + mix)",      "fi": "monimutkainen",          "fr": "compliqué" },
+
+
+{ "en": "ratio, proportion",             "ko": "비율",              "fi": "suhde",          "fr": "rapport, ratio" },
 
 
 { "en": "according to",         "ko": "-에 따라서",       "fi": "mukaan",          "fr": "selon" },
@@ -38,15 +50,12 @@
 { "en": "criticize, reproach",  "ko": "비난하다 (blame + blame)",          "fi": "arvostella",    "fr": "critiquer" },
 { "en": "criticize",            "ko": "비판하다 (blame + judge)",          "fi": "arvostella",    "fr": "critiquer" },
 { "en": "critical",            "ko": "비판적 (blame + judge + of)",          "fi": "kriittinen",    "fr": "critique" },
+
+{ "en": "security",            "ko": "보안 (keep + comfortable)",          "fi": "turvallisuus",    "fr": "sécurité" }
+
   
 
 
-{ "en": "keyboard",        "ko": "키보드",          "fi": "",    "fr": "" },
-{ "en": "notebook",        "ko": "노트북",          "fi": "",    "fr": "" },
-{ "en": "monitor",        "ko": "모니터",          "fi": "",    "fr": "" },
-{ "en": "screen",        "ko": "화면",          "fi": "",    "fr": "" },
-{ "en": "mouse",        "ko": "마우스",          "fi": "",    "fr": "" },
-{ "en": "battery",        "ko": "배터리",          "fi": "akku",    "fr": "pile" }
 
 
 

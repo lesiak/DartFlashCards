@@ -12,9 +12,13 @@
 { "en": "holidays",           "ko": "휴가",           "fi": "vapaapäivät",    "fr": "fêtes" },
 
 
+{ "en": "tired",        "ko": "피곤하다",             "fi": "väsynyt",    "fr": "fatigué" },
+{ "en": "busy",        "ko": "바쁘다",             "fi": "kiireinen, työntäyteinen",    "fr": "occupé" },
+{ "en": "atmosphere",         "ko": "분위기",       "fi": "ilmapiiri, tunnelma",    "fr": "ambiance" },
+{ "en": "quiet",    "ko": "조용하다",    "fi": "hiljainen" , "fr":"calme"},
+{ "en": "late",        "ko": "늦다",             "fi": "myöhässä",    "fr": "tard" },
+{ "en": "traffic",    "ko": "교통",    "fi": "liikenne" , "fr":"circulation"},
 
-{ "en": "programmer",       "ko": "프로그래머",      "fi": "ohjelmoija",    "fr": "programmeur" },
-{ "en": "software",         "ko": "소프트웨어",      "fi": "ohjelmisto",    "fr": "logiciel" },
 { "en": "colleague",        "ko": "동료",             "fi": "kollega, virkaveli, virkatoveri",    "fr": "collègue" },
 { "en": "coworker",        "ko": "회사동료",             "fi": "",    "fr": "" },
 
@@ -29,17 +33,6 @@
 { "en": "Pleased to meet you",        "ko": "만나서 반가워요",             "fi": "Ilo tavata",    "fr": "c'est un plaisir de vous rencontrer, ravi de vous avoir rencontré" },
 { "en": "introduce",    "ko": "소개하다",       "fi": "esitellä",    "fr": "introduire" },
 
-{ "en": "tired",        "ko": "피곤하다",             "fi": "väsynyt",    "fr": "fatigué" },
-{ "en": "busy",        "ko": "바쁘다",             "fi": "kiireinen, työntäyteinen",    "fr": "occupé" },
-
-{ "en": "atmosphere",         "ko": "분위기",       "fi": "ilmapiiri, tunnelma",    "fr": "ambiance" },
-{ "en": "quiet",    "ko": "조용하다",    "fi": "hiljainen" , "fr":"calme"},
-
-{ "en": "late",        "ko": "늦다",             "fi": "myöhässä",    "fr": "tard" },
-{ "en": "traffic",    "ko": "교통",    "fi": "liikenne" , "fr":"circulation"},
-{ "en": "login",    "ko": "로그인",    "fi": "" , "fr":""},
-
-{ "en": "password",    "ko": "비밀번호",    "fi": "" , "fr":""},
 { "en": "part time job",    "ko": "아르바이트",    "fi": "osa-aikaista työtä" , "fr":"emploi à temps partiel"},
 
 ]
