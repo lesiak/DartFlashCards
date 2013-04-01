@@ -14,6 +14,7 @@ class FlashCardsApp {
                      'Begginer4',
                      'Begginer5',
                      'Begginer6',
+                     'Home',
                      'City',
                      'Travel',
                      'Clothes',
@@ -26,7 +27,8 @@ class FlashCardsApp {
                      'Colors'];
   
   List<String> level2Files = ['Work',
-                              'School',                                
+                              'School',
+                              'Computers',
                               'Begginer7',
                               'Begginer8',
                               'Begginer9',
