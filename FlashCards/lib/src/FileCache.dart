@@ -19,14 +19,14 @@ class FileCache {
    // window.requestFileSystemSync(type, size)
     window.storageInfo.requestQuota(Window.PERSISTENT, quota)
       .then((size) => print("Granted quota $size"), onError: (e) => print(e));
-    window.requestFileSystem(Window.PERSISTENT, quota)
+    window.requestFileSystem(quota, persistent: true)
         .then(_requestFileSystemCallback, onError: (e) => _handleError(e.error));
   }
   
   void _requestFileSystemCallback(FileSystem filesystem) {
     _filesystem = filesystem;
     ["en", "ko", "fi", "fr", "enResp", "koResp", "fiResp", "frResp"].forEach((lang) {    
-      _filesystem.root.getDirectory(lang, options: {"create": true}) 
+      _filesystem.root.createDirectory(lang) 
           .then((entry) => _createDirectoryCallback(entry, lang), 
           onError: (e) => _handleError(e.error));
     }); 
@@ -41,19 +41,18 @@ class FileCache {
   }
   
   void saveBlob(String dir, String name, Blob blob, successCallback1(Entry value)) {    
-    dirs[dir].getFile(name, 
-      options: {"create": true})
+    dirs[dir].createFile(name)
       .then((entry) => _writeBlobCallback(entry, blob, successCallback1),
       onError: (e) => _handleError(e.error));
   }
   
   void readBlob(String dir, String name, ReadBlobCallback readBlobCallback) {    
-    dirs[dir].getFile(name, options: {"create": false })
+    dirs[dir].getFile(name)
     .then(readBlobCallback, onError: (e) => _handleError(e.error));
   }
   
   void readBlobIfExists(String dir, String name, ReadBlobCallback readBlobCallback, errorCallback(dynamic error)) {    
-    dirs[dir].getFile(name, options: {"create": false })
+    dirs[dir].getFile(name)
     .then(readBlobCallback, onError: (e) => errorCallback(e.error));
   }
 
