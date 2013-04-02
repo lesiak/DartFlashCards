@@ -51,7 +51,7 @@ class FlashCardsApp {
     query("#poorAnswerButton").onClick.listen((e) => poorAnswer());
     query("#badAnswerButton").onClick.listen((e) => badAnswer());
     
-    query("#clearCache").onClick.listen((e) => window.localStorage.clear());
+  //  query("#clearCache").onClick.listen((e) => window.localStorage.clear());
         
     query("#startButton").onClick.listen((e) {
       ui.showLearningPanel();
