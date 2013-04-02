@@ -45,64 +45,67 @@
   			<li><a href="#">...</a></li>
 		</ul>    	
 		
-		<div id="pageContentDiv">
-		
-			<div id="wordFilesDiv">
-			  
-			  <ul class="nav nav-tabs">
-			    <li class="active">
-            <a id="level1Tab" href="#">Level 1</a>
-          </li>
-          <li>
-            <a id="level2Tab" href="#">Level 2</a>
-          </li>
-				</ul>
-			
-				<table id="questionDecksTable" class="table table-striped table-bordered table-hover">
-            <thead>
-            <tr>
-              <th>Name</th>
-              <!--<th>Name</th>-->
-            </tr>
-            </thead>
-            <tbody>         
-            </tbody>
-          </table>
-				<div id="wordListDiv" hidden>
-					<h3>Summary</h3>
-					
-					<div class="row-fluid">
-  					<div class="span3">
-    					<table class="table table-hover">
-    						<tbody>
-    						<tr><td class="summaryheader">Completed</td><td id="completedWords">0</td></tr>
-    						<tr><td class="summaryheader">Total</td><td id="totalWords">0</td></tr>
-    						<tr><td class="summaryheader">Due</td><td id="dueTodayWords">0</td></tr>
-    						<tr><td class="summaryheader">Progress</td><td id="deckProgress">0</td></tr>
-    						</tbody>
-    					</table>
-  					</div>  					
-					</div>
-					
-					<p>
-					<button id="startButton" class="btn btn-large btn-large btn-info">Start</button>
-					<button id="clearResultsButton" class="btn btn-large btn-large btn-info">Clear results</button>
-					</p>
-					<table id="wordTable" class="table table-striped table-bordered ">
-						<thead>
-						<tr>
-							<th>English</th>
-							<th>Korean</th>
-							<th>Finnish</th>
-							<th>French</th>
-							<th>Due in</th>
-						</tr>
-						</thead>
-						<tbody>
-		 				</tbody>		 				
-					</table>
-				</div> <!-- word list div -->
-			</div> <!-- word Files div -->
+		<div id="pageContentDiv" >
+		  <div id="wordFilesDiv" class="row-fluid">
+  			<div id="wordFilesDivAAA" class="span3">
+  			  
+  			  <ul class="nav nav-tabs">
+  			    <li class="active">
+              <a id="level1Tab" href="#">Level 1</a>
+            </li>
+            <li>
+              <a id="level2Tab" href="#">Level 2</a>
+            </li>
+  				</ul>
+  			
+  				<table id="questionDecksTable" class="table table-striped table-bordered table-hover">
+              <thead>
+              <tr>
+                <th>Name</th>
+                <!--<th>Name</th>-->
+              </tr>
+              </thead>
+              <tbody>         
+              </tbody>
+            </table>
+          </div> <!-- word Files div AAA -->
+    			<div class="span9">
+    				<div id="deckDetailsDiv" hidden>
+      					<h3>Summary</h3>
+      					
+      					<div class="row-fluid">
+        					<div class="span3">
+          					<table class="table table-hover">
+          						<tbody>
+          						<tr><td class="summaryheader">Completed</td><td id="completedWords">0</td></tr>
+          						<tr><td class="summaryheader">Total</td><td id="totalWords">0</td></tr>
+          						<tr><td class="summaryheader">Due</td><td id="dueTodayWords">0</td></tr>
+          						<tr><td class="summaryheader">Progress</td><td id="deckProgress">0</td></tr>
+          						</tbody>
+          					</table>
+        					</div>  					
+      					</div>
+      					
+      					<p>
+      					<button id="startButton" class="btn btn-large btn-large btn-info">Start</button>
+      					<button id="clearResultsButton" class="btn btn-large btn-large btn-info">Clear results</button>
+      					</p>
+      					<table id="wordTable" class="table table-striped table-bordered ">
+      						<thead>
+      						<tr>
+      							<th>English</th>
+      							<th>Korean</th>
+      							<th>Finnish</th>
+      							<th>French</th>
+      							<th>Due in</th>
+      						</tr>
+      						</thead>
+      						<tbody>
+      		 				</tbody>		 				
+      					</table>
+      			</div>
+  				</div> <!-- deckDetailsDiv -->
+  		</div> <!-- span9 -->
 			<div id="learningPanel" hidden>
 				<div class="row-fluid show-grid">
 		        <div id="flashcardQuestion" class="span12">

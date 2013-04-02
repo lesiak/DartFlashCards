@@ -74,7 +74,7 @@ class FlashCardsUI {
   void showHomePanel() {
     query("#wordFilesDiv").hidden=false;
     query("#learningPanel").hidden=true;
-    query("#wordListDiv").hidden=false;
+    query("#deckDetailsDiv").hidden=false;
   }
   
   
