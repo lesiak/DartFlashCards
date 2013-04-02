@@ -17,17 +17,18 @@ class FileCache {
     this._readyCallback = readyCallback;
     int quota = 1024* 1024 * 1024;
    // window.requestFileSystemSync(type, size)
-    window.storageInfo.requestQuota(Window.PERSISTENT, quota, (size) => print("Granted quota $size"), (e) => print(e));
-    window.requestFileSystem(Window.PERSISTENT, quota,
-        _requestFileSystemCallback, _handleError);
+    window.storageInfo.requestQuota(Window.PERSISTENT, quota)
+      .then((size) => print("Granted quota $size"), onError: (e) => print(e));
+    window.requestFileSystem(Window.PERSISTENT, quota)
+        .then(_requestFileSystemCallback, onError: (e) => _handleError(e.error));
   }
   
   void _requestFileSystemCallback(FileSystem filesystem) {
     _filesystem = filesystem;
     ["en", "ko", "fi", "fr", "enResp", "koResp", "fiResp", "frResp"].forEach((lang) {    
-      _filesystem.root.getDirectory(lang, options: {"create": true}, 
-          successCallback: (entry) => _createDirectoryCallback(entry, lang), 
-          errorCallback: _handleError);
+      _filesystem.root.getDirectory(lang, options: {"create": true}) 
+          .then((entry) => _createDirectoryCallback(entry, lang), 
+          onError: (e) => _handleError(e.error));
     }); 
   }
   
@@ -39,29 +40,31 @@ class FileCache {
     }
   }
   
-  void saveBlob(String dir, String name, Blob blob, EntryCallback successCallback1) {    
+  void saveBlob(String dir, String name, Blob blob, successCallback1(Entry value)) {    
     dirs[dir].getFile(name, 
-      options: {"create": true},
-      successCallback: (entry) => _writeBlobCallback(entry, blob, successCallback1),
-      errorCallback: _handleError);
+      options: {"create": true})
+      .then((entry) => _writeBlobCallback(entry, blob, successCallback1),
+      onError: (e) => _handleError(e.error));
   }
   
   void readBlob(String dir, String name, ReadBlobCallback readBlobCallback) {    
-    dirs[dir].getFile(name, options: {"create": false },successCallback: readBlobCallback, errorCallback: _handleError);
+    dirs[dir].getFile(name, options: {"create": false })
+    .then(readBlobCallback, onError: (e) => _handleError(e.error));
   }
   
-  void readBlobIfExists(String dir, String name, ReadBlobCallback readBlobCallback, ErrorCallback errorCallback) {    
-    dirs[dir].getFile(name, options: {"create": false },successCallback: readBlobCallback, errorCallback: errorCallback);
+  void readBlobIfExists(String dir, String name, ReadBlobCallback readBlobCallback, errorCallback(dynamic error)) {    
+    dirs[dir].getFile(name, options: {"create": false })
+    .then(readBlobCallback, onError: (e) => errorCallback(e.error));
   }
 
   
-  void _writeBlobCallback(FileEntry e, Blob b, EntryCallback successCallback) {
+  void _writeBlobCallback(FileEntry e, Blob b, successCallback(FileEntry entry)) {
     print("Writing blob ${e.fullPath}");
-    e.createWriter((writer) {
+    e.createWriter().then((writer) {
       writer.write(b);
       print("blob written");
       successCallback(e);
-    }, _handleError);
+    }, onError: (e) => _handleError(e));
   }  
   
   void _handleError(FileError e) {
