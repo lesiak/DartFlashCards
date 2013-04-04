@@ -2,7 +2,7 @@ part of dbcache_api;
 
 
 typedef void FileCacheReadyCallback(FileCache cache);
-typedef void ReadBlobCallback(FileEntry e);
+//typedef void ReadBlobCallback(FileEntry e);
 typedef void ReadBlobErrorCallback();
 
 class FileCache {
@@ -43,17 +43,11 @@ class FileCache {
   void saveBlob(String dir, String name, Blob blob, successCallback1(Entry value)) {    
     dirs[dir].createFile(name)
       .then((entry) => _writeBlobCallback(entry, blob, successCallback1),
-      onError: (e) => _handleError(e.error));
+      onError: (e) => _handleError(e.error));      
   }
-  
-  void readBlob(String dir, String name, ReadBlobCallback readBlobCallback) {    
-    dirs[dir].getFile(name)
-    .then(readBlobCallback, onError: (e) => _handleError(e.error));
-  }
-  
-  void readBlobIfExists(String dir, String name, ReadBlobCallback readBlobCallback, errorCallback(dynamic error)) {    
-    dirs[dir].getFile(name)
-    .then(readBlobCallback, onError: (e) => errorCallback(e.error));
+    
+  Future<Entry> readBlobIfExists(String dir, String name) {    
+    return dirs[dir].getFile(name);  
   }
 
   

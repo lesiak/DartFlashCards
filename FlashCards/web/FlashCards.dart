@@ -1,7 +1,8 @@
 import 'dart:html';
 import '../lib/flashcards_core.dart';
 import '../lib/filecache_api.dart';
-//TODO: remove forvo_api to test whrn pub works
+//TODO: remove async and forvo_api to test whrn pub works
+import 'dart:async';
 import '../lib/forvo_api.dart';
 import 'FlashCardsUI.dart';
 
@@ -322,9 +323,27 @@ void test1() {
   ForvoResponse r1 = new ForvoResponse.fromJsonString("aa", "bb", r.toJsonString());
 }
 
+void test2() {
+  String lang = "en";
+  String word = "run";
+    String forvoKey="ca19d7cd6c0d10ed257b2d23960933ee";
+    
+    var url = "http://apifree.forvo.com/action/word-pronunciations/format/json/word/$word/language/$lang/key/$forvoKey/";
+    print(url);
+    // call the web server asynchronously
+    Future<int> intFut = HttpRequest.request(url).then((xhr) { return 42; }, onError: (asyncError) { 
+      print(asyncError);
+      throw asyncError;  
+    });
+    intFut.then((intVal) { print('aaa $intVal'); }, onError: (asyncError) => print("error2 ${asyncError}"));
+}
+
+
+
 
 void main() {
-  test1();
+//  test1();
+  //test2();
  // List l1 = ['1','2','3','77'];
  // List l2 = ['3','4','5'];
  // print(FlashCardsApp.zip(l1,l2));

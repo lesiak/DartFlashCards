@@ -103,9 +103,9 @@ class FlashCardsUI {
     } 
     else {
       // call the web server asynchronously
-      pronounciationManager.getPronunciations(lang, 
-          word, 
-          (req) => onForvoSuccess(req, lang, word, container, play));
+      pronounciationManager.getForvoPronunciations(lang, word)
+      .then((req) => onForvoSuccess(req, lang, word, container, play), 
+        onError: (asyncError) => print(asyncError));          
     }
   }
 

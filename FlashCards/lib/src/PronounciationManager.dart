@@ -14,83 +14,79 @@ class PronounciationManager {
   
   FileCache fileCache;
   
-  PlayMp3Method playMp3FromUrl;
+  Mp3Player mp3Player;
   
-  PronounciationManager(this.fileCache, this.playMp3FromUrl);
+  PronounciationManager(this.fileCache, PlayMp3Method playMp3FromUrl) {
+    this.mp3Player = new Mp3Player(playMp3FromUrl);
+  }
   
   
   
   void playPronounciation(String lang, String word, ForvoItem item) {
     var filename = '${word}_${item.username}.ogg';
     //print(filename);
-    fileCache.readBlobIfExists(lang, filename, playMp3FromDisk, (e) => playMp3FromDiskErrorCallback(lang, word, item, e));
-   // String url= item.pathogg;)(
-    //var html='<audio autoplay="true"><source src="$url"></audio>';
-    //query("#audioContainer").innerHtml = html;
+    fileCache.readBlobIfExists(lang, filename).then(mp3Player.playMp3FromDisk, 
+        onError: (e) => fetchMp3AndPlay(lang, word, item));
   }
+  /*
+  Future<HttpRequest> fetchMp3Future(String word, ForvoItem item) {
+    var filename = '${word}_${item.username}.ogg';
+    print("not found in cache $filename");
+    Future<HttpRequest> mp3req = HttpRequest.request(item.pathogg, 
+        responseType: 'blob');
+    return mp3req;
+  } */
   
-  void playMp3FromDisk(FileEntry e) {    
-    String url= e.toUrl();
-    print('playing from disk ${url}');
-    playMp3FromUrl(url);
-  }
   
-  void playBlob(Blob b) {    
-    String url=  Url.createObjectUrl(b);
-    print('playing from blob ${url}');
-    playMp3FromUrl(url);
-  }
   
-  void playMp3FromDiskErrorCallback(String lang, String word, ForvoItem item, FileError e) {
+  void fetchMp3AndPlay(String lang, String word, ForvoItem item) {
     var filename = '${word}_${item.username}.ogg';
     print("not found in cache $filename");
     Future<HttpRequest> mp3req = HttpRequest.request(item.pathogg, 
         responseType: 'blob');
     
+    //Stream<HttpRequest> mp3reqStream =  new Stream.fromFuture(mp3req);
+    //mp3reqStream.transform(new StreamTransformer(handleData, handleError, handleDone))
+
     mp3req.then((xhr) => onMp3RequentFinishedSaveAndPlay(lang, filename, xhr));    
   }
   
-  /*
-  void fetchMp3ErrorCallback(String lang, String word, ForvoItem item, FileError e) {
+  
+    
+  
+  void fetchMp3(String lang, String word, ForvoItem item) {
     var filename = '${word}_${item.username}.ogg';
     print("not found in cache $filename");
     Future<HttpRequest> mp3req = HttpRequest.request(item.pathogg, 
         responseType: 'blob');
     
-    mp3req.then((xhr) => onMp3RequentFinishedSave(lang, filename, xhr));    
-  }
-  */
-  void fetchMp3(String lang, String word, ForvoItem item, FileError e) {
-    var filename = '${word}_${item.username}.ogg';
-    print("not found in cache $filename");
-    Future<HttpRequest> mp3req = HttpRequest.request(item.pathogg, 
-        responseType: 'blob');
-    
-    mp3req.then((xhr) => onMp3RequentFinishedSave(lang, filename, xhr));    
+    Future a= mp3req.then((xhr) => onMp3RequentFinishedSave(lang, filename, xhr));    
   }
   
-  void onMp3RequentFinishedSave(String lang, String filename, HttpRequest xhr) {
+  void onMp3RequentFinishedSaveAndPlay(String lang, String filename, HttpRequest xhr) {
+    if (xhr.status == 200) {        
+      var blob = xhr.response;
+      fileCache.saveBlob(lang, filename, blob, (e) => mp3Player.playBlob(blob));                        
+    }
+  }
+  
+  String onMp3RequentFinishedSave(String lang, String filename, HttpRequest xhr) {
     if (xhr.status == 200) {        
       var blob = xhr.response;
       fileCache.saveBlob(lang, filename, blob, (entry) {
         print("entry saved" + lang + " " + filename);
       });                        
     }
+    return "1";
   }
   
-  void onMp3RequentFinishedSaveAndPlay(String lang, String filename, HttpRequest xhr) {
-    if (xhr.status == 200) {        
-      var blob = xhr.response;
-      fileCache.saveBlob(lang, filename, blob, (e) => playBlob(blob));                        
-    }
-  }
-  
-  
-  
+
   
   void fetchPronunciations(String lang, String word) {
     print("fetching prono " + lang + " " + word);
-    getPronunciations(lang, word, (req) => fetchPronunciationsSuccessCallback(req, lang, word));
+    getForvoPronunciations(lang, word)
+    .then((req) => fetchPronunciationsSuccessCallback(req, lang, word),
+      onError: (asyncError) =>print(asyncError) );
   }
   
   void fetchPronunciationsSuccessCallback(HttpRequest req, String lang, String word) {
@@ -101,12 +97,12 @@ class PronounciationManager {
         print('single prono $word');
         ForvoItem item = r.items[0];
         var filename = '${word}_${item.username}.ogg';
-        fileCache.readBlobIfExists(lang, filename, (entry) {
+        fileCache.readBlobIfExists(lang, filename).then((entry) {
           print('already exists ${filename}');
           item.pathogg = filename;
           window.localStorage[lang+"/"+word] = r.toJsonString();
           print('saved '+lang+"/"+word + "in localstorage");
-        }, (error) => fetchMp3(lang, word, item, error));
+        }, onError: (error) => fetchMp3(lang, word, item));
       }
       else {
         print('longer than 1');
@@ -114,11 +110,11 @@ class PronounciationManager {
     }
   }
   
-  void getPronunciations(String lang, String word, ForvoResonseCallback onSuccessfullyParsedResponse) {
+  Future<HttpRequest> getForvoPronunciations(String lang, String word) {
     var url = "http://apifree.forvo.com/action/word-pronunciations/format/json/word/$word/language/$lang/key/$forvoKey/";
     print(url);
     // call the web server asynchronously
-    HttpRequest.request(url).then(onSuccessfullyParsedResponse, onError: (asyncError) => print(asyncError));
+    return HttpRequest.request(url);
   }
   
   
@@ -135,5 +131,23 @@ class PronounciationManager {
       }
     }
     
+  }
+}
+
+class Mp3Player {
+  PlayMp3Method playMp3FromUrl;
+  
+  Mp3Player(this.playMp3FromUrl) {}
+  
+  void playMp3FromDisk(FileEntry e) {    
+    String url= e.toUrl();
+    print('playing from disk ${url}');
+    playMp3FromUrl(url);
+  }
+  
+  void playBlob(Blob b) {    
+    String url=  Url.createObjectUrl(b);
+    print('playing from blob ${url}');
+    playMp3FromUrl(url);
   }
 }
