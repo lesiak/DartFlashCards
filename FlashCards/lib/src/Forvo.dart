@@ -22,6 +22,15 @@ class ForvoResponse {
     items = itemObjects.map((o) => ForvoItem.fromMap(o)).toList();    
   }
   
+  String toJsonString() {
+    Map resultMap = {"lang" : lang,
+                     "word" : word,
+                     "attributes" : attributes,
+                     "items" : items};
+    
+    return JSON.stringify(resultMap);
+  }
+  
 }
 
 class ForvoItem {
@@ -53,6 +62,21 @@ class ForvoItem {
     pathmp3 = jsonMap["pathmp3"];
     pathogg = jsonMap["pathogg"];
       
+  }
+  
+  Map toJson() {
+    Map resultMap = {"id" : id,
+                     "addtime" : addtime,
+                     "hits" : hits,
+                     "username" : username,
+                     "sex" : sex,
+                     "country" : country,
+                     "code" : code,
+                     "langname" : langname,
+                     "pathmp3" : pathmp3,
+                     "pathogg" : pathogg};
+    
+    return resultMap;
   }
   
 }

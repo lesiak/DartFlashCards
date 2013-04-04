@@ -1,6 +1,8 @@
 import 'dart:html';
 import '../lib/flashcards_core.dart';
 import '../lib/filecache_api.dart';
+//TODO: remove forvo_api to test whrn pub works
+import '../lib/forvo_api.dart';
 import 'FlashCardsUI.dart';
 
 class FlashCardsApp {
@@ -37,9 +39,7 @@ class FlashCardsApp {
                               'Military',
                               'Countries',
                               'Sentences1',
-                              'TopikInter1'];
-  
-  
+                              'TopikInter1'];  
   
   FlashCardsApp(FileCache fileCache) {
         
@@ -57,7 +57,11 @@ class FlashCardsApp {
       ui.showLearningPanel();
       showQuestion(); 
     });
+    
     query("#clearResultsButton").onClick.listen((e) => clearDeckResults());
+    
+    query("#fetchPronoButton").onClick.listen((e) => fetchPronunciations());
+        
     query("#homePill").onClick.listen((e) {
       engine.initLearningList();
       ui.showHomePanel();
@@ -66,6 +70,7 @@ class FlashCardsApp {
     
     Element level1Tab = query("#level1Tab");
     Element level2Tab = query("#level2Tab");
+    
     level1Tab.onClick.listen((e) {
       level2Tab.parent.classes.remove('active');
       level1Tab.parent.classes.add('active');
@@ -175,6 +180,18 @@ class FlashCardsApp {
   void clearDeckResults() {
     engine.clearDeckResults();
     fillDeckData();
+  }
+  
+  void fetchPronunciations() {
+    
+    
+    
+    for (Card card in engine.allCardsInDeck) {
+      ui.pronounciationManager.fetchPronunciations("en", ui.sanitizeWord(card.en));
+      ui.pronounciationManager.fetchPronunciations("ko", ui.sanitizeWord(card.ko));  
+      ui.pronounciationManager.fetchPronunciations("fi", ui.sanitizeWord(card.fi));
+      ui.pronounciationManager.fetchPronunciations("fr", ui.sanitizeWord(card.fr));
+    }
   }
   
   void fillSummary() {
@@ -298,8 +315,16 @@ class FlashCardsApp {
 
 }
 
+void test1() {
+  String resp1 = '{"attributes":{"total":1},"items":[{"id":260301,"addtime":"2009-07-28 03:49:23","hits":96,"username":"fairybel","sex":"f","country":"Korea, Republic of","code":"ko","langname":"Korean","pathmp3":"http:\/\/apifree.forvo.com\/audio\/2d1i1p242h28393o1g1b2j2c1p3l342o2q1l3b2i1b2l1f253m343m2b2e3834342d3m38351l3m2f1l341f1n1j2n3p2q2q1m3o1o3g281n38231n2e212j2c3i352d312n3p1f3d352n2p2j222i3l3i292i3b3639282g393n1t1t_3f2g1k333n1m3i2o2n2k23223l3f323b3c381j233b3n1t1t","pathogg":"http:\/\/apifree.forvo.com\/audio\/2f1f2i312a3d2l2a2b1m1f2n3n1o3i2837231h2f3l3m3k2b2b331l2n363h2e2o2k3f2g1m1n1h2l2m2c1n1i2h343g3h3q3m1n1m2a3f2d2p273c22213o233q381g3h2g3h3e251l1o1b2g3e3e371o3m323j3q2h2i1j253n1t1t_2d361j2i3e33351g3l342k243m2k2f1m2a382a3i1g371t1t","rate":1,"num_votes":1,"num_positive_votes":1}]}';
+  ForvoResponse r = new ForvoResponse.fromJsonString("aa", "bb", resp1);
+  print(r.toJsonString());
+  ForvoResponse r1 = new ForvoResponse.fromJsonString("aa", "bb", r.toJsonString());
+}
+
 
 void main() {
+  test1();
  // List l1 = ['1','2','3','77'];
  // List l2 = ['3','4','5'];
  // print(FlashCardsApp.zip(l1,l2));

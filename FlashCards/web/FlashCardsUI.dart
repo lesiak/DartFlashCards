@@ -77,8 +77,7 @@ class FlashCardsUI {
     query("#deckDetailsDiv").hidden=false;
   }
   
-  
-  void getPronunciations(String lang, String word, String containerId, bool play) {    
+  String sanitizeWord(String word) {
     if (word.contains(',')) {
       word = word.split(',')[0];
     }
@@ -88,13 +87,26 @@ class FlashCardsUI {
     if (word.contains(IN_PARENTHESES)) {
       word = word.replaceAll(IN_PARENTHESES, "");
     }
-    
-    // call the web server asynchronously
+    return word;
+  }
+  
+  
+  void getPronunciations(String lang, String word, String containerId, bool play) {    
+    word = sanitizeWord(word);
+
     Element container = query(containerId);
-    pronounciationManager.getPronunciations(lang, 
-        word, 
-        (req) => onForvoSuccess(req, lang, word, container, play));
- 
+    String cachedForvoResponse = window.localStorage[lang+"/"+word];
+    if (cachedForvoResponse != null) {
+      print('found $word pronounciation list in localstorage');
+      ForvoResponse r = new ForvoResponse.fromJsonString(lang, word, cachedForvoResponse);      
+      displayPronounciations(r, container, play);
+    } 
+    else {
+      // call the web server asynchronously
+      pronounciationManager.getPronunciations(lang, 
+          word, 
+          (req) => onForvoSuccess(req, lang, word, container, play));
+    }
   }
 
 
