@@ -183,10 +183,7 @@ class FlashCardsApp {
     fillDeckData();
   }
   
-  void fetchPronunciations() {
-    
-    
-    
+  void fetchPronunciations() {            
     for (Card card in engine.allCardsInDeck) {
       ui.pronounciationManager.fetchPronunciations("en", ui.sanitizeWord(card.en));
       ui.pronounciationManager.fetchPronunciations("ko", ui.sanitizeWord(card.ko));  
@@ -338,12 +335,52 @@ void test2() {
     intFut.then((intVal) { print('aaa $intVal'); }, onError: (asyncError) => print("error2 ${asyncError}"));
 }
 
+void test3() {
+  String lang = "en";
+  String word = "run";
+    String forvoKey="ca19d7cd6c0d10ed257b2d23960933ee";    
+    var url = "http://apifree.forvo.com/action/word-pronunciations/format/json/word/$word/language/$lang/key/$forvoKey/";
+    
+    Future<String> f1 = new Future.immediate("1");
+    
+    var aaa = [0, 1, 2];
+    Future f = Future.forEach(aaa, (intval) {
+      if (intval == 0) {
+        return new Future.of(() {
+          print('intval $intval' );
+          aaa[intval] = intval +1;
+        });
+      }
+      else if (intval == 1){
+        aaa[intval] = intval +3;
+      }
+      else {
+        throw new Exception('dupa');
+      }
+    });
+    f.then((v) {
+      print('all ok');
+      print(aaa);
+      print('v = $v');
+    }, onError: (e) {
+      print('got error $e');
+      
+    });
+   
+   /* Future<int> intFut = HttpRequest.request(url).then((xhr) { return 42; }, onError: (asyncError) { 
+      print(asyncError);
+      throw asyncError;  
+    });
+    intFut.then((intVal) { print('aaa $intVal'); }, onError: (asyncError) => print("error2 ${asyncError}"));
+    */
+}
 
 
 
 void main() {
 //  test1();
   //test2();
+  //test3();
  // List l1 = ['1','2','3','77'];
  // List l2 = ['3','4','5'];
  // print(FlashCardsApp.zip(l1,l2));

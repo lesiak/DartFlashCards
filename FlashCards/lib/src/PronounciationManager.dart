@@ -20,76 +20,14 @@ class PronounciationManager {
     this.mp3Player = new Mp3Player(playMp3FromUrl);
   }
   
-  
-  
-  void playPronounciation(String lang, String word, ForvoItem item) {
-    var filename = '${word}_${item.username}.ogg';
-    //print(filename);
-    fileCache.readBlobIfExists(lang, filename).then(mp3Player.playMp3FromDisk, 
-        onError: (e) => fetchMp3AndPlay(lang, word, item));
-  }
-  /*
-  Future<HttpRequest> fetchMp3Future(String word, ForvoItem item) {
-    var filename = '${word}_${item.username}.ogg';
-    print("not found in cache $filename");
-    Future<HttpRequest> mp3req = HttpRequest.request(item.pathogg, 
-        responseType: 'blob');
-    return mp3req;
-  } */
-  
-  
-  
-  void fetchMp3AndPlay(String lang, String word, ForvoItem item) {
-    var filename = '${word}_${item.username}.ogg';
-    print("not found in cache $filename");
-    Future<HttpRequest> mp3req = HttpRequest.request(item.pathogg, 
-        responseType: 'blob');
-    
-    //Stream<HttpRequest> mp3reqStream =  new Stream.fromFuture(mp3req);
-    //mp3reqStream.transform(new StreamTransformer(handleData, handleError, handleDone))
-
-    mp3req.then((xhr) => onMp3RequentFinishedSaveAndPlay(lang, filename, xhr));    
-  }
-  
-  
-    
-  
-  void fetchMp3(String lang, String word, ForvoItem item) {
-    var filename = '${word}_${item.username}.ogg';
-    print("not found in cache $filename");
-    Future<HttpRequest> mp3req = HttpRequest.request(item.pathogg, 
-        responseType: 'blob');
-    
-    Future a= mp3req.then((xhr) => onMp3RequentFinishedSave(lang, filename, xhr));    
-  }
-  
-  void onMp3RequentFinishedSaveAndPlay(String lang, String filename, HttpRequest xhr) {
-    if (xhr.status == 200) {        
-      var blob = xhr.response;
-      fileCache.saveBlob(lang, filename, blob, (e) => mp3Player.playBlob(blob));                        
-    }
-  }
-  
-  String onMp3RequentFinishedSave(String lang, String filename, HttpRequest xhr) {
-    if (xhr.status == 200) {        
-      var blob = xhr.response;
-      fileCache.saveBlob(lang, filename, blob, (entry) {
-        print("entry saved" + lang + " " + filename);
-      });                        
-    }
-    return "1";
-  }
-  
-
-  
   void fetchPronunciations(String lang, String word) {
     print("fetching prono " + lang + " " + word);
     getForvoPronunciations(lang, word)
-    .then((req) => fetchPronunciationsSuccessCallback(req, lang, word),
-      onError: (asyncError) =>print(asyncError) );
+      .then((req) => _fetchPronunciationsSuccessCallback(req, lang, word),
+        onError: (asyncError) =>print(asyncError) );
   }
   
-  void fetchPronunciationsSuccessCallback(HttpRequest req, String lang, String word) {
+  void _fetchPronunciationsSuccessCallback(HttpRequest req, String lang, String word) {
     String responseText = req.responseText;
     if (!responseText.isEmpty) {
       ForvoResponse r = new ForvoResponse.fromJsonString(lang, word, responseText);
@@ -97,17 +35,30 @@ class PronounciationManager {
         print('single prono $word');
         ForvoItem item = r.items[0];
         var filename = '${word}_${item.username}.ogg';
-        fileCache.readBlobIfExists(lang, filename).then((entry) {
-          print('already exists ${filename}');
-          item.pathogg = filename;
-          window.localStorage[lang+"/"+word] = r.toJsonString();
-          print('saved '+lang+"/"+word + "in localstorage");
-        }, onError: (error) => fetchMp3(lang, word, item));
+        fileCache.readEntry(lang, filename)
+          .then( (entry) {
+            print('already exists ${filename}, at url: ${item.pathogg}');
+            return entry;
+          })
+          .catchError((error) => _fetchMp3(lang, word, item))
+          .then((entry) { 
+            print('AAAAAAAA $entry');
+            item.pathogg = entry.toUrl();
+            
+            window.localStorage[lang+"/"+word] = r.toJsonString();
+            print('saved ${lang}/${word} in localstorage');
+          })
+          .catchError((error) => print(error));
       }
       else {
         print('longer than 1');
+       // Future.forEach(r.items, f);
       }
     }
+  }
+  
+  void updateItem(ForvoItem item, Entry pathOgg) {
+    
   }
   
   Future<HttpRequest> getForvoPronunciations(String lang, String word) {
@@ -116,6 +67,66 @@ class PronounciationManager {
     // call the web server asynchronously
     return HttpRequest.request(url);
   }
+  
+  
+  void playPronounciation(String lang, String word, ForvoItem item) {
+    var filename = '${word}_${item.username}.ogg';
+    //print(filename);
+    fileCache.readEntry(lang, filename).then(mp3Player.playMp3FromDisk, 
+        onError: (e) => _fetchMp3AndPlay(lang, word, item));
+  }
+  
+  void _fetchMp3AndPlay(String lang, String word, ForvoItem item) {
+    var filename = '${word}_${item.username}.ogg';
+    print("not found in cache $filename");
+    Future<HttpRequest> mp3req = HttpRequest.request(item.pathogg, 
+        responseType: 'blob');
+    
+    //Stream<HttpRequest> mp3reqStream =  new Stream.fromFuture(mp3req);
+    //mp3reqStream.transform(new StreamTransformer(handleData, handleError, handleDone))
+
+    mp3req.then((xhr) => _onMp3RequentFinishedSaveAndPlay(lang, filename, xhr));    
+  }
+  
+  
+    
+  
+  Future<FileEntry> _fetchMp3(String lang, String word, ForvoItem item) {
+    var filename = '${word}_${item.username}.ogg';
+    print("not found in cache $filename");
+    Future<HttpRequest> mp3req = HttpRequest.request(item.pathogg, 
+        responseType: 'blob');
+    
+    Future<FileEntry> writtenFileFuture = mp3req
+        .then((xhr) => _onMp3RequentFinishedSave(lang, filename, xhr));
+    
+    return writtenFileFuture; 
+  }
+  
+  void _onMp3RequentFinishedSaveAndPlay(String lang, String filename, HttpRequest xhr) {
+    if (xhr.status == 200) {        
+      var blob = xhr.response;
+      fileCache.saveBlob(lang, filename, blob)
+        .then((entry) => mp3Player.playBlob(blob))
+        .catchError((e) => print (e));                        
+    }
+  }
+  
+  Future<FileEntry> _onMp3RequentFinishedSave(String lang, String filename, HttpRequest xhr) {
+    if (xhr.status == 200) {        
+      var blob = xhr.response;
+      return fileCache.saveBlob(lang, filename, blob)
+        .then((entry) {
+          print("_onMp3RequentFinishedSave entry saved " + lang + " " + filename + " " + entry.toString());
+          return entry;
+        });
+    }
+    throw new Exception('Did not receive audio file, xhr status: ${xhr.status}');
+  }
+  
+
+  
+  
   
   
   static ForvoItem getPreferredPronunciation(ForvoResponse r) {

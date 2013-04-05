@@ -16,11 +16,11 @@ class FileCache {
   FileCache(FileCacheReadyCallback readyCallback) {
     this._readyCallback = readyCallback;
     int quota = 1024* 1024 * 1024;
-   // window.requestFileSystemSync(type, size)
+   // window.requestFileSystemSync(type, size)    
     window.storageInfo.requestQuota(Window.PERSISTENT, quota)
       .then((size) => print("Granted quota $size"), onError: (e) => print(e));
     window.requestFileSystem(quota, persistent: true)
-        .then(_requestFileSystemCallback, onError: (e) => _handleError(e.error));
+        .then(_requestFileSystemCallback, onError: (e) => _logFileError(e.error));
   }
   
   void _requestFileSystemCallback(FileSystem filesystem) {
@@ -28,7 +28,7 @@ class FileCache {
     ["en", "ko", "fi", "fr", "enResp", "koResp", "fiResp", "frResp"].forEach((lang) {    
       _filesystem.root.createDirectory(lang) 
           .then((entry) => _createDirectoryCallback(entry, lang), 
-          onError: (e) => _handleError(e.error));
+          onError: (e) => _logFileError(e.error));
     }); 
   }
   
@@ -40,27 +40,32 @@ class FileCache {
     }
   }
   
-  void saveBlob(String dir, String name, Blob blob, successCallback1(Entry value)) {    
-    dirs[dir].createFile(name)
-      .then((entry) => _writeBlobCallback(entry, blob, successCallback1),
-      onError: (e) => _handleError(e.error));      
+  Future<FileEntry> saveBlob(String dir, String name, Blob blob) {    
+    Future<FileEntry> ret = dirs[dir].createFile(name)
+      .then((entry) => _writeBlob(entry, blob), 
+        onError: (e)  {
+          _logFileError(e.error);
+          throw e;
+      });
+      return ret;
   }
     
-  Future<Entry> readBlobIfExists(String dir, String name) {    
+  Future<Entry> readEntry(String dir, String name) {    
     return dirs[dir].getFile(name);  
   }
 
   
-  void _writeBlobCallback(FileEntry e, Blob b, successCallback(FileEntry entry)) {
-    print("Writing blob ${e.fullPath}");
-    e.createWriter().then((writer) {
+  Future<FileEntry> _writeBlob(FileEntry entry, Blob b) {
+    print("Writing blob ${entry.fullPath}");
+    Future<FileEntry> writtenFut = entry.createWriter().then((writer) {
       writer.write(b);
       print("blob written");
-      successCallback(e);
-    }, onError: (e) => _handleError(e));
+      return entry;
+    });
+    return writtenFut;
   }  
   
-  void _handleError(FileError e) {
+  void _logFileError(FileError e) {
     var msg = '';
     switch (e.code) {
       case FileError.QUOTA_EXCEEDED_ERR:
