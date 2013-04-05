@@ -20,6 +20,14 @@ class PronounciationManager {
     this.mp3Player = new Mp3Player(playMp3FromUrl);
   }
   
+  void fetchMissingPronunciations(String lang, String word) {
+    if (hasForvoResponseInLocalStorage(lang, word)) {
+      print ('found pronounciation list for ${lang}/${word} in localStorage');
+    } else {
+      fetchPronunciations(lang, word);
+    }    
+  }
+  
   void fetchPronunciations(String lang, String word) {
     print("fetching prono " + lang + " " + word);
     getForvoPronunciations(lang, word)
@@ -31,35 +39,36 @@ class PronounciationManager {
     String responseText = req.responseText;
     if (!responseText.isEmpty) {
       ForvoResponse r = new ForvoResponse.fromJsonString(lang, word, responseText);
-      if (r.items.length == 1) {
-        print('single prono $word');
-        ForvoItem item = r.items[0];
-        var filename = '${word}_${item.username}.ogg';
-        fileCache.readEntry(lang, filename)
+      if (r.items.length > 0) {        
+        Future.forEach(r.items, (item) {
+          var filename = '${word}_${item.username}.ogg';
+          Future ret = fileCache.readEntry(lang, filename)
           .then( (entry) {
             print('already exists ${filename}, at url: ${item.pathogg}');
             return entry;
           })
           .catchError((error) => _fetchMp3(lang, word, item))
-          .then((entry) { 
-            print('AAAAAAAA $entry');
-            item.pathogg = entry.toUrl();
-            
-            window.localStorage[lang+"/"+word] = r.toJsonString();
-            print('saved ${lang}/${word} in localstorage');
-          })
+          .then((entry) {             
+            item.pathogg = entry.toUrl();                                    
+          });
+          return ret;
+        }).then((val) => saveForvoResponseToLocalStorage(lang, word, r))
           .catchError((error) => print(error));
-      }
-      else {
-        print('longer than 1');
-       // Future.forEach(r.items, f);
       }
     }
   }
   
-  void updateItem(ForvoItem item, Entry pathOgg) {
-    
+  void saveForvoResponseToLocalStorage(String lang, String word, ForvoResponse r) {    
+    var key = '${lang}/${word}';
+    window.localStorage[key] = r.toJsonString();
+    print('saved ${key} in localstorage');
   }
+  
+  bool hasForvoResponseInLocalStorage(String lang, String word) {    
+    var key = '${lang}/${word}';
+    return window.localStorage[key] != null;    
+  }
+  
   
   Future<HttpRequest> getForvoPronunciations(String lang, String word) {
     var url = "http://apifree.forvo.com/action/word-pronunciations/format/json/word/$word/language/$lang/key/$forvoKey/";

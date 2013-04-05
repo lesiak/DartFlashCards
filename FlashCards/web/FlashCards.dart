@@ -185,10 +185,10 @@ class FlashCardsApp {
   
   void fetchPronunciations() {            
     for (Card card in engine.allCardsInDeck) {
-      ui.pronounciationManager.fetchPronunciations("en", ui.sanitizeWord(card.en));
-      ui.pronounciationManager.fetchPronunciations("ko", ui.sanitizeWord(card.ko));  
-      ui.pronounciationManager.fetchPronunciations("fi", ui.sanitizeWord(card.fi));
-      ui.pronounciationManager.fetchPronunciations("fr", ui.sanitizeWord(card.fr));
+      ui.pronounciationManager.fetchMissingPronunciations("en", ui.sanitizeWord(card.en));
+      ui.pronounciationManager.fetchMissingPronunciations("ko", ui.sanitizeWord(card.ko));  
+      ui.pronounciationManager.fetchMissingPronunciations("fi", ui.sanitizeWord(card.fi));
+      ui.pronounciationManager.fetchMissingPronunciations("fr", ui.sanitizeWord(card.fr));
     }
   }
   
@@ -377,7 +377,7 @@ void test3() {
 
 
 
-void main() {
+void main() {  
 //  test1();
   //test2();
   //test3();
