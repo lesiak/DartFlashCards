@@ -16,6 +16,8 @@
 { "en": "biology",       "ko": "생물학",       "fi": "biologia",    "fr": "biologie" },
 { "en": "psychology",       "ko": "심리학",       "fi": "psykologia",    "fr": "psychologie" },
 
+{ "en": "elementary school",       "ko": "초등학교 (early + class + study + school)",       "fi": "alkeiskoulu",    "fr": "école primaire" },
+
 
 { "en": "graduation",       "ko": "졸업",       "fi": "",    "fr": "" },
 { "en": "graduate",       "ko": "졸업하다",       "fi": "valmistua, suorittaa tutkinto, saada oppiarvo",    "fr": "obtenir sa licence, son diplôme" },

@@ -54,10 +54,11 @@
 { "en": "habit",         "ko": "버릇",       "fi": "tapa",          "fr": "habitude" },
 { "en": "manners",         "ko": "버릇",       "fi": "käytöstavat",          "fr": "manières" },
 
-
+{ "en": "beginner",         "ko": "초보, 초보자 (early + walk + person)",       "fi": "aloittelija",          "fr": "débutant" },
 { "en": "fool",         "ko": "바보",       "fi": "typerys, hullu",          "fr": "fou" },
 { "en": "lover",         "ko": "애인",       "fi": "rakastaja",          "fr": "amant" },
-{ "en": "genius",         "ko": "천재",       "fi": "nero",          "fr": "génie" }
+{ "en": "genius",         "ko": "천재 (heaven + gift)",       "fi": "nero",          "fr": "génie" }
+
 
 
 

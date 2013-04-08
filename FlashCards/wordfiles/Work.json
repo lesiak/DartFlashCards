@@ -23,6 +23,10 @@
 { "en": "coworker",        "ko": "회사동료",             "fi": "",    "fr": "" },
 
 { "en": "coworker",        "ko": "루틴",             "fi": "rutiini",    "fr": "routine" },
+
+{ "en": "business trip",        "ko": "출장 (out + spread)",             "fi": "liikematka",    "fr": "voyage d'affaires" },
+
+
 { "en": "pretext",        "ko": "핑계",             "fi": "tekosyy",    "fr": "prétexte" },
 
 

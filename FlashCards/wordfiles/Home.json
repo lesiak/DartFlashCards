@@ -8,8 +8,12 @@
 { "en": "refrigerator", "ko": "냉장고",    "fi": "jääkaappi",    "fr": "réfrigérateur" },
 { "en": "washing machine", "ko": "세탁기",    "fi": "pesukone",    "fr": "machine à laver" },
 { "en": "chair", "ko": "의자",    "fi": "tuoli",    "fr": "chaise" },
+
 { "en": "(reading) desk", "ko": "책상",    "fi": "kirjoituspöytä",    "fr": "pupitre" },
-{ "en": "bed", "ko": "침대",    "fi": "sänky, vuode",    "fr": "lit" },
+
+{ "en": "bed", "ko": "침대 (sleep + stage)",    "fi": "sänky, vuode",    "fr": "lit" },
+{ "en": "bedroom", "ko": "침실 (sleep + room)",    "fi": "makuuhuone",    "fr": "chambre à coucher" },
+
 { "en": "roof", "ko": "지붕",    "fi": "katto",    "fr": "toit" },
 { "en": "fence", "ko": "울타리",    "fi": "aita",    "fr": "clôture" },
 

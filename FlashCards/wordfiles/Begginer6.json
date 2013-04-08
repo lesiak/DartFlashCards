@@ -1,6 +1,6 @@
 [
 { "en": "hobby",        "ko": "취미",       "fi": "mieliharrastus", "fr": "hobby" },
-{ "en": "football",     "ko": "축구",       "fi": "jalkapallo",     "fr": "football" },
+{ "en": "football",     "ko": "축구 (kick + ball)",       "fi": "jalkapallo",     "fr": "football" },
 { "en": "volleyball",     "ko": "배구 (push + ball)",       "fi": "lentopallo",     "fr": "volley-ball" },
 { "en": "basketball",     "ko": "농구",       "fi": "koripallo",     "fr": "basket-ball" },
 { "en": "baseball",     "ko": "야구",       "fi": "baseball",     "fr": "base-ball" },
@@ -20,6 +20,10 @@
 { "en": "competition",    "ko": "경기 (競  “contest” and 技 “talent”)",    "fi": "kilpailu, kisat" , "fr":"concours, compétition"},
 { "en": "stadium",    "ko": "경기장",    "fi": "stadion" , "fr":"stade"},
 { "en": "gym",    "ko": "체육관",    "fi": "" , "fr":""},
+
+{ "en": "dance",    "ko": "춤",    "fi": "tanssi" , "fr":"danse"},
+{ "en": "to dance",    "ko": "추다, 춤추다",    "fi": "tanssia" , "fr":"danser"},
+
  
 { "en": "culture",      "ko": "문화",    "fi": "kulttuuri",         "fr": "culture" },
 { "en": "magazine",     "ko": "잡지",   "fi": "aikakauslehti",      "fr": "magazine" },
