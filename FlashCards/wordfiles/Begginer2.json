@@ -10,7 +10,8 @@
 { "en": "enter, go in",        "ko": "들어가다",          "fi": "astua sisään",    "fr": "entrer" },
 { "en": "come in",        "ko": "들어오다",          "fi": "",    "fr": "" },
 
-{ "en": "walk",        "ko": "걸어가다",          "fi": "kävellä",    "fr": "marcher, se promener" },
+{ "en": "to walk",        "ko": "걸어가다",          "fi": "kävellä",    "fr": "marcher, se promener" },
+{ "en": "a walk",        "ko": "산책",          "fi": "kävely",    "fr": "promenade" },
 { "en": "stay",        "ko": "머무르다",          "fi": "jäädä, ",    "fr": "rester" },
   
 { "en": "think",        "ko": "생각하다",          "fi": "ajatella",    "fr": "penser" },

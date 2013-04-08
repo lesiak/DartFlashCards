@@ -39,6 +39,7 @@ class FlashCardsApp {
                               'Professions',
                               'Military',
                               'Countries',
+                              'Plants',
                               'Sentences1',
                               'TopikInter1'];  
   

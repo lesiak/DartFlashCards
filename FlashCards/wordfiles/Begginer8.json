@@ -44,7 +44,7 @@
 
 { "en": "situation",       "ko": "?",       "fi": "tilanne",    "fr": "situation" },
 { "en": "knowledge",       "ko": "지식",       "fi": "tieto",    "fr": "connaissance" },
-{ "en": "always",       "ko": "항상 (ko) (hangsang), 늘 (ko) (neul), 언제나",       "fi": "aina",    "fr": "toujours" },
+{ "en": "always",       "ko": "항상, 늘, 언제나",       "fi": "aina",    "fr": "toujours" },
 { "en": "believe",       "ko": "믿다",       "fi": "uskoa",    "fr": "croire" },
 { "en": "to end up",       "ko": " ?",       "fi": "joutua",    "fr": "?" },
 
@@ -57,10 +57,6 @@
 
 { "en": "Air conditioning",    "ko": "에어컨",    "fi": "ilmastointi" , "fr":"climatisation"},
 { "en": "gas cooker",    "ko": "가스레인지",    "fi": "" , "fr":""},
-
-
-{ "en": "competation",    "ko": "경기 (競  “contest” and 技 “talent”)",    "fi": "kilpailu, kisat" , "fr":"concours, compétition"},
-{ "en": "stadium",    "ko": "경기장",    "fi": "stadion" , "fr":"stade"},
 
 { "en": "previous",    "ko": "이전",    "fi": "edellinen" , "fr":"précédent"},
 { "en": "to show",    "ko": "가리키다",    "fi": "näyttää" , "fr":"montrer"},

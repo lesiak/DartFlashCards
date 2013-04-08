@@ -10,6 +10,7 @@
 
 { "en": "jump",     "ko": "뛰다",       "fi": "hypätä",     "fr": "sauter" },
 { "en": "run",     "ko": "달리다",       "fi": "juosta",     "fr": "courir" },
+{ "en": "kick",     "ko": "차다",       "fi": "potkia",     "fr": "botter" },
 
 { "en": "throw",     "ko": "던지다",       "fi": "heittää",     "fr": "jeter" },
 { "en": "catch",     "ko": "잡다",       "fi": "ottaa kiinni",     "fr": "" },

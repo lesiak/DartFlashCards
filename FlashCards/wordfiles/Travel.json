@@ -35,6 +35,8 @@
 
 { "en": "class",        "ko": "등",          "fi": "",    "fr": "" },
 { "en": "line",        "ko": "호선",          "fi": "linja",    "fr": "ligne" },
+{ "en": "route",        "ko": "노선",          "fi": "reitti",    "fr": "itinéraire, route" },
+{ "en": "license plate",        "ko": "번호판",          "fi": "rekisterikilpi",    "fr": "plaque d'immatriculation" },
 
 { "en": "to ask",        "ko": "묻다 (물어)",          "fi": "",    "fr": "" },
 

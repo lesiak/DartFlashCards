@@ -14,7 +14,11 @@
 
 { "en": "smart",    "ko": "똑똑하다",    "fi": "fiksu, terävä" , "fr":"intelligent"},
 { "en": "lazy",    "ko": "게으른",    "fi": "laiska" , "fr":"paresseux"},
+{ "en": "wise",    "ko": "슬기롭다 (wisdom + be, be characterized by)",    "fi": "viisas, järkevä" , "fr":"sage"},
+{ "en": "wisdom",    "ko": "슬기",    "fi": "viisaus, järkevyys" , "fr":"sagesse"},
 
+{ "en": "beautiful",         "ko": "아름답다",       "fi": "kaunis",          "fr": "beau" },
+{ "en": "cute",         "ko": "귀엽다",       "fi": "soma",          "fr": "mignon" },
 
 
 { "en": "fat",    "ko": "뚱뚱하다",    "fi": "lihava, läski (derogatory), paksu" , "fr":"gros"},
@@ -28,19 +32,15 @@
 { "en": "to be born",    "ko": "태어나다",    "fi": "syntyä" , "fr":"naître"},
 { "en": "young",    "ko": "어리다",    "fi": "nuori" , "fr":"jeune"},
 
-{ "en": "to help",         "ko": "돕다",       "fi": "auttaa",          "fr": "aider" },
-{ "en": "help",         "ko": "도움",       "fi": "apu, ohje",          "fr": "aide, secours" },
 
-{ "en": "to lie",         "ko": "거짓말하다",       "fi": "valehdella",          "fr": "mentir" },
-{ "en": "lie",         "ko": "거짓말",       "fi": "valhe",          "fr": "mensonge" },
-
-{ "en": "fact",         "ko": "사실",       "fi": "tosiasia",          "fr": "fait, vérité" },
-{ "en": "joke",         "ko": "농담",       "fi": "vitsi",          "fr": "blague" },
-{ "en": "sincere",         "ko": "진실하다",       "fi": "vilpitön",          "fr": "sincère" },
 
 { "en": "happy",         "ko": "행복하다",       "fi": "onnellinen",          "fr": "heureux" },
 { "en": "to feel",         "ko": "느끼다",       "fi": "sentir",          "fr": "tuntea" },
-{ "en": "stress",         "ko": "스트레스",       "fi": "",          "fr": "" },
+{ "en": "stress",         "ko": "스트레스",       "fi": "stressi",          "fr": "stress" },
+
+{ "en": "good-natured",         "ko": "착하다",       "fi": "sävyisä",          "fr": "facile à vivre" },
+{ "en": "creative",         "ko": "창조적 (create + make + of)",       "fi": "luova",          "fr": "créatif" },
+
 
 { "en": "to hug",         "ko": "포옹하다",       "fi": "halata",          "fr": "étreindre" },
 { "en": "a smile",         "ko": "미소",       "fi": "hymy",          "fr": "sourire" },
@@ -50,8 +50,6 @@
 { "en": "strange",         "ko": "이상하다",       "fi": "outo, kummallinen, omituinen",          "fr": "étrange" },
 
 
-{ "en": "beautiful",         "ko": "아름답다",       "fi": "kaunis",          "fr": "beau" },
-{ "en": "cute",         "ko": "귀엽다",       "fi": "soma",          "fr": "mignon" },
 
 { "en": "habit",         "ko": "버릇",       "fi": "tapa",          "fr": "habitude" },
 { "en": "manners",         "ko": "버릇",       "fi": "käytöstavat",          "fr": "manières" },
@@ -59,11 +57,8 @@
 
 { "en": "fool",         "ko": "바보",       "fi": "typerys, hullu",          "fr": "fou" },
 { "en": "lover",         "ko": "애인",       "fi": "rakastaja",          "fr": "amant" },
+{ "en": "genius",         "ko": "천재",       "fi": "nero",          "fr": "génie" }
 
-{ "en": "angel",         "ko": "천사",       "fi": "enkeli",          "fr": "ange" },
-{ "en": "devil",         "ko": "악마",       "fi": "paholainen, piru , perkele",          "fr": "diable" },
-{ "en": "genius",         "ko": "천재",       "fi": "nero",          "fr": "génie" },
-{ "en": "god",         "ko": "신",       "fi": "jumala",          "fr": "dieu" } 
 
 
 

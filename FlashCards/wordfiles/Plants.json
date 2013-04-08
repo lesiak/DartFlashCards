@@ -1,0 +1,12 @@
+[
+
+{ "en": "seed",     "ko": "씨",    "fi": "siemen",   "fr":"graine"},
+{ "en": "bamboo",    "ko": "대나무",    "fi": "" , "fr":""},
+{ "en": "rose",    "ko": "장미",    "fi": "ruusu" , "fr":"rose"},
+{ "en": "tulip",    "ko": "튤립",    "fi": "tulppaani" , "fr":"rose"},
+{ "en": "oak",    "ko": "참나무",    "fi": "tammi" , "fr":"chêne"},
+{ "en": "birch",    "ko": "자작나무",    "fi": "" , "fr":""},
+{ "en": "bush",    "ko": "덤불",    "fi": "pensas" , "fr":"buisson"}
+
+]
+        

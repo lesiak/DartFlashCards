@@ -6,6 +6,18 @@
 { "en": "information",        "ko": "정보",          "fi": "tiedot",    "fr": "information" },
 
 { "en": "intuition",   "ko": "직관",    "fi": "intuitio", 	"fr":"intuition"},
+
+
+{ "en": "a fine, penalty",         "ko": "벌금",    "fi": "sakko",          "fr": "amende" },
+{ "en": "debt",             "ko": "빚",              "fi": "velka",          "fr": "dette, créance" },
+{ "en": "cost, expense",    "ko": "비용",            "fi": "kustannus",          "fr": "coût" },
+{ "en": "insurance",        "ko": "보험 (protect + dangerous)",  "fi": "vakuutus",          "fr": "assurance" },
+{ "en": "a guarantee",      "ko": "보장 (protect + block)",      "fi": "takaus",          "fr": "garantie" },
+{ "en": "to guarantee",      "ko": "보장하다",      "fi": "taata",          "fr": "garantir" },
+{ "en": "percent",        "ko": "퍼센트",          "fi": "prosentti",    "fr": "pour cent" },
+{ "en": "salary",        "ko": "급여",      "fi": "palkkaus",    "fr": "salaire" },
+
+
 { "en": "bellwether (leader, trendsetter)",   "ko": "선도자",    "fi": "",   "fr":""},
 
 { "en": "Buddhism",   "ko": "불교",    "fi": "buddhalaisuus",   "fr":"bouddhisme"},
@@ -25,14 +37,7 @@
 { "en": "female (animals)",       "ko": "암컷",       "fi": "naaras",    "fr": "femelle" },
 { "en": "pressure",       "ko": "압력 (press + strength)",       "fi": "paine",    "fr": "pression" },
 { "en": "nightmare",       "ko": "악몽 (bad + dream)",       "fi": "painajainen",    "fr": "cauchemar" },
-{ "en": "to spit",       "ko": "뱉다",       "fi": "sylkeä",    "fr": "cracher" },
-{ "en": "basket",       "ko": "바구니",       "fi": "kori",    "fr": "panier" },
-{ "en": "wheel",       "ko": "바퀴",       "fi": "pyörä",    "fr": "roue" },
-{ "en": "needle",       "ko": "바늘",       "fi": "neula",    "fr": "aiguille" },
-{ "en": "reaction",       "ko": "반응 (reverse + answer)",       "fi": "reaktio",    "fr": "réaction" }
-{ "en": "to react",       "ko": "반응하다",       "fi": "suhtautua",    "fr": "réagir" },
-{ "en": "to disturb",       "ko": "방해하다",       "fi": "häiritä",    "fr": "perturber" },
-{ "en": "to interrupt",       "ko": "방해하다",       "fi": "keskeyttää",    "fr": "interrompre" }
+{ "en": "to spit",       "ko": "뱉다",       "fi": "sylkeä",    "fr": "cracher" }
 
 
 

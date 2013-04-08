@@ -10,6 +10,10 @@
 { "en": "programmer",       "ko": "프로그래머",      "fi": "ohjelmoija",    "fr": "programmeur" },
 { "en": "software",         "ko": "소프트웨어",      "fi": "ohjelmisto",    "fr": "logiciel" },
 
+
+{ "en": "channel",         "ko": "채널",      "fi": "kanava",    "fr": "canal" },
+
+
 { "en": "login",    "ko": "로그인",    "fi": "" , "fr":""},
 { "en": "password",    "ko": "비밀번호",    "fi": "" , "fr":""}
 

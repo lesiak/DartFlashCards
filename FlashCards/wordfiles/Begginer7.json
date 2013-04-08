@@ -1,6 +1,5 @@
 [
 
-{ "en": "seed",    	"ko": "씨",    "fi": "siemen", 	"fr":"graine"},
 { "en": "smell",    	"ko": "냄새",    "fi": "haju, tuoksu", 	"fr":"odeur"},
 { "en": "to smell",    	"ko": "냄새가 나다",    "fi": "tuoksua", 	"fr":"sentir"},
 
@@ -26,16 +25,7 @@
 
 { "en": "dry",    "ko": "마르다",    "fi": "" , "fr":""},
 
-{ "en": "lamp",    "ko": "전등, 램프",    "fi": "lamppu" , "fr":"lampe"},
-
-{ "en": "bamboo",    "ko": "대나무",    "fi": "" , "fr":""},
-{ "en": "rose",    "ko": "장미",    "fi": "ruusu" , "fr":"rose"},
-{ "en": "tulip",    "ko": "튤립",    "fi": "tulppaani" , "fr":"rose"},
-
-{ "en": "oak",    "ko": "참나무",    "fi": "tammi" , "fr":"chêne"},
-{ "en": "birch",    "ko": "자작나무",    "fi": "" , "fr":""},
-
-{ "en": "bush",    "ko": "덤불",    "fi": "pensas" , "fr":"buisson"}
+{ "en": "lamp",    "ko": "전등, 램프",    "fi": "lamppu" , "fr":"lampe"}
 
 
 ]
