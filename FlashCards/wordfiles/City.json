@@ -31,6 +31,7 @@
 { "en": "other side",        "ko": "건너편",          "fi": "?",    "fr": "?" },
 
 { "en": "bench",         "ko": "벤치",       "fi": "penkki",          "fr": "banc" },
+{ "en": "quiet",         "ko": "조용하다",       "fi": "hiljainen",          "fr": "calme, tranquille" },
 
 
 { "en": "prison",         "ko": "교도소",       "fi": "",          "fr": "" },

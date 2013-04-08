@@ -1,6 +1,8 @@
 [
 { "en": "bag",        "ko": "가방",          "fi": "laukku",    "fr": "sac" },
 { "en": "trousers",        "ko": "바지",          "fi": "housut",    "fr": "housut" },
+{ "en": "jeans",        "ko": "청바지 (blue + pants)",          "fi": "farkut",    "fr": "jeans" },
+
 { "en": "skirt",        "ko": "치마",          "fi": "hame",    "fr": "jupe" },
 { "en": "shorts",        "ko": "반바지",          "fi": "sortsit",    "fr": "short" },
 { "en": "shoe",        "ko": "구두",          "fi": "kenkä",    "fr": "chaussure" },

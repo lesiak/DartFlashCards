@@ -36,7 +36,9 @@
 { "en": "ratio, proportion",             "ko": "비율",              "fi": "suhde",          "fr": "rapport, ratio" },
 
 
-{ "en": "according to",         "ko": "-에 따라서",       "fi": "mukaan",          "fr": "selon" },
+{ "en": "invitation",         "ko": "초대 (invite + wait), 초청 (invite + request)",       "fi": "kutsu",          "fr": "invitation" },
+{ "en": "to invite",         "ko": "초대하다, 초청하다",       "fi": "kutsu",          "fr": "invitation" },
+{ "en": "according to",         "ko": "-에 따라서",       "fi": "pyytää",          "fr": "inviter" },
 
 { "en": "for example",         "ko": "예를 들어서",       "fi": "esimerkiksi",          "fr": "par exemple" },
 { "en": "example",         "ko": "예",       "fi": "esimerkki",          "fr": "exemple" },

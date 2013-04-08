@@ -7,6 +7,7 @@
 { "en": "magic",         "ko": "마술",       "fi": "",          "fr": "" },
 { "en": "ghost",         "ko": "유령",       "fi": "",          "fr": "" },
 { "en": "hero",         "ko": "영웅",       "fi": "",          "fr": "" },
-{ "en": "god",         "ko": "신",       "fi": "jumala",          "fr": "dieu" }
+{ "en": "god",         "ko": "신",       "fi": "jumala",          "fr": "dieu" },
+{ "en": "paradise, heaven",         "ko": "천국 (heavan + country)",       "fi": "paratiisi",     "fr": "paradis" }
 
 ]

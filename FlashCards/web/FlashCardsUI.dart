@@ -78,16 +78,16 @@ class FlashCardsUI {
   }
   
   String sanitizeWord(String word) {
+    if (word.contains(IN_PARENTHESES)) {
+      word = word.replaceAll(IN_PARENTHESES, "");
+    }
     if (word.contains(',')) {
       word = word.split(',')[0];
     }
     if (word.startsWith("to ")) {
       word = word.substring(3);
-    }
-    if (word.contains(IN_PARENTHESES)) {
-      word = word.replaceAll(IN_PARENTHESES, "");
-    }
-    return word;
+    }    
+    return word.trim();
   }
   
   
