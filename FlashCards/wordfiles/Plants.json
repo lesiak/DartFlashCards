@@ -6,7 +6,9 @@
 { "en": "tulip",    "ko": "튤립",    "fi": "tulppaani" , "fr":"rose"},
 { "en": "oak",    "ko": "참나무",    "fi": "tammi" , "fr":"chêne"},
 { "en": "birch",    "ko": "자작나무",    "fi": "" , "fr":""},
-{ "en": "bush",    "ko": "덤불",    "fi": "pensas" , "fr":"buisson"}
+{ "en": "bush",    "ko": "덤불",    "fi": "pensas" , "fr":"buisson"},
+{ "en": "palm tree",    "ko": "야자 나무",    "fi": "palmu" , "fr":"palmier"}
+
 
 ]
         

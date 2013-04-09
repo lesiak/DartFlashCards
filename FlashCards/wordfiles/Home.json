@@ -14,6 +14,9 @@
 { "en": "bed", "ko": "침대 (sleep + stage)",    "fi": "sänky, vuode",    "fr": "lit" },
 { "en": "bedroom", "ko": "침실 (sleep + room)",    "fi": "makuuhuone",    "fr": "chambre à coucher" },
 
+{ "en": "blanket", "ko": "담요",    "fi": "viltti",    "fr": "couverture" },
+
+
 { "en": "roof", "ko": "지붕",    "fi": "katto",    "fr": "toit" },
 { "en": "fence", "ko": "울타리",    "fi": "aita",    "fr": "clôture" },
 

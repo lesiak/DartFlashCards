@@ -33,7 +33,10 @@
 { "en": "chin",       "ko": "턱",         "fi": "leuka",    "fr": "menton" },
 { "en": "jaw",       "ko": "턱",         "fi": "leuka",    "fr": "mâchoire" },
 { "en": "shoulder",       "ko": "어깨",         "fi": "olkapää",    "fr": "épaule" },
-{ "en": "elbow",       "ko": "팔꿈치",         "fi": "kyynärpää",    "fr": "coude" }
+{ "en": "elbow",       "ko": "팔꿈치",         "fi": "kyynärpää",    "fr": "coude" },
+
+{ "en": "to touch",       "ko": "대다",         "fi": "koskea",    "fr": "toucher" }
+
 
 
 
