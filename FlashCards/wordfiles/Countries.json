@@ -1,7 +1,7 @@
 [
 
 { "en": "England",         "ko": "영국",       "fi": "Englanti",          "fr": "Angleterre" },
-{ "en": "Germany",         "ko": "독일",       "fi": "Saksa",          "fr": "Allemagne" },
+{ "en": "Germany",         "ko": "독일 (alone + excel)",       "fi": "Saksa",          "fr": "Allemagne" },
 { "en": "Italy",         "ko": "이탈리아",       "fi": "Italia",          "fr": "Italie" },
 { "en": "France",         "ko": "프랑스",       "fi": "Ranska",          "fr": "France" },
 { "en": "Sweden",         "ko": "스웨덴",       "fi": "Ruotsi",          "fr": "Suède" },

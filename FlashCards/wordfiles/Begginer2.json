@@ -25,6 +25,9 @@
 
 
 { "en": "open",    "ko": "열다",       "fi": "auki",    "fr": "ouvert" },
+{ "en": "to close",    "ko": "닫다",       "fi": "sulkea",    "fr": "fermer" },
+
+
 
 { "en": "price",        "ko": "가격",    	"fi": "hinta",    "fr": "prix" },
 

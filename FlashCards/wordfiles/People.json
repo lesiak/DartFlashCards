@@ -41,6 +41,8 @@
 { "en": "good-natured",         "ko": "착하다",       "fi": "sävyisä",          "fr": "facile à vivre" },
 { "en": "creative",         "ko": "창조적 (create + make + of)",       "fi": "luova",          "fr": "créatif" },
 
+{ "en": "original, creative",         "ko": "독창적 (alone + create + of)",       "fi": "omaperäinen",          "fr": "original" },
+
 
 { "en": "to hug",         "ko": "포옹하다",       "fi": "halata",          "fr": "étreindre" },
 { "en": "a smile",         "ko": "미소",       "fi": "hymy",          "fr": "sourire" },

@@ -51,9 +51,9 @@
 { "en": "to be seen",       "ko": "보이다",       "fi": "",    "fr": "" },
 { "en": "to show",       "ko": "보여주다",       "fi": "",    "fr": "" },
 
-{ "en": "hear",       "ko": "들리다",       "fi": "kuulla",    "fr": "entendre" },
+{ "en": "hear",       "ko": "듣다",       "fi": "kuulla",    "fr": "entendre" },
 { "en": "listen",         "ko": "듣다",       "fi": "kuunnella",          "fr": "écouter" }
-
+{ "en": "be heard",         "ko": "들리다",       "fi": "",          "fr": "" }
 
 
 
