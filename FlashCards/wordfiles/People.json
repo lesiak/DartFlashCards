@@ -27,6 +27,8 @@
 { "en": "a slender figure",    "ko": "날씬한 몸매"  ,  "fi": "" , "fr":""},
 { "en": "obesity",    "ko": "비만 (fat + full)"  ,  "fi": "liikalihavuus" , "fr":"obésité"},
 
+{ "en": "cut down (on)",    "ko": "줄이다"  ,  "fi": "vähentää" , "fr":"réduire"},
+
 
 { "en": "life",    "ko": "생명",    "fi": "elämä" , "fr":"vie"},
 { "en": "to be born",    "ko": "태어나다",    "fi": "syntyä" , "fr":"naître"},
@@ -50,7 +52,8 @@
 { "en": "close (with other people)",         "ko": "친하다",       "fi": "",          "fr": "" },
 
 { "en": "strange",         "ko": "이상하다",       "fi": "outo, kummallinen, omituinen",          "fr": "étrange" },
-
+{ "en": "jealous",         "ko": "부럽다",       "fi": "mustasukkainen",          "fr": "jaloux" },
+{ "en": "ashamed",         "ko": "부끄럽다",       "fi": "häpeissään",          "fr": "honteux" },
 
 
 { "en": "habit",         "ko": "버릇",       "fi": "tapa",          "fr": "habitude" },

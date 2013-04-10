@@ -44,6 +44,7 @@
 
 { "en": "to lie",         "ko": "거짓말하다",       "fi": "valehdella",          "fr": "mentir" },
 { "en": "lie",         "ko": "거짓말",       "fi": "valhe",          "fr": "mensonge" },
+{ "en": "a secret",   "ko": "비밀",    "fi": "salaisuus",     "fr":"secret"},
 
 { "en": "fact",         "ko": "사실",       "fi": "tosiasia",          "fr": "fait, vérité" },
 { "en": "joke",         "ko": "농담",       "fi": "vitsi",          "fr": "blague" },
