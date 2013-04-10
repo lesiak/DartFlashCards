@@ -50,7 +50,8 @@
 { "en": "sincere",         "ko": "진실하다",       "fi": "vilpitön",          "fr": "sincère" },
 
  
-{ "en": "small",       "ko": " 작다",       "fi": "pieni",    "fr": "petit" }, 
+{ "en": "small",       "ko": " 작다",       "fi": "pieni",    "fr": "petit" },
+{ "en": "big",       "ko": " 크다",       "fi": "iso, suuri",    "fr": "grand" },
 { "en": "heavy",       "ko": " 가볍다",       "fi": "painava",    "fr": "léger" },
 { "en": "light (weight)",       "ko": " 무거운",       "fi": "kevyt",    "fr": "lourd" },
 { "en": "to be used, be utilized",       "ko": "쓰이다",       "fi": "",    "fr": "" },
@@ -61,3 +62,4 @@
 { "en": "vacant",       "ko": "비다",       "fi": "vapaa",    "fr": "vacant" }
 
 ]
+        

@@ -13,6 +13,7 @@
 
 
 { "en": "channel",         "ko": "채널",      "fi": "kanava",    "fr": "canal" },
+{ "en": "switch off",         "ko": "끄다",      "fi": "sammuttaa",    "fr": "éteindre" },
 
 
 { "en": "login",    "ko": "로그인",    "fi": "" , "fr":""},
