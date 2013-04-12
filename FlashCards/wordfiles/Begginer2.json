@@ -49,7 +49,7 @@
 
 { "en": "silver",         "ko": "은",       "fi": "hopea",    "fr": "argent" }, 
 { "en": "gold",         "ko": "금",       "fi": "kulta",    "fr": "or" },
-
+{ "en": "glass (material)",         "ko": "유리",       "fi": "lasi",    "fr": "verre" },
 
 
 { "en": "long",         "ko": "길다",       "fi": "pitkä",          "fr": "long" },

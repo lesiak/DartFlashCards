@@ -13,7 +13,9 @@
 { "en": "cancer",    "ko": "암",    "fi": "syöpä" , "fr":"cancer"},
 { "en": "virus",    "ko": "바이러스",    "fi": "virus" , "fr":"virus"},
 { "en": "vitamin",    "ko": "비타민",    "fi": "vitamiini" , "fr":"vitamine"},
-{ "en": "wound",        "ko": "상처",     "fi": "haava",    "fr": "blessure" }
+{ "en": "wound",        "ko": "상처",     "fi": "haava",    "fr": "blessure" },
+{ "en": "injection",        "ko": "주사",     "fi": "injektio",    "fr": "injection" },
+{ "en": "prescription",        "ko": "처방",     "fi": "resepti",    "fr": "prescription" }
 
 
 

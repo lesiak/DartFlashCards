@@ -50,6 +50,7 @@
 { "en": "cook",       "ko": "요리하다",         "fi": "keittää, laittaa ruokaa",    "fr": "cuisiner" },
 { "en": "to bake",   "ko": "굽다",    "fi": "leipoa",   "fr":""},
 { "en": "prepare",       "ko": "준비하다",         "fi": "valmistella",    "fr": "préparer" },
+{ "en": "preparation",       "ko": "준비",         "fi": "valmistelu",    "fr": "préparation" },
 
 
 { "en": "family",       "ko": "가족",       "fi": "perhe",   "fr": "famille" },
