@@ -186,10 +186,10 @@ class FlashCardsApp {
   
   void fetchPronunciations() {            
     for (Card card in engine.allCardsInDeck) {
-      ui.pronounciationManager.fetchMissingPronunciations("en", ui.sanitizeWord(card.en));
-      ui.pronounciationManager.fetchMissingPronunciations("ko", ui.sanitizeWord(card.ko));  
-      ui.pronounciationManager.fetchMissingPronunciations("fi", ui.sanitizeWord(card.fi));
-      ui.pronounciationManager.fetchMissingPronunciations("fr", ui.sanitizeWord(card.fr));
+      ui.pronounciationManager.fetchMissingPronunciations("en", ui.sanitizeWord("en", card.en));
+      ui.pronounciationManager.fetchMissingPronunciations("ko", ui.sanitizeWord("ko", card.ko));  
+      ui.pronounciationManager.fetchMissingPronunciations("fi", ui.sanitizeWord("fi", card.fi));
+      ui.pronounciationManager.fetchMissingPronunciations("fr", ui.sanitizeWord("fr", card.fr));
     }
   }
   
@@ -367,6 +367,8 @@ void test3() {
       print('got error $e');
       
     });
+    
+
    
    /* Future<int> intFut = HttpRequest.request(url).then((xhr) { return 42; }, onError: (asyncError) { 
       print(asyncError);

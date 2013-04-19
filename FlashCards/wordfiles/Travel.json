@@ -20,14 +20,13 @@
 { "en": "exit",    "ko": "출구",    "fi": "uloskäynti" , "fr":"sortie"},
 { "en": "entrance",    "ko": "입구",    "fi": "sisäänkäynti" , "fr":"entrée"},
 
-
 { "en": "get to",        "ko": "도착하다",          "fi": "päästä",    "fr": "?" },
 { "en": "arrive",        "ko": "도착하다",          "fi": "saapua",    "fr": "arriver" },
 { "en": "to leave (from)",        "ko": "떠나다",          "fi": "lähteä",    "fr": "partir" },
 { "en": "to transfer, change",        "ko": "갈아 타다",          "fi": "vaihtaa",    "fr": "" },
 
 { "en": "to get off",        "ko": "내리다",          "fi": "jäädä pois",    "fr": "descendre" },
-{ "en": "to get out, (go out)",        "ko": "나가다",          "fi": "",    "fr": "sortir" },
+{ "en": "to get out, (go out, exit)",        "ko": "나가다",          "fi": "",    "fr": "sortir" },
 
 { "en": "to go out (from home)",        "ko": "외출하다",          "fi": "",    "fr": "sortir" },
 

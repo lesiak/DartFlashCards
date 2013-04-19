@@ -77,22 +77,27 @@ class FlashCardsUI {
     query("#deckDetailsDiv").hidden=false;
   }
   
-  String sanitizeWord(String word) {
+  String sanitizeWord(String lang, String word) {
     if (word.contains(IN_PARENTHESES)) {
       word = word.replaceAll(IN_PARENTHESES, "");
     }
     if (word.contains(',')) {
       word = word.split(',')[0];
     }
-    if (word.startsWith("to ")) {
-      word = word.substring(3);
-    }    
+    if (lang == "en") {
+      if (word.startsWith("to ")) {
+        word = word.substring(3);
+      }
+      else if (word.startsWith("a ")) {
+        word = word.substring(2);
+      }
+    }
     return word.trim();
   }
   
   
   void getPronunciations(String lang, String word, String containerId, bool play) {    
-    word = sanitizeWord(word);
+    word = sanitizeWord(lang, word);
 
     Element container = query(containerId);
     String cachedForvoResponse = window.localStorage[lang+"/"+word];
