@@ -164,7 +164,7 @@ class FlashCardsApp {
   
 
   void loadWordTable(String wordfile) {
-    engine.loadData('wordfiles/$wordfile', () { 
+    engine.loadData('../wordfiles/$wordfile', () { 
       query("#deckDetailsDiv").hidden=false;
       fillDeckData();
     }  
