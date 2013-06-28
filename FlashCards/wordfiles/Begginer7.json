@@ -14,10 +14,12 @@
 { "en": "to smell",    	"ko": "냄새가 나다",    "fi": "tuoksua", 	"fr":"sentir"},
 
 { "en": "gas",    	"ko": "가스",    "fi": "kaasu" , 	"fr":"gaz"},
+{ "en": "match",      "ko": "성냥",    "fi": "tulitikku" ,  "fr":"allumette"},
+
+
 { "en": "stalker",    "ko": "스토커",    "fi": "ahdistelija" , "fr":"rôdeur"},
 
 
-{ "en": "to cut",    "ko": "베다",    "fi": "leikata" , "fr":"couper"},
 
 
 { "en": "to decorate",         "ko": "장식하다",       "fi": "koristella",          "fr": "décorer" },

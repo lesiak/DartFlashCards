@@ -43,8 +43,16 @@
 
 { "en": "ticket",         "ko": "표",       "fi": "lippu",          "fr": "billet" },
 { "en": "writer",         "ko": "작가",       "fi": "kirjoittaja, kirjailija",          "fr": "écrivain, auteur" },
+{ "en": "poem",         "ko": "시",       "fi": "runo",          "fr": "poème" },
+{ "en": "poet",         "ko": "시인",       "fi": "runoilija",          "fr": "poète" },
+
+{ "en": "famous",         "ko": "유명한",       "fi": "kuuluisa",          "fr": "célèbre" },
+
+
 
 { "en": "to draw",         "ko": "그리다",       "fi": "piirtää",          "fr": "dessiner" },
+{ "en": "a picture",         "ko": "그림",       "fi": "kuva",          "fr": "dessin" },
+
 
 { "en": "earnings, gains, proceeds",         "ko": "수익금",       "fi": "",          "fr": "" },
 
@@ -58,7 +66,7 @@
 { "en": "musical instrument",  "ko": "악기",    "fi": "soitin",   "fr":"instrument de musique"},
 
 
-
+{ "en": "willingly",  "ko": "기꺼이",    "fi": "mielellään",   "fr":"volontiers"},
 
 { "en": "shadow",        "ko": "그림자",          "fi": "varjo",    "fr": "ombre" }
 

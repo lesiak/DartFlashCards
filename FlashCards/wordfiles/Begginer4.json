@@ -19,6 +19,12 @@
 
 { "en": "joyful",        "ko": "즐겁다",          "fi": "iloinen",    "fr": "joyeux" },
 
+{ "en": "open",    "ko": "열다",       "fi": "auki",    "fr": "ouvert" },
+{ "en": "to close",    "ko": "닫다",       "fi": "sulkea",    "fr": "fermer" },
+
+{ "en": "difficult",       "ko": "어렵다",       "fi": "vaikea",    "fr": "difficile" },
+{ "en": "easy",       "ko": "쉽다",       "fi": "helppo",    "fr": "facile" },
+
 
 { "en": "important",        "ko": "중요하다",          "fi": "tärkeä",    "fr": "important" },
 { "en": "rise",        "ko": "오르다",          "fi": "nousta",    "fr": "augmenter" },
@@ -51,10 +57,7 @@
 { "en": "sincere",         "ko": "진실하다",       "fi": "vilpitön",          "fr": "sincère" },
 
  
-{ "en": "small",       "ko": " 작다",       "fi": "pieni",    "fr": "petit" },
-{ "en": "big",       "ko": " 크다",       "fi": "iso, suuri",    "fr": "grand" },
-{ "en": "heavy",       "ko": " 가볍다",       "fi": "painava",    "fr": "léger" },
-{ "en": "light (weight)",       "ko": " 무거운",       "fi": "kevyt",    "fr": "lourd" },
+
 { "en": "to be used, be utilized",       "ko": "쓰이다",       "fi": "",    "fr": "" },
 { "en": "event",       "ko": "행사",       "fi": "tapahtuma",    "fr": "événement" },
 

@@ -2,7 +2,11 @@
 
 { "en": "buy",         "ko": "사다",       "fi": "ostaa",    "fr": "acheter" },
 { "en": "sell",         "ko": "팔다",       "fi": "myydä",    "fr": "vendre" },
+{ "en": "cheap",         "ko": "싸다",       "fi": "halpa",    "fr": "bon marché, pas cher" },
+{ "en": "expensive",         "ko": "비싸다",       "fi": "kallis",    "fr": "cher" },
+{ "en": "price",        "ko": "가격",     "fi": "hinta",    "fr": "prix" },
 { "en": "pay",         "ko": "지불하다",       "fi": "maksaa",    "fr": "payer" },
+
 { "en": "bring",     "ko": " 가져오다 ",       "fi": "touda",     "fr": "apporter, amener" },
 { "en": "leave (behind)",     "ko": " 남기다 ",       "fi": "jättää",     "fr": "laisser" },
 
@@ -24,13 +28,6 @@
 { "en": "live, dwell",        "ko": "살다",          "fi": "asua",    "fr": "habiter" },
 
 
-{ "en": "open",    "ko": "열다",       "fi": "auki",    "fr": "ouvert" },
-{ "en": "to close",    "ko": "닫다",       "fi": "sulkea",    "fr": "fermer" },
-
-
-
-{ "en": "price",        "ko": "가격",    	"fi": "hinta",    "fr": "prix" },
-
 { "en": "sign",      "ko": "간판",   "fi": "merkki",         "fr": "panneau" },
 { "en": "warning",      "ko": "경고",   "fi": "varoitus",         "fr": "avertissement" },
 
@@ -39,7 +36,6 @@
 { "en": "rest",         "ko": "쉬다",       "fi": "levätä",    "fr": "se reposer" },
 { "en": "wait",         "ko": "기다리다",       "fi": "odottaa",    "fr": "patienter" },
 { "en": "begin",        "ko": "시작하다",       "fi": "aloittaa",    "fr": "commencer" },
-
 { "en": "laugh",       "ko": "웃다",      "fi": "nauraa",    "fr": "rire" },
 
 
@@ -71,9 +67,13 @@
 { "en": "really",         "ko": "정말",       "fi": "todella",          "fr": "vraiment" },
 { "en": "not really",         "ko": "별로",       "fi": "",          "fr": "" },
 
+{ "en": "small",       "ko": " 작다",       "fi": "pieni",    "fr": "petit" },
+{ "en": "big",       "ko": " 크다",       "fi": "iso, suuri",    "fr": "grand" },
+
+
 
 { "en": "weight",       "ko": "무게",       "fi": "paino",    "fr": "poids" },
-{ "en": "heavy",         "ko": "무거운",       "fi": "painava",          "fr": "lourd" },
+{ "en": "heavy",         "ko": "무거운 (무겁다)",       "fi": "painava",          "fr": "lourd" },
 { "en": "light",         "ko": "가볍다",       "fi": "kevyt",          "fr": "léger" }
 
 ]

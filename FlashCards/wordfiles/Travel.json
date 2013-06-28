@@ -3,9 +3,12 @@
 { "en": "car",        "ko": "자동차",      "fi": "auto",    "fr": "voiture" },
 { "en": "train",        "ko": "기차",     "fi": "juna",    "fr": "train" },
 { "en": "metro",        "ko": "지하철",    "fi": "maanalainen",    "fr": "métro" },
+{ "en": "tram",         "ko": "시가 전차",          "fi": "raitiovaunu",    "fr": "tram" },
 { "en": "bicycle",      "ko": "자전거",    "fi": "polkupyörä",    "fr": "vélo" },
 { "en": "ship",         "ko": "배",          "fi": "laiva",    "fr": "bateau" },
 { "en": "motorcycle",         "ko": "오토바이",          "fi": "moottoripyörä",    "fr": "moto" },
+
+{ "en": "petrol",         "ko": "가솔린",          "fi": "bensiini",    "fr": "essence" },
 
 { "en": "flight",         "ko": "비행 (fly + go)",        "fi": "lento",    "fr": "vol" },
 { "en": "airplane",         "ko": "비행기",        "fi": "lentokone",    "fr": "avion" },

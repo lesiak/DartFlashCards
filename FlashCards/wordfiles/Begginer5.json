@@ -3,8 +3,7 @@
 { "en": "answer",       "ko": "답변, 대답 (reply + answer)",       "fi": "vastaus",    "fr": "réponse" },
 { "en": "to answer",       "ko": "답변하다, 대답하다",       "fi": "vastata",    "fr": "répondre" },
 
-{ "en": "difficult",       "ko": "어렵다",       "fi": "vaikea",    "fr": "difficile" },
-{ "en": "easy",       "ko": "쉽다",       "fi": "helppo",    "fr": "facile" },
+{ "en": "solution",       "ko": "해결",       "fi": "ratkaisu",    "fr": "solution" },
 
 
 { "en": "choose",     "ko": "고르다",    "fi": "valita" , "fr":"choisir"},
@@ -27,9 +26,13 @@
 { "en": "simple",      "ko": "단순하다 (single + only)",      "fi": "yksinkertainen",          "fr": "simple" },
 { "en": "simply",      "ko": "간단히",      "fi": "yksinkertaisesti",          "fr": "simplement" },
 
+{ "en": "to cut",    "ko": "베다",    "fi": "leikata" , "fr":"couper"},
 
 { "en": "harmful",      "ko": "해롭다",      "fi": "haitallinen, vahingollinen", "fr": "nuisible" },
 { "en": "advantageous, beneficial",      "ko": "이롭다",      "fi": "edullinen", "fr": "avantageux" },
+
+{ "en": "laborious",      "ko": "힘들다",      "fi": "työläs", "fr": "laborieux" },
+
 
 
 { "en": "ratio, proportion",             "ko": "비율",              "fi": "suhde",          "fr": "rapport, ratio" },

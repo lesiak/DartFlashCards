@@ -16,6 +16,7 @@
 { "en": "apple",       "ko": "사과",         "fi": "omena",    "fr": "pomme" },
 { "en": "pear",       "ko": "배",         "fi": "päärynä",    "fr": "poire" },
 { "en": "peach",       "ko": "복숭아",         "fi": "persikka",    "fr": "pêche" },
+{ "en": "banana",       "ko": "바나나",         "fi": "banaani",    "fr": "banane" },
 
 { "en": "cheese",       "ko": "치즈",         "fi": "juusto",    "fr": "fromage" },
 { "en": "cucumber",       "ko": "오이",         "fi": "kurkku",    "fr": "concombre" },
