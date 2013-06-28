@@ -80,6 +80,7 @@
   filter: progid:dximagetransform.microsoft.gradient(enabled=false);
 }
 
+/* answers table */
 
 .table tbody tr.succ td {
   background-color: #dff0d8;
@@ -99,12 +100,8 @@
   background-color: #f8f8f8;
 }
 
-
-
-
-
 .table tbody tr.almost td {
-  background-color: #F1F587;
+  background-color: #eeee95;
 }
 
 
