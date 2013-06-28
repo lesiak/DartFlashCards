@@ -1,9 +1,12 @@
 
 
-#flashcardQuestion {
+#flashcardQuestion, #answerprimary {
  padding: 19px;
   min-height: 148px; 
   margin-bottom: 20px;
+}
+
+.flashcard-question {
   background-color: #eeeeee;  
   -webkit-border-radius: 6px;
   -moz-border-radius: 6px;
@@ -12,6 +15,15 @@
 
 #flashcardQuestion h1 {
   text-align: center; 
+  margin-bottom: 0;
+  font-size: 50px;
+  line-height: 1;
+  color: inherit;
+  letter-spacing: -1px;
+}
+
+
+#answerprimary h1 {
   margin-bottom: 0;
   font-size: 50px;
   line-height: 1;
