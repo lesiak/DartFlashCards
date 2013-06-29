@@ -55,18 +55,14 @@ class FlashCardsApp {
         
     query("#startButton").onClick.listen((e) {
       ui.showLearningPanel();
-      showQuestion(); 
+      showCurrentQuestion(); 
     });
     
     query("#clearResultsButton").onClick.listen((e) => clearDeckResults());
     
     query("#fetchPronoButton").onClick.listen((e) => fetchPronunciations());
         
-    query("#homePill").onClick.listen((e) {
-      engine.initLearningList();
-      ui.showHomePanel();
-      fillDeckData();
-    });
+    query("#homePill").onClick.listen((e) => goToHomePanel());
     
     Element level1Tab = query("#level1Tab");
     Element level2Tab = query("#level2Tab");
@@ -85,6 +81,12 @@ class FlashCardsApp {
   
   void startApplication() {    
     fillQuestionDecksTable(level1Files);
+  }
+  
+  void goToHomePanel() {
+    engine.initLearningList();
+    ui.showHomePanel();
+    showDeckData();
   }
   
   void fillQuestionDecksTable(List<String> wordFiles) {
@@ -106,80 +108,24 @@ class FlashCardsApp {
         });
         cell.nodes.add(deckLink);
     }
-    /*for (List<String> rowDeckNames in invertList(wordFiles)) {
-      TableRowElement tRow = tBody.insertRow(-1); // add at the end
-      for (String deckName in rowDeckNames) {                   
-        Element cell = tRow.insertCell(-1);
-        cell.classes.add('deckLink');
-        AnchorElement deckLink = new AnchorElement(href: "#");
-        deckLink.text = deckName;
-        deckLink.onClick.listen((e) {
-          
-          tBody.children.forEach((aRow) => aRow.classes.remove('selectedTableRow'));
-          tRow.classes.add('selectedTableRow');
-          loadWordTable( "${deckName}.json");        
-        });
-        cell.nodes.add(deckLink);
-      }
-    }*/
   }
-  
-  List<List<String>> invertList(List<String> list) {
-    int sIndex = list.length~/2;
-    int lastIndex = list.length;
-    print(sIndex);
-    print(lastIndex);
-    List<String> list1 = list.getRange(0,sIndex);
-    List<String> list2 = list.getRange(sIndex,lastIndex-sIndex);
-    List<String> ret = new List<String>();
-  
-   return zip(list1, list2);
-  }
-   
-  static List<List<String>> zip(List<String> list1, List<String> list2) {
-    List<List<String>> zipped = new List<List<String>>();
-    for (List<String> list in [list1, list2]) {
-        for (int i = 0, listSize = list.length; i < listSize; i++) {
-            List<String> list2;
-            if (i >= zipped.length) {
-                zipped.add(list2 = new List<String>());
-            }
-            else {
-                list2 = zipped[i];
-            }
-            list2.add(list[i]);
-        }
-    }
-    return zipped;
-}
-  // while(it1.moveNext()) 
-  //}
-  
-  void _createDeckCell(String deckName) {
-    
-  }
-  
-  
-  
-  
-  
 
   void loadWordTable(String wordfile) {
     engine.loadData('../wordfiles/$wordfile', () { 
       query("#deckDetailsDiv").hidden=false;
-      fillDeckData();
+      showDeckData();
     }  
     );
   }
   
-  void fillDeckData() {
+  void showDeckData() {
     fillWordsTable();
     fillSummary();
   }
   
   void clearDeckResults() {
     engine.clearDeckResults();
-    fillDeckData();
+    showDeckData();
   }
   
   void fetchPronunciations() {            
@@ -269,7 +215,7 @@ class FlashCardsApp {
     engine.loadData('wordfiles/$wordfile', () { 
       query("#wordFilesDiv").hidden=true;
       query("#learningPanel").hidden=false;
-      showQuestion(); 
+      showCurrentQuestion(); 
     });
   }
 
@@ -281,15 +227,20 @@ class FlashCardsApp {
   }
 
 
-  void showQuestion() {
+  void showCurrentQuestion() {
     Card card = engine.currentCard;
     ui.showQuestion(card);    
   }
 
 
   void showNextQuestion() {
-    engine.nextCard();
-    showQuestion();    
+    if (engine.hasNextCard()) {
+      engine.nextCard();
+      showCurrentQuestion();
+    }
+    else {
+      goToHomePanel();
+    }
   }
 
 

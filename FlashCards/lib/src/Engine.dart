@@ -67,6 +67,14 @@ class Engine implements DeckState {
     return _currentCard;   
   }
   
+  bool hasNextCard() {
+    if (_currentWord < learningList.length-1) {
+      return true;
+    } else {
+      return false;
+    }
+  }
+  
   void nextCard() {
     if (_currentWord < learningList.length-1) {
       _currentWord++;
