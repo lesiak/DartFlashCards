@@ -35,6 +35,7 @@
 { "en": "same",        "ko": "같다",          "fi": "samanlainen",    "fr": "même" },
 { "en": "similar",        "ko": "비슷하다",          "fi": "samanlainen",    "fr": "similaire, semblable" },
 { "en": "different",        "ko": "다르다, 다른",          "fi": "eri, erilainen",    "fr": "différent, autre" },
+{ "en": "to resemble",        "ko": "닮다",          "fi": "",    "fr": "" },
 
 
 { "en": "become",        "ko": "되다",          "fi": "tulla",    "fr": "devenir" },

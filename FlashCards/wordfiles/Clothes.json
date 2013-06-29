@@ -6,6 +6,8 @@
 { "en": "skirt",        "ko": "치마",          "fi": "hame",    "fr": "jupe" },
 { "en": "shorts",        "ko": "반바지",          "fi": "sortsit",    "fr": "short" },
 { "en": "shoe",        "ko": "구두",          "fi": "kenkä",    "fr": "chaussure" },
+{ "en": "shirt",        "ko": "셔츠",          "fi": "",    "fr": "" },
+
 { "en": "headphones",        "ko": "헤드폰",          "fi": "kuulokkeet",    "fr": "casque" },
 { "en": "jacket",        "ko": "재킷",          "fi": "takki",    "fr": "veste" },
 { "en": "key",        "ko": "열쇠",          "fi": "avain",    "fr": "nouveau" },
@@ -20,6 +22,14 @@
 
 
 { "en": "to wear",     "ko": "입다",         "fi": "olla yllään",   "fr": "porter" },
+
+{ "en": "to wear (headgear)",     "ko": "쓰다",         "fi": "",   "fr": "" },
+{ "en": "to wear (glasses)",     "ko": "끼다",         "fi": "",   "fr": "" },
+
+{ "en": "to wear (necklaces, earrings)",     "ko": "하다",         "fi": "",   "fr": "" },
+{ "en": "to wear (wristwatches)",     "ko": "차다",         "fi": "",   "fr": "" },
+
+
 { "en": "cool, stylish, good-looking",         "ko": "멋있다",       "fi": "mahtava",          "fr": "excellent" },
 { "en": "sexy",         "ko": "섹시하다",       "fi": "seksikäs",          "fr": "sexy" },
 

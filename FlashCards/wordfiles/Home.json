@@ -64,6 +64,10 @@
 
 { "en": "parents",        "ko": "부모",          "fi": "vanhemmat",    "fr": "parents" },
 
+{ "en": "to get married",        "ko": "결혼하다",          "fi": "",    "fr": "" },
+{ "en": "to grow up",        "ko": "자라다",          "fi": "",    "fr": "" },
+{ "en": "to be born",        "ko": "태어나다",          "fi": "",    "fr": "" },
+
 
 
 { "en": "wall",         "ko": "담",       "fi": "seinä, muuri",          "fr": "mur" },
