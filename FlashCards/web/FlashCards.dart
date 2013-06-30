@@ -23,7 +23,6 @@ class FlashCardsApp {
                      'People',
                      'Body',
                      'Health',
-                     'People',
                      'Colors'];
   
   List<String> level2Files = ['Work',

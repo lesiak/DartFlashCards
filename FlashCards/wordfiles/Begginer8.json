@@ -34,8 +34,6 @@
 
 { "en": "take",        "ko": "?",          "fi": "ottaa",    "fr": "prendre" },
 
-{ "en": "part",        "ko": "부분",          "fi": "partie",    "fr": "pour cent" },
-{ "en": "region",        "ko": "지방",          "fi": "alue",    "fr": "région" },
 
 
 { "en": "to function",       "ko": "?",       "fi": "toimia",    "fr": "marcher, fonctionner" },
@@ -45,7 +43,7 @@
 { "en": "situation",       "ko": "?",       "fi": "tilanne",    "fr": "situation" },
 { "en": "knowledge",       "ko": "지식",       "fi": "tieto",    "fr": "connaissance" },
 { "en": "always",       "ko": "항상, 늘, 언제나",       "fi": "aina",    "fr": "toujours" },
-{ "en": "believe",       "ko": "믿다",       "fi": "uskoa",    "fr": "croire" },
+
 { "en": "to end up",       "ko": " ?",       "fi": "joutua",    "fr": "?" },
 
 
@@ -61,12 +59,7 @@
 { "en": "previous",    "ko": "이전",    "fi": "edellinen" , "fr":"précédent"},
 { "en": "to show",    "ko": "가리키다",    "fi": "näyttää" , "fr":"montrer"},
 { "en": "to be born",    "ko": "태어나다",    "fi": "syntyä" , "fr":"naître"},
-{ "en": "result",    "ko": "결과",    "fi": "tulos" , "fr":"résultat"},
-{ "en": "to decide",    "ko": "결정하다",    "fi": "päättää" , "fr":"décider"},
-{ "en": "decision",    "ko": "결정",    "fi": "päätös" , "fr":"décision"},
 
-{ "en": "cause, reason",    "ko": "원인",    "fi": "syy" , "fr":"cause, raison "},
-{ "en": "to grow",    "ko": "자라다",    "fi": "kasvaa" , "fr":"grandir"},
 
 { "en": "to arrange, organize",    "ko": "배치하다",    "fi": "järjestää" , "fr":"arranger, organiser"},
 { "en": "to lead",    "ko": "안내하다",    "fi": "johtaa" , "fr":"diriger, commander"}

@@ -4,6 +4,11 @@
 { "en": "to answer",       "ko": "답변하다, 대답하다",       "fi": "vastata",    "fr": "répondre" },
 
 { "en": "solution",       "ko": "해결",       "fi": "ratkaisu",    "fr": "solution" },
+{ "en": "result",    "ko": "결과",    "fi": "tulos" , "fr":"résultat"},
+{ "en": "to decide",    "ko": "결정하다",    "fi": "päättää" , "fr":"décider"},
+{ "en": "decision",    "ko": "결정",    "fi": "päätös" , "fr":"décision"},
+
+{ "en": "cause, reason",    "ko": "원인",    "fi": "syy" , "fr":"cause, raison "},
 
 
 { "en": "choose",     "ko": "고르다",    "fi": "valita" , "fr":"choisir"},
@@ -33,7 +38,8 @@
 
 { "en": "laborious",      "ko": "힘들다",      "fi": "työläs", "fr": "laborieux" },
 
-
+{ "en": "to lose",      "ko": "잃다",      "fi": "menettää, hävitä", "fr": "perdre" },
+{ "en": "lost",      "ko": "잃어버린",      "fi": "menetetty, hävitty", "fr": "perdu" },
 
 { "en": "ratio, proportion",             "ko": "비율",              "fi": "suhde",          "fr": "rapport, ratio" },
 { "en": "wheel",       "ko": "바퀴",       "fi": "pyörä",    "fr": "roue" },
@@ -55,10 +61,14 @@
 
 { "en": "by chance",   "ko": "우연히",    "fi": "sattumalta",   "fr":"par hasard"},
 
+{ "en": "special",         "ko": "특별한",       "fi": "erityinen, erikoinen",          "fr": "spéciale" },
+
 { "en": "president",        "ko": "대통령 (great + command + govern)",          "fi": "presidentti",    "fr": "président" },
 { "en": "government",        "ko": "정부",          "fi": "hallitus",    "fr": "gouvernement" },
 { "en": "embassy",        "ko": "대사관 (great + dispatch + building)",          "fi": "suurlähetystö",    "fr": "ambassade" },
 { "en": "economy",        "ko": "경제",          "fi": "talous",    "fr": "économie" },
+{ "en": "democracy",        "ko": "민주주의",          "fi": "kansanvalta, demokratia",    "fr": "démocratie" },
+{ "en": "society",        "ko": "사회",          "fi": "yhteiskunta",    "fr": "société" },
 
 { "en": "criticize, reproach",  "ko": "비난하다 (blame + blame)",          "fi": "arvostella",    "fr": "critiquer" },
 { "en": "criticize",            "ko": "비판하다 (blame + judge)",          "fi": "arvostella",    "fr": "critiquer" },

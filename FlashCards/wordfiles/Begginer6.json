@@ -46,8 +46,12 @@
 { "en": "poem",         "ko": "시",       "fi": "runo",          "fr": "poème" },
 { "en": "poet",         "ko": "시인",       "fi": "runoilija",          "fr": "poète" },
 
-{ "en": "famous",         "ko": "유명한",       "fi": "kuuluisa",          "fr": "célèbre" },
+{ "en": "series",         "ko": "시리즈",       "fi": "sarja",          "fr": "série" },
+{ "en": "a comeback",         "ko": "컴백",       "fi": "",          "fr": "" },
 
+
+{ "en": "famous",         "ko": "유명한",       "fi": "kuuluisa",          "fr": "célèbre" },
+{ "en": "fan",         "ko": "팬",       "fi": "fani",          "fr": "fan" },
 
 
 { "en": "to draw",         "ko": "그리다",       "fi": "piirtää",          "fr": "dessiner" },

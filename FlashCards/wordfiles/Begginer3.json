@@ -21,15 +21,19 @@
 { "en": "tomorrow",        "ko": "내일",          "fi": "huomenna",    "fr": "demain" },
 { "en": "yesterday",        "ko": "어제",          "fi": "eilen",    "fr": "hier" },
 
-{ "en": "week",         "ko": "주",       "fi": "viikko",          "fr": "semaine" },
+
+{ "en": "minute",       "ko": "분",       "fi": "minuutti",    "fr": "minute" },  
+{ "en": "hour",       "ko": "시간",       "fi": "tunti",    "fr": "heure" },  
+ { "en": "week",         "ko": "주",       "fi": "viikko",          "fr": "semaine" },
 { "en": "year",        "ko": "년",          "fi": "vuosi",    "fr": "année" },
-{ "en": "last year",        "ko": "작년",          "fi": "viime vuonna",    "fr": "année dernière" },
+{
+ "en": "last year",        "ko": "작년",          "fi": "viime vuonna",    "fr": "année dernière" },
 { "en": "this year",        "ko": "올해",          "fi": "tänä vuonna",    "fr": "cette année" },
 { "en": "next",       "ko": " 다음",       "fi": "seuraava, ensi",    "fr": "suivant" },
 { "en": "the day after tomorrow",        "ko": "모레",          "fi": "ylihuomenna",    "fr": "après-demain" },
 { "en": "last night",       "ko": " 어젯밤",       "fi": "",    "fr": "" },
 
-  
+ 
 
 { "en": "search",        "ko": "찾다",          "fi": "hakea",    "fr": "chercher" },
 { "en": "find",        "ko": "발견하다",          "fi": "löytää",    "fr": "trouver" },

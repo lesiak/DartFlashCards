@@ -12,7 +12,8 @@
 { "en": "hand",       "ko": "손",         "fi": "käsi",    "fr": "main" },
 { "en": "left",       "ko": "왼",         "fi": "",    "fr": "" },
 { "en": "right",       "ko": "오른",         "fi": "",    "fr": "" },
-{ "en": "to touch",       "ko": "대다",         "fi": "",    "fr": "" },
+
+{ "en": "to touch",       "ko": "대다",         "fi": "koskea",    "fr": "toucher" }
 { "en": "to raise",       "ko": "들다",         "fi": "",    "fr": "" },
 
 
@@ -33,9 +34,9 @@
 { "en": "chin",       "ko": "턱",         "fi": "leuka",    "fr": "menton" },
 { "en": "jaw",       "ko": "턱",         "fi": "leuka",    "fr": "mâchoire" },
 { "en": "shoulder",       "ko": "어깨",         "fi": "olkapää",    "fr": "épaule" },
-{ "en": "elbow",       "ko": "팔꿈치",         "fi": "kyynärpää",    "fr": "coude" },
+{ "en": "elbow",       "ko": "팔꿈치",         "fi": "kyynärpää",    "fr": "coude" }
 
-{ "en": "to touch",       "ko": "대다",         "fi": "koskea",    "fr": "toucher" }
+
 
 
 

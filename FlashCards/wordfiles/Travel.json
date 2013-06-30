@@ -9,6 +9,16 @@
 { "en": "motorcycle",         "ko": "오토바이",          "fi": "moottoripyörä",    "fr": "moto" },
 
 { "en": "petrol",         "ko": "가솔린",          "fi": "bensiini",    "fr": "essence" },
+{ "en": "petroleum",         "ko": "석유",          "fi": "maaöljy",    "fr": "pétrole" },
+
+{ "en": "east",         "ko": "동쪽, 동부",          "fi": "itä",    "fr": "est" },
+{ "en": "west",         "ko": "서쪽, 서부",          "fi": "länsi",    "fr": "ouest" },
+{ "en": "north",         "ko": "북쪽, 북부",          "fi": "pohjoinen",    "fr": "nord" },
+{ "en": "south",         "ko": "남쪽, 남부",          "fi": "etelä",    "fr": "sud" },
+
+{ "en": "part",         "ko": "부분",          "fi": "osa",    "fr": "partie" },
+{ "en": "region",        "ko": "지방",          "fi": "alue",    "fr": "région" },
+
 
 { "en": "flight",         "ko": "비행 (fly + go)",        "fi": "lento",    "fr": "vol" },
 { "en": "airplane",         "ko": "비행기",        "fi": "lentokone",    "fr": "avion" },

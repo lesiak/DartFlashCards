@@ -23,7 +23,9 @@
 { "en": "graduate",       "ko": "졸업하다",       "fi": "valmistua, suorittaa tutkinto, saada oppiarvo",    "fr": "obtenir sa licence, son diplôme" },
 { "en": "diligently",       "ko": "열심히",       "fi": "ahkerasti",    "fr": "diligemment" },
 
-{ "en": "report",       "ko": "보고서",       "fi": "selvitys, raportti",    "fr": "rapport" }
+{ "en": "report",       "ko": "보고서",       "fi": "selvitys, raportti",    "fr": "rapport" },
+{ "en": "encyclopedia",       "ko": "백과사전",       "fi": "tietosanakirja",    "fr": "encyclopédie" }
+
 
 
 
