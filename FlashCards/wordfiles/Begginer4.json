@@ -27,6 +27,8 @@
 
 
 { "en": "important",        "ko": "중요하다",          "fi": "tärkeä",    "fr": "important" },
+{ "en": "popular",        "ko": "인기 있는, 유명한",          "fi": "suosittu",    "fr": "populaire" },
+
 { "en": "rise",        "ko": "오르다",          "fi": "nousta",    "fr": "augmenter" },
 { "en": "significantly",        "ko": "크게",          "fi": "merkittävästi",    "fr": "significativement" },
 { "en": "advertisment",        "ko": "광고",          "fi": "mainos",    "fr": "publicité" },
@@ -59,6 +61,10 @@
 { "en": "meaning",         "ko": "의미, 뜻",       "fi": "merkitys, tarkoitus",          "fr": "sens, signification" },
 { "en": "to consider",         "ko": "고려하다",       "fi": "harkita",          "fr": "envisager, considérer" },
 { "en": "believe",       "ko": "믿다",       "fi": "uskoa",    "fr": "croire" },
+{ "en": "to expect",       "ko": "예상하다, 기대하다",       "fi": "odottaa",    "fr": "attendre" },
+
+
+{ "en": "to forbid",       "ko": "금하다",       "fi": "kieltää",    "fr": "interdire" },
 
 { "en": "to be used, be utilized",       "ko": "쓰이다",       "fi": "",    "fr": "" },
 { "en": "event",       "ko": "행사",       "fi": "tapahtuma",    "fr": "événement" },

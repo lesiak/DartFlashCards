@@ -46,6 +46,8 @@
 { "en": "to ride",        "ko": "타다",          "fi": "",    "fr": "" },
 { "en": "to burn",        "ko": "타다",          "fi": "",    "fr": "" },
 
+{ "en": "a visit",        "ko": "방문",          "fi": "vierailu",    "fr": "" },
+
 { "en": "class",        "ko": "등",          "fi": "",    "fr": "" },
 { "en": "line",        "ko": "호선",          "fi": "linja",    "fr": "ligne" },
 { "en": "route",        "ko": "노선",          "fi": "reitti",    "fr": "itinéraire, route" },

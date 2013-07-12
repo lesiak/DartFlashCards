@@ -16,6 +16,10 @@
 { "en": "gas",    	"ko": "가스",    "fi": "kaasu" , 	"fr":"gaz"},
 { "en": "match",      "ko": "성냥",    "fi": "tulitikku" ,  "fr":"allumette"},
 
+{ "en": "to continue",    "ko": "계속하다",    "fi": "" , "fr":""},
+{ "en": "to suspect",    "ko": "느끼다",    "fi": "epäillä" , "fr":"suspecter"},
+{ "en": "guilty",    "ko": "유죄의",    "fi": "syyllinen" , "fr":"coupable"},
+
 
 { "en": "stalker",    "ko": "스토커",    "fi": "ahdistelija" , "fr":"rôdeur"},
 
@@ -28,7 +32,7 @@
 
 
 
-{ "en": "to continue",    "ko": "계속하다",    "fi": "" , "fr":""},
+
 
 
 { "en": "ocean",    "ko": "대양, 해양",    "fi": "" , "fr":""},

@@ -46,6 +46,11 @@
 { "en": "poem",         "ko": "시",       "fi": "runo",          "fr": "poème" },
 { "en": "poet",         "ko": "시인",       "fi": "runoilija",          "fr": "poète" },
 
+{ "en": "channel",         "ko": "채널",      "fi": "kanava",    "fr": "canal" },
+{ "en": "program",         "ko": "프로그램",      "fi": "ohjelma",    "fr": "programme" },
+
+{ "en": "interview",         "ko": "인터뷰",       "fi": "haastattelu",          "fr": "entretien" },
+
 { "en": "series",         "ko": "시리즈",       "fi": "sarja",          "fr": "série" },
 { "en": "a comeback",         "ko": "컴백",       "fi": "",          "fr": "" },
 
