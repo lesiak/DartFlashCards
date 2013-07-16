@@ -38,6 +38,7 @@
 { "en": "size",    "ko": "사이즈",    "fi": "koko, suuruus" , "fr":"taille"},
 { "en": "shoelace",    "ko": "신발 끈",    "fi": "kengännauha" , "fr":"lacet"},
 
+{ "en": "quality",         "ko": "품질",       "fi": "laatu",          "fr": "qualité" },
 
 { "en": "make, manufacture, tailor",         "ko": "짓다",       "fi": "",          "fr": "" }
 

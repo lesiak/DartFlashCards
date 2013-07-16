@@ -72,6 +72,8 @@
 { "en": "to develop (a photo)",     "ko": "인화하다",       "fi": "",     "fr": "" },
 
 { "en": "passport",     "ko": "여권",       "fi": "passi",     "fr": "passeport" },
+{ "en": "visa",     "ko": "",       "fi": "viisumi",     "fr": "visa" },
+
 { "en": "sunbathe",     "ko": "일광욕을하다",       "fi": "ottaa aurinkoa",     "fr": "bronzer" },
 { "en": "to commute",     "ko": "통근하다",       "fi": "",     "fr": "" }
 

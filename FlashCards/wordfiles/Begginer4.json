@@ -28,6 +28,9 @@
 
 { "en": "important",        "ko": "중요하다",          "fi": "tärkeä",    "fr": "important" },
 { "en": "popular",        "ko": "인기 있는, 유명한",          "fi": "suosittu",    "fr": "populaire" },
+{ "en": "popularity",        "ko": "인기",          "fi": "suosio",    "fr": "popularité" },
+{ "en": "favorite",        "ko": "",          "fi": "suosikki",    "fr": "favori, préféré" },
+
 
 { "en": "rise",        "ko": "오르다",          "fi": "nousta",    "fr": "augmenter" },
 { "en": "significantly",        "ko": "크게",          "fi": "merkittävästi",    "fr": "significativement" },
@@ -60,9 +63,9 @@
 { "en": "sincere",         "ko": "진실하다",       "fi": "vilpitön",          "fr": "sincère" },
 { "en": "meaning",         "ko": "의미, 뜻",       "fi": "merkitys, tarkoitus",          "fr": "sens, signification" },
 { "en": "to consider",         "ko": "고려하다",       "fi": "harkita",          "fr": "envisager, considérer" },
-{ "en": "believe",       "ko": "믿다",       "fi": "uskoa",    "fr": "croire" },
+{ "en": "believe",       "ko": "믿다",       "fi": "uskoa (siihen)",    "fr": "croire" },
 { "en": "to expect",       "ko": "예상하다, 기대하다",       "fi": "odottaa",    "fr": "attendre" },
-
+{ "en": "to intend",       "ko": "",       "fi": "aikoa",    "fr": "avoir l'intention" },
 
 { "en": "to forbid",       "ko": "금하다",       "fi": "kieltää",    "fr": "interdire" },
 

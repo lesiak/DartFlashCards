@@ -60,6 +60,13 @@
 { "en": "to show",    "ko": "가리키다",    "fi": "näyttää" , "fr":"montrer"},
 { "en": "to be born",    "ko": "태어나다",    "fi": "syntyä" , "fr":"naître"},
 
+{ "en": "loss",    "ko": "손실, 상실",    "fi": "tappio, menetys, häviö (on tehnyt koko ajan tappiota)" , "fr":"perte"},
+{ "en": "gain",    "ko": "획득, 이득",    "fi": "hyöty" , "fr":"gain, profit"},
+
+{ "en": "to lose",    "ko": "",    "fi": "menettää" , "fr":"perdre"},
+{ "en": "to reduce",    "ko": "",    "fi": "vähentää, alentaa, pienentää" , "fr":"réduire, diminuer"},
+{ "en": "to lay off",    "ko": "",    "fi": "lomauttaa" , "fr":"mettre en chômage"},
+{ "en": "to decrease",    "ko": "",    "fi": "vähentää, pienentää, laskea" , "fr":"réduire"},
 
 { "en": "to arrange, organize",    "ko": "배치하다",    "fi": "järjestää" , "fr":"arranger, organiser"},
 { "en": "to lead",    "ko": "안내하다",    "fi": "johtaa" , "fr":"diriger, commander"}

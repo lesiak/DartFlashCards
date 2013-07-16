@@ -16,13 +16,24 @@
 { "en": "prostitute",         "ko": "창녀",       "fi": "",          "fr": "" },
 { "en": "fisherman",    "ko": "어부",    "fi": "kalastaja" , "fr":"pêcheur"},
 
+{ "en": "miner",    "ko": "갱부",    "fi": "kaivosmies" , "fr":"mineur"},
+{ "en": "mine",    "ko": "광산, 갱도",    "fi": "kaivos" , "fr":"mine"},
+
+
 { "en": "prosecutor",        "ko": "검사",          "fi": "syyttäjä",    "fr": "procureur" },
 
 { "en": "waiter",    "ko": "웨이터",    "fi": "tarjoilija" , "fr":"serveur"},
 { "en": "policeman",    "ko": "경찰관",    "fi": "poliisi" , "fr":"policier, gendarme"},
 
+{ "en": "beggar",         "ko": "거지",       "fi": "kerjäläinen",          "fr": "mendiant" },
+{ "en": "begging",         "ko": "구걸",       "fi": "kerjääminen",          "fr": "la mendicité" },
+{ "en": "to beg",         "ko": "구걸하다",       "fi": "kerjätä",          "fr": "mendier" },
+
+
 { "en": "criminal",         "ko": "범인 (violate + people)",       "fi": "rikollinen",          "fr": "criminel" },
 { "en": "crime",         "ko": "범죄 (violate + fault)",       "fi": "rikollisuus, rikos",     "fr": "crime" },
+{ "en": "victim",         "ko": "희생자",       "fi": "uhri",     "fr": "victime" },
+
 { "en": "law",         "ko": "법",       "fi": "laki",     "fr": "loi" },
 { "en": "rule, law",         "ko": "법칙 (law + rule)",       "fi": "sääntö",     "fr": "règle" }
 

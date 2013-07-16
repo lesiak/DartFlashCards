@@ -1,9 +1,6 @@
 [
 
-
 { "en": "machine",        "ko": "기계",    	"fi": "kone",    "fr": "machine" },  
-
-
 
 { "en": "fire",         "ko": "불",			"fi": "palo",    "fr": "feu" },
 { "en": "light",        "ko": "빛",        	"fi": "valo",    "fr": "lumière" },
@@ -33,8 +30,8 @@
 { "en": "weather",        "ko": "날씨",          "fi": "sää, ilma",    "fr": "temps" },
 { "en": "climate",        "ko": "기후",          "fi": "ilmasto",    "fr": "climat" },
 
-{ "en": "sunset",        "ko": "일몰",          "fi": "",    "fr": "" },
-{ "en": "sunrise",        "ko": "해돋이",          "fi": "",    "fr": "" },
+{ "en": "sunset",        "ko": "일몰",          "fi": "auringonlasku",    "fr": "coucher du soleil" },
+{ "en": "sunrise",        "ko": "해돋이",          "fi": "auringonnousu",    "fr": "lever du soleil" },
 
 
 { "en": "world",        "ko": "세계",          "fi": "maailma",    "fr": "monde" },
@@ -49,7 +46,9 @@
 { "en": "make",       "ko": "만들다",       "fi": "tehdä",    "fr": "faire" },
 { "en": "see",       "ko": "보다",       "fi": "nähdä",    "fr": "voir" },
 { "en": "to be seen",       "ko": "보이다",       "fi": "",    "fr": "" },
-{ "en": "to show",       "ko": "보여주다",       "fi": "",    "fr": "" },
+{ "en": "to show",       "ko": "보여주다",       "fi": "näyttää",    "fr": "montrer" },
+
+{ "en": "to look",       "ko": "보이다 (??)",       "fi": "näyttää, katsoa",    "fr": "regarder" },
 
 { "en": "hear",       "ko": "듣다",       "fi": "kuulla",    "fr": "entendre" },
 { "en": "listen",         "ko": "듣다",       "fi": "kuunnella",          "fr": "écouter" },

@@ -70,8 +70,8 @@
 { "en": "small",       "ko": " 작다",       "fi": "pieni",    "fr": "petit" },
 { "en": "big",       "ko": " 크다",       "fi": "iso, suuri",    "fr": "grand" },
 
-{ "en": "short (height)",       "ko": "키가 작다",       "fi": "",    "fr": "" },
-{ "en": "tall (height)",       "ko": " 키가 크다",       "fi": "",    "fr": "" },
+{ "en": "short (height)",       "ko": "키가 작다",       "fi": "",    "fr": "petit" },
+{ "en": "tall (height)",       "ko": " 키가 크다",       "fi": "korkea",    "fr": "haut, grand" },
 
 
 

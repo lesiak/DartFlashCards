@@ -23,7 +23,9 @@
 
 { "en": "fight",        "ko": "싸우다",          "fi": "taistella",    "fr": "combattre" },
 { "en": "defense",        "ko": "방어",          "fi": "puolustus",    "fr": "défense" },
+{ "en": "to defend",        "ko": "",          "fi": "puolustaa",    "fr": "défendre" },
 { "en": "attack",        "ko": "공격",          "fi": "hyökkäys",    "fr": "attaque" },
+
 { "en": "sword",        "ko": "검",          "fi": "miekka",    "fr": "épée" },
 { "en": "bow",        "ko": "활",          "fi": "jousi",    "fr": "arc" }
 

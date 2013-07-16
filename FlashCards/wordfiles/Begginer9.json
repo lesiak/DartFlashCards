@@ -14,6 +14,9 @@
 
 { "en": "Buddhism",   "ko": "불교",    "fi": "buddhalaisuus",   "fr":"bouddhisme"},
 
+{ "en": "voluntarily",   "ko": "자발적으로",    "fi": "vapaaehtoisesti",   "fr":"volontairement"},
+{ "en": "to be related to",   "ko": "",    "fi": "vapaaehtoisesti",   "fr":"être liée à"},
+{ "en": "to support",   "ko": "",    "fi": "kannattaa",   "fr":"supporter, soutenir"},
 
 
 { "en": "to run away",   "ko": "도망가다",    "fi": "",   "fr":""},
