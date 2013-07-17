@@ -17,17 +17,18 @@ class DownloaderUI {
   
   void initProgress() {
     query("#progressDiv").hidden=false;
-    query("#progressBar").style.width = "0%";
+    query("#progressBarSuccess").style.width = "0%";
+    query("#progressBarFailure").style.width = "0%";
   }
   
   void step(bool success) {
     if (success) {
-      ++currentSucc;  
+      ++currentSucc;
+      query("#progressBarSuccess").style.width = "${(currentSucc*100)/total}%";
     } else {
       ++currentFail;
-    }
-    var valPercent = ((currentSucc + currentFail)*100)/total; 
-    query("#progressBar").style.width = "${valPercent}%";
+      query("#progressBarFailure").style.width = "${(currentFail*100)/total}%";
+    }            
     print('succ: ${currentSucc}, fail = ${currentFail}, total: ${total}');
     
     if ((currentSucc + currentFail) == total) {
