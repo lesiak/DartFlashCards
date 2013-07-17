@@ -20,7 +20,7 @@ class FileCache {
     window.storageInfo.requestQuota(Window.PERSISTENT, quota)
       .then((size) => print("Granted quota $size"), onError: (e) => print(e));
     window.requestFileSystem(quota, persistent: true)
-        .then(_requestFileSystemCallback, onError: (e) => _logFileError(e.error));
+        .then(_requestFileSystemCallback, onError: (e) => _logFileError(e));
   }
   
   void _requestFileSystemCallback(FileSystem filesystem) {

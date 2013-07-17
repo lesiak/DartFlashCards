@@ -83,14 +83,17 @@
           						<tr><td class="summaryheader">Progress</td><td id="deckProgress">0</td></tr>
           						</tbody>
           					</table>
-        					</div>  					
+        					</div>        					          					                    					
       					</div>
       					
       					<p>
       					<button id="startButton" class="btn btn-large btn-large btn-info">Start</button>
       					<button id="clearResultsButton" class="btn btn-large btn-large btn-info">Clear results</button>
-      					<button id="fetchPronoButton" class="btn btn-large btn-large btn-info">Fetch Pronunciation</button>
+      					<button id="fetchPronoButton" class="btn btn-large btn-large btn-info">Fetch Pronunciation</button>      					
       					</p>
+      					<div id="progressDiv" class="progress progress-striped" hidden>
+                      <div id="progressBar" class="bar" style="width: 0%;"></div>
+                </div>
       					<table id="wordTable" class="table table-striped table-bordered ">
       						<thead>
       						<tr>

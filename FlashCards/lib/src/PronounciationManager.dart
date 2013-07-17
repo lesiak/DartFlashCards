@@ -4,6 +4,8 @@ typedef void ForvoResonseCallback(HttpRequest req);
 
 typedef void PlayMp3Method(String url);
 
+typedef void FetchProgressStepMethod(bool success);
+
 class PronounciationManager {
   
   static final String forvoKey="ca19d7cd6c0d10ed257b2d23960933ee";
@@ -20,42 +22,65 @@ class PronounciationManager {
     this.mp3Player = new Mp3Player(playMp3FromUrl);
   }
   
-  void fetchMissingPronunciations(String lang, String word) {
+  void fetchMissingPronunciations(String lang, String word, FetchProgressStepMethod fetchProgressStepMethod) {
     if (hasForvoResponseInLocalStorage(lang, word)) {
       print ('found pronounciation list for ${lang}/${word} in localStorage');
+      fetchProgressStepMethod(true);
     } else {
-      fetchPronunciations(lang, word);
+      fetchPronunciations(lang, word, fetchProgressStepMethod);
     }    
   }
   
-  void fetchPronunciations(String lang, String word) {
+  void fetchPronunciations(String lang, String word, FetchProgressStepMethod fetchProgressStepMethod) {
     print("fetching prono " + lang + " " + word);
     getForvoPronunciations(lang, word)
-      .then((req) => _fetchPronunciationsSuccessCallback(req, lang, word),
-        onError: (asyncError) =>print(asyncError) );
+      .then((req) => _fetchPronunciationsSuccessCallback(req, lang, word, fetchProgressStepMethod),
+        onError: (asyncError) {
+          fetchProgressStepMethod(false);
+          print(asyncError);
+        });
   }
   
-  void _fetchPronunciationsSuccessCallback(HttpRequest req, String lang, String word) {
+  void _fetchPronunciationsSuccessCallback(HttpRequest req, String lang, String word, FetchProgressStepMethod fetchProgressStepMethod) {
     String responseText = req.responseText;
-    if (!responseText.isEmpty) {
-      ForvoResponse r = new ForvoResponse.fromJsonString(lang, word, responseText);
-      if (r.items.length > 0) {        
-        Future.forEach(r.items, (item) {
-          var filename = '${word}_${item.username}.ogg';
-          Future ret = fileCache.readEntry(lang, filename)
-          .then( (entry) {
-            print('already exists ${filename}, at url: ${item.pathogg}');
-            return entry;
-          })
-          .catchError((error) => _fetchMp3(lang, word, item))
-          .then((entry) {             
-            item.pathogg = entry.toUrl();                                    
-          });
-          return ret;
-        }).then((val) => saveForvoResponseToLocalStorage(lang, word, r))
-          .catchError((error) => print(error));
-      }
+    if (responseText.isEmpty) {
+      print('empty response');
+      fetchProgressStepMethod(false);
+      return;      
     }
+    ForvoResponse r;
+    try {
+     r = new ForvoResponse.fromJsonString(lang, word, responseText);
+    } catch(e) {
+      fetchProgressStepMethod(false);
+      print(e);
+      return;
+    }
+    if (r.items.length > 0) {        
+      Future.forEach(r.items, (item) {
+        var filename = '${word}_${item.username}.ogg';
+        Future ret = fileCache.readEntry(lang, filename)
+        .then( (entry) {
+          print('already exists ${filename}, at url: ${item.pathogg}');
+          return entry;
+        })
+        .catchError((error) => _fetchMp3(lang, word, item))
+        .then((entry) {             
+          item.pathogg = entry.toUrl();                                    
+        });
+        return ret;
+      }).then((val) {
+        saveForvoResponseToLocalStorage(lang, word, r);
+        fetchProgressStepMethod(true);
+      }).catchError((error) { 
+        fetchProgressStepMethod(false);
+        print(error);
+      });
+    }
+    else {
+      print('no items in response');
+      fetchProgressStepMethod(false);
+    }   
   }
   
   void saveForvoResponseToLocalStorage(String lang, String word, ForvoResponse r) {    

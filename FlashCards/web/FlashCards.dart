@@ -1,6 +1,7 @@
 import 'dart:html';
 import '../lib/flashcards_core.dart';
 import '../lib/filecache_api.dart';
+import 'DownloaderUI.dart';
 import 'FlashCardsUI.dart';
 
 class FlashCardsApp {
@@ -127,12 +128,14 @@ class FlashCardsApp {
     showDeckData();
   }
   
-  void fetchPronunciations() {            
+  void fetchPronunciations() {
+    DownloaderUI downloaderUI = new DownloaderUI(engine.allCardsInDeck.length * 4);
+    downloaderUI.initProgress();    
     for (Card card in engine.allCardsInDeck) {
-      ui.pronounciationManager.fetchMissingPronunciations("en", ui.sanitizeWord("en", card.en));
-      ui.pronounciationManager.fetchMissingPronunciations("ko", ui.sanitizeWord("ko", card.ko));  
-      ui.pronounciationManager.fetchMissingPronunciations("fi", ui.sanitizeWord("fi", card.fi));
-      ui.pronounciationManager.fetchMissingPronunciations("fr", ui.sanitizeWord("fr", card.fr));
+      ui.pronounciationManager.fetchMissingPronunciations("en", ui.sanitizeWord("en", card.en), downloaderUI.step);      
+      ui.pronounciationManager.fetchMissingPronunciations("ko", ui.sanitizeWord("ko", card.ko), downloaderUI.step);  
+      ui.pronounciationManager.fetchMissingPronunciations("fi", ui.sanitizeWord("fi", card.fi), downloaderUI.step);
+      ui.pronounciationManager.fetchMissingPronunciations("fr", ui.sanitizeWord("fr", card.fr), downloaderUI.step);
     }
   }
   
