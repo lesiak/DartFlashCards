@@ -64,6 +64,15 @@ class FlashCardsApp {
         
     query("#homePill").onClick.listen((e) => goToHomePanel());
     
+    ImageElement imgFlag = query("#imgFlag"); 
+    imgFlag.onClick.listen((e) {      
+      if (imgFlag.src.endsWith('svgFlags/Flag_of_Republic_of_Korea.svg')) {
+        imgFlag.src = '../assets/svgFlags/Flag_of_Finland_1920-1978_(State).svg';
+      } else {
+        imgFlag.src = '../assets/svgFlags/Flag_of_Republic_of_Korea.svg';  
+      }      
+    });
+    
     Element level1Tab = query("#level1Tab");
     Element level2Tab = query("#level2Tab");
     
