@@ -65,6 +65,8 @@
 
 { "en": "president",        "ko": "대통령 (great + command + govern)",          "fi": "presidentti",    "fr": "président" },
 { "en": "government",        "ko": "정부",          "fi": "hallitus",    "fr": "gouvernement" },
+{ "en": "authorities",        "ko": "당국",          "fi": "viranomaiset",    "fr": "autorités" },
+
 { "en": "embassy",        "ko": "대사관 (great + dispatch + building)",          "fi": "suurlähetystö",    "fr": "ambassade" },
 { "en": "economy",        "ko": "경제",          "fi": "talous",    "fr": "économie" },
 { "en": "democracy",        "ko": "민주주의",          "fi": "kansanvalta, demokratia",    "fr": "démocratie" },
@@ -74,7 +76,8 @@
 { "en": "criticize",            "ko": "비판하다 (blame + judge)",          "fi": "arvostella",    "fr": "critiquer" },
 { "en": "critical",            "ko": "비판적 (blame + judge + of)",          "fi": "kriittinen",    "fr": "critique" },
 
-{ "en": "security",            "ko": "보안 (keep + comfortable)",          "fi": "turvallisuus",    "fr": "sécurité" }
+{ "en": "security",            "ko": "보안 (keep + comfortable)",          "fi": "turvallisuus",    "fr": "sécurité" },
+{ "en": "safe",            "ko": "안전한 (?)",          "fi": "turvallinen",    "fr": "sauf" }
 
   
 ]

@@ -18,6 +18,7 @@ class FlashCardsApp {
                      'Home',
                      'City',
                      'Travel',
+                     'Holiday',
                      'Clothes',
                      'Food',
                      'Animals',

@@ -48,7 +48,7 @@
 { "en": "honey",       "ko": "꿀",         "fi": "hunaja",    "fr": "miel" },
 { "en": "candy",       "ko": "사탕",         "fi": "karkki, karamelli",    "fr": "bonbon" },
 { "en": "sandwich",       "ko": "샌드위치",         "fi": "voileipä",    "fr": "sandwich" },
-{ "en": "sushi",       "ko": "초밥 (vinegar + rice)",         "fi": "",    "fr": "" },
+{ "en": "sushi",       "ko": "스시, 일본식 초밥 (vinegar + rice)",         "fi": "",    "fr": "" },
 
 { "en": "ice cream",       "ko": "아이스크림",         "fi": "jäätelö",    "fr": "crème glacée" },
 { "en": "alkohol",       "ko": "알코올",         "fi": "alkoholi",    "fr": "alcool" },
