@@ -37,8 +37,8 @@
 
 
 { "en": "prison",         "ko": "교도소",       "fi": "",          "fr": "" },
-{ "en": "city",         "ko": "도시",       "fi": "",          "fr": "" },
-{ "en": "village",         "ko": "마을",       "fi": "",          "fr": "" },
+{ "en": "city",         "ko": "도시",       "fi": "kaupunki",          "fr": "ville" },
+{ "en": "village",         "ko": "마을",       "fi": "kylä",          "fr": "village" },
 { "en": "hotel",         "ko": "호텔",       "fi": "",          "fr": "" },
 { "en": "factory",         "ko": "공장",       "fi": "",          "fr": "" },
 { "en": "statue",         "ko": "상",       "fi": "",          "fr": "" },

@@ -1,5 +1,6 @@
 [
 
+{ "en": "credit card",         "ko": "신용 카드, 크레디트 카드",    "fi": "luottokortti",          "fr": "carte de crédit" },
 { "en": "discount",         "ko": "할인",    "fi": "alennus",          "fr": "réduction, rabais, remise" },
 { "en": "a fine, penalty",         "ko": "벌금",    "fi": "sakko",          "fr": "amende" },
 { "en": "debt",             "ko": "빚",              "fi": "velka",          "fr": "dette, créance" },

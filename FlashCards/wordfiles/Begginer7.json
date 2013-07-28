@@ -13,6 +13,8 @@
 { "en": "smell",    	"ko": "냄새",    "fi": "haju, tuoksu", 	"fr":"odeur"},
 { "en": "to smell",    	"ko": "냄새가 나다",    "fi": "tuoksua", 	"fr":"sentir"},
 
+{ "en": "plant",    	"ko": "식물 (plant + thing)",    "fi": "kasvi", 	"fr":"plante"},
+
 { "en": "gas",    	"ko": "가스",    "fi": "kaasu" , 	"fr":"gaz"},
 { "en": "match",      "ko": "성냥",    "fi": "tulitikku" ,  "fr":"allumette"},
 

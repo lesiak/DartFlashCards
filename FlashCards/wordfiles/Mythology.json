@@ -9,6 +9,7 @@
 { "en": "hero",         "ko": "영웅",       "fi": "",          "fr": "" },
 { "en": "god",         "ko": "여신",       "fi": "jumala",          "fr": "dieu" },
 { "en": "goddess",         "ko": "신",       "fi": "jumalatar",          "fr": "déesse" },
-{ "en": "paradise, heaven",         "ko": "천국 (heavan + country)",       "fi": "paratiisi",     "fr": "paradis" }
+{ "en": "paradise, heaven",         "ko": "천국 (heavan + country)",       "fi": "paratiisi",     "fr": "paradis" },
+{ "en": "myth",         "ko": "신화 (god + talk)",       "fi": "myytti",     "fr": "mythe" }
 
 ]

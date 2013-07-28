@@ -58,6 +58,8 @@
 { "en": "sweet",        "ko": "달다",       "fi": "makea",        "fr": "doux" },
 { "en": "bitter",       "ko": "쓰다",       "fi": "kitkerä",      "fr": "amer" },
 { "en": "spicy",        "ko": "맵다",       "fi": "mausteinen" ,  "fr":"piquant"},
+{ "en": "fresh",        "ko": "신선한",       "fi": "tuore" ,  "fr":"frais"},
+
 { "en": "cuisine",      "ko": "요리",       "fi": "keittiö",      "fr": "cuisine" },
 { "en": "chef",         "ko": "요리사",     "fi": "kokki",        "fr": "chef de cuisine" },
 

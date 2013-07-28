@@ -16,6 +16,7 @@
 { "en": "deliver",       "ko": "배달하다",       "fi": "toimittaa",    "fr": "livrer" },
 
 { "en": "to need",         "ko": "필요하다",       "fi": "tarvita",          "fr": "avoir besoin de" },
+{ "en": "to want",         "ko": "싶다",       "fi": "haluta",          "fr": "vouloir" },
 
 { "en": "joyful",        "ko": "즐겁다",          "fi": "iloinen",    "fr": "joyeux" },
 

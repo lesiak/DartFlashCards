@@ -2,7 +2,7 @@
 
 
 { "en": "chest",       "ko": "가슴",         "fi": "rinta",    "fr": "poitrine" },
-{ "en": "heart",       "ko": "심장",         "fi": "sydän",    "fr": "cœur" },
+{ "en": "heart",       "ko": "심장 (heart + organ)",         "fi": "sydän",    "fr": "cœur" },
 { "en": "leg",       "ko": "다리",         "fi": "jalka",    "fr": "jambe" },
 { "en": "foot",       "ko": "발",         "fi": "jalka",    "fr": "pied" },
 { "en": "neck",       "ko": "목",         "fi": "kaula",    "fr": "cou" },
@@ -34,7 +34,10 @@
 { "en": "chin",       "ko": "턱",         "fi": "leuka",    "fr": "menton" },
 { "en": "jaw",       "ko": "턱",         "fi": "leuka",    "fr": "mâchoire" },
 { "en": "shoulder",       "ko": "어깨",         "fi": "olkapää",    "fr": "épaule" },
-{ "en": "elbow",       "ko": "팔꿈치",         "fi": "kyynärpää",    "fr": "coude" }
+{ "en": "elbow",       "ko": "팔꿈치",         "fi": "kyynärpää",    "fr": "coude" },
+
+{ "en": "mentality",       "ko": "심리 (heart + principle)",         "fi": "mentaliteetti, mielenlaatu",    "fr": "mentalité" },
+{ "en": "psychology",       "ko": "심리학 (heart + principle + study)",         "fi": "psykologia, sielutiede",    "fr": "psychologie" },
 
 
 
