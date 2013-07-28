@@ -9,7 +9,8 @@
 { "en": "decision",    "ko": "결정",    "fi": "päätös" , "fr":"décision"},
 
 { "en": "cause, reason",    "ko": "원인",    "fi": "syy" , "fr":"cause, raison "},
-
+{ "en": "a promise",    "ko": "약속 (contract + bind)",    "fi": "lupaus" , "fr":"promesse"},
+{ "en": "to promise",    "ko": "약속하다",    "fi": "luvata" , "fr":"promettre"},
 
 { "en": "choose",     "ko": "고르다",    "fi": "valita" , "fr":"choisir"},
 { "en": "choice",     "ko": "선택",    "fi": "valinta, valikoima" , "fr":"choix"},
@@ -35,6 +36,11 @@
 
 { "en": "harmful",      "ko": "해롭다",      "fi": "haitallinen, vahingollinen", "fr": "nuisible" },
 { "en": "advantageous, beneficial",      "ko": "이롭다",      "fi": "edullinen", "fr": "avantageux" },
+
+{ "en": "strong",         "ko": "강하다",       "fi": "vahva",          "fr": "forte" },
+{ "en": "weak",         "ko": "약하다",       "fi": "heikko",          "fr": "faible" },
+
+{ "en": "weakness, weak point",         "ko": "약점 (weak + point)",       "fi": "heikkous",          "fr": "faiblesse, point faible" },
 
 { "en": "laborious",      "ko": "힘들다",      "fi": "työläs", "fr": "laborieux" },
 

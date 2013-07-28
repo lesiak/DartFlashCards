@@ -14,6 +14,7 @@
 { "en": "fox",      "ko": "여우",     "fi": "kettu",   "fr": "renard" },
 { "en": "snake",      "ko": "뱀",     "fi": "käärme",   "fr": "serpent" },
 { "en": "bear",      "ko": "곰",     "fi": "karhu",   "fr": "ours" },
+{ "en": "monkey",      "ko": "원숭이",     "fi": "apina",   "fr": "singe" },
 
 { "en": "bird",      "ko": "새",     "fi": "lintu",   "fr": "oiseau" },
 { "en": "duck",      "ko": "오리",     "fi": "ankka",   "fr": "canard" },

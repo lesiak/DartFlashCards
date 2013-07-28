@@ -9,6 +9,9 @@
 { "en": "calendar",       "ko": "달력 (month + calendar)",    "fi": "kalenteri",    "fr":"calendrier"},
 { "en": "hard, solid",       "ko": "단단하다",    "fi": "kova",    "fr":"dur"},
 
+{ "en": "shallow",       "ko": "얕다",    "fi": "matala",    "fr":"peu profond"},
+{ "en": "deep",       "ko": "깊다",    "fi": "syvä",    "fr":"profond"},
+
 
 { "en": "smell",    	"ko": "냄새",    "fi": "haju, tuoksu", 	"fr":"odeur"},
 { "en": "to smell",    	"ko": "냄새가 나다",    "fi": "tuoksua", 	"fr":"sentir"},
@@ -22,7 +25,7 @@
 { "en": "to suspect",    "ko": "느끼다",    "fi": "epäillä" , "fr":"suspecter"},
 { "en": "guilty",    "ko": "유죄의",    "fi": "syyllinen" , "fr":"coupable"},
 
-
+{ "en": "showy, gaudy, tawdry",    "ko": "야하다",    "fi": "" , "fr":""},
 { "en": "stalker",    "ko": "스토커",    "fi": "ahdistelija" , "fr":"rôdeur"},
 
 

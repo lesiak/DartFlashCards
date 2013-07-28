@@ -2,8 +2,8 @@
 { "en": "hobby",        "ko": "취미",       "fi": "mieliharrastus", "fr": "hobby" },
 { "en": "football",     "ko": "축구 (kick + ball)",       "fi": "jalkapallo",     "fr": "football" },
 { "en": "volleyball",     "ko": "배구 (push + ball)",       "fi": "lentopallo",     "fr": "volley-ball" },
-{ "en": "basketball",     "ko": "농구",       "fi": "koripallo",     "fr": "basket-ball" },
-{ "en": "baseball",     "ko": "야구",       "fi": "baseball",     "fr": "base-ball" },
+{ "en": "basketball",     "ko": "농구 (bamboo basket + ball)",       "fi": "koripallo",     "fr": "basket-ball" },
+{ "en": "baseball",     "ko": "야구 (field + ball)",       "fi": "baseball",     "fr": "base-ball" },
 { "en": "badminton",     "ko": "배드민턴",       "fi": "sulkapallo",     "fr": "badminton" },
 
 { "en": "team",    "ko": " 팀",    "fi": "" , "fr":""},
