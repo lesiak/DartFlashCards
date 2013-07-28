@@ -65,7 +65,7 @@
 { "en": "parents",        "ko": "부모",          "fi": "vanhemmat",    "fr": "parents" },
 { "en": "single parent",        "ko": "단일 부모",          "fi": "yksinhuoltaja",    "fr": "" },
 
-{ "en": "marriage",        "ko": "결혼",          "fi": "avioliitto, häät",    "fr": "mariage" },
+{ "en": "marriage",        "ko": "결혼 (tie + marry)",          "fi": "avioliitto, häät",    "fr": "mariage" },
 { "en": "to get married",        "ko": "결혼하다",          "fi": "mennä naimisiin",    "fr": "se marier" },
 { "en": "bride",        "ko": "신부 (new + wife)",          "fi": "morsian",    "fr": "mariée" },
 

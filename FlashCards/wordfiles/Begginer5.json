@@ -4,16 +4,18 @@
 { "en": "to answer",       "ko": "답변하다, 대답하다",       "fi": "vastata",    "fr": "répondre" },
 
 { "en": "solution",       "ko": "해결",       "fi": "ratkaisu",    "fr": "solution" },
-{ "en": "result",    "ko": "결과",    "fi": "tulos" , "fr":"résultat"},
+{ "en": "result",    "ko": "결과 (finish + result)",    "fi": "tulos" , "fr":"résultat"},
+
+{ "en": "decision",    "ko": "결정 (decide + decide)",    "fi": "päätös" , "fr":"décision"},
 { "en": "to decide",    "ko": "결정하다",    "fi": "päättää" , "fr":"décider"},
-{ "en": "decision",    "ko": "결정",    "fi": "päätös" , "fr":"décision"},
+
 
 { "en": "cause, reason",    "ko": "원인",    "fi": "syy" , "fr":"cause, raison "},
 { "en": "a promise",    "ko": "약속 (contract + bind)",    "fi": "lupaus" , "fr":"promesse"},
 { "en": "to promise",    "ko": "약속하다",    "fi": "luvata" , "fr":"promettre"},
 
-{ "en": "choose",     "ko": "고르다",    "fi": "valita" , "fr":"choisir"},
-{ "en": "choice",     "ko": "선택",    "fi": "valinta, valikoima" , "fr":"choix"},
+{ "en": "choose",     "ko": "고르다, 선택하다",    "fi": "valita" , "fr":"choisir"},
+{ "en": "choice",     "ko": "선택 (select + select)",    "fi": "valinta, valikoima" , "fr":"choix"},
 
 { "en": "warm",     "ko": "따뜻하다",    "fi": "lämmin" , "fr":"chaud"},
 { "en": "cold",     "ko": "춥다",    "fi": "kylmä" , "fr":"froid"},

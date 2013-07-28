@@ -75,7 +75,7 @@
 
 { "en": "meal",         "ko": "식사",       "fi": "ateria",    "fr": "repas" },
 { "en": "dessert",         "ko": "디저트, 후식",       "fi": "jälkiruoka",    "fr": "dessert" },
-
+{ "en": "snack",         "ko": "간식 (between + meal)",       "fi": "välipala, pientä purtavaa",    "fr": "casse-croûte" },
 { "en": "waiter",       "ko": "웨이터",     "fi": "tarjoilija" , "fr":"serveur"}
 
 
