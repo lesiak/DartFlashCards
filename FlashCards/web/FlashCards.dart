@@ -15,6 +15,7 @@ class FlashCardsApp {
                      'Begginer4',
                      'Begginer5',
                      'Begginer6',
+                     'Sport',
                      'Home',
                      'City',
                      'Travel',

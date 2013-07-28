@@ -52,7 +52,10 @@
 
 { "en": "hear",       "ko": "듣다",       "fi": "kuulla",    "fr": "entendre" },
 { "en": "listen",         "ko": "듣다",       "fi": "kuunnella",          "fr": "écouter" },
-{ "en": "be heard",         "ko": "들리다",       "fi": "",          "fr": "" }
+{ "en": "be heard",         "ko": "들리다",       "fi": "",          "fr": "" },
+{ "en": "to need",         "ko": "필요하다",       "fi": "tarvita",          "fr": "avoir besoin de" },
+{ "en": "to want",         "ko": "싶다",       "fi": "haluta",          "fr": "vouloir" }
+
 
 
 

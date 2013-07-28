@@ -1,8 +1,5 @@
 [
 
-{ "en": "reliable",         	"ko": "믿음직하다",       "fi": "luotettava",          "fr": "fiable" },
-{ "en": "likely (probable)",	"ko": "음직하다",       "fi": "todennäköinen",      "fr": "probable" },
-{ "en": "likely (probably)",   	"ko": "아마도",       "fi": "todennäköisesti",      "fr": "probablement" },
 
 { "en": "generally",         "ko": "일반적으로",       "fi": "yleensä, tavallisesti",          "fr": "généralement, en général" },
 
@@ -51,7 +48,7 @@
 { "en": "traffic",    "ko": "교통",    "fi": "liikenne" , "fr":"circulation"},
 
 { "en": "police station",    "ko": "경찰서",    "fi": "poliisiasema" , "fr":"poste de police"},
-{ "en": "rubbish",    "ko": "쓰레기",    "fi": "roska" , "fr":"déchets"},
+
 
 { "en": "Air conditioning",    "ko": "에어컨",    "fi": "ilmastointi" , "fr":"climatisation"},
 { "en": "gas cooker",    "ko": "가스레인지",    "fi": "" , "fr":""},

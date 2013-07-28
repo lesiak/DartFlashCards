@@ -55,7 +55,11 @@
 { "en": "awhile",        "ko": "잠깐",          "fi": "hetken",    "fr": "" },
 { "en": "first (adv, in time or sequence)",        "ko": "먼저",          "fi": "",    "fr": "" },
 { "en": "but",        "ko": "하지만",          "fi": "mutta",    "fr": "mais" },
-{ "en": "recently",        "ko": "최근에",          "fi": "äskettäin",    "fr": "récemment" }
+{ "en": "recently",        "ko": "최근에",          "fi": "äskettäin",    "fr": "récemment" },
+
+{ "en": "shallow",       "ko": "얕다",    "fi": "matala",    "fr":"peu profond"},
+{ "en": "deep",       "ko": "깊다",    "fi": "syvä",    "fr":"profond"}
+
 
 
 

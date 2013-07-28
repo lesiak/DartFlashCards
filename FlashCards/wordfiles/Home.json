@@ -53,6 +53,7 @@
 { "en": "prepare",       "ko": "준비하다",         "fi": "valmistella",    "fr": "préparer" },
 { "en": "preparation",       "ko": "준비",         "fi": "valmistelu",    "fr": "préparation" },
 
+{ "en": "rubbish",    "ko": "쓰레기",    "fi": "roska" , "fr":"déchets"},
 
 { "en": "family",       "ko": "가족",       "fi": "perhe",   "fr": "famille" },
 { "en": "father",        "ko": "아버지",          "fi": "isä",    "fr": "père" },
@@ -70,7 +71,7 @@
 { "en": "bride",        "ko": "신부 (new + wife)",          "fi": "morsian",    "fr": "mariée" },
 
 { "en": "engagement (betrothal)",        "ko": "약혼 (contract + marry)",          "fi": "kihlaus",    "fr": "fiançailles" },
-
+{ "en": "blind date",   "ko": "소개팅",    "fi": "sokkotreffit",   "fr":""},
 
 { "en": "to grow up",        "ko": "자라다",          "fi": "kasvaa, tulla aikuiseksi",    "fr": "" },
 { "en": "to be born",        "ko": "태어나다",          "fi": "syntyä",    "fr": "naître" },

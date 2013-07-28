@@ -61,8 +61,8 @@
 
 
 { "en": "invitation",         "ko": "초대 (invite + wait), 초청 (invite + request)",       "fi": "kutsu",          "fr": "invitation" },
-{ "en": "to invite",         "ko": "초대하다, 초청하다",       "fi": "kutsu",          "fr": "invitation" },
-{ "en": "according to",         "ko": "-에 따라서",       "fi": "pyytää",          "fr": "inviter" },
+{ "en": "to invite",         "ko": "초대하다, 초청하다",       "fi": "pyytää",          "fr": "inviter" },
+{ "en": "according to",         "ko": "-에 따라서",       "fi": "",          "fr": "" },
 
 { "en": "for example",         "ko": "예를 들어서",       "fi": "esimerkiksi",          "fr": "par exemple" },
 { "en": "example",         "ko": "예",       "fi": "esimerkki",          "fr": "exemple" },
@@ -71,14 +71,6 @@
 
 { "en": "special",         "ko": "특별한",       "fi": "erityinen, erikoinen",          "fr": "spéciale" },
 
-{ "en": "president",        "ko": "대통령 (great + command + govern)",          "fi": "presidentti",    "fr": "président" },
-{ "en": "government",        "ko": "정부",          "fi": "hallitus",    "fr": "gouvernement" },
-{ "en": "authorities",        "ko": "당국",          "fi": "viranomaiset",    "fr": "autorités" },
-
-{ "en": "embassy",        "ko": "대사관 (great + dispatch + building)",          "fi": "suurlähetystö",    "fr": "ambassade" },
-{ "en": "economy",        "ko": "경제",          "fi": "talous",    "fr": "économie" },
-{ "en": "democracy",        "ko": "민주주의",          "fi": "kansanvalta, demokratia",    "fr": "démocratie" },
-{ "en": "society",        "ko": "사회",          "fi": "yhteiskunta",    "fr": "société" },
 
 { "en": "criticize, reproach",  "ko": "비난하다 (blame + blame)",          "fi": "arvostella",    "fr": "critiquer" },
 { "en": "criticize",            "ko": "비판하다 (blame + judge)",          "fi": "arvostella",    "fr": "critiquer" },

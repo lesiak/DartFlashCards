@@ -9,14 +9,12 @@
 { "en": "calendar",       "ko": "달력 (month + calendar)",    "fi": "kalenteri",    "fr":"calendrier"},
 { "en": "hard, solid",       "ko": "단단하다",    "fi": "kova",    "fr":"dur"},
 
-{ "en": "shallow",       "ko": "얕다",    "fi": "matala",    "fr":"peu profond"},
-{ "en": "deep",       "ko": "깊다",    "fi": "syvä",    "fr":"profond"},
 
 
 { "en": "smell",    	"ko": "냄새",    "fi": "haju, tuoksu", 	"fr":"odeur"},
 { "en": "to smell",    	"ko": "냄새가 나다",    "fi": "tuoksua", 	"fr":"sentir"},
 
-{ "en": "plant",    	"ko": "식물 (plant + thing)",    "fi": "kasvi", 	"fr":"plante"},
+{ "en": "earnings, gains, proceeds",         "ko": "수익금",       "fi": "",          "fr": "" },
 
 { "en": "gas",    	"ko": "가스",    "fi": "kaasu" , 	"fr":"gaz"},
 { "en": "match",      "ko": "성냥",    "fi": "tulitikku" ,  "fr":"allumette"},
@@ -33,7 +31,7 @@
 
 { "en": "to decorate",         "ko": "장식하다",       "fi": "koristella",          "fr": "décorer" },
 
-{ "en": "game",    "ko": "게임,  놀이",    "fi": "peli, leikki" , "fr":"jeu"},
+
 
 
 

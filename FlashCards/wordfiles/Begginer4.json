@@ -15,8 +15,6 @@
 { "en": "delivery",       "ko": "배달",       "fi": "toimitus",    "fr": "livraison" },
 { "en": "deliver",       "ko": "배달하다",       "fi": "toimittaa",    "fr": "livrer" },
 
-{ "en": "to need",         "ko": "필요하다",       "fi": "tarvita",          "fr": "avoir besoin de" },
-{ "en": "to want",         "ko": "싶다",       "fi": "haluta",          "fr": "vouloir" },
 
 { "en": "joyful",        "ko": "즐겁다",          "fi": "iloinen",    "fr": "joyeux" },
 
@@ -49,8 +47,6 @@
 
 { "en": "last",        "ko": "마지막",          "fi": "viime",    "fr": "dernier" },
 
-{ "en": "to rub",   "ko": "비비다",    "fi": "hieroa",   "fr":"frotter"},
-{ "en": "to mix",   "ko": "비비다",    "fi": "sekoittaa",   "fr":"mélanger"},
 
 { "en": "to help",         "ko": "돕다",       "fi": "auttaa",          "fr": "aider" },
 { "en": "help",         "ko": "도움",       "fi": "apu, ohje",          "fr": "aide, secours" },
@@ -67,6 +63,11 @@
 { "en": "believe",       "ko": "믿다",       "fi": "uskoa (siihen)",    "fr": "croire" },
 { "en": "to expect",       "ko": "예상하다, 기대하다",       "fi": "odottaa",    "fr": "attendre" },
 { "en": "to intend",       "ko": "",       "fi": "aikoa",    "fr": "avoir l'intention" },
+
+{ "en": "reliable",           "ko": "믿음직하다",       "fi": "luotettava",          "fr": "fiable" },
+{ "en": "likely (probable)",  "ko": "음직하다",       "fi": "todennäköinen",      "fr": "probable" },
+{ "en": "likely (probably)",    "ko": "아마도",       "fi": "todennäköisesti",      "fr": "probablement" },
+
 
 { "en": "to forbid",       "ko": "금하다",       "fi": "kieltää",    "fr": "interdire" },
 
