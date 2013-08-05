@@ -137,7 +137,6 @@ class FlashCardsUI {
   }
   
  
-  
   List<Element> createAudioNodes(ForvoResponse r) {
     List<Element> ret = [];
     for (ForvoItem item in r.items) {
@@ -156,16 +155,10 @@ class FlashCardsUI {
   }
 
   
-  
- 
-  
   void playMp3FromUrl(String url) {
     var html='<audio autoplay="true"><source src="$url"></audio>';
     query("#audioContainer").innerHtml = html;
   }
   
- 
-
-
 
 }

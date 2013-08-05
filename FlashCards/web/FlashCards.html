@@ -112,6 +112,15 @@
       						</tr>
       						</thead>
       						<tbody>
+      						  <template id="wordsTableTemplate" repeat>
+                      <tr class={{cssClass}}>
+                        <td>{{card.en}}</td>
+                        <td>{{card.ko}}</td>
+                        <td>{{card.fi}}</td>
+                        <td>{{card.fr}}</td>
+                        <td>{{dueIn}}</td>
+                      </tr> 
+                    </template>
       		 				</tbody>		 				
       					</table>
       			</div>

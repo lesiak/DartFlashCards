@@ -53,7 +53,7 @@ class Engine implements DeckState {
     return isInLearningList(lastCardScore);
   }
   
-  bool isInLearningList(CardScore lastCardScore) {
+  static bool isInLearningList(CardScore lastCardScore) {
     if (lastCardScore == null) {
       return true;
     }

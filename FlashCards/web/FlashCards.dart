@@ -2,8 +2,9 @@ import 'dart:html';
 import 'package:mdv/mdv.dart' as mdv;
 import '../lib/flashcards_core.dart';
 import '../lib/filecache_api.dart';
-import '../lib/date_utils.dart';
-import 'DownloaderUI.dart';
+
+import 'DownloadProgressBar.dart';
+import 'WordsTable.dart';
 import 'FlashCardsUI.dart';
 
 
@@ -13,6 +14,8 @@ class FlashCardsApp {
   FlashCardsUI ui;
   
   DownloadProgressBar downloaderUI = new DownloadProgressBar();
+  
+  WordsTable wordsTable = new WordsTable();
   
   List<String> level1Files = ['Begginer1',
                      'Begginer2',
@@ -135,7 +138,7 @@ class FlashCardsApp {
   }
   
   void showDeckData() {
-    fillWordsTable();
+    wordsTable.fillWordsTable(engine.allCardsInDeck);
     fillSummary();
   }
   
@@ -166,40 +169,7 @@ class FlashCardsApp {
     query("#deckProgress").text = "${progress}%";
   }
   
-  void fillWordsTable() {
-    var currentDate = new DateTime.now();
-    TableElement table = query("#wordTable");
-    TableSectionElement tBody = table.tBodies[0]; 
-    tBody.nodes.clear();
-    for (Card card in engine.allCardsInDeck) {
-      CardScore score = ResultStore.getCardScoreFromStore(card);
-      TableRowElement newLine = tBody.insertRow(-1); // add at the end
-      
-      String dueIn = "";
-      if (score != null) {
-        if (score.isGoodAnswer() && !engine.isInLearningList(score)) {
-          newLine.classes.add("succ");
-        }
-        else if (score.isGoodAnswer() && engine.isInLearningList(score)) {
-          newLine.classes.add("succInList");
-        }
-        else if (score.isPoorAnswer()) {
-          newLine.classes.add("almost");
-        }
-        else if (score.isBadAnswer()) {
-          newLine.classes.add("error");
-        }
-        
-        dueIn = formatDuration(score.getDueInDuration(currentDate));
-      }
-      
-      newLine.insertCell(0).text = card.en;
-      newLine.insertCell(1).text = card.ko;
-      newLine.insertCell(2).text = card.fi;
-      newLine.insertCell(3).text = card.fr;
-      newLine.insertCell(4).text = dueIn;
-    }
-  }
+ 
   
   
   void loadWords(String wordfile) {
