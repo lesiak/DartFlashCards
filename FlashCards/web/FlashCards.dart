@@ -2,6 +2,7 @@ import 'dart:html';
 import 'package:mdv/mdv.dart' as mdv;
 import '../lib/flashcards_core.dart';
 import '../lib/filecache_api.dart';
+import '../lib/date_utils.dart';
 import 'DownloaderUI.dart';
 import 'FlashCardsUI.dart';
 
@@ -11,7 +12,7 @@ class FlashCardsApp {
   Engine engine;
   FlashCardsUI ui;
   
-  DownloaderUI downloaderUI = new DownloaderUI();
+  DownloadProgressBar downloaderUI = new DownloadProgressBar();
   
   List<String> level1Files = ['Begginer1',
                      'Begginer2',
@@ -200,34 +201,7 @@ class FlashCardsApp {
     }
   }
   
-  String formatDuration (Duration d) {    
-    String twoDigits(int n) {
-      if (n >= 10) return "$n";
-      return "0$n";
-    }
-
-    if (d.inMilliseconds < 0) {
-     /* Duration duration =
-          new Duration(milliseconds: -d.inMilliseconds);
-      return "-$duration";
-      */
-      return "now";
-    }
-    var days = d.inDays;
-    var hours = d.inHours.remainder(Duration.HOURS_PER_DAY);
-    String twoDigitMinutes =
-        twoDigits(d.inMinutes.remainder(Duration.MINUTES_PER_HOUR));       
-    if (days == 0) {
-      return "${d.inHours} hours ${twoDigitMinutes} min";
-    }
-    else {
-      return "${days} days ${hours} hours";
-    }
-  }
   
-  
-
-
   void loadWords(String wordfile) {
     engine.loadData('wordfiles/$wordfile', () { 
       query("#wordFilesDiv").hidden=true;
@@ -236,20 +210,19 @@ class FlashCardsApp {
     });
   }
 
-
-
+  
   void showAnswer() {
     Card card = engine.currentCard;
     ui.showAnswer(card);
   }
 
-
+  
   void showCurrentQuestion() {
     Card card = engine.currentCard;
     ui.showQuestion(card);    
   }
 
-
+  
   void showNextQuestion() {
     if (engine.hasNextCard()) {
       engine.nextCard();
@@ -279,8 +252,6 @@ class FlashCardsApp {
   }
 
 }
-
-
 
 
 void main() {

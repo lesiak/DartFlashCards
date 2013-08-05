@@ -4,7 +4,7 @@ import 'dart:html';
 import 'package:polymer/polymer.dart';
 
 
-class DownloaderUI extends Object with ObservableMixin {
+class DownloadProgressBar extends Object with ObservableMixin {
   
   int _total;
   
@@ -18,28 +18,25 @@ class DownloaderUI extends Object with ObservableMixin {
   
   @observable bool showElement = false;
   
+  
   int get currentSucc => _currentSucc;
+  
   
   void set currentSucc(int c) {    
     _currentSucc = c;
     precentSucc = (currentSucc*100)/_total;
   }
   
+  
   int get currentFail => _currentFail;
+  
   
   void set currentFail(int c) {
     _currentFail = c;
     precentFail = (currentFail*100)/_total;
   }
-    
-  DownloaderUI() {
-   bindModel();
-  }
   
-  void bindModel() {
-    query('#progressDivTmpl').model = this; 
-  }
-     
+  
   void initProgress(int pTotal) {
     this._total = pTotal;
     currentSucc = 0; 
@@ -47,6 +44,7 @@ class DownloaderUI extends Object with ObservableMixin {
     showElement = true; 
     //Observable.dirtyCheck();
   }
+  
   
   void step(bool success) {
     if (success) {
@@ -60,4 +58,15 @@ class DownloaderUI extends Object with ObservableMixin {
     }
     Observable.dirtyCheck();
   }
+  
+  
+  DownloadProgressBar() {
+   bindModel();
+  }
+  
+  
+  void bindModel() {
+    query('#progressDivTmpl').model = this; 
+  }
+       
 }
