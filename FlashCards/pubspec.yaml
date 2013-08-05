@@ -1,4 +1,5 @@
 name: FlashCards
 dependencies:
-  browser: any    
-  unittest: any    
+  browser: any
+  polymer: any
+  unittest: any

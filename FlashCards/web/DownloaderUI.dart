@@ -1,38 +1,63 @@
 library DownloaderUI;
 
 import 'dart:html';
+import 'package:polymer/polymer.dart';
 
-class DownloaderUI {
+
+class DownloaderUI extends Object with ObservableMixin {
   
-  int total;
+  int _total;
   
-  int currentSucc;
+  int _currentSucc;
   
-  int currentFail;
+  int _currentFail;
   
-  DownloaderUI(this.total) {
+  @observable num precentSucc;
+  
+  @observable num precentFail;  
+  
+  @observable bool showElement = false;
+  
+  int get currentSucc => _currentSucc;
+  
+  void set currentSucc(int c) {    
+    _currentSucc = c;
+    precentSucc = (currentSucc*100)/_total;
+  }
+  
+  int get currentFail => _currentFail;
+  
+  void set currentFail(int c) {
+    _currentFail = c;
+    precentFail = (currentFail*100)/_total;
+  }
+    
+  DownloaderUI() {
+   bindModel();
+  }
+  
+  void bindModel() {
+    query('#progressDivTmpl').model = this; 
+  }
+     
+  void initProgress(int pTotal) {
+    this._total = pTotal;
     currentSucc = 0; 
     currentFail = 0;
-  } 
-  
-  void initProgress() {
-    query("#progressDiv").hidden=false;
-    query("#progressBarSuccess").style.width = "0%";
-    query("#progressBarFailure").style.width = "0%";
+    showElement = true; 
+    //Observable.dirtyCheck();
   }
   
   void step(bool success) {
     if (success) {
-      ++currentSucc;
-      query("#progressBarSuccess").style.width = "${(currentSucc*100)/total}%";
+      currentSucc = currentSucc + 1;      
     } else {
-      ++currentFail;
-      query("#progressBarFailure").style.width = "${(currentFail*100)/total}%";
-    }            
-    print('succ: ${currentSucc}, fail = ${currentFail}, total: ${total}');
+      currentFail = currentFail + 1;      
+    }                
     
-    if ((currentSucc + currentFail) == total) {
-      query("#progressDiv").hidden=true;
+    if ((_currentSucc + _currentFail) == _total) {
+      showElement = false;
     }
+    Observable.dirtyCheck();
   }
 }

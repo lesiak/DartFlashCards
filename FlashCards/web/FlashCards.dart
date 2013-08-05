@@ -1,13 +1,17 @@
 import 'dart:html';
+import 'package:mdv/mdv.dart' as mdv;
 import '../lib/flashcards_core.dart';
 import '../lib/filecache_api.dart';
 import 'DownloaderUI.dart';
 import 'FlashCardsUI.dart';
 
+
 class FlashCardsApp {
   
   Engine engine;
   FlashCardsUI ui;
+  
+  DownloaderUI downloaderUI = new DownloaderUI();
   
   List<String> level1Files = ['Begginer1',
                      'Begginer2',
@@ -140,8 +144,8 @@ class FlashCardsApp {
   }
   
   void fetchPronunciations() {
-    DownloaderUI downloaderUI = new DownloaderUI(engine.allCardsInDeck.length * 4);
-    downloaderUI.initProgress();    
+   
+    downloaderUI.initProgress(engine.allCardsInDeck.length * 4);    
     for (Card card in engine.allCardsInDeck) {
       ui.pronounciationManager.fetchMissingPronunciations("en", ui.sanitizeWord("en", card.en), downloaderUI.step);      
       ui.pronounciationManager.fetchMissingPronunciations("ko", ui.sanitizeWord("ko", card.ko), downloaderUI.step);  
@@ -280,6 +284,7 @@ class FlashCardsApp {
 
 
 void main() {
+  mdv.initialize();
   FileCache fileCache = new FileCache( (cache) {
     FlashCardsApp app = new FlashCardsApp(cache);
     app.startApplication();  
