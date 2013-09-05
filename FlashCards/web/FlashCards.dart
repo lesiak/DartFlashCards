@@ -1,7 +1,6 @@
 import 'dart:html';
-import 'package:mdv/mdv.dart' as mdv;
-import '../lib/flashcards_core.dart';
-import '../lib/filecache_api.dart';
+import 'package:FlashCards/flashcards_core.dart';
+import 'package:FlashCards/filecache_api.dart';
 
 import 'DownloadProgressBar.dart';
 import 'WordsTable.dart';
@@ -225,7 +224,6 @@ class FlashCardsApp {
 
 
 void main() {
-  mdv.initialize();
   FileCache fileCache = new FileCache( (cache) {
     FlashCardsApp app = new FlashCardsApp(cache);
     app.startApplication();  

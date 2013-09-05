@@ -2,9 +2,9 @@ library FlashCards;
 
 import 'dart:html';
 import 'dart:async';
-import '../lib/forvo_api.dart';
-import '../lib/flashcards_core.dart';
-import '../lib/filecache_api.dart';
+import 'package:FlashCards/forvo_api.dart';
+import 'package:FlashCards/flashcards_core.dart';
+import 'package:FlashCards/filecache_api.dart';
 
 
 class FlashCardsUI {

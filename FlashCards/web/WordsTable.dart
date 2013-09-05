@@ -2,8 +2,8 @@ library WordsTableLib;
 
 import 'dart:html';
 import 'package:observe/observe.dart';
-import '../lib/flashcards_core.dart';
-import '../lib/date_utils.dart';
+import 'package:FlashCards/flashcards_core.dart';
+import 'package:FlashCards/date_utils.dart';
 
 
 

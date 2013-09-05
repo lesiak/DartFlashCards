@@ -55,8 +55,7 @@ class DownloadProgressBar extends Object with ObservableMixin {
     
     if ((_currentSucc + _currentFail) == _total) {
       showElement = false;
-    }
-    Observable.dirtyCheck();
+    }    
   }
   
   
