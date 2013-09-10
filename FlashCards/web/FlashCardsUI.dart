@@ -7,6 +7,13 @@ import 'package:FlashCards/flashcards_core.dart';
 import 'package:FlashCards/filecache_api.dart';
 
 
+/**
+ * Sanitizer which does nothing.
+ */
+class NullTreeSanitizer implements NodeTreeSanitizer {
+  void sanitizeTree(Node node) {}
+}
+
 class FlashCardsUI {
   
   final String NBSP = "\u00A0";
@@ -157,8 +164,9 @@ class FlashCardsUI {
   
   void playMp3FromUrl(String url) {
     var html='<audio autoplay="true"><source src="$url"></audio>';
-    query("#audioContainer").innerHtml = html;
+    query("#audioContainer").setInnerHtml(html, treeSanitizer : new NullTreeSanitizer());
   }
+  
   
 
 }
