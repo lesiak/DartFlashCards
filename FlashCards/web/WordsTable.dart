@@ -55,7 +55,7 @@ class WordsTable {
   }
   
   WordsTable() {
-    query('#wordsTableTemplate').model = wordRows;     
+    query('#wordsTableTemplate').model = wordRows;         
   }
   
 }

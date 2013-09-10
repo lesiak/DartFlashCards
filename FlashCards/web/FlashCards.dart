@@ -1,3 +1,5 @@
+library flashcards_main;
+
 import 'dart:html';
 import 'package:FlashCards/flashcards_core.dart';
 import 'package:FlashCards/filecache_api.dart';
