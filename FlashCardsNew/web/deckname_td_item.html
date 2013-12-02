@@ -1,0 +1,11 @@
+<polymer-element name="deckname-td-item" extends="td">
+  <template>
+    <style>
+      a {
+	   font-weight: bold;
+      }
+    </style>
+    <a id='deckAnchor' href="#" on-click="{{wordFileClicked}}">{{item}}</a>
+  </template>
+  <script type="application/dart" src="deckname_td_item.dart"></script>
+</polymer-element>

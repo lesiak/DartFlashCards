@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+
+<polymer-element name="decks-table">
+  <template>
+    <style>
+      a {
+     font-weight: bold;
+      }
+    </style>
+    <table id="questionDecksTable" class="table table-striped table-bordered table-hover">
+                        <thead>
+                        <tr>
+                            <th>Name</th>
+                        </tr>
+                        </thead>
+                        <tbody>                          
+                            <tr template repeat="{{wordFile in items}}">                              
+                              <td>
+                                <a href="#" on-click="{{wordFileClicked}}" data-msg="{{wordFile}}">{{wordFile}}</a>
+                               </td>
+                            </tr>                          
+                        </tbody>
+                    </table>
+  </template>
+  <script type="application/dart" src="decks_table.dart"></script>
+</polymer-element>

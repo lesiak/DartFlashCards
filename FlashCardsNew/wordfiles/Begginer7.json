@@ -1,0 +1,51 @@
+[
+
+{ "en": "to approach, go near",       "ko": "다가가다",    "fi": "lähestyä",    "fr":"aborder, s'approcher"},
+{ "en": "to approach, come up",       "ko": "다가오다, 닥치다",    "fi": "lähestyä",    "fr":"aborder, s'approcher"},
+
+{ "en": "to shut up",       "ko": "닥치다",    "fi": "lähestyä",    "fr":"se taire"},
+{ "en": "shut up",       "ko": "입 닥쳐",    "fi": "ole hiljaa",    "fr":"tais-toi"},
+
+{ "en": "calendar",       "ko": "달력 (month + calendar)",    "fi": "kalenteri",    "fr":"calendrier"},
+{ "en": "hard, solid",       "ko": "단단하다",    "fi": "kova",    "fr":"dur"},
+
+
+
+{ "en": "smell",    	"ko": "냄새",    "fi": "haju, tuoksu", 	"fr":"odeur"},
+{ "en": "to smell",    	"ko": "냄새가 나다",    "fi": "tuoksua", 	"fr":"sentir"},
+
+{ "en": "earnings, gains, proceeds",         "ko": "수익금",       "fi": "",          "fr": "" },
+
+{ "en": "gas",    	"ko": "가스",    "fi": "kaasu" , 	"fr":"gaz"},
+{ "en": "match",      "ko": "성냥",    "fi": "tulitikku" ,  "fr":"allumette"},
+
+{ "en": "to continue",    "ko": "계속하다",    "fi": "" , "fr":""},
+{ "en": "to suspect",    "ko": "느끼다",    "fi": "epäillä" , "fr":"suspecter"},
+{ "en": "guilty",    "ko": "유죄의",    "fi": "syyllinen" , "fr":"coupable"},
+
+{ "en": "showy, gaudy, tawdry",    "ko": "야하다",    "fi": "" , "fr":""},
+{ "en": "stalker",    "ko": "스토커",    "fi": "ahdistelija" , "fr":"rôdeur"},
+
+
+
+
+{ "en": "to decorate",         "ko": "장식하다",       "fi": "koristella",          "fr": "décorer" },
+
+
+
+
+
+
+
+
+{ "en": "ocean",    "ko": "대양, 해양",    "fi": "" , "fr":""},
+{ "en": "freedom, liberty",    "ko": "자유",    "fi": "" , "fr":""},
+{ "en": "religion",    "ko": "종교",    "fi": "" , "fr":""},
+
+{ "en": "dry",    "ko": "마르다",    "fi": "" , "fr":""},
+
+{ "en": "lamp",    "ko": "전등, 램프",    "fi": "lamppu" , "fr":"lampe"}
+
+
+]
+        

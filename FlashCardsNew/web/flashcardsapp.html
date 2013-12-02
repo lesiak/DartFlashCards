@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+
+
+<link rel="import" href="words_table.html">
+<link rel="import" href="deck_summary.html">
+<link rel="import" href="decks_table.html">
+<link rel="import" href="learning_panel.html">
+
+<polymer-element name="flashcards-app" attributes="count">
+  <template>    
+  <div class="container-fluid">
+    <div class="row-fluid">
+	  <!--<div class="span2">
+        <div class="well sidebar-nav">
+          <ul class="nav nav-list">
+		    <li class="nav-header">Sidebar</li>
+			<li class="active"><a href="#">Test</a></li>
+            <li><a id="clearCache" href="#">Clear</a></li>
+            <li><a href="#">Link</a></li>
+            <li><a href="#">Link</a></li>
+            <li class="nav-header">Sidebar</li>
+            <li><a href="#">Link</a></li>
+          </ul>
+        </div>
+         <div class="alert">
+      <button type="button" class="close" data-dismiss="alert">&times;</button>
+      <strong>Warning!</strong> Best check yo self, you're not looking too good.
+    </div>
+      </div>--> <!-- span2 -->
+      <div class="span12">
+        <ul id="navigationPills" class="nav nav-pills">
+  		<li class="active">
+    			<a id="homePill" on-click="{{goToHomePanel}}" href="#">Home</a>
+  			</li>
+  			<li><a href="#">Options</a></li>
+  			<li><a href="#">...</a></li>
+		</ul>    	
+		
+		<div id="pageContentDiv" >
+            <div id="wordFilesDiv" class="row-fluid">
+                <div id="wordFilesDivAAA" class="span3">
+                    <ul class="nav nav-tabs">
+                        <li class="active">
+                            <a id="level1Tab" href="#" on-click="{{level1Clicked}}">Level 1</a>
+                        </li>
+                        <li>
+                            <a id="level2Tab" href="#" on-click="{{level2Clicked}}">Level 2</a>
+                        </li>
+                    </ul>                    
+                    <decks-table items={{items}} on-decknameclicked="{{deckNameChanged1}}"></decks-table>
+                </div> <!-- word Files div AAA -->
+                <div class="span9">
+                    <div id="deckDetailsDiv" hidden>
+                        <h3>Summary</h3>
+
+                        <div class="row-fluid">
+                            <div class="span3">
+                              <deck-summary cards={{cards}}></deck-summary>                            
+                            </div>
+                            <div class="span3 offset2">
+                                <img id="imgFlag" 
+                                    src="assets/svgFlags/Flag_of_Republic_of_Korea.svg" 
+                                    width="200"
+                                    style="border-style:solid;border-width:1px;">
+                            </div>
+                        </div>
+
+
+                        <p>                        
+                            <button id="startButton" 
+                                    on-click="{{startPanel}}" 
+                                    class="btn btn-large btn-large btn-info">Start</button>
+                            <button id="clearResultsButton" 
+                                    on-click="{{clearDeckResults}}" 
+                                    class="btn btn-large btn-large btn-info">Clear results</button>
+                            <button id="fetchPronoButton" 
+                                    on-click="{{fetchPronunciations}}"                            
+                                    class="btn btn-large btn-large btn-info">Fetch Pronunciation</button>
+                        </p>
+                        <template id="progressDivTmpl" bind if="{{ showElement }}">
+                            <div class="progress progress-striped">
+                                <div class="bar" style="width: {{precentSucc}}%"></div>
+                                <div class="bar bar-warning" style="width: {{precentFail}}%"></div>
+                            </div>
+                        </template>                        
+                        <words-table id="wordsTable" cards={{cards}}></words-table>                       
+                    </div>
+                </div>
+            </div>
+            
+              
+              <learning-panel hidden="true" 
+                  id="learningPanel" 
+                  on-deck-finished="{{goToHomePanel}}" 
+                  cards="{{cards}}"
+                  primaryLang="{{primaryLang}}"></learning-panel>
+              
+            
+	    </div> <!-- page Content -->             
+    </div> <!-- span10 -->     
+  </div> <!-- row -->    
+</div> <!-- container -->
+<div id="audioContainer"></div>
+      
+  </template>
+  <script type="application/dart" src="flashcardsapp.dart"></script>
+</polymer-element>
+

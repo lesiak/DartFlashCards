@@ -1,0 +1,18 @@
+[
+
+{ "en": "yellow", 		"ko": "노란색, 노랗다",       	"fi": "keltainen",          "fr": "jaune" },
+{ "en": "white",     "ko": "하얀색, 하얗다",         "fi": "valkoinen",          "fr": "blanc" },
+{ "en": "black",     "ko": "까만색, 까맣다",         "fi": "musta",          "fr": "noir" },
+{ "en": "red",     "ko": "빨간색, 빨갈다",         "fi": "punainen",          "fr": "rouge" },
+{ "en": "blue",     "ko": "파란색, 파랗다",        "fi": "sininen",          "fr": "bleu" },
+{ "en": "blue (nature)",     "ko": "푸르다",        "fi": "sininen",          "fr": "bleu" },
+{ "en": "green",     	"ko": "초록색",       	"fi": "vihreä",          "fr": "vert" },
+{ "en": "orange",      "ko": "오렌지색",        "fi": "",          "fr": "" },
+{ "en": "pink",      "ko": "분홍색 (powder + red + colour)",         "fi": "vaaleanpunainen",          "fr": "rose" },
+{ "en": "purple",      "ko": "보라색",         "fi": "",          "fr": "" },
+{ "en": "brown",      "ko": "밤색",         "fi": "ruskea",          "fr": "brun, marron" },
+{ "en": "grey",      "ko": "회색",         "fi": "harmaa",          "fr": "gris" },
+{ "en": "violet",      "ko": "보라색",         "fi": "violetti",          "fr": "vert" }
+
+
+]

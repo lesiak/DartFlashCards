@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+
+
+
+<polymer-element name="words-table" >
+  <template>
+    <table class="table table-striped table-bordered ">                                
+        <thead>
+        <tr>
+            <th>English</th>
+            <th>Korean</th>
+            <th>Finnish</th>
+            <th>French</th>
+            <th>Due in</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr template repeat="{{wordRows}}" class={{cssClass}}>
+            <td>{{card.en}}</td>
+            <td>{{card.ko}}</td>
+            <td>{{card.fi}}</td>
+            <td>{{card.fr}}</td>
+            <td>{{dueIn}}</td>
+        </tr>
+        </tbody>
+    </table>
+  </template>
+  <script type="application/dart" src="words_table.dart"></script>
+</polymer-element>
+

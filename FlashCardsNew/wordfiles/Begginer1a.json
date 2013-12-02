@@ -1,0 +1,62 @@
+[
+
+{ "en": "sasaas",        "ko": "ê¸°ê³„",     "fi": "kone",    "fr": "machine" },  
+
+{ "en": "fire",         "ko": "ë¶ˆ",      "fi": "palo",    "fr": "feu" },
+{ "en": "light",        "ko": "ë¹›",          "fi": "valo",    "fr": "lumiÃ¨re" },
+{ "en": "river",        "ko": "ê°•",        "fi": "joki",    "fr": "fleuve" },
+{ "en": "sea",        "ko": "ë°”ë‹¤",          "fi": "meri",    "fr": "mer" },
+{ "en": "wave",        "ko": "íŒŒ",          "fi": "aalto",    "fr": "vague" },
+{ "en": "beach",        "ko": "ë°”ë‹·ê°€",          "fi": "hiekkaranta",    "fr": "plage" },
+{ "en": "sand",        "ko": "ëª¨ëž˜",          "fi": "hiekka",    "fr": "sable" },
+{ "en": "forest",        "ko": "ìˆ²",          "fi": "metsÃ¤",    "fr": "forÃªt" },
+{ "en": "garden",        "ko": "ì •ì›�",          "fi": "puutarha",    "fr": "jardin" },
+{ "en": "park",        "ko": "ê³µì›�",          "fi": "puisto",    "fr": "parc" },
+{ "en": "tree",        "ko": "ë‚˜ë¬´",          "fi": "puu",    "fr": "arbre" },
+{ "en": "leaf",        "ko": "ìžŽ",          "fi": "lehti",    "fr": "feuille" },
+{ "en": "lake",        "ko": "í˜¸ìˆ˜",          "fi": "jÃ¤rvi",    "fr": "lac" },
+{ "en": "sun",        "ko": "í•´",          "fi": "aurinko",    "fr": "soleil" },
+{ "en": "moon",        "ko": "ë‹¬",          "fi": "kuu",    "fr": "lune" },
+{ "en": "air",        "ko": "ê³µê¸°",          "fi": "ilma",    "fr": "air" },
+{ "en": "star",        "ko": "ë³„",          "fi": "tÃ¤hti",    "fr": "Ã©toile" },
+{ "en": "fog",        "ko": "ì•ˆê°œ",          "fi": "sumu",    "fr": "brouillard" },
+{ "en": "sky",        "ko": "í•˜ëŠ˜",          "fi": "taivas",    "fr": "ciel" },
+{ "en": "cloud",        "ko": "êµ¬ë¦„",          "fi": "pilvi",    "fr": "nuage" },
+{ "en": "rainbow",        "ko": "ë¬´ì§€ê°œ",          "fi": "sateenkaari",    "fr": "arc-en-ciel" },
+ 
+{ "en": "rain",        "ko": "ë¹„",          "fi": "sade",    "fr": "pluie" },
+{ "en": "snow",        "ko": "ëˆˆ",          "fi": "lumi",    "fr": "neige" },
+{ "en": "wind",        "ko": "ë°”ëžŒ",          "fi": "tuuli",    "fr": "vent" },
+{ "en": "weather",        "ko": "ë‚ ì”¨",          "fi": "sÃ¤Ã¤, ilma",    "fr": "temps" },
+{ "en": "climate",        "ko": "ê¸°í›„",          "fi": "ilmasto",    "fr": "climat" },
+
+{ "en": "sunset",        "ko": "ì�¼ëª°",          "fi": "auringonlasku",    "fr": "coucher du soleil" },
+{ "en": "sunrise",        "ko": "í•´ë�‹ì�´",          "fi": "auringonnousu",    "fr": "lever du soleil" },
+
+
+{ "en": "world",        "ko": "ì„¸ê³„",          "fi": "maailma",    "fr": "monde" },
+
+
+
+{ "en": "sit",         "ko": "ì•‰ë‹¤",       "fi": "istua",    "fr": "Ãªtre assis" },
+{ "en": "stand",         "ko": "ì„œë‹¤",       "fi": "seisoa",    "fr": "Ãªtre debout" },
+{ "en": "sleep",         "ko": "ìž�ë‹¤",       "fi": "nukkua",    "fr": "dormir" },
+{ "en": "know",       "ko": "ì•Œë‹¤",       "fi": "tietÃ¤Ã¤",    "fr": "savoir, connaÃ®tre" },
+{ "en": "not to know",       "ko": "ëª¨ë¥´ë‹¤",       "fi": "ei tiedÃ¤",    "fr": "ne pas savoir" },
+{ "en": "make",       "ko": "ë§Œë“¤ë‹¤",       "fi": "tehdÃ¤",    "fr": "faire" },
+{ "en": "see",       "ko": "ë³´ë‹¤",       "fi": "nÃ¤hdÃ¤",    "fr": "voir" },
+{ "en": "to be seen",       "ko": "ë³´ì�´ë‹¤",       "fi": "",    "fr": "" },
+{ "en": "to show",       "ko": "ë³´ì—¬ì£¼ë‹¤",       "fi": "nÃ¤yttÃ¤Ã¤",    "fr": "montrer" },
+
+{ "en": "to look",       "ko": "ë³´ì�´ë‹¤ (??)",       "fi": "nÃ¤yttÃ¤Ã¤, katsoa",    "fr": "regarder" },
+
+{ "en": "hear",       "ko": "ë“£ë‹¤",       "fi": "kuulla",    "fr": "entendre" },
+{ "en": "listen",         "ko": "ë“£ë‹¤",       "fi": "kuunnella",          "fr": "Ã©couter" },
+{ "en": "be heard",         "ko": "ë“¤ë¦¬ë‹¤",       "fi": "",          "fr": "" },
+{ "en": "to need",         "ko": "í•„ìš”í•˜ë‹¤",       "fi": "tarvita",          "fr": "avoir besoin de" },
+{ "en": "to want",         "ko": "ì‹¶ë‹¤",       "fi": "haluta",          "fr": "vouloir" }
+
+
+
+
+]

@@ -1,0 +1,19 @@
+[
+ 
+{ "en": "hotel",        "ko": "호텔",          "fi": "hotelli",    "fr": "hôtel" },
+
+{ "en": "to travel",       "ko": "여행하다",       "fi": "matkustaa",    "fr": "voyager" },
+{ "en": "tourist",       "ko": "관광객",       "fi": "turisti, matkailija",    "fr": "touriste" },
+{ "en": "photo",     "ko": "사진",       "fi": "kuva",     "fr": "photo" },
+{ "en": "to take (a photo)",     "ko": "찍다",       "fi": "",     "fr": "" },
+{ "en": "to develop (a photo)",     "ko": "인화하다",       "fi": "",     "fr": "" },
+
+{ "en": "passport",     "ko": "여권",       "fi": "passi",     "fr": "passeport" },
+{ "en": "visa",     "ko": "",       "fi": "viisumi",     "fr": "visa" },
+
+{ "en": "sunbathe",     "ko": "일광욕을하다",       "fi": "ottaa aurinkoa",     "fr": "bronzer" }
+
+
+
+]
+        

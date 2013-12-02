@@ -1,0 +1,62 @@
+[
+
+{ "en": "machine",        "ko": "기계",    	"fi": "kone",    "fr": "machine" },  
+
+{ "en": "fire",         "ko": "불",			"fi": "palo",    "fr": "feu" },
+{ "en": "light",        "ko": "빛",        	"fi": "valo",    "fr": "lumière" },
+{ "en": "river",        "ko": "강",       	"fi": "joki",    "fr": "fleuve" },
+{ "en": "sea",        "ko": "바다",          "fi": "meri",    "fr": "mer" },
+{ "en": "wave",        "ko": "파",          "fi": "aalto",    "fr": "vague" },
+{ "en": "beach",        "ko": "바닷가",          "fi": "hiekkaranta",    "fr": "plage" },
+{ "en": "sand",        "ko": "모래",          "fi": "hiekka",    "fr": "sable" },
+{ "en": "forest",        "ko": "숲",          "fi": "metsä",    "fr": "forêt" },
+{ "en": "garden",        "ko": "정원",          "fi": "puutarha",    "fr": "jardin" },
+{ "en": "park",        "ko": "공원",          "fi": "puisto",    "fr": "parc" },
+{ "en": "tree",        "ko": "나무",          "fi": "puu",    "fr": "arbre" },
+{ "en": "leaf",        "ko": "잎",          "fi": "lehti",    "fr": "feuille" },
+{ "en": "lake",        "ko": "호수",          "fi": "järvi",    "fr": "lac" },
+{ "en": "sun",        "ko": "해",          "fi": "aurinko",    "fr": "soleil" },
+{ "en": "moon",        "ko": "달",          "fi": "kuu",    "fr": "lune" },
+{ "en": "air",        "ko": "공기",          "fi": "ilma",    "fr": "air" },
+{ "en": "star",        "ko": "별",          "fi": "tähti",    "fr": "étoile" },
+{ "en": "fog",        "ko": "안개",          "fi": "sumu",    "fr": "brouillard" },
+{ "en": "sky",        "ko": "하늘",          "fi": "taivas",    "fr": "ciel" },
+{ "en": "cloud",        "ko": "구름",          "fi": "pilvi",    "fr": "nuage" },
+{ "en": "rainbow",        "ko": "무지개",          "fi": "sateenkaari",    "fr": "arc-en-ciel" },
+ 
+{ "en": "rain",        "ko": "비",          "fi": "sade",    "fr": "pluie" },
+{ "en": "snow",        "ko": "눈",          "fi": "lumi",    "fr": "neige" },
+{ "en": "wind",        "ko": "바람",          "fi": "tuuli",    "fr": "vent" },
+{ "en": "weather",        "ko": "날씨",          "fi": "sää, ilma",    "fr": "temps" },
+{ "en": "climate",        "ko": "기후",          "fi": "ilmasto",    "fr": "climat" },
+
+{ "en": "sunset",        "ko": "일몰",          "fi": "auringonlasku",    "fr": "coucher du soleil" },
+{ "en": "sunrise",        "ko": "해돋이",          "fi": "auringonnousu",    "fr": "lever du soleil" },
+
+
+{ "en": "world",        "ko": "세계",          "fi": "maailma",    "fr": "monde" },
+
+
+
+{ "en": "sit",         "ko": "앉다",       "fi": "istua",    "fr": "être assis" },
+{ "en": "stand",         "ko": "서다",       "fi": "seisoa",    "fr": "être debout" },
+{ "en": "sleep",         "ko": "자다",       "fi": "nukkua",    "fr": "dormir" },
+{ "en": "know",       "ko": "알다",       "fi": "tietää",    "fr": "savoir, connaître" },
+{ "en": "not to know",       "ko": "모르다",       "fi": "ei tiedä",    "fr": "ne pas savoir" },
+{ "en": "make",       "ko": "만들다",       "fi": "tehdä",    "fr": "faire" },
+{ "en": "see",       "ko": "보다",       "fi": "nähdä",    "fr": "voir" },
+{ "en": "to be seen",       "ko": "보이다",       "fi": "",    "fr": "" },
+{ "en": "to show",       "ko": "보여주다",       "fi": "näyttää",    "fr": "montrer" },
+
+{ "en": "to look",       "ko": "보이다 (??)",       "fi": "näyttää, katsoa",    "fr": "regarder" },
+
+{ "en": "hear",       "ko": "듣다",       "fi": "kuulla",    "fr": "entendre" },
+{ "en": "listen",         "ko": "듣다",       "fi": "kuunnella",          "fr": "écouter" },
+{ "en": "be heard",         "ko": "들리다",       "fi": "",          "fr": "" },
+{ "en": "to need",         "ko": "필요하다",       "fi": "tarvita",          "fr": "avoir besoin de" },
+{ "en": "to want",         "ko": "싶다",       "fi": "haluta",          "fr": "vouloir" }
+
+
+
+
+]

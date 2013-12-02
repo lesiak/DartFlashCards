@@ -1,0 +1,31 @@
+[
+{ "en": "hobby",        "ko": "취미",       "fi": "mieliharrastus", "fr": "hobby" },
+{ "en": "football",     "ko": "축구 (kick + ball)",       "fi": "jalkapallo",     "fr": "football" },
+{ "en": "volleyball",     "ko": "배구 (push + ball)",       "fi": "lentopallo",     "fr": "volley-ball" },
+{ "en": "basketball",     "ko": "농구 (bamboo basket + ball)",       "fi": "koripallo",     "fr": "basket-ball" },
+{ "en": "baseball",     "ko": "야구 (field + ball)",       "fi": "baseball",     "fr": "base-ball" },
+{ "en": "badminton",     "ko": "배드민턴",       "fi": "sulkapallo",     "fr": "badminton" },
+
+{ "en": "team",    "ko": " 팀",    "fi": "" , "fr":""},
+
+{ "en": "jump",     "ko": "뛰다",       "fi": "hypätä",     "fr": "sauter" },
+{ "en": "run",     "ko": "달리다",       "fi": "juosta",     "fr": "courir" },
+{ "en": "kick",     "ko": "차다",       "fi": "potkia",     "fr": "botter" },
+
+{ "en": "throw",     "ko": "던지다",       "fi": "heittää",     "fr": "jeter" },
+{ "en": "catch",     "ko": "잡다",       "fi": "ottaa kiinni",     "fr": "" },
+{ "en": "swim",     "ko": "수영하다",       "fi": "uida",     "fr": "nager" },
+{ "en": "swimming pool",     "ko": "수영장",       "fi": "uimahalli",     "fr": "piscine" },
+
+{ "en": "competition",    "ko": "경기 (競  “contest” and 技 “talent”)",    "fi": "kilpailu, kisat" , "fr":"concours, compétition"},
+{ "en": "stadium",    "ko": "경기장",    "fi": "stadion" , "fr":"stade"},
+{ "en": "gym",    "ko": "체육관",    "fi": "" , "fr":""},
+
+{ "en": "dance",    "ko": "춤",    "fi": "tanssi" , "fr":"danse"},
+{ "en": "to dance",    "ko": "추다, 춤추다",    "fi": "tanssia" , "fr":"danser"},
+
+{ "en": "game",    "ko": "게임,  놀이",    "fi": "peli, leikki" , "fr":"jeu"}
+
+]
+        
+        
