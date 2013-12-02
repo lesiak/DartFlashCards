@@ -1,6 +1,7 @@
 import 'package:polymer/polymer.dart';
 
 import 'dart:html';
+import 'dart:async';
 
 import 'package:FlashCardsNew/filecache_api.dart';
 import 'package:FlashCardsNew/flashcards_core.dart';
@@ -53,6 +54,14 @@ class FlashCardsApp extends PolymerElement {
   @observable List<String> items;
   
   @observable String primaryLang = "fi";
+  
+  @observable int total;
+  
+  @observable int currentSucc;
+  
+  @observable int currentFail;
+  
+  @observable bool showProgress = false;
   
   PronounciationManager pronounciationManager;
   
@@ -148,19 +157,50 @@ class FlashCardsApp extends PolymerElement {
  // }
   
   void fetchPronunciations() {
-    
+    initProgress(engine.allCardsInDeck.length * 4);
   //  downloaderUI.initProgress(engine.allCardsInDeck.length * 4);    
     for (Card card in engine.allCardsInDeck) {
-    //  pronounciationManager.fetchMissingPronunciations("en", sanitizeWord("en", card.en), step);      
+      pronounciationManager.fetchMissingPronunciations("en", sanitizeWord("en", card.en), step);      
       pronounciationManager.fetchMissingPronunciations("ko", sanitizeWord("ko", card.ko), step);  
-      //pronounciationManager.fetchMissingPronunciations("fi", sanitizeWord("fi", card.fi), step);
-      //pronounciationManager.fetchMissingPronunciations("fr", sanitizeWord("fr", card.fr), step);
+      pronounciationManager.fetchMissingPronunciations("fi", sanitizeWord("fi", card.fi), step);
+      pronounciationManager.fetchMissingPronunciations("fr", sanitizeWord("fr", card.fr), step);
     }
     
   }
   
+  void initProgress(int pTotal) {
+    this.total = pTotal;
+    currentSucc = 0; 
+    currentFail = 0;
+    showProgress = true; 
+    //Observable.dirtyCheck();
+  }
+  
   void step(bool success) {
-   print('step');    
+    
+      if (success) {
+        currentSucc = currentSucc + 1;
+        /*scheduleMicrotask(() {
+         
+          });*/
+              
+      } else {
+        currentFail = currentFail + 1;
+        /*scheduleMicrotask(() {
+          
+          });*/
+              
+      }                
+      
+      if ((currentSucc + currentFail) == total) {
+        showProgress = false;
+      }  
+    
+        
+  }
+  
+  void step1() {
+    
   }
   
   RegExp IN_PARENTHESES = new RegExp("\\(.+?\\)");

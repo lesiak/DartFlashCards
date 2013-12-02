@@ -5,6 +5,7 @@
 <link rel="import" href="deck_summary.html">
 <link rel="import" href="decks_table.html">
 <link rel="import" href="learning_panel.html">
+<link rel="import" href="progress_bar.html">
 
 <polymer-element name="flashcards-app" attributes="count">
   <template>    
@@ -77,11 +78,9 @@
                                     on-click="{{fetchPronunciations}}"                            
                                     class="btn btn-large btn-large btn-info">Fetch Pronunciation</button>
                         </p>
-                        <template id="progressDivTmpl" bind if="{{ showElement }}">
-                            <div class="progress progress-striped">
-                                <div class="bar" style="width: {{precentSucc}}%"></div>
-                                <div class="bar bar-warning" style="width: {{precentFail}}%"></div>
-                            </div>
+                        
+                        <template id="progressDivTmpl" bind if="{{ showProgress }}">
+                          <progress-bar total="{{total}}" currentSucc="{{currentSucc}}" currentFail="{{currentFail}}"></progress-bar>                            
                         </template>                        
                         <words-table id="wordsTable" cards={{cards}}></words-table>                       
                     </div>
