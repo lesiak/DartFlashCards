@@ -59,8 +59,9 @@
                               <deck-summary cards={{cards}}></deck-summary>                            
                             </div>
                             <div class="span3 offset2">
-                                <img id="imgFlag" 
-                                    src="assets/svgFlags/Flag_of_Republic_of_Korea.svg" 
+                                <img id="imgFlag"
+                                    on-click="{{flagClicked}}" 
+                                    src="{{flagPath}}" 
                                     width="200"
                                     style="border-style:solid;border-width:1px;">
                             </div>

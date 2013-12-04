@@ -49,11 +49,18 @@ class FlashCardsApp extends PolymerElement {
                               'Plants',
                               'MoneyInter',
                               'Sentences1',
-                              'TopikInter1'];  
+                              'TopikInter1']; 
+  
+  static List<String> langs = ["ko", "fi"];
+  
+  static Map<String, String> flagsPaths = {"ko": "assets/svgFlags/Flag_of_Republic_of_Korea.svg", 
+                                      "fi": "assets/svgFlags/Flag_of_Finland_1920-1978_(State).svg"};
   
   @observable List<String> items;
   
-  @observable String primaryLang = "fi";
+  @observable String primaryLang = "ko";
+  
+  @observable String flagPath = flagsPaths["ko"];
   
   @observable int total;
   
@@ -247,6 +254,19 @@ class FlashCardsApp extends PolymerElement {
     items = level2Files;
     $['level1Tab'].parent.classes.remove('active');
     $['level2Tab'].parent.classes.add('active');
+  }
+ 
+  void flagClicked(Event e, var detail, Element target) {
+    var idx = langs.indexOf(primaryLang);
+    if (idx == langs.length - 1) {
+      primaryLang = langs[0];
+    } else {
+      primaryLang = langs[idx+1];
+    }
+  }
+  
+  void primaryLangChanged() {
+    flagPath = flagsPaths[primaryLang];
   }
   
   
