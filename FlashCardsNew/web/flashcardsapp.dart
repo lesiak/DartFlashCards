@@ -167,10 +167,10 @@ class FlashCardsApp extends PolymerElement {
     initProgress(engine.allCardsInDeck.length * 4);
   //  downloaderUI.initProgress(engine.allCardsInDeck.length * 4);    
     for (Card card in engine.allCardsInDeck) {
-      pronounciationManager.fetchMissingPronunciations("en", sanitizeWord("en", card.en), step);      
-      pronounciationManager.fetchMissingPronunciations("ko", sanitizeWord("ko", card.ko), step);  
-      pronounciationManager.fetchMissingPronunciations("fi", sanitizeWord("fi", card.fi), step);
-      pronounciationManager.fetchMissingPronunciations("fr", sanitizeWord("fr", card.fr), step);
+      pronounciationManager.fetchMissingPronunciations("en", ForvoRequestUtils.sanitizeWord("en", card.en), step);      
+      pronounciationManager.fetchMissingPronunciations("ko", ForvoRequestUtils.sanitizeWord("ko", card.ko), step);  
+      pronounciationManager.fetchMissingPronunciations("fi", ForvoRequestUtils.sanitizeWord("fi", card.fi), step);
+      pronounciationManager.fetchMissingPronunciations("fr", ForvoRequestUtils.sanitizeWord("fr", card.fr), step);
     }
     
   }
@@ -209,27 +209,7 @@ class FlashCardsApp extends PolymerElement {
   void step1() {
     
   }
-  
-  RegExp IN_PARENTHESES = new RegExp("\\(.+?\\)");
-  
-  String sanitizeWord(String lang, String word) {
-    if (word.contains(IN_PARENTHESES)) {
-      word = word.replaceAll(IN_PARENTHESES, "");
-    }
-    if (word.contains(',')) {
-      word = word.split(',')[0];
-    }
-    if (lang == "en") {
-      if (word.startsWith("to ")) {
-        word = word.substring(3);
-      }
-      else if (word.startsWith("a ")) {
-        word = word.substring(2);
-      }
-    }
-    return word.trim();
-  }
-  
+ 
   
   void goToHomePanel() {
     print('show home');

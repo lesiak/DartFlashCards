@@ -11,8 +11,6 @@ class LearingPanelElement extends PolymerElement {
   
   PronounciationManager pronounciationManager;
   
-  RegExp IN_PARENTHESES = new RegExp("\\(.+?\\)");
-  
   @published ObservableList<Card> cards = toObservable([]);
   
   @published String primaryLang; 
@@ -106,30 +104,10 @@ class LearingPanelElement extends PolymerElement {
     else 
       return card.fi;
   } 
-  
-  
-  
-  String sanitizeWord(String lang, String word) {
-    if (word.contains(IN_PARENTHESES)) {
-      word = word.replaceAll(IN_PARENTHESES, "");
-    }
-    if (word.contains(',')) {
-      word = word.split(',')[0];
-    }
-    if (lang == "en") {
-      if (word.startsWith("to ")) {
-        word = word.substring(3);
-      }
-      else if (word.startsWith("a ")) {
-        word = word.substring(2);
-      }
-    }
-    return word.trim();
-  }
-  
+    
   
   void getPronunciations(String lang, String word, String containerId, bool play) {    
-    word = sanitizeWord(lang, word);
+    word = ForvoRequestUtils.sanitizeWord(lang, word);
 
     Element container = $[containerId];    
     String cachedForvoResponse = window.localStorage[lang+"/"+word];
