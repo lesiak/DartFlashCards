@@ -14,7 +14,7 @@
                         </tr>
                         </thead>
                         <tbody>                          
-                            <tr template repeat="{{wordFile in items}}">                              
+                            <tr template repeat="{{wordFile in items}}" class={{getCss(wordFile,selectedName)}}>                              
                               <td>
                                 <a href="#" on-click="{{wordFileClicked}}" data-msg="{{wordFile}}">{{wordFile}}</a>
                                </td>
