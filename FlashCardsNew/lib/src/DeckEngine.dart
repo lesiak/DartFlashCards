@@ -36,9 +36,8 @@ class DeckEngine implements DeckState {
   }
   
   static bool isCardInLearningList(Card card) {
-    return true;
- //   CardScore lastCardScore = ResultStore.getCardScoreFromStore(card);
- //   return isInLearningList(lastCardScore);
+    CardScore lastCardScore = ResultStore.getCardScoreFromStore(card);
+    return isInLearningList(lastCardScore);
   }
   
   static bool isInLearningList(CardScore lastCardScore) {
