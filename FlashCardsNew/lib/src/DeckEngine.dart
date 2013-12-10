@@ -17,8 +17,9 @@ class DeckEngine implements DeckState {
   
   List<Card> allCardsInDeck;  
   List<Card> learningList;
+  String currentLang;
   
-  DeckEngine(this.allCardsInDeck) {
+  DeckEngine(this.allCardsInDeck, this.currentLang) {
     initLearningList();    
   }
   
@@ -27,16 +28,16 @@ class DeckEngine implements DeckState {
     if (!learningList.isEmpty) {
       _currentWord = 0;
       _currentCard = learningList[_currentWord];
-      _currentScore = ResultStore.getCardScoreFromStore(_currentCard);      
+      _currentScore = ResultStore.getCardScoreFromStore(_currentCard, currentLang);      
     }
   }
     
   List<Card> buildLearningList(List<Card> allElements) {
-    return allElements.where(isCardInLearningList).toList();
+    return allElements.where((card) => isCardInLearningList(card, currentLang)).toList();
   }
   
-  static bool isCardInLearningList(Card card) {
-    CardScore lastCardScore = ResultStore.getCardScoreFromStore(card);
+  static bool isCardInLearningList(Card card, String lang) {
+    CardScore lastCardScore = ResultStore.getCardScoreFromStore(card, lang);
     return isInLearningList(lastCardScore);
   }
   
@@ -70,7 +71,7 @@ class DeckEngine implements DeckState {
       _currentWord = 0;
     }*/
     _currentCard = learningList[_currentWord];
-    _currentScore = ResultStore.getCardScoreFromStore(_currentCard);
+    _currentScore = ResultStore.getCardScoreFromStore(_currentCard, currentLang);
     
   }
   
@@ -99,16 +100,16 @@ class DeckEngine implements DeckState {
       goodInARow = previousGoodInARow + 1;
     }
     CardScore newScore = new CardScore(answerResult, goodInARow, time);
-    ResultStore.storeResult(currentCard, newScore);
+    ResultStore.storeResult(currentCard, currentLang, newScore);
   }
       
   void clearDeckResults() {
-    ResultStore.clearScores(allCardsInDeck);    
+    ResultStore.clearScores(allCardsInDeck, currentLang);    
     initLearningList();
   }
   
-  static bool isCardCompleted(Card card) {
-    CardScore inStore = ResultStore.getCardScoreFromStore(card); 
+  static bool isCardCompleted(Card card, String lang) {
+    CardScore inStore = ResultStore.getCardScoreFromStore(card, lang); 
     if (inStore == null) {
       return false;
     }
@@ -116,8 +117,14 @@ class DeckEngine implements DeckState {
   }
   
   int get deckSize => allCardsInDeck.length;
-  int get completedSize => allCardsInDeck.where(isCardCompleted).length;
-  int get dueSize => allCardsInDeck.where(isCardInLearningList).length;
+  
+  int get completedSize => allCardsInDeck
+      .where((card) => isCardCompleted(card, currentLang))
+      .length;
+  
+  int get dueSize => allCardsInDeck
+      .where((card) => isCardInLearningList(card, currentLang))
+      .length;
  
 }
  

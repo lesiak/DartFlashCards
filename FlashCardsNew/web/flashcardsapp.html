@@ -83,7 +83,9 @@
                         <template id="progressDivTmpl" bind if="{{ showProgress }}">
                           <progress-bar total="{{total}}" currentSucc="{{currentSucc}}" currentFail="{{currentFail}}"></progress-bar>                            
                         </template>                        
-                        <words-table id="wordsTable" cards={{cards}}></words-table>                       
+                        <words-table id="wordsTable" 
+                        cards="{{cards}}"
+                        primaryLang="{{primaryLang}}"></words-table>                       
                     </div>
                 </div>
             </div>

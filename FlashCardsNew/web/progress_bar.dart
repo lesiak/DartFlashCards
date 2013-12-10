@@ -1,5 +1,4 @@
 import 'package:polymer/polymer.dart';
-import 'dart:html';
 
 @CustomTag('progress-bar')
 class ProgressBarElement extends PolymerElement {

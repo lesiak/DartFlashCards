@@ -33,9 +33,9 @@ class DeckSummary extends PolymerElement {
     });   
   }  
   
-  int get _completed => cards.where(Engine.isCardCompleted).length;
+  int get _completed => cards.where((card) =>Engine.isCardCompleted(card, "ko")).length;
  
-  int get _dueSize => cards.where(Engine.isCardInLearningList).length; 
+  int get _dueSize => cards.where((card) => Engine.isCardInLearningList(card, "ko")).length; 
   
   bool get applyAuthorStyles => true;
 }

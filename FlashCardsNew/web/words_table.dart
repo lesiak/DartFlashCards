@@ -16,11 +16,17 @@ class WordsTable extends PolymerElement {
   
   @published ObservableList<Card> cards = toObservable([]);
   
+  @published String primaryLang; 
+  
   WordsTable.created() : super.created() {
     new PathObserver(this, 'cards')
     ..changes.listen((_) {
       wordRows = mapToRowData(cards);
-    });       
+    });
+    new PathObserver(this, 'primaryLang')
+    ..changes.listen((_) {
+      wordRows = mapToRowData(cards);
+    });  
   }
   
  
@@ -66,7 +72,7 @@ class WordsTable extends PolymerElement {
     List<WordTableRow> ret = [];
     var currentDate = new DateTime.now();
     for (Card card in allCardsInDeck) {
-      CardScore score = ResultStore.getCardScoreFromStore(card);
+      CardScore score = ResultStore.getCardScoreFromStore(card, primaryLang);
         
       String dueIn = "";
       String cssClass = getCssClassFromScore(score);      

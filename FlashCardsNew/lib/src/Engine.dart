@@ -45,8 +45,8 @@ class Engine {
     return allElements.where(isCardInLearningList).toList();
   }*/
   
-  static bool isCardInLearningList(Card card) {    
-    CardScore lastCardScore = ResultStore.getCardScoreFromStore(card);
+  static bool isCardInLearningList(Card card, String lang) {    
+    CardScore lastCardScore = ResultStore.getCardScoreFromStore(card, lang);
     return isInLearningList(lastCardScore);
   }
   
@@ -66,22 +66,22 @@ class Engine {
   */
     
       
-  void clearDeckResults() {
-    ResultStore.clearScores(allCardsInDeck);    
+  void clearDeckResults(String lang) {
+    ResultStore.clearScores(allCardsInDeck, lang);    
     //initLearningList();
   }
   
-  static bool isCardCompleted(Card card) {
-    CardScore inStore = ResultStore.getCardScoreFromStore(card); 
+  static bool isCardCompleted(Card card, String lang) {
+    CardScore inStore = ResultStore.getCardScoreFromStore(card, lang); 
     if (inStore == null) {
       return false;
     }
     return (inStore.lastResult == GOOD_ANSWER);
   }
   
-  int get deckSize => allCardsInDeck.length;
-  int get completedSize => allCardsInDeck.where(isCardCompleted).length;
-  int get dueSize => allCardsInDeck.where(isCardInLearningList).length;
+ // int get deckSize => allCardsInDeck.length;
+//  int get completedSize => allCardsInDeck.where((card) =>isCardCompleted(card, "ko")).length;
+//  int get dueSize => allCardsInDeck.where((card) => isCardInLearningList(card, "ko")).length;
   
   
 }

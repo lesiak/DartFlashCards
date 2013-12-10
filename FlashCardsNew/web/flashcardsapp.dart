@@ -126,7 +126,7 @@ class FlashCardsApp extends PolymerElement {
   }
   
   void clearDeckResults() {
-    engine.clearDeckResults();
+    engine.clearDeckResults(primaryLang);
     showDeckData();
   }
   

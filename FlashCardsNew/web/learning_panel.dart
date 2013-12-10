@@ -72,7 +72,7 @@ class LearingPanelElement extends PolymerElement {
   }
   
   void startPanel() {
-    deckEngine = new DeckEngine(cards);
+    deckEngine = new DeckEngine(cards, primaryLang);
     showCurrentQuestion();
   }
   
