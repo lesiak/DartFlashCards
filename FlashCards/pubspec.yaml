@@ -1,5 +1,0 @@
-name: FlashCards
-dependencies:
-  browser: any
-  polymer: any
-  unittest: any
