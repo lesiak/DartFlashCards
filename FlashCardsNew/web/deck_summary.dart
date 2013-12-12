@@ -15,27 +15,37 @@ class DeckSummary extends PolymerElement {
   @observable int dueSize;
   
   @observable int progress;
+  
+  @published String primaryLang; 
    
   DeckSummary.created() : super.created() {
     print('created summary');
     
     new PathObserver(this, 'cards')
     ..changes.listen((record) {
-      //print('lala' + record.toString());
-      completedSize = _completed;
-      dueSize = _dueSize;
-      if (cards.length > 0) {
-        progress = ((completedSize/cards.length) * 100).toInt();
-      } else {
-        progress = 0;
-      }
-      
-    });   
-  }  
+      recomputeStats();       
+    });
+    new PathObserver(this, 'primaryLang')
+    ..changes.listen((_) {
+      recomputeStats();
+    });    
+  } 
   
-  int get _completed => cards.where((card) =>Engine.isCardCompleted(card, "ko")).length;
+  void recomputeStats() {
+    completedSize = _completed;
+    dueSize = _dueSize;
+    if (cards.length > 0) {
+      progress = ((completedSize/cards.length) * 100).toInt();
+    } else {
+      progress = 0;
+    }
+  }
+  
+  
+  
+  int get _completed => cards.where((card) =>Engine.isCardCompleted(card, primaryLang)).length;
  
-  int get _dueSize => cards.where((card) => Engine.isCardInLearningList(card, "ko")).length; 
+  int get _dueSize => cards.where((card) => Engine.isCardInLearningList(card, primaryLang)).length; 
   
   bool get applyAuthorStyles => true;
 }
