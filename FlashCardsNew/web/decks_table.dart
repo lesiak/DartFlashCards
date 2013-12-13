@@ -11,28 +11,18 @@ class DecksTableElement extends PolymerElement {
   DecksTableElement.created() : super.created();
   
   void wordFileClicked(Event e, var detail, Element target) {
-    String deckName =  target.attributes['data-msg'];
-    //message = target.attributes['data-msg'];
-    //print(deckName);
+    String deckName =  target.attributes['data-msg'];    
     selectedName = deckName;
     dispatchEvent(new CustomEvent('decknameclicked', detail: deckName)); 
   }
-  
-  /*void increment(Event e, var detail, Node target) {
-    count += 1;
-  }*/
-  
+     
   bool get applyAuthorStyles => true;
   
-  String getCss(String wordFile, String _selectedNameTrigger) {
-    print("getCss" + wordFile);
+  String getCss(String wordFile, String _selectedNameTrigger) {    
     if (wordFile == selectedName) {
-      return "selectedTableRow";
-      
-    }
-    
-   // else {
+      return "selectedTableRow";      
+    } else {
       return "";
-    //}
+    }
   }
 }
