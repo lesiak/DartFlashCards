@@ -30,25 +30,24 @@ class WordsTable extends PolymerElement {
   }
   
  
-  
-  
- /* String getCssClass(Card card) {
-    CardScore score = ResultStore.getCardScoreFromStore(card);
-    String cssClass = getCssClassFromScore(score); 
-    //return cssClass;
-    return "succ";
-  }*/
-  /*
-  String getDueIn(Card card) {
-    CardScore score = ResultStore.getCardScoreFromStore(card);
-    
-    String dueIn = "";          
-    if (score != null) {
-      var currentDate = new DateTime.now();
-      dueIn = formatDuration(score.getDueInDuration(currentDate));
+  List<WordTableRow> mapToRowData(List<Card> allCardsInDeck) {
+    List<WordTableRow> ret = [];
+    var currentDate = new DateTime.now();
+    for (Card card in allCardsInDeck) {
+      CardScore score = ResultStore.getCardScoreFromStore(card, primaryLang);
+        
+      String dueIn = "";
+      String cssClass = getCssClassFromScore(score);      
+     
+      if (score != null) {     
+          dueIn = formatDuration(score.getDueInDuration(currentDate));          
+      }
+      ret.add(new WordTableRow(card, cssClass, dueIn));    
     }
-    return dueIn;
-  }*/
+    return ret;
+    
+  }
+  
 
   String getCssClassFromScore(CardScore score) {   
     if (score == null) {
@@ -68,23 +67,6 @@ class WordsTable extends PolymerElement {
     }
   }
   
-  List<WordTableRow> mapToRowData(List<Card> allCardsInDeck) {
-    List<WordTableRow> ret = [];
-    var currentDate = new DateTime.now();
-    for (Card card in allCardsInDeck) {
-      CardScore score = ResultStore.getCardScoreFromStore(card, primaryLang);
-        
-      String dueIn = "";
-      String cssClass = getCssClassFromScore(score);      
-     
-      if (score != null) {     
-          dueIn = formatDuration(score.getDueInDuration(currentDate));          
-      }
-      ret.add(new WordTableRow(card, cssClass, dueIn));    
-    }
-    return ret;
-    
-  }
   
   // This lets the Bootstrap CSS "bleed through" into the Shadow DOM
   // of this element.
