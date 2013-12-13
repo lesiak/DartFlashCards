@@ -139,13 +139,10 @@ class FlashCardsApp extends PolymerElement {
   }
   
   void showLearningPanel() {
-    $['wordFilesDiv'].hidden = true;
-    var z = $['learningPanel'].xtag;
-   $['learningPanel'].hidden = false;
-  //  showLearningPanel1 = true;
-    //var x = z.sasa();
-   z.startPanel();
-   
+    $['wordFilesDiv'].hidden = true;    
+    var learningPanel = $['learningPanel'];    
+    learningPanel.hidden = false;
+    learningPanel.startPanel(); 
   }
 
   void showHomePanel() {
