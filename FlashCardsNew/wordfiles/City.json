@@ -12,12 +12,12 @@
 { "en": "floor",    "ko": "층",   "fi": "kerros" ,   "fr":"étage"},
 { "en": "lift",     "ko": "엘리베이터",   "fi": "hissi" ,   "fr":"ascenseur"},
 { "en": "staircase",     "ko": "계단",   "fi": "portaikko" ,   "fr":"escalier"},
-{ "en": "road",     "ko": "길",   "fi": "" ,   "fr":""},
+{ "en": "road",     "ko": "길",   "fi": "tie" ,   "fr":"route"},
 { "en": "street",     "ko": "거리",   "fi": "katu" ,   "fr":"rue"},
 { "en": "alley, backstreet",     "ko": "골목",   "fi": "kuja" ,   "fr":"ruelle"},
-{ "en": "bakery",     "ko": "빵집",   "fi": "" ,   "fr":""},
+{ "en": "bakery",     "ko": "빵집",   "fi": "leipomo" ,   "fr":"boulangerie"},
 
-{ "en": "to build",     "ko": "건조하다",   "fi": "" ,   "fr":""},
+{ "en": "to build",     "ko": "건조하다",   "fi": "rakentaa" ,   "fr":"construire"},
 { "en": "dry",     "ko": "건조하다",   "fi": "" ,   "fr":""},
 { "en": "architecture",     "ko": " 건축학",   "fi": "arkkitehtuuri" ,   "fr":"architecture"},
 { "en": "architect",     "ko": " 건축가",   "fi": "arkkitehti" ,   "fr":"architecte"},
@@ -36,10 +36,10 @@
 { "en": "noisy",         "ko": "시끄럽하다",       "fi": "meluisa",          "fr": "bruyant" },
 
 
-{ "en": "prison",         "ko": "교도소",       "fi": "",          "fr": "" },
+{ "en": "prison",         "ko": "교도소",       "fi": "vankila",          "fr": "prison, (slang) cabane" },
 { "en": "city",         "ko": "도시",       "fi": "kaupunki",          "fr": "ville" },
 { "en": "village",         "ko": "마을",       "fi": "kylä",          "fr": "village" },
-{ "en": "hotel",         "ko": "호텔",       "fi": "",          "fr": "" },
+{ "en": "hotel",         "ko": "호텔",       "fi": "hotelli",          "fr": "hôtel" },
 { "en": "factory",         "ko": "공장",       "fi": "",          "fr": "" },
 { "en": "statue",         "ko": "상",       "fi": "",          "fr": "" },
 { "en": "gallery",         "ko": "화랑",       "fi": "",          "fr": "" },

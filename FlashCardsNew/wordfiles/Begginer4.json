@@ -18,8 +18,10 @@
 
 { "en": "joyful",        "ko": "즐겁다",          "fi": "iloinen",    "fr": "joyeux" },
 
+{ "en": "to open",    "ko": "열다",       "fi": "avata",    "fr": "ouvrir" },
 { "en": "open",    "ko": "열다",       "fi": "auki",    "fr": "ouvert" },
 { "en": "to close",    "ko": "닫다",       "fi": "sulkea",    "fr": "fermer" },
+{ "en": "closed",    "ko": "",       "fi": "suljettu, kiinni",    "fr": "fermé" },
 
 { "en": "difficult",       "ko": "어렵다",       "fi": "vaikea",    "fr": "difficile" },
 { "en": "easy",       "ko": "쉽다",       "fi": "helppo",    "fr": "facile" },

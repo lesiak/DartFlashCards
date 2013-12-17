@@ -14,7 +14,7 @@
 { "en": "a promise",    "ko": "약속 (contract + bind)",    "fi": "lupaus" , "fr":"promesse"},
 { "en": "to promise",    "ko": "약속하다",    "fi": "luvata" , "fr":"promettre"},
 
-{ "en": "choose",     "ko": "고르다, 선택하다",    "fi": "valita" , "fr":"choisir"},
+{ "en": "to choose",     "ko": "고르다, 선택하다",    "fi": "valita" , "fr":"choisir"},
 { "en": "choice",     "ko": "선택 (select + select)",    "fi": "valinta, valikoima" , "fr":"choix"},
 
 { "en": "warm",     "ko": "따뜻하다",    "fi": "lämmin" , "fr":"chaud"},

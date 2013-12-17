@@ -38,7 +38,8 @@
 { "en": "kitchen",        "ko": " 부엌",          "fi": "keittiö",    "fr": "cuisine" },
 
 { "en": "get up, wake up",       "ko": "일어나다",       "fi": "nousta",    "fr": "se lever" },
-{ "en": "to wash",       "ko": "씻다",       "fi": "",    "fr": "" },
+{ "en": "to wash",       "ko": "씻다",       "fi": "pestä, tiskata, pyykätä",    "fr": "laver" },
+{ "en": "to wash (oneself)",       "ko": "",       "fi": "peseytyä",    "fr": "se laver" },
 
 
 { "en": "morning",       "ko": "아침",         "fi": "aamu",    "fr": "matin" },
@@ -47,7 +48,7 @@
 
 { "en": "breakfast",       "ko": "아침",         "fi": "aamiainen",    "fr": "petit déjeuner" },
 { "en": "lunch",       "ko": "점심",         "fi": "lounas",    "fr": "déjeuner" },
-{ "en": "dinner",       "ko": "저녁",         "fi": "dîner",    "fr": "päivällinen" },
+{ "en": "dinner",       "ko": "저녁",         "fi": "päivällinen",    "fr": "dîner" },
 { "en": "cook",       "ko": "요리하다",         "fi": "keittää, laittaa ruokaa",    "fr": "cuisiner" },
 { "en": "to bake",   "ko": "굽다",    "fi": "leipoa",   "fr":""},
 { "en": "prepare",       "ko": "준비하다",         "fi": "valmistella",    "fr": "préparer" },
