@@ -35,7 +35,8 @@ class DeckSummary extends PolymerElement {
     completedSize = _completed;
     dueSize = _dueSize;
     if (cards.length > 0) {
-      progress = ((completedSize/cards.length) * 100).toInt();
+      var answeredAndNotDueSize = cards.length - dueSize; 
+      progress = ((answeredAndNotDueSize/cards.length) * 100).toInt();
     } else {
       progress = 0;
     }

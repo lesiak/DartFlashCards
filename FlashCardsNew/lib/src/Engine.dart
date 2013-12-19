@@ -79,11 +79,6 @@ class Engine {
     return (inStore.lastResult == GOOD_ANSWER);
   }
   
- // int get deckSize => allCardsInDeck.length;
-//  int get completedSize => allCardsInDeck.where((card) =>isCardCompleted(card, "ko")).length;
-//  int get dueSize => allCardsInDeck.where((card) => isCardInLearningList(card, "ko")).length;
-  
-  
 }
 
 
