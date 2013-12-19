@@ -44,17 +44,14 @@
 { "en": "to go out (from home)",        "ko": "외출하다",          "fi": "",    "fr": "sortir" },
 
 { "en": "to ride",        "ko": "타다",          "fi": "",    "fr": "" },
-{ "en": "to burn",        "ko": "타다",          "fi": "",    "fr": "" },
+{ "en": "to burn",        "ko": "타다",          "fi": "polttaa",    "fr": "" },
 
 { "en": "a visit",        "ko": "방문",          "fi": "vierailu",    "fr": "" },
 
-{ "en": "class",        "ko": "등",          "fi": "",    "fr": "" },
+{ "en": "class",        "ko": "등",          "fi": "luokka",    "fr": "" },
 { "en": "line",        "ko": "호선",          "fi": "linja",    "fr": "ligne" },
 { "en": "route",        "ko": "노선",          "fi": "reitti",    "fr": "itinéraire, route" },
 { "en": "license plate",        "ko": "번호판",          "fi": "rekisterikilpi",    "fr": "plaque d'immatriculation" },
-
-{ "en": "to ask",        "ko": "묻다 (물어)",          "fi": "",    "fr": "" },
-
 
 { "en": "complicated",        "ko": "복잡하다",          "fi": "monimutkainen",    "fr": "compliqué" },
 { "en": "immediately, right away, right",        "ko": "바로",          "fi": "heti",    "fr": "immédiatement" },

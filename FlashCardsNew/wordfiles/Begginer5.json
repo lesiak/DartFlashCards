@@ -1,5 +1,6 @@
 [
 { "en": "question",       "ko": "문제",       "fi": "kysymys, asia",    "fr": "question" },
+{ "en": "to ask",        "ko": "묻다 (물어)",          "fi": "kysyä",    "fr": "" },
 { "en": "answer",       "ko": "답변, 대답 (reply + answer)",       "fi": "vastaus",    "fr": "réponse" },
 { "en": "to answer",       "ko": "답변하다, 대답하다",       "fi": "vastata",    "fr": "répondre" },
 

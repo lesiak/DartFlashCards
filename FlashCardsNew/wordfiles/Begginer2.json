@@ -33,9 +33,12 @@
 
 
 
-{ "en": "rest",         "ko": "쉬다",       "fi": "levätä",    "fr": "se reposer" },
-{ "en": "wait",         "ko": "기다리다",       "fi": "odottaa",    "fr": "patienter" },
-{ "en": "begin",        "ko": "시작하다",       "fi": "aloittaa",    "fr": "commencer" },
+{ "en": "to rest",         "ko": "쉬다",       "fi": "levätä",    "fr": "se reposer" },
+{ "en": "to wait",         "ko": "기다리다",       "fi": "odottaa",    "fr": "patienter" },
+{ "en": "to begin (to do sth), start (doing sth)",        "ko": "시작하다",       "fi": "alkaa",    "fr": "commencer" },
+{ "en": "to begin, start",        "ko": "",       "fi": "aloittaa",    "fr": "" },
+{ "en": "to stop",        "ko": "",       "fi": "lopettaa, pysäyttää, pysähtyä",    "fr": "" },
+
 { "en": "laugh",       "ko": "웃다",      "fi": "nauraa",    "fr": "rire" },
 
 

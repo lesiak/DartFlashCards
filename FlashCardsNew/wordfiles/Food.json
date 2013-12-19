@@ -62,6 +62,7 @@
 
 { "en": "cuisine",      "ko": "요리",       "fi": "keittiö",      "fr": "cuisine" },
 { "en": "chef",         "ko": "요리사",     "fi": "kokki",        "fr": "chef de cuisine" },
+{ "en": "diet",         "ko": "다이어트",     "fi": "ruokavalio",        "fr": "" },
 
 { "en": "knife",        "ko": "칼",         "fi": "veitsi",    "fr": "couteau" },
 { "en": "spoon",        "ko": "스푼",       "fi": "lusikka",    "fr": "cuillère" },

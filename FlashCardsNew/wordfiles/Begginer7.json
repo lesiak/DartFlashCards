@@ -9,6 +9,8 @@
 { "en": "calendar",       "ko": "달력 (month + calendar)",    "fi": "kalenteri",    "fr":"calendrier"},
 { "en": "hard, solid",       "ko": "단단하다",    "fi": "kova",    "fr":"dur"},
 
+{ "en": "drug (narcotic)",       "ko": "마약",    "fi": "huume",    "fr":"drogue"},
+
 
 
 { "en": "smell",    	"ko": "냄새",    "fi": "haju, tuoksu", 	"fr":"odeur"},
