@@ -61,8 +61,8 @@
 
 
 { "en": "invitation",         "ko": "초대 (invite + wait), 초청 (invite + request)",       "fi": "kutsu",          "fr": "invitation" },
-{ "en": "to invite",         "ko": "초대하다, 초청하다",       "fi": "pyytää",          "fr": "inviter" },
-{ "en": "according to",         "ko": "-에 따라서",       "fi": "",          "fr": "" },
+{ "en": "to invite",         "ko": "초대하다, 초청하다",       "fi": "kutsua",          "fr": "inviter" },
+{ "en": "according to",         "ko": "-에 따라서",       "fi": "mukaan",          "fr": "" },
 
 { "en": "for example",         "ko": "예를 들어서",       "fi": "esimerkiksi",          "fr": "par exemple" },
 { "en": "example",         "ko": "예",       "fi": "esimerkki",          "fr": "exemple" },

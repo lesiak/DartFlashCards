@@ -41,8 +41,8 @@
 { "en": "village",         "ko": "마을",       "fi": "kylä",          "fr": "village" },
 { "en": "hotel",         "ko": "호텔",       "fi": "hotelli",          "fr": "hôtel" },
 { "en": "factory",         "ko": "공장",       "fi": "",          "fr": "" },
-{ "en": "statue",         "ko": "상",       "fi": "",          "fr": "" },
-{ "en": "gallery",         "ko": "화랑",       "fi": "",          "fr": "" },
+{ "en": "statue",         "ko": "상",       "fi": "patsas",          "fr": "" },
+{ "en": "gallery",         "ko": "화랑",       "fi": "galleria, taidegalleria",          "fr": "" },
 { "en": "railway",         "ko": "철도",       "fi": "rautatie",          "fr": "chemin de fer" },
 { "en": "railway station",         "ko": "철도역",       "fi": "rautatieasema",          "fr": "gare" },
 { "en": "intersection",         "ko": "사거리",       "fi": "risteys",          "fr": "carrefour" }
