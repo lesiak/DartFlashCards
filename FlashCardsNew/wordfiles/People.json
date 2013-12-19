@@ -23,8 +23,8 @@
 
 { "en": "fat",    "ko": "뚱뚱하다",    "fi": "lihava, läski (derogatory), paksu" , "fr":"gros"},
 { "en": "slim, slender",    "ko": "날씬하다, 호리 호리하다",    "fi": "hoikka, laiha" , "fr":"mince, maigre, svelte"},
-{ "en": "(one's) figure",    "ko": "몸매"    ,"fi": "" , "fr":""},
-{ "en": "a slender figure",    "ko": "날씬한 몸매"  ,  "fi": "" , "fr":""},
+{ "en": "(one's) figure",    "ko": "몸매"    ,"fi": "hahmo" , "fr":""},
+{ "en": "a slender figure",    "ko": "날씬한 몸매"  ,  "fi": "hoikka hahmo" , "fr":""},
 { "en": "obesity",    "ko": "비만 (fat + full)"  ,  "fi": "liikalihavuus" , "fr":"obésité"},
 
 { "en": "cut down (on)",    "ko": "줄이다"  ,  "fi": "vähentää" , "fr":"réduire"},

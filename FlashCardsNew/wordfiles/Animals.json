@@ -6,7 +6,7 @@
 { "en": "lion",       	"ko": "사자",    "fi": "leijona",   "fr": "lion" },
 { "en": "dog",        	"ko": "개",      "fi": "koira",   "fr": "chien" },
 { "en": "chicken",    	"ko": "닭",      "fi": "kana",   "fr": "poulet" },
-{ "en": "pig",      	"ko": "돼지",     "fi": "leijona",   "fr": "cochon" },
+{ "en": "pig",      	"ko": "돼지",     "fi": "sika",   "fr": "cochon" },
 { "en": "cow",      	"ko": "소",     "fi": "lehmä",   "fr": "vache" },
 { "en": "sheep",      "ko": "양",     "fi": "lammas",   "fr": "mouton" },
 { "en": "goat",      "ko": "염소",     "fi": "vuohi",   "fr": "chèvre" },
