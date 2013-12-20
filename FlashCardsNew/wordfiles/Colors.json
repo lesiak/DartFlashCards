@@ -12,7 +12,10 @@
 { "en": "purple",      "ko": "보라색",         "fi": "",          "fr": "" },
 { "en": "brown",      "ko": "밤색",         "fi": "ruskea",          "fr": "brun, marron" },
 { "en": "grey",      "ko": "회색",         "fi": "harmaa",          "fr": "gris" },
-{ "en": "violet",      "ko": "보라색",         "fi": "violetti",          "fr": "vert" }
+{ "en": "violet",      "ko": "보라색",         "fi": "violetti",          "fr": "vert" },
+
+{ "en": "colorful",      "ko": "화려한",         "fi": "värikäs",          "fr": "coloré" },
+{ "en": "colourless",      "ko": "무색의",         "fi": "väritön",          "fr": "incolore, sans couleur" }
 
 
 ]

@@ -6,7 +6,9 @@
 { "en": "baseball",     "ko": "야구 (field + ball)",       "fi": "baseball",     "fr": "base-ball" },
 { "en": "badminton",     "ko": "배드민턴",       "fi": "sulkapallo",     "fr": "badminton" },
 
-{ "en": "team",    "ko": " 팀",    "fi": "" , "fr":""},
+{ "en": "hockey",     "ko": "",       "fi": "jääkiekko",     "fr": "" },
+
+{ "en": "team",    "ko": " 팀",    "fi": "joukkue" , "fr":""},
 
 { "en": "jump",     "ko": "뛰다",       "fi": "hypätä",     "fr": "sauter" },
 { "en": "run",     "ko": "달리다",       "fi": "juosta",     "fr": "courir" },

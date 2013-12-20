@@ -13,12 +13,13 @@
 { "en": "left",       "ko": "왼",         "fi": "",    "fr": "" },
 { "en": "right",       "ko": "오른",         "fi": "",    "fr": "" },
 
-{ "en": "to touch",       "ko": "대다",         "fi": "koskea",    "fr": "toucher" }
+{ "en": "to touch",       "ko": "대다",         "fi": "koskea",    "fr": "toucher" },
 { "en": "to raise",       "ko": "들다",         "fi": "",    "fr": "" },
 
 
 { "en": "finger",       "ko": "손가락",         "fi": "sormi",    "fr": "doigt" },
-{ "en": "a bone",    "ko": "뼈",    "fi": "" , "fr":""},
+{ "en": "fingerprint",       "ko": "지문",         "fi": "sormenjälki",    "fr": "empreinte digitale" },
+{ "en": "a bone",    "ko": "뼈",    "fi": "luu" , "fr":"os"},
 
 { "en": "head",       "ko": "머리",         "fi": "pää",    "fr": "tête" },
 { "en": "brain",       "ko": "뇌",         "fi": "aivot",    "fr": "cerveau" },
@@ -37,11 +38,6 @@
 { "en": "elbow",       "ko": "팔꿈치",         "fi": "kyynärpää",    "fr": "coude" },
 
 { "en": "mentality",       "ko": "심리 (heart + principle)",         "fi": "mentaliteetti, mielenlaatu",    "fr": "mentalité" },
-{ "en": "psychology",       "ko": "심리학 (heart + principle + study)",         "fi": "psykologia, sielutiede",    "fr": "psychologie" },
-
-
-
-
-
+{ "en": "psychology",       "ko": "심리학 (heart + principle + study)",         "fi": "psykologia, sielutiede",    "fr": "psychologie" }
 
 ]

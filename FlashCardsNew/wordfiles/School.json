@@ -1,7 +1,7 @@
 [
 
 { "en": "lesson",        "ko": "수업, 과",          "fi": "oppitunti",    "fr": "leçon" },
-{ "en": "professor",        "ko": "교수",          "fi": "professeur",    "fr": "professori" },
+{ "en": "professor",        "ko": "교수",          "fi": "professori",    "fr": "professeur" },
 { "en": "dictionary",        "ko": "사전",          "fi": "sanakirja",    "fr": "dictionnaire" },
 { "en": "topic",       "ko": "주제",       "fi": "aihe",    "fr": "sujet" },
 { "en": "course",       "ko": "과목",       "fi": "kurssi",    "fr": "cours" },

@@ -3,8 +3,9 @@
 { "en": "company",           "ko": "회사",           "fi": "yritys, yhtiö",    "fr": "entreprise, société" },
 { "en": "office",           "ko": "사무실",           "fi": "toimisto, konttori",    "fr": "bureau" },
 
-{ "en": "supervisor, manager",           "ko": "과장님",           "fi": "",    "fr": "" },
-{ "en": "to request",           "ko": "부탁하다",           "fi": "",    "fr": "" },
+{ "en": "supervisor, manager",           "ko": "과장님",           "fi": "johtaja",    "fr": "" },
+{ "en": "to request",           "ko": "부탁하다",           "fi": "pyytää",    "fr": "" },
+{ "en": "a request",           "ko": "",           "fi": "pyyntö",    "fr": "" },
 { "en": "please (do so)",           "ko": "부탁합니다",           "fi": "",    "fr": "" },
 { "en": "meeting",           "ko": "회의",           "fi": "kokous",    "fr": "réunion" },
 
