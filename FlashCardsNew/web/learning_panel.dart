@@ -43,9 +43,17 @@ class LearingPanelElement extends PolymerElement {
   
   void showAnswer() {
     responsesVisible = true;
-    getPronunciations("ko", card.ko, "koPro", "ko"==primaryLang);
-    getPronunciations("fi", card.fi, "fiPro", "fi"==primaryLang);
+    getPronunciations("ko", card.ko, getProContainer("ko"), "ko"==primaryLang);
+    getPronunciations("fi", card.fi, getProContainer("fi"), "fi"==primaryLang);
     getPronunciations("fr", card.fr, "frPro", false);   
+  }
+  
+  String getProContainer(String lang) {
+    if (lang==primaryLang) {
+      return "primaryPro";
+    } else {
+      return "secondaryPro";
+    }
   }
   
   
