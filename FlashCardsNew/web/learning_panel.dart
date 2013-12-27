@@ -94,8 +94,8 @@ class LearingPanelElement extends PolymerElement {
   }
   
   void clearAnswerNodes() {  
-    $['koPro'].nodes.clear();
-    $['fiPro'].nodes.clear();
+    $['primaryPro'].nodes.clear();
+    $['secondaryPro'].nodes.clear();
     $['frPro'].nodes.clear();
   }
   
