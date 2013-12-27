@@ -8,6 +8,8 @@
 { "en": "battery",        "ko": "배터리",          "fi": "akku",    "fr": "pile" },
 { "en": "recharge",         "ko": "충전하다",       "fi": "ladata",          "fr": "recharger" },
 
+{ "en": "a charger",         "ko": "",       "fi": "laturi",          "fr": "" },
+
 { "en": "programmer",       "ko": "프로그래머",      "fi": "ohjelmoija",    "fr": "programmeur" },
 { "en": "software",         "ko": "소프트웨어",      "fi": "ohjelmisto",    "fr": "logiciel" },
 

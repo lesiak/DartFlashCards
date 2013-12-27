@@ -13,6 +13,11 @@
 
 { "en": "stapler",       "ko": "호치키스",    "fi": "nitoja",    "fr":"agrafeuse"},
 
+{ "en": "to fear",       "ko": "",    "fi": "pelätä (pelkää)",    "fr":""},
+{ "en": "fear",       "ko": "",    "fi": "pelko",    "fr":""},
+{ "en": "coward",       "ko": "",    "fi": "pelkuri",    "fr":""},
+{ "en": "scarecrow",       "ko": "",    "fi": "pelätin",    "fr":""},
+
 
 
 { "en": "smell",    	"ko": "냄새",    "fi": "haju, tuoksu", 	"fr":"odeur"},

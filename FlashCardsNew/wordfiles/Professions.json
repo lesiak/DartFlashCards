@@ -34,6 +34,8 @@
 { "en": "crime",         "ko": "범죄 (violate + fault)",       "fi": "rikollisuus, rikos",     "fr": "crime" },
 { "en": "victim",         "ko": "희생자",       "fi": "uhri",     "fr": "victime" },
 
+{ "en": "thief",         "ko": "",       "fi": "voro",     "fr": "" },
+
 { "en": "law",         "ko": "법",       "fi": "laki",     "fr": "loi" },
 { "en": "rule, law",         "ko": "법칙 (law + rule)",       "fi": "sääntö",     "fr": "règle" }
 

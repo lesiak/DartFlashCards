@@ -31,7 +31,7 @@
 { "en": "interview",         "ko": "인터뷰",       "fi": "haastattelu",          "fr": "entretien" },
 
 { "en": "series",         "ko": "시리즈",       "fi": "sarja",          "fr": "série" },
-{ "en": "a comeback",         "ko": "컴백",       "fi": "",          "fr": "" },
+{ "en": "a comeback",         "ko": "컴백",       "fi": "paluu",          "fr": "" },
 
 { "en": "famous",         "ko": "유명한",       "fi": "kuuluisa",          "fr": "célèbre" },
 { "en": "fan",         "ko": "팬",       "fi": "fani",          "fr": "fan" },

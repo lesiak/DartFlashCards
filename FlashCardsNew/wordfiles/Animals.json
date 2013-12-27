@@ -16,6 +16,10 @@
 { "en": "bear",      "ko": "곰",     "fi": "karhu",   "fr": "ours" },
 { "en": "monkey",      "ko": "원숭이",     "fi": "apina",   "fr": "singe" },
 
+{ "en": "hedgehog",      "ko": "",     "fi": "siili",   "fr": "" },
+
+ 
+
 { "en": "bird",      "ko": "새",     "fi": "lintu",   "fr": "oiseau" },
 { "en": "duck",      "ko": "오리",     "fi": "ankka",   "fr": "canard" },
 { "en": "pigeon",      "ko": "비둘기",     "fi": "kyyhkynen",   "fr": "pigeon" },

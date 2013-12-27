@@ -8,7 +8,7 @@
 
 { "en": "school",     "ko": "학교",    "fi": "koulu" ,   "fr":"école"},
 { "en": "museum",     "ko": "박물관",   "fi": "museo" ,   "fr":"musée"},
-{ "en": "centre",     "ko": "가운데",   "fi": "keskipiste" ,   "fr":"milieu"},
+{ "en": "centre",     "ko": "가운데",   "fi": "keskusta" ,   "fr":"milieu"},
 { "en": "floor",    "ko": "층",   "fi": "kerros" ,   "fr":"étage"},
 { "en": "lift",     "ko": "엘리베이터",   "fi": "hissi" ,   "fr":"ascenseur"},
 { "en": "staircase",     "ko": "계단",   "fi": "portaikko" ,   "fr":"escalier"},
@@ -29,7 +29,7 @@
 { "en": "shop",      "ko": "가게",   "fi": "myymälä, kauppa",         "fr": "magasin, boutique" },
 { "en": "departmant store",      "ko": "백화점 (hundred + goods + shop)",   "fi": "tavaratalo",     "fr": "grand magasin" },
 
-{ "en": "other side",        "ko": "건너편",          "fi": "?",    "fr": "?" },
+{ "en": "other side",        "ko": "건너편",          "fi": "toisella puolella (toinen puoli)",    "fr": "?" },
 
 { "en": "bench",         "ko": "벤치",       "fi": "penkki",          "fr": "banc" },
 { "en": "quiet",         "ko": "조용하다",       "fi": "hiljainen",          "fr": "calme, tranquille" },
@@ -40,12 +40,14 @@
 { "en": "city",         "ko": "도시",       "fi": "kaupunki",          "fr": "ville" },
 { "en": "village",         "ko": "마을",       "fi": "kylä",          "fr": "village" },
 { "en": "hotel",         "ko": "호텔",       "fi": "hotelli",          "fr": "hôtel" },
-{ "en": "factory",         "ko": "공장",       "fi": "",          "fr": "" },
+{ "en": "factory",         "ko": "공장",       "fi": "tehdas",          "fr": "" },
 { "en": "statue",         "ko": "상",       "fi": "patsas",          "fr": "" },
 { "en": "gallery",         "ko": "화랑",       "fi": "galleria, taidegalleria",          "fr": "" },
 { "en": "railway",         "ko": "철도",       "fi": "rautatie",          "fr": "chemin de fer" },
 { "en": "railway station",         "ko": "철도역",       "fi": "rautatieasema",          "fr": "gare" },
-{ "en": "intersection",         "ko": "사거리",       "fi": "risteys",          "fr": "carrefour" }
+{ "en": "intersection",         "ko": "사거리",       "fi": "risteys",          "fr": "carrefour" },
+{ "en": "pedestrian crossing",         "ko": "횡단 보도",       "fi": "suojatie",          "fr": "passage pour piétons" }
+
 
 
 

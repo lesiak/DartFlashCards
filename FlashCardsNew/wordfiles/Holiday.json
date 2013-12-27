@@ -11,6 +11,10 @@
 { "en": "passport",     "ko": "여권",       "fi": "passi",     "fr": "passeport" },
 { "en": "visa",     "ko": "",       "fi": "viisumi",     "fr": "visa" },
 
+{ "en": "trip planner",     "ko": "",       "fi": "reittiopas",     "fr": "" },
+
+
+
 { "en": "sunbathe",     "ko": "일광욕을하다",       "fi": "ottaa aurinkoa",     "fr": "bronzer" }
 
 
