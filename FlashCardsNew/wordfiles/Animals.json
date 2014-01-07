@@ -29,8 +29,13 @@
 
 { "en": "bird",      "ko": "새",     "fi": "lintu",   "fr": "oiseau" },
 { "en": "duck",      "ko": "오리",     "fi": "ankka",   "fr": "canard" },
+{ "en": "goose",      "ko": "",     "fi": "hahni",   "fr": "oie" },
 { "en": "pigeon",      "ko": "비둘기",     "fi": "kyyhkynen",   "fr": "pigeon" },
-
+{ "en": "eagle",      "ko": "",     "fi": "kotka",   "fr": "aigle" },
+{ "en": "sparrow",      "ko": "",     "fi": "varpunen",   "fr": "moineau" },
+{ "en": "swan",      "ko": "",     "fi": "joutsen",   "fr": "cygne" },
+{ "en": "stork",      "ko": "",     "fi": "haikara",   "fr": "cigogne" },
+{ "en": "gull",      "ko": "",     "fi": "lokki",   "fr": "mouette" },
 
 { "en": "ant",      "ko": "개미",     "fi": "muurahainen",   "fr": "fourmi" },
 { "en": "butterfly",      "ko": "나비",     "fi": "perhonen",   "fr": "papillon" },
