@@ -72,6 +72,10 @@
 
 { "en": "special",         "ko": "특별한",       "fi": "erityinen, erikoinen",          "fr": "spéciale" },
 
+{ "en": "timid",         "ko": "",       "fi": "arka, pelokas",          "fr": "timide" },
+{ "en": "to be timid",         "ko": "",       "fi": "arastella, arastaa",          "fr": "être timide" },
+{ "en": "to hesitate",         "ko": "주저하다",       "fi": "epäröidä",          "fr": "hésiter" },
+
 
 { "en": "criticize, reproach",  "ko": "비난하다 (blame + blame)",          "fi": "arvostella",    "fr": "critiquer" },
 { "en": "criticize",            "ko": "비판하다 (blame + judge)",          "fi": "arvostella",    "fr": "critiquer" },
