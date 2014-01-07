@@ -8,12 +8,19 @@
 { "en": "chicken",    	"ko": "닭",      "fi": "kana",   "fr": "poulet" },
 { "en": "pig",      	"ko": "돼지",     "fi": "sika",   "fr": "cochon" },
 { "en": "cow",      	"ko": "소",     "fi": "lehmä",   "fr": "vache" },
+{ "en": "horse",      "ko": "말",     "fi": "hevonen",   "fr": "cheval" },
 { "en": "sheep",      "ko": "양",     "fi": "lammas",   "fr": "mouton" },
 { "en": "goat",      "ko": "염소",     "fi": "vuohi",   "fr": "chèvre" },
 
 { "en": "fox",      "ko": "여우",     "fi": "kettu",   "fr": "renard" },
 { "en": "snake",      "ko": "뱀",     "fi": "käärme",   "fr": "serpent" },
 { "en": "bear",      "ko": "곰",     "fi": "karhu",   "fr": "ours" },
+
+{ "en": "moose, elch",      "ko": "엘크",     "fi": "hirvi",   "fr": "élan" },
+{ "en": "reindeer",      "ko": "순록",     "fi": "poro",   "fr": "renne" },
+
+
+
 { "en": "monkey",      "ko": "원숭이",     "fi": "apina",   "fr": "singe" },
 
 { "en": "hedgehog",      "ko": "",     "fi": "siili",   "fr": "" },
@@ -30,7 +37,7 @@
 { "en": "bee",      "ko": "벌",     "fi": "mehiläinen",   "fr": "abeille" },
 
 
-{ "en": "horse",      "ko": "말",     "fi": "hevonen",   "fr": "cheval" },
+
 { "en": "frog",      "ko": "개구리",     "fi": "sammakko",   "fr": "grenouille" },
 { "en": "puppy",      "ko": "강아지",     "fi": "pentu",   "fr": "chiot" },
 { "en": "elephant",      "ko": "코끼리",     "fi": "norsu",   "fr": "éléphant" },

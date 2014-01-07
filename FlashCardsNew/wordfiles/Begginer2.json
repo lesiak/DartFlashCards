@@ -74,7 +74,8 @@
 { "en": "big",       "ko": " 크다",       "fi": "iso, suuri",    "fr": "grand" },
 
 { "en": "short (height)",       "ko": "키가 작다",       "fi": "lyhyt",    "fr": "petit" },
-{ "en": "tall (height)",       "ko": " 키가 크다",       "fi": "korkea",    "fr": "haut, grand" },
+{ "en": "tall (height - building)",       "ko": " 키가 크다",       "fi": "korkea",    "fr": "haut, grand" },
+{ "en": "tall (height - man)",       "ko": " 키가 크다",       "fi": "pitkä",    "fr": "haut" },
 
 
 

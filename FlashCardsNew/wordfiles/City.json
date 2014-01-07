@@ -9,7 +9,7 @@
 { "en": "school",     "ko": "학교",    "fi": "koulu" ,   "fr":"école"},
 { "en": "museum",     "ko": "박물관",   "fi": "museo" ,   "fr":"musée"},
 { "en": "centre",     "ko": "가운데",   "fi": "keskusta" ,   "fr":"milieu"},
-{ "en": "floor",    "ko": "층",   "fi": "kerros" ,   "fr":"étage"},
+{ "en": "floor (storey)",    "ko": "층",   "fi": "kerros" ,   "fr":"étage"},
 { "en": "lift",     "ko": "엘리베이터",   "fi": "hissi" ,   "fr":"ascenseur"},
 { "en": "staircase",     "ko": "계단",   "fi": "portaikko" ,   "fr":"escalier"},
 { "en": "road",     "ko": "길",   "fi": "tie" ,   "fr":"route"},

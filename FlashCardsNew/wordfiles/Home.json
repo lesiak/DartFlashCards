@@ -19,6 +19,7 @@
 
 
 { "en": "roof", "ko": "지붕",    "fi": "katto",    "fr": "toit" },
+{ "en": "floor", "ko": "바닥",    "fi": "lattia",    "fr": "sol" },
 { "en": "fence", "ko": "울타리",    "fi": "aita",    "fr": "clôture" },
 
 { "en": "soap",        "ko": "비누",          "fi": "saippua",    "fr": "savon" }, 
