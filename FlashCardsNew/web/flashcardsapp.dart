@@ -47,6 +47,7 @@ class FlashCardsApp extends PolymerElement {
                               'Military',
                               'Countries',
                               'Plants',
+                              'Calendar',
                               'MoneyInter',
                               'Sentences1',
                               'TopikInter1']; 
