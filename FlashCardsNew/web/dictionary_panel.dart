@@ -51,10 +51,11 @@ class DictionaryPanelElement extends PolymerElement {
   }
   
   bool isCardMatching(DictionaryTableRow row) {
-    return row.card.en.startsWith(searchTerm)
-        || row.card.fi.startsWith(searchTerm)
-        || row.card.ko.startsWith(searchTerm)
-        || row.card.fr.startsWith(searchTerm);
+    var searchRegex = new RegExp(searchTerm, caseSensitive: false);
+    return row.card.en.startsWith(searchRegex)
+        || row.card.fi.startsWith(searchRegex)
+        || row.card.ko.startsWith(searchRegex)
+        || row.card.fr.startsWith(searchRegex);
   }
   
   
