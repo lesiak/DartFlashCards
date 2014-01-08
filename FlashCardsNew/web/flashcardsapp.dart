@@ -33,6 +33,7 @@ class FlashCardsApp extends PolymerElement {
                      'Animals',
                      'People',
                      'Body',
+                     'Emotions',
                      'Health',
                      'Colors'];
   
@@ -58,9 +59,9 @@ class FlashCardsApp extends PolymerElement {
   
   @observable List<String> items;
   
-  @observable String primaryLang = "ko";
+  @observable String primaryLang;
   
-  @observable String flagPath = flagsPaths["ko"];
+  @observable String flagPath;
   
   @observable int total;
   
@@ -82,7 +83,8 @@ class FlashCardsApp extends PolymerElement {
       //app.startApplication();
       this.pronounciationManager = new PronounciationManager(cache, null);
     });
-  
+    var langInStore =window.localStorage['primaryLang'];
+    primaryLang = langInStore != null ? langInStore : 'ko';
 
   }
   
@@ -236,14 +238,15 @@ class FlashCardsApp extends PolymerElement {
   void flagClicked(Event e, var detail, Element target) {
     var idx = langs.indexOf(primaryLang);
     if (idx == langs.length - 1) {
-      primaryLang = langs[0];
+      primaryLang = langs[0];      
     } else {
       primaryLang = langs[idx+1];
     }
+    window.localStorage['primaryLang'] = primaryLang;
   }
   
   void primaryLangChanged() {
-    flagPath = flagsPaths[primaryLang];
+    flagPath = flagsPaths[primaryLang];   
   }
   
   
