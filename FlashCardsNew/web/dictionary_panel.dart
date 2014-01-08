@@ -10,9 +10,9 @@ class DictionaryPanelElement extends PolymerElement {
   
   @published List<String> deckNames = toObservable([]);
   
-  @published List<Card> allCards = toObservable([]);
+  @published List<DictionaryTableRow> allCards = toObservable([]);
   
-  @published List<Card> matchingCards = toObservable([]);
+  @published List<DictionaryTableRow> matchingCards = toObservable([]);
     
   DictionaryPanelElement.created() : super.created() {
     //print('AAAAAAAAAAAAAAAAAA' + deckNames.toString()); 
@@ -25,10 +25,14 @@ class DictionaryPanelElement extends PolymerElement {
   }
   
   void loadAllCards() {    
-    var cards = new List();  
+    List<DictionaryTableRow> cards = new List();  
     var engine = new Engine();
     Future.forEach(deckNames, 
-        (wordfile) => engine.loadDeckFile('../wordfiles/$wordfile.json').then((deckCards) => cards.addAll(deckCards), onError: (e, st) => print('Cannot read $wordfile, $e, $st')))
+        (wordfile) => engine.loadDeckFile('../wordfiles/$wordfile.json')
+        .then((deckCards) {
+          var cardRows = deckCards.map((card) => new DictionaryTableRow(card, wordfile));
+          cards.addAll(cardRows);
+        } , onError: (e, st) => print('Cannot read $wordfile, $e, $st')))
       .then((_) => allCards = cards);        
   }
   
@@ -42,11 +46,11 @@ class DictionaryPanelElement extends PolymerElement {
     }
   }
   
-  bool isCardMatching(Card card) {
-    return card.en.startsWith(searchTerm)
-        || card.fi.startsWith(searchTerm)
-        || card.ko.startsWith(searchTerm)
-        || card.fr.startsWith(searchTerm);
+  bool isCardMatching(DictionaryTableRow row) {
+    return row.card.en.startsWith(searchTerm)
+        || row.card.fi.startsWith(searchTerm)
+        || row.card.ko.startsWith(searchTerm)
+        || row.card.fr.startsWith(searchTerm);
   }
   
   
@@ -54,5 +58,16 @@ class DictionaryPanelElement extends PolymerElement {
    
   bool get applyAuthorStyles => true;
   
+  
+  
+  
+}
+
+class DictionaryTableRow extends Object with Observable {
+  @observable Card card;
+  @observable String deckName;
+  
+  
+  DictionaryTableRow(this.card, this.deckName);
   
 }

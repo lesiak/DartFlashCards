@@ -49,6 +49,8 @@
 { "en": "puppy",      "ko": "강아지",     "fi": "pentu",   "fr": "chiot" },
 { "en": "elephant",      "ko": "코끼리",     "fi": "norsu",   "fr": "éléphant" },
 
+{ "en": "fish",      "ko": "물고기",     "fi": "kala",   "fr": "poisson" },
+
 { "en": "dinosaur",      "ko": "공룡",     "fi": "hirmulisko, dinosaurus",   "fr": "dinosaure" },
 
 { "en": "hamster",      "ko": "조선 쥐",     "fi": "hamsteri",   "fr": "hamster" }

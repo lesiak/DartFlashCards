@@ -24,18 +24,20 @@
           <th>English</th>
           <th>Korean</th>
           <th>Finnish</th>
-          <th>French</th>        
+          <th>French</th>
+          <th>Deck</th>        
         </tr>
       </thead>
       <tbody>     
         
                              
-        <tr template repeat="{{card in matchingCards}}">
+        <tr template repeat="{{matchingCards}}">
+            
             <td>{{card.en}}</td>
             <td>{{card.ko}}</td>
             <td>{{card.fi}}</td>
             <td>{{card.fr}}</td>
-            
+            <td>{{deckName}}</td>
         </tr>
                                   
       </tbody>
