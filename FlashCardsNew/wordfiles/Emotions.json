@@ -7,7 +7,12 @@
 { "en": "worried",         "ko": "",       "fi": "huolestunut",          "fr": "inquiet" },
 { "en": "nervous",         "ko": "",       "fi": "hermostunut",          "fr": "nerveux" },
 { "en": "shy",         "ko": "",       "fi": "ujo",          "fr": "timide" },
-{ "en": "proud",         "ko": "",       "fi": "ylpeä",          "fr": "fier" }
+{ "en": "tired",         "ko": "피곤한",       "fi": "väsynyt",          "fr": "fatigué" },
+
+{ "en": "proud",         "ko": "",       "fi": "ylpeä",          "fr": "fier" },
+
+{ "en": "sincere",         "ko": "진실하다",       "fi": "vilpitön",          "fr": "sincère" },
+{ "en": "reliable",           "ko": "믿음직하다",       "fi": "luotettava",          "fr": "fiable" }
 
 
 ]

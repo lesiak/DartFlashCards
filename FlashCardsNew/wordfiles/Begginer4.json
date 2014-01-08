@@ -59,14 +59,14 @@
 
 { "en": "fact",         "ko": "사실",       "fi": "tosiasia",          "fr": "fait, vérité" },
 { "en": "joke",         "ko": "농담",       "fi": "vitsi",          "fr": "blague" },
-{ "en": "sincere",         "ko": "진실하다",       "fi": "vilpitön",          "fr": "sincère" },
+
 { "en": "meaning",         "ko": "의미, 뜻",       "fi": "merkitys, tarkoitus",          "fr": "sens, signification" },
 { "en": "to consider",         "ko": "고려하다",       "fi": "harkita",          "fr": "envisager, considérer" },
 { "en": "believe",       "ko": "믿다",       "fi": "uskoa (siihen)",    "fr": "croire" },
 { "en": "to expect",       "ko": "예상하다, 기대하다",       "fi": "odottaa",    "fr": "attendre" },
 { "en": "to intend",       "ko": "",       "fi": "aikoa",    "fr": "avoir l'intention" },
 
-{ "en": "reliable",           "ko": "믿음직하다",       "fi": "luotettava",          "fr": "fiable" },
+
 { "en": "likely (probable)",  "ko": "음직하다",       "fi": "todennäköinen",      "fr": "probable" },
 { "en": "likely (probably)",    "ko": "아마도",       "fi": "todennäköisesti",      "fr": "probablement" },
 

@@ -48,6 +48,9 @@
 
 { "en": "silver",         "ko": "은",       "fi": "hopea",    "fr": "argent" }, 
 { "en": "gold",         "ko": "금",       "fi": "kulta",    "fr": "or" },
+{ "en": "iron",         "ko": "철",       "fi": "rauta",    "fr": "fer" },
+{ "en": "steel",         "ko": "강철",       "fi": "teräs",    "fr": "acier" },
+
 { "en": "glass (material)",         "ko": "유리",       "fi": "lasi",    "fr": "verre" },
 
 

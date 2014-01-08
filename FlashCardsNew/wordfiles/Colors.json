@@ -7,7 +7,7 @@
 { "en": "blue",     "ko": "파란색, 파랗다",        "fi": "sininen",          "fr": "bleu" },
 { "en": "blue (nature)",     "ko": "푸르다",        "fi": "sininen",          "fr": "bleu" },
 { "en": "green",     	"ko": "초록색",       	"fi": "vihreä",          "fr": "vert" },
-{ "en": "orange",      "ko": "오렌지색",        "fi": "",          "fr": "" },
+{ "en": "orange",      "ko": "오렌지색",        "fi": "oranssi",          "fr": "" },
 { "en": "pink",      "ko": "분홍색 (powder + red + colour)",         "fi": "vaaleanpunainen",          "fr": "rose" },
 { "en": "purple",      "ko": "보라색",         "fi": "",          "fr": "" },
 { "en": "brown",      "ko": "밤색",         "fi": "ruskea",          "fr": "brun, marron" },

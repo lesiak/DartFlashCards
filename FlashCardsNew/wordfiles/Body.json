@@ -13,6 +13,8 @@
 { "en": "left",       "ko": "왼",         "fi": "",    "fr": "" },
 { "en": "right",       "ko": "오른",         "fi": "",    "fr": "" },
 
+{ "en": "skin",       "ko": "피부",         "fi": "iho",    "fr": "peau" },
+
 { "en": "to touch",       "ko": "대다",         "fi": "koskea",    "fr": "toucher" },
 { "en": "to raise",       "ko": "들다",         "fi": "",    "fr": "" },
 
