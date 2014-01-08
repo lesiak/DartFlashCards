@@ -20,10 +20,15 @@ class Engine {
   Engine() {}  
   
   void loadData(String wordfilePath, DataLoadedCallback onDataReady) {
-    HttpRequest.getString(wordfilePath).then((responseText) {
-      _initDeck(responseText);
-      onDataReady();
-    });
+    //HttpRequest.getString(wordfilePath).then((responseText) {
+    //  _initDeck(responseText);
+    //  onDataReady();
+    //});
+    loadDeckFile(wordfilePath).then(
+        (allCards) {
+          this.allCardsInDeck = allCards;
+          onDataReady();
+        });
   }
   
   Future<List<Card>> loadDeckFile(String wordfilePath) {
@@ -31,11 +36,11 @@ class Engine {
     return allCardsFut;
   }
   
-  void _initDeck(String wordListJSON) {
-    List rawData = JSON.parse(wordListJSON); // parse response text
-    allCardsInDeck = rawData.map((entry) => new Card(entry["en"], entry["ko"], entry["fi"], entry["fr"])).toList();
+//  void _initDeck(String wordListJSON) {
+//    List rawData = JSON.parse(wordListJSON); // parse response text
+//    allCardsInDeck = rawData.map((entry) => new Card(entry["en"], entry["ko"], entry["fi"], entry["fr"])).toList();
     //initLearningList();    
-  }
+//  }
   
   List<Card> _buildDeckFromJson(String wordListJSON) {
     List rawData = JSON.parse(wordListJSON); // parse response text

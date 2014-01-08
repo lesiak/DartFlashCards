@@ -1,7 +1,6 @@
 import 'package:polymer/polymer.dart';
 
 import 'dart:html';
-import 'dart:async';
 
 import 'package:FlashCardsNew/filecache_api.dart';
 import 'package:FlashCardsNew/flashcards_core.dart';
@@ -150,11 +149,18 @@ class FlashCardsApp extends PolymerElement {
   void showHomePanel() {
     $['wordFilesDiv'].hidden = false;
     $['learningPanel'].hidden = true;
+    $['dictionaryPanel'].hidden = true;
   //  showLearningPanel1 = false;
     //query("#wordFilesDiv").hidden=false;
    // query("#learningPanel").hidden=true;
    // query("#deckDetailsDiv").hidden=false;
     
+  }
+  
+  void showDictionary() {
+    print('show dictionarty');
+    $['wordFilesDiv'].hidden = true;
+    $['dictionaryPanel'].hidden = false;
   }
   
  // void showCurrentQuestion() {
@@ -249,17 +255,17 @@ class FlashCardsApp extends PolymerElement {
     flagPath = flagsPaths[primaryLang];   
   }
   
-  void calculateDictionarySize() {
-    print('calculate numbers');
-    var sum = 0;
-    List allDecks = new List();
-    allDecks.addAll(level1Files);
-    allDecks.addAll(level2Files);
-    Future.forEach(allDecks, 
-        (wordfile) => engine.loadDeckFile('../wordfiles/$wordfile.json').then((allCards) => sum += allCards.length, onError: (e, st) => print('Cannot read $wordfile, $e, $st')))
-      .then((val) => window.alert('sum $sum'));        
-  }
+ 
   
+  
+ 
+  
+  List<String> get allDeckNames {
+    var deckNames = new List();
+    deckNames.addAll(level1Files);
+    deckNames.addAll(level2Files);
+    return deckNames;
+  }
   
   
 // This lets the Bootstrap CSS "bleed through" into the Shadow DOM

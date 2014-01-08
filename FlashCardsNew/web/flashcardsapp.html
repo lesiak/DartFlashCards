@@ -5,6 +5,7 @@
 <link rel="import" href="deck_summary.html">
 <link rel="import" href="decks_table.html">
 <link rel="import" href="learning_panel.html">
+<link rel="import" href="dictionary_panel.html">
 <link rel="import" href="progress_bar.html">
 
 <polymer-element name="flashcards-app" attributes="count">
@@ -33,8 +34,8 @@
   		<li class="active">
     			<a id="homePill" on-click="{{goToHomePanel}}" href="#">Home</a>
   			</li>
-  			<li><a href="#">Options</a></li>
-        <li><a href="#" on-click="{{calculateDictionarySize}}">Dictionary Size</a></li>
+  			<li><a href="#">Options</a></li>        
+        <li><a href="#" on-click="{{showDictionary}}">Dictionary</a></li>
   			<li><a href="#">...</a></li>
 		</ul>    	
 		
@@ -98,8 +99,12 @@
                   id="learningPanel" 
                   on-deck-finished="{{goToHomePanel}}" 
                   cards="{{cards}}"
-                  primaryLang="{{primaryLang}}"></learning-panel>
-              
+                  primaryLang="{{primaryLang}}">
+              </learning-panel>
+              <dictionary-panel hidden="true" 
+                  id="dictionaryPanel"
+                  deckNames="{{allDeckNames}}">
+              </dictionary-panel>
             
 	    </div> <!-- page Content -->             
     </div> <!-- span10 -->     
