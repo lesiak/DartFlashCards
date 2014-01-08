@@ -13,6 +13,8 @@ class DictionaryPanelElement extends PolymerElement {
   @published List<DictionaryTableRow> allCards = toObservable([]);
   
   @published List<DictionaryTableRow> matchingCards = toObservable([]);
+  
+  @published int dictionarySize;
     
   DictionaryPanelElement.created() : super.created() {
     //print('AAAAAAAAAAAAAAAAAA' + deckNames.toString()); 
@@ -33,11 +35,13 @@ class DictionaryPanelElement extends PolymerElement {
           var cardRows = deckCards.map((card) => new DictionaryTableRow(card, wordfile));
           cards.addAll(cardRows);
         } , onError: (e, st) => print('Cannot read $wordfile, $e, $st')))
-      .then((_) => allCards = cards);        
+      .then((_) {
+        allCards = cards;
+        dictionarySize = allCards.length;
+      });        
   }
   
-  void searchTermChanged() {
-    print('onSearchTermChanged' + searchTerm);
+  void searchTermChanged() {    
     if (searchTerm.length < 2) {     
       matchingCards.clear();  
     } else {

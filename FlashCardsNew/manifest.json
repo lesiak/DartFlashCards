@@ -1,6 +1,6 @@
 {
 "name": "FlashCards",
-"version": "0.0.8",
+"version": "0.0.9",
 "manifest_version": 2,
 "description": "My Flashcards application.",
 "app": {
