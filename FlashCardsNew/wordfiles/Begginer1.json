@@ -23,6 +23,7 @@
 { "en": "sky",        "ko": "하늘",          "fi": "taivas",    "fr": "ciel" },
 { "en": "cloud",        "ko": "구름",          "fi": "pilvi",    "fr": "nuage" },
 { "en": "rainbow",        "ko": "무지개",          "fi": "sateenkaari",    "fr": "arc-en-ciel" },
+{ "en": "stone",        "ko": "돌",          "fi": "kivi",    "fr": "pierre" },
  
 { "en": "rain",        "ko": "비",          "fi": "sade",    "fr": "pluie" },
 { "en": "snow",        "ko": "눈",          "fi": "lumi",    "fr": "neige" },

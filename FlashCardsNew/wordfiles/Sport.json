@@ -10,6 +10,9 @@
 
 { "en": "team",    "ko": " 팀",    "fi": "joukkue" , "fr":""},
 
+{ "en": "to ski",    "ko": " ",    "fi": "hiihtää" , "fr":"skier"},
+{ "en": "skis",    "ko": " 스키",    "fi": "sukset" , "fr":"skis"},
+
 { "en": "jump",     "ko": "뛰다",       "fi": "hypätä",     "fr": "sauter" },
 { "en": "run",     "ko": "달리다",       "fi": "juosta",     "fr": "courir" },
 { "en": "kick",     "ko": "차다",       "fi": "potkia",     "fr": "botter" },

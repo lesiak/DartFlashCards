@@ -1,5 +1,5 @@
 [
-
+{ "en": "computer",        "ko": "컴퓨터",          "fi": "tietokone",    "fr": "ordinateur" },
 { "en": "keyboard",        "ko": "키보드",          "fi": "näppäimistö",    "fr": "clavier" },
 { "en": "notebook",        "ko": "노트북",          "fi": "",    "fr": "" },
 { "en": "monitor",        "ko": "모니터",          "fi": "monitori",    "fr": "moniteur" },
