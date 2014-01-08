@@ -9,7 +9,7 @@
 { "en": "powder",       "ko": "가루",         "fi": "jauhe",    "fr": "poudre" },
 { "en": "flour",       "ko": "가루",         "fi": "jauhot",    "fr": "farine" },
 { "en": "bread",       "ko": "빵",         "fi": "leipä",    "fr": "pain" },
-{ "en": "salt",       "ko": "소금",         "fi": "suolaa",    "fr": "sel" },
+{ "en": "salt",       "ko": "소금",         "fi": "suola",    "fr": "sel" },
 { "en": "sugar",       "ko": "설탕",         "fi": "sokeri",    "fr": "sucre" },
 { "en": "garlic",       "ko": "마늘",         "fi": "valkosipuli",    "fr": "ail" },
 { "en": "beer",       "ko": "맥주",         "fi": "olut",    "fr": "bière" },
@@ -23,7 +23,7 @@
 { "en": "carrot",       "ko": "당근",         "fi": "porkkana",    "fr": "carotte" },
 { "en": "aubergine",       "ko": "가지",         "fi": "munakoiso",    "fr": "aubergine" },
 { "en": "potato",       "ko": "감자",         "fi": "peruna",    "fr": "pomme de terre" },
-{ "en": "fries",    "ko": "감자튀김",    "fi": "" , "fr":""},
+{ "en": "french fries",    "ko": "감자튀김",    "fi": "ranskalaiset" , "fr":""},
 
 { "en": "fruit",       "ko": "과일",         "fi": "hedelmä",    "fr": "fruit" },
 
@@ -33,9 +33,9 @@
 
 { "en": "soup",       "ko": "국",         "fi": "keitto",    "fr": "soupe" },
 { "en": "meat",       "ko": "고기",         "fi": "liha",    "fr": "viande" },
-{ "en": "bacon",    "ko": "베이컨",    "fi": "" , "fr":"lardon"},
-{ "en": "egg",    "ko": "알",    "fi": "" , "fr":""},
-{ "en": "oil",    "ko": "기름",    "fi": "" , "fr":""},
+{ "en": "bacon",    "ko": "베이컨",    "fi": "pekoni" , "fr":"lardon"},
+{ "en": "egg",    "ko": "알",    "fi": "muna" , "fr":"œuf"},
+{ "en": "oil",    "ko": "기름",    "fi": "öljy" , "fr":"huile"},
 
 { "en": "ice",       "ko": "얼음",         "fi": "jää",    "fr": "glace" },
 { "en": "hot pepper",       "ko": "고추",         "fi": "kuuma pippuria",    "fr": "piment" },
@@ -55,7 +55,7 @@
 { "en": "omelette",       "ko": "",         "fi": "munakas",    "fr": "" },
 
 
-{ "en": "ice cream",       "ko": "아이스크림",         "fi": "jäätelö",    "fr": "crème glacée" },
+{ "en": "ice cream",       "ko": "아이스크림",         "fi": "jätski, jäätelö",    "fr": "crème glacée" },
 { "en": "alkohol",       "ko": "알코올",         "fi": "alkoholi",    "fr": "alcool" },
 { "en": "sesame",       "ko": "참깨",         "fi": "seesami",    "fr": "sésame" },
 

@@ -39,7 +39,7 @@
 { "en": "prison",         "ko": "교도소",       "fi": "vankila",          "fr": "prison, (slang) cabane" },
 { "en": "city",         "ko": "도시",       "fi": "kaupunki",          "fr": "ville" },
 { "en": "village",         "ko": "마을",       "fi": "kylä",          "fr": "village" },
-{ "en": "hotel",         "ko": "호텔",       "fi": "hotelli",          "fr": "hôtel" },
+
 { "en": "factory",         "ko": "공장",       "fi": "tehdas",          "fr": "" },
 { "en": "statue",         "ko": "상",       "fi": "patsas",          "fr": "" },
 { "en": "gallery",         "ko": "화랑",       "fi": "galleria, taidegalleria",          "fr": "" },
