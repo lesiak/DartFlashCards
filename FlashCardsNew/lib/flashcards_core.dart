@@ -1,6 +1,7 @@
 library flashcards_core;
 
 import 'dart:html';
+import 'dart:async';
 import 'package:json/json.dart' as JSON;
 import 'package:polymer/polymer.dart';
 

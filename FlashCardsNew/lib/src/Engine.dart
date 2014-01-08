@@ -26,10 +26,21 @@ class Engine {
     });
   }
   
+  Future<List<Card>> loadDeckFile(String wordfilePath) {
+    Future<List<Card>> allCardsFut = HttpRequest.getString(wordfilePath).then(_buildDeckFromJson);
+    return allCardsFut;
+  }
+  
   void _initDeck(String wordListJSON) {
     List rawData = JSON.parse(wordListJSON); // parse response text
     allCardsInDeck = rawData.map((entry) => new Card(entry["en"], entry["ko"], entry["fi"], entry["fr"])).toList();
     //initLearningList();    
+  }
+  
+  List<Card> _buildDeckFromJson(String wordListJSON) {
+    List rawData = JSON.parse(wordListJSON); // parse response text
+    List<Card> allCards = rawData.map((entry) => new Card(entry["en"], entry["ko"], entry["fi"], entry["fr"])).toList();
+    return allCards;    
   }
   
   /*void initLearningList() {

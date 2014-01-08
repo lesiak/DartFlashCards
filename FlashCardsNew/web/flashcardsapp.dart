@@ -249,6 +249,17 @@ class FlashCardsApp extends PolymerElement {
     flagPath = flagsPaths[primaryLang];   
   }
   
+  void calculateDictionarySize() {
+    print('calculate numbers');
+    var sum = 0;
+    List allDecks = new List();
+    allDecks.addAll(level1Files);
+    allDecks.addAll(level2Files);
+    Future.forEach(allDecks, 
+        (wordfile) => engine.loadDeckFile('../wordfiles/$wordfile.json').then((allCards) => sum += allCards.length, onError: (e, st) => print('Cannot read $wordfile, $e, $st')))
+      .then((val) => window.alert('sum $sum'));        
+  }
+  
   
   
 // This lets the Bootstrap CSS "bleed through" into the Shadow DOM
