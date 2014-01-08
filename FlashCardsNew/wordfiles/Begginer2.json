@@ -52,7 +52,7 @@
 { "en": "steel",         "ko": "강철",       "fi": "teräs",    "fr": "acier" },
 
 { "en": "glass (material)",         "ko": "유리",       "fi": "lasi",    "fr": "verre" },
-
+{ "en": "a liquid",         "ko": "액체",       "fi": "neste",    "fr": "liquide" },
 
 { "en": "long",         "ko": "길다",       "fi": "pitkä",          "fr": "long" },
 { "en": "short",         "ko": "짧다",       "fi": "lyhyt",          "fr": "court" },

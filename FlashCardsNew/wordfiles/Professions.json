@@ -19,7 +19,7 @@
 { "en": "miner",    "ko": "갱부",    "fi": "kaivosmies" , "fr":"mineur"},
 { "en": "mine",    "ko": "광산, 갱도",    "fi": "kaivos" , "fr":"mine"},
 
-
+{ "en": "lawyer",        "ko": "",          "fi": "lakimies",    "fr": "avocat" },
 { "en": "prosecutor",        "ko": "검사",          "fi": "syyttäjä",    "fr": "procureur" },
 
 { "en": "waiter",    "ko": "웨이터",    "fi": "tarjoilija" , "fr":"serveur"},

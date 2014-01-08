@@ -57,15 +57,9 @@ class DictionaryPanelElement extends PolymerElement {
         || row.card.ko.startsWith(searchRegex)
         || row.card.fr.startsWith(searchRegex);
   }
-  
-  
-  
    
   bool get applyAuthorStyles => true;
-  
-  
-  
-  
+    
 }
 
 class DictionaryTableRow extends Object with Observable {

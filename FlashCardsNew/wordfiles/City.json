@@ -29,6 +29,9 @@
 { "en": "shop",      "ko": "가게",   "fi": "myymälä, kauppa",         "fr": "magasin, boutique" },
 { "en": "departmant store",      "ko": "백화점 (hundred + goods + shop)",   "fi": "tavaratalo",     "fr": "grand magasin" },
 
+{ "en": "town hall",     "ko": "",   "fi": "kaupungintalo" ,   "fr":"mairie"},
+{ "en": "square (in city)",     "ko": "",   "fi": "aukio" ,   "fr":"place"},
+
 { "en": "other side",        "ko": "건너편",          "fi": "toisella puolella (toinen puoli)",    "fr": "?" },
 
 { "en": "bench",         "ko": "벤치",       "fi": "penkki",          "fr": "banc" },
@@ -39,6 +42,7 @@
 { "en": "prison",         "ko": "교도소",       "fi": "vankila",          "fr": "prison, (slang) cabane" },
 { "en": "city",         "ko": "도시",       "fi": "kaupunki",          "fr": "ville" },
 { "en": "village",         "ko": "마을",       "fi": "kylä",          "fr": "village" },
+{ "en": "suburb",         "ko": "근교",       "fi": "esikaupunki",          "fr": "banlieue" },
 
 { "en": "factory",         "ko": "공장",       "fi": "tehdas",          "fr": "" },
 { "en": "statue",         "ko": "상",       "fi": "patsas",          "fr": "" },
