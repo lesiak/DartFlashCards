@@ -159,9 +159,9 @@ class FlashCardsApp extends PolymerElement {
     
   }
   
-  void showDictionary() {
-    print('show dictionarty');
+  void showDictionary() {    
     $['wordFilesDiv'].hidden = true;
+    $['learningPanel'].hidden = true;
     $['dictionaryPanel'].hidden = false;
   }
   
