@@ -25,6 +25,8 @@
 { "en": "cloud",        "ko": "구름",          "fi": "pilvi",    "fr": "nuage" },
 { "en": "rainbow",        "ko": "무지개",          "fi": "sateenkaari",    "fr": "arc-en-ciel" },
 { "en": "stone",        "ko": "돌",          "fi": "kivi",    "fr": "pierre" },
+{ "en": "swamp",        "ko": "늪",          "fi": "suo",    "fr": "marais" },
+
  
 { "en": "rain",        "ko": "비",          "fi": "sade",    "fr": "pluie" },
 { "en": "snow",        "ko": "눈",          "fi": "lumi",    "fr": "neige" },
@@ -47,7 +49,7 @@
 { "en": "not to know",       "ko": "모르다",       "fi": "ei tiedä",    "fr": "ne pas savoir" },
 { "en": "make",       "ko": "만들다",       "fi": "tehdä",    "fr": "faire" },
 { "en": "see",       "ko": "보다",       "fi": "nähdä",    "fr": "voir" },
-{ "en": "to be seen",       "ko": "보이다",       "fi": "",    "fr": "" },
+{ "en": "to be seen",       "ko": "보이다",       "fi": "näkyä",    "fr": "" },
 { "en": "to show",       "ko": "보여주다",       "fi": "näyttää",    "fr": "montrer" },
 
 { "en": "to look",       "ko": "보이다 (??)",       "fi": "näyttää, katsoa",    "fr": "regarder" },

@@ -1,7 +1,7 @@
 [
 
 { "en": "sad",         "ko": "",       "fi": "surullinen",          "fr": "triste" },
-
+{ "en": "happy",         "ko": "행복하다",       "fi": "onnellinen",          "fr": "heureux" },
 { "en": "angry",         "ko": "성난",       "fi": "vihainen, suuttunut",          "fr": "en colère, fâché" },
 
 { "en": "worried",         "ko": "",       "fi": "huolestunut",          "fr": "inquiet" },
@@ -10,6 +10,11 @@
 { "en": "tired",         "ko": "피곤한",       "fi": "väsynyt",          "fr": "fatigué" },
 
 { "en": "proud",         "ko": "",       "fi": "ylpeä",          "fr": "fier" },
+
+{ "en": "to fear",       "ko": "",    "fi": "pelätä (pelkää)",    "fr":""},
+{ "en": "fear",       "ko": "",    "fi": "pelko",    "fr":""},
+{ "en": "coward",       "ko": "",    "fi": "pelkuri",    "fr":""},
+
 
 { "en": "sincere",         "ko": "진실하다",       "fi": "vilpitön",          "fr": "sincère" },
 { "en": "reliable",           "ko": "믿음직하다",       "fi": "luotettava",          "fr": "fiable" }

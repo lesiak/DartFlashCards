@@ -14,6 +14,9 @@
 { "en": "pistol",        "ko": "권총",          "fi": "pistooli",    "fr": "" },
 { "en": "machine gun",        "ko": "기관총",          "fi": "konekivääri",    "fr": "mitrailleuse" },
 
+{ "en": "shoot",        "ko": "쏘다",          "fi": "ampua",    "fr": "tirer" },
+
+
 { "en": "bomb",        "ko": "폭탄",          "fi": "pommi",    "fr": "" },
 { "en": "explosion",        "ko": "폭발",          "fi": "räjähdys",    "fr": "" },
 { "en": "violence",        "ko": "폭력",          "fi": "väkivalta",    "fr": "violence" },

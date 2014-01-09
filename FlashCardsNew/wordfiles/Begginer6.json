@@ -1,6 +1,8 @@
 [
 
 { "en": "culture",      "ko": "문화",    "fi": "kulttuuri",         "fr": "culture" },
+{ "en": "entertainment",      "ko": "환대",    "fi": "viihde",         "fr": "divertissement" },
+{ "en": "book",     "ko": "책",   "fi": "kirja",      "fr": "livre" },
 { "en": "newspaper",     "ko": "신문 (new + hear)",   "fi": "sanomalehti",      "fr": "journal" },
 { "en": "magazine",     "ko": "잡지",   "fi": "aikakauslehti",      "fr": "magazine" },
 { "en": "paper",        "ko": "종이",      "fi": "paperi",          "fr": "papier" },
@@ -31,6 +33,8 @@
 { "en": "interview",         "ko": "인터뷰",       "fi": "haastattelu",          "fr": "entretien" },
 
 { "en": "series",         "ko": "시리즈",       "fi": "sarja",          "fr": "série" },
+{ "en": "duration",         "ko": "지속",       "fi": "kesto",          "fr": "durée" },
+
 { "en": "a comeback",         "ko": "컴백",       "fi": "paluu",          "fr": "" },
 
 { "en": "famous",         "ko": "유명한",       "fi": "kuuluisa",          "fr": "célèbre" },
@@ -52,6 +56,7 @@
 { "en": "president",        "ko": "대통령 (great + command + govern)",          "fi": "presidentti",    "fr": "président" },
 { "en": "government",        "ko": "정부",          "fi": "hallitus",    "fr": "gouvernement" },
 { "en": "authorities",        "ko": "당국",          "fi": "viranomaiset",    "fr": "autorités" },
+{ "en": "delegate",        "ko": "대리자",          "fi": "edustaja",    "fr": "délégué" },
 
 { "en": "state",        "ko": "",          "fi": "valtio",    "fr": "état" },
 
