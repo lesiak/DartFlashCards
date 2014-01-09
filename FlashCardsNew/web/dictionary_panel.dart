@@ -41,12 +41,13 @@ class DictionaryPanelElement extends PolymerElement {
       });        
   }
   
-  void searchTermChanged() {
-    print('searchTermChanged: ' + searchTerm);
+  void searchTermChanged() {    
     if (searchTerm.contains("a:")) {
       searchTerm = searchTerm.replaceAll("a:", '\u00e4');
+      return;
     } else if (searchTerm.contains("o:")) {
       searchTerm = searchTerm.replaceAll("o:", '\u00f6');
+      return;
     }
     if (searchTerm.length < 2) {     
       matchingCards.clear();  
