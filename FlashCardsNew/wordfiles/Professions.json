@@ -24,6 +24,8 @@
 
 { "en": "waiter",    "ko": "웨이터",    "fi": "tarjoilija" , "fr":"serveur"},
 { "en": "policeman",    "ko": "경찰관",    "fi": "poliisi" , "fr":"policier, gendarme"},
+{ "en": "fireman",    "ko": "소방수",    "fi": "palomies" , "fr":"pompier"},
+
 
 { "en": "beggar",         "ko": "거지",       "fi": "kerjäläinen",          "fr": "mendiant" },
 { "en": "begging",         "ko": "구걸",       "fi": "kerjääminen",          "fr": "la mendicité" },

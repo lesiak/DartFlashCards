@@ -30,7 +30,7 @@
 { "en": "towel",        "ko": "수건, 타월",          "fi": "pyyhe",    "fr": "serviette" },
 { "en": "shaving",        "ko": "면도",          "fi": "parranajo",    "fr": "rasage" },
 { "en": "razor",        "ko": "면도칼",          "fi": "partakone",    "fr": "rasoir" },
-{ "en": "lamp",        "ko": "램프",          "fi": "lamppu",    "fr": "lampe" },
+{ "en": "lamp",        "ko": "램프, 전등",          "fi": "lamppu",    "fr": "lampe" },
 { "en": "bath",        "ko": "목욕",          "fi": "kylpy",    "fr": "bain" },
 { "en": "bathroom",        "ko": "욕실",          "fi": "kylpyhuone",    "fr": "salle de bain" },
 { "en": "bathe",        "ko": " 목욕시키다",          "fi": "kylpeä",    "fr": "se baigner" },

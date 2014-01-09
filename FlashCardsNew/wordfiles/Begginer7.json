@@ -40,6 +40,7 @@
 
 { "en": "to decorate",         "ko": "장식하다",       "fi": "koristella",          "fr": "décorer" },
 
+{ "en": "announcement",         "ko": "발표",       "fi": "ilmoitus",          "fr": "annonce" },
 
 
 
@@ -49,11 +50,12 @@
 
 { "en": "ocean",    "ko": "대양, 해양",    "fi": "" , "fr":""},
 { "en": "freedom, liberty",    "ko": "자유",    "fi": "" , "fr":""},
-{ "en": "religion",    "ko": "종교",    "fi": "" , "fr":""},
+{ "en": "religion",    "ko": "종교",    "fi": "uskonto" , "fr":"religion"},
+{ "en": "Buddhism",   "ko": "불교",    "fi": "buddhalaisuus",   "fr":"bouddhisme"},
 
-{ "en": "dry",    "ko": "마르다",    "fi": "" , "fr":""},
+{ "en": "dry",    "ko": "마르다",    "fi": "" , "fr":""}
 
-{ "en": "lamp",    "ko": "전등, 램프",    "fi": "lamppu" , "fr":"lampe"}
+
 
 
 ]

@@ -20,7 +20,10 @@
 
 
 { "en": "login",    "ko": "로그인",    "fi": "" , "fr":""},
-{ "en": "password",    "ko": "비밀번호",    "fi": "" , "fr":""},
+{ "en": "password",    "ko": "비밀번호",    "fi": "salasana" , "fr":""},
+
+{ "en": "folder",    "ko": "폴더",    "fi": "kansio" , "fr":"dossier"},
+
 
 { "en": "to monitor",         "ko": "",      "fi": "valvoa",    "fr": "surveiller" }
 

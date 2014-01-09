@@ -17,7 +17,7 @@
 { "en": "bomb",        "ko": "폭탄",          "fi": "pommi",    "fr": "" },
 { "en": "explosion",        "ko": "폭발",          "fi": "räjähdys",    "fr": "" },
 { "en": "violence",        "ko": "폭력",          "fi": "väkivalta",    "fr": "violence" },
-{ "en": "violent",        "ko": "폭력적인, 격렬한",          "fi": "väkivalta",    "fr": "violent" },
+{ "en": "violent",        "ko": "폭력적인, 격렬한",          "fi": "väkivaltainen",    "fr": "violent" },
 { "en": "to injure",        "ko": "해치다",          "fi": "loukata",    "fr": "blesser" },
 { "en": "demonstration",        "ko": "시위, 시연, 데모",          "fi": "mielenosoitus",    "fr": "démonstration" },
 
