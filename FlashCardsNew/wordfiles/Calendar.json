@@ -1,5 +1,14 @@
 [
 
+
+{ "en": "Monday",     "ko": "월요일",         "fi": "maanantai",          "fr": "lundi" },
+{ "en": "Tuesday",     "ko": "화요일",         "fi": "tiistai",          "fr": "mardi" },
+{ "en": "Wednesday",     "ko": "수요일",         "fi": "keskiviikko",          "fr": "mercredi" },
+{ "en": "Thursday",     "ko": "목요일",         "fi": "torstai",          "fr": "jeudi" },
+{ "en": "Friday",     "ko": "금요일",         "fi": "perjantai",          "fr": "vendredi" },
+{ "en": "Saturday",     "ko": "토요일",         "fi": "lauantai",          "fr": "samedi" },
+{ "en": "Sunday",     "ko": "일요일",         "fi": "sunnuntai",          "fr": "dimanche" },
+
 { "en": "January",     "ko": "일월",         "fi": "tammikuu",          "fr": "janvier" },
 { "en": "February",     "ko": "이월",         "fi": "helmikuu",          "fr": "février" },
 { "en": "March",     "ko": "삼월",         "fi": "maaliskuu",          "fr": "mars" },
