@@ -53,8 +53,6 @@
 { "en": "ratio, proportion",             "ko": "비율",              "fi": "suhde",          "fr": "rapport, ratio" },
 { "en": "wheel",       "ko": "바퀴",       "fi": "pyörä",    "fr": "roue" },
 { "en": "basket",       "ko": "바구니",       "fi": "kori",    "fr": "panier" },
-
-{ "en": "needle",       "ko": "바늘",       "fi": "neula",    "fr": "aiguille" },
 { "en": "reaction",       "ko": "반응 (reverse + answer)",       "fi": "reaktio",    "fr": "réaction" },
 { "en": "to react",       "ko": "반응하다",       "fi": "suhtautua",    "fr": "réagir" },
 { "en": "to disturb",       "ko": "방해하다",       "fi": "häiritä",    "fr": "perturber" },

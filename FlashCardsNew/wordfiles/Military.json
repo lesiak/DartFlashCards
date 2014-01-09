@@ -2,7 +2,7 @@
 
  
 { "en": "soldier",        "ko": "군인",          "fi": "sotilas",    "fr": "soldat" },
-{ "en": "army",        "ko": "군대",          "fi": "",    "fr": "" },
+{ "en": "army",        "ko": "군대",          "fi": "armeija",    "fr": "" },
 { "en": "war",        "ko": "전쟁",          "fi": "sota",    "fr": "guerre" },
 { "en": "enemy",        "ko": "적",          "fi": "vihollinen",    "fr": "ennemi" },
 { "en": "weapon",        "ko": "무기",          "fi": "ase",    "fr": "arme" },
@@ -11,7 +11,7 @@
 
 { "en": "gun",        "ko": "총",          "fi": "",    "fr": "" },
 { "en": "rifle",        "ko": "소총",          "fi": "",    "fr": "" },
-{ "en": "pistol",        "ko": "권총",          "fi": "",    "fr": "" },
+{ "en": "pistol",        "ko": "권총",          "fi": "pistooli",    "fr": "" },
 { "en": "machine gun",        "ko": "기관총",          "fi": "konekivääri",    "fr": "mitrailleuse" },
 
 { "en": "bomb",        "ko": "폭탄",          "fi": "pommi",    "fr": "" },

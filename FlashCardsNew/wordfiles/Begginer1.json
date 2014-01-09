@@ -4,6 +4,7 @@
 
 { "en": "fire",         "ko": "불",			"fi": "palo",    "fr": "feu" },
 { "en": "light",        "ko": "빛",        	"fi": "valo",    "fr": "lumière" },
+{ "en": "water",        "ko": "물",          "fi": "vesi",    "fr": "eau" },
 { "en": "river",        "ko": "강",       	"fi": "joki",    "fr": "fleuve" },
 { "en": "sea",        "ko": "바다",          "fi": "meri",    "fr": "mer" },
 { "en": "wave",        "ko": "파",          "fi": "aalto",    "fr": "vague" },

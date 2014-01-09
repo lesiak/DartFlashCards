@@ -5,6 +5,11 @@
 { "en": "heart",       "ko": "심장 (heart + organ)",         "fi": "sydän",    "fr": "cœur" },
 { "en": "leg",       "ko": "다리",         "fi": "jalka",    "fr": "jambe" },
 { "en": "foot",       "ko": "발",         "fi": "jalka",    "fr": "pied" },
+
+{ "en": "head",       "ko": "머리",         "fi": "pää",    "fr": "tête" },
+{ "en": "face",       "ko": "얼굴",         "fi": "silmä",    "fr": "œil" },
+{ "en": "eye",       "ko": "눈",         "fi": "kasvot",    "fr": "face, visage" },
+{ "en": "brain",       "ko": "뇌",         "fi": "aivot",    "fr": "cerveau" },
 { "en": "neck",       "ko": "목",         "fi": "kaula",    "fr": "cou" },
 { "en": "tongue",       "ko": "혀",         "fi": "kieli",    "fr": "langue" },
 { "en": "ear",       "ko": "귀",         "fi": "korva",    "fr": "oreille" },
@@ -12,6 +17,9 @@
 { "en": "hand",       "ko": "손",         "fi": "käsi",    "fr": "main" },
 { "en": "left",       "ko": "왼",         "fi": "",    "fr": "" },
 { "en": "right",       "ko": "오른",         "fi": "",    "fr": "" },
+{ "en": "finger",       "ko": "손가락",         "fi": "sormi",    "fr": "doigt" },
+{ "en": "fingerprint",       "ko": "지문",         "fi": "sormenjälki",    "fr": "empreinte digitale" },
+
 
 { "en": "skin",       "ko": "피부",         "fi": "iho",    "fr": "peau" },
 
@@ -19,12 +27,8 @@
 { "en": "to raise",       "ko": "들다",         "fi": "",    "fr": "" },
 
 
-{ "en": "finger",       "ko": "손가락",         "fi": "sormi",    "fr": "doigt" },
-{ "en": "fingerprint",       "ko": "지문",         "fi": "sormenjälki",    "fr": "empreinte digitale" },
 { "en": "a bone",    "ko": "뼈",    "fi": "luu" , "fr":"os"},
 
-{ "en": "head",       "ko": "머리",         "fi": "pää",    "fr": "tête" },
-{ "en": "brain",       "ko": "뇌",         "fi": "aivot",    "fr": "cerveau" },
 
 { "en": "female",       "ko": "여성",         "fi": "nainen",    "fr": "femelle" },
 

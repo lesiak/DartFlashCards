@@ -32,7 +32,7 @@
 { "en": "town hall",     "ko": "",   "fi": "kaupungintalo" ,   "fr":"mairie"},
 { "en": "square (in city)",     "ko": "",   "fi": "aukio" ,   "fr":"place"},
 
-{ "en": "other side",        "ko": "건너편",          "fi": "toisella puolella (toinen puoli)",    "fr": "?" },
+{ "en": "other side",        "ko": "건너편",          "fi": "toinen puoli (toisella puolella)",    "fr": "?" },
 
 { "en": "bench",         "ko": "벤치",       "fi": "penkki",          "fr": "banc" },
 { "en": "quiet",         "ko": "조용하다",       "fi": "hiljainen",          "fr": "calme, tranquille" },

@@ -4,7 +4,7 @@
 { "en": "cook",         "ko": "요리사",       "fi": "kokki",          "fr": "" },
 { "en": "secretary",         "ko": "비서 (secret + writing)",       "fi": "sihteeri",          "fr": "secrétaire" },
 
-{ "en": "dancer",         "ko": "무용가",       "fi": "",          "fr": "" },
+{ "en": "dancer",         "ko": "무용가",       "fi": "tanssija",          "fr": "" },
 { "en": "painter",         "ko": "화가",       "fi": "maalari",          "fr": "peintre" },
  
 { "en": "princess",         "ko": "왕자비",       "fi": "prinsessa",          "fr": "" },
@@ -13,7 +13,7 @@
 { "en": "hunter",         "ko": "사냥꾼",       "fi": "metsästäjä",          "fr": "chasseur" },
 
 { "en": "fashion model",         "ko": "패션 모델",       "fi": "malli",          "fr": "" },
-{ "en": "prostitute",         "ko": "창녀",       "fi": "",          "fr": "" },
+{ "en": "prostitute",         "ko": "창녀",       "fi": "prostituoitu, huora",          "fr": "" },
 { "en": "fisherman",    "ko": "어부",    "fi": "kalastaja" , "fr":"pêcheur"},
 
 { "en": "miner",    "ko": "갱부",    "fi": "kaivosmies" , "fr":"mineur"},
