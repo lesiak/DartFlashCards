@@ -39,6 +39,7 @@
 
 { "en": "ice",       "ko": "얼음",         "fi": "jää",    "fr": "glace" },
 { "en": "hot pepper",       "ko": "고추",         "fi": "kuuma pippuria",    "fr": "piment" },
+{ "en": "milk",       "ko": "우유",         "fi": "maito",    "fr": "lait" },
 { "en": "butter",       "ko": "버터",         "fi": "voi",    "fr": "beurre" },
 { "en": "cake",       "ko": "케이크",         "fi": "kakku",    "fr": "gâteau" },
 { "en": "juice",       "ko": "주스",         "fi": "mehu",    "fr": "jus" },

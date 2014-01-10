@@ -23,6 +23,12 @@
 { "en": "graduate",       "ko": "졸업하다",       "fi": "valmistua, suorittaa tutkinto, saada oppiarvo",    "fr": "obtenir sa licence, son diplôme" },
 { "en": "diligently",       "ko": "열심히",       "fi": "ahkerasti",    "fr": "diligemment" },
 
+{ "en": "triangle",       "ko": "삼각형",       "fi": "kolmio",    "fr": "triangle" },
+{ "en": "square",       "ko": "정사각형",       "fi": "neliö",    "fr": "carré" },
+{ "en": "circle",       "ko": "원",       "fi": "ympyrä",    "fr": "cercle" },
+{ "en": "disk (mathematics)",       "ko": "원판",       "fi": "kiekko",    "fr": "disque" },
+ 
+
 { "en": "report",       "ko": "보고서",       "fi": "selvitys, raportti",    "fr": "rapport" },
 { "en": "encyclopedia",       "ko": "백과사전",       "fi": "tietosanakirja",    "fr": "encyclopédie" }
 

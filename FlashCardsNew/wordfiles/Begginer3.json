@@ -1,10 +1,11 @@
 [
 
+{ "en": "read",     "ko": "읽다",       "fi": "lukea",     "fr": "lire" },
+{ "en": "write",     "ko": "쓰다",       "fi": "kirjoittaa",     "fr": "écrire" },
 
 { "en": "letter",     "ko": "편지",       "fi": "kirje",     "fr": "lettre" },
 { "en": "message",     "ko": "메시지",       "fi": "viesti",     "fr": "message" },
 { "en": "email",     "ko": "이메일",       "fi": "sähköposti",     "fr": "e-mail" },
-
 { "en": "send",     "ko": "보내다",       "fi": "lähettää",     "fr": "envoyer" },
 
 { "en": "after",         "ko": "후",       "fi": "jälkeen",          "fr": "après" },
@@ -46,6 +47,7 @@
 { "en": "number",         "ko": "번호",       "fi": "numero",          "fr": "numéro" },
 { "en": "to answer (receive a phone)",        "ko": "받다",          "fi": "",    "fr": "" },
 { "en": "to change",        "ko": "바꾸다",          "fi": "muuttaa",    "fr": "changer" },
+
 { "en": "telephone call",        "ko": "통화",          "fi": "puhelu",    "fr": "appel téléphonique" },
 
 { "en": "memo",        "ko": "메모",          "fi": "muistio",    "fr": "note" },

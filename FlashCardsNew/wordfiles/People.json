@@ -6,6 +6,8 @@
 { "en": "man (masculine type)",         "ko": "사나이",       "fi": "",          "fr": "" },
 { "en": "lady",         "ko": "숙녀",       "fi": "leidi",          "fr": "dame" },
 
+{ "en": "person",         "ko": "사람, 인",       "fi": "henkilö, ihminen",          "fr": "personne, individu" },
+
 { "en": "generation",    "ko": "세대",    "fi": "sukupolvi" , "fr":"génération"},
  
 

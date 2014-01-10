@@ -4,6 +4,7 @@
 { "en": "debit card",         "ko": "",    "fi": "pankkikortti",          "fr": "carte bancaire" },
 { "en": "credit card",         "ko": "신용 카드, 크레디트 카드",    "fi": "luottokortti",          "fr": "carte de crédit" },
 { "en": "tax",         "ko": "",    "fi": "vero",          "fr": "impôt" },
+{ "en": "taxation",         "ko": "",    "fi": "verotus",          "fr": "" },
 
 { "en": "savings",         "ko": "",    "fi": "säästöt",          "fr": "épargne" },
 { "en": "loan",         "ko": "",    "fi": "laina",          "fr": "prêt" },
