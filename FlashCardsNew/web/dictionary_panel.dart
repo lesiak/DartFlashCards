@@ -59,7 +59,12 @@ class DictionaryPanelElement extends PolymerElement {
   
   bool isCardMatching(DictionaryTableRow row) {
     var searchRegex = new RegExp(searchTerm, caseSensitive: false);
+    bool engVerbMatch = false;
+    if (row.card.en.startsWith("to ")) {
+      engVerbMatch = row.card.en.substring(3).startsWith(searchRegex);              
+    } 
     return row.card.en.startsWith(searchRegex)
+        || engVerbMatch
         || row.card.fi.startsWith(searchRegex)
         || row.card.ko.startsWith(searchRegex)
         || row.card.fr.startsWith(searchRegex);
