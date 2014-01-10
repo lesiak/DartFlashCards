@@ -25,8 +25,8 @@
 
 { "en": "monkey",      "ko": "원숭이",     "fi": "apina",   "fr": "singe" },
 
-{ "en": "hedgehog",      "ko": "",     "fi": "siili",   "fr": "" },
-
+{ "en": "hedgehog",      "ko": "hedgehog",     "fi": "siili",   "fr": "hérisson" },
+{ "en": "rabbit",      "ko": "토끼",     "fi": "kani",   "fr": "lapin" },
  
 
 { "en": "bird",      "ko": "새",     "fi": "lintu",   "fr": "oiseau" },

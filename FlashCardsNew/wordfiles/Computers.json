@@ -13,6 +13,12 @@
 { "en": "programmer",       "ko": "프로그래머",      "fi": "ohjelmoija",    "fr": "programmeur" },
 { "en": "software",         "ko": "소프트웨어",      "fi": "ohjelmisto",    "fr": "logiciel" },
 
+{ "en": "application",         "ko": "",      "fi": "sovellus",    "fr": "application" },
+{ "en": "settings",         "ko": "",      "fi": "asetukset",    "fr": "paramètres, réglage" },
+
+{ "en": "to develop",         "ko": "",      "fi": "kehittää",    "fr": "développer" },
+{ "en": "developer",         "ko": "",      "fi": "kehittäjä",    "fr": "" },
+{ "en": "development",         "ko": "",      "fi": "kehitys",    "fr": "développement" },
 
 
 { "en": "switch off",         "ko": "끄다",      "fi": "sammuttaa",    "fr": "éteindre" },
@@ -23,6 +29,7 @@
 { "en": "password",    "ko": "비밀번호",    "fi": "salasana" , "fr":""},
 
 { "en": "folder",    "ko": "폴더",    "fi": "kansio" , "fr":"dossier"},
+{ "en": "file",    "ko": "파일",    "fi": "tiedosto" , "fr":""},
 
 
 { "en": "to monitor",         "ko": "",      "fi": "valvoa",    "fr": "surveiller" }

@@ -35,6 +35,9 @@
 
 { "en": "to climb",    "ko": "",    "fi": "kiipeillä (kiivetä)" , "fr":""},
 
+{ "en": "bowling",    "ko": "볼링",    "fi": "keilailu" , "fr":"bowling"},
+
+
 { "en": "game",    "ko": "게임,  놀이",    "fi": "peli, leikki" , "fr":"jeu"}
 
 ]
