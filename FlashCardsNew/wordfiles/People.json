@@ -60,6 +60,8 @@
 { "en": "jealous",         "ko": "부럽다",       "fi": "mustasukkainen",          "fr": "jaloux" },
 { "en": "ashamed",         "ko": "부끄럽다",       "fi": "häpeissään",          "fr": "honteux" },
 
+{ "en": "brave",         "ko": "용감한",       "fi": "rohkea",          "fr": "courageux" },
+
 
 { "en": "habit",         "ko": "버릇",       "fi": "tapa",          "fr": "habitude" },
 { "en": "manners",         "ko": "버릇",       "fi": "käytöstavat",          "fr": "manières" },

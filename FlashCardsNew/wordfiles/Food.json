@@ -41,6 +41,7 @@
 { "en": "hot pepper",       "ko": "고추",         "fi": "kuuma pippuria",    "fr": "piment" },
 { "en": "milk",       "ko": "우유",         "fi": "maito",    "fr": "lait" },
 { "en": "butter",       "ko": "버터",         "fi": "voi",    "fr": "beurre" },
+{ "en": "cream",       "ko": "크림",         "fi": "kerma",    "fr": "crème" },
 { "en": "cake",       "ko": "케이크",         "fi": "kakku",    "fr": "gâteau" },
 { "en": "juice",       "ko": "주스",         "fi": "mehu",    "fr": "jus" },
 { "en": "lemon",       "ko": "레몬",         "fi": "sitruuna",    "fr": "citron" },
@@ -48,6 +49,8 @@
 { "en": "wine",       "ko": "포도주",         "fi": "viini",    "fr": "vin" },
 { "en": "honey",       "ko": "꿀",         "fi": "hunaja",    "fr": "miel" },
 { "en": "candy",       "ko": "사탕",         "fi": "karkki, karamelli",    "fr": "bonbon" },
+{ "en": "cookie",       "ko": "쿠키",         "fi": "pikkuleipä",    "fr": "gâteau" },
+
 { "en": "sandwich",       "ko": "샌드위치",         "fi": "voileipä",    "fr": "sandwich" },
 { "en": "sushi",       "ko": "스시, 일본식 초밥 (vinegar + rice)",         "fi": "",    "fr": "" },
 
