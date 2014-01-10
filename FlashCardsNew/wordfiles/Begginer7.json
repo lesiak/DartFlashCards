@@ -29,6 +29,13 @@
 { "en": "match",      "ko": "성냥",    "fi": "tulitikku" ,  "fr":"allumette"},
 
 { "en": "space",      "ko": "공간, 우주",    "fi": "avaruus" ,  "fr":"espace"},
+{ "en": "nature",      "ko": "",    "fi": "luonto" ,  "fr":""},
+{ "en": "natural",      "ko": "",    "fi": "luonnollinen" ,  "fr":"naturel"},
+{ "en": "environment",      "ko": "",    "fi": "ympäristö" ,  "fr":"environnement"},
+{ "en": "protection",      "ko": "",    "fi": "suojelu" ,  "fr":"protection, sauvegarde"},
+{ "en": "to protect",      "ko": "",    "fi": "suojella" ,  "fr":"protéger"},
+{ "en": "valley",      "ko": "",    "fi": "laakso" ,  "fr":"vallée"},
+
 
 { "en": "to continue",    "ko": "계속하다",    "fi": "" , "fr":""},
 { "en": "to suspect",    "ko": "느끼다",    "fi": "epäillä" , "fr":"suspecter"},
