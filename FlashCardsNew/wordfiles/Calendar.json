@@ -23,7 +23,8 @@
 { "en": "November",     "ko": "십일월",         "fi": "marraskuu",          "fr": "novembre" },
 { "en": "December",     "ko": "십이 월",         "fi": "joulukuu",          "fr": "décembre" },
 
-{ "en": "calendar",     "ko": "달력",         "fi": "kalenteri",          "fr": "calendrier" },
+{ "en": "calendar",     "ko": "달력 (month + calendar)",         "fi": "kalenteri",          "fr": "calendrier" },
+
 
 { "en": "future",     "ko": "미래",         "fi": "tulevaisuus",          "fr": "avenir" },
 { "en": "past",     "ko": "과거",         "fi": "menneisyys",          "fr": "passé" }

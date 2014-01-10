@@ -21,6 +21,7 @@
 { "en": "warm",     "ko": "따뜻하다",    "fi": "lämmin" , "fr":"chaud"},
 { "en": "cold",     "ko": "춥다",    "fi": "kylmä" , "fr":"froid"},
 { "en": "hot (weather)",     "ko": "덥다",    "fi": "kuuma" , "fr":"chaud"},
+{ "en": "frost",     "ko": "서리",    "fi": "pakkanen" , "fr":"gel"},
 
 { "en": "finish (intr)",       "ko": "끝나다",       "fi": "loppua",    "fr": "finir, terminer" },
 { "en": "finish (sth)",       "ko": "끝내다",       "fi": "lopettaa",    "fr": "finir, terminer" },
