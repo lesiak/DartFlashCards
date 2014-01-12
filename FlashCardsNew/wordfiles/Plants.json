@@ -8,6 +8,9 @@
 { "en": "birch",    "ko": "자작나무",    "fi": "koivu" , "fr":"bouleau"},
 { "en": "bush",    "ko": "덤불",    "fi": "pensas" , "fr":"buisson"},
 { "en": "palm tree",    "ko": "야자 나무",    "fi": "palmu" , "fr":"palmier"},
+
+{ "en": "cotton",    "ko": "솜",    "fi": "puuvilla" , "fr":"coton"},
+
 { "en": "plant",      "ko": "식물 (plant + thing)",    "fi": "kasvi",   "fr":"plante"}
 
 

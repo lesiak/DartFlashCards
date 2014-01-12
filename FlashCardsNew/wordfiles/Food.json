@@ -13,10 +13,7 @@
 { "en": "sugar",       "ko": "설탕",         "fi": "sokeri",    "fr": "sucre" },
 { "en": "garlic",       "ko": "마늘",         "fi": "valkosipuli",    "fr": "ail" },
 { "en": "beer",       "ko": "맥주",         "fi": "olut",    "fr": "bière" },
-{ "en": "apple",       "ko": "사과",         "fi": "omena",    "fr": "pomme" },
-{ "en": "pear",       "ko": "배",         "fi": "päärynä",    "fr": "poire" },
-{ "en": "peach",       "ko": "복숭아",         "fi": "persikka",    "fr": "pêche" },
-{ "en": "banana",       "ko": "바나나",         "fi": "banaani",    "fr": "banane" },
+
 
 { "en": "cheese",       "ko": "치즈",         "fi": "juusto",    "fr": "fromage" },
 { "en": "cucumber",       "ko": "오이",         "fi": "kurkku",    "fr": "concombre" },
@@ -25,7 +22,7 @@
 { "en": "potato",       "ko": "감자",         "fi": "peruna",    "fr": "pomme de terre" },
 { "en": "french fries",    "ko": "감자튀김",    "fi": "ranskalaiset" , "fr":""},
 
-{ "en": "fruit",       "ko": "과일",         "fi": "hedelmä",    "fr": "fruit" },
+
 
 
 { "en": "mushroom",       "ko": "버섯",         "fi": "sieni",    "fr": "champignon" },
@@ -44,7 +41,7 @@
 { "en": "cream",       "ko": "크림",         "fi": "kerma",    "fr": "crème" },
 { "en": "cake",       "ko": "케이크",         "fi": "kakku",    "fr": "gâteau" },
 { "en": "juice",       "ko": "주스",         "fi": "mehu",    "fr": "jus" },
-{ "en": "lemon",       "ko": "레몬",         "fi": "sitruuna",    "fr": "citron" },
+
 { "en": "vodka",       "ko": "보드카",         "fi": "vodka",    "fr": "vodka" },
 { "en": "wine",       "ko": "포도주",         "fi": "viini",    "fr": "vin" },
 { "en": "honey",       "ko": "꿀",         "fi": "hunaja",    "fr": "miel" },
@@ -62,12 +59,6 @@
 { "en": "ice cream",       "ko": "아이스크림",         "fi": "jätski, jäätelö",    "fr": "crème glacée" },
 { "en": "alkohol",       "ko": "알코올",         "fi": "alkoholi",    "fr": "alcool" },
 { "en": "sesame",       "ko": "참깨",         "fi": "seesami",    "fr": "sésame" },
-
-{ "en": "nut",       "ko": "견과",         "fi": "pähkinä",    "fr": "noix" },
-{ "en": "hazelnut",       "ko": "개암",         "fi": "hasselpähkinä",    "fr": "noisette" },
-{ "en": "walnut",       "ko": "호두",         "fi": "saksanpähkinä",    "fr": "noix" },
-
-{ "en": "almond",       "ko": "아몬드",         "fi": "manteli",    "fr": "amande" },
 
 
 { "en": "sweet",        "ko": "달다",       "fi": "makea",        "fr": "doux" },

@@ -29,6 +29,7 @@ class FlashCardsApp extends PolymerElement {
                      'Holiday',
                      'Clothes',
                      'Food',
+                     'Fruits',
                      'Animals',
                      'People',
                      'Body',

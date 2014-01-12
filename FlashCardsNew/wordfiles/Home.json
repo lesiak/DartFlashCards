@@ -21,6 +21,7 @@
 { "en": "roof", "ko": "지붕",    "fi": "katto",    "fr": "toit" },
 { "en": "floor", "ko": "바닥",    "fi": "lattia",    "fr": "sol" },
 { "en": "fence", "ko": "울타리",    "fi": "aita",    "fr": "clôture" },
+{ "en": "balcony", "ko": "발코니",    "fi": "parveke",    "fr": "balcon" },
 
 { "en": "soap",        "ko": "비누",          "fi": "saippua",    "fr": "savon" }, 
 { "en": "shampoo",        "ko": "샴푸",          "fi": "shampoo (fi), hiustenpesuaine",    "fr": "shampoing" },

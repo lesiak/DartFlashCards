@@ -1,0 +1,26 @@
+[
+
+{ "en": "apple",       "ko": "사과",         "fi": "omena",    "fr": "pomme" },
+{ "en": "pear",       "ko": "배",         "fi": "päärynä",    "fr": "poire" },
+{ "en": "peach",       "ko": "복숭아",         "fi": "persikka",    "fr": "pêche" },
+{ "en": "banana",       "ko": "바나나",         "fi": "banaani",    "fr": "banane" },
+{ "en": "plum",       "ko": "자두",         "fi": "luumu",    "fr": "prune" },
+
+{ "en": "strawberry",       "ko": "딸기",         "fi": "mansikka",    "fr": "fraise" },
+{ "en": "raspberry",       "ko": "라즈베리",         "fi": "vadelma",    "fr": "framboise" },
+{ "en": "blackberry",       "ko": "블랙베리",         "fi": "karhunvatukka",    "fr": "mûre" },
+{ "en": "blueberry",       "ko": "블루베리",         "fi": "mustikka",    "fr": "myrtille" },
+{ "en": "lemon",       "ko": "레몬",         "fi": "sitruuna",    "fr": "citron" },
+
+{ "en": "nut",       "ko": "견과",         "fi": "pähkinä",    "fr": "noix" },
+{ "en": "hazelnut",       "ko": "개암",         "fi": "hasselpähkinä",    "fr": "noisette" },
+{ "en": "walnut",       "ko": "호두",         "fi": "saksanpähkinä",    "fr": "noix" },
+
+{ "en": "almond",       "ko": "아몬드",         "fi": "manteli",    "fr": "amande" },
+
+{ "en": "fruit",       "ko": "과일",         "fi": "hedelmä",    "fr": "fruit" },
+
+{ "en": "hard",       "ko": "",         "fi": "kova",    "fr": "dur" },
+{ "en": "soft",       "ko": "",         "fi": "pehmeä",    "fr": "mou" }
+
+]
