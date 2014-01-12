@@ -9,28 +9,38 @@
 { "en": "test",        "ko": "시험",          "fi": "koe, tentti",    "fr": "test, examen" },
 { "en": "science",       "ko": "과학",       "fi": "tiede",    "fr": "science" },
 
-{ "en": "number",       "ko": "수",       "fi": "luku",    "fr": "nombre, numéro" },
+{ "en": "report",       "ko": "보고서",       "fi": "selvitys, raportti",    "fr": "rapport" },
+{ "en": "encyclopedia",       "ko": "백과사전",       "fi": "tietosanakirja",    "fr": "encyclopédie" },
+{ "en": "pencil",       "ko": "연필",       "fi": "lyijykynä",    "fr": "crayon" }, 
+
 { "en": "mathematics",       "ko": "수학",       "fi": "matematiikka",    "fr": "mathématiques" },
 { "en": "geometry",       "ko": "기하학",       "fi": "geometria",    "fr": "géométrie" },
-
+{ "en": "physics",       "ko": "물리학",       "fi": "fysiikka",    "fr": "physique" },
 { "en": "biology",       "ko": "생물학",       "fi": "biologia",    "fr": "biologie" },
 { "en": "psychology",       "ko": "심리학",       "fi": "psykologia",    "fr": "psychologie" },
+{ "en": "geography",       "ko": "지리학",       "fi": "maantiede",    "fr": "géographie" },
+{ "en": "law (discipline)",       "ko": "",       "fi": "oikeustiede",    "fr": "droit" },
+{ "en": "medicine (discipline)",       "ko": "의학",       "fi": "lääketiede",    "fr": "médecine" },
 
 { "en": "elementary school",       "ko": "초등학교 (early + class + study + school)",       "fi": "alkeiskoulu",    "fr": "école primaire" },
 
-
+{ "en": "to learn",       "ko": "배우다",       "fi": "oppia",    "fr": "apprendre" },
 { "en": "graduation",       "ko": "졸업",       "fi": "",    "fr": "" },
 { "en": "graduate",       "ko": "졸업하다",       "fi": "valmistua, suorittaa tutkinto, saada oppiarvo",    "fr": "obtenir sa licence, son diplôme" },
 { "en": "diligently",       "ko": "열심히",       "fi": "ahkerasti",    "fr": "diligemment" },
 
+{ "en": "number",       "ko": "수",       "fi": "luku",    "fr": "nombre, numéro" },
 { "en": "triangle",       "ko": "삼각형",       "fi": "kolmio",    "fr": "triangle" },
 { "en": "square",       "ko": "정사각형",       "fi": "neliö",    "fr": "carré" },
 { "en": "circle",       "ko": "원",       "fi": "ympyrä",    "fr": "cercle" },
 { "en": "disk (mathematics)",       "ko": "원판",       "fi": "kiekko",    "fr": "disque" },
- 
+{ "en": "equation",       "ko": "방정식",       "fi": "yhtälö",    "fr": "équation" },
 
-{ "en": "report",       "ko": "보고서",       "fi": "selvitys, raportti",    "fr": "rapport" },
-{ "en": "encyclopedia",       "ko": "백과사전",       "fi": "tietosanakirja",    "fr": "encyclopédie" }
+{ "en": "to count",       "ko": "",       "fi": "laskea",    "fr": "compter" },
+
+
+{ "en": "ruler",       "ko": "자",       "fi": "viivain",    "fr": "règle" },
+{ "en": "calculator",       "ko": "계산기",       "fi": "laskin",    "fr": "calculatrice" }
 
 
 

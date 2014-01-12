@@ -20,6 +20,10 @@
 { "en": "ring",         "ko": "반지 (half + finger)",       "fi": "sormus",          "fr": "anneau" },
 { "en": "sock",         "ko": "양말 (the West + Korean socks), 삭스",       "fi": "sukka",          "fr": "chaussette" },
 
+{ "en": "scarf",     "ko": "목도리, 스카프",         "fi": "huivi",   "fr": "écharpe" },
+
+
+
 { "en": "pocket",         "ko": "포켓",       "fi": "tasku",          "fr": "poche" },
 { "en": "belt",         "ko": "벨트",       "fi": "vyö",          "fr": "ceinture" },
 

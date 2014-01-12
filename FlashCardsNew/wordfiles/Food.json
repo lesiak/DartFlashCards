@@ -12,8 +12,10 @@
 { "en": "salt",       "ko": "소금",         "fi": "suola",    "fr": "sel" },
 { "en": "sugar",       "ko": "설탕",         "fi": "sokeri",    "fr": "sucre" },
 { "en": "garlic",       "ko": "마늘",         "fi": "valkosipuli",    "fr": "ail" },
-{ "en": "beer",       "ko": "맥주",         "fi": "olut",    "fr": "bière" },
 
+{ "en": "tea",       "ko": "차",         "fi": "tee",    "fr": "thé" },
+{ "en": "coffee",       "ko": "커피",         "fi": "kahvi",    "fr": "café" },
+{ "en": "juice",       "ko": "주스",         "fi": "mehu",    "fr": "jus" },
 
 { "en": "cheese",       "ko": "치즈",         "fi": "juusto",    "fr": "fromage" },
 { "en": "cucumber",       "ko": "오이",         "fi": "kurkku",    "fr": "concombre" },
@@ -40,8 +42,8 @@
 { "en": "butter",       "ko": "버터",         "fi": "voi",    "fr": "beurre" },
 { "en": "cream",       "ko": "크림",         "fi": "kerma",    "fr": "crème" },
 { "en": "cake",       "ko": "케이크",         "fi": "kakku",    "fr": "gâteau" },
-{ "en": "juice",       "ko": "주스",         "fi": "mehu",    "fr": "jus" },
 
+{ "en": "beer",       "ko": "맥주",         "fi": "olut",    "fr": "bière" },
 { "en": "vodka",       "ko": "보드카",         "fi": "vodka",    "fr": "vodka" },
 { "en": "wine",       "ko": "포도주",         "fi": "viini",    "fr": "vin" },
 { "en": "honey",       "ko": "꿀",         "fi": "hunaja",    "fr": "miel" },
@@ -79,8 +81,6 @@
 { "en": "chopsticks",   "ko": "젓가락",     "fi": "syömäpuikot",    "fr": "baguettes" },
 { "en": "cup",          "ko": "컵",         "fi": "kuppi",    "fr": "tasse" }, 
 
-{ "en": "pot",          "ko": "냄비",       "fi": "potti",    "fr": "casserole" },
-{ "en": "rice cooker",          "ko": "밥솥",       "fi": "riisi liesi",    "fr": "cuiseur à riz" },
 
 
 { "en": "meal",         "ko": "식사",       "fi": "ateria",    "fr": "repas" },
