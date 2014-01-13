@@ -23,6 +23,7 @@
 { "en": "to be timid",         "ko": "",       "fi": "arastella, arastaa",          "fr": "être timide" },
 { "en": "to hesitate",         "ko": "주저하다",       "fi": "epäröidä",          "fr": "hésiter" },
 
+{ "en": "patient",         "ko": "",       "fi": "kärsivällinen",          "fr": "patient" },
 
 { "en": "sincere",         "ko": "진실하다",       "fi": "vilpitön",          "fr": "sincère" },
 { "en": "reliable",           "ko": "믿음직하다",       "fi": "luotettava",          "fr": "fiable" }

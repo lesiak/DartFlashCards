@@ -4,7 +4,7 @@
 { "en": "sick, painful",       "ko": "아프다",         "fi": "sairas",    "fr": " malade" },
 { "en": "healthy",        "ko": "건강하다",          "fi": "terveellinen",    "fr": "en bonne santé" },
 { "en": "doctor",       "ko": "의사",         "fi": "lääkäri, tohtori",    "fr": "médecin, docteur" },
-{ "en": "patient",        "ko": "환자",          "fi": "potilas",    "fr": "patient" },
+{ "en": "patient (in hospital)",        "ko": "환자",          "fi": "potilas",    "fr": "patient" },
 { "en": "nurse",    "ko": "간호사 (look after + protect + skilled person)",    "fi": "sairaanhoitaja" , "fr":"infirmière"},
 { "en": "(a) cold",        "ko": "감기",          "fi": "nuha",    "fr": "rhume" },
 { "en": "flu",        "ko": "독감 (poison + feel)",     "fi": "flunssa",    "fr": "grippe" },
