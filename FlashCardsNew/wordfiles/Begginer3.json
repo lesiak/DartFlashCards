@@ -30,7 +30,10 @@
 {
  "en": "last year",        "ko": "작년",          "fi": "viime vuonna",    "fr": "année dernière" },
 { "en": "this year",        "ko": "올해",          "fi": "tänä vuonna",    "fr": "cette année" },
+
 { "en": "next",       "ko": " 다음",       "fi": "seuraava, ensi",    "fr": "suivant" },
+{ "en": "previous",    "ko": "이전",    "fi": "edellinen" , "fr":"précédent"},
+
 { "en": "the day after tomorrow",        "ko": "모레",          "fi": "ylihuomenna",    "fr": "après-demain" },
 { "en": "last night",       "ko": " 어젯밤",       "fi": "viime yönä",    "fr": "la nuit dernière" },
 

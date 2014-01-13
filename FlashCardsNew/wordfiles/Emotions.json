@@ -11,9 +11,17 @@
 
 { "en": "proud",         "ko": "",       "fi": "ylpeä",          "fr": "fier" },
 
+{ "en": "laugh",       "ko": "웃다",      "fi": "nauraa",    "fr": "rire" },
+{ "en": "to smile",         "ko": "웃다",       "fi": "epäröidä",          "fr": "sourire" },
+{ "en": "smile",         "ko": "미소",       "fi": "hymyillä",          "fr": "sourire" },
+
 { "en": "to fear",       "ko": "",    "fi": "pelätä (pelkää)",    "fr":""},
 { "en": "fear",       "ko": "",    "fi": "pelko",    "fr":""},
 { "en": "coward",       "ko": "",    "fi": "pelkuri",    "fr":""},
+
+{ "en": "timid",         "ko": "",       "fi": "arka, pelokas",          "fr": "timide" },
+{ "en": "to be timid",         "ko": "",       "fi": "arastella, arastaa",          "fr": "être timide" },
+{ "en": "to hesitate",         "ko": "주저하다",       "fi": "epäröidä",          "fr": "hésiter" },
 
 
 { "en": "sincere",         "ko": "진실하다",       "fi": "vilpitön",          "fr": "sincère" },

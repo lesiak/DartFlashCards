@@ -4,13 +4,11 @@
 { "en": "generally",         "ko": "일반적으로",       "fi": "yleensä, tavallisesti",          "fr": "généralement, en général" },
 
 
-{ "en": "noisy",         "ko": "시끄럽다",       "fi": "meluisa",          "fr": "bruyant" },
+
 
 
 { "en": "to bite",         "ko": "씹다",       "fi": "purra, haukata",          "fr": "mordre" },
 
-{ "en": "only",         "ko": "만",       "fi": "vain",          "fr": "seulement" },
-{ "en": "other",         "ko": "다른",       "fi": "muu",          "fr": "autre" },
 
 { "en": "hole",        "ko": "구멍",          "fi": "reikä, aukko, kuoppa, kolo",    "fr": "trou" },
 { "en": "hang (sth)",        "ko": "걸다",          "fi": "riippua",    "fr": "pendre" },
@@ -49,10 +47,8 @@
 
 
 { "en": "Air conditioning",    "ko": "에어컨",    "fi": "ilmastointi" , "fr":"climatisation"},
-{ "en": "gas cooker",    "ko": "가스레인지",    "fi": "" , "fr":""},
 
-{ "en": "previous",    "ko": "이전",    "fi": "edellinen" , "fr":"précédent"},
-{ "en": "to show",    "ko": "가리키다",    "fi": "näyttää" , "fr":"montrer"},
+
 { "en": "to be born",    "ko": "태어나다",    "fi": "syntyä" , "fr":"naître"},
 
 { "en": "loss",    "ko": "손실, 상실",    "fi": "tappio, menetys, häviö (on tehnyt koko ajan tappiota)" , "fr":"perte"},

@@ -65,6 +65,7 @@
 
 { "en": "sweet",        "ko": "달다",       "fi": "makea",        "fr": "doux" },
 { "en": "bitter",       "ko": "쓰다",       "fi": "kitkerä",      "fr": "amer" },
+{ "en": "sour",        "ko": "신, 사워",       "fi": "hapan",        "fr": "aigre" },
 { "en": "spicy",        "ko": "맵다",       "fi": "mausteinen" ,  "fr":"piquant"},
 { "en": "mild",        "ko": "",       "fi": "mieto" ,  "fr":""},
 { "en": "fresh",        "ko": "신선한",       "fi": "tuore" ,  "fr":"frais"},

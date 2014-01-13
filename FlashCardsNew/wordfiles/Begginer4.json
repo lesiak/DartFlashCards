@@ -43,6 +43,10 @@
 { "en": "different",        "ko": "다르다, 다른",          "fi": "eri, erilainen",    "fr": "différent, autre" },
 { "en": "to resemble",        "ko": "닮다",          "fi": "muistuttaa",    "fr": "ressembler à" },
 
+{ "en": "other",         "ko": "다른",       "fi": "muu",          "fr": "autre" },
+{ "en": "only",         "ko": "만",       "fi": "vain",          "fr": "seulement" },
+
+
 
 { "en": "become",        "ko": "되다",          "fi": "tulla",    "fr": "devenir" },
 { "en": "beginning (noun)",        "ko": "처음",          "fi": "alku",    "fr": "début" },

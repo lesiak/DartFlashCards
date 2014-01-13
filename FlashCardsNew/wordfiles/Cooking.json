@@ -1,6 +1,10 @@
 [
 
 { "en": "pot",          "ko": "냄비",       "fi": "potti",    "fr": "casserole" },
+{ "en": "kettle",    "ko": "주전자",    "fi": "kattila" , "fr":"bouilloire"},
+
+{ "en": "oven",    "ko": "오븐",    "fi": "uuni" , "fr":"four"},
+{ "en": "gas cooker",    "ko": "가스레인지",    "fi": "kaasuliesi" , "fr":"cuisinière à gaz"},
 { "en": "rice cooker",          "ko": "밥솥",       "fi": "riisi liesi",    "fr": "cuiseur à riz" },
 
 

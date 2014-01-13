@@ -22,6 +22,9 @@
 { "en": "development",         "ko": "",      "fi": "kehitys",    "fr": "développement" },
 
 { "en": "download",         "ko": "다운로드",      "fi": "ladata",    "fr": "télécharger" },
+{ "en": "install",         "ko": "설치하다",      "fi": "asentaa",    "fr": "installer" },
+{ "en": "install",         "ko": "설치",      "fi": "asennus",    "fr": "installation" },
+
 { "en": "switch off",         "ko": "끄다",      "fi": "sammuttaa",    "fr": "éteindre" },
 
 

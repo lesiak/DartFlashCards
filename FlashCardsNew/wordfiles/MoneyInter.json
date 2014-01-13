@@ -3,6 +3,7 @@
 { "en": "coin",         "ko": "",    "fi": "kolikko",          "fr": "pièce de monnaie" },
 { "en": "debit card",         "ko": "",    "fi": "pankkikortti",          "fr": "carte bancaire" },
 { "en": "credit card",         "ko": "신용 카드, 크레디트 카드",    "fi": "luottokortti",          "fr": "carte de crédit" },
+{ "en": "banknote",         "ko": "지폐",    "fi": "seteli",          "fr": "billet (de banque)" },
 
 
 { "en": "account",         "ko": "계정",    "fi": "tili",          "fr": "compte" },
