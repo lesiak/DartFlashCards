@@ -4,8 +4,8 @@
 { "en": "jeans",        "ko": "청바지 (blue + pants)",          "fi": "farkut",    "fr": "jeans" },
 
 { "en": "skirt",        "ko": "치마",          "fi": "hame",    "fr": "jupe" },
+{ "en": "dress",        "ko": "드레스",          "fi": "mekko",    "fr": "robe" },
 { "en": "shorts",        "ko": "반바지",          "fi": "sortsit",    "fr": "short" },
-{ "en": "shoe",        "ko": "구두",          "fi": "kenkä",    "fr": "chaussure" },
 { "en": "shirt",        "ko": "셔츠",          "fi": "paita",    "fr": "chemise" },
 
 { "en": "headphones",        "ko": "헤드폰",          "fi": "kuulokkeet",    "fr": "casque" },
@@ -24,13 +24,18 @@
 { "en": "hat",     "ko": "모자",         "fi": "hattu",   "fr": "chapeau" },
 
 
-{ "en": "pocket",         "ko": "포켓",       "fi": "tasku",          "fr": "poche" },
-{ "en": "belt",         "ko": "벨트",       "fi": "vyö",          "fr": "ceinture" },
+{ "en": "pocket",       "ko": "포켓",      "fi": "tasku",        "fr": "poche" },
+{ "en": "belt",         "ko": "벨트",      "fi": "vyö",          "fr": "ceinture" },
 
-{ "en": "to wear",     "ko": "입다",         "fi": "olla yllään",   "fr": "porter" },
+{ "en": "shoe",        "ko": "구두",       "fi": "kenkä",        "fr": "chaussure" },
+{ "en": "shoelace",    "ko": "신발 끈",    "fi": "kengännauha" , "fr":"lacet"},
+{ "en": "heel",        "ko": "힐",         "fi": "korko" ,       "fr":"talon"},
 
-{ "en": "to wear (headgear)",     "ko": "쓰다",         "fi": "",   "fr": "" },
-{ "en": "to wear (glasses)",     "ko": "끼다",         "fi": "",   "fr": "" },
+
+
+{ "en": "to wear",             "ko": "입다",  "fi": "olla yllään",   "fr": "porter" },
+{ "en": "to wear (headgear)",  "ko": "쓰다",  "fi": "",   "fr": "" },
+{ "en": "to wear (glasses)",   "ko": "끼다",  "fi": "",   "fr": "" },
 
 { "en": "to wear (necklaces, earrings)",     "ko": "하다",         "fi": "",   "fr": "" },
 { "en": "to wear (wristwatches)",     "ko": "차다",         "fi": "",   "fr": "" },
@@ -42,7 +47,7 @@
 { "en": "new",         "ko": "새로운, 새",       "fi": "uusi",          "fr": "nouveau, neuf" },
 { "en": "old",         "ko": " 낡다, 오래되다, 늙다(of people)",       "fi": "vanha",          "fr": "vieux" },
 { "en": "size",    "ko": "사이즈",    "fi": "koko, suuruus" , "fr":"taille"},
-{ "en": "shoelace",    "ko": "신발 끈",    "fi": "kengännauha" , "fr":"lacet"},
+
 
 { "en": "quality",         "ko": "품질",       "fi": "laatu",          "fr": "qualité" },
 
