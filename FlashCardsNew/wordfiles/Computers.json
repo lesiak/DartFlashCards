@@ -23,11 +23,12 @@
 
 { "en": "download",         "ko": "다운로드",      "fi": "ladata",    "fr": "télécharger" },
 { "en": "install",         "ko": "설치하다",      "fi": "asentaa",    "fr": "installer" },
-{ "en": "install",         "ko": "설치",      "fi": "asennus",    "fr": "installation" },
+{ "en": "installation",         "ko": "설치",      "fi": "asennus",    "fr": "installation" },
+
+{ "en": "maintenance",         "ko": "",      "fi": "huolto",    "fr": "maintenance" },
+{ "en": "to maintain",         "ko": "",      "fi": "huoltaa",    "fr": "maintenir" },
 
 { "en": "switch off",         "ko": "끄다",      "fi": "sammuttaa",    "fr": "éteindre" },
-
-
 
 { "en": "login",    "ko": "로그인",    "fi": "" , "fr":""},
 { "en": "password",    "ko": "비밀번호",    "fi": "salasana" , "fr":""},

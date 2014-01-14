@@ -70,8 +70,8 @@
 { "en": "beginner",         "ko": "초보, 초보자 (early + walk + person)",       "fi": "aloittelija",          "fr": "débutant" },
 { "en": "fool",         "ko": "바보",       "fi": "typerys, hullu",          "fr": "fou" },
 { "en": "lover",         "ko": "애인",       "fi": "rakastaja",          "fr": "amant" },
-{ "en": "genius",         "ko": "천재 (heaven + gift)",       "fi": "nero",          "fr": "génie" }
-
+{ "en": "genius",         "ko": "천재 (heaven + gift)",       "fi": "nero",          "fr": "génie" },
+{ "en": "neighbour",         "ko": "이웃 사람",       "fi": "naapuri",          "fr": "voisin" }
 
 
 

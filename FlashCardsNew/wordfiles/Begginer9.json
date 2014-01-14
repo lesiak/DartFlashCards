@@ -7,6 +7,9 @@
 
 { "en": "intuition",   "ko": "직관",    "fi": "intuitio", 	"fr":"intuition"},
 
+{ "en": "to tighten (sth)",   "ko": "",    "fi": "kiristää",   "fr":"serrer"},
+{ "en": "to tighten (intransitive)",   "ko": "",    "fi": "kiristyä",   "fr":"se resserrer"},
+
 { "en": "monopolize",   "ko": "독점하다",    "fi": "monopolisoida",   "fr":"monopoliser"},
 
 { "en": "stalker",    "ko": "스토커",    "fi": "ahdistelija" , "fr":"rôdeur"},

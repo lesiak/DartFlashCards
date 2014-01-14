@@ -50,8 +50,8 @@
 { "en": "railway",         "ko": "철도",       "fi": "rautatie",          "fr": "chemin de fer" },
 { "en": "railway station",         "ko": "철도역",       "fi": "rautatieasema",          "fr": "gare" },
 { "en": "intersection",         "ko": "사거리",       "fi": "risteys",          "fr": "carrefour" },
-{ "en": "pedestrian crossing",         "ko": "횡단 보도",       "fi": "suojatie",          "fr": "passage pour piétons" }
-
+{ "en": "pedestrian crossing",         "ko": "횡단 보도",       "fi": "suojatie",          "fr": "passage pour piétons" },
+{ "en": "traffic",    "ko": "교통",    "fi": "liikenne" , "fr":"circulation"}
 
 
 
