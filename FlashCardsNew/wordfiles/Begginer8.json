@@ -24,8 +24,11 @@
 { "en": "separately",        "ko": "따로",          "fi": "erillään",    "fr": "séparément" }, 
 { "en": "method",        "ko": "방법",          "fi": "menetelmä, metodi",    "fr": "méthode" },
 
+{ "en": "create",        "ko": "?",          "fi": "luoda",    "fr": "créer" },
+{ "en": "establish",     "ko": "?",          "fi": "perustaa",    "fr": "établir" },
 
-{ "en": "take",        "ko": "?",          "fi": "ottaa",    "fr": "prendre" },
+
+
 
 
 

@@ -24,7 +24,8 @@
 { "en": "potato",       "ko": "감자",         "fi": "peruna",    "fr": "pomme de terre" },
 { "en": "french fries",    "ko": "감자튀김",    "fi": "ranskalaiset" , "fr":""},
 
-
+{ "en": "pumpkin",       "ko": "호박",         "fi": "kurpitsa",    "fr": "citrouille" },
+{ "en": "butternut squash",       "ko": "",         "fi": "myskikurpitsa",    "fr": "courge musquée, doubeurre" },
 
 
 { "en": "mushroom",       "ko": "버섯",         "fi": "sieni",    "fr": "champignon" },

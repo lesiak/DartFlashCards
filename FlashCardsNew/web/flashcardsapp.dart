@@ -51,6 +51,7 @@ class FlashCardsApp extends PolymerElement {
                               'Calendar',
                               'Tools',
                               'Cooking',
+                              'Politics',
                               'MoneyInter',
                               'Sentences1',
                               'TopikInter1']; 

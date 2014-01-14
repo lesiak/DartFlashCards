@@ -9,13 +9,14 @@
 
 { "en": "monopolize",   "ko": "독점하다",    "fi": "monopolisoida",   "fr":"monopoliser"},
 
-
+{ "en": "stalker",    "ko": "스토커",    "fi": "ahdistelija" , "fr":"rôdeur"},
+{ "en": "scarecrow",       "ko": "",    "fi": "pelätin",    "fr":""},
 { "en": "bellwether (leader, trendsetter)",   "ko": "선도자",    "fi": "",   "fr":""},
 
-
+{ "en": "earnings, gains, proceeds",         "ko": "수익금",       "fi": "",          "fr": "" },
 
 { "en": "voluntarily",   "ko": "자발적으로",    "fi": "vapaaehtoisesti",   "fr":"volontairement"},
-{ "en": "to be related to",   "ko": "",    "fi": "vapaaehtoisesti",   "fr":"être liée à"},
+{ "en": "to be related to",   "ko": "",    "fi": "",   "fr":"être liée à"},
 { "en": "to support",   "ko": "",    "fi": "kannattaa",   "fr":"supporter, soutenir"},
 
 
@@ -30,6 +31,8 @@
 
 { "en": "town planning",   "ko": "",    "fi": "kaavoitus",   "fr":""},
 
+{ "en": "stapler",       "ko": "호치키스",    "fi": "nitoja",    "fr":"agrafeuse"},
+
 
 { "en": "cloudy",   "ko": "흐리다",    "fi": "pilvinen",   "fr":"nuageux"},
 { "en": "fall asleep",   "ko": "잠들다",    "fi": "nukahtaa",   "fr":"s'endormir"},
@@ -37,7 +40,7 @@
 { "en": "appear",       "ko": "나타나다",       "fi": "näyttää",    "fr": "apparaître" },
 
 { "en": "female (animals)",       "ko": "암컷",       "fi": "naaras",    "fr": "femelle" },
-{ "en": "pressure",       "ko": "압력 (press + strength)",       "fi": "paine",    "fr": "pression" },
+
 { "en": "nightmare",       "ko": "악몽 (bad + dream)",       "fi": "painajainen",    "fr": "cauchemar" },
 { "en": "to spit",       "ko": "뱉다",       "fi": "sylkeä",    "fr": "cracher" }
 

@@ -38,15 +38,12 @@
 
 { "en": "to cut",    "ko": "베다",    "fi": "leikata" , "fr":"couper"},
 
-{ "en": "harmful",      "ko": "해롭다",      "fi": "haitallinen, vahingollinen", "fr": "nuisible" },
-{ "en": "advantageous, beneficial",      "ko": "이롭다",      "fi": "edullinen", "fr": "avantageux" },
-
 { "en": "strong",         "ko": "강하다",       "fi": "vahva",          "fr": "forte" },
 { "en": "weak",         "ko": "약하다",       "fi": "heikko",          "fr": "faible" },
 
 { "en": "weakness, weak point",         "ko": "약점 (weak + point)",       "fi": "heikkous",          "fr": "faiblesse, point faible" },
 
-{ "en": "laborious",      "ko": "힘들다",      "fi": "työläs", "fr": "laborieux" },
+
 
 { "en": "to lose",      "ko": "잃다",      "fi": "menettää, hävitä", "fr": "perdre" },
 { "en": "lost",      "ko": "잃어버린",      "fi": "menetetty, hävitty", "fr": "perdu" },

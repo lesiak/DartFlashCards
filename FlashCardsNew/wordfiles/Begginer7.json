@@ -10,12 +10,16 @@
 { "en": "hard, solid",       "ko": "단단하다",    "fi": "kova",    "fr":"dur"},
 { "en": "habit",       "ko": "버릇 (?)",    "fi": "tapa",    "fr":"habitude"},
 
+{ "en": "harmful",      "ko": "해롭다",      "fi": "haitallinen, vahingollinen", "fr": "nuisible" },
+{ "en": "advantageous, beneficial",      "ko": "이롭다",      "fi": "edullinen", "fr": "avantageux" },
+
+
 
 { "en": "drug (narcotic)",       "ko": "마약",    "fi": "huume",    "fr":"drogue"},
 
-{ "en": "stapler",       "ko": "호치키스",    "fi": "nitoja",    "fr":"agrafeuse"},
 
-{ "en": "scarecrow",       "ko": "",    "fi": "pelätin",    "fr":""},
+
+
 
 { "en": "attach",       "ko": "붙이다",    "fi": "liittää",    "fr":"attacher"},
 { "en": "service",       "ko": "서비스",    "fi": "palvelu",    "fr":"service"},
@@ -25,10 +29,11 @@
 { "en": "smell",    	"ko": "냄새",    "fi": "haju, tuoksu", 	"fr":"odeur"},
 { "en": "to smell",    	"ko": "냄새가 나다",    "fi": "tuoksua", 	"fr":"sentir"},
 
-{ "en": "earnings, gains, proceeds",         "ko": "수익금",       "fi": "",          "fr": "" },
+
 
 { "en": "gas",    	"ko": "가스",    "fi": "kaasu" , 	"fr":"gaz"},
 { "en": "match",      "ko": "성냥",    "fi": "tulitikku" ,  "fr":"allumette"},
+{ "en": "pressure",       "ko": "압력 (press + strength)",       "fi": "paine",    "fr": "pression" },
 
 { "en": "space",      "ko": "공간, 우주",    "fi": "avaruus" ,  "fr":"espace"},
 { "en": "nature",      "ko": "",    "fi": "luonto" ,  "fr":""},
@@ -44,7 +49,7 @@
 { "en": "guilty",    "ko": "유죄의",    "fi": "syyllinen" , "fr":"coupable"},
 
 { "en": "showy, gaudy, tawdry",    "ko": "야하다",    "fi": "" , "fr":""},
-{ "en": "stalker",    "ko": "스토커",    "fi": "ahdistelija" , "fr":"rôdeur"},
+
 
 { "en": "participate",    "ko": "",    "fi": "osallistua" , "fr":"participer"},
 
@@ -65,7 +70,8 @@
 { "en": "religion",    "ko": "종교",    "fi": "uskonto" , "fr":"religion"},
 { "en": "Buddhism",   "ko": "불교",    "fi": "buddhalaisuus",   "fr":"bouddhisme"},
 
-{ "en": "dry",    "ko": "마르다",    "fi": "" , "fr":""}
+{ "en": "dry",    "ko": "마른",    "fi": "kuiva" , "fr":"sec"},
+{ "en": "wet",    "ko": "젖은",    "fi": "märkä" , "fr":"humide, mouillé"}
 
 
 
