@@ -67,6 +67,10 @@
 { "en": "habit",         "ko": "버릇",       "fi": "tapa",          "fr": "habitude" },
 { "en": "manners",         "ko": "버릇",       "fi": "käytöstavat",          "fr": "manières" },
 
+
+{ "en": "comment",         "ko": "비평",            "fi": "kommentti",          "fr": "commentaire" },
+{ "en": "to comment",         "ko": "비평하다",     "fi": "kommentoida",          "fr": "commenter" },
+
 { "en": "beginner",         "ko": "초보, 초보자 (early + walk + person)",       "fi": "aloittelija",          "fr": "débutant" },
 { "en": "fool",         "ko": "바보",       "fi": "typerys, hullu",          "fr": "fou" },
 { "en": "lover",         "ko": "애인",       "fi": "rakastaja",          "fr": "amant" },

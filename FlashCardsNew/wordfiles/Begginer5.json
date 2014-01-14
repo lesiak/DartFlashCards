@@ -66,6 +66,9 @@
 
 { "en": "by chance",   "ko": "우연히",    "fi": "sattumalta",   "fr":"par hasard"},
 
+{ "en": "on the contrary",   "ko": "이에 반하여",    "fi": "päinvastoin",   "fr":"au contraire"},
+
+
 { "en": "special",         "ko": "특별한",       "fi": "erityinen, erikoinen",          "fr": "spéciale" },
 
 

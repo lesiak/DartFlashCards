@@ -18,6 +18,10 @@
 
 { "en": "earnings, gains, proceeds",         "ko": "수익금",       "fi": "",          "fr": "" },
 
+
+{ "en": "obligatory",   "ko": " ",    "fi": "pakollinen",   "fr":"obligatoire"},
+
+{ "en": "voluntary",   "ko": "자발적인 ??",    "fi": "vapaaehtoinen",   "fr":"volontaire"},
 { "en": "voluntarily",   "ko": "자발적으로",    "fi": "vapaaehtoisesti",   "fr":"volontairement"},
 { "en": "to be related to",   "ko": "",    "fi": "",   "fr":"être liée à"},
 { "en": "to support",   "ko": "",    "fi": "kannattaa",   "fr":"supporter, soutenir"},
