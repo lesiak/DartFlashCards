@@ -3,6 +3,10 @@
 { "en": "insult",   "ko": "모욕",    "fi": "loukkaus", 	"fr":"insulte"},
 { "en": "to insult",   "ko": "모욕하다",    "fi": "loukata",  "fr":"insulter"},
 
+{ "en": "threaten",   "ko": "위협하다",    "fi": "uhata",  "fr":"menacer"},
+{ "en": "threat",   "ko": "위협",    "fi": "uhkaus",  "fr":"menace"},
+
+
 { "en": "information",        "ko": "정보",          "fi": "tiedot",    "fr": "information" },
 
 { "en": "intuition",   "ko": "직관",    "fi": "intuitio", 	"fr":"intuition"},
@@ -18,6 +22,7 @@
 
 { "en": "earnings, gains, proceeds",         "ko": "수익금",       "fi": "",          "fr": "" },
 
+{ "en": "to disappear",         "ko": "",       "fi": "kadota",          "fr": "disparaître" },
 
 { "en": "obligatory",   "ko": " ",    "fi": "pakollinen",   "fr":"obligatoire"},
 

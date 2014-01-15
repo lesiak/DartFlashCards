@@ -1,57 +1,57 @@
 [
 
-{ "en": "read",     "ko": "읽다",       "fi": "lukea",     "fr": "lire" },
-{ "en": "write",     "ko": "쓰다",       "fi": "kirjoittaa",     "fr": "écrire" },
+{ "en": "read",      "ko": "읽다",       "fi": "lukea",        "fr": "lire" },
+{ "en": "write",     "ko": "쓰다",       "fi": "kirjoittaa",   "fr": "écrire" },
 
-{ "en": "letter",     "ko": "편지",       "fi": "kirje",     "fr": "lettre" },
-{ "en": "message",     "ko": "메시지",       "fi": "viesti",     "fr": "message" },
-{ "en": "email",     "ko": "이메일",       "fi": "sähköposti",     "fr": "e-mail" },
-{ "en": "send",     "ko": "보내다",       "fi": "lähettää",     "fr": "envoyer" },
+{ "en": "letter",    "ko": "편지",       "fi": "kirje",        "fr": "lettre" },
+{ "en": "message",   "ko": "메시지",     "fi": "viesti",       "fr": "message" },
+{ "en": "email",     "ko": "이메일",     "fi": "sähköposti",   "fr": "e-mail" },
+{ "en": "send",      "ko": "보내다",     "fi": "lähettää",     "fr": "envoyer" },
 
-{ "en": "after",         "ko": "후",       "fi": "jälkeen",          "fr": "après" },
-{ "en": "afternoon",         "ko": "오후에",       "fi": "iltapäivä",          "fr": "après-midi" },
-{ "en": "before",         "ko": "전에",       "fi": "ennen",          "fr": "avant" },
+{ "en": "after",     "ko": "후",          "fi": "jälkeen",     "fr": "après" },
+{ "en": "afternoon", "ko": "오후에",      "fi": "iltapäivä",   "fr": "après-midi" },
+{ "en": "before",    "ko": "전에",        "fi": "ennen",       "fr": "avant" },
 
-{ "en": "yet",         "ko": "아직",       "fi": "vielä",          "fr": "encore" },
-{ "en": "later",         "ko": "나중에",       "fi": "myöhemmin",          "fr": "plus tard, ensuite" },
-{ "en": "already",         "ko": "벌써, 이미",       "fi": "jo",          "fr": "déjà" },
+{ "en": "yet",        "ko": "아직",       "fi": "vielä",       "fr": "encore" },
+{ "en": "later",      "ko": "나중에",     "fi": "myöhemmin",   "fr": "plus tard, ensuite" },
+{ "en": "already",    "ko": "벌써, 이미", "fi": "jo",          "fr": "déjà" },
+
+{ "en": "always",       "ko": "항상, 늘, 언제나",       "fi": "aina",    "fr": "toujours" },
+{ "en": "now",          "ko": "지금",    "fi": "nyt",       "fr": "maintenant" },
+{ "en": "today",        "ko": "오늘",    "fi": "tänään",    "fr": "aujourd'hui" },
+{ "en": "tomorrow",     "ko": "내일",    "fi": "huomenna",  "fr": "demain" },
+{ "en": "yesterday",    "ko": "어제",    "fi": "eilen",     "fr": "hier" },
 
 
-{ "en": "now",        "ko": "지금",          "fi": "nyt",    "fr": "maintenant" },
-{ "en": "today",        "ko": "오늘",          "fi": "tänään",    "fr": "aujourd'hui" },
-{ "en": "tomorrow",        "ko": "내일",          "fi": "huomenna",    "fr": "demain" },
-{ "en": "yesterday",        "ko": "어제",          "fi": "eilen",    "fr": "hier" },
-
-
-{ "en": "minute",       "ko": "분",       "fi": "minuutti",    "fr": "minute" },  
-{ "en": "hour",       "ko": "시간",       "fi": "tunti",    "fr": "heure" },  
- { "en": "week",         "ko": "주",       "fi": "viikko",          "fr": "semaine" },
-{ "en": "year",        "ko": "년",          "fi": "vuosi",    "fr": "année" },
+{ "en": "minute",       "ko": "분",      "fi": "minuutti",  "fr": "minute" },  
+{ "en": "hour",         "ko": "시간",    "fi": "tunti",     "fr": "heure" },  
+ { "en": "week",        "ko": "주",      "fi": "viikko",    "fr": "semaine" },
+{ "en": "year",         "ko": "년",      "fi": "vuosi",     "fr": "année" },
 {
- "en": "last year",        "ko": "작년",          "fi": "viime vuonna",    "fr": "année dernière" },
-{ "en": "this year",        "ko": "올해",          "fi": "tänä vuonna",    "fr": "cette année" },
+ "en": "last year",     "ko": "작년",    "fi": "viime vuonna",    "fr": "année dernière" },
+{ "en": "this year",    "ko": "올해",    "fi": "tänä vuonna",    "fr": "cette année" },
 
-{ "en": "next",       "ko": " 다음",       "fi": "seuraava, ensi",    "fr": "suivant" },
-{ "en": "previous",    "ko": "이전",    "fi": "edellinen" , "fr":"précédent"},
+{ "en": "next",         "ko": " 다음",   "fi": "seuraava, ensi",    "fr": "suivant" },
+{ "en": "previous",     "ko": "이전",    "fi": "edellinen" , "fr":"précédent"},
 
 { "en": "the day after tomorrow",        "ko": "모레",          "fi": "ylihuomenna",    "fr": "après-demain" },
 { "en": "last night",       "ko": " 어젯밤",       "fi": "viime yönä",    "fr": "la nuit dernière" },
 
  
 
-{ "en": "search",        "ko": "찾다",          "fi": "hakea",    "fr": "chercher" },
-{ "en": "find",        "ko": "발견하다",          "fi": "löytää",    "fr": "trouver" },
+{ "en": "search",       "ko": "찾다",       "fi": "hakea",    "fr": "chercher" },
+{ "en": "find",         "ko": "발견하다",  "fi": "löytää",    "fr": "trouver" },
 
-{ "en": "excuse me",        "ko": "실례합니다",          "fi": "anteeksi",    "fr": "excusez-moi" },
+{ "en": "excuse me",    "ko": "실례합니다", "fi": "anteeksi",    "fr": "excusez-moi" },
 { "en": "sorry",        "ko": "죄송합니다, 미안합니다",          "fi": "anteeksi",    "fr": "désolé" },
 
-{ "en": "phone",        "ko": "전화",          "fi": "puhelin",    "fr": "téléphone" },
-{ "en": "cell phone",        "ko": "핸드폰, 휴대전화, 휴대폰",          "fi": "kännykkä, matkapuhelin",    "fr": "portable" }, 
-{ "en": "number",         "ko": "번호",       "fi": "numero",          "fr": "numéro" },
+{ "en": "phone",        "ko": "전화",        "fi": "puhelin",    "fr": "téléphone" },
+{ "en": "cell phone",   "ko": "핸드폰, 휴대전화, 휴대폰",          "fi": "kännykkä, matkapuhelin",    "fr": "portable" }, 
+{ "en": "number",       "ko": "번호",        "fi": "numero",          "fr": "numéro" },
 { "en": "to answer (receive a phone)",        "ko": "받다",          "fi": "",    "fr": "" },
 { "en": "to change",        "ko": "바꾸다",          "fi": "muuttaa",    "fr": "changer" },
 
-{ "en": "telephone call",        "ko": "통화",          "fi": "puhelu",    "fr": "appel téléphonique" },
+{ "en": "telephone call",   "ko": "통화",    "fi": "puhelu",    "fr": "appel téléphonique" },
 
 { "en": "memo",        "ko": "메모",          "fi": "muistio",    "fr": "note" },
 { "en": "to pass on",        "ko": "전하다",          "fi": "",    "fr": "" },

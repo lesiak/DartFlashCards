@@ -36,7 +36,7 @@
 { "en": "folder",    "ko": "폴더",    "fi": "kansio" , "fr":"dossier"},
 { "en": "file",    "ko": "파일",    "fi": "tiedosto" , "fr":"fichier"},
 { "en": "attachment",    "ko": "",    "fi": "liite" , "fr":""},
-
+{ "en": "to attach",       "ko": "붙이다",    "fi": "liittää",    "fr":"attacher"},
 
 { "en": "to monitor",         "ko": "",      "fi": "valvoa",    "fr": "surveiller" }
 

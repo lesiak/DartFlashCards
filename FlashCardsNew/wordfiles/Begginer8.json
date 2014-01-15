@@ -11,7 +11,11 @@
 
 
 { "en": "hole",        "ko": "구멍",          "fi": "reikä, aukko, kuoppa, kolo",    "fr": "trou" },
-{ "en": "hang (sth)",        "ko": "걸다",          "fi": "riippua",    "fr": "pendre" },
+{ "en": "hang (sth)",        "ko": "걸다",          "fi": "riippua (from = elative)",    "fr": "pendre" },
+{ "en": "to depend",        "ko": "",          "fi": "riippua (on = elative)",    "fr": "dépendre" },
+{ "en": "dependence",        "ko": "",          "fi": "riippuvuus",    "fr": "dépendance" },
+{ "en": "independence",        "ko": "",          "fi": "riippumattomuus",    "fr": "indépendance" },
+
 { "en": "own",        "ko": "자기의",          "fi": "oma",    "fr": "propre" },
 
 { "en": "soon, immediately",        "ko": "금방",          "fi": "heti",    "fr": "immédiatement" },
@@ -19,9 +23,9 @@
 { "en": "to change, to transfer to another vehicle",        "ko": "갈아타다",          "fi": "vaihtaa",    "fr": "changer" },
 { "en": "to change, to replace one's own clothing",        "ko": " 갈아입다",          "fi": "vaihtaa vaatteet",    "fr": "se changer" }, 
 
-{ "en": "line",        "ko": " 호선",          "fi": "linja",    "fr": "ligne de métro" },
-{ "en": "doll",        "ko": "인형",          "fi": "nukke",    "fr": "poupée" },
-{ "en": "separately",        "ko": "따로",          "fi": "erillään",    "fr": "séparément" }, 
+{ "en": "line",          "ko": "호선",       "fi": "linja",    "fr": "ligne de métro" },
+{ "en": "doll",          "ko": "인형",       "fi": "nukke",    "fr": "poupée" },
+{ "en": "separately",    "ko": "따로",       "fi": "erillään",    "fr": "séparément" }, 
 { "en": "method",        "ko": "방법",       "fi": "menetelmä, metodi",    "fr": "méthode" },
 
 { "en": "to complain",   "ko": "불평하다",   "fi": "valittaa",     "fr": "plaindre, se plaindre" },
@@ -30,6 +34,15 @@
 
 { "en": "create",        "ko": "?",          "fi": "luoda",       "fr": "créer" },
 { "en": "establish",     "ko": "?",          "fi": "perustaa",    "fr": "établir" },
+
+
+{ "en": "to produce",     "ko": "",          "fi": "tuottaa",     "fr": "produire" },
+{ "en": "production",     "ko": "",          "fi": "tuotanto",    "fr": "production" },
+{ "en": "product",        "ko": "",          "fi": "tuote",       "fr": "produit" },
+
+{ "en": "to replace",        "ko": "",          "fi": "korvata",       "fr": "remplacer" },
+{ "en": "replacement",        "ko": "",          "fi": "korvaaminen, korvaus",       "fr": "remplacement" },
+
 
 { "en": "prevent",     "ko": "막다, 방해하다",   "fi": "estää, ehkäistä",    "fr": "empêcher" },
 { "en": "obstacle",     "ko": "방해, 장애",       "fi": "este",    "fr": "obstacle" },
@@ -41,9 +54,9 @@
 { "en": "to use",       "ko": "사용하다, 쓰다",       "fi": "käyttää",    "fr": "utiliser, se servir de" },
 { "en": "belong",       "ko": "속하다",       "fi": "kuulua",    "fr": "appartenir à, être membre de" },
 
-{ "en": "situation",       "ko": "?",       "fi": "tilanne",    "fr": "situation" },
+{ "en": "situation",       "ko": "?",           "fi": "tilanne",    "fr": "situation" },
 { "en": "knowledge",       "ko": "지식",       "fi": "tieto",    "fr": "connaissance" },
-{ "en": "always",       "ko": "항상, 늘, 언제나",       "fi": "aina",    "fr": "toujours" },
+
 
 { "en": "to end up",       "ko": " ?",       "fi": "joutua",    "fr": "?" },
 

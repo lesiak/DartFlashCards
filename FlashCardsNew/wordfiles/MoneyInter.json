@@ -25,7 +25,9 @@
 { "en": "a guarantee",      "ko": "보장 (protect + block)",      "fi": "takaus",          "fr": "garantie" },
 { "en": "to guarantee",      "ko": "보장하다",      "fi": "taata",          "fr": "garantir" },
 { "en": "percent",        "ko": "퍼센트",          "fi": "prosentti",    "fr": "pour cent" },
-{ "en": "salary",        "ko": "급여",      "fi": "palkkaus",    "fr": "salaire" }
+{ "en": "salary",        "ko": "급여",      "fi": "palkkaus",    "fr": "salaire" },
+{ "en": "poverty",        "ko": "가난",      "fi": "köyhyys",    "fr": "pauvreté" }
+
 
 
 ]
