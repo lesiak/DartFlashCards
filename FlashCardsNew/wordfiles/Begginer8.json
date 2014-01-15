@@ -22,12 +22,17 @@
 { "en": "line",        "ko": " 호선",          "fi": "linja",    "fr": "ligne de métro" },
 { "en": "doll",        "ko": "인형",          "fi": "nukke",    "fr": "poupée" },
 { "en": "separately",        "ko": "따로",          "fi": "erillään",    "fr": "séparément" }, 
-{ "en": "method",        "ko": "방법",          "fi": "menetelmä, metodi",    "fr": "méthode" },
+{ "en": "method",        "ko": "방법",       "fi": "menetelmä, metodi",    "fr": "méthode" },
 
-{ "en": "create",        "ko": "?",          "fi": "luoda",    "fr": "créer" },
+{ "en": "to complain",   "ko": "불평하다",   "fi": "valittaa",     "fr": "plaindre, se plaindre" },
+{ "en": "complaint",     "ko": "불평",       "fi": " valitus",    "fr": "plainte" },
+
+
+{ "en": "create",        "ko": "?",          "fi": "luoda",       "fr": "créer" },
 { "en": "establish",     "ko": "?",          "fi": "perustaa",    "fr": "établir" },
 
-
+{ "en": "prevent",     "ko": "막다, 방해하다",   "fi": "estää, ehkäistä",    "fr": "empêcher" },
+{ "en": "obstacle",     "ko": "방해, 장애",       "fi": "este",    "fr": "obstacle" },
 
 
 
