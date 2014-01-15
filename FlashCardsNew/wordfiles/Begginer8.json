@@ -47,12 +47,14 @@
 
 
 { "en": "police station",    "ko": "경찰서",    "fi": "poliisiasema" , "fr":"poste de police"},
-
+{ "en": "to publish",         "ko": "출판하다",       "fi": "julkaista, kustantaa",          "fr": "publier" },
+{ "en": "publisher",         "ko": "",       "fi": "kustantaja",          "fr": "éditeur" },
+{ "en": "publishing house",         "ko": "출판사",       "fi": "kustantamo",          "fr": "éditeur d'édition" },
 
 { "en": "Air conditioning",    "ko": "에어컨",    "fi": "ilmastointi" , "fr":"climatisation"},
 
 
-{ "en": "to be born",    "ko": "태어나다",    "fi": "syntyä" , "fr":"naître"},
+
 
 { "en": "loss",    "ko": "손실, 상실",    "fi": "tappio, menetys, häviö (on tehnyt koko ajan tappiota)" , "fr":"perte"},
 { "en": "gain",    "ko": "획득, 이득",    "fi": "hyöty" , "fr":"gain, profit"},

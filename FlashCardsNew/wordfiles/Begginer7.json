@@ -10,6 +10,8 @@
 { "en": "hard, solid",       "ko": "단단하다",    "fi": "kova",    "fr":"dur"},
 { "en": "habit",       "ko": "버릇 (?)",    "fi": "tapa",    "fr":"habitude"},
 
+{ "en": "private",       "ko": "",    "fi": "yksityinen",    "fr":"privé"},
+
 { "en": "harmful",      "ko": "해롭다",      "fi": "haitallinen, vahingollinen", "fr": "nuisible" },
 { "en": "advantageous, beneficial",      "ko": "이롭다",      "fi": "edullinen", "fr": "avantageux" },
 
@@ -35,14 +37,14 @@
 { "en": "match",      "ko": "성냥",    "fi": "tulitikku" ,  "fr":"allumette"},
 { "en": "pressure",       "ko": "압력 (press + strength)",       "fi": "paine",    "fr": "pression" },
 
-{ "en": "space",      "ko": "공간, 우주",    "fi": "avaruus" ,  "fr":"espace"},
-{ "en": "nature",      "ko": "",    "fi": "luonto" ,  "fr":""},
+{ "en": "space",        "ko": "공간, 우주",    "fi": "avaruus" ,  "fr":"espace"},
+{ "en": "nature",       "ko": "",    "fi": "luonto" ,  "fr":""},
 { "en": "natural",      "ko": "",    "fi": "luonnollinen" ,  "fr":"naturel"},
-{ "en": "environment",      "ko": "",    "fi": "ympäristö" ,  "fr":"environnement"},
-{ "en": "protection",      "ko": "",    "fi": "suojelu" ,  "fr":"protection, sauvegarde"},
-{ "en": "to protect",      "ko": "",    "fi": "suojella" ,  "fr":"protéger"},
-{ "en": "valley",      "ko": "",    "fi": "laakso" ,  "fr":"vallée"},
-
+{ "en": "environment",  "ko": "",    "fi": "ympäristö" ,  "fr":"environnement"},
+{ "en": "protection",   "ko": "",    "fi": "suojelu" ,  "fr":"protection, sauvegarde"},
+{ "en": "to protect",   "ko": "",    "fi": "suojella" ,  "fr":"protéger"},
+{ "en": "valley",       "ko": "",    "fi": "laakso" ,  "fr":"vallée"},
+{ "en": "ocean",    "ko": "대양, 해양",    "fi": "" , "fr":""},
 
 { "en": "to continue",    "ko": "계속하다",    "fi": "" , "fr":""},
 { "en": "to suspect",    "ko": "느끼다",    "fi": "epäillä" , "fr":"suspecter"},
@@ -51,21 +53,23 @@
 { "en": "showy, gaudy, tawdry",    "ko": "야하다",    "fi": "" , "fr":""},
 
 
-{ "en": "participate",    "ko": "",    "fi": "osallistua" , "fr":"participer"},
+{ "en": "participate",  "ko": "",    "fi": "osallistua" , "fr":"participer"},
+
+{ "en": "limit",          "ko": "한도",      "fi": "raja" ,      "fr":"limite"},
+{ "en": "to limit",       "ko": "한하다",    "fi": "rajoittaa" , "fr":"limiter"},
+
+
+{ "en": "to decorate",    "ko": "장식하다",       "fi": "koristella",          "fr": "décorer" },
+
+{ "en": "announcement",   "ko": "발표",       "fi": "ilmoitus",          "fr": "annonce" },
 
 
 
-{ "en": "to decorate",         "ko": "장식하다",       "fi": "koristella",          "fr": "décorer" },
-
-{ "en": "announcement",         "ko": "발표",       "fi": "ilmoitus",          "fr": "annonce" },
 
 
 
 
 
-
-
-{ "en": "ocean",    "ko": "대양, 해양",    "fi": "" , "fr":""},
 { "en": "freedom, liberty",    "ko": "자유",    "fi": "" , "fr":""},
 { "en": "religion",    "ko": "종교",    "fi": "uskonto" , "fr":"religion"},
 { "en": "Buddhism",   "ko": "불교",    "fi": "buddhalaisuus",   "fr":"bouddhisme"},
