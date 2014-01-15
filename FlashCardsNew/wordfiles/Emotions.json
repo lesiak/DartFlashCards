@@ -12,8 +12,9 @@
 { "en": "proud",         "ko": "",       "fi": "ylpeä",          "fr": "fier" },
 
 { "en": "laugh",       "ko": "웃다",      "fi": "nauraa",    "fr": "rire" },
-{ "en": "to smile",         "ko": "웃다",       "fi": "epäröidä",          "fr": "sourire" },
-{ "en": "smile",         "ko": "미소",       "fi": "hymyillä",          "fr": "sourire" },
+{ "en": "to smile",         "ko": "웃다",       "fi": "hymyillä",          "fr": "sourire" },
+{ "en": "smile",         "ko": "미소",       "fi": "hymy",          "fr": "sourire" },
+
 
 { "en": "to fear",       "ko": "",    "fi": "pelätä (pelkää)",    "fr":""},
 { "en": "fear",       "ko": "",    "fi": "pelko",    "fr":""},

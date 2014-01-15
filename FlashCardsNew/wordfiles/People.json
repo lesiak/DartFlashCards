@@ -1,5 +1,28 @@
 [
 
+
+{ "en": "family",       "ko": "가족",       "fi": "perhe",   "fr": "famille" },
+{ "en": "father",        "ko": "아버지",          "fi": "isä",    "fr": "père" },
+{ "en": "child",        "ko": "아이, 어린이",          "fi": "lapsi",    "fr": "enfant" },
+{ "en": "son",        "ko": "아들",          "fi": "poika",    "fr": "fils" },
+{ "en": "baby",        "ko": "아가",          "fi": "vauva, beibi",    "fr": "bébé" },
+{ "en": "wife",        "ko": "아내",          "fi": "vaimo",    "fr": "femme" },
+{ "en": "husband",        "ko": "남편",          "fi": "aviomies",    "fr": "mari" },
+
+{ "en": "parents",        "ko": "부모",          "fi": "vanhemmat",    "fr": "parents" },
+{ "en": "single parent",        "ko": "단일 부모",          "fi": "yksinhuoltaja",    "fr": "" },
+
+{ "en": "marriage",        "ko": "결혼 (tie + marry)",          "fi": "avioliitto, häät",    "fr": "mariage" },
+{ "en": "to get married",        "ko": "결혼하다",          "fi": "mennä naimisiin",    "fr": "se marier" },
+{ "en": "bride",        "ko": "신부 (new + wife)",          "fi": "morsian",    "fr": "mariée" },
+
+{ "en": "engagement (betrothal)",        "ko": "약혼 (contract + marry)",          "fi": "kihlaus",    "fr": "fiançailles" },
+{ "en": "blind date",   "ko": "소개팅",    "fi": "sokkotreffit",   "fr":""},
+
+{ "en": "to grow up",        "ko": "자라다",          "fi": "kasvaa, tulla aikuiseksi",    "fr": "" },
+{ "en": "to be born",        "ko": "태어나다",          "fi": "syntyä",    "fr": "naître" },
+
+
 { "en": "girl",    "ko": "소녀 (girly)",    "fi": "tyttö" , "fr":"fille"},
 { "en": "miss, young girl",    "ko": "아가씨",    "fi": "neiti" , "fr":"Mademoiselle"},
 
@@ -52,7 +75,7 @@
 
 
 { "en": "to hug",         "ko": "포옹하다",       "fi": "halata",          "fr": "étreindre" },
-{ "en": "a smile",         "ko": "미소",       "fi": "hymy",          "fr": "sourire" },
+
 
 { "en": "close (with other people)",         "ko": "친하다",       "fi": "",          "fr": "" },
 
