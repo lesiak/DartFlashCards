@@ -31,6 +31,12 @@
 { "en": "to complain",   "ko": "불평하다",   "fi": "valittaa",     "fr": "plaindre, se plaindre" },
 { "en": "complaint",     "ko": "불평",       "fi": " valitus",    "fr": "plainte" },
 
+{ "en": "suggestion",     "ko": "",           "fi": "ehdotus",    "fr": "suggestion" },
+{ "en": "proposition",    "ko": "제안",      "fi": "ehdotus, esitys",    "fr": "proposition" },
+{ "en": "to propose",     "ko": "제안하다",  "fi": "ehdottaa, esittää",    "fr": "proposer" },
+
+{ "en": "to present",     "ko": "선사하다", "fi": "esittää, näyttää",    "fr": "présenter" },
+{ "en": "presentation",     "ko": "",        "fi": "esitys",    "fr": "exposé (m), présentation" },
 
 { "en": "create",        "ko": "?",          "fi": "luoda",       "fr": "créer" },
 { "en": "establish",     "ko": "?",          "fi": "perustaa",    "fr": "établir" },

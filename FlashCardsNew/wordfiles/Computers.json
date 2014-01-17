@@ -25,6 +25,9 @@
 { "en": "install",         "ko": "설치하다",      "fi": "asentaa",    "fr": "installer" },
 { "en": "installation",         "ko": "설치",      "fi": "asennus",    "fr": "installation" },
 
+{ "en": "to update",         "ko": "업데이트하다",      "fi": "päivittää",    "fr": "mettre à jour, actualiser" },
+{ "en": "update",         "ko": "업데이트",      "fi": "päivitys",    "fr": "mise à jour" },
+
 { "en": "maintenance",         "ko": "",      "fi": "huolto",    "fr": "maintenance" },
 { "en": "to maintain",         "ko": "",      "fi": "huoltaa",    "fr": "maintenir" },
 

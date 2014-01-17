@@ -1,6 +1,8 @@
 [
 
 { "en": "hammer",       "ko": "망치",       "fi": "vasara",    "fr": "marteau" },
-{ "en": "needle",       "ko": "바늘",       "fi": "neula",    "fr": "aiguille" }
+{ "en": "needle",       "ko": "바늘",       "fi": "neula",    "fr": "aiguille" },
+{ "en": "glue",       "ko": "풀",       "fi": "liima",    "fr": "colle" },
+{ "en": "to glue",       "ko": "",       "fi": "liimata",    "fr": "coller" } 
 
 ]

@@ -25,6 +25,7 @@
 
 { "en": "minute",       "ko": "분",      "fi": "minuutti",  "fr": "minute" },  
 { "en": "hour",         "ko": "시간",    "fi": "tunti",     "fr": "heure" },  
+{ "en": "day",         "ko": "일",    "fi": "päivä",     "fr": "jour" },
  { "en": "week",        "ko": "주",      "fi": "viikko",    "fr": "semaine" },
 { "en": "year",         "ko": "년",      "fi": "vuosi",     "fr": "année" },
 {
