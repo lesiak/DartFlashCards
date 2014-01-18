@@ -16,8 +16,8 @@
 { "en": "wound",        "ko": "상처",     "fi": "haava",    "fr": "blessure" },
 { "en": "injection",        "ko": "주사",     "fi": "injektio",    "fr": "injection" },
 { "en": "prescription",        "ko": "처방",     "fi": "resepti",    "fr": "prescription" },
-{ "en": "operation, surgery",        "ko": "외과",     "fi": "leikkaus",    "fr": "opération" }
-
+{ "en": "operation, surgery",        "ko": "외과",     "fi": "leikkaus",    "fr": "opération" },
+{ "en": "syringe",        "ko": "주사기",     "fi": "ruisku",    "fr": "seringue (f)" }
 
 
 

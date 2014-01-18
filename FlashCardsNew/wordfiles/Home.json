@@ -40,11 +40,22 @@
 { "en": "kitchen",        "ko": " 부엌",          "fi": "keittiö",    "fr": "cuisine" },
 
 { "en": "get up, wake up",       "ko": "일어나다",       "fi": "nousta",    "fr": "se lever" },
-{ "en": "to wash",       "ko": "씻다",       "fi": "pestä, tiskata, pyykätä",    "fr": "laver" },
+
 { "en": "to wash (oneself)",       "ko": "",       "fi": "peseytyä",    "fr": "se laver" },
 
 { "en": "to make the bed",       "ko": "",       "fi": "pedata sänky, sijata vuode",    "fr": "" },
-{ "en": "to clean",       "ko": "",       "fi": "siivota",    "fr": "" },
+{ "en": "to clean",       "ko": "",       "fi": "puhdistaa, siivota",    "fr": "nettoyer" },
+{ "en": "to wash",       "ko": "씻다",       "fi": "pestä, tiskata, pyykätä",    "fr": "laver" },
+{ "en": "to wipe",       "ko": "닦음",       "fi": "pyyhkiä",    "fr": "essuyer" },
+{ "en": "to sweep",       "ko": "",       "fi": "lakaista",    "fr": "balayer" },
+
+{ "en": "broom",       "ko": "",       "fi": "harja, luuta",    "fr": "balai" },
+{ "en": "brush (sweeper)",       "ko": "",       "fi": "harja",    "fr": "balayette (f)" },
+{ "en": "dust pan",       "ko": "",       "fi": "rikkalapio",    "fr": "pelle (f)" },
+{ "en": "vacuum cleaner",       "ko": "진공 청소기",       "fi": "pölynimuri",    "fr": "aspirateur" },
+
+{ "en": "to iron",       "ko": "",       "fi": "silittää",    "fr": "repasser" },
+{ "en": "iron (for clothes)",       "ko": "",       "fi": "silitysrauta",    "fr": "fer à repasser" },
 
 { "en": "morning",       "ko": "아침",         "fi": "aamu",    "fr": "matin" },
 { "en": "evening",       "ko": "저녁",         "fi": "ilta",    "fr": "soir" },
@@ -53,10 +64,6 @@
 { "en": "breakfast",       "ko": "아침",         "fi": "aamiainen",    "fr": "petit déjeuner" },
 { "en": "lunch",       "ko": "점심",         "fi": "lounas",    "fr": "déjeuner" },
 { "en": "dinner",       "ko": "저녁",         "fi": "päivällinen",    "fr": "dîner" },
-{ "en": "cook",       "ko": "요리하다",         "fi": "keittää, laittaa ruokaa",    "fr": "cuisiner" },
-{ "en": "to bake",   "ko": "굽다",    "fi": "leipoa",   "fr":""},
-{ "en": "prepare",       "ko": "준비하다",         "fi": "valmistella",    "fr": "préparer" },
-{ "en": "preparation",       "ko": "준비",         "fi": "valmistelu",    "fr": "préparation" },
 
 { "en": "rubbish",    "ko": "쓰레기",    "fi": "roska" , "fr":"déchets"},
 { "en": "recycling",    "ko": "",    "fi": "kierrätys" , "fr":""},
