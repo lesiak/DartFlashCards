@@ -1,8 +1,8 @@
 [
-
+{ "en": "to learn",       "ko": "배우다",       "fi": "oppia",    "fr": "apprendre" },
 { "en": "lesson",        "ko": "수업, 과",          "fi": "oppitunti",    "fr": "leçon" },
 { "en": "professor",        "ko": "교수",          "fi": "professori",    "fr": "professeur" },
-{ "en": "dictionary",        "ko": "사전",          "fi": "sanakirja",    "fr": "dictionnaire" },
+
 { "en": "topic",       "ko": "주제",       "fi": "aihe",    "fr": "sujet" },
 { "en": "course",       "ko": "과목",       "fi": "kurssi",    "fr": "cours" },
 
@@ -10,7 +10,7 @@
 { "en": "science",       "ko": "과학",       "fi": "tiede",    "fr": "science" },
 
 { "en": "report",       "ko": "보고서",       "fi": "selvitys, raportti",    "fr": "rapport" },
-{ "en": "encyclopedia",       "ko": "백과사전",       "fi": "tietosanakirja",    "fr": "encyclopédie" },
+
 { "en": "pencil",       "ko": "연필",       "fi": "lyijykynä",    "fr": "crayon" }, 
 
 { "en": "mathematics",       "ko": "수학",       "fi": "matematiikka",    "fr": "mathématiques" },
@@ -24,7 +24,7 @@
 
 { "en": "elementary school",       "ko": "초등학교 (early + class + study + school)",       "fi": "alkeiskoulu",    "fr": "école primaire" },
 
-{ "en": "to learn",       "ko": "배우다",       "fi": "oppia",    "fr": "apprendre" },
+
 { "en": "graduation",       "ko": "졸업",       "fi": "",    "fr": "" },
 { "en": "graduate",       "ko": "졸업하다",       "fi": "valmistua, suorittaa tutkinto, saada oppiarvo",    "fr": "obtenir sa licence, son diplôme" },
 { "en": "diligently",       "ko": "열심히",       "fi": "ahkerasti",    "fr": "diligemment" },
@@ -42,6 +42,7 @@
 { "en": "sentence",       "ko": "문장",       "fi": "lause, virke",    "fr": "phrase" },
 { "en": "alphabet",       "ko": "알파벳",       "fi": "aakkoset, aakkosto",    "fr": "alphabet" },
 { "en": "dictionary",       "ko": "사전",       "fi": "sanakirja",    "fr": "dictionnaire" },
+{ "en": "encyclopedia",       "ko": "백과사전",       "fi": "tietosanakirja",    "fr": "encyclopédie" },
 { "en": "grammar",       "ko": "문법",       "fi": "kielioppi",    "fr": "grammaire" },
 
 
