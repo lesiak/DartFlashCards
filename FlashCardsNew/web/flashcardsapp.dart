@@ -22,9 +22,10 @@ class FlashCardsApp extends PolymerElement {
                      'Begginer4',
                      'Begginer5',
                      'Begginer6',
-                     'Sport',
+                     'CultureBegginer',
                      'Home',
                      'City',
+                     'Sport',
                      'Travel',
                      'Holiday',
                      'Clothes',
@@ -37,7 +38,8 @@ class FlashCardsApp extends PolymerElement {
                      'Health',
                      'Colors'];
   
-  List<String> level2Files = ['Work',
+  List<String> level2Files = ['NatureIntermediate',
+                              'Work',
                               'School',
                               'Computers',
                               'Begginer7',
@@ -53,7 +55,8 @@ class FlashCardsApp extends PolymerElement {
                               'Tools',
                               'Cooking',
                               'Politics',
-                              'MoneyInter',
+                              'Money',
+                              'Intermediate1',
                               'Sentences1',
                               'TopikInter1']; 
   

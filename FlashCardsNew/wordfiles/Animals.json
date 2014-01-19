@@ -53,8 +53,9 @@
 
 { "en": "dinosaur",      "ko": "공룡",     "fi": "hirmulisko, dinosaurus",   "fr": "dinosaure" },
 
-{ "en": "hamster",      "ko": "조선 쥐",     "fi": "hamsteri",   "fr": "hamster" }
+{ "en": "hamster",      "ko": "조선 쥐",     "fi": "hamsteri",   "fr": "hamster" },
 
+{ "en": "animal",      "ko": "동물",     "fi": "eläin",   "fr": "animal" }
 
 
 ]

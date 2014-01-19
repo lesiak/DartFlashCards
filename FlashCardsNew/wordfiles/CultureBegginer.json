@@ -1,0 +1,49 @@
+[
+{ "en": "culture",      "ko": "문화",    "fi": "kulttuuri",         "fr": "culture" },
+{ "en": "entertainment",      "ko": "환대",    "fi": "viihde",         "fr": "divertissement" },
+{ "en": "book",     "ko": "책",   "fi": "kirja",      "fr": "livre" },
+{ "en": "newspaper",     "ko": "신문 (new + hear)",   "fi": "sanomalehti",      "fr": "journal" },
+{ "en": "magazine",     "ko": "잡지",   "fi": "aikakauslehti",      "fr": "magazine" },
+{ "en": "paper",        "ko": "종이",      "fi": "paperi",          "fr": "papier" },
+{ "en": "actor",        "ko": "배우",     "fi": "näyttelijä",         "fr": "acteur" },
+{ "en": "movie star",   "ko": "영화 배우",   "fi": "päänäyttelijä",   "fr": "star de cinéma" },
+{ "en": "singer",        "ko": "가수",     "fi": "laulaja",         "fr": "chanteur" },
+{ "en": "song",         "ko": "노래",       "fi": "laulu",          "fr": "chanson" },
+{ "en": "title",         "ko": "제목",       "fi": "nimi",          "fr": "titre" },
+{ "en": "lyrics",         "ko": "가사",       "fi": "sanoitus",          "fr": "paroles" },
+{ "en": "scenario",         "ko": "",       "fi": "skenaario, suunnitelma",          "fr": "scénario" },
+
+{ "en": "sound",         "ko": "소리",       "fi": "ääni",          "fr": "son" },
+{ "en": "music",         "ko": "음악",       "fi": "musiikki",          "fr": "musique" },
+{ "en": "melody",    "ko": "멜로디",    "fi": "melodia, sävel" , "fr":"mélodie"},
+{ "en": "concert",         "ko": "음악회, 콘서트",       "fi": "konsertti",          "fr": "concert" },
+
+{ "en": "ticket",         "ko": "표",       "fi": "lippu",          "fr": "billet" },
+{ "en": "writer",         "ko": "작가",       "fi": "kirjoittaja, kirjailija",          "fr": "écrivain, auteur" },
+{ "en": "poem",         "ko": "시",       "fi": "runo",          "fr": "poème" },
+{ "en": "poet",         "ko": "시인",       "fi": "runoilija",          "fr": "poète" },
+
+{ "en": "to draw",         "ko": "그리다",       "fi": "piirtää",          "fr": "dessiner" },
+{ "en": "a picture",         "ko": "그림",       "fi": "kuva",          "fr": "dessin" },
+
+{ "en": "channel",         "ko": "채널",      "fi": "kanava",    "fr": "canal" },
+{ "en": "program",         "ko": "프로그램",      "fi": "ohjelma",    "fr": "programme" },
+
+{ "en": "interview",         "ko": "인터뷰",       "fi": "haastattelu",          "fr": "entretien" },
+
+{ "en": "series",         "ko": "시리즈",       "fi": "sarja",          "fr": "série" },
+{ "en": "duration",         "ko": "지속",       "fi": "kesto",          "fr": "durée" },
+
+{ "en": "a comeback",         "ko": "컴백",       "fi": "paluu",          "fr": "" },
+
+{ "en": "famous",         "ko": "유명한",       "fi": "kuuluisa",          "fr": "célèbre" },
+{ "en": "fan",         "ko": "팬",       "fi": "fani",          "fr": "fan" },
+
+{ "en": "guitar",         "ko": "기타",         "fi": "kitara",              "fr": "guitare" }, 
+{ "en": "piano",          "ko": "피아노",       "fi": "piano",               "fr": "piano" },
+{ "en": "saxophone",      "ko": "색소폰",       "fi": "saksofoni",           "fr": "saxophone" },
+{ "en": "drum",           "ko": "드럼",         "fi": "rumpu",   "fr":"tambour, batterie"},
+{ "en": "violin",           "ko": "바이올린",         "fi": "viulu",   "fr":"violon"},
+
+{ "en": "musical instrument",  "ko": "악기",    "fi": "soitin",   "fr":"instrument de musique"}
+]

@@ -38,11 +38,15 @@
 
 { "en": "to count",       "ko": "",       "fi": "laskea",    "fr": "compter" },
 
+{ "en": "word",       "ko": "",       "fi": "sana",    "fr": "mot" },
+{ "en": "sentence",       "ko": "문장",       "fi": "lause, virke",    "fr": "phrase" },
+{ "en": "alphabet",       "ko": "알파벳",       "fi": "aakkoset, aakkosto",    "fr": "alphabet" },
+{ "en": "dictionary",       "ko": "사전",       "fi": "sanakirja",    "fr": "dictionnaire" },
+{ "en": "grammar",       "ko": "문법",       "fi": "kielioppi",    "fr": "grammaire" },
+
 
 { "en": "ruler",       "ko": "자",       "fi": "viivain",    "fr": "règle" },
 { "en": "calculator",       "ko": "계산기",       "fi": "laskin",    "fr": "calculatrice" }
-
-
 
 
 ]

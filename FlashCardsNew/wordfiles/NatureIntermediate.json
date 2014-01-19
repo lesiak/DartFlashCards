@@ -1,0 +1,16 @@
+[
+{ "en": "space",       "ko": "공간, 우주",  "fi": "avaruus" ,     "fr":"espace"},
+{ "en": "nature",      "ko": "",             "fi": "luonto" ,     "fr":""},
+{ "en": "natural",     "ko": "",             "fi": "luonnollinen", "fr":"naturel"},
+{ "en": "environment", "ko": "",             "fi": "ympäristö" ,   "fr":"environnement"},
+{ "en": "protection",  "ko": "",             "fi": "suojelu" ,    "fr":"protection, sauvegarde"},
+{ "en": "to protect",  "ko": "",             "fi": "suojella" ,   "fr":"protéger"},
+{ "en": "valley",      "ko": "",             "fi": "laakso" ,     "fr":"vallée"},
+{ "en": "ocean",       "ko": "대양, 해양",   "fi": "valtameri",  "fr":"océan"},
+{ "en": "meadow",      "ko": "목초지",       "fi": "niitty" ,    "fr":""},
+{ "en": "shadow",        "ko": "그림자",      "fi": "varjo",     "fr": "ombre" },
+{ "en": "cloudy",      "ko": "흐리다",       "fi": "pilvinen",   "fr":"nuageux"},
+{ "en": "gas",         "ko": "가스",         "fi": "kaasu" ,     "fr":"gaz"},
+{ "en": "a liquid",    "ko": "액체",         "fi": "neste",      "fr": "liquide" },
+{ "en": "pressure",       "ko": "압력 (press + strength)",       "fi": "paine",    "fr": "pression" }
+]

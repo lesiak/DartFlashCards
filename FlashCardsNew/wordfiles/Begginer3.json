@@ -17,6 +17,7 @@
 { "en": "already",    "ko": "벌써, 이미", "fi": "jo",          "fr": "déjà" },
 
 { "en": "always",       "ko": "항상, 늘, 언제나",       "fi": "aina",    "fr": "toujours" },
+{ "en": "again",       "ko": "다시, 또",       "fi": "taas, uudelleen, jälleen",    "fr": "de nouveau, encore" },
 { "en": "now",          "ko": "지금",    "fi": "nyt",       "fr": "maintenant" },
 { "en": "today",        "ko": "오늘",    "fi": "tänään",    "fr": "aujourd'hui" },
 { "en": "tomorrow",     "ko": "내일",    "fi": "huomenna",  "fr": "demain" },

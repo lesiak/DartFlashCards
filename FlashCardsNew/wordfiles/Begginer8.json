@@ -28,15 +28,13 @@
 { "en": "separately",    "ko": "따로",       "fi": "erillään",    "fr": "séparément" }, 
 { "en": "method",        "ko": "방법",       "fi": "menetelmä, metodi",    "fr": "méthode" },
 
-{ "en": "to complain",   "ko": "불평하다",   "fi": "valittaa",     "fr": "plaindre, se plaindre" },
-{ "en": "complaint",     "ko": "불평",       "fi": " valitus",    "fr": "plainte" },
 
-{ "en": "suggestion",     "ko": "",           "fi": "ehdotus",    "fr": "suggestion" },
-{ "en": "proposition",    "ko": "제안",      "fi": "ehdotus, esitys",    "fr": "proposition" },
-{ "en": "to propose",     "ko": "제안하다",  "fi": "ehdottaa, esittää",    "fr": "proposer" },
+{ "en": "to replace",        "ko": "",          "fi": "korvata",       "fr": "remplacer" },
+{ "en": "replacement",        "ko": "",          "fi": "korvaaminen, korvaus",       "fr": "remplacement" },
 
-{ "en": "to present",     "ko": "선사하다", "fi": "esittää, näyttää",    "fr": "présenter" },
-{ "en": "presentation",     "ko": "",        "fi": "esitys",    "fr": "exposé (m), présentation" },
+
+{ "en": "prevent",     "ko": "막다, 방해하다",   "fi": "estää, ehkäistä",    "fr": "empêcher" },
+{ "en": "obstacle",     "ko": "방해, 장애",       "fi": "este",    "fr": "obstacle" },
 
 { "en": "create",        "ko": "?",          "fi": "luoda",       "fr": "créer" },
 { "en": "establish",     "ko": "?",          "fi": "perustaa",    "fr": "établir" },
@@ -46,22 +44,12 @@
 { "en": "production",     "ko": "",          "fi": "tuotanto",    "fr": "production" },
 { "en": "product",        "ko": "",          "fi": "tuote",       "fr": "produit" },
 
-{ "en": "to replace",        "ko": "",          "fi": "korvata",       "fr": "remplacer" },
-{ "en": "replacement",        "ko": "",          "fi": "korvaaminen, korvaus",       "fr": "remplacement" },
-
-
-{ "en": "prevent",     "ko": "막다, 방해하다",   "fi": "estää, ehkäistä",    "fr": "empêcher" },
-{ "en": "obstacle",     "ko": "방해, 장애",       "fi": "este",    "fr": "obstacle" },
-
-
 
 
 { "en": "to function",       "ko": "?",       "fi": "toimia",    "fr": "marcher, fonctionner" },
 { "en": "to use",       "ko": "사용하다, 쓰다",       "fi": "käyttää",    "fr": "utiliser, se servir de" },
 { "en": "belong",       "ko": "속하다",       "fi": "kuulua",    "fr": "appartenir à, être membre de" },
 
-{ "en": "situation",       "ko": "?",           "fi": "tilanne",    "fr": "situation" },
-{ "en": "knowledge",       "ko": "지식",       "fi": "tieto",    "fr": "connaissance" },
 
 
 { "en": "to end up",       "ko": " ?",       "fi": "joutua",    "fr": "?" },

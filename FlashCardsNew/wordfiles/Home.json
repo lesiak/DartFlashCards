@@ -52,26 +52,26 @@
 { "en": "broom",       "ko": "",       "fi": "harja, luuta",    "fr": "balai" },
 { "en": "brush (sweeper)",       "ko": "",       "fi": "harja",    "fr": "balayette (f)" },
 { "en": "dust pan",       "ko": "",       "fi": "rikkalapio",    "fr": "pelle (f)" },
-{ "en": "vacuum cleaner",       "ko": "진공 청소기",       "fi": "pölynimuri",    "fr": "aspirateur" },
+{ "en": "vacuum cleaner", "ko": "진공 청소기","fi": "pölynimuri",    "fr": "aspirateur" },
 
-{ "en": "to iron",       "ko": "",       "fi": "silittää",    "fr": "repasser" },
-{ "en": "iron (for clothes)",       "ko": "",       "fi": "silitysrauta",    "fr": "fer à repasser" },
+{ "en": "to iron",       "ko": "",            "fi": "silittää",    "fr": "repasser" },
+{ "en": "iron (for clothes)",       "ko": "", "fi": "silitysrauta",    "fr": "fer à repasser" },
 
-{ "en": "morning",       "ko": "아침",         "fi": "aamu",    "fr": "matin" },
-{ "en": "evening",       "ko": "저녁",         "fi": "ilta",    "fr": "soir" },
-{ "en": "night",       "ko": "밤",         "fi": "yö",    "fr": "nuit" },
+{ "en": "morning",       "ko": "아침",       "fi": "aamu",    "fr": "matin" },
+{ "en": "evening",       "ko": "저녁",       "fi": "ilta",    "fr": "soir" },
+{ "en": "night",         "ko": "밤",         "fi": "yö",      "fr": "nuit" },
 
-{ "en": "breakfast",       "ko": "아침",         "fi": "aamiainen",    "fr": "petit déjeuner" },
-{ "en": "lunch",       "ko": "점심",         "fi": "lounas",    "fr": "déjeuner" },
-{ "en": "dinner",       "ko": "저녁",         "fi": "päivällinen",    "fr": "dîner" },
+{ "en": "breakfast",     "ko": "아침",       "fi": "aamiainen",    "fr": "petit déjeuner" },
+{ "en": "lunch",         "ko": "점심",       "fi": "lounas",       "fr": "déjeuner" },
+{ "en": "dinner",        "ko": "저녁",       "fi": "päivällinen",  "fr": "dîner" },
 
-{ "en": "rubbish",    "ko": "쓰레기",    "fi": "roska" , "fr":"déchets"},
-{ "en": "recycling",    "ko": "",    "fi": "kierrätys" , "fr":""},
-
-
-{ "en": "wall",         "ko": "담",       "fi": "seinä, muuri",          "fr": "mur" },
-{ "en": "brick",         "ko": "벽돌",       "fi": "tiili",          "fr": "brique" }
+{ "en": "rubbish",       "ko": "쓰레기",     "fi": "roska" ,       "fr":"déchets"},
+{ "en": "recycling",     "ko": "",            "fi": "kierrätys" ,   "fr":""},
 
 
+{ "en": "wall",          "ko": "담",         "fi": "seinä, muuri",      "fr": "mur" },
+{ "en": "corner",        "ko": "구석, 모서리", "fi": "nurkka, kulma",  "fr": "coin (m)" },
+
+{ "en": "cellar",        "ko": "지하실",    "fi": "kellari",  "fr": "cave, cellier" }
 
 ]

@@ -1,61 +1,54 @@
 [
 
-{ "en": "culture",      "ko": "문화",    "fi": "kulttuuri",         "fr": "culture" },
-{ "en": "entertainment",      "ko": "환대",    "fi": "viihde",         "fr": "divertissement" },
-{ "en": "book",     "ko": "책",   "fi": "kirja",      "fr": "livre" },
-{ "en": "newspaper",     "ko": "신문 (new + hear)",   "fi": "sanomalehti",      "fr": "journal" },
-{ "en": "magazine",     "ko": "잡지",   "fi": "aikakauslehti",      "fr": "magazine" },
-{ "en": "paper",        "ko": "종이",      "fi": "paperi",          "fr": "papier" },
-{ "en": "actor",        "ko": "배우",     "fi": "näyttelijä",         "fr": "acteur" },
-{ "en": "movie star",   "ko": "영화 배우",   "fi": "päänäyttelijä",   "fr": "star de cinéma" },
-{ "en": "singer",        "ko": "가수",     "fi": "laulaja",         "fr": "chanteur" },
-{ "en": "song",         "ko": "노래",       "fi": "laulu",          "fr": "chanson" },
-{ "en": "title",         "ko": "제목",       "fi": "nimi",          "fr": "titre" },
-{ "en": "lyrics",         "ko": "가사",       "fi": "sanoitus",          "fr": "paroles" },
-{ "en": "scenario",         "ko": "",       "fi": "skenaario, suunnitelma",          "fr": "scénario" },
 
-{ "en": "sound",         "ko": "소리",       "fi": "ääni",          "fr": "son" },
-{ "en": "music",         "ko": "음악",       "fi": "musiikki",          "fr": "musique" },
-{ "en": "melody",    "ko": "멜로디",    "fi": "melodia, sävel" , "fr":"mélodie"},
-{ "en": "concert",         "ko": "음악회, 콘서트",       "fi": "konsertti",          "fr": "concert" },
+{ "en": "a little",   "ko": "조금",       "fi": "vähän",          "fr": "un peu" },
+{ "en": "very",       "ko": "아주",       "fi": "hyvin",          "fr": "très" },
 
-{ "en": "ticket",         "ko": "표",       "fi": "lippu",          "fr": "billet" },
-{ "en": "writer",         "ko": "작가",       "fi": "kirjoittaja, kirjailija",          "fr": "écrivain, auteur" },
-{ "en": "poem",         "ko": "시",       "fi": "runo",          "fr": "poème" },
-{ "en": "poet",         "ko": "시인",       "fi": "runoilija",          "fr": "poète" },
+{ "en": "really",     "ko": "정말",       "fi": "todella",         "fr": "vraiment" },
+{ "en": "not really", "ko": "별로",       "fi": "",                "fr": "" },
 
-{ "en": "to draw",         "ko": "그리다",       "fi": "piirtää",          "fr": "dessiner" },
-{ "en": "a picture",         "ko": "그림",       "fi": "kuva",          "fr": "dessin" },
-
-{ "en": "channel",         "ko": "채널",      "fi": "kanava",    "fr": "canal" },
-{ "en": "program",         "ko": "프로그램",      "fi": "ohjelma",    "fr": "programme" },
-
-{ "en": "interview",         "ko": "인터뷰",       "fi": "haastattelu",          "fr": "entretien" },
-
-{ "en": "series",         "ko": "시리즈",       "fi": "sarja",          "fr": "série" },
-{ "en": "duration",         "ko": "지속",       "fi": "kesto",          "fr": "durée" },
-
-{ "en": "a comeback",         "ko": "컴백",       "fi": "paluu",          "fr": "" },
-
-{ "en": "famous",         "ko": "유명한",       "fi": "kuuluisa",          "fr": "célèbre" },
-{ "en": "fan",         "ko": "팬",       "fi": "fani",          "fr": "fan" },
-
-{ "en": "guitar",         "ko": "기타",         "fi": "kitara",              "fr": "guitare" }, 
-{ "en": "piano",          "ko": "피아노",       "fi": "piano",               "fr": "piano" },
-{ "en": "saxophone",      "ko": "색소폰",       "fi": "saksofoni",           "fr": "saxophone" },
-{ "en": "drum",           "ko": "드럼",         "fi": "rumpu",   "fr":"tambour, batterie"},
-{ "en": "violin",           "ko": "바이올린",         "fi": "viulu",   "fr":"violon"},
-
-{ "en": "musical instrument",  "ko": "악기",    "fi": "soitin",   "fr":"instrument de musique"},
+{ "en": "memory",      "ko": "기억",       "fi": "muisto",        "fr": "souvenir" },
+{ "en": "remember",    "ko": "기억하다",   "fi": "muistaa",       "fr": "rappeler" },
+{ "en": "recommend",   "ko": "추천하다",   "fi": "suositella",    "fr": "recommander" },
+{ "en": "idea",        "ko": "아이디어",   "fi": "idea",          "fr": "idée" },
 
 
 { "en": "willingly",  "ko": "기꺼이",    "fi": "mielellään",   "fr":"volontiers"},
 
-{ "en": "shadow",        "ko": "그림자",          "fi": "varjo",    "fr": "ombre" },
 
-{ "en": "to take",        "ko": "잡다",          "fi": "ottaa",    "fr": "prendre" },
-{ "en": "to rub",   "ko": "비비다",    "fi": "hieroa",   "fr":"frotter"},
-{ "en": "to mix",   "ko": "비비다",    "fi": "sekoittaa",   "fr":"mélanger"}
+{ "en": "solution",   "ko": "해결",       "fi": "ratkaisu",    "fr": "solution" },
+{ "en": "result",     "ko": "결과 (finish + result)",    "fi": "tulos" , "fr":"résultat"},
+
+{ "en": "decision",   "ko": "결정 (decide + decide)",    "fi": "päätös" , "fr":"décision"},
+{ "en": "to decide",  "ko": "결정하다",    "fi": "päättää" , "fr":"décider"},
+
+
+{ "en": "cause, reason",  "ko": "원인",    "fi": "syy" , "fr":"cause, raison "},
+{ "en": "a promise",      "ko": "약속 (contract + bind)",    "fi": "lupaus" , "fr":"promesse"},
+{ "en": "to promise",     "ko": "약속하다",    "fi": "luvata" , "fr":"promettre"},
+
+{ "en": "to choose",      "ko": "고르다, 선택하다",    "fi": "valita" , "fr":"choisir"},
+{ "en": "choice",     "ko": "선택 (select + select)",    "fi": "valinta, valikoima" , "fr":"choix"},
+
+{ "en": "likely (probable)",  "ko": "음직하다",   "fi": "todennäköinen",    "fr": "probable" },
+{ "en": "likely (probably)",  "ko": "아마도",     "fi": "todennäköisesti",  "fr": "probablement" },
+
+
+{ "en": "to complain",   "ko": "불평하다",   "fi": "valittaa",     "fr": "plaindre, se plaindre" },
+{ "en": "complaint",     "ko": "불평",       "fi": " valitus",     "fr": "plainte" },
+
+{ "en": "suggestion",     "ko": "",           "fi": "ehdotus",    "fr": "suggestion" },
+{ "en": "proposition",    "ko": "제안",      "fi": "ehdotus, esitys",    "fr": "proposition" },
+{ "en": "to propose",     "ko": "제안하다",  "fi": "ehdottaa, esittää",    "fr": "proposer" },
+
+{ "en": "to present",     "ko": "선사하다", "fi": "esittää, näyttää",    "fr": "présenter" },
+{ "en": "presentation",     "ko": "",        "fi": "esitys",    "fr": "exposé (m), présentation" }
+
+
+
+
+
+
 
 
 

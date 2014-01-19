@@ -76,14 +76,14 @@
 { "en": "hope",       "ko": "희망",       "fi": "toivo",    "fr": "espoir" },
 
 
-{ "en": "likely (probable)",  "ko": "음직하다",       "fi": "todennäköinen",      "fr": "probable" },
-{ "en": "likely (probably)",    "ko": "아마도",       "fi": "todennäköisesti",      "fr": "probablement" },
 
 
 { "en": "to forbid",       "ko": "금하다",       "fi": "kieltää",    "fr": "interdire" },
 
 { "en": "to be used, be utilized",       "ko": "쓰이다",       "fi": "",    "fr": "" },
 { "en": "event",       "ko": "행사",       "fi": "tapahtuma",    "fr": "événement" },
+{ "en": "situation",       "ko": "?",           "fi": "tilanne",    "fr": "situation" },
+{ "en": "knowledge",       "ko": "지식",       "fi": "tieto",    "fr": "connaissance" },
 
   
 { "en": "empty",       "ko": "비다",       "fi": "tyhjä",    "fr": "vide" },

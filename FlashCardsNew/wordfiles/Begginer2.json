@@ -1,35 +1,33 @@
 [
 
-{ "en": "buy",         "ko": "사다",       "fi": "ostaa",    "fr": "acheter" },
-{ "en": "sell",         "ko": "팔다",       "fi": "myydä",    "fr": "vendre" },
-{ "en": "cheap",         "ko": "싸다",       "fi": "halpa",    "fr": "bon marché, pas cher" },
-{ "en": "expensive",         "ko": "비싸다",       "fi": "kallis",    "fr": "cher" },
-{ "en": "price",        "ko": "가격",     "fi": "hinta",    "fr": "prix" },
-{ "en": "pay",         "ko": "지불하다",       "fi": "maksaa",    "fr": "payer" },
+{ "en": "buy",         "ko": "사다",      "fi": "ostaa",    "fr": "acheter" },
+{ "en": "sell",        "ko": "팔다",      "fi": "myydä",    "fr": "vendre" },
+{ "en": "cheap",       "ko": "싸다",      "fi": "halpa",    "fr": "bon marché, pas cher" },
+{ "en": "expensive",   "ko": "비싸다",    "fi": "kallis",   "fr": "cher" },
+{ "en": "price",       "ko": "가격",      "fi": "hinta",    "fr": "prix" },
+{ "en": "pay",         "ko": "지불하다",  "fi": "maksaa",   "fr": "payer" },
+{ "en": "money",       "ko": "돈",        "fi": "raha",     "fr": "argent" },
+{ "en": "to take",     "ko": "잡다",      "fi": "ottaa",    "fr": "prendre" },
 
-{ "en": "bring",     "ko": " 가져오다 ",       "fi": "touda",     "fr": "apporter, amener" },
-{ "en": "leave (behind)",     "ko": " 남기다 ",       "fi": "jättää",     "fr": "laisser" },
+{ "en": "bring",       "ko": " 가져오다 ","fi": "touda",    "fr": "apporter, amener" },
+{ "en": "leave (behind)", "ko": " 남기다 ","fi": "jättää",  "fr": "laisser" },
 
-{ "en": "come",        "ko": "오다",          "fi": "tulla",    "fr": "venir" },
-{ "en": "enter, go in",        "ko": "들어가다",          "fi": "astua sisään",    "fr": "entrer" },
-{ "en": "come in",        "ko": "들어오다",          "fi": "",    "fr": "" },
+{ "en": "come",        "ko": "오다",      "fi": "tulla",    "fr": "venir" },
+{ "en": "enter, go in","ko": "들어가다",  "fi": "astua sisään", "fr": "entrer" },
+{ "en": "come in",     "ko": "들어오다",  "fi": "",         "fr": "" },
 
-{ "en": "to walk",        "ko": "걸어가다",          "fi": "kävellä",    "fr": "marcher, se promener" },
-{ "en": "a walk",        "ko": "산책",          "fi": "kävely",    "fr": "promenade" },
-{ "en": "stay",        "ko": "머무르다",          "fi": "jäädä",    "fr": "rester" },
+{ "en": "to walk",     "ko": "걸어가다",   "fi": "kävellä",    "fr": "marcher, se promener" },
+{ "en": "a walk",      "ko": "산책",       "fi": "kävely",    "fr": "promenade" },
+{ "en": "stay",        "ko": "머무르다",   "fi": "jäädä",    "fr": "rester" },
   
-{ "en": "think",        "ko": "생각하다",          "fi": "ajatella",    "fr": "penser" },
-{ "en": "understand",       "ko": "이해하다",       "fi": "ymmärtää",    "fr": "comprendre" },
-{ "en": "memory",         "ko": "기억",       "fi": "muisto",    "fr": "souvenir" },
-{ "en": "remember",         "ko": "기억하다",       "fi": "muistaa",    "fr": "rappeler" },
-{ "en": "recommend",         "ko": "추천하다",       "fi": "suositella",          "fr": "recommander" },
-{ "en": "idea",         "ko": "아이디어",       "fi": "idea",          "fr": "idée" },
+{ "en": "think",       "ko": "생각하다",   "fi": "ajatella",    "fr": "penser" },
+{ "en": "understand",  "ko": "이해하다",   "fi": "ymmärtää",    "fr": "comprendre" },
 
-{ "en": "live, dwell",        "ko": "살다",          "fi": "asua",    "fr": "habiter" },
+{ "en": "live, dwell", "ko": "살다",       "fi": "asua",    "fr": "habiter" },
 
 
-{ "en": "sign",      "ko": "간판",   "fi": "merkki",         "fr": "panneau" },
-{ "en": "warning",      "ko": "경고",   "fi": "varoitus",         "fr": "avertissement" },
+{ "en": "sign",        "ko": "간판",       "fi": "merkki",         "fr": "panneau" },
+{ "en": "warning",     "ko": "경고",       "fi": "varoitus",         "fr": "avertissement" },
 
 
 
@@ -39,20 +37,23 @@
 { "en": "to begin, start",        "ko": "",       "fi": "aloittaa",    "fr": "" },
 { "en": "to stop",        "ko": "",       "fi": "lopettaa, pysäyttää, pysähtyä",    "fr": "" },
 
-
-
-
 { "en": "to smoke",         "ko": "피우다",       "fi": "tupakoida",    "fr": "fumer" },
-{ "en": "cigarette",         "ko": "담배",       "fi": "savuke",    "fr": "cigarette" },
-{ "en": "tobacco",         "ko": "담배",       "fi": "tupakka",    "fr": "tabac" }, 
+{ "en": "cigarette",        "ko": "담배",       "fi": "savuke",    "fr": "cigarette" },
+{ "en": "tobacco",         "ko": "담배",       "fi": "tupakka",    "fr": "tabac" },
+{ "en": "match",      "ko": "성냥",    "fi": "tulitikku" ,  "fr":"allumette"},
+ 
 
 { "en": "silver",         "ko": "은",       "fi": "hopea",    "fr": "argent" }, 
 { "en": "gold",         "ko": "금",       "fi": "kulta",    "fr": "or" },
 { "en": "iron",         "ko": "철",       "fi": "rauta",    "fr": "fer" },
 { "en": "steel",         "ko": "강철",       "fi": "teräs",    "fr": "acier" },
+{ "en": "wood (substance)",         "ko": "나무, 목재",       "fi": "puu",    "fr": "bois" },
 
-{ "en": "glass (material)",         "ko": "유리",       "fi": "lasi",    "fr": "verre" },
-{ "en": "a liquid",         "ko": "액체",       "fi": "neste",    "fr": "liquide" },
+{ "en": "glass (substance)",         "ko": "유리",       "fi": "lasi",    "fr": "verre" },
+
+
+{ "en": "small",       "ko": " 작다",       "fi": "pieni",    "fr": "petit" },
+{ "en": "big",       "ko": " 크다",       "fi": "iso, suuri",    "fr": "grand" },
 
 { "en": "long",         "ko": "길다",       "fi": "pitkä",          "fr": "long" },
 { "en": "short",         "ko": "짧다",       "fi": "lyhyt",          "fr": "court" },
@@ -66,21 +67,9 @@
 { "en": "thin",         "ko": "얇다",       "fi": "ohut",          "fr": "mince" },
 { "en": "thick",         "ko": "두껍다",       "fi": "paksu",          "fr": "mince" },
 
-
-{ "en": "a little",         "ko": "조금",       "fi": "vähän",          "fr": "un peu" },
-{ "en": "very",         "ko": "아주",       "fi": "hyvin",          "fr": "très" },
-
-{ "en": "really",         "ko": "정말",       "fi": "todella",          "fr": "vraiment" },
-{ "en": "not really",         "ko": "별로",       "fi": "",          "fr": "" },
-
-{ "en": "small",       "ko": " 작다",       "fi": "pieni",    "fr": "petit" },
-{ "en": "big",       "ko": " 크다",       "fi": "iso, suuri",    "fr": "grand" },
-
 { "en": "short (height)",       "ko": "키가 작다",       "fi": "lyhyt",    "fr": "petit" },
 { "en": "tall (height - building)",       "ko": " 키가 크다",       "fi": "korkea",    "fr": "haut, grand" },
 { "en": "tall (height - man)",       "ko": " 키가 크다",       "fi": "pitkä",    "fr": "haut" },
-
-
 
 { "en": "weight",       "ko": "무게",       "fi": "paino",    "fr": "poids" },
 { "en": "heavy",         "ko": "무거운 (무겁다)",       "fi": "painava",          "fr": "lourd" },

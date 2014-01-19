@@ -11,6 +11,7 @@
 { "en": "gas cooker",  "ko": "가스레인지", "fi": "kaasuliesi" , "fr":"cuisinière à gaz"},
 { "en": "rice cooker", "ko": "밥솥",       "fi": "riisi liesi",    "fr": "cuiseur à riz" },
 
+{ "en": "to mix",   "ko": "비비다",    "fi": "sekoittaa",   "fr":"mélanger"},
 
 { "en": "smoked",     "ko": "",         "fi": "savustettu",          "fr": "fumé" }
 ]
