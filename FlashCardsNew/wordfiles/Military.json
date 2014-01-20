@@ -1,27 +1,27 @@
 [
 
  
-{ "en": "soldier",        "ko": "군인",          "fi": "sotilas",    "fr": "soldat" },
-{ "en": "army",        "ko": "군대",          "fi": "armeija",    "fr": "" },
-{ "en": "war",        "ko": "전쟁",          "fi": "sota",    "fr": "guerre" },
+{ "en": "soldier",      "ko": "군인",        "fi": "sotilas",    "fr": "soldat" },
+{ "en": "army",         "ko": "군대",        "fi": "armeija",    "fr": "" },
+{ "en": "war",          "ko": "전쟁",        "fi": "sota",    "fr": "guerre" },
 { "en": "enemy",        "ko": "적",          "fi": "vihollinen",    "fr": "ennemi" },
-{ "en": "weapon",        "ko": "무기",          "fi": "ase",    "fr": "arme" },
-{ "en": "nuclear weapon",        "ko": "핵무기",          "fi": "ydinase",    "fr": "arme nucléaire" },
+{ "en": "weapon",        "ko": "무기",       "fi": "ase",    "fr": "arme" },
+{ "en": "nuclear weapon", "ko": "핵무기",    "fi": "ydinase",    "fr": "arme nucléaire" },
 
 
-{ "en": "gun",        "ko": "총",          "fi": "",    "fr": "" },
-{ "en": "rifle",        "ko": "소총",          "fi": "",    "fr": "" },
-{ "en": "pistol",        "ko": "권총",          "fi": "pistooli",    "fr": "" },
-{ "en": "machine gun",        "ko": "기관총",          "fi": "konekivääri",    "fr": "mitrailleuse" },
+{ "en": "gun",          "ko": "총",          "fi": "pyssy",    "fr": "" },
+{ "en": "rifle",        "ko": "소총",          "fi": "kivääri",    "fr": "fusil" },
+{ "en": "pistol",       "ko": "권총",          "fi": "pistooli",    "fr": "pistolet (m)" },
+{ "en": "machine gun",  "ko": "기관총",          "fi": "konekivääri",    "fr": "mitrailleuse" },
 
 { "en": "shoot",        "ko": "쏘다",          "fi": "ampua",    "fr": "tirer" },
 
 
 { "en": "bomb",        "ko": "폭탄",          "fi": "pommi",    "fr": "" },
-{ "en": "explosion",        "ko": "폭발",          "fi": "räjähdys",    "fr": "" },
-{ "en": "violence",        "ko": "폭력",          "fi": "väkivalta",    "fr": "violence" },
-{ "en": "violent",        "ko": "폭력적인, 격렬한",          "fi": "väkivaltainen",    "fr": "violent" },
-{ "en": "to injure",        "ko": "해치다",          "fi": "loukata",    "fr": "blesser" },
+{ "en": "explosion",   "ko": "폭발",          "fi": "räjähdys",    "fr": "" },
+{ "en": "violence",    "ko": "폭력",          "fi": "väkivalta",    "fr": "violence" },
+{ "en": "violent",     "ko": "폭력적인, 격렬한",          "fi": "väkivaltainen",    "fr": "violent" },
+{ "en": "to injure",   "ko": "해치다",          "fi": "loukata",    "fr": "blesser" },
 { "en": "demonstration",        "ko": "시위, 시연, 데모",          "fi": "mielenosoitus",    "fr": "démonstration" },
 
 { "en": "fight",        "ko": "싸우다",          "fi": "taistella",    "fr": "combattre" },

@@ -1,16 +1,17 @@
 [
 { "en": "space",       "ko": "공간, 우주",  "fi": "avaruus" ,     "fr":"espace"},
-{ "en": "nature",      "ko": "",             "fi": "luonto" ,     "fr":""},
+{ "en": "nature",      "ko": "자연",         "fi": "luonto" ,     "fr":"nature"},
 { "en": "natural",     "ko": "",             "fi": "luonnollinen", "fr":"naturel"},
 { "en": "environment", "ko": "",             "fi": "ympäristö" ,   "fr":"environnement"},
-{ "en": "protection",  "ko": "",             "fi": "suojelu" ,    "fr":"protection, sauvegarde"},
-{ "en": "to protect",  "ko": "",             "fi": "suojella" ,   "fr":"protéger"},
-{ "en": "valley",      "ko": "",             "fi": "laakso" ,     "fr":"vallée"},
+{ "en": "protection",  "ko": "보호",         "fi": "suojelu" ,    "fr":"protection, sauvegarde"},
+{ "en": "to protect",  "ko": "보호하다",    "fi": "suojella" ,   "fr":"protéger"},
+{ "en": "valley",      "ko": "골짜기, 계곡","fi": "laakso" ,     "fr":"vallée"},
 { "en": "ocean",       "ko": "대양, 해양",   "fi": "valtameri",  "fr":"océan"},
 { "en": "meadow",      "ko": "목초지",       "fi": "niitty" ,    "fr":""},
-{ "en": "shadow",        "ko": "그림자",      "fi": "varjo",     "fr": "ombre" },
+{ "en": "shadow",      "ko": "그림자",       "fi": "varjo",     "fr": "ombre" },
 { "en": "cloudy",      "ko": "흐리다",       "fi": "pilvinen",   "fr":"nuageux"},
+{ "en": "storm",       "ko": "폭풍",         "fi": "myrsky",   "fr":"orage (m), tempête (f)"},
 { "en": "gas",         "ko": "가스",         "fi": "kaasu" ,     "fr":"gaz"},
 { "en": "a liquid",    "ko": "액체",         "fi": "neste",      "fr": "liquide" },
-{ "en": "pressure",       "ko": "압력 (press + strength)",       "fi": "paine",    "fr": "pression" }
+{ "en": "pressure",    "ko": "압력 (press + strength)",       "fi": "paine",    "fr": "pression" }
 ]
