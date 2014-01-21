@@ -45,6 +45,8 @@
 { "en": "encyclopedia",  "ko": "백과사전",  "fi": "tietosanakirja",    "fr": "encyclopédie" },
 { "en": "grammar",       "ko": "문법",       "fi": "kielioppi",    "fr": "grammaire" },
 { "en": "rule, law",     "ko": "법칙 (law + rule)",       "fi": "sääntö",     "fr": "règle" },
+{ "en": "principle",     "ko": "원칙, 원리",       "fi": "periaate",     "fr": "principe" },
+
 
 { "en": "ruler",       "ko": "자",       "fi": "viivain",    "fr": "règle" },
 { "en": "calculator",       "ko": "계산기",       "fi": "laskin",    "fr": "calculatrice" }

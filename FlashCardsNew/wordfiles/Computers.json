@@ -31,6 +31,8 @@
 { "en": "maintenance",         "ko": "",      "fi": "huolto",    "fr": "maintenance" },
 { "en": "to maintain",         "ko": "",      "fi": "huoltaa",    "fr": "maintenir" },
 
+
+{ "en": "to connect",         "ko": "",      "fi": "kytkeä",    "fr": "relier" },
 { "en": "switch off",         "ko": "끄다",      "fi": "sammuttaa",    "fr": "éteindre" },
 
 { "en": "login",    "ko": "로그인",    "fi": "" , "fr":""},

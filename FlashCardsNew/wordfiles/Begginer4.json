@@ -45,14 +45,18 @@
 { "en": "to compare",        "ko": "비교하다, (~에) 필적하다",          "fi": "verrata (part + ill), vertailla",    "fr": "comparer" },
 { "en": "comparison",        "ko": "비교",          "fi": "vertailu",    "fr": "comparaison" },
 
+{ "en": "relation",             "ko": "관계",       "fi": "suhde",    "fr":"relation, rapport"},
+{ "en": "relative",             "ko": "상대적인",   "fi": "suhteellinen",    "fr":"relatif"},
+{ "en": "ratio, proportion",    "ko": "비율",       "fi": "suhde",    "fr": "rapport, ratio" },
 
-{ "en": "other",         "ko": "다른",       "fi": "muu",          "fr": "autre" },
+
+{ "en": "other",        "ko": "다른",     "fi": "muu",           "fr": "autre" },
 { "en": "only",         "ko": "만",       "fi": "vain",          "fr": "seulement" },
 
 
 
-{ "en": "become",        "ko": "되다",          "fi": "tulla",    "fr": "devenir" },
-{ "en": "beginning (noun)",        "ko": "처음",          "fi": "alku",    "fr": "début" },
+{ "en": "become",        "ko": "되다",    "fi": "tulla",          "fr": "devenir" },
+{ "en": "beginning (noun)", "ko": "처음", "fi": "alku",           "fr": "début" },
 
 { "en": "last",        "ko": "마지막",          "fi": "viime",    "fr": "dernier" },
 
@@ -68,6 +72,8 @@
 { "en": "joke",         "ko": "농담",       "fi": "vitsi",          "fr": "blague" },
 
 { "en": "meaning",         "ko": "의미, 뜻",       "fi": "merkitys, tarkoitus",          "fr": "sens, signification" },
+{ "en": "purpose",         "ko": "목적",       "fi": "tarkoitus",          "fr": "but, intention" },
+    
 { "en": "to consider",         "ko": "고려하다",       "fi": "harkita",          "fr": "envisager, considérer" },
 { "en": "believe",       "ko": "믿다",       "fi": "uskoa (siihen)",    "fr": "croire" },
 { "en": "to expect",       "ko": "예상하다, 기대하다",       "fi": "odottaa",    "fr": "attendre" },
