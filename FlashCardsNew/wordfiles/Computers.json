@@ -36,13 +36,15 @@
 { "en": "to connect",         "ko": "",      "fi": "kytkeä",    "fr": "relier" },
 { "en": "switch off",         "ko": "끄다",      "fi": "sammuttaa",    "fr": "éteindre" },
 
-{ "en": "login",    "ko": "로그인",    "fi": "" , "fr":""},
-{ "en": "password",    "ko": "비밀번호",    "fi": "salasana" , "fr":""},
 
-{ "en": "folder",    "ko": "폴더",    "fi": "kansio" , "fr":"dossier"},
-{ "en": "file",    "ko": "파일",    "fi": "tiedosto" , "fr":"fichier"},
-{ "en": "attachment",    "ko": "",    "fi": "liite" , "fr":""},
-{ "en": "to attach",       "ko": "붙이다",    "fi": "liittää",    "fr":"attacher"},
+{ "en": "user",    "ko": "사용자",    "fi": "käyttäjä" , "fr":""},
+{ "en": "login",    "ko": "로그인",    "fi": "" , "fr":""},
+{ "en": "password",    "ko": "비밀번호",    "fi": "salasana" , "fr":"mot de passe"},
+
+{ "en": "folder",      "ko": "폴더",    "fi": "kansio" ,  "fr":"dossier"},
+{ "en": "file",        "ko": "파일",    "fi": "tiedosto", "fr":"fichier"},
+{ "en": "attachment",  "ko": "",         "fi": "liite",    "fr":""},
+{ "en": "to attach",   "ko": "붙이다",  "fi": "liittää",  "fr":"attacher"},
 
 
 

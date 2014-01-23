@@ -56,6 +56,7 @@ class FlashCardsApp extends PolymerElement {
                               'Cooking',
                               'Politics',
                               'Money',
+                              'Substances',
                               'Intermediate1',
                               'Sentences1',
                               'TopikInter1']; 
@@ -130,7 +131,13 @@ class FlashCardsApp extends PolymerElement {
     //cards = toObservable(engine.allCardsInDeck);
     print("AAAAAAAAAAAAAAAAAAAAAAAAA");
    // cards.replaceRange(0, cards.length, engine.allCardsInDeck);
-    cards = toObservable(engine.allCardsInDeck);
+    if (engine.allCardsInDeck != null) {
+      cards = toObservable(engine.allCardsInDeck);
+    } else {
+      print("No cards loaded");
+    }
+    
+    
    // wordsTable.fillWordsTable(engine.allCardsInDeck);
    // fillSummary();
   }

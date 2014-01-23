@@ -21,8 +21,13 @@
 
 { "en": "intuition",   "ko": "직관",    "fi": "intuitio", 	"fr":"intuition"},
 
-{ "en": "to tighten (sth)",   "ko": "",    "fi": "kiristää",   "fr":"serrer"},
-{ "en": "to tighten (intransitive)",   "ko": "",    "fi": "kiristyä",   "fr":"se resserrer"},
+{ "en": "to tighten (sth)",           "ko": "",    "fi": "kiristää",   "fr":"serrer"},
+{ "en": "to tighten (intransitive)",  "ko": "",    "fi": "kiristyä",   "fr":"se resserrer"},
+
+{ "en": "to weaken (sth)",            "ko": "",    "fi": "heikentää",   "fr":"affaiblir"},
+{ "en": "to weaken (intransitive)",   "ko": "",    "fi": "heikentyä",   "fr":"s'affaiblir"},
+
+
 
 { "en": "monopolize",   "ko": "독점하다",    "fi": "monopolisoida",   "fr":"monopoliser"},
 
@@ -58,7 +63,12 @@
 { "en": "to accent",   "ko": "",    "fi": "korostaa",   "fr":""},
 
 { "en": "perfect, complet",   "ko": "",    "fi": "täydellinen",   "fr":""},
+{ "en": "to threaten",   "ko": "",    "fi": "uhata",   "fr":"menacer"},
+{ "en": "threat (expression of intent to injure or punish another)",   "ko": "",    "fi": "uhkaus",   "fr":"menace"},
+{ "en": "threat (indication of imminent danger)",   "ko": "",    "fi": "uhka",   "fr":""},
 
+{ "en": "to predict",   "ko": "",    "fi": "ennustaa",   "fr":"prédire, prévoir"},
+{ "en": "prediction",   "ko": "",    "fi": "ennustus",   "fr":"prédiction"},
 
 
 { "en": "stapler",       "ko": "호치키스",    "fi": "nitoja",    "fr":"agrafeuse"},
