@@ -83,6 +83,7 @@
 { "en": "chopsticks",   "ko": "젓가락",     "fi": "syömäpuikot",    "fr": "baguettes" },
 { "en": "cup",          "ko": "컵",         "fi": "kuppi",    "fr": "tasse" }, 
 
+{ "en": "fast food",          "ko": "패스트 푸드",         "fi": "pikaruoka",    "fr": "" },
 
 
 { "en": "meal",         "ko": "식사",       "fi": "ateria",    "fr": "repas" },

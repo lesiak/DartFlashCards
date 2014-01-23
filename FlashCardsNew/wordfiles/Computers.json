@@ -8,6 +8,7 @@
 { "en": "battery",        "ko": "배터리",          "fi": "akku",    "fr": "pile" },
 { "en": "recharge",         "ko": "충전하다",       "fi": "ladata",          "fr": "recharger" },
 { "en": "a charger",         "ko": "",       "fi": "laturi",          "fr": "" },
+{ "en": "device",       "ko": "장치",    "fi": "laite",    "fr":"appareil"},
 
 { "en": "server",         "ko": "서버",       "fi": "palvelin",          "fr": "serveur" },
 
@@ -42,6 +43,9 @@
 { "en": "file",    "ko": "파일",    "fi": "tiedosto" , "fr":"fichier"},
 { "en": "attachment",    "ko": "",    "fi": "liite" , "fr":""},
 { "en": "to attach",       "ko": "붙이다",    "fi": "liittää",    "fr":"attacher"},
+
+
+
 
 { "en": "to monitor",         "ko": "",      "fi": "valvoa",    "fr": "surveiller" }
 

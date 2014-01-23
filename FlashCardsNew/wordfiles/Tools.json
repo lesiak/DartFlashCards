@@ -3,6 +3,9 @@
 { "en": "hammer",       "ko": "망치",       "fi": "vasara",    "fr": "marteau" },
 { "en": "needle",       "ko": "바늘",       "fi": "neula",    "fr": "aiguille" },
 { "en": "bucket",       "ko": "버킷",       "fi": "ämpäri, sanko",    "fr": "seau (m)" },
+{ "en": "filter",       "ko": "필터",       "fi": "suodatin",    "fr": "filtre" },
+{ "en": "to filter",       "ko": "",       "fi": "suodattaa",    "fr": "filtrer" },
+
 { "en": "glue",       "ko": "풀",       "fi": "liima",    "fr": "colle" },
 { "en": "to glue",       "ko": "",       "fi": "liimata",    "fr": "coller" } 
 

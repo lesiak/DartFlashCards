@@ -12,24 +12,28 @@
 { "en": "account",         "ko": "계정",    "fi": "tili",          "fr": "compte" },
 { "en": "deposit",         "ko": "예금",    "fi": "talletus",          "fr": "dépôt" },
 
-{ "en": "tax",         "ko": "",    "fi": "vero",          "fr": "impôt" },
-{ "en": "taxation",         "ko": "",    "fi": "verotus",          "fr": "" },
+{ "en": "tax",             "ko": "",    "fi": "vero",          "fr": "impôt" },
+{ "en": "taxation",        "ko": "",    "fi": "verotus",          "fr": "" },
 
-{ "en": "savings",         "ko": "",    "fi": "säästöt",          "fr": "épargne" },
-{ "en": "loan",         "ko": "",    "fi": "laina",          "fr": "prêt" },
-{ "en": "mortgage",         "ko": "",    "fi": "asuntolaina",          "fr": "hypothèque" },
-{ "en": "debt",             "ko": "빚",              "fi": "velka",          "fr": "dette, créance" },
+{ "en": "savings",         "ko": "",           "fi": "säästöt",        "fr": "épargne" },
+{ "en": "loan",            "ko": "",           "fi": "laina",          "fr": "prêt" },
+{ "en": "mortgage",        "ko": "",           "fi": "asuntolaina",    "fr": "hypothèque" },
+{ "en": "debt",            "ko": "빚",         "fi": "velka",          "fr": "dette, créance" },
 
-{ "en": "discount",         "ko": "할인",    "fi": "alennus",          "fr": "réduction, rabais, remise" },
-{ "en": "a fine, penalty",         "ko": "벌금",    "fi": "sakko",          "fr": "amende" },
+{ "en": "loss",            "ko": "손실",       "fi": "tappio",          "fr": "perte" },
+{ "en": "operating loss",  "ko": "영업 손실",  "fi": "liiketappio",     "fr": "" },
 
-{ "en": "cost, expense",    "ko": "비용",            "fi": "kustannus",          "fr": "coût" },
-{ "en": "insurance",        "ko": "보험 (protect + dangerous)",  "fi": "vakuutus",          "fr": "assurance" },
-{ "en": "a guarantee",      "ko": "보장 (protect + block)",      "fi": "takaus",          "fr": "garantie" },
-{ "en": "to guarantee",      "ko": "보장하다",      "fi": "taata",          "fr": "garantir" },
-{ "en": "percent",        "ko": "퍼센트",          "fi": "prosentti",    "fr": "pour cent" },
-{ "en": "salary",        "ko": "급여",      "fi": "palkkaus",    "fr": "salaire" },
-{ "en": "poverty",        "ko": "가난",      "fi": "köyhyys",    "fr": "pauvreté" }
+
+{ "en": "discount",        "ko": "할인",    "fi": "alennus",          "fr": "réduction, rabais, remise" },
+{ "en": "a fine, penalty", "ko": "벌금",    "fi": "sakko",          "fr": "amende" },
+
+{ "en": "cost, expense",   "ko": "비용",            "fi": "kustannus",          "fr": "coût" },
+{ "en": "insurance",       "ko": "보험 (protect + dangerous)",  "fi": "vakuutus",          "fr": "assurance" },
+{ "en": "a guarantee",     "ko": "보장 (protect + block)",      "fi": "takaus",          "fr": "garantie" },
+{ "en": "to guarantee",    "ko": "보장하다",      "fi": "taata",          "fr": "garantir" },
+{ "en": "percent",         "ko": "퍼센트",          "fi": "prosentti",    "fr": "pour cent" },
+{ "en": "salary",          "ko": "급여",      "fi": "palkkaus",    "fr": "salaire" },
+{ "en": "poverty",         "ko": "가난",      "fi": "köyhyys",    "fr": "pauvreté" }
 
 
 
