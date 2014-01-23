@@ -32,6 +32,13 @@
 { "en": "popularity",        "ko": "인기",          "fi": "suosio",    "fr": "popularité" },
 { "en": "favorite",        "ko": "",          "fi": "suosikki",    "fr": "favori, préféré" },
 
+{ "en": "nice",        "ko": "",          "fi": "kiva, mukava",       "fr": "agréable" },
+{ "en": "pleasant",    "ko": "",          "fi": "miellyttävä, mukava","fr": "agréable" },
+{ "en": "comfortable", "ko": "",            "fi": "mukava",             "fr": "confortable" },
+
+
+{ "en": "useful",       "ko": "",          "fi": "hyödyllinen", "fr": "utile" },
+{ "en": "handy",        "ko": "",          "fi": "kätevä",      "fr": "maniable, pratique" },
 
 { "en": "rise",        "ko": "오르다",          "fi": "nousta",    "fr": "augmenter" },
 { "en": "significantly",        "ko": "크게",          "fi": "merkittävästi",    "fr": "significativement" },

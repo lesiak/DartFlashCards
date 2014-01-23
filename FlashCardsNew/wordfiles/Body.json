@@ -22,6 +22,7 @@
 
 
 { "en": "skin",       "ko": "피부",         "fi": "iho",    "fr": "peau" },
+{ "en": "hair",       "ko": "머리",         "fi": "tukka, hiukset",    "fr": "cheveux" },
 
 { "en": "to touch",       "ko": "대다",         "fi": "koskea",    "fr": "toucher" },
 { "en": "to raise",       "ko": "들다",         "fi": "",    "fr": "" },

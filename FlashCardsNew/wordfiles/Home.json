@@ -24,7 +24,7 @@
 { "en": "balcony", "ko": "발코니",    "fi": "parveke",    "fr": "balcon" },
 
 { "en": "soap",        "ko": "비누",          "fi": "saippua",    "fr": "savon" }, 
-{ "en": "shampoo",        "ko": "샴푸",          "fi": "shampoo (fi), hiustenpesuaine",    "fr": "shampoing" },
+{ "en": "shampoo",        "ko": "샴푸",          "fi": "shampoo, hiustenpesuaine",    "fr": "shampoing" },
 { "en": "toothpaste",        "ko": "치약",          "fi": "hammastahna",    "fr": "dentifrice" },
 { "en": "toothbrush",        "ko": "칫솔",          "fi": "hammasharja",    "fr": "brosse à dents" },
 { "en": "mirror",        "ko": "거울",          "fi": "peili",    "fr": "miroir" },

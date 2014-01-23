@@ -6,6 +6,16 @@
 { "en": "threaten",   "ko": "위협하다",    "fi": "uhata",  "fr":"menacer"},
 { "en": "threat",   "ko": "위협",    "fi": "uhkaus",  "fr":"menace"},
 
+{ "en": "industry",   "ko": "산업",    "fi": "teollisuus",  "fr":"industrie"},
+{ "en": "disappear",   "ko": "",    "fi": "kadota",  "fr":"disparaître"},
+{ "en": "resist",   "ko": "",    "fi": "vastustaa",  "fr":"résister"},
+
+{ "en": "variation (change)",   "ko": "",    "fi": "vaihtelu",  "fr":"variation"},
+{ "en": "exception",   "ko": "",    "fi": "poikkeus",  "fr":"exception"},
+
+{ "en": "to declare",   "ko": "",    "fi": "julistaa",  "fr":"déclarer"},
+{ "en": "to announce",   "ko": "",    "fi": "ilmoittaa, kuuluttaa, julistaa",  "fr":"annoncer"},
+
 
 { "en": "information",        "ko": "정보",          "fi": "tiedot",    "fr": "information" },
 
