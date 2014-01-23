@@ -17,7 +17,17 @@
 { "en": "injection",        "ko": "주사",     "fi": "injektio",    "fr": "injection" },
 { "en": "prescription",        "ko": "처방",     "fi": "resepti",    "fr": "prescription" },
 { "en": "operation, surgery",        "ko": "외과",     "fi": "leikkaus",    "fr": "opération" },
-{ "en": "syringe",        "ko": "주사기",     "fi": "ruisku",    "fr": "seringue (f)" }
+{ "en": "syringe",        "ko": "주사기",     "fi": "ruisku",    "fr": "seringue (f)" },
+
+{ "en": "disease",        "ko": "",     "fi": "tauti, sairaus",    "fr": "maladie" },
+{ "en": "infectious",        "ko": "",     "fi": "tarttuva",    "fr": "infectieux" },
+
+{ "en": "ability (capacity)",        "ko": "",     "fi": "kyky",    "fr": "capacité" },
+
+{ "en": "infectious disease",        "ko": "",     "fi": "tartuntatauti",    "fr": "" },
+{ "en": "to spread",        "ko": "",     "fi": "levitä, levittää",    "fr": "" }
+
+
 
 
 
