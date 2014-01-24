@@ -11,7 +11,8 @@
 { "en": "to lend",        "ko": "빌려주다",          "fi": "lainata, antaa lainaksi",    "fr": "prêter" },
 { "en": "present",        "ko": "선물",          "fi": "lahja",    "fr": "cadeau" },
 
-{ "en": "accept",       "ko": "받아들이다",       "fi": "hyväksyä, suostua",    "fr": "accepter" },
+
+
 { "en": "delivery",       "ko": "배달",       "fi": "toimitus",    "fr": "livraison" },
 { "en": "deliver",       "ko": "배달하다",       "fi": "toimittaa",    "fr": "livrer" },
 

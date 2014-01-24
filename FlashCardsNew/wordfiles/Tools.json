@@ -6,6 +6,10 @@
 { "en": "filter",       "ko": "필터",       "fi": "suodatin",    "fr": "filtre" },
 { "en": "to filter",       "ko": "",       "fi": "suodattaa",    "fr": "filtrer" },
 
+
+{ "en": "sharp",       "ko": "날카로운",       "fi": "terävä",    "fr": "affilé, coupant" },
+{ "en": "to sharpen",       "ko": "",       "fi": "teroittaa",    "fr": "affiler, affûter, aiguiser" },
+
 { "en": "glue",       "ko": "풀",       "fi": "liima",    "fr": "colle" },
 { "en": "to glue",       "ko": "",       "fi": "liimata",    "fr": "coller" } 
 
