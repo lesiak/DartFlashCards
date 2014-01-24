@@ -4,8 +4,9 @@
 { "en": "oxygen",     "ko": "산소",    "fi": "happi",   "fr":"oxygène"},
 { "en": "nitrogen",     "ko": "질소",    "fi": "typpi",   "fr":"azote"},
 { "en": "sulphur",     "ko": "황",    "fi": "rikki",   "fr":"soufre"},
+{ "en": "asphalt",     "ko": "아스팔트",    "fi": "asfaltti",   "fr":"asphalte"}
 
-{ "en": "plant",      "ko": "식물 (plant + thing)",    "fi": "kasvi",   "fr":"plante"}
+
 
 
 ]

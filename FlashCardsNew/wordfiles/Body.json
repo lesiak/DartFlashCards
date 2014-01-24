@@ -30,6 +30,7 @@
 
 { "en": "a bone",    "ko": "뼈",    "fi": "luu" , "fr":"os"},
 { "en": "blood",    "ko": "피",    "fi": "veri" , "fr":"sang"},
+{ "en": "lung",    "ko": "폐",    "fi": "keuhko" , "fr":"poumon"},
 
 { "en": "female",       "ko": "여성",         "fi": "nainen",    "fr": "femelle" },
 

@@ -4,8 +4,10 @@
 { "en": "cook",         "ko": "요리사",       "fi": "kokki",          "fr": "" },
 { "en": "secretary",         "ko": "비서 (secret + writing)",       "fi": "sihteeri",          "fr": "secrétaire" },
 
+
 { "en": "dancer",         "ko": "무용가",       "fi": "tanssija",          "fr": "" },
 { "en": "painter",         "ko": "화가",       "fi": "maalari",          "fr": "peintre" },
+{ "en": "artist",         "ko": "예술가",       "fi": "taiteilija",          "fr": "artiste" },
  
 { "en": "princess",         "ko": "왕자비",       "fi": "prinsessa",          "fr": "" },
 { "en": "scientist",         "ko": "과학자",       "fi": "tiedemies, tutkija",          "fr": "" },
