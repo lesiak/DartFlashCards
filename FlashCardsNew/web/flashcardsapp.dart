@@ -63,8 +63,8 @@ class FlashCardsApp extends PolymerElement {
   
   static List<String> langs = ["ko", "fi"];
   
-  static Map<String, String> flagsPaths = {"ko": "assets/svgFlags/Flag_of_Republic_of_Korea.svg", 
-                                      "fi": "assets/svgFlags/Flag_of_Finland_1920-1978_(State).svg"};
+  static Map<String, String> flagsPaths = {"ko": "resources/svgFlags/Flag_of_Republic_of_Korea.svg", 
+                                      "fi": "resources/svgFlags/Flag_of_Finland_1920-1978_(State).svg"};
   
   @observable List<String> items;
   
