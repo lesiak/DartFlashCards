@@ -156,25 +156,21 @@ class FlashCardsApp extends PolymerElement {
   }
   
   void showLearningPanel() {
-    $['wordFilesDiv'].hidden = true;    
+    $['welcomePageDiv'].hidden = true;    
     var learningPanel = $['learningPanel'];    
     learningPanel.hidden = false;
     learningPanel.startPanel(); 
   }
 
   void showHomePanel() {
-    $['wordFilesDiv'].hidden = false;
+    $['welcomePageDiv'].hidden = false;
     $['learningPanel'].hidden = true;
     $['dictionaryPanel'].hidden = true;
-  //  showLearningPanel1 = false;
-    //query("#wordFilesDiv").hidden=false;
-   // query("#learningPanel").hidden=true;
-   // query("#deckDetailsDiv").hidden=false;
-    
+  
   }
   
   void showDictionary() {    
-    $['wordFilesDiv'].hidden = true;
+    $['welcomePageDiv'].hidden = true;
     $['learningPanel'].hidden = true;
     $['dictionaryPanel'].hidden = false;
   }
