@@ -13,18 +13,18 @@
     </div> 
     
     <div class="row" style="margin-bottom : 10px">
-        <span class="col-md-6 col-sm-12">
+        <span class="col-md-6 col-xs-12">
         <button id="showAnswerButton" on-click="{{showAnswer}}" disabled?={{responsesVisible}} class="btn btn-info btn-lg btn-block">Show answer</button>
         </span>
     </div>
     <div class="row" style="margin-bottom : 10px">
-        <span class="col-md-2 col-sm-4">
+        <span class="col-md-2 col-xs-4">
         <button id="goodAnswerButton" on-click="{{goodAnswer}}" disabled?={{!responsesVisible}} class="btn btn-default btn-lg btn-block">Good</button>
         </span>
-        <span class="col-md-2 col-sm-4">
+        <span class="col-md-2 col-xs-4">
         <button id="poorAnswerButton" on-click="{{poorAnswer}}" disabled?={{!responsesVisible}} class="btn btn-default btn-lg btn-block">Almost</button>
         </span>
-        <span class="col-md-2 col-sm-4">
+        <span class="col-md-2 col-xs-4">
         <button id="badAnswerButton" on-click="{{badAnswer}}" disabled?={{!responsesVisible}} class="btn  btn-default btn-lg btn-block">Bad</button>
         </span>
     </div>
@@ -54,6 +54,7 @@
           </h1>
           <div id="secondaryPro" class="btn-toolbar" if="{{ responsesVisible }}">
             <!-- do not collapse-->
+            <!--<button class="btn" rel="tooltip" title="f Korea, Republic of">fairybel</button>-->
           </div>
         </div>
       </div>
