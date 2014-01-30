@@ -9,7 +9,12 @@
 <link rel="import" href="progress_bar.html">
 
 <polymer-element name="flashcards-app" attributes="count">
-  <template>    
+  <template>
+  <style>      
+      #imgFlag {
+        margin-bottom: 10px;      
+      }
+    </style>    
   <div class="container"><!-- container centers page content -->
     <div class="row">	  
       <div class="col-md-12">
@@ -50,7 +55,7 @@
                   <img id="imgFlag"
                        on-click="{{flagClicked}}" 
                        src="{{flagPath}}" 
-                       width="200"
+                       width="200px"
                        style="border-style:solid;border-width:1px;">
                 </div>
               </div>
@@ -68,7 +73,7 @@
                     
               <template id="progressDivTmpl" bind if="{{ showProgress }}">
                 <progress-bar total="{{total}}" currentSucc="{{currentSucc}}" currentFail="{{currentFail}}"></progress-bar>                            
-              </template>                        
+              </template>                                      
               <words-table id="wordsTable" 
                     cards="{{cards}}"
                     primaryLang="{{primaryLang}}"></words-table>                       
