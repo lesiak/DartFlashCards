@@ -26,19 +26,25 @@ class FileCache {
   
   void _requestFileSystemCallback(FileSystem filesystem) {
     _filesystem = filesystem;
-    ["en", "ko", "fi", "fr", "enResp", "koResp", "fiResp", "frResp"].forEach((lang) {    
+    var dirsToCreate = ["en", "ko", "fi", "fr", "hu", "enResp", "koResp", "fiResp", "frResp", "huResp"];
+    Future.forEach(dirsToCreate, (lang) {
+      //print(lang);
+      _filesystem.root.createDirectory(lang)
+        .then((entry) => _createDirectoryCallback(entry, lang), onError: (e) => _logFileError(e.error));
+    }).then((val) => _readyCallback(this));
+    //Future.forEach(dirsToCreate, (lang) {    
+    //  _filesystem.root.createDirectory(lang) 
+      //  .then((entry) => _createDirectoryCallback(entry, lang), onError: (e) => _logFileError(e.error)));
+    /*.forEach((lang) {    
       _filesystem.root.createDirectory(lang) 
           .then((entry) => _createDirectoryCallback(entry, lang), 
           onError: (e) => _logFileError(e.error));
-    }); 
+    });*/ 
   }
   
   void _createDirectoryCallback(DirectoryEntry dir, String name) {
     print('Created directory ${dir.fullPath} ');
     dirs[name] = dir;
-    if (dirs.length == 4) {
-      _readyCallback(this);
-    }
   }
   
   Future<FileEntry> saveBlob(String dir, String name, Blob blob) {    

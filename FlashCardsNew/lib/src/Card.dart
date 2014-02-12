@@ -5,12 +5,24 @@ part of flashcards_core;
 //show ObservableMixin, observable, bindProperty, notifyProperty;
 
 class Card extends Object with Observable {
-  @observable String en;
-  @observable String ko;
+  @observable String en;  
   @observable String fi;
   @observable String fr;
+  @observable String hu;
+  @observable String ko;
   
-  Card(this.en, this.ko, this.fi, this.fr);
+  Card(this.en, this.fi, this.fr, this.hu, this.ko);
+  
+  String getValueForLang(String lang) {
+    switch (lang) {
+      case "en": return en;      
+      case "fi": return fi;
+      case "fr": return fr;
+      case "hu": return hu;
+      case "ko": return ko;
+      default: return null;
+    }
+  }
   
   
 }

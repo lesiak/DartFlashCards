@@ -15,7 +15,7 @@ class LearingPanelElement extends PolymerElement {
   
   @published String primaryLang; 
   
-  @observable Card card = new Card("", "", "", "");
+  @observable Card card = new Card("", "", "", "", "");
   
   @observable bool responsesVisible = false;
   
@@ -45,6 +45,7 @@ class LearingPanelElement extends PolymerElement {
     responsesVisible = true;
     getPronunciations("ko", card.ko, getProContainer("ko"), "ko"==primaryLang);
     getPronunciations("fi", card.fi, getProContainer("fi"), "fi"==primaryLang);
+    getPronunciations("hu", card.hu, getProContainer("hu"), "hu"==primaryLang);
     getPronunciations("fr", card.fr, "frPro", false);   
   }
   
@@ -99,11 +100,8 @@ class LearingPanelElement extends PolymerElement {
     $['frPro'].nodes.clear();
   }
   
-  String get answerPrimary { 
-    if (primaryLang == "fi") 
-      return card.fi; 
-    else 
-      return card.ko; 
+  String get answerPrimary {
+    return card.getValueForLang(primaryLang);     
   }
 
   String get answerSecondary {
