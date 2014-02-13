@@ -15,6 +15,10 @@ class LearingPanelElement extends PolymerElement {
   
   @published String primaryLang; 
   
+  @published String secondaryLang;
+  
+  @published String thirdLang;
+  
   @observable Card card = new Card("", "", "", "", "");
   
   @observable bool responsesVisible = false;
@@ -43,7 +47,7 @@ class LearingPanelElement extends PolymerElement {
   
   void showAnswer() {
     responsesVisible = true;
-    getPronunciations("ko", card.ko, getProContainer("ko"), "ko"==primaryLang);
+   // getPronunciations("ko", card.ko, getProContainer("ko"), "ko"==primaryLang);
     getPronunciations("fi", card.fi, getProContainer("fi"), "fi"==primaryLang);
     getPronunciations("hu", card.hu, getProContainer("hu"), "hu"==primaryLang);
     getPronunciations("fr", card.fr, "frPro", false);   

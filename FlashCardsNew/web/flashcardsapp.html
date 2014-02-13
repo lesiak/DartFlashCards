@@ -14,6 +14,41 @@
       #imgFlag {
         margin-bottom: 10px;      
       }
+      
+      #optionsDialogFramePart {
+        z-index: 1024;
+        position: fixed;
+        display: block;
+ 
+        height: 100%;
+        width: 25%;
+ 
+        top: 0px;
+        left: 0px;
+        /*visibility: visible;*/
+        box-shadow: 0px 0px 10px rgba( 0, 0, 0, 0.5 );
+        -webkit-box-shadow: 0px 0px 10px rgba( 0, 0, 0, 0.5 );
+        -moz-box-shadow: 0px 0px 10px rgba( 0, 0, 0, 0.5 );
+        
+        overflow: auto;
+ 
+        -webkit-transition: -webkit-transform 0.2s linear;
+        -webkit-transform: translate(400%, 0);
+        background-color: rgb(255, 255, 255);
+        /*overflow-x: hidden;*/
+      }
+      
+      #optionsBacksplashPart {
+        position: absolute;        
+        left: 0px;
+        top: 0px;
+        visibility: visible;
+        z-index: 501;
+        background-color: #000;
+        width: 75%;
+        height: 100%;
+      }
+            
     </style>    
   <div class="container"><!-- container centers page content -->
     <div class="row">	  
@@ -22,7 +57,7 @@
   		    <li class="active">
     			  <a id="homePill" on-click="{{goToHomePanel}}" href="#">Home</a>
   			  </li>
-  			  <li><a href="#">Options</a></li>        
+  			  <li><a on-click="{{showOptions}}" href="#">Options</a></li>        
           <li><a href="#" on-click="{{showDictionary}}">Dictionary</a></li>
   			  <li><a href="#">...</a></li>
 		    </ul>    	
@@ -94,6 +129,12 @@
     </div> <!-- pageContentDiv -->             
        
   </div> <!-- container -->
+  <div id="optionsDialogFramePart" >
+      <h1>Options</h1>
+      <button on-click="{{hideOptions}}"                            
+        class="btn btn-lg btn-info">Cancel</button>       
+  </div>
+  <div id="optionsBacksplashPart" style="opacity: 1; display: none"></div>
 <div id="audioContainer"></div>
       
   </template>

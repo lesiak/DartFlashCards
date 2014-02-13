@@ -63,6 +63,8 @@ class FlashCardsApp extends PolymerElement {
   
   static List<String> langs = ["ko", "fi", "hu"];
   
+  static List<String> all_langs = ["en", "ko", "fi", "fr", "hu"];
+  
   static Map<String, String> flagsPaths = {"ko": "resources/svgFlags/Flag_of_Republic_of_Korea.svg", 
                                       "fi": "resources/svgFlags/Flag_of_Finland_1920-1978_(State).svg",
                                       "hu": "resources/svgFlags/Civil_Ensign_of_Hungary.svg"};
@@ -70,6 +72,10 @@ class FlashCardsApp extends PolymerElement {
   @observable List<String> items;
   
   @observable String primaryLang;
+  
+  @observable String secondaryLang;
+  
+  @observable String thirdLang ="fr";
   
   @observable String flagPath;
   
@@ -182,15 +188,12 @@ class FlashCardsApp extends PolymerElement {
  // }
   
   void fetchPronunciations() {
-    initProgress(engine.allCardsInDeck.length * 4);
-  //  downloaderUI.initProgress(engine.allCardsInDeck.length * 4);    
+    initProgress(engine.allCardsInDeck.length * all_langs.length);    
     for (Card card in engine.allCardsInDeck) {
-      pronounciationManager.fetchMissingPronunciations("en", ForvoRequestUtils.sanitizeWord("en", card.en), step);      
-      pronounciationManager.fetchMissingPronunciations("ko", ForvoRequestUtils.sanitizeWord("ko", card.ko), step);  
-      pronounciationManager.fetchMissingPronunciations("fi", ForvoRequestUtils.sanitizeWord("fi", card.fi), step);
-      pronounciationManager.fetchMissingPronunciations("fr", ForvoRequestUtils.sanitizeWord("fr", card.fr), step);
-    }
-    
+      for (String lang in all_langs) {
+        pronounciationManager.fetchMissingPronunciations(lang, ForvoRequestUtils.sanitizeWord(lang, card.getValueForLang(lang)), step);        
+      }                  
+    }    
   }
   
   void initProgress(int pTotal) {
@@ -268,9 +271,18 @@ class FlashCardsApp extends PolymerElement {
     flagPath = flagsPaths[primaryLang];   
   }
   
- 
   
+  void showOptions() {        
+    $['optionsDialogFramePart'].style.transform= "translate(300%, 0)";
+    $['optionsBacksplashPart'].style.display= "block";
+    $['optionsBacksplashPart'].style.opacity= "0.25";      
+  }
   
+  void hideOptions() {
+    $['optionsDialogFramePart'].style.transform= "translate(400%, 0)";
+    $['optionsBacksplashPart'].style.display= "none";
+    $['optionsBacksplashPart'].style.opacity= "1";
+  }
  
   
   List<String> get allDeckNames {
