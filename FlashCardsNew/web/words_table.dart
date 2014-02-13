@@ -63,7 +63,7 @@ class WordsTable extends PolymerElement {
       return "almost";
     }
     else if (score.isBadAnswer()) {
-      return "error";
+      return "danger";
     }
   }
   
