@@ -106,6 +106,12 @@ body {
   background-color: #f8f8f8;
 }
 
+.table-striped tbody tr.danger:nth-child(odd) td,
+.table-striped tbody tr.danger:nth-child(odd) th {
+  background-color: #f5e4e4;
+}
+
+
 .table tbody tr.almost td {
   background-color: #eeee95;
 }
