@@ -6,6 +6,7 @@
 { "en": "filter",       "ko": "필터",       "fi": "suodatin",    "fr": "filtre" },
 { "en": "to filter",       "ko": "",       "fi": "suodattaa",    "fr": "filtrer" },
 
+{ "en": "scissors",       "ko": "",       "fi": "sakset",    "fr": "ciseaux" },
 
 { "en": "sharp",       "ko": "날카로운",       "fi": "terävä",    "fr": "affilé, coupant" },
 { "en": "to sharpen",       "ko": "",       "fi": "teroittaa",    "fr": "affiler, affûter, aiguiser" },

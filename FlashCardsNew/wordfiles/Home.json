@@ -36,6 +36,11 @@
 { "en": "bath",        "ko": "목욕",          "fi": "kylpy",    "fr": "bain" },
 { "en": "bathroom",        "ko": "욕실",          "fi": "kylpyhuone",    "fr": "salle de bain" },
 { "en": "bathe",        "ko": " 목욕시키다",          "fi": "kylpeä",    "fr": "se baigner" },
+
+{ "en": "shower",        "ko": " ",          "fi": "suihku",    "fr": "douche" },
+{ "en": "tap",        "ko": " ",          "fi": "hana",    "fr": "robinet" },
+
+
 { "en": "pillow",        "ko": " 베개",          "fi": "tyyny",    "fr": "oreiller" },
 { "en": "comb",        "ko": " 빗",          "fi": "kampa",    "fr": "peigne" },
 { "en": "kitchen",        "ko": " 부엌",          "fi": "keittiö",    "fr": "cuisine" },

@@ -38,6 +38,8 @@
 { "en": "quiet",         "ko": "조용하다",       "fi": "hiljainen",          "fr": "calme, tranquille" },
 { "en": "noisy",         "ko": "시끄럽하다",       "fi": "meluisa",          "fr": "bruyant" },
 
+{ "en": "crowd",         "ko": "",       "fi": "väkijoukko",          "fr": "foule" },
+
 
 { "en": "prison",         "ko": "교도소",       "fi": "vankila",          "fr": "prison, (slang) cabane" },
 { "en": "city",         "ko": "도시",       "fi": "kaupunki",          "fr": "ville" },

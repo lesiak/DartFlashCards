@@ -9,10 +9,14 @@
 { "en": "bush",    "ko": "덤불",    "fi": "pensas" , "fr":"buisson"},
 { "en": "palm tree",    "ko": "야자 나무",    "fi": "palmu" , "fr":"palmier"},
 
+{ "en": "corn",    "ko": "",    "fi": "maissi" , "fr":"maïs"},
+
 { "en": "cotton",    "ko": "솜",    "fi": "puuvilla" , "fr":"coton"},
 
 { "en": "grass (plant)",    "ko": " 풀, 잡초",    "fi": "heinä, ruoho" , "fr":"herbe"},
 { "en": "grass (lawn)",    "ko": "잔디, 잔디밭",    "fi": "nurmi, nurmikko, ruohokenttä" , "fr":"pelouse, gazon"},
+
+{ "en": "branch",  "fi": "oksa",   "fr":" branche (f), rameau (m)", "hu": "ág"    "ko": "",    },
 
 { "en": "plant",      "ko": "식물 (plant + thing)",    "fi": "kasvi",   "fr":"plante"}
 
