@@ -12,6 +12,11 @@
 
 { "en": "server",         "ko": "서버",       "fi": "palvelin",          "fr": "serveur" },
 
+{ "en": "television (set)",    "fi": "televisio",  "fr": "téléviseur (m), télévision (f)",    "hu": "",  "ko": "텔레비전"       },
+{ "en": "remote control",    "fi": "kaukosäädin",  "fr": "télécommande",    "hu": "",  "ko": ""       },
+
+
+
 { "en": "programmer",       "ko": "프로그래머",      "fi": "ohjelmoija",    "fr": "programmeur" },
 { "en": "software",         "ko": "소프트웨어",      "fi": "ohjelmisto",    "fr": "logiciel" },
 

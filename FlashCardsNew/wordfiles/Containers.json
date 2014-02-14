@@ -6,6 +6,8 @@
 { "en": "can (for drinks)",    "ko": "",    "fi": "juomatölkki" , "fr":"boîte (f)"},
 { "en": "tin (for food)",    "ko": "",    "fi": "säilykepurkki" , "fr":"boîte (f)"},
 { "en": "jar",          "ko": "",       "fi": "lasipurkki",    "fr": "pot (m)" },
+
+{ "en": "box",          "ko": "",       "fi": "laatikko",    "fr": "" },
 { "en": "carton",          "ko": "",       "fi": "tölkki",    "fr": "carton (m)" }
 
 ]
