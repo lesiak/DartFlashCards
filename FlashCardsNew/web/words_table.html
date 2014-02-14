@@ -8,20 +8,18 @@
         <thead>
         <tr>
             <th>English</th>
-            <th>Korean</th>
-            <th>Finnish</th>
-            <th>French</th>
-            <th>Hungarian</th>
+            <th>{{getLangName(primaryLang)}}</th>
+            <th>{{getLangName(secondaryLang)}}</th>
+            <th>{{getLangName(thirdLang)}}</th>            
             <th>Due in</th>
         </tr>
         </thead>
         <tbody>
-        <tr template repeat="{{wordRows}}" class={{cssClass}}>
-            <td>{{card.en}}</td>
-            <td>{{card.ko}}</td>
-            <td>{{card.fi}}</td>
-            <td>{{card.fr}}</td>
-            <td>{{card.hu}}</td>
+        <tr template repeat="{{r in wordRows}}" class={{cssClass}}>
+            <td>{{r.card.en}}</td>
+            <td>{{r.first}}</td>
+            <td>{{r.second}}</td>
+            <td>{{r.third}}</td>            
             <td>{{dueIn}}</td>
         </tr>
         </tbody>

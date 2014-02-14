@@ -73,7 +73,7 @@ class FlashCardsApp extends PolymerElement {
   
   @observable String primaryLang;
   
-  @observable String secondaryLang;
+  @observable String secondaryLang = "fi";
   
   @observable String thirdLang ="fr";
   

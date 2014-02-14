@@ -16,7 +16,11 @@ class WordsTable extends PolymerElement {
   
   @published ObservableList<Card> cards = toObservable([]);
   
-  @published String primaryLang; 
+  @published String primaryLang;
+  
+  @published String secondaryLang;
+  
+  @published String thirdLang;
   
   WordsTable.created() : super.created() {
     new PathObserver(this, 'cards')
@@ -42,7 +46,10 @@ class WordsTable extends PolymerElement {
       if (score != null) {     
           dueIn = formatDuration(score.getDueInDuration(currentDate));          
       }
-      ret.add(new WordTableRow(card, cssClass, dueIn));    
+      WordTableRow r = new WordTableRow(card, cssClass, dueIn, primaryLang, secondaryLang, thirdLang);
+      //to prevent tree shaking
+     // print(r.getValForLang("en"));
+      ret.add(r);    
     }
     return ret;
     
@@ -68,6 +75,23 @@ class WordsTable extends PolymerElement {
   }
   
   
+  String getLangName(String lang) {
+    if (lang == "ko") {
+      return "Korean";
+    } else if (lang == "fi") {
+      return "Finnish";      
+    } else if (lang == "fr") {
+      return "French";      
+    } else if (lang == "hu") {
+      return "Hungarian";      
+    } else if (lang==null) {
+      return "null";
+    }
+    return "unknown";
+  }
+  
+  
+  
   // This lets the Bootstrap CSS "bleed through" into the Shadow DOM
   // of this element.
   bool get applyAuthorStyles => true;
@@ -76,10 +100,25 @@ class WordsTable extends PolymerElement {
 
 class WordTableRow extends Object with Observable {
   @observable Card card;
+  
+  @observable String first;
+  @observable String second;
+  @observable String third;
+  
+  
   @observable String cssClass;
   @observable String dueIn;
   
-  WordTableRow(this.card, this.cssClass, this.dueIn);
+  WordTableRow(this.card, this.cssClass, this.dueIn, String primLang, String secLang, String thirdLang) {
+    this.first = card.getValueForLang(primLang);
+    this.second = card.getValueForLang(secLang);
+    this.third = card.getValueForLang(thirdLang);
+  } 
+  
+  //String getValForLang(lang) {
+  //  return card.getValueForLang(lang);
+  //}
+  
   
 }
 
