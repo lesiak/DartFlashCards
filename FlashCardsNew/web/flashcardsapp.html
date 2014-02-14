@@ -48,6 +48,10 @@
         width: 75%;
         height: 100%;
       }
+      
+      .formContainer {
+        padding: 15px;
+      }
             
     </style>    
   <div class="container"><!-- container centers page content -->
@@ -131,10 +135,12 @@
     </div> <!-- pageContentDiv -->             
        
   </div> <!-- container -->
-  <div id="optionsDialogFramePart" >
+  <div id="optionsDialogFramePart">
+    <div name="editSubscription" class="formContainer"> 
       <h1>Options</h1>
       <button on-click="{{hideOptions}}"                            
-        class="btn btn-lg btn-info">Cancel</button>       
+        class="btn btn-lg btn-info">Cancel</button>
+    </div>       
   </div>
   <div id="optionsBacksplashPart" style="opacity: 1; display: none"></div>
 <div id="audioContainer"></div>

@@ -15,12 +15,12 @@
         </tr>
         </thead>
         <tbody>
-        <tr template repeat="{{r in wordRows}}" class={{cssClass}}>
+        <tr template repeat="{{r in wordRows}}" class={{r.cssClass}}>
             <td>{{r.card.en}}</td>
             <td>{{r.first}}</td>
             <td>{{r.second}}</td>
             <td>{{r.third}}</td>            
-            <td>{{dueIn}}</td>
+            <td>{{r.dueIn}}</td>
         </tr>
         </tbody>
     </table>
