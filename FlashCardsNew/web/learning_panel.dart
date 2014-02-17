@@ -46,22 +46,12 @@ class LearingPanelElement extends PolymerElement {
   }
   
   void showAnswer() {
-    responsesVisible = true;
-    var langs = [primaryLang, secondaryLang, thirdLang];    
-    for (String lang in langs) {      
-      getPronunciations(lang, card.getValueForLang(lang), getProContainer(lang), lang==primaryLang);
-    }  
+    responsesVisible = true;  
+    getPronunciations(primaryLang, card.getValueForLang(primaryLang), "primaryPro", true);
+    getPronunciations(secondaryLang, card.getValueForLang(secondaryLang), "secondaryPro", false);
+    getPronunciations(thirdLang, card.getValueForLang(thirdLang), "thirdPro", false);   
   }
-  
-  String getProContainer(String lang) {
-    if (lang==primaryLang) {
-      return "primaryPro";
-    } else {
-      return "secondaryPro";
-    }
-  }
-  
-  
+   
   void poorAnswer() {
     deckEngine.poorAnswer();
     showNextQuestion();
@@ -101,7 +91,7 @@ class LearingPanelElement extends PolymerElement {
   void clearAnswerNodes() {  
     $['primaryPro'].nodes.clear();
     $['secondaryPro'].nodes.clear();
-    $['frPro'].nodes.clear();
+    $['thirdPro'].nodes.clear();
   }
   
   String get answerPrimary {
@@ -109,11 +99,13 @@ class LearingPanelElement extends PolymerElement {
   }
 
   String get answerSecondary {
-    if (primaryLang == "fi") 
-      return card.ko; 
-    else 
-      return card.fi;
+    return card.getValueForLang(secondaryLang);    
+  }
+  
+  String get answerThird {
+    return card.getValueForLang(thirdLang);    
   } 
+
     
   
   void getPronunciations(String lang, String word, String containerId, bool play) {    

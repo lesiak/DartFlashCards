@@ -26,22 +26,11 @@ class FileCache {
     _filesystem = filesystem;
     var langs = ["en", "ko", "fi", "fr", "hu", "zh"];
     var respLangs = langs.map((lang) => lang+ "Resp");    
-    var dirsToCreate = [];
-    dirsToCreate.addAll(langs);
-    dirsToCreate.addAll(respLangs);
+    var dirsToCreate = new List.from(langs)..addAll(respLangs);    
     return Future.forEach(dirsToCreate, (lang) {
-      //print(lang);
       _filesystem.root.createDirectory(lang)
         .then((entry) => _createDirectoryCallback(entry, lang), onError: (e) => _logFileError(e.error));
     });
-    //Future.forEach(dirsToCreate, (lang) {    
-    //  _filesystem.root.createDirectory(lang) 
-      //  .then((entry) => _createDirectoryCallback(entry, lang), onError: (e) => _logFileError(e.error)));
-    /*.forEach((lang) {    
-      _filesystem.root.createDirectory(lang) 
-          .then((entry) => _createDirectoryCallback(entry, lang), 
-          onError: (e) => _logFileError(e.error));
-    });*/ 
   }
   
   void _createDirectoryCallback(DirectoryEntry dir, String name) {
