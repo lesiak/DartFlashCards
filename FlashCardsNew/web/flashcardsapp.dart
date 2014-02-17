@@ -61,13 +61,14 @@ class FlashCardsApp extends PolymerElement {
                               'Sentences1',
                               'TopikInter1']; 
   
-  static List<String> langs = ["ko", "fi", "hu"];
+  static List<String> langs = ["ko", "fi", "hu", "zh"];
   
-  static List<String> all_langs = ["en", "ko", "fi", "fr", "hu"];
+  static List<String> all_langs = ["en", "ko", "fi", "fr", "hu", "zh"];
   
   static Map<String, String> flagsPaths = {"ko": "resources/svgFlags/Flag_of_Republic_of_Korea.svg", 
                                       "fi": "resources/svgFlags/Flag_of_Finland_1920-1978_(State).svg",
-                                      "hu": "resources/svgFlags/Civil_Ensign_of_Hungary.svg"};
+                                      "hu": "resources/svgFlags/Civil_Ensign_of_Hungary.svg",
+                                      "zh": "resources/svgFlags/Flag_of_the_People's_Republic_of_China.svg"};
   
   @observable List<String> items;
   

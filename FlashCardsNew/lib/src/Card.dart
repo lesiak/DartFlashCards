@@ -10,8 +10,9 @@ class Card extends Object with Observable {
   @observable String fr;
   @observable String hu;
   @observable String ko;
+  @observable String zh;
   
-  Card(this.en, this.fi, this.fr, this.hu, this.ko);
+  Card(this.en, this.fi, this.fr, this.hu, this.ko, this.zh);
   
   String getValueForLang(String lang) {
     switch (lang) {
@@ -20,6 +21,7 @@ class Card extends Object with Observable {
       case "fr": return fr;
       case "hu": return hu;
       case "ko": return ko;
+      case "zh": return zh;
       default: return null;
     }
   }

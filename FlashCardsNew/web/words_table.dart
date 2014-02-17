@@ -84,6 +84,8 @@ class WordsTable extends PolymerElement {
       return "French";      
     } else if (lang == "hu") {
       return "Hungarian";      
+    } else if (lang == "zh") {
+      return "Chinese";      
     } else if (lang==null) {
       return "null";
     }

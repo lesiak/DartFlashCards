@@ -19,7 +19,7 @@ class LearingPanelElement extends PolymerElement {
   
   @published String thirdLang;
   
-  @observable Card card = new Card("", "", "", "", "");
+  @observable Card card = new Card("", "", "", "", "", "");
   
   @observable bool responsesVisible = false;
   
@@ -47,10 +47,10 @@ class LearingPanelElement extends PolymerElement {
   
   void showAnswer() {
     responsesVisible = true;
-   // getPronunciations("ko", card.ko, getProContainer("ko"), "ko"==primaryLang);
-    getPronunciations("fi", card.fi, getProContainer("fi"), "fi"==primaryLang);
-    getPronunciations("hu", card.hu, getProContainer("hu"), "hu"==primaryLang);
-    getPronunciations("fr", card.fr, "frPro", false);   
+    var langs = [primaryLang, secondaryLang, thirdLang];    
+    for (String lang in langs) {      
+      getPronunciations(lang, card.getValueForLang(lang), getProContainer(lang), lang==primaryLang);
+    }  
   }
   
   String getProContainer(String lang) {
@@ -161,7 +161,7 @@ class LearingPanelElement extends PolymerElement {
   void displayPronounciations(ForvoResponse r,  Element container, bool play) {      
    /* if (deckState.currentCard.en != r.requestWord) {
       return;
-    }*/
+    }*/    
     List<Element> pronounciationNodes = createAudioNodes(r);
     container.nodes.clear();
     container.nodes.addAll(pronounciationNodes);  
@@ -189,7 +189,7 @@ class LearingPanelElement extends PolymerElement {
   }
 
   
-  void playMp3FromUrl(String url) {
+  void playMp3FromUrl(String url) {    
     var html='<audio autoplay="true"><source src="$url"></audio>';
     $['audioContainer'].setInnerHtml(html, treeSanitizer : new NullTreeSanitizer());
   }

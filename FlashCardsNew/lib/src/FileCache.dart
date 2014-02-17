@@ -7,31 +7,33 @@ typedef void ReadBlobErrorCallback();
 
 class FileCache {
   
-  FileSystem _filesystem;
-  
-  FileCacheReadyCallback _readyCallback;
+  FileSystem _filesystem;  
   
   Map<String, DirectoryEntry> dirs = new Map<String, DirectoryEntry>();
   
-  FileCache(FileCacheReadyCallback readyCallback) {
-    this._readyCallback = readyCallback;
+  FileCache(FileCacheReadyCallback readyCallback) {    
     int quota = 1024* 1024 * 1024;
    // window.requestFileSystemSync(type, size)    
     //window.localStorage
     /*window.storageInfo.requestQuota(Window.PERSISTENT, quota)
       .then((size) => print("Granted quota $size"), onError: (e) => print(e));*/
     window.requestFileSystem(quota, persistent: true)
-        .then(_requestFileSystemCallback, onError: (e) => _logFileError(e));
+        .then(_requestFileSystemCallback, onError: (e) => _logFileError(e))
+        .then((nothing) => readyCallback(this));
   }
   
-  void _requestFileSystemCallback(FileSystem filesystem) {
+  Future _requestFileSystemCallback(FileSystem filesystem) {
     _filesystem = filesystem;
-    var dirsToCreate = ["en", "ko", "fi", "fr", "hu", "enResp", "koResp", "fiResp", "frResp", "huResp"];
-    Future.forEach(dirsToCreate, (lang) {
+    var langs = ["en", "ko", "fi", "fr", "hu", "zh"];
+    var respLangs = langs.map((lang) => lang+ "Resp");    
+    var dirsToCreate = [];
+    dirsToCreate.addAll(langs);
+    dirsToCreate.addAll(respLangs);
+    return Future.forEach(dirsToCreate, (lang) {
       //print(lang);
       _filesystem.root.createDirectory(lang)
         .then((entry) => _createDirectoryCallback(entry, lang), onError: (e) => _logFileError(e.error));
-    }).then((val) => _readyCallback(this));
+    });
     //Future.forEach(dirsToCreate, (lang) {    
     //  _filesystem.root.createDirectory(lang) 
       //  .then((entry) => _createDirectoryCallback(entry, lang), onError: (e) => _logFileError(e.error)));
