@@ -61,7 +61,7 @@ class FlashCardsApp extends PolymerElement {
                               'Sentences1',
                               'TopikInter1']; 
   
-  static List<String> langs = ["ko", "fi", "hu", "zh"];
+  static List<String> langs = ["ko", "fi", "hu"];
   
   static List<String> all_langs = ["en", "ko", "fi", "fr", "hu", "zh"];
   
@@ -259,12 +259,10 @@ class FlashCardsApp extends PolymerElement {
   }
  
   void flagClicked(Event e, var detail, Element target) {
-    var idx = langs.indexOf(primaryLang);
-    if (idx == langs.length - 1) {
-      primaryLang = langs[0];      
-    } else {
-      primaryLang = langs[idx+1];
-    }
+    var idx = langs.indexOf(primaryLang);       
+    primaryLang = langs[(idx + 1) % langs.length];          
+    secondaryLang = langs[(idx + 2) % langs.length];
+    thirdLang = langs[(idx + 3) % langs.length];
     window.localStorage['primaryLang'] = primaryLang;
   }
   
@@ -283,6 +281,25 @@ class FlashCardsApp extends PolymerElement {
     $['optionsDialogFramePart'].style.transform= "translate(400%, 0)";
     $['optionsBacksplashPart'].style.display= "none";
     $['optionsBacksplashPart'].style.opacity= "1";
+  }
+  
+  void updateOptions() {
+    var option1Element = $['optionsRadios1'];
+    var option2Element = $['optionsRadios2'];
+    var option3Element = $['optionsRadios3'];    
+    if (option1Element.checked) {
+      langs = ["fi","ko","fr"];       
+    } else if (option2Element.checked) {
+      langs = ["ko","fi","hu"];      
+    } else {
+      langs = ["fi","ko","zh"];      
+    }
+    primaryLang = langs[0];
+    secondaryLang = langs[1];
+    thirdLang = langs[2];
+    
+    
+    hideOptions();
   }
  
   

@@ -140,8 +140,30 @@
   <div id="optionsDialogFramePart">
     <div name="editSubscription" class="formContainer"> 
       <h1>Options</h1>
+      <form class="form" role="form">
+        <div class="radio">
+          <label>
+            <input type="radio" name="optionsRadios" id="optionsRadios1" value="option1" >
+            Fi, Ko, Fr
+          </label>
+        </div>
+        <div class="radio">
+          <label>
+            <input type="radio" name="optionsRadios" id="optionsRadios2" value="option2" checked>
+            Ko, Fi, Hu
+          </label>
+        </div>
+        <div class="radio">
+          <label>
+            <input type="radio" name="optionsRadios" id="optionsRadios3" value="option3">
+            Fi, Ko, Zh
+          </label>
+        </div>
+      </form>
+      <button on-click="{{updateOptions}}"                            
+        class="btn btn-info">Update</button>
       <button on-click="{{hideOptions}}"                            
-        class="btn btn-lg btn-info">Cancel</button>
+        class="btn btn-link">Cancel</button>            
     </div>       
   </div>
   <div id="optionsBacksplashPart" style="opacity: 1; display: none"></div>
