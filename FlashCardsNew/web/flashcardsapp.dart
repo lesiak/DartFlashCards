@@ -101,7 +101,16 @@ class FlashCardsApp extends PolymerElement {
       this.pronounciationManager = new PronounciationManager(cache, null);
     });
     var langInStore =window.localStorage['primaryLang'];
-    primaryLang = langInStore != null ? langInStore : 'ko';
+    var idx = 0;
+    if (langInStore != null) {
+      idx = langs.indexOf(langInStore);
+      if (idx == -1) {
+        idx = 0;
+      }
+    }
+    primaryLang = langs[idx];
+    secondaryLang = langs[(idx + 1) % langs.length];
+    thirdLang = langs[(idx + 2) % langs.length];
 
   }
   
