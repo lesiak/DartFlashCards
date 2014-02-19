@@ -1,19 +1,20 @@
 [
 
-{ "en": "home",        "ko": "집",     "fi": "koti",    "fr": "maison" },
-{ "en": "apartment",        "ko": "아파트, 빌라",     "fi": "huoneisto",    "fr": "appartement" },
-{ "en": "room",        "ko": "방",     "fi": "huone",    "fr": "chambre" },
-{ "en": "door",         "ko": "문",         "fi": "ovi",    "fr": "porte" },    
-{ "en": "window",       "ko": "창, 창문",         "fi": "ikkuna",    "fr": "fenêtre" },   
-{ "en": "furniture",    "ko": "가구",   "fi": "kalusteet",    "fr": "meubles" },
-{ "en": "refrigerator", "ko": "냉장고",    "fi": "jääkaappi",    "fr": "réfrigérateur" },
-{ "en": "washing machine", "ko": "세탁기",    "fi": "pesukone",    "fr": "machine à laver" },
-{ "en": "chair", "ko": "의자",    "fi": "tuoli",    "fr": "chaise" },
+{ "en": "house",       "fi": "talo",       "fr": "",        "ko": "" },
+{ "en": "home",        "fi": "koti",       "fr": "maison", "ko": "집"      },
+{ "en": "apartment",   "fi": "huoneisto",  "fr": "appartement",       "ko": "아파트, 빌라" },
+{ "en": "room",        "fi": "huone",      "fr": "chambre",      "hu": "szoba", "ko": "방" },
+{ "en": "door",        "fi": "ovi",        "fr": "porte",        "hu": "ágy",   "ko": "문" },    
+{ "en": "window",      "fi": "ikkuna",     "fr": "fenêtre",      "hu": "ablak", "ko": "창, 창문"   },   
+{ "en": "furniture",   "fi": "kalusteet",  "fr": "meubles",      "hu": "bútor", "ko": "가구" },
+{ "en": "refrigerator","fi": "jääkaappi",  "fr": "réfrigérateur",  "ko": "냉장고" },
+{ "en": "washing machine","fi": "pesukone","fr": "machine à laver", "ko": "세탁기" },
+{ "en": "chair",       "fi": "tuoli",      "fr": "chaise",       "hu": "szék",  "ko": "의자" },
 
 { "en": "(reading) desk", "ko": "책상",    "fi": "kirjoituspöytä",    "fr": "pupitre" },
 
-{ "en": "bed", "ko": "침대 (sleep + stage)",    "fi": "sänky, vuode",    "fr": "lit" },
-{ "en": "bedroom", "ko": "침실 (sleep + room)",    "fi": "makuuhuone",    "fr": "chambre à coucher" },
+{ "en": "bed",     "fi": "sänky, vuode",  "fr": "lit",               "hu": "ágy",    "ko": "침대 (sleep + stage)" },
+{ "en": "bedroom", "fi": "makuuhuone",    "fr": "chambre à coucher",                 "ko": "침실 (sleep + room)" },
 
 { "en": "blanket", "ko": "담요",    "fi": "viltti",    "fr": "couverture" },
 
@@ -24,9 +25,9 @@
 { "en": "balcony", "ko": "발코니",    "fi": "parveke",    "fr": "balcon" },
 { "en": "chimney", "ko": "굴뚝",    "fi": "savupiippu",    "fr": "cheminée" },
 
-{ "en": "soap",        "ko": "비누",          "fi": "saippua",    "fr": "savon" }, 
-{ "en": "shampoo",        "ko": "샴푸",          "fi": "shampoo, hiustenpesuaine",    "fr": "shampoing" },
-{ "en": "toothpaste",        "ko": "치약",          "fi": "hammastahna",    "fr": "dentifrice" },
+{ "en": "soap",           "fi": "saippua",    "fr": "savon", "ko": "비누" }, 
+{ "en": "shampoo",        "fi": "shampoo, hiustenpesuaine",    "fr": "shampoing", "ko": "샴푸" },
+{ "en": "toothpaste",     "fi": "hammastahna",    "fr": "dentifrice",   "ko": "치약"           },
 { "en": "toothbrush",        "ko": "칫솔",          "fi": "hammasharja",    "fr": "brosse à dents" },
 { "en": "mirror",        "ko": "거울",          "fi": "peili",    "fr": "miroir" },
 { "en": "towel",        "ko": "수건, 타월",          "fi": "pyyhe",    "fr": "serviette" },
