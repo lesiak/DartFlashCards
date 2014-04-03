@@ -135,7 +135,7 @@ class FlashCardsApp extends PolymerElement {
   void loadWordTable(String wordfile) {
     print('loading $wordfile');
     $["deckDetailsDiv"].hidden=false;
-    engine.loadData('../wordfiles/$wordfile', () {
+    engine.loadData('wordfiles/$wordfile', () {
       print('data loaded');
       
      // query("#deckDetailsDiv").hidden=false;

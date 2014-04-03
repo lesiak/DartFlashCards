@@ -175,6 +175,7 @@ class PronounciationManager {
         return item;
       }
     }
+    return null;
     
   }
 }

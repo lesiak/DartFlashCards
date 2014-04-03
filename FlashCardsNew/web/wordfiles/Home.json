@@ -18,11 +18,11 @@
 
 { "en": "blanket",     "fi": "viltti",     "fr": "couverture", "ko": "담요" },
 { "en": "carpet",      "fi": "matto",      "fr": "tapis",      "hu": "szőnyeg", "ko": "양탄자" },
+{ "en": "curtain",     "fi": "verho",      "fr": "rideau",     "hu": "függöny", "ko": "커튼" },
 
-
-{ "en": "roof",        "fi": "katto",      "fr": "toit", "ko": "지붕" },
-{ "en": "floor",       "fi": "lattia",     "fr": "sol", "ko": "바닥"     },
-{ "en": "fence",       "fi": "aita",       "fr": "clôture", "ko": "울타리"     },
+{ "en": "roof",        "fi": "katto",      "fr": "toit",       "hu": "fedél",  "ko": "지붕" },
+{ "en": "floor",       "fi": "lattia",     "fr": "sol",        "hu": "padló",  "ko": "바닥"     },
+{ "en": "fence",       "fi": "aita",       "fr": "clôture",    "hu": "kerítés","ko": "울타리"     },
 { "en": "balcony",     "fi": "parveke",    "fr": "balcon", "ko": "발코니"     },
 { "en": "chimney",     "fi": "savupiippu", "fr": "cheminée", "ko": "굴뚝"     },
 { "en": "wall",        "fi": "seinä, muuri",      "fr": "mur",   "ko": "담" },
@@ -30,13 +30,13 @@
 { "en": "soap",        "fi": "saippua",    "fr": "savon", "ko": "비누" }, 
 { "en": "shampoo",     "fi": "shampoo, hiustenpesuaine",    "fr": "shampoing", "ko": "샴푸" },
 { "en": "toothpaste",  "fi": "hammastahna","fr": "dentifrice",   "ko": "치약"           },
-{ "en": "toothbrush",  "fi": "hammasharja","fr": "brosse à dents"      "ko": "칫솔"     },
+{ "en": "toothbrush",  "fi": "hammasharja","fr": "brosse à dents",      "ko": "칫솔"     },
 { "en": "mirror",      "fi": "peili",      "fr": "miroir",  "ko": "거울"           },
 { "en": "towel",       "fi": "pyyhe",      "fr": "serviette", "ko": "수건, 타월" },
 { "en": "shaving",     "fi": "parranajo",  "fr": "rasage",   "ko": "면도"           },
 { "en": "razor",       "fi": "partakone",  "fr": "rasoir", "ko": "면도칼"           },
 { "en": "lamp",        "fi": "lamppu",     "fr": "lampe",  "ko": "램프, 전등"          },
-{ "en": "bath",        "fi": "kylpy",      "fr": "bain",   "ko": "목욕",           },
+{ "en": "bath",        "fi": "kylpy",      "fr": "bain",   "ko": "목욕"           },
 { "en": "bathroom",    "fi": "kylpyhuone", "fr": "salle de bain",    "ko": "욕실"           },
 { "en": "bathe",        "ko": " 목욕시키다",          "fi": "kylpeä",    "fr": "se baigner" },
 

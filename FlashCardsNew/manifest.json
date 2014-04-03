@@ -5,7 +5,7 @@
 "description": "My Flashcards application.",
 "app": {
 "launch": {
-"local_path": "build/flashcardsnew.html"
+"local_path": "build/web/flashcardsnew.html"
 }
 },
 "icons": {
