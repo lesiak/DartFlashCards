@@ -23,6 +23,10 @@ class PronounciationManager {
   }
   
   void fetchMissingPronunciations(String lang, String word, FetchProgressStepMethod fetchProgressStepMethod) {
+    if (word == null) {
+      fetchProgressStepMethod(false);
+      return;
+    }
     if (hasForvoResponseInLocalStorage(lang, word)) {
       print ('found pronounciation list for ${lang}/${word} in localStorage');
       fetchProgressStepMethod(true);
