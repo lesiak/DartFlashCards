@@ -36,7 +36,7 @@ packages:
   json:
     description: json
     source: hosted
-    version: "0.9.1"
+    version: "0.10.0"
   logging:
     description: logging
     source: hosted
