@@ -12,7 +12,7 @@ class CardScore {
   CardScore(this.lastResult, this.goodInARow, this.lastAnswerTime);
   
   factory CardScore.fromJsonString(String jsonString) {   
-    Map map =  JSON.parse(jsonString);
+    Map map =  JSON.decode(jsonString);
     return new CardScore.fromMap(map);     
   }
   
@@ -79,7 +79,7 @@ class CardScore {
     Map resultMap = {"lastResult" : lastResult,
                      "goodInARow" : goodInARow,
                      "time" : lastAnswerTime};
-    return JSON.stringify(resultMap);
+    return JSON.encode(resultMap);
   }
   
   

@@ -1,8 +1,7 @@
 name: FlashCardsNew
 description: A sample Polymer application
 dependencies:
-    polymer: any
-    json: any
+    polymer: any    
     unittest: any
 transformers:
 - polymer:

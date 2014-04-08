@@ -8,7 +8,7 @@ class ForvoResponse {
   List<ForvoItem> items;
   
   factory ForvoResponse.fromJsonString(String lang, String word, String responseText) {
-    Map forvoData = JSON.parse(responseText);
+    Map forvoData = JSON.decode(responseText);
     return new ForvoResponse.fromMap(lang, word, forvoData);
   }
   
@@ -28,7 +28,7 @@ class ForvoResponse {
                      "attributes" : attributes,
                      "items" : items};
     
-    return JSON.stringify(resultMap);
+    return JSON.encode(resultMap);
   }
   
 }
