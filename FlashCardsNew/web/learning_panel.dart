@@ -11,13 +11,15 @@ class LearingPanelElement extends PolymerElement {
   
   PronounciationManager pronounciationManager;
   
+  @published FileCache fileCache;
+  
   @published ObservableList<Card> cards = toObservable([]);
   
   @published String primaryLang; 
   
   @published String secondaryLang;
   
-  @published String thirdLang;
+  @published String thirdLang;  
   
   @observable Card card = new Card("", "", "", "", "", "");
   
@@ -26,18 +28,21 @@ class LearingPanelElement extends PolymerElement {
   DeckEngine deckEngine;
   
   LearingPanelElement.created() : super.created() {
-    print('LearingPanelElement created');
-    
-    FileCache fileCache = new FileCache( (cache) {    
+    print('LearingPanelElement created');        
+    /*FileCache fileCache = new FileCache( (cache) {    
       this.pronounciationManager = new PronounciationManager(cache, playMp3FromUrl);                
-    });
+    });*/
+    new PathObserver(this, 'fileCache')
+        ..changes.listen((changeRecords) {          
+          this.pronounciationManager = new PronounciationManager(fileCache, playMp3FromUrl);          
+        });
        
   } 
   
   @override
   void enteredView() {
     super.enteredView();
-    print('LearingPanelElement entered view');    
+    print('LearingPanelElement entered view');        
   }
   
   void goodAnswer() {    

@@ -61,14 +61,14 @@ class FlashCardsApp extends PolymerElement {
                               'Sentences1',
                               'TopikInter1']; 
   
-  static List<String> langs = ["ko", "fi", "hu"];
+  static List<String> langs = ["ko", "fi", "es"];
   
-  static List<String> all_langs = ["en", "ko", "fi", "fr", "hu", "zh"];
+  static List<String> all_langs = ["en", "ko", "fi", "fr", "hu", "es"];
   
   static Map<String, String> flagsPaths = {"ko": "resources/svgFlags/Flag_of_Republic_of_Korea.svg", 
                                       "fi": "resources/svgFlags/Flag_of_Finland_1920-1978_(State).svg",
                                       "hu": "resources/svgFlags/Civil_Ensign_of_Hungary.svg",
-                                      "zh": "resources/svgFlags/Flag_of_the_People's_Republic_of_China.svg"};
+                                      "es": "resources/svgFlags/Flag_of_Spain.svg"};
   
   @observable List<String> items;
   
@@ -86,16 +86,18 @@ class FlashCardsApp extends PolymerElement {
   
   @observable int currentFail;
   
-  @observable bool showProgress = false;
+  @observable bool showProgress = false;  
   
-  PronounciationManager pronounciationManager;
+  @observable FileCache fileCache;
+  
+  PronounciationManager pronounciationManager;                                    
   
   FlashCardsApp.created() : super.created() {
     print('created app');
     items = level1Files;
     this.engine = new Engine();
     
-    FileCache fileCache = new FileCache( (cache) {
+    this.fileCache = new FileCache(all_langs, (cache) {
       //FlashCardsApp app = new FlashCardsApp(cache);
       //app.startApplication();
       this.pronounciationManager = new PronounciationManager(cache, null);
@@ -301,7 +303,7 @@ class FlashCardsApp extends PolymerElement {
     } else if (option2Element.checked) {
       langs = ["ko","fi","hu"];      
     } else {
-      langs = ["fi","ko","zh"];      
+      langs = ["fi","ko","es"];      
     }
     primaryLang = langs[0];
     secondaryLang = langs[1];

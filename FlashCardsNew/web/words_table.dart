@@ -71,6 +71,9 @@ class WordsTable extends PolymerElement {
     }
     else if (score.isBadAnswer()) {
       return "danger";
+    } else {
+      //to pacify static analysis
+      return "";
     }
   }
   
@@ -86,6 +89,8 @@ class WordsTable extends PolymerElement {
       return "Hungarian";      
     } else if (lang == "zh") {
       return "Chinese";      
+    } else if (lang == "es") {
+      return "Spanish";      
     } else if (lang==null) {
       return "null";
     }

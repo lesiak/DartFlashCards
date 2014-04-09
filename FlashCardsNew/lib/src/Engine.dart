@@ -45,7 +45,7 @@ class Engine {
   List<Card> _buildDeckFromJson(String wordListJSON) {
     List rawData = JSON.decode(wordListJSON); // parse response text
     List<Card> allCards = rawData.map(
-        (entry) => new Card(entry["en"], entry["fi"], entry["fr"], entry["hu"], entry["ko"], entry["zh"])).toList();
+        (entry) => new Card(entry["en"], entry["es"], entry["fi"], entry["fr"], entry["hu"], entry["ko"])).toList();
     return allCards;    
   }
   

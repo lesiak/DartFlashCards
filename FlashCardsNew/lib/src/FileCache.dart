@@ -11,20 +11,20 @@ class FileCache {
   
   Map<String, DirectoryEntry> dirs = new Map<String, DirectoryEntry>();
   
-  FileCache(FileCacheReadyCallback readyCallback) {    
+  FileCache(List<String> langs, FileCacheReadyCallback readyCallback) {    
     int quota = 1024* 1024 * 1024;
    // window.requestFileSystemSync(type, size)    
     //window.localStorage
     /*window.storageInfo.requestQuota(Window.PERSISTENT, quota)
       .then((size) => print("Granted quota $size"), onError: (e) => print(e));*/
     window.requestFileSystem(quota, persistent: true)
-        .then(_requestFileSystemCallback, onError: (e) => _logFileError(e))
+        .then((fs) => _requestFileSystemCallback(langs,fs), onError: (e) => _logFileError(e))
         .then((nothing) => readyCallback(this));
   }
   
-  Future _requestFileSystemCallback(FileSystem filesystem) {
+  Future _requestFileSystemCallback(List<String> langs, FileSystem filesystem) {
     _filesystem = filesystem;
-    var langs = ["en", "ko", "fi", "fr", "hu", "zh"];
+    //var langs = ["en", "ko", "fi", "fr", "hu", "zh"];
     var respLangs = langs.map((lang) => lang+ "Resp");    
     var dirsToCreate = new List.from(langs)..addAll(respLangs);    
     return Future.forEach(dirsToCreate, (lang) {
