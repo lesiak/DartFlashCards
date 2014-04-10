@@ -34,31 +34,31 @@
 { "en": "weather",   "fi": "sää, ilma","fr": "temps",  "es": "(el) tiempo", "hu": "időjárás", "ko": "날씨"},
 { "en": "climate",   "fi": "ilmasto", "fr": "climat",  "es": "(el) clima",  "hu": "klíma", "ko": "기후"   },
 
-{ "en": "sunset",    "fi": "auringonlasku", "fr": "coucher du soleil", "hu": "napnyugta", "ko": "일몰"           },
-{ "en": "sunrise",   "fi": "auringonnousu", "fr": "lever du soleil",   "hu": "napkelte",  "ko": "해돋이"        },
+{ "en": "sunset",    "fi": "auringonlasku", "fr": "coucher du soleil", "es": "(la) puesta del sol", "hu": "napnyugta", "ko": "일몰"           },
+{ "en": "sunrise",   "fi": "auringonnousu", "fr": "lever du soleil",   "es": "(la) salida del sol", "hu": "napkelte",  "ko": "해돋이"        },
 
 
-{ "en": "world",      "fi": "maailma",    "fr": "monde" ,"hu": "világ",  "ko": "세계" },
+{ "en": "world",      "fi": "maailma",    "fr": "monde","es": "(el) mundo",  "hu": "világ",  "ko": "세계" },
 
 
 
 { "en": "sit",      "fi": "istua",    "fr": "être assis",  "hu": "ül",  "ko": "앉다",  "zh": "坐  (zuò)"       },
 { "en": "stand",    "fi": "seisoa",   "fr": "être debout", "hu": "áll",  "ko": "서다" },
-{ "en": "sleep",    "fi": "nukkua",   "fr": "dormir" ,     "hu": "alszik",  "ko": "자다"       },
-{ "en": "know",     "fi": "tietää",   "fr": "savoir, connaître",  "hu": "tud",  "ko": "알다"   },
+{ "en": "sleep",    "fi": "nukkua",   "fr": "dormir",      "es": "dormir", "hu": "alszik",  "ko": "자다"       },
+{ "en": "know",     "fi": "tietää",   "fr": "savoir, connaître",  "es": "saber, conocer",  "hu": "tud",  "ko": "알다"   },
 { "en": "not to know",    "fi": "ei tiedä",    "fr": "ne pas savoir",          "ko": "모르다"      },
-{ "en": "make",     "fi": "tehdä",    "fr": "faire",       "hu": "ül",         "ko": "만들다"       },
-{ "en": "see",       "ko": "보다",       "fi": "nähdä",    "fr": "voir" },
+{ "en": "make",     "fi": "tehdä",    "fr": "faire",       "es": "hacer", "hu": "ül",         "ko": "만들다"       },
+{ "en": "see",      "fi": "nähdä",    "fr": "voir",        "es": "ver", "ko": "보다" },
 { "en": "to be seen",          "fi": "näkyä",    "fr": "" , "ko": "보이다"},
 { "en": "to show",       "ko": "보여주다",       "fi": "näyttää",    "fr": "montrer" },
 
 { "en": "to look",       "ko": "보이다 (??)",       "fi": "näyttää, katsoa",    "fr": "regarder" },
 
-{ "en": "hear",           "ko": "듣다",       "fi": "kuulla",    "fr": "entendre" },
-{ "en": "listen",         "ko": "듣다",       "fi": "kuunnella",          "fr": "écouter" },
-{ "en": "be heard",         "ko": "들리다",       "fi": "",          "fr": "" },
-{ "en": "to need",         "ko": "필요하다",       "fi": "tarvita",          "fr": "avoir besoin de" },
-{ "en": "to want",         "ko": "싶다",       "fi": "haluta",          "fr": "vouloir" }
+{ "en": "hear",         "fi": "kuulla",    "fr": "entendre",        "ko": "듣다" },
+{ "en": "listen",       "fi": "kuunnella", "fr": "écouter",         "ko": "듣다" },
+{ "en": "be heard",     "fi": "",          "fr": "",                "ko": "들리다" },
+{ "en": "to need",      "fi": "tarvita",   "fr": "avoir besoin de", "ko": "필요하다" },
+{ "en": "to want",      "fi": "haluta",    "fr": "vouloir",         "ko": "싶다" }
 
 
 
