@@ -44,7 +44,7 @@ packages:
   mock:
     description: mock
     source: hosted
-    version: "0.10.0"
+    version: "0.10.0+1"
   mutation_observer:
     description: mutation_observer
     source: hosted
@@ -76,7 +76,7 @@ packages:
   stack_trace:
     description: stack_trace
     source: hosted
-    version: "0.9.3"
+    version: "0.9.3+1"
   template_binding:
     description: template_binding
     source: hosted
