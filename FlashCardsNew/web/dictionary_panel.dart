@@ -30,7 +30,7 @@ class DictionaryPanelElement extends PolymerElement {
     List<DictionaryTableRow> cards = new List();  
     var engine = new Engine();
     Future.forEach(deckNames, 
-        (wordfile) => engine.loadDeckFile('../wordfiles/$wordfile.json')
+        (wordfile) => engine.loadDeckFile('./wordfiles/$wordfile.json')
         .then((deckCards) {
           var cardRows = deckCards.map((card) => new DictionaryTableRow(card, wordfile));
           cards.addAll(cardRows);
