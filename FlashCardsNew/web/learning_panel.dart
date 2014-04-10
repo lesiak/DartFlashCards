@@ -113,7 +113,10 @@ class LearingPanelElement extends PolymerElement {
 
     
   
-  void getPronunciations(String lang, String word, String containerId, bool play) {    
+  void getPronunciations(String lang, String word, String containerId, bool play) {
+    if (word == null) {
+      return;
+    }
     word = ForvoRequestUtils.sanitizeWord(lang, word);
 
     Element container = $[containerId];    
