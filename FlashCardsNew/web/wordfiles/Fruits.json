@@ -1,21 +1,21 @@
 [
 
-{ "en": "apple",      "fi": "omena",        "fr": "pomme",      "hu": "alma",       "ko": "사과"   },
-{ "en": "pear",       "fi": "päärynä",      "fr": "poire",      "hu": "körte",      "ko": "배"     },
-{ "en": "peach",      "fi": "persikka",     "fr": "pêche",      "hu": "őszibarack", "ko": "복숭아" },
-{ "en": "banana",     "fi": "banaani",      "fr": "banane",     "hu": "banán",      "ko": "바나나" },
-{ "en": "plum",       "fi": "luumu",        "fr": "prune",      "hu": "szilva",     "ko": "자두"   },
+{ "en": "apple",      "fi": "omena",        "fr": "pomme",      "es": "(la) manzana",  "hu": "alma",       "ko": "사과"   },
+{ "en": "pear",       "fi": "päärynä",      "fr": "poire",      "es": "(la) pera",     "hu": "körte",      "ko": "배"     },
+{ "en": "peach",      "fi": "persikka",     "fr": "pêche",      "es": "(el) melocotón","hu": "őszibarack", "ko": "복숭아" },
+{ "en": "banana",     "fi": "banaani",      "fr": "banane",     "es": "(el) plátano",  "hu": "banán",      "ko": "바나나" },
+{ "en": "plum",       "fi": "luumu",        "fr": "prune",      "es": "(la) ciruela",  "hu": "szilva",     "ko": "자두"   },
 
-{ "en": "strawberry", "fi": "mansikka",     "fr": "fraise",     "hu": "eper",       "ko": "딸기"      },
-{ "en": "raspberry",  "fi": "vadelma",      "fr": "framboise",  "hu": "málna",      "ko": "라즈베리" },
-{ "en": "blackberry", "fi": "karhunvatukka","fr": "mûre",       "hu": "földi szeder","ko": "블랙베리"},
-{ "en": "blueberry",  "fi": "mustikka",     "fr": "myrtille",   "hu": "áfonya",     "ko": "블루베리" },
-{ "en": "lemon",      "fi": "sitruuna",     "fr": "citron",     "hu": "citrom",     "ko": "레몬"      },
+{ "en": "strawberry", "fi": "mansikka",     "fr": "fraise",     "es": "(la) fresa",    "hu": "eper",       "ko": "딸기"      },
+{ "en": "raspberry",  "fi": "vadelma",      "fr": "framboise",  "es": "(la) frambuesa","hu": "málna",      "ko": "라즈베리" },
+{ "en": "blackberry", "fi": "karhunvatukka","fr": "mûre",       "es": "(la) mora",     "hu": "földi szeder","ko": "블랙베리"},
+{ "en": "blueberry",  "fi": "mustikka",     "fr": "myrtille",   "es": "(el) arándano", "hu": "áfonya",     "ko": "블루베리" },
+{ "en": "lemon",      "fi": "sitruuna",     "fr": "citron",     "es": "(el) limón",    "hu": "citrom",     "ko": "레몬"      },
 
-{ "en": "nut",        "fi": "pähkinä",      "fr": "noix",       "hu": "dió",        "ko": "견과"   },
-{ "en": "hazelnut",   "fi": "hasselpähkinä","fr": "noisette",   "hu": "mogyoró",    "ko": "개암"   },
-{ "en": "walnut",     "fi": "saksanpähkinä","fr": "noix",       "hu": "dió",        "ko": "호두"   },
-{ "en": "almond",     "fi": "manteli",      "fr": "amande",     "hu": "mandula",    "ko": "아몬드" },
+{ "en": "nut",        "fi": "pähkinä",      "fr": "noix",       "es": "(el) limón",    "hu": "dió",        "ko": "견과"   },
+{ "en": "hazelnut",   "fi": "hasselpähkinä","fr": "noisette",   "es": "(el) limón",    "hu": "mogyoró",    "ko": "개암"   },
+{ "en": "walnut",     "fi": "saksanpähkinä","fr": "noix",       "es": "(el) limón",    "hu": "dió",        "ko": "호두"   },
+{ "en": "almond",     "fi": "manteli",      "fr": "amande",     "es": "(la) almendra", "hu": "mandula",    "ko": "아몬드" },
 
 { "en": "fruit",      "fi": "hedelmä",      "fr": "fruit",      "hu": "gyümölcs",   "ko": "과일"    },
 
