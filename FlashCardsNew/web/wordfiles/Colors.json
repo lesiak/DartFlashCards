@@ -1,21 +1,20 @@
 [
 
-{ "en": "yellow", 		"ko": "노란색, 노랗다",       	"fi": "keltainen",          "fr": "jaune" },
-{ "en": "white",     "ko": "하얀색, 하얗다",         "fi": "valkoinen",          "fr": "blanc" },
-{ "en": "black",     "ko": "까만색, 까맣다",         "fi": "musta",          "fr": "noir" },
-{ "en": "red",     "ko": "빨간색, 빨갈다",         "fi": "punainen",          "fr": "rouge" },
-{ "en": "blue",     "ko": "파란색, 파랗다",        "fi": "sininen",          "fr": "bleu" },
-{ "en": "blue (nature)",     "ko": "푸르다",        "fi": "sininen",          "fr": "bleu" },
-{ "en": "green",     	"ko": "초록색",       	"fi": "vihreä",          "fr": "vert" },
-{ "en": "orange",      "ko": "오렌지색",        "fi": "oranssi",          "fr": "" },
-{ "en": "pink",      "ko": "분홍색 (powder + red + colour)",         "fi": "vaaleanpunainen",          "fr": "rose" },
-{ "en": "purple",      "ko": "보라색",         "fi": "",          "fr": "" },
-{ "en": "brown",      "ko": "밤색",         "fi": "ruskea",          "fr": "brun, marron" },
-{ "en": "grey",      "ko": "회색",         "fi": "harmaa",          "fr": "gris" },
-{ "en": "violet",      "ko": "보라색",         "fi": "violetti",          "fr": "vert" },
+{ "en": "yellow", 	 "fi": "keltainen",      "fr": "jaune",    "es": "amarillo",  "ko": "노란색, 노랗다" },
+{ "en": "white",     "fi": "valkoinen",      "fr": "blanc",    "es": "blanco",    "ko": "하얀색, 하얗다" },
+{ "en": "black",     "fi": "musta",          "fr": "noir",     "es": "negro",     "ko": "까만색, 까맣다" },
+{ "en": "red",       "fi": "punainen",       "fr": "rouge",    "es": "rojo",      "ko": "빨간색, 빨갈다" },
+{ "en": "blue",      "fi": "sininen",        "fr": "bleu",     "es": "azul",      "ko": "파란색, 파랗다, 푸르다" },
+{ "en": "green",     "fi": "vihreä",         "fr": "vert",     "es": "verde",     "ko": "초록색" },
+{ "en": "orange",    "fi": "oranssi",        "fr": "" ,        "es": "",          "ko": "오렌지색"},
+{ "en": "pink",      "fi": "vaaleanpunainen","fr": "rose",     "es": "rosa",      "ko": "분홍색 (powder + red + colour)" },
+{ "en": "brown",     "fi": "ruskea",         "fr": "brun, marron", "es": "marrón","ko": "밤색"},
+{ "en": "grey",      "fi": "harmaa",         "fr": "gris" ,    "es": "gris",      "ko": "회색"},
+{ "en": "violet",    "fi": "violetti",       "fr": "violet",   "es": "violeta",   "ko": "보라색" },
+{ "en": "purple",    "fi": "",               "fr": "pourpre",  "es": "morado",    "ko": "보라색" },
 
-{ "en": "colorful",      "ko": "화려한",         "fi": "värikäs",          "fr": "coloré" },
-{ "en": "colourless",      "ko": "무색의",         "fi": "väritön",          "fr": "incolore, sans couleur" }
+{ "en": "colorful",  "fi": "värikäs",        "fr": "coloré" ,  "es": "",          "ko": "화려한"},
+{ "en": "colourless","fi": "väritön",        "fr": "incolore, sans couleur", "es": "incoloro", "ko": "무색의" }
 
 
 ]

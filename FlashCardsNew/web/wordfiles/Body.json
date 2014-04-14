@@ -3,7 +3,7 @@
 
 { "en": "chest",     "fi": "rinta",    "fr": "poitrine",    "es": "(el) pecho",  "hu": "mellkas", "ko": "가슴"},
 { "en": "heart",     "fi": "sydän",    "fr": "cœur",        "es": "(el) corazón","hu": "szív",    "ko": "심장 (heart + organ)"  },
-{ "en": "leg",       "fi": "jalka",    "fr": "jambe",       "es": "",            "hu": "láb",     "ko": "다리"    },
+{ "en": "leg",       "fi": "jalka",    "fr": "jambe",       "es": "(la) pierna", "hu": "láb",     "ko": "다리"    },
 { "en": "foot",      "fi": "jalka",    "fr": "pied",        "es": "(el) pie",    "hu": "láb",     "ko": "발"      },
 
 { "en": "head",      "fi": "pää",      "fr": "tête",        "es": "(la) cabeza", "hu": "fej",     "ko": "머리" },
