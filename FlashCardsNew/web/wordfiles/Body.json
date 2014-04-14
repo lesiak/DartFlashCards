@@ -1,17 +1,17 @@
 [
 
 
-{ "en": "chest",     "fi": "rinta",    "fr": "poitrine",    "hu": "mellkas", "ko": "가슴"},
-{ "en": "heart",     "fi": "sydän",    "fr": "cœur",        "hu": "szív",    "ko": "심장 (heart + organ)"  },
-{ "en": "leg",       "fi": "jalka",    "fr": "jambe",       "hu": "láb",     "ko": "다리"    },
-{ "en": "foot",      "fi": "jalka",    "fr": "pied",        "hu": "láb",     "ko": "발"      },
+{ "en": "chest",     "fi": "rinta",    "fr": "poitrine",    "es": "(el) pecho",  "hu": "mellkas", "ko": "가슴"},
+{ "en": "heart",     "fi": "sydän",    "fr": "cœur",        "es": "(el) corazón","hu": "szív",    "ko": "심장 (heart + organ)"  },
+{ "en": "leg",       "fi": "jalka",    "fr": "jambe",       "es": "",            "hu": "láb",     "ko": "다리"    },
+{ "en": "foot",      "fi": "jalka",    "fr": "pied",        "es": "(el) pie",    "hu": "láb",     "ko": "발"      },
 
-{ "en": "head",      "fi": "pää",      "fr": "tête",        "hu": "fej",     "ko": "머리" },
-{ "en": "face",      "fi": "silmä",    "fr": "œil",         "hu": "arc",     "ko": "얼굴" },
-{ "en": "eye",       "fi": "kasvot",   "fr": "face, visage","hu": "szem",    "ko": "눈"   },
-{ "en": "brain",     "fi": "aivot",    "fr": "cerveau",     "hu": "agy",     "ko": "뇌"   },
-{ "en": "neck",      "fi": "kaula",    "fr": "cou",         "hu": "nyak",    "ko": "목"   },
-{ "en": "tongue",    "fi": "kieli",    "fr": "langue",      "hu": "nyelv",   "ko": "혀"   },
+{ "en": "head",      "fi": "pää",      "fr": "tête",        "es": "(la) cabeza", "hu": "fej",     "ko": "머리" },
+{ "en": "eye",       "fi": "silmä",    "fr": "œil",         "es": "(el) ojo",    "hu": "szem",     "ko": "얼굴" },
+{ "en": "face",      "fi": "kasvot",   "fr": "face, visage",                     "hu": "arc",    "ko": "눈"   },
+{ "en": "brain",     "fi": "aivot",    "fr": "cerveau",     "es": "(el) cerebro","hu": "agy",     "ko": "뇌"   },
+{ "en": "neck",      "fi": "kaula",    "fr": "cou",         "es": "(el) cuello", "hu": "nyak",    "ko": "목"   },
+{ "en": "tongue",    "fi": "kieli",    "fr": "langue",      "es": "(la) lengua", "hu": "nyelv",   "ko": "혀"   },
 { "en": "ear",       "fi": "korva",    "fr": "oreille",     "hu": "fül",     "ko": "귀"   },
 { "en": "body",      "fi": "keho",     "fr": "corps",       "hu": "",     "ko": "몸"   },
 { "en": "hand",      "fi": "käsi",     "fr": "main",        "hu": "",     "ko": "손"   },
