@@ -31,18 +31,18 @@
             <tr>
               
               <th class="lang">English</th>
-              <th class="lang">Korean</th>
-              <th class="lang">Finnish</th>
-              <th class="lang">French</th>
+              <th class="lang">{{getLangName(primaryLang)}}</th>
+              <th class="lang">{{getLangName(secondaryLang)}}</th>
+              <th class="lang">{{getLangName(thirdLang)}}</th>
               <th class="deck">Deck</th>        
             </tr>
           </thead>
           <tbody>                                                 
             <tr template repeat="{{matchingCards}}">                
                 <td>{{card.en}}</td>
-                <td>{{card.ko}}</td>
-                <td>{{card.fi}}</td>
-                <td>{{card.fr}}</td>
+                <td>{{first}}</td>
+                <td>{{second}}</td>
+                <td>{{third}}</td>
                 <td>{{deckName}}</td>
             </tr>
                                       
