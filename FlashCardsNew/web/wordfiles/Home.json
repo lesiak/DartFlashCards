@@ -1,19 +1,20 @@
 [
 
-{ "en": "house",       "fi": "talo",       "fr": "",        "ko": "" },
-{ "en": "home",        "fi": "koti",       "fr": "maison", "ko": "집"      },
-{ "en": "apartment",   "fi": "huoneisto",  "fr": "appartement",       "ko": "아파트, 빌라" },
-{ "en": "room",        "fi": "huone",      "fr": "chambre",      "hu": "szoba", "ko": "방" },
-{ "en": "door",        "fi": "ovi",        "fr": "porte",        "hu": "ágy",   "ko": "문" },    
+{ "en": "house",       "fi": "talo",       "fr": "",             "es": "(la) casa",   "ko": "" },
+{ "en": "home",        "fi": "koti",       "fr": "maison",       "ko": "집"      },
+{ "en": "apartment",   "fi": "huoneisto",  "fr": "appartement",                       "ko": "아파트, 빌라" },
+{ "en": "room",        "fi": "huone",      "fr": "chambre",      "hu": "szoba",       "ko": "방" },
+{ "en": "door",        "fi": "ovi",        "fr": "porte",        "es": "(la) puerta", "hu": "ágy",   "ko": "문" },    
 { "en": "window",      "fi": "ikkuna",     "fr": "fenêtre",      "hu": "ablak", "ko": "창, 창문"   },   
 { "en": "furniture",   "fi": "kalusteet",  "fr": "meubles",      "hu": "bútor", "ko": "가구" },
 { "en": "refrigerator","fi": "jääkaappi",  "fr": "réfrigérateur",  "ko": "냉장고" },
 { "en": "washing machine","fi": "pesukone","fr": "machine à laver", "ko": "세탁기" },
-{ "en": "chair",       "fi": "tuoli",      "fr": "chaise",       "hu": "szék",  "ko": "의자" },
+{ "en": "chair",       "fi": "tuoli",      "fr": "chaise",       "es": "(la) silla",  "hu": "szék",  "ko": "의자" },
 
+{ "en": "table",       "fi": "pöytä",      "fr": "table",        "es": "(la) mesa",   "ko": "책상" },
 { "en": "(reading) desk", "fi": "kirjoituspöytä",    "fr": "pupitre", "ko": "책상" },
 
-{ "en": "bed",         "fi": "sänky, vuode",  "fr": "lit",               "hu": "ágy",    "ko": "침대 (sleep + stage)" },
+{ "en": "bed",         "fi": "sänky, vuode",  "fr": "lit",        "es": "(la) cama",  "hu": "ágy",    "ko": "침대 (sleep + stage)" },
 { "en": "bedroom",     "fi": "makuuhuone",    "fr": "chambre à coucher",                 "ko": "침실 (sleep + room)" },
 
 { "en": "blanket",     "fi": "viltti",     "fr": "couverture", "ko": "담요" },

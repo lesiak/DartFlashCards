@@ -1,8 +1,8 @@
 [
  
-{ "en": "car",        "ko": "자동차",      "fi": "auto",    "fr": "voiture" },
-{ "en": "train",        "ko": "기차",     "fi": "juna",    "fr": "train" },
-{ "en": "metro",        "ko": "지하철",    "fi": "maanalainen",    "fr": "métro" },
+{ "en": "car",         "fi": "auto",       "fr": "voiture",   "es": "(el) coche",  "ko": "자동차" },
+{ "en": "train",       "fi": "juna",       "fr": "train",     "es": "(el) tren",   "ko": "기차" },
+{ "en": "metro",       "fi": "maanalainen","fr": "métro",     "es": "(el) metro",  "ko": "지하철" },
 { "en": "tram",         "ko": "시가 전차",          "fi": "raitiovaunu",    "fr": "tram" },
 { "en": "bicycle",      "ko": "자전거",    "fi": "polkupyörä",    "fr": "vélo" },
 { "en": "ship",         "ko": "배",          "fi": "laiva",    "fr": "bateau" },

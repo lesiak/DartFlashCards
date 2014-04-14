@@ -1,5 +1,5 @@
 [
-{ "en": "map",        "fi": "kartta" ,   "fr":"carte",    "ko": "지도"},
+{ "en": "map",        "fi": "kartta" ,   "fr":"carte",    "es": "(el) mapa",     "ko": "지도"},
 { "en": "church",     "fi": "kirkko",    "fr":"église",   "es": "(la) iglesia",  "ko": "교회"},
 { "en": "pharmacy",   "fi": "apteekki",  "fr":"pharmacie","es": "(la) farmacia", "ko": "약국"},
 { "en": "castle",     "fi": "linna" ,    "fr":"château",  "es": "(el) castillo", "ko": "성"},
