@@ -11,17 +11,17 @@
 { "en": "bread",       "ko": "빵",         "fi": "leipä",    "fr": "pain" },
 { "en": "salt",       "ko": "소금",         "fi": "suola",    "fr": "sel" },
 { "en": "sugar",       "ko": "설탕",         "fi": "sokeri",    "fr": "sucre" },
-{ "en": "garlic",       "ko": "마늘",         "fi": "valkosipuli",    "fr": "ail" },
+{ "en": "garlic",       "fi": "valkosipuli", "fr": "ail",     "es": "(el) ajo", "ko": "마늘" },
 
 { "en": "tea",       "ko": "차",         "fi": "tee",    "fr": "thé" },
 { "en": "coffee",       "ko": "커피",         "fi": "kahvi",    "fr": "café" },
 { "en": "juice",       "ko": "주스",         "fi": "mehu",    "fr": "jus" },
 
 { "en": "cheese",       "ko": "치즈",         "fi": "juusto",    "fr": "fromage" },
-{ "en": "cucumber",       "ko": "오이",         "fi": "kurkku",    "fr": "concombre" },
-{ "en": "carrot",       "ko": "당근",         "fi": "porkkana",    "fr": "carotte" },
-{ "en": "aubergine",       "ko": "가지",         "fi": "munakoiso",    "fr": "aubergine" },
-{ "en": "potato",       "ko": "감자",         "fi": "peruna",    "fr": "pomme de terre" },
+{ "en": "cucumber",      "fi": "kurkku",    "fr": "concombre",     "es": "(el) pepino",   "ko": "오이" },
+{ "en": "carrot",        "fi": "porkkana",  "fr": "carotte",       "es": "",              "ko": "당근" },
+{ "en": "aubergine",     "fi": "munakoiso", "fr": "aubergine",     "es": "(la) berenjena","ko": "가지" },
+{ "en": "potato",        "fi": "peruna",    "fr": "pomme de terre","es": "(la) patata", "ko": "감자" },
 { "en": "french fries",    "ko": "감자튀김",    "fi": "ranskalaiset" , "fr":""},
 
 { "en": "pumpkin",       "ko": "호박",         "fi": "kurpitsa",    "fr": "citrouille" },
@@ -29,7 +29,7 @@
 
 
 { "en": "mushroom",       "ko": "버섯",         "fi": "sieni",    "fr": "champignon" },
-{ "en": "onion",       "ko": "양파 (the West + Welsh onion)",         "fi": "sipuli",    "fr": "oignon" },
+{ "en": "onion",          "fi": "sipuli",    "fr": "oignon", "es": "(la) cebolla",    "ko": "양파 (the West + Welsh onion)" },
 
 { "en": "soup",       "ko": "국",         "fi": "keitto",    "fr": "soupe" },
 { "en": "meat",       "ko": "고기",         "fi": "liha",    "fr": "viande" },
