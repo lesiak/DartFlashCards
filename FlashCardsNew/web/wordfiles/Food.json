@@ -77,10 +77,10 @@
 { "en": "chef",         "ko": "요리사",     "fi": "kokki",        "fr": "chef de cuisine" },
 { "en": "diet",         "ko": "다이어트",     "fi": "ruokavalio",        "fr": "" },
 
-{ "en": "knife",        "ko": "칼",         "fi": "veitsi",    "fr": "couteau" },
-{ "en": "spoon",        "ko": "스푼",       "fi": "lusikka",    "fr": "cuillère" },
-{ "en": "fork",         "ko": "포크",       "fi": "haarukka",    "fr": "fourchette" },
-{ "en": "chopsticks",   "ko": "젓가락",     "fi": "syömäpuikot",    "fr": "baguettes" },
+{ "en": "knife",        "fi": "veitsi",     "fr": "couteau",    "es": "",              "ko": "칼" },
+{ "en": "spoon",        "fi": "lusikka",    "fr": "cuillère",   "es": "(la) cuchara",  "ko": "스푼" },
+{ "en": "fork",         "fi": "haarukka",   "fr": "fourchette",                        "ko": "포크" },
+{ "en": "chopsticks",   "fi": "syömäpuikot","fr": "baguettes",  "es": "palillos",      "ko": "젓가락"},
 { "en": "cup",          "ko": "컵",         "fi": "kuppi",    "fr": "tasse" }, 
 { "en": "plate",          "ko": "",         "fi": "lautanen",    "fr": "" },
 
