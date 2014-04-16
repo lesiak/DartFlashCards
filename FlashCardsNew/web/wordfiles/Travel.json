@@ -26,15 +26,15 @@
 { "en": "balloon",     "fi": "ilmapallo",    "fr": "ballon",   "es": "(el) globo",      "ko": "풍선" },
 { "en": "fly",         "fi": "lentää",       "fr": "voler",    "es": "volar",           "ko": "날다" },
 { "en": "drive",       "fi": "kuljettaa",    "fr": "conduire", "es": "",                "ko": "운전하다" },
-{ "en": "driver",       "ko": "운전사",       "fi": "kuljettaja",    "fr": "conducteur" },
-{ "en": "station",    "ko": "역",    "fi": "asema" , "fr":"station"},
-{ "en": "platform",    "ko": "플랫폼, 승강장",    "fi": "asemalaituri" , "fr":" quai "},
+{ "en": "driver",      "fi": "kuljettaja",   "fr": "conducteur","es": "",               "ko": "운전사" },
+{ "en": "station",     "fi": "asema" ,       "fr":"station",   "es": "(la) estación",   "ko": "역"},
+{ "en": "platform",    "fi": "asemalaituri", "fr":"quai",      "es": "",                "ko": "플랫폼, 승강장"},
 
-{ "en": "exit",    "ko": "출구",    "fi": "uloskäynti" , "fr":"sortie"},
-{ "en": "entrance",    "ko": "입구",    "fi": "sisäänkäynti" , "fr":"entrée"},
+{ "en": "exit",        "fi": "uloskäynti",   "fr":"sortie",    "es": "(la) salida",     "ko": "출구"},
+{ "en": "entrance",    "fi": "sisäänkäynti", "fr":"entrée",    "es": "(la) entrada",    "ko": "입구"},
 
-{ "en": "get to",        "ko": "도착하다",          "fi": "päästä",    "fr": "?" },
-{ "en": "arrive",        "ko": "도착하다",          "fi": "saapua",    "fr": "arriver" },
+{ "en": "get to",      "fi": "päästä",       "fr": "?",                               "ko": "도착하다" },
+{ "en": "arrive",      "fi": "saapua",       "fr": "arriver",                       "ko": "도착하다" },
 { "en": "to leave (from)",        "ko": "떠나다",          "fi": "lähteä",    "fr": "partir" },
 { "en": "to transfer, change",        "ko": "갈아 타다",          "fi": "vaihtaa",    "fr": "" },
 
@@ -46,12 +46,12 @@
 { "en": "to ride",        "ko": "타다",          "fi": "",    "fr": "" },
 { "en": "to burn",        "ko": "타다",          "fi": "polttaa",    "fr": "" },
 
-{ "en": "a visit",        "ko": "방문",          "fi": "vierailu",    "fr": "" },
+{ "en": "a visit",        "fi": "vierailu",    "fr": "visite",  "ko": "방문" },
 
-{ "en": "class",        "ko": "등",          "fi": "luokka",    "fr": "" },
-{ "en": "line",        "ko": "호선",          "fi": "linja",    "fr": "ligne" },
-{ "en": "route",        "ko": "노선",          "fi": "reitti",    "fr": "itinéraire, route" },
-{ "en": "license plate",        "ko": "번호판",          "fi": "rekisterikilpi",    "fr": "plaque d'immatriculation" },
+{ "en": "class",          "fi": "luokka",    "fr": "", "ko": "등" },
+{ "en": "line",           "fi": "linja",     "fr": "ligne","ko": "호선" },
+{ "en": "route",          "fi": "reitti",    "fr": "itinéraire, route","ko": "노선" },
+{ "en": "license plate",  "fi": "rekisterikilpi",    "fr": "plaque d'immatriculation",  "ko": "번호판" },
 
 { "en": "complicated",        "ko": "복잡하다",          "fi": "monimutkainen",    "fr": "compliqué" },
 { "en": "immediately, right away, right",        "ko": "바로",          "fi": "heti",    "fr": "immédiatement" },
