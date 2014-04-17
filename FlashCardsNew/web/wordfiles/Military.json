@@ -1,15 +1,15 @@
 [
 
  
-{ "en": "soldier",      "ko": "군인",        "fi": "sotilas",    "fr": "soldat" },
-{ "en": "army",         "ko": "군대",        "fi": "armeija",    "fr": "" },
-{ "en": "war",          "ko": "전쟁",        "fi": "sota",    "fr": "guerre" },
-{ "en": "enemy",        "ko": "적",          "fi": "vihollinen",    "fr": "ennemi" },
-{ "en": "weapon",        "ko": "무기",       "fi": "ase",    "fr": "arme" },
-{ "en": "nuclear weapon", "ko": "핵무기",    "fi": "ydinase",    "fr": "arme nucléaire" },
+{ "en": "soldier",      "fi": "sotilas",    "fr": "soldat",    "es": "(el) soldado",  "ko": "군인" },
+{ "en": "army",         "fi": "armeija",    "fr": "armée",     "es": "(el) ejército", "ko": "군대" },
+{ "en": "war",          "fi": "sota",       "fr": "guerre" ,   "es": "(la) guerra",   "ko": "전쟁"},
+{ "en": "enemy",        "fi": "vihollinen", "fr": "ennemi",    "es": "(el) enemigo",  "ko": "적" },
+{ "en": "weapon",       "fi": "ase",        "fr": "arme",      "es": "(la) arma",     "ko": "무기" },
+{ "en": "nuclear weapon","fi": "ydinase",   "fr": "arme nucléaire","es": "(la) arma nuclear", "ko": "핵무기" },
 
 
-{ "en": "gun",          "ko": "총",          "fi": "pyssy",    "fr": "" },
+{ "en": "gun",          "fi": "pyssy",      "fr": "",          "es": "(la) pistola",  "ko": "총" },
 { "en": "rifle",        "ko": "소총",          "fi": "kivääri",    "fr": "fusil" },
 { "en": "pistol",       "ko": "권총",          "fi": "pistooli",    "fr": "pistolet (m)" },
 { "en": "machine gun",  "ko": "기관총",          "fi": "konekivääri",    "fr": "mitrailleuse" },

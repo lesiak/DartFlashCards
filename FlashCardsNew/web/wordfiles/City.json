@@ -34,11 +34,11 @@
 
 { "en": "other side",        "ko": "건너편",          "fi": "toinen puoli (toisella puolella)",    "fr": "?" },
 
-{ "en": "bench",         "ko": "벤치",       "fi": "penkki",          "fr": "banc" },
-{ "en": "quiet",         "ko": "조용하다",       "fi": "hiljainen",          "fr": "calme, tranquille" },
-{ "en": "noisy",         "ko": "시끄럽하다",       "fi": "meluisa",          "fr": "bruyant" },
+{ "en": "bench",            "fi": "penkki",          "fr": "banc", "ko": "벤치" },
+{ "en": "quiet",            "fi": "hiljainen",       "fr": "calme, tranquille", "ko": "조용하다" },
+{ "en": "noisy",            "fi": "meluisa",         "fr": "bruyant","ko": "시끄럽하다" },
 
-{ "en": "crowd",            "fi": "väkijoukko",          "fr": "foule",   "ko": "" },
+{ "en": "crowd",            "fi": "väkijoukko",      "fr": "foule",   "ko": "" },
 
 
 { "en": "prison",           "fi": "vankila",         "fr": "prison, (slang) cabane", "ko": "교도소" },

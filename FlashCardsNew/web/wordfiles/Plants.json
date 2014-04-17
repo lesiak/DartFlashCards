@@ -1,22 +1,22 @@
 [
 
-{ "en": "seed",     "ko": "씨",    "fi": "siemen",   "fr":"graine"},
-{ "en": "bamboo",    "ko": "대나무",    "fi": "bambu" , "fr":"bambou"},
-{ "en": "rose",    "ko": "장미",    "fi": "ruusu" , "fr":"rose"},
-{ "en": "tulip",    "ko": "튤립",    "fi": "tulppaani" , "fr":"rose"},
-{ "en": "oak",    "ko": "참나무",    "fi": "tammi" , "fr":"chêne"},
-{ "en": "birch",    "ko": "자작나무",    "fi": "koivu" , "fr":"bouleau"},
-{ "en": "bush",    "ko": "덤불",    "fi": "pensas" , "fr":"buisson"},
-{ "en": "palm tree",    "ko": "야자 나무",    "fi": "palmu" , "fr":"palmier"},
+{ "en": "seed",      "fi": "siemen",   "fr":"graine",   "ko": "씨"},
+{ "en": "bamboo",    "fi": "bambu",    "fr":"bambou",   "es": "(el) bambú",  "ko": "대나무"},
+{ "en": "rose",      "fi": "ruusu",    "fr":"rose",     "es": "(la) rosa",   "ko": "장미"},
+{ "en": "tulip",     "fi": "tulppaani","fr":"tulipe",   "es": "(el) tulipán","ko": "튤립"},
+{ "en": "oak",       "fi": "tammi",    "fr":"chêne",    "es": "(el) roble",  "ko": "참나무"},
+{ "en": "birch",     "fi": "koivu",    "fr":"bouleau",  "es": "(el) abedul", "ko": "자작나무"},
+{ "en": "bush",      "fi": "pensas",   "fr":"buisson",  "es": "(el) arbusto","ko": "덤불" },
+{ "en": "palm tree", "fi": "palmu",    "fr":"palmier",  "es": "(la) palmera","ko": "야자 나무"},
 
-{ "en": "corn",    "ko": "",    "fi": "maissi" , "fr":"maïs"},
+{ "en": "corn",      "fi": "maissi" ,  "fr":"maïs",     "es": "(el) maíz",   "ko": ""},
 
-{ "en": "cotton",    "ko": "솜",    "fi": "puuvilla" , "fr":"coton"},
+{ "en": "cotton",    "fi": "puuvilla" ,"fr":"coton",    "es": "(el) algodón","ko": "솜"},
 
-{ "en": "grass (plant)",    "ko": " 풀, 잡초",    "fi": "heinä, ruoho" , "fr":"herbe"},
-{ "en": "grass (lawn)",    "ko": "잔디, 잔디밭",    "fi": "nurmi, nurmikko, ruohokenttä" , "fr":"pelouse, gazon"},
+{ "en": "grass (plant)",   "fi": "heinä, ruoho" , "fr":"herbe", "ko": " 풀, 잡초"},
+{ "en": "grass (lawn)",    "fi": "nurmi, nurmikko, ruohokenttä" , "fr":"pelouse, gazon", "ko": "잔디, 잔디밭"},
 
-{ "en": "branch",  "fi": "oksa",   "fr":" branche (f), rameau (m)", "hu": "ág",    "ko": ""  },
+{ "en": "branch",  "fi": "oksa",   "fr":" branche (f), rameau (m)",    "ko": ""  },
 
 { "en": "plant",      "ko": "식물 (plant + thing)",    "fi": "kasvi",   "fr":"plante"}
 
