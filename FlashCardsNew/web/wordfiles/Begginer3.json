@@ -1,7 +1,7 @@
 [
 
-{ "en": "read",      "ko": "읽다",       "fi": "lukea",        "fr": "lire" },
-{ "en": "write",     "ko": "쓰다",       "fi": "kirjoittaa",   "fr": "écrire" },
+{ "en": "read",      "fi": "lukea",      "fr": "lire",     "es": "leer",    "ko": "읽다" },
+{ "en": "write",     "fi": "kirjoittaa", "fr": "écrire",                "ko": "쓰다" },
 
 { "en": "letter",    "ko": "편지",       "fi": "kirje",        "fr": "lettre" },
 { "en": "message",   "ko": "메시지",     "fi": "viesti",       "fr": "message" },
@@ -16,7 +16,7 @@
 { "en": "later",      "ko": "나중에",     "fi": "myöhemmin",   "fr": "plus tard, ensuite" },
 { "en": "already",    "ko": "벌써, 이미", "fi": "jo",          "fr": "déjà" },
 
-{ "en": "always",       "ko": "항상, 늘, 언제나",       "fi": "aina",    "fr": "toujours" },
+{ "en": "always",     "fi": "aina",        "fr": "toujours",  "es": "siempre",    "ko": "항상, 늘, 언제나" },
 { "en": "again",       "ko": "다시, 또",       "fi": "taas, uudelleen, jälleen",    "fr": "de nouveau, encore" },
 { "en": "now",          "ko": "지금",    "fi": "nyt",       "fr": "maintenant" },
 { "en": "today",        "ko": "오늘",    "fi": "tänään",    "fr": "aujourd'hui" },

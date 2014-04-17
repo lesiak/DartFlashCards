@@ -12,7 +12,7 @@
 { "en": "bring",       "ko": " 가져오다 ","fi": "touda",    "fr": "apporter, amener" },
 { "en": "leave (behind)", "ko": " 남기다 ","fi": "jättää",  "fr": "laisser" },
 
-{ "en": "come",        "ko": "오다",      "fi": "tulla",    "fr": "venir" },
+{ "en": "come",        "fi": "tulla",    "fr": "venir",   "es": "venir",  "ko": "오다" },
 { "en": "enter, go in","ko": "들어가다",  "fi": "astua sisään", "fr": "entrer" },
 { "en": "come in",     "ko": "들어오다",  "fi": "",         "fr": "" },
 
@@ -43,13 +43,13 @@
 { "en": "match",      "ko": "성냥",    "fi": "tulitikku" ,  "fr":"allumette"},
  
 
-{ "en": "silver",         "ko": "은",       "fi": "hopea",    "fr": "argent" }, 
-{ "en": "gold",         "ko": "금",       "fi": "kulta",    "fr": "or" },
-{ "en": "iron",         "ko": "철",       "fi": "rauta",    "fr": "fer" },
-{ "en": "steel",         "ko": "강철",       "fi": "teräs",    "fr": "acier" },
-{ "en": "wood (substance)",         "ko": "나무, 목재",       "fi": "puu",    "fr": "bois" },
+{ "en": "silver",       "fi": "hopea",    "fr": "argent",    "es": "(la) plata",   "ko": "은" }, 
+{ "en": "gold",         "fi": "kulta",    "fr": "or",        "es": "(el) oro",     "ko": "금" },
+{ "en": "iron",         "fi": "rauta",    "fr": "fer",       "es": "(el) hierro",  "ko": "철" },
+{ "en": "steel",        "fi": "teräs",    "fr": "acier",     "es": "(el) acero",   "ko": "강철" },
+{ "en": "wood (substance)", "fi": "puu",  "fr": "bois",      "es": "(la) madera",  "ko": "나무, 목재" },
 
-{ "en": "glass (substance)",         "ko": "유리",       "fi": "lasi",    "fr": "verre" },
+{ "en": "glass (substance)","fi": "lasi", "fr": "verre",     "es": "",              "ko": "유리" },
 
 
 { "en": "small",        "fi": "pieni",       "fr": "petit",    "es": "pequeño",    "ko": " 작다" },

@@ -33,8 +33,8 @@
 { "en": "exit",        "fi": "uloskäynti",   "fr":"sortie",    "es": "(la) salida",     "ko": "출구"},
 { "en": "entrance",    "fi": "sisäänkäynti", "fr":"entrée",    "es": "(la) entrada",    "ko": "입구"},
 
-{ "en": "get to",      "fi": "päästä",       "fr": "?",                               "ko": "도착하다" },
-{ "en": "arrive",      "fi": "saapua",       "fr": "arriver",                       "ko": "도착하다" },
+{ "en": "get to",      "fi": "päästä",       "fr": "?",                                 "ko": "도착하다" },
+{ "en": "arrive",      "fi": "saapua",       "fr": "arriver",  "es": "llegar",          "ko": "도착하다" },
 { "en": "to leave (from)",        "ko": "떠나다",          "fi": "lähteä",    "fr": "partir" },
 { "en": "to transfer, change",        "ko": "갈아 타다",          "fi": "vaihtaa",    "fr": "" },
 
