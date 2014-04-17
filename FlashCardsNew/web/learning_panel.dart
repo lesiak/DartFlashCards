@@ -87,13 +87,18 @@ class LearingPanelElement extends PolymerElement {
   void showCurrentQuestion() {
     card = deckEngine.currentCard;
     responsesVisible = false;
-    clearAnswerNodes();
+    clearQuestionPronunciations();
+    clearAnswerPronunciations();
     if (card != null) {
       getPronunciations("en", card.en, "enPro", true);  
     }
   }
   
-  void clearAnswerNodes() {  
+  void clearQuestionPronunciations() {  
+      $['enPro'].nodes.clear();      
+    }
+  
+  void clearAnswerPronunciations() {  
     $['primaryPro'].nodes.clear();
     $['secondaryPro'].nodes.clear();
     $['thirdPro'].nodes.clear();
@@ -120,6 +125,7 @@ class LearingPanelElement extends PolymerElement {
     word = ForvoRequestUtils.sanitizeWord(lang, word);
 
     Element container = $[containerId];    
+    
     String cachedForvoResponse = window.localStorage[lang+"/"+word];
     if (cachedForvoResponse != null) {
       print('found $word pronounciation list in localstorage');
@@ -162,8 +168,7 @@ class LearingPanelElement extends PolymerElement {
    /* if (deckState.currentCard.en != r.requestWord) {
       return;
     }*/    
-    List<Element> pronounciationNodes = createAudioNodes(r);
-    container.nodes.clear();
+    List<Element> pronounciationNodes = createAudioNodes(r);    
     container.nodes.addAll(pronounciationNodes);  
     if (play && !r.items.isEmpty) {
       pronounciationManager.playPronounciation(r.lang, r.word, PronounciationManager.getPreferredPronunciation(r));
