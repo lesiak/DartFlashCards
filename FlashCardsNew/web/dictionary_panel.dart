@@ -22,19 +22,22 @@ class DictionaryPanelElement extends PolymerElement {
   
   @published int dictionarySize;
     
-  DictionaryPanelElement.created() : super.created() {
-    //print('AAAAAAAAAAAAAAAAAA' + deckNames.toString()); 
+  DictionaryPanelElement.created() : super.created() {        
+    new PathObserver(this, 'primaryLang')
+       ..changes.listen((_) {
+          //here we know that primaryLang is loaded
+          loadAllCards();
+       });
   } 
   
   @override
   void enteredView() {
-    super.enteredView();
-    loadAllCards();
+    super.enteredView();   
   }
   
   void loadAllCards() {    
     List<DictionaryTableRow> cards = new List();  
-    var engine = new Engine();
+    var engine = new Engine();    
     Future.forEach(deckNames, 
         (wordfile) => engine.loadDeckFile('./wordfiles/$wordfile.json')
         .then((deckCards) {
@@ -127,7 +130,7 @@ class DictionaryTableRow extends Object with Observable {
   
   
   DictionaryTableRow(this.card, this.deckName, String primLang, String secLang, String thirdLang) {
-    this.first = card.getValueForLang(primLang);
+    this.first = card.getValueForLang(primLang);    
     this.second = card.getValueForLang(secLang);
     this.third = card.getValueForLang(thirdLang);
   }
