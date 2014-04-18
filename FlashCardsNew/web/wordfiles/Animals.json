@@ -1,53 +1,50 @@
 [
 
 
-{ "en": "cat",        	"fi": "kissa",   "fr": "chat",      "es": "(el) gato",   "ko": "고양이" },
-{ "en": "tiger",      	"fi": "tiikeri", "fr": "tigre",     "es": "(el) tigre",  "ko": "호랑이" },
-{ "en": "lion",         "fi": "leijona", "fr": "lion",      "es": "(el) león",   "ko": "사자" },
-{ "en": "dog",        	"fi": "koira",   "fr": "chien",     "es": "(el) perro",  "ko": "개" },
-{ "en": "chicken",    	"fi": "kana",    "fr": "poulet",    "es": "(el) pollo",  "ko": "닭" },
-{ "en": "pig",      	  "fi": "sika",    "fr": "cochon",    "es": "(el) cerdo",  "ko": "돼지" },
-{ "en": "cow",      	  "fi": "lehmä",   "fr": "vache",     "es": "(la) vaca",   "ko": "소" },
-{ "en": "horse",        "fi": "hevonen", "fr": "cheval",    "es": "(el) caballo","ko": "말" },
-{ "en": "sheep",        "fi": "lammas",  "fr": "mouton" ,   "es": "(la) oveja",  "ko": "양"},
-{ "en": "goat",         "fi": "vuohi",   "fr": "chèvre" ,   "es": "(la) cabra",  "ko": "염소"},
+{ "en": "cat",       	"fi": "kissa",     "fr": "chat",      "es": "(el) gato",   "ko": "고양이" },
+{ "en": "tiger",     	"fi": "tiikeri",   "fr": "tigre",     "es": "(el) tigre",  "ko": "호랑이" },
+{ "en": "lion",       "fi": "leijona",   "fr": "lion",      "es": "(el) león",   "ko": "사자" },
+{ "en": "dog",       	"fi": "koira",     "fr": "chien",     "es": "(el) perro",  "ko": "개" },
+{ "en": "chicken",   	"fi": "kana",      "fr": "poulet",    "es": "(el) pollo",  "ko": "닭" },
+{ "en": "pig",      	"fi": "sika",      "fr": "cochon",    "es": "(el) cerdo",  "ko": "돼지" },
+{ "en": "cow",      	"fi": "lehmä",     "fr": "vache",     "es": "(la) vaca",   "ko": "소" },
+{ "en": "horse",      "fi": "hevonen",   "fr": "cheval",    "es": "(el) caballo","ko": "말" },
+{ "en": "sheep",      "fi": "lammas",    "fr": "mouton" ,   "es": "(la) oveja",  "ko": "양"},
+{ "en": "goat",       "fi": "vuohi",     "fr": "chèvre" ,   "es": "(la) cabra",  "ko": "염소"},
 
-{ "en": "fox",      "ko": "여우",     "fi": "kettu",   "fr": "renard" },
-{ "en": "snake",      "ko": "뱀",     "fi": "käärme",   "fr": "serpent" },
-{ "en": "bear",      "ko": "곰",     "fi": "karhu",   "fr": "ours" },
+{ "en": "fox",        "fi": "kettu",     "fr": "renard",    "es": "(el) zorro",  "ko": "여우" },
+{ "en": "snake",      "fi": "käärme",    "fr": "serpent",   "es": "(la) serpiente","ko": "뱀" },
+{ "en": "bear",       "fi": "karhu",     "fr": "ours",      "es": "(el) oso",    "ko": "곰" },
 
-{ "en": "moose, elch",      "ko": "엘크",     "fi": "hirvi",   "fr": "élan" },
-{ "en": "reindeer",      "ko": "순록",     "fi": "poro",   "fr": "renne" },
+{ "en": "moose, elch","fi": "hirvi",     "fr": "élan",      "es": "(el) alce",   "ko": "엘크" },
+{ "en": "reindeer",   "fi": "poro",      "fr": "renne",     "es": "(el) reno",   "ko": "순록" },
 
-{ "en": "wolf",      "ko": "늑대",     "fi": "susi",   "fr": "loup" },
+{ "en": "wolf",       "fi": "susi",      "fr": "loup",      "es": "(el) lobo",   "ko": "늑대" },
 
-
-
-{ "en": "monkey",      "ko": "원숭이",     "fi": "apina",   "fr": "singe" },
-
-{ "en": "hedgehog",      "ko": "hedgehog",     "fi": "siili",   "fr": "hérisson" },
-{ "en": "rabbit",      "ko": "토끼",     "fi": "kani",   "fr": "lapin" },
+{ "en": "monkey",     "fi": "apina",     "fr": "singe",     "es": "(el) mono",   "ko": "원숭이" },
+{ "en": "hedgehog",   "fi": "siili",     "fr": "hérisson",  "es": "(el) erizo",  "ko": "고슴도치" },
+{ "en": "rabbit",     "fi": "kani",      "fr": "lapin",     "es": "(el) conejo", "ko": "토끼" },
  
 
-{ "en": "bird",      "ko": "새",     "fi": "lintu",   "fr": "oiseau" },
-{ "en": "duck",      "ko": "오리",     "fi": "ankka",   "fr": "canard" },
-{ "en": "goose",      "ko": "",     "fi": "hahni",   "fr": "oie" },
-{ "en": "pigeon",      "ko": "비둘기",     "fi": "kyyhkynen",   "fr": "pigeon" },
-{ "en": "eagle",      "ko": "",     "fi": "kotka",   "fr": "aigle" },
-{ "en": "sparrow",      "ko": "",     "fi": "varpunen",   "fr": "moineau" },
-{ "en": "swan",      "ko": "",     "fi": "joutsen",   "fr": "cygne" },
-{ "en": "stork",      "ko": "",     "fi": "haikara",   "fr": "cigogne" },
-{ "en": "gull",      "ko": "",     "fi": "lokki",   "fr": "mouette" },
+{ "en": "bird",       "fi": "lintu",     "fr": "oiseau",    "es": "(la) ave",    "ko": "새" },
+{ "en": "duck",       "fi": "ankka",     "fr": "canard",    "es": "(el) pato",   "ko": "오리" },
+{ "en": "goose",      "fi": "hahni",     "fr": "oie",       "es": "(el) ganso",  "ko": "" },
+{ "en": "pigeon",     "fi": "kyyhkynen", "fr": "pigeon",   "es": "(la) paloma", "ko": "비둘기" },
+{ "en": "eagle",      "fi": "kotka",     "fr": "aigle",     "es": "(la) águila", "ko": "" },
+{ "en": "sparrow",    "fi": "varpunen",  "fr": "moineau",   "es": "(el) gorrión","ko": ""},
+{ "en": "swan",       "fi": "joutsen",   "fr": "cygne",     "es": "(el) cisne",  "ko": ""},
+{ "en": "stork",      "fi": "haikara",   "fr": "cigogne",   "es": "(la) cigüeña","ko": "" },
+{ "en": "gull",       "fi": "lokki",     "fr": "mouette",   "es": "(la) gaviota","ko": "" },
 
-{ "en": "ant",      "ko": "개미",     "fi": "muurahainen",   "fr": "fourmi" },
-{ "en": "butterfly",      "ko": "나비",     "fi": "perhonen",   "fr": "papillon" },
-{ "en": "bee",      "ko": "벌",     "fi": "mehiläinen",   "fr": "abeille" },
+{ "en": "ant",        "fi": "muurahainen","fr": "fourmi",   "es": "(la) hormiga","ko": "개미" },
+{ "en": "butterfly",  "fi": "perhonen",   "fr": "papillon", "es": "(la) mariposa","ko": "나비" },
+{ "en": "bee",        "fi": "mehiläinen", "fr": "abeille",  "es": "(la) abeja",  "ko": "벌" },
 
 
 
-{ "en": "frog",      "ko": "개구리",     "fi": "sammakko",   "fr": "grenouille" },
-{ "en": "puppy",      "ko": "강아지",     "fi": "pentu",   "fr": "chiot" },
-{ "en": "elephant",      "ko": "코끼리",     "fi": "norsu",   "fr": "éléphant" },
+{ "en": "frog",       "fi": "sammakko",   "fr": "grenouille",  "ko": "개구리" },
+{ "en": "puppy",      "fi": "pentu",      "fr": "chiot",       "ko": "강아지" },
+{ "en": "elephant",   "fi": "norsu",      "fr": "éléphant",    "ko": "코끼리" },
 
 { "en": "fish",      "ko": "물고기",     "fi": "kala",   "fr": "poisson" },
 
