@@ -15,12 +15,12 @@
         </tr>
         </thead>
         <tbody>
-        <tr template repeat="{{r in wordRows}}" class={{r.cssClass}}>
-            <td>{{r.card.en}}</td>
-            <td>{{r.first}}</td>
-            <td>{{r.second}}</td>
-            <td>{{r.third}}</td>            
-            <td>{{r.dueIn}}</td>
+        <tr template repeat="{{row in wordRows}}" class={{r.cssClass}}>
+            <td>{{row.card.en}}</td>
+            <td>{{getValueForLang(row.card, primaryLang)}}</td>
+            <td>{{getValueForLang(row.card, secondaryLang)}}</td>
+            <td>{{getValueForLang(row.card, thirdLang)}}</td>            
+            <td>{{row.dueIn}}</td>
         </tr>
         </tbody>
     </table>

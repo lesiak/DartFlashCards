@@ -26,11 +26,7 @@ class WordsTable extends PolymerElement {
     new PathObserver(this, 'cards')
     ..changes.listen((_) {
       wordRows = mapToRowData(cards);
-    });
-    new PathObserver(this, 'primaryLang')
-    ..changes.listen((_) {
-      wordRows = mapToRowData(cards);
-    });  
+    });    
   }
   
  
@@ -46,9 +42,7 @@ class WordsTable extends PolymerElement {
       if (score != null) {     
           dueIn = formatDuration(score.getDueInDuration(currentDate));          
       }
-      WordTableRow r = new WordTableRow(card, cssClass, dueIn, primaryLang, secondaryLang, thirdLang);
-      //to prevent tree shaking
-     // print(r.getValForLang("en"));
+      WordTableRow r = new WordTableRow(card, cssClass, dueIn);
       ret.add(r);    
     }
     return ret;
@@ -77,13 +71,10 @@ class WordsTable extends PolymerElement {
     }
   }
   
-  
-  String getLangName(String lang) {
-    return LangUtils.getLangName(lang);       
-  }
-  
-  
-  
+  String getLangName(String lang) => LangUtils.getLangName(lang);
+      
+  String getValueForLang(Card c, String lang) => c.getValueForLang(lang);
+          
   // This lets the Bootstrap CSS "bleed through" into the Shadow DOM
   // of this element.
   bool get applyAuthorStyles => true;
@@ -91,26 +82,12 @@ class WordsTable extends PolymerElement {
 
 
 class WordTableRow extends Object with Observable {
-  @observable Card card;
   
-  @observable String first;
-  @observable String second;
-  @observable String third;
-  
-  
+  @observable Card card; 
   @observable String cssClass;
   @observable String dueIn;
   
-  WordTableRow(this.card, this.cssClass, this.dueIn, String primLang, String secLang, String thirdLang) {
-    this.first = card.getValueForLang(primLang);
-    this.second = card.getValueForLang(secLang);
-    this.third = card.getValueForLang(thirdLang);
-  } 
-  
-  //String getValForLang(lang) {
-  //  return card.getValueForLang(lang);
-  //}
-  
-  
+  WordTableRow(this.card, this.cssClass, this.dueIn);
+ 
 }
 

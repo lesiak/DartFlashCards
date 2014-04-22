@@ -96,15 +96,13 @@ class DictionaryPanelElement extends PolymerElement {
     } 
   }
   
-  String getValueForLang(Card c, String lang) {
-    return c.getValueForLang(lang);
-  }
-   
+  String getLangName(String lang) => LangUtils.getLangName(lang);
+    
+  String getValueForLang(Card c, String lang) => c.getValueForLang(lang);
+  
   bool get applyAuthorStyles => true;
   
-  String getLangName(String lang) {
-    return LangUtils.getLangName(lang);
-  }
+  
     
 }
 
