@@ -49,6 +49,8 @@ class DictionaryPanelElement extends PolymerElement {
       .then((_) {
         allCards = cards;
         dictionarySize = allCards.length;
+        var cardsInPrimLangSize = allCards.where((r) => isCardNonEmptyForLang(r,primaryLang)).length;
+        print('Non empty in ${primaryLang} $cardsInPrimLangSize');
       });        
   }
   
@@ -67,6 +69,17 @@ class DictionaryPanelElement extends PolymerElement {
       matchingCards = toObservable(filtered.toList());
     }
   }
+  
+  
+  
+  bool isCardNonEmptyForLang(DictionaryTableRow row, String langName) {
+    String cardValue = row.card.getValueForLang(langName); 
+    if (cardValue == null) {
+          return false;
+     } else {
+       return cardValue.trim().isNotEmpty;
+     }         
+   }
   
   bool isCardMatching(DictionaryTableRow row) {
     var searchRegex = new RegExp(searchTerm, caseSensitive: false);     
