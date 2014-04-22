@@ -1,12 +1,12 @@
 [
 
-{ "en": "read",      "fi": "lukea",      "fr": "lire",     "es": "leer",    "ko": "읽다" },
-{ "en": "write",     "fi": "kirjoittaa", "fr": "écrire",                "ko": "쓰다" },
+{ "en": "read",      "fi": "lukea",      "fr": "lire",     "es": "leer",         "ko": "읽다" },
+{ "en": "write",     "fi": "kirjoittaa", "fr": "écrire",   "es": "escribir",     "ko": "쓰다" },
 
-{ "en": "letter",    "ko": "편지",       "fi": "kirje",        "fr": "lettre" },
-{ "en": "message",   "ko": "메시지",     "fi": "viesti",       "fr": "message" },
-{ "en": "email",     "ko": "이메일",     "fi": "sähköposti",   "fr": "e-mail" },
-{ "en": "send",      "ko": "보내다",     "fi": "lähettää",     "fr": "envoyer" },
+{ "en": "letter",    "fi": "kirje",      "fr": "lettre",   "es": "",             "ko": "편지" },
+{ "en": "message",   "fi": "viesti",     "fr": "message",  "es": "(el) mensaje", "ko": "메시지" },
+{ "en": "email",     "fi": "sähköposti", "fr": "e-mail",   "es": "",             "ko": "이메일" },
+{ "en": "send",      "fi": "lähettää",   "fr": "envoyer",  "es": "enviar",       "ko": "보내다" },
 
 { "en": "after",     "ko": "후",          "fi": "jälkeen",     "fr": "après" },
 { "en": "afternoon", "ko": "오후에",      "fi": "iltapäivä",   "fr": "après-midi" },
