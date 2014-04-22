@@ -1,26 +1,27 @@
 [
 
-{ "en": "England",         "ko": "영국",       "fi": "Englanti",          "fr": "Angleterre" },
-{ "en": "Germany",         "ko": "독일 (alone + excel)",       "fi": "Saksa",          "fr": "Allemagne" },
-{ "en": "Italy",         "ko": "이탈리아",       "fi": "Italia",          "fr": "Italie" },
-{ "en": "France",         "ko": "프랑스",       "fi": "Ranska",          "fr": "France" },
-{ "en": "Sweden",         "ko": "스웨덴",       "fi": "Ruotsi",          "fr": "Suède" },
-{ "en": "Finland",         "ko": "핀란드",       "fi": "Suomi",          "fr": "Finlande" },
-{ "en": "Russia",         "ko": "러시아",       "fi": "Venäjä",          "fr": "Australie" },
+{ "en": "England",       "fi": "Englanti",      "fr": "Angleterre",  "es": "(la) Inglaterra",  "ko": "영국" },
+{ "en": "Germany",       "fi": "Saksa",         "fr": "Allemagne",   "es": "(la) Alemania",    "ko": "독일 (alone + excel)" },
+{ "en": "Italy",         "fi": "Italia",        "fr": "Italie",      "es": "(la) Italia",      "ko": "이탈리아" },
+{ "en": "France",        "fi": "Ranska",        "fr": "France",      "es": "(la) Francia",     "ko": "프랑스" },
+{ "en": "Spain",         "fi": "Espanja",       "fr": "Espagne",     "es": "(la) España",      "ko": "스페인" },
+{ "en": "Sweden",        "fi": "Ruotsi",        "fr": "Suède",       "es": "(la) Suecia",      "ko": "스웨덴" },
+{ "en": "Finland",       "fi": "Suomi",         "fr": "Finlande",    "es": "(la) Finlandia",   "ko": "핀란드" },
+{ "en": "Russia",        "fi": "Venäjä",        "fr": "Russie",      "es": "(la) Rusia",       "ko": "러시아" },
 
-{ "en": "USA",         "ko": "미국",       "fi": "Yhdysvallat",          "fr": "USA" },
-{ "en": "Canada",         "ko": "캐나다",       "fi": "Kanada",          "fr": "Canada" },
+{ "en": "USA",           "fi": "Yhdysvallat",   "fr": "USA",         "es": "Estados Unidos",   "ko": "미국" },
+{ "en": "Canada",        "fi": "Kanada",        "fr": "Canada",      "es": "(el) Canadá",      "ko": "캐나다" },
 
-{ "en": "China",         "ko": "중국",       "fi": "Kiina",          "fr": "Chine" },
-{ "en": "Korea",         "ko": "한국",       "fi": "Korea",          "fr": "Corée" },
-{ "en": "Japan",         "ko": "일본",       "fi": "Japani",          "fr": "Japon" },
+{ "en": "China",         "fi": "Kiina",         "fr": "Chine",       "es": "(la) China",       "ko": "중국" },
+{ "en": "Korea",         "fi": "Korea",         "fr": "Corée",       "es": "(la) Corea",       "ko": "한국" },
+{ "en": "Japan",         "fi": "Japani",        "fr": "Japon",       "es": "(el) Japón",       "ko": "일본" },
 
-{ "en": "South Africa",         "ko": "남아프리카 공화국 (남아공)",       "fi": "",   "fr": "" },
+{ "en": "South Africa",  "fi": "Etelä-Afrikka", "fr": "",            "es": "",                 "ko": "남아프리카 공화국 (남아공)" },
 
-{ "en": "Australia",         "ko": "호주",       "fi": "Australia",          "fr": "Russie" },
-{ "en": "Africa",         "ko": "아프리카",       "fi": "Afrikka",          "fr": "Afrique" },
-{ "en": "Asia",        "ko": "아시아",          "fi": "Aasia",    "fr": "Asie" },
-{ "en": "country",         "ko": "나라",       "fi": "maa",          "fr": "pays" }
+{ "en": "Australia",     "fi": "Australia",     "fr": "Australia" ,  "es": "(la) Australia",   "ko": "호주"},
+{ "en": "Africa",        "fi": "Afrikka",       "fr": "Afrique",     "es": "(la) África",      "ko": "아프리카" },
+{ "en": "Asia",          "fi": "Aasia",         "fr": "Asie",        "es": "(la) Asia",        "ko": "아시아" },
+{ "en": "country",       "fi": "maa",           "fr": "pays",        "es": "(el) país",        "ko": "나라" }
 
 
 

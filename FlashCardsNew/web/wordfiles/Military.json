@@ -27,11 +27,13 @@
 { "en": "fight",        "ko": "싸우다",          "fi": "taistella",    "fr": "combattre" },
 { "en": "defense",        "ko": "방어",          "fi": "puolustus",    "fr": "défense" },
 { "en": "to defend",        "ko": "",          "fi": "puolustaa",    "fr": "défendre" },
-{ "en": "attack",        "ko": "공격",          "fi": "hyökkäys",    "fr": "attaque" },
+{ "en": "attack",      "fi": "hyökkäys",  "fr": "attaque","es": "(el) ataque", "ko": "공격" },
 
-{ "en": "sword",        "ko": "검",          "fi": "miekka",    "fr": "épée" },
-{ "en": "bow",        "ko": "활",          "fi": "jousi",    "fr": "arc" },
-{ "en": "officer",        "ko": "",          "fi": "upseeri",    "fr": "fonctionnaire" }
+{ "en": "sword",       "fi": "miekka",    "fr": "épée",   "es": "(la) espada", "ko": "검" },
+{ "en": "bow",         "fi": "jousi",     "fr": "arc",    "es": "(el) arco",   "ko": "활" },
+
+
+{ "en": "officer",     "fi": "upseeri",   "fr": "fonctionnaire",  "es": "(el) oficial",  "ko": "" }
 
 
 ]
