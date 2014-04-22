@@ -38,12 +38,12 @@
             </tr>
           </thead>
           <tbody>                                                 
-            <tr template repeat="{{matchingCards}}">                
-                <td>{{card.en}}</td>
-                <td>{{first}}</td>
-                <td>{{second}}</td>
-                <td>{{third}}</td>
-                <td>{{deckName}}</td>
+            <tr template repeat="{{row in matchingCards}}">                
+                <td>{{row.card.en}}</td>
+                <td>{{getValueForLang(row.card, primaryLang)}}</td>
+                <td>{{getValueForLang(row.card, secondaryLang)}}</td>
+                <td>{{getValueForLang(row.card, thirdLang)}}</td>
+                <td>{{row.deckName}}</td>
             </tr>
                                       
           </tbody>

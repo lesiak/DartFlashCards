@@ -2,6 +2,7 @@ import 'dart:async';
 
 import 'package:polymer/polymer.dart';
 import 'package:FlashCardsNew/flashcards_core.dart';
+import 'package:FlashCardsNew/locale_utils.dart';
 
 @CustomTag('dictionary-panel')
 class DictionaryPanelElement extends PolymerElement {
@@ -23,16 +24,17 @@ class DictionaryPanelElement extends PolymerElement {
   @published int dictionarySize;
     
   DictionaryPanelElement.created() : super.created() {        
-    new PathObserver(this, 'primaryLang')
+    /*new PathObserver(this, 'primaryLang')
        ..changes.listen((_) {
           //here we know that primaryLang is loaded
           loadAllCards();
-       });
+       });*/
   } 
   
   @override
   void enteredView() {
-    super.enteredView();   
+    super.enteredView();
+    loadAllCards();
   }
   
   void loadAllCards() {    
@@ -41,8 +43,7 @@ class DictionaryPanelElement extends PolymerElement {
     Future.forEach(deckNames, 
         (wordfile) => engine.loadDeckFile('./wordfiles/$wordfile.json')
         .then((deckCards) {
-          var cardRows = deckCards.map((card) => 
-              new DictionaryTableRow(card, wordfile, primaryLang, secondaryLang, thirdLang));
+          var cardRows = deckCards.map((card) => new DictionaryTableRow(card, wordfile));
           cards.addAll(cardRows);
         } , onError: (e, st) => print('Cannot read $wordfile, $e, $st')))
       .then((_) {
@@ -95,44 +96,24 @@ class DictionaryPanelElement extends PolymerElement {
     } 
   }
   
-  
+  String getValueForLang(Card c, String lang) {
+    return c.getValueForLang(lang);
+  }
    
   bool get applyAuthorStyles => true;
   
   String getLangName(String lang) {
-      if (lang == "ko") {
-        return "Korean";
-      } else if (lang == "fi") {
-        return "Finnish";      
-      } else if (lang == "fr") {
-        return "French";      
-      } else if (lang == "hu") {
-        return "Hungarian";      
-      } else if (lang == "zh") {
-        return "Chinese";      
-      } else if (lang == "es") {
-        return "Spanish";      
-      } else if (lang==null) {
-        return "null";
-      }
-      return "unknown";
-    }
+    return LangUtils.getLangName(lang);
+  }
     
 }
 
 class DictionaryTableRow extends Object with Observable {
-  @observable Card card;
   
-  @observable String first;
-  @observable String second;
-  @observable String third;
+  @observable Card card;  
+  
   @observable String deckName;
-  
-  
-  DictionaryTableRow(this.card, this.deckName, String primLang, String secLang, String thirdLang) {
-    this.first = card.getValueForLang(primLang);    
-    this.second = card.getValueForLang(secLang);
-    this.third = card.getValueForLang(thirdLang);
-  }
+ 
+  DictionaryTableRow(this.card, this.deckName);
   
 }
