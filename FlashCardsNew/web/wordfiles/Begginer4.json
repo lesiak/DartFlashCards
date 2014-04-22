@@ -1,19 +1,19 @@
 [
 
 
-{ "en": "clean",       "fi": "puhdas",    "fr": "propre",    "ko": "깨끗하다"},
-{ "en": "dirty",       "fi": "likainen" , "fr": "sale",      "ko": "더럽다"},
+{ "en": "clean",       "fi": "puhdas",    "fr": "propre",    "es": "limpio",   "ko": "깨끗하다"},
+{ "en": "dirty",       "fi": "likainen" , "fr": "sale",      "es": "sucio",   "ko": "더럽다"},
 
-{ "en": "put",         "ko": " 두다",       "fi": "panna",    "fr": "placer, mettre" },
-{ "en": "to give",     "fi": "antaa",    "fr": "donner",     "es": "dar",       "ko": "주다" },
-{ "en": "to receive",  "fi": "saada",    "fr": "recevoir",   "es": "recibir",   "ko": "받다" },
+{ "en": "put",         "fi": "panna",     "fr": "placer, mettre",  "ko": " 두다" },
+{ "en": "to give",     "fi": "antaa",     "fr": "donner",     "es": "dar",       "ko": "주다" },
+{ "en": "to receive",  "fi": "saada",     "fr": "recevoir",   "es": "recibir",   "ko": "받다" },
 { "en": "to borrow",   "fi": "lainata, ottaa lainaksi",    "fr": "emprunter",  "ko": "빌리다" },
 { "en": "to lend",        "ko": "빌려주다",          "fi": "lainata, antaa lainaksi",    "fr": "prêter" },
 { "en": "present",        "ko": "선물",          "fi": "lahja",    "fr": "cadeau" },
 
 
 
-{ "en": "delivery",       "ko": "배달",       "fi": "toimitus",    "fr": "livraison" },
+{ "en": "delivery",      "fi": "toimitus",    "fr": "livraison",        "ko": "배달" },
 { "en": "deliver",       "ko": "배달하다",       "fi": "toimittaa",    "fr": "livrer" },
 
 
@@ -93,12 +93,12 @@
 
 
 
-{ "en": "to forbid",       "ko": "금하다",       "fi": "kieltää",    "fr": "interdire" },
+{ "en": "to forbid",       "fi": "kieltää",    "fr": "interdire",   "es": "prohibir", "ko": "금하다" },
 
 { "en": "to be used, be utilized",       "ko": "쓰이다",       "fi": "",    "fr": "" },
-{ "en": "event",       "ko": "행사",       "fi": "tapahtuma",    "fr": "événement" },
-{ "en": "situation",       "ko": "?",           "fi": "tilanne",    "fr": "situation" },
-{ "en": "knowledge",       "ko": "지식",       "fi": "tieto",    "fr": "connaissance" },
+{ "en": "event",           "fi": "tapahtuma",  "fr": "événement",   "ko": "행사" },
+{ "en": "situation",       "fi": "tilanne",    "fr": "situation",   "es": "(la) situación",      "ko": "?" },
+{ "en": "knowledge",       "fi": "tieto",      "fr": "connaissance","es": "(el) conocimiento",   "ko": "지식" },
 
   
 { "en": "empty",       "ko": "비다",       "fi": "tyhjä",    "fr": "vide" },
