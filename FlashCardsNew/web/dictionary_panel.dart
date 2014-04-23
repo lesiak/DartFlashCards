@@ -22,13 +22,14 @@ class DictionaryPanelElement extends PolymerElement {
   @published List<DictionaryTableRow> matchingCards = toObservable([]);
   
   @published int dictionarySize;
+  
+  @published int dictionaryInPrimaryLangSize;
     
   DictionaryPanelElement.created() : super.created() {        
-    /*new PathObserver(this, 'primaryLang')
-       ..changes.listen((_) {
-          //here we know that primaryLang is loaded
-          loadAllCards();
-       });*/
+    new PathObserver(this, 'primaryLang')
+       ..changes.listen((_) {          
+         dictionaryInPrimaryLangSize = calculateNonEmptyInPrimLang();
+       });
   } 
   
   @override
@@ -49,9 +50,12 @@ class DictionaryPanelElement extends PolymerElement {
       .then((_) {
         allCards = cards;
         dictionarySize = allCards.length;
-        var cardsInPrimLangSize = allCards.where((r) => isCardNonEmptyForLang(r,primaryLang)).length;
-        print('Non empty in ${primaryLang} $cardsInPrimLangSize');
+        dictionaryInPrimaryLangSize = calculateNonEmptyInPrimLang();        
       });        
+  }
+  
+  int calculateNonEmptyInPrimLang() {
+    return allCards.where((r) => isCardNonEmptyForLang(r,primaryLang)).length;
   }
   
   void searchTermChanged() {    
