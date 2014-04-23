@@ -15,7 +15,7 @@
         </tr>
         </thead>
         <tbody>
-        <tr template repeat="{{row in wordRows}}" class={{r.cssClass}}>
+        <tr template repeat="{{row in wordRows}}" class={{row.cssClass}}>
             <td>{{row.card.en}}</td>
             <td>{{getValueForLang(row.card, primaryLang)}}</td>
             <td>{{getValueForLang(row.card, secondaryLang)}}</td>
