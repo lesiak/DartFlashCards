@@ -35,10 +35,10 @@
 { "en": "to begin, start",        "ko": "",       "fi": "aloittaa",    "fr": "" },
 { "en": "to stop",        "ko": "",       "fi": "lopettaa, pysäyttää, pysähtyä",    "fr": "" },
 
-{ "en": "to smoke",         "ko": "피우다",       "fi": "tupakoida",    "fr": "fumer" },
-{ "en": "cigarette",        "ko": "담배",       "fi": "savuke",    "fr": "cigarette" },
-{ "en": "tobacco",         "ko": "담배",       "fi": "tupakka",    "fr": "tabac" },
-{ "en": "match",      "ko": "성냥",    "fi": "tulitikku" ,  "fr":"allumette"},
+{ "en": "to smoke",     "fi": "tupakoida","fr": "fumer",       "ko": "피우다" },
+{ "en": "cigarette",    "fi": "savuke",   "fr": "cigarette",   "ko": "담배" },
+{ "en": "tobacco",      "fi": "tupakka",  "fr": "tabac",       "ko": "담배" },
+{ "en": "match",        "fi": "tulitikku","fr":"allumette",    "ko": "성냥"},
  
 
 { "en": "silver",       "fi": "hopea",    "fr": "argent",    "es": "(la) plata",   "ko": "은" }, 
