@@ -8,10 +8,10 @@
 
 { "en": "powder",       "ko": "가루",         "fi": "jauhe",    "fr": "poudre" },
 { "en": "flour",       "ko": "가루",         "fi": "jauhot",    "fr": "farine" },
-{ "en": "bread",       "ko": "빵",         "fi": "leipä",    "fr": "pain" },
-{ "en": "salt",       "ko": "소금",         "fi": "suola",    "fr": "sel" },
-{ "en": "sugar",       "ko": "설탕",         "fi": "sokeri",    "fr": "sucre" },
-{ "en": "garlic",       "fi": "valkosipuli", "fr": "ail",     "es": "(el) ajo", "ko": "마늘" },
+{ "en": "bread",        "fi": "leipä",    "fr": "pain", "ko": "빵" },
+{ "en": "salt",         "fi": "suola",      "fr": "sel",           "es": "(la) sal",      "ko": "소금" },
+{ "en": "sugar",        "fi": "sokeri",     "fr": "sucre",         "es": "(el) azúcar",   "ko": "설탕" },
+{ "en": "garlic",       "fi": "valkosipuli","fr": "ail",           "es": "(el) ajo",      "ko": "마늘" },
 
 { "en": "tea",          "fi": "tee",        "fr": "thé",           "es": "(el) té",       "ko": "차" },
 { "en": "coffee",       "fi": "kahvi",      "fr": "café",          "es": "(el) café",     "ko": "커피" },

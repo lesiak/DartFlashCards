@@ -3,15 +3,15 @@
 { "en": "read",      "fi": "lukea",      "fr": "lire",     "es": "leer",         "ko": "읽다" },
 { "en": "write",     "fi": "kirjoittaa", "fr": "écrire",   "es": "escribir",     "ko": "쓰다" },
 
-{ "en": "letter",    "fi": "kirje",      "fr": "lettre",   "es": "",             "ko": "편지" },
+{ "en": "letter",    "fi": "kirje",      "fr": "lettre",   "es": "(la) carta",   "ko": "편지" },
 { "en": "message",   "fi": "viesti",     "fr": "message",  "es": "(el) mensaje", "ko": "메시지" },
 { "en": "email",     "fi": "sähköposti", "fr": "e-mail",   "es": "",             "ko": "이메일" },
 { "en": "send",      "fi": "lähettää",   "fr": "envoyer",  "es": "enviar",       "ko": "보내다" },
 
 
-{ "en": "morning",   "fi": "aamu",       "fr": "matin",                          "ko": "아침" },
+{ "en": "morning",   "fi": "aamu",       "fr": "matin",     "es": "(la) mañana", "ko": "아침" },
 { "en": "afternoon", "fi": "iltapäivä",  "fr": "après-midi","es": "(la) tarde",  "ko": "오후에" },
-{ "en": "evening",   "fi": "ilta",       "fr": "soir",                           "ko": "저녁" },
+{ "en": "evening",   "fi": "ilta",       "fr": "soir",      "es": "(la) tarde",  "ko": "저녁" },
 { "en": "night",     "fi": "yö",         "fr": "nuit",      "es": "(la) noche",  "ko": "밤" },
 
 

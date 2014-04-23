@@ -45,10 +45,10 @@
 { "en": "gold",         "fi": "kulta",    "fr": "or",        "es": "(el) oro",     "ko": "금" },
 { "en": "iron",         "fi": "rauta",    "fr": "fer",       "es": "(el) hierro",  "ko": "철" },
 { "en": "steel",        "fi": "teräs",    "fr": "acier",     "es": "(el) acero",   "ko": "강철" },
+{ "en": "paper",        "fi": "paperi",   "fr": "papier",    "es": "(el) papel",   "ko": "종이" },
+
 { "en": "wood (substance)", "fi": "puu",  "fr": "bois",      "es": "(la) madera",  "ko": "나무, 목재" },
-
 { "en": "glass (substance)","fi": "lasi", "fr": "verre",     "es": "",              "ko": "유리" },
-
 
 { "en": "small",        "fi": "pieni",       "fr": "petit",    "es": "pequeño",    "ko": " 작다" },
 { "en": "big",          "fi": "iso, suuri",  "fr": "grand",    "es": "grande",     "ko": " 크다" },

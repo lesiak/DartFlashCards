@@ -42,8 +42,8 @@
 
 
 
-{ "en": "sit",       "fi": "istua",      "fr": "être assis",  "hu": "ül",  "ko": "앉다",  "zh": "坐  (zuò)"       },
-{ "en": "stand",     "fi": "seisoa",     "fr": "être debout", "hu": "áll",  "ko": "서다" },
+{ "en": "sit",       "fi": "istua",      "fr": "être assis",  "es": "sentarse", "hu": "ül",  "ko": "앉다",  "zh": "坐  (zuò)"       },
+{ "en": "stand",     "fi": "seisoa",     "fr": "être debout",                    "hu": "áll",  "ko": "서다" },
 { "en": "sleep",     "fi": "nukkua",     "fr": "dormir",      "es": "dormir", "hu": "alszik",  "ko": "자다"       },
 { "en": "know",      "fi": "tietää",     "fr": "savoir, connaître",  "es": "saber, conocer",  "hu": "tud",  "ko": "알다"   },
 { "en": "not to know","fi": "ei tiedä",  "fr": "ne pas savoir",          "ko": "모르다"      },
@@ -52,13 +52,13 @@
 { "en": "to be seen","fi": "näkyä",      "fr": "" ,           "ko": "보이다"},
 { "en": "to show",   "fi": "näyttää",    "fr": "montrer",     "es": "mostrar", "ko": "보여주다" },
 
-{ "en": "to look",      "fi": "näyttää, katsoa",    "fr": "regarder", "ko": "보이다 (??)" },
-
-{ "en": "hear",         "fi": "kuulla",    "fr": "entendre",        "ko": "듣다" },
+{ "en": "to look",      "fi": "näyttää, katsoa",  "fr": "regarder", "es": "mirar",   "ko": "보이다 (??)" },
+  
+{ "en": "hear",         "fi": "kuulla",    "fr": "entendre",        "es": "oír",         "ko": "듣다" },
 { "en": "listen",       "fi": "kuunnella", "fr": "écouter",         "es": "escuchar",    "ko": "듣다" },
-{ "en": "be heard",     "fi": "",          "fr": "",                "ko": "들리다" },
+{ "en": "be heard",     "fi": "",          "fr": "",                                    "ko": "들리다" },
 { "en": "to need",      "fi": "tarvita",   "fr": "avoir besoin de", "es": "necesitar", "ko": "필요하다" },
-{ "en": "to want",      "fi": "haluta",    "fr": "vouloir",         "ko": "싶다" }
+{ "en": "to want",      "fi": "haluta",    "fr": "vouloir",         "es": "querer",    "ko": "싶다" }
 
 
 
