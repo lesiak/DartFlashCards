@@ -1,7 +1,7 @@
 [
 
-{ "en": "sad",         "ko": "",       "fi": "surullinen",          "fr": "triste" },
-{ "en": "happy",         "ko": "행복하다",       "fi": "onnellinen",          "fr": "heureux" },
+{ "en": "sad",           "fi": "surullinen",   "fr": "triste",      "ko": "" },
+{ "en": "happy",         "fi": "onnellinen",   "fr": "heureux",     "ko": "행복하다" },
 { "en": "angry",         "ko": "성난",       "fi": "vihainen, suuttunut",          "fr": "en colère, fâché" },
 
 { "en": "worried",         "ko": "",       "fi": "huolestunut",          "fr": "inquiet" },

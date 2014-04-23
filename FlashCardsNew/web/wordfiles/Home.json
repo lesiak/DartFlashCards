@@ -34,8 +34,7 @@
 { "en": "toothbrush",  "fi": "hammasharja","fr": "brosse à dents",               "ko": "칫솔"     },
 { "en": "mirror",      "fi": "peili",      "fr": "miroir",  "es": "(el) espejo", "ko": "거울"           },
 { "en": "towel",       "fi": "pyyhe",      "fr": "serviette",     "ko": "수건, 타월" },
-{ "en": "shaving",     "fi": "parranajo",  "fr": "rasage",        "ko": "면도"           },
-{ "en": "razor",       "fi": "partakone",  "fr": "rasoir",        "ko": "면도칼"        },
+
 { "en": "lamp",        "fi": "lamppu",     "fr": "lampe",         "ko": "램프, 전등"    },
 { "en": "bath",        "fi": "kylpy",      "fr": "bain",          "ko": "목욕"           },
 { "en": "bathroom",    "fi": "kylpyhuone", "fr": "salle de bain", "ko": "욕실"           },
@@ -46,9 +45,12 @@
 { "en": "tap",         "fi": "hana",    "fr": "robinet", "ko": " " },
 
 
-{ "en": "pillow",      "fi": "tyyny",    "fr": "oreiller", "ko": " 베개" },
-{ "en": "comb",        "fi": "kampa",    "fr": "peigne",   "ko": " 빗" },
-{ "en": "kitchen",        "ko": " 부엌",          "fi": "keittiö",    "fr": "cuisine" },
+{ "en": "pillow",      "fi": "tyyny",    "fr": "oreiller",        "es": "(la) almohada",  "ko": " 베개" },
+{ "en": "comb",        "fi": "kampa",    "fr": "peigne",          "es": "(el) peine",  "ko": " 빗" },
+{ "en": "shaving",     "fi": "parranajo",  "fr": "rasage",        "ko": "면도"           },
+{ "en": "razor",       "fi": "partakone",  "fr": "rasoir",        "ko": "면도칼"        },
+
+{ "en": "kitchen",     "fi": "keittiö",  "fr": "cuisine",         "es": "(la) cocina",  "ko": " 부엌" },
 
 { "en": "get up, wake up",       "ko": "일어나다",       "fi": "nousta",    "fr": "se lever" },
 
@@ -68,9 +70,6 @@
 { "en": "to iron",       "ko": "",            "fi": "silittää",    "fr": "repasser" },
 { "en": "iron (for clothes)",       "ko": "", "fi": "silitysrauta",    "fr": "fer à repasser" },
 
-{ "en": "morning",       "ko": "아침",       "fi": "aamu",    "fr": "matin" },
-{ "en": "evening",       "ko": "저녁",       "fi": "ilta",    "fr": "soir" },
-{ "en": "night",         "ko": "밤",         "fi": "yö",      "fr": "nuit" },
 
 { "en": "breakfast",     "ko": "아침",       "fi": "aamiainen",    "fr": "petit déjeuner" },
 { "en": "lunch",         "ko": "점심",       "fi": "lounas",       "fr": "déjeuner" },

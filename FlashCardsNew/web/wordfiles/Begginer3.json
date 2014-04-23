@@ -8,8 +8,14 @@
 { "en": "email",     "fi": "sähköposti", "fr": "e-mail",   "es": "",             "ko": "이메일" },
 { "en": "send",      "fi": "lähettää",   "fr": "envoyer",  "es": "enviar",       "ko": "보내다" },
 
-{ "en": "after",     "fi": "jälkeen",    "fr": "après",    "es": "después",      "ko": "후" },
+
+{ "en": "morning",   "fi": "aamu",       "fr": "matin",                          "ko": "아침" },
 { "en": "afternoon", "fi": "iltapäivä",  "fr": "après-midi","es": "(la) tarde",  "ko": "오후에" },
+{ "en": "evening",   "fi": "ilta",       "fr": "soir",                           "ko": "저녁" },
+{ "en": "night",     "fi": "yö",         "fr": "nuit",      "es": "(la) noche",  "ko": "밤" },
+
+
+{ "en": "after",     "fi": "jälkeen",    "fr": "après",    "es": "después",      "ko": "후" },
 { "en": "before",    "fi": "ennen",      "fr": "avant",    "es": "antes",       "ko": "전에" },
 
 { "en": "yet",       "fi": "vielä",      "fr": "encore",   "ko": "아직" },
@@ -24,13 +30,12 @@
 { "en": "yesterday",    "ko": "어제",    "fi": "eilen",     "fr": "hier" },
 
 
-{ "en": "minute",       "ko": "분",      "fi": "minuutti",  "fr": "minute" },  
-{ "en": "hour",         "ko": "시간",    "fi": "tunti",     "fr": "heure" },  
-{ "en": "day",         "ko": "일",    "fi": "päivä",     "fr": "jour" },
- { "en": "week",        "ko": "주",      "fi": "viikko",    "fr": "semaine" },
-{ "en": "year",         "ko": "년",      "fi": "vuosi",     "fr": "année" },
-{
- "en": "last year",     "ko": "작년",    "fi": "viime vuonna",    "fr": "année dernière" },
+{ "en": "minute",       "fi": "minuutti",  "fr": "minute",   "es": "(el) minuto",    "ko": "분" },  
+{ "en": "hour",         "fi": "tunti",     "fr": "heure",    "es": "(la) hora",      "ko": "시간" },  
+{ "en": "day",          "fi": "päivä",     "fr": "jour",     "es": "(el) día",       "ko": "일" },
+{ "en": "week",         "fi": "viikko",    "fr": "semaine",  "es": "(la) semana",    "ko": "주" },
+{ "en": "year",         "fi": "vuosi",     "fr": "année",    "es": "(el) año",       "ko": "년" },
+{ "en": "last year",     "ko": "작년",    "fi": "viime vuonna",    "fr": "année dernière" },
 { "en": "this year",    "ko": "올해",    "fi": "tänä vuonna",    "fr": "cette année" },
 
 { "en": "next",         "ko": " 다음",   "fi": "seuraava, ensi",    "fr": "suivant" },

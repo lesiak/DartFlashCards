@@ -65,6 +65,8 @@
 
 { "en": "Air conditioning",    "ko": "에어컨",    "fi": "ilmastointi" , "fr":"climatisation"},
 
+{ "en": "sign",        "ko": "간판",       "fi": "merkki",         "fr": "panneau" },
+{ "en": "warning",     "ko": "경고",       "fi": "varoitus",         "fr": "avertissement" },
 
 
 
