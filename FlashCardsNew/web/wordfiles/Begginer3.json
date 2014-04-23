@@ -22,12 +22,12 @@
 { "en": "later",     "fi": "myöhemmin",  "fr": "plus tard, ensuite",  "es": "más tarde",  "ko": "나중에" },
 { "en": "already",   "fi": "jo",         "fr": "déjà",                "es": "ya" ,        "ko": "벌써, 이미" },
 
-{ "en": "always",     "fi": "aina",        "fr": "toujours",  "es": "siempre",    "ko": "항상, 늘, 언제나" },
-{ "en": "again",       "ko": "다시, 또",       "fi": "taas, uudelleen, jälleen",    "fr": "de nouveau, encore" },
-{ "en": "now",          "ko": "지금",    "fi": "nyt",       "fr": "maintenant" },
-{ "en": "today",        "ko": "오늘",    "fi": "tänään",    "fr": "aujourd'hui" },
-{ "en": "tomorrow",     "ko": "내일",    "fi": "huomenna",  "fr": "demain" },
-{ "en": "yesterday",    "ko": "어제",    "fi": "eilen",     "fr": "hier" },
+{ "en": "always",     "fi": "aina",      "fr": "toujours",  "es": "siempre",   "ko": "항상, 늘, 언제나" },
+{ "en": "again",      "fi": "taas, uudelleen, jälleen",  "fr": "de nouveau, encore",  "es": "otra vez, de nuevo", "ko": "다시, 또" },
+{ "en": "now",        "fi": "nyt",       "fr": "maintenant", "es": "ahora",  "ko": "지금" },
+{ "en": "today",      "fi": "tänään",    "fr": "aujourd'hui","es": "hoy",    "ko": "오늘" },
+{ "en": "tomorrow",   "fi": "huomenna",  "fr": "demain",     "es": "mañana", "ko": "내일" },
+{ "en": "yesterday",  "fi": "eilen",     "fr": "hier",       "es": "ayer",   "ko": "어제"},
 
 
 { "en": "minute",       "fi": "minuutti",  "fr": "minute",   "es": "(el) minuto",    "ko": "분" },  
