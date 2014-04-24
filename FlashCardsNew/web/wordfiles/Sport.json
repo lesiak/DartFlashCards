@@ -1,14 +1,14 @@
 [
-{ "en": "hobby",        "ko": "취미",       "fi": "mieliharrastus", "fr": "hobby" },
-{ "en": "football",     "ko": "축구 (kick + ball)",       "fi": "jalkapallo",     "fr": "football" },
-{ "en": "volleyball",     "ko": "배구 (push + ball)",       "fi": "lentopallo",     "fr": "volley-ball" },
-{ "en": "basketball",     "ko": "농구 (bamboo basket + ball)",       "fi": "koripallo",     "fr": "basket-ball" },
-{ "en": "baseball",     "ko": "야구 (field + ball)",       "fi": "baseball",     "fr": "base-ball" },
-{ "en": "badminton",     "ko": "배드민턴",       "fi": "sulkapallo",     "fr": "badminton" },
+{ "en": "hobby",       "fi": "mieliharrastus","fr": "hobby",    "ko": "취미" },
+{ "en": "football",    "fi": "jalkapallo",  "fr": "football",   "es": "(el) fútbol",     "ko": "축구 (kick + ball)" },
+{ "en": "volleyball",  "fi": "lentopallo",  "fr": "volley-ball","es": "(el) voleibol",   "ko": "배구 (push + ball)" },
+{ "en": "basketball",  "fi": "koripallo",   "fr": "basket-ball","es": "(el) baloncesto", "ko": "농구 (bamboo basket + ball)" },
+{ "en": "baseball",    "fi": "baseball",    "fr": "base-ball",  "es": "(el) béisbol",    "ko": "야구 (field + ball)" },
+{ "en": "badminton",   "fi": "sulkapallo",  "fr": "badminton","ko": "배드민턴" },
 
-{ "en": "hockey",     "ko": "",       "fi": "jääkiekko",     "fr": "" },
+{ "en": "hockey",      "fi": "jääkiekko",   "fr": "","ko": ""},
 
-{ "en": "team",    "ko": " 팀",    "fi": "joukkue" , "fr":""},
+{ "en": "team",        "fi": "joukkue" ,    "fr":"", "ko": " 팀"},
 
 { "en": "to ski",    "ko": " ",    "fi": "hiihtää" , "fr":"skier"},
 { "en": "skis",    "ko": " 스키",    "fi": "sukset" , "fr":"skis"},
