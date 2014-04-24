@@ -21,16 +21,16 @@
 { "en": "dry",        "fi": "" ,   "fr":"", "ko": "건조하다"},
 { "en": "architecture", "fi": "arkkitehtuuri" , "fr":"architecture",  "es": "(la) arquitectura", "ko": " 건축학"},
 { "en": "architect",    "fi": "arkkitehti" ,    "fr":"architecte",    "es": "(el) arquitecto",   "ko": " 건축가"},
-{ "en": "bank",         "fi": "pankki" ,        "fr":"banque",        "es":"(el) banco",         "ko": " 은행"},
+{ "en": "bank",         "fi": "pankki" ,        "fr":"banque",        "es": "(el) banco",         "ko": " 은행"},
 { "en": "pub, bar",     "fi": "baari, kapakka, pubi" ,   "fr":"bar, pub", "ko": " 술집, 바"},
-{ "en": "bus stop",     "fi": "bussipysäkki" ,  "fr":"arrêt de bus", "ko": " 버스 정류장"},
-{ "en": "library",      "fi": "kirjasto",       "fr": "bibliothèque", "es":"(la) biblioteca",    "ko": "도서관" },
-{ "en": "bookstore",    "fi": "kirjakauppa",    "fr": "librairie",    "es":"(la) librería",      "ko": "서점, 책방 (book + house)" },
-{ "en": "shop",         "fi": "myymälä, kauppa",         "fr": "magasin, boutique", "ko": "가게" },
-{ "en": "departmant store",  "fi": "tavaratalo",     "fr": "grand magasin", "ko": "백화점 (hundred + goods + shop)" },
+{ "en": "bus stop",     "fi": "bussipysäkki" ,  "fr":"arrêt de bus",  "es": "(la) parada de autobús",  "ko": " 버스 정류장"},
+{ "en": "library",      "fi": "kirjasto",       "fr": "bibliothèque", "es": "(la) biblioteca",    "ko": "도서관" },
+{ "en": "bookstore",    "fi": "kirjakauppa",    "fr": "librairie",    "es": "(la) librería",      "ko": "서점, 책방 (book + house)" },
+{ "en": "shop",         "fi": "myymälä, kauppa","fr": "magasin, boutique", "es": "(la) tienda",   "ko": "가게" },
+{ "en": "departmant store",  "fi": "tavaratalo","fr": "grand magasin",     "es": "grandes almacenes",  "ko": "백화점 (hundred + goods + shop)" },
 
-{ "en": "town hall",     "ko": "",   "fi": "kaupungintalo" ,   "fr":"mairie"},
-{ "en": "square (in city)",     "ko": "",   "fi": "aukio" ,   "fr":"place"},
+{ "en": "town hall",    "fi": "kaupungintalo" , "fr":"mairie",    "ko": ""},
+{ "en": "square (in city)",  "fi": "aukio" ,    "fr":"place",     "es": "(la) plaza",  "ko": ""},
 
 { "en": "other side",        "ko": "건너편",          "fi": "toinen puoli (toisella puolella)",    "fr": "?" },
 
@@ -38,10 +38,10 @@
 { "en": "quiet",            "fi": "hiljainen",       "fr": "calme, tranquille", "ko": "조용하다" },
 { "en": "noisy",            "fi": "meluisa",         "fr": "bruyant","ko": "시끄럽하다" },
 
-{ "en": "crowd",            "fi": "väkijoukko",      "fr": "foule",   "ko": "" },
+{ "en": "crowd",            "fi": "väkijoukko",      "fr": "foule",   "es": "(la) multitud",   "ko": "" },
 
 
-{ "en": "prison",           "fi": "vankila",         "fr": "prison, (slang) cabane", "ko": "교도소" },
+{ "en": "prison",           "fi": "vankila",         "fr": "prison, (slang) cabane",  "es": "(la) prisión",    "ko": "교도소" },
 { "en": "city",             "fi": "kaupunki",        "fr": "ville",         "es": "(la) ciudad",  "ko": "도시" },
 { "en": "village",          "fi": "kylä",            "fr": "village",       "es": "(el) pueblo",  "ko": "마을" },
 { "en": "suburb",           "fi": "esikaupunki",     "fr": "banlieue",      "es": "(el) suburbio","ko": "근교" },
@@ -49,7 +49,7 @@
 { "en": "factory",          "fi": "tehdas",          "fr": "",              "es": "(la) fábrica",  "ko": "공장" },
 { "en": "statue",           "fi": "patsas",          "fr": "",              "es": "(la) estatua",  "ko": "상" },
 { "en": "gallery",          "fi": "galleria, taidegalleria","fr": "",       "es": "(la) galería",  "ko": "화랑" },
-{ "en": "railway",          "fi": "rautatie",        "fr": "chemin de fer", "es": "", "ko": "철도" },
+{ "en": "railway",          "fi": "rautatie",        "fr": "chemin de fer", "es": "(el) ferrocarril", "ko": "철도" },
 { "en": "railway station",  "fi": "rautatieasema",   "fr": "gare",          "es": "(la) estación de ferrocarril",  "ko": "철도역" },
 { "en": "intersection",     "fi": "risteys",         "fr": "carrefour",     "es": "(la) intersección",  "ko": "사거리" },
 { "en": "pedestrian crossing", "fi": "suojatie",     "fr": "passage pour piétons", "ko": "횡단 보도" },
