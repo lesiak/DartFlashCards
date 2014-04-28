@@ -1,5 +1,10 @@
 [
 
+{ "en": "who (?)",      "fi": "kuka",    "fr": "qui",  "es": "quién",    "ko": "" },
+{ "en": "where (?)",    "fi": "missä",   "fr": "où",   "es": "dónde",    "ko": "어디에" },
+
+
+
 { "en": "to be able to",      "ko": "...할 수 있다",      "fi": " voida, pystyä, kyetä (capable of)", "fr": "pouvoir, savoir (for a skill)" },
 
 
@@ -21,6 +26,9 @@
 
 
 { "en": "drug (narcotic)",       "ko": "마약",    "fi": "huume",    "fr":"drogue"},
+
+{ "en": "dangerous",    "fi": "vaarallinen",    "fr": "dangereux",   "es": "peligroso",  "ko": "위험한"},
+{ "en": "to rescue",    "fi": "pelastaa",       "fr": "sauver",   "es": "rescatar",  "ko": ""},
 
 
 

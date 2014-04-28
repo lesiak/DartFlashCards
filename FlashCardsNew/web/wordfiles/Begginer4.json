@@ -47,7 +47,7 @@
 { "en": "training",        "ko": "훈련",          "fi": "harjoitus",    "fr": "entraînement" },
 
 { "en": "same",           "fi": "samanlainen",    "fr": "même",   "es": "mismo",  "ko": "같다" },
-{ "en": "similar",        "ko": "비슷하다",          "fi": "samanlainen",    "fr": "similaire, semblable" },
+{ "en": "similar",        "fi": "samanlainen",    "fr": "similaire, semblable", "es": "parecido (a), similar",  "ko": "비슷하다" },
 { "en": "different",        "ko": "다르다, 다른",          "fi": "eri, erilainen",    "fr": "différent, autre" },
 { "en": "to resemble",        "ko": "닮다",          "fi": "muistuttaa",    "fr": "ressembler à" },
 { "en": "to compare",        "ko": "비교하다, (~에) 필적하다",          "fi": "verrata (part + ill), vertailla",    "fr": "comparer" },

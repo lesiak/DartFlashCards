@@ -24,7 +24,9 @@
 { "en": "monkey",     "fi": "apina",     "fr": "singe",     "es": "(el) mono",   "ko": "원숭이" },
 { "en": "hedgehog",   "fi": "siili",     "fr": "hérisson",  "es": "(el) erizo",  "ko": "고슴도치" },
 { "en": "rabbit",     "fi": "kani",      "fr": "lapin",     "es": "(el) conejo", "ko": "토끼" },
+{ "en": "hare",       "fi": "jänis",     "fr": "lièvre",    "es": "(la) liebre", "ko": "토끼" },
  
+{ "en": "donkey",     "fi": "aasi",      "fr": "baudet",    "es": "(el) burro",  "ko": "" },
 
 { "en": "bird",       "fi": "lintu",     "fr": "oiseau",    "es": "(la) ave",    "ko": "새" },
 { "en": "duck",       "fi": "ankka",     "fr": "canard",    "es": "(el) pato",   "ko": "오리" },
@@ -45,11 +47,16 @@
 { "en": "elephant",   "fi": "norsu",      "fr": "éléphant",    "es": "(el) elefante", "ko": "코끼리" },
 { "en": "fish",       "fi": "kala",       "fr": "poisson",     "es": "(el) pez",      "ko": "물고기" },
 
+
+{ "en": "crocodile",  "fi": "krokotiili", "fr": "crocodile",   "es": "(el) cocodrilo","ko": "악어" },
+
+
 { "en": "dinosaur",   "fi": "hirmulisko, dinosaurus",   "fr": "dinosaure",  "es": "(el) dinosaurio",    "ko": "공룡" },
 
 { "en": "hamster",    "fi": "hamsteri",   "fr": "hamster",     "es": "(el) hámster",  "ko": "조선 쥐" },
 
-{ "en": "animal",     "fi": "eläin",      "fr": "animal",      "es": "(el) animal",   "ko": "동물" }
-
+{ "en": "animal",     "fi": "eläin",      "fr": "animal",      "es": "(el) animal",   "ko": "동물" },
+{ "en": "horn",       "fi": "",           "fr": "corne",       "es": "(el) cuerno",   "ko": "뿔" },
+{ "en": "tail",       "fi": "häntä",      "fr": "queue",       "es": "(la) cola",     "ko": "꼬리" }
 
 ]

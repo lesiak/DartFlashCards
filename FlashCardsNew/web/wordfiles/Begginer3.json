@@ -29,6 +29,7 @@
 { "en": "today",      "fi": "tänään",    "fr": "aujourd'hui","es": "hoy",    "ko": "오늘" },
 { "en": "tomorrow",   "fi": "huomenna",  "fr": "demain",     "es": "mañana", "ko": "내일" },
 { "en": "yesterday",  "fi": "eilen",     "fr": "hier",       "es": "ayer",   "ko": "어제"},
+{ "en": "often",      "fi": "usein",     "fr": "souvent",       "es": "",   "ko": "자주"},
 
 
 { "en": "minute",       "fi": "minuutti",  "fr": "minute",   "es": "(el) minuto",    "ko": "분" },  

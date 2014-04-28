@@ -57,8 +57,8 @@
 { "en": "wise",    "ko": "슬기롭다 (wisdom + be, be characterized by)",    "fi": "viisas, järkevä" , "fr":"sage"},
 { "en": "wisdom",    "ko": "슬기",    "fi": "viisaus, järkevyys" , "fr":"sagesse"},
 
-{ "en": "beautiful",         "ko": "아름답다",       "fi": "kaunis",          "fr": "beau" },
-{ "en": "cute",         "ko": "귀엽다",       "fi": "söpö, soma",          "fr": "mignon" },
+{ "en": "beautiful",   "fi": "kaunis",        "fr": "beau",    "ko": "아름답다" },
+{ "en": "cute",        "fi": "söpö, soma",    "fr": "mignon",  "es": "nono",    "ko": "귀엽다" },
 
 
 { "en": "fat",    "ko": "뚱뚱하다",    "fi": "lihava, läski (derogatory), paksu" , "fr":"gros"},
@@ -97,7 +97,9 @@
 { "en": "jealous",         "ko": "부럽다",       "fi": "mustasukkainen",          "fr": "jaloux" },
 { "en": "ashamed",         "ko": "부끄럽다",       "fi": "häpeissään",          "fr": "honteux" },
 
-{ "en": "brave",         "ko": "용감한",       "fi": "rohkea",          "fr": "courageux" },
+{ "en": "brave",        "fi": "rohkea",          "fr": "courageux",       "ko": "용감한" },
+{ "en": "aggressive",   "fi": "aggressiivinen",  "fr": "agressif",    "es": "agresivo",   "ko": "" },
+{ "en": "stubborn",     "fi": "itsepäinen",      "fr": "têtu",        "es": "terco",   "ko": "" },
 
 { "en": "laborious",      "ko": "힘들다",      "fi": "työläs", "fr": "laborieux" },
 
