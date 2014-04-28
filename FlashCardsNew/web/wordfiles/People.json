@@ -1,5 +1,12 @@
 [
 
+
+{ "en": "I",         "fi": "minä",  "fr": "je",    "es": "yo",    "ko": "나는)"},
+{ "en": "you (inf)", "fi": "sinä",  "fr": "tu",    "es": "tú",    "ko": "당신)"},
+{ "en": "you (sg,f)","fi": "",  "fr": "vous",    "es": "usted",    "ko": ""},
+{ "en": "he",        "fi": "hän",   "fr": "il",    "es": "él",    "ko": "그)"},
+{ "en": "she",       "fi": "hän",   "fr": "elle",  "es": "ella",  "ko": "그녀)"},
+
 { "en": "girl",    "ko": "소녀 (girly)",    "fi": "tyttö" , "fr":"fille"},
 { "en": "miss, young girl",    "ko": "아가씨",    "fi": "neiti" , "fr":"Mademoiselle"},
 
@@ -24,10 +31,11 @@
 { "en": "family",       "ko": "가족",       "fi": "perhe",   "fr": "famille" },
 { "en": "father",        "ko": "아버지",          "fi": "isä",    "fr": "père" },
 { "en": "child",        "ko": "아이, 어린이",          "fi": "lapsi",    "fr": "enfant" },
-{ "en": "son",        "ko": "아들",          "fi": "poika",    "fr": "fils" },
+{ "en": "son",         "fi": "poika",    "fr": "fils",    "es": "(el) hijo",   "ko": "아들" },
+{ "en": "daughter",    "fi": "tytär",    "fr": "fille",   "es": "(el) hija",   "ko": "딸" },
 { "en": "baby",        "ko": "아가",          "fi": "vauva, beibi",    "fr": "bébé" },
-{ "en": "wife",        "ko": "아내",          "fi": "vaimo",    "fr": "femme" },
-{ "en": "husband",        "ko": "남편",          "fi": "aviomies",    "fr": "mari" },
+{ "en": "wife",        "fi": "vaimo",    "fr": "femme",   "es": "(la) mujer, (la) esposa", "ko": "아내" },
+{ "en": "husband",     "fi": "aviomies", "fr": "mari",    "es": "(el) marido", "ko": "남편" },
 
 { "en": "parents",        "ko": "부모",          "fi": "vanhemmat",    "fr": "parents" },
 { "en": "single parent",        "ko": "단일 부모",          "fi": "yksinhuoltaja",    "fr": "" },
@@ -39,7 +47,7 @@
 { "en": "engagement (betrothal)",        "ko": "약혼 (contract + marry)",          "fi": "kihlaus",    "fr": "fiançailles" },
 { "en": "blind date",   "ko": "소개팅",    "fi": "sokkotreffit",   "fr":""},
 
- 
+ { "en": "neighbour",   "fi": "naapuri",     "fr": "voisin",  "es": "(el) vecino",  "ko": "이웃 사람" },
 
 { "en": "poor",    "ko": "가난하다",    "fi": "köyhä" , "fr":"pauvre"},
 { "en": "rich (person)",    "ko": "부자 (rich man)",    "fi": "rikas" , "fr":"riche"},
@@ -103,8 +111,8 @@
 { "en": "beginner",         "ko": "초보, 초보자 (early + walk + person)",       "fi": "aloittelija",          "fr": "débutant" },
 { "en": "fool",         "ko": "바보",       "fi": "typerys, hullu",          "fr": "fou" },
 { "en": "lover",         "ko": "애인",       "fi": "rakastaja",          "fr": "amant" },
-{ "en": "genius",         "ko": "천재 (heaven + gift)",       "fi": "nero",          "fr": "génie" },
-{ "en": "neighbour",         "ko": "이웃 사람",       "fi": "naapuri",          "fr": "voisin" }
+{ "en": "genius",         "ko": "천재 (heaven + gift)",       "fi": "nero",          "fr": "génie" }
+
 
 
 

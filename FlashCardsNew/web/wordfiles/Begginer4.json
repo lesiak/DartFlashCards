@@ -46,7 +46,7 @@
 { "en": "advertisment",        "ko": "광고",          "fi": "mainos",    "fr": "publicité" },
 { "en": "training",        "ko": "훈련",          "fi": "harjoitus",    "fr": "entraînement" },
 
-{ "en": "same",        "ko": "같다",          "fi": "samanlainen",    "fr": "même" },
+{ "en": "same",           "fi": "samanlainen",    "fr": "même",   "es": "mismo",  "ko": "같다" },
 { "en": "similar",        "ko": "비슷하다",          "fi": "samanlainen",    "fr": "similaire, semblable" },
 { "en": "different",        "ko": "다르다, 다른",          "fi": "eri, erilainen",    "fr": "différent, autre" },
 { "en": "to resemble",        "ko": "닮다",          "fi": "muistuttaa",    "fr": "ressembler à" },

@@ -12,6 +12,8 @@
 { "en": "blueberry",  "fi": "mustikka",     "fr": "myrtille",   "es": "(el) arándano", "hu": "áfonya",     "ko": "블루베리" },
 { "en": "lemon",      "fi": "sitruuna",     "fr": "citron",     "es": "(el) limón",    "hu": "citrom",     "ko": "레몬"      },
 
+{ "en": "grape",      "fi": "viinirypäle",  "fr": "",     "es": "(la) uva",      "hu": "szőlő",     "ko": "포도"      },
+
 { "en": "nut",        "fi": "pähkinä",      "fr": "noix",       "es": "(el) limón",    "hu": "dió",        "ko": "견과"   },
 { "en": "hazelnut",   "fi": "hasselpähkinä","fr": "noisette",   "es": "(la) avellana", "hu": "mogyoró",    "ko": "개암"   },
 { "en": "walnut",     "fi": "saksanpähkinä","fr": "noix",       "es": "(la) nuez",     "hu": "dió",        "ko": "호두"   },

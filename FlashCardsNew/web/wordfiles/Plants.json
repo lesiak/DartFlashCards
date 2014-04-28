@@ -16,6 +16,8 @@
 { "en": "grass (plant)",   "fi": "heinä, ruoho" , "fr":"herbe", "ko": " 풀, 잡초"},
 { "en": "grass (lawn)",    "fi": "nurmi, nurmikko, ruohokenttä" , "fr":"pelouse, gazon", "ko": "잔디, 잔디밭"},
 
+{ "en": "hops",   "fi": "humala" , "fr":"houblon",      "es": "(??) lúpulo",  "ko": "홉"},
+
 { "en": "branch",  "fi": "oksa",   "fr":" branche (f), rameau (m)",    "ko": ""  },
 
 { "en": "plant",      "ko": "식물 (plant + thing)",    "fi": "kasvi",   "fr":"plante"}
