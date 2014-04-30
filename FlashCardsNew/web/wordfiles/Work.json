@@ -17,8 +17,8 @@
 { "en": "holidays",           "ko": "휴가",           "fi": "vapaapäivät",    "fr": "fêtes" },
 
 
-{ "en": "tired",        "ko": "피곤하다",             "fi": "väsynyt",    "fr": "fatigué" },
-{ "en": "busy",        "ko": "바쁘다",             "fi": "kiireinen, työntäyteinen",    "fr": "occupé" },
+{ "en": "tired",        "fi": "väsynyt",      "fr": "fatigué",   "es": "cansado",  "ko": "피곤하다" },
+{ "en": "busy",         "fi": "kiireinen",    "fr": "occupé",    "es": "ocupado",  "ko": "바쁘다" },
 { "en": "atmosphere",         "ko": "분위기",       "fi": "ilmapiiri, tunnelma",    "fr": "ambiance" },
 
 { "en": "late",        "ko": "늦다",             "fi": "myöhässä",    "fr": "tard" },

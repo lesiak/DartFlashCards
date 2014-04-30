@@ -1,0 +1,22 @@
+[
+
+{ "en": "proud",         "fi": "ylpeä",          "fr": "fier",    "ko": "" },
+{ "en": "to fear",       "ko": "",    "fi": "pelätä (pelkää)",    "fr":""},
+{ "en": "fear",          "ko": "",    "fi": "pelko",    "fr":""},
+{ "en": "coward",        "ko": "",    "fi": "pelkuri",    "fr":""},
+
+{ "en": "intelligent",   "fi": "älykäs",          "fr": "intelligent", "es": "inteligente",   "ko": "" },
+
+{ "en": "timid",         "ko": "",       "fi": "arka, pelokas",          "fr": "timide" },
+{ "en": "to be timid",   "ko": "",       "fi": "arastella, arastaa",          "fr": "être timide" },
+{ "en": "to hesitate",   "ko": "주저하다",       "fi": "epäröidä",          "fr": "hésiter" },
+
+{ "en": "patient",       "fi": "kärsivällinen",   "fr": "patient",     "es": "",              "ko": "" },
+{ "en": "punctual",      "fi": "täsmällinen",   "fr": "ponctuel",     "es": "puntual",              "ko": "" },
+
+
+{ "en": "sincere",       "fi": "vilpitön",          "fr": "sincère",    "ko": "진실하다" },
+{ "en": "reliable",      "fi": "luotettava",          "fr": "fiable",   "ko": "믿음직하다" }
+
+
+]

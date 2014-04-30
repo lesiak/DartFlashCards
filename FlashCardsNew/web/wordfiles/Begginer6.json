@@ -1,15 +1,15 @@
 [
 
 
-{ "en": "a little",   "ko": "조금",       "fi": "vähän",          "fr": "un peu" },
-{ "en": "a lot",      "ko": "많은",       "fi": "paljon",         "fr": "beaucoup" },
+{ "en": "a little",   "fi": "vähän",    "fr": "un peu",    "es": "un poco",  "ko": "조금" },
+{ "en": "a lot",      "fi": "paljon",   "fr": "beaucoup",  "es": "mucho",    "ko": "많은" },
 
 { "en": "enough (sufficient)",      "ko": "",       "fi": "tarpeeksi, riittävästi",   "fr": "assez" },
 { "en": "enough (sufficiently)",    "ko": "충분히", "fi": "tarpeeksi, riittävän",     "fr": "suffisamment, assez" },
 
 { "en": "to be enough, sufficient",      "ko": "",       "fi": "riittää (+ ill)",      "fr": "suffire" },
 
-{ "en": "very",       "ko": "아주",       "fi": "hyvin",          "fr": "très" },
+{ "en": "very",       "fi": "hyvin",   "fr": "très",    "es": "muy",   "ko": "아주" },
 
 { "en": "really",     "ko": "정말",       "fi": "todella",         "fr": "vraiment" },
 { "en": "not really", "ko": "별로",       "fi": "",                "fr": "" },

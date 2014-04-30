@@ -1,33 +1,24 @@
 [
 
-{ "en": "sad",           "fi": "surullinen",   "fr": "triste",      "ko": "" },
-{ "en": "happy",         "fi": "onnellinen",   "fr": "heureux",     "ko": "행복하다" },
-{ "en": "angry",         "ko": "성난",       "fi": "vihainen, suuttunut",          "fr": "en colère, fâché" },
+{ "en": "sad",       "fi": "surullinen",   "fr": "triste",    "es": "triste",   "ko": "" },
+{ "en": "happy",     "fi": "onnellinen",   "fr": "heureux",   "es": "feliz",    "ko": "행복하다" },
+{ "en": "glad",      "fi": "iloinen",      "fr": "heureux",   "es": "contento", "ko": "성난" },
+
+{ "en": "angry",     "fi": "vihainen, suuttunut",          "fr": "en colère, fâché",  "ko": "성난" },
+
+
 
 { "en": "worried",         "ko": "",       "fi": "huolestunut",          "fr": "inquiet" },
 { "en": "nervous",         "ko": "",       "fi": "hermostunut",          "fr": "nerveux" },
 { "en": "shy",         "ko": "",       "fi": "ujo",          "fr": "timide" },
-{ "en": "tired",         "ko": "피곤한",       "fi": "väsynyt",          "fr": "fatigué" },
+{ "en": "tired",         "fi": "väsynyt",   "fr": "fatigué",   "es": "cansado",  "ko": "피곤한" },
 
-{ "en": "proud",         "ko": "",       "fi": "ylpeä",          "fr": "fier" },
 
 { "en": "laugh",       "ko": "웃다",      "fi": "nauraa",    "fr": "rire" },
 { "en": "to smile",         "ko": "웃다",       "fi": "hymyillä",          "fr": "sourire" },
-{ "en": "smile",         "ko": "미소",       "fi": "hymy",          "fr": "sourire" },
+{ "en": "smile",         "ko": "미소",       "fi": "hymy",          "fr": "sourire" }
 
 
-{ "en": "to fear",       "ko": "",    "fi": "pelätä (pelkää)",    "fr":""},
-{ "en": "fear",       "ko": "",    "fi": "pelko",    "fr":""},
-{ "en": "coward",       "ko": "",    "fi": "pelkuri",    "fr":""},
-
-{ "en": "timid",         "ko": "",       "fi": "arka, pelokas",          "fr": "timide" },
-{ "en": "to be timid",         "ko": "",       "fi": "arastella, arastaa",          "fr": "être timide" },
-{ "en": "to hesitate",         "ko": "주저하다",       "fi": "epäröidä",          "fr": "hésiter" },
-
-{ "en": "patient",         "ko": "",       "fi": "kärsivällinen",          "fr": "patient" },
-
-{ "en": "sincere",         "ko": "진실하다",       "fi": "vilpitön",          "fr": "sincère" },
-{ "en": "reliable",           "ko": "믿음직하다",       "fi": "luotettava",          "fr": "fiable" }
 
 
 ]

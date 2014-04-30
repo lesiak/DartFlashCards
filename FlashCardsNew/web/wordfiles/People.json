@@ -3,12 +3,19 @@
 
 { "en": "I",         "fi": "minä",  "fr": "je",    "es": "yo",    "ko": "나는)"},
 { "en": "you (inf)", "fi": "sinä",  "fr": "tu",    "es": "tú",    "ko": "당신)"},
-{ "en": "you (sg,f)","fi": "",  "fr": "vous",    "es": "usted",    "ko": ""},
+{ "en": "you (sg,f)","fi": "",      "fr": "vous",  "es": "usted", "ko": ""},
 { "en": "he",        "fi": "hän",   "fr": "il",    "es": "él",    "ko": "그)"},
 { "en": "she",       "fi": "hän",   "fr": "elle",  "es": "ella",  "ko": "그녀)"},
 
-{ "en": "girl",    "ko": "소녀 (girly)",    "fi": "tyttö" , "fr":"fille"},
+
+{ "en": "man",       "fi": "mies",  "fr": "homme", "es": "(el) hombre",   "ko": "남자" },
+{ "en": "woman",     "fi": "nainen","fr": "femme", "es": "(la) mujer",   "ko": "여자" },
+
+{ "en": "girl",      "fi": "tyttö", "fr":"fille",  "ko": "소녀 (girly)"},
 { "en": "miss, young girl",    "ko": "아가씨",    "fi": "neiti" , "fr":"Mademoiselle"},
+
+
+
 
 { "en": "man (masculine type)",         "ko": "사나이",       "fi": "",          "fr": "" },
 { "en": "lady",         "ko": "숙녀",       "fi": "leidi",          "fr": "dame" },
@@ -34,8 +41,11 @@
 { "en": "son",         "fi": "poika",    "fr": "fils",    "es": "(el) hijo",   "ko": "아들" },
 { "en": "daughter",    "fi": "tytär",    "fr": "fille",   "es": "(el) hija",   "ko": "딸" },
 { "en": "baby",        "ko": "아가",          "fi": "vauva, beibi",    "fr": "bébé" },
-{ "en": "wife",        "fi": "vaimo",    "fr": "femme",   "es": "(la) mujer, (la) esposa", "ko": "아내" },
-{ "en": "husband",     "fi": "aviomies", "fr": "mari",    "es": "(el) marido", "ko": "남편" },
+{ "en": "wife",        "fi": "vaimo",       "fr": "femme",   "es": "(la) mujer, (la) esposa", "ko": "아내" },
+{ "en": "husband",     "fi": "aviomies",    "fr": "mari",    "es": "(el) marido", "ko": "남편" },
+
+{ "en": "sister",      "fi": "sisar, sisko","fr": "sœur",    "es": "(la) hermana", "ko": "" },
+{ "en": "brother",     "fi": "veli",        "fr": "frère",   "es": "(el) hermano", "ko": "" },
 
 { "en": "parents",        "ko": "부모",          "fi": "vanhemmat",    "fr": "parents" },
 { "en": "single parent",        "ko": "단일 부모",          "fi": "yksinhuoltaja",    "fr": "" },
@@ -57,7 +67,8 @@
 { "en": "wise",    "ko": "슬기롭다 (wisdom + be, be characterized by)",    "fi": "viisas, järkevä" , "fr":"sage"},
 { "en": "wisdom",    "ko": "슬기",    "fi": "viisaus, järkevyys" , "fr":"sagesse"},
 
-{ "en": "beautiful",   "fi": "kaunis",        "fr": "beau",    "ko": "아름답다" },
+{ "en": "beautiful",   "fi": "kaunis",        "fr": "beau",    "es": "",         "ko": "아름답다" },
+{ "en": "pretty",      "fi": "sievä",         "fr": "joli",    "es": "bonito",  "ko": "아름답다" },
 { "en": "cute",        "fi": "söpö, soma",    "fr": "mignon",  "es": "nono",    "ko": "귀엽다" },
 
 

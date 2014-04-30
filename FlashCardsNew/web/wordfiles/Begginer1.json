@@ -53,10 +53,10 @@
 { "en": "to show",   "fi": "näyttää",    "fr": "montrer",     "es": "mostrar", "ko": "보여주다" },
 
 { "en": "to look",      "fi": "näyttää, katsoa",  "fr": "regarder", "es": "mirar",   "ko": "보이다 (??)" },
+{ "en": "to speak",     "fi": "puhua",     "fr": "parler",          "es": "hablar",   "ko": "말하다" },
   
 { "en": "hear",         "fi": "kuulla",    "fr": "entendre",        "es": "oír",         "ko": "듣다" },
 { "en": "listen",       "fi": "kuunnella", "fr": "écouter",         "es": "escuchar",    "ko": "듣다" },
-{ "en": "be heard",     "fi": "",          "fr": "",                                    "ko": "들리다" },
 { "en": "to need",      "fi": "tarvita",   "fr": "avoir besoin de", "es": "necesitar", "ko": "필요하다" },
 { "en": "to want",      "fi": "haluta",    "fr": "vouloir",         "es": "querer",    "ko": "싶다" }
 

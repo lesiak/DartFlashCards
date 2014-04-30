@@ -35,6 +35,7 @@ class FlashCardsApp extends PolymerElement {
                      'People',
                      'Body',
                      'Emotions',
+                     'Character',
                      'Health',
                      'Colors'];
   

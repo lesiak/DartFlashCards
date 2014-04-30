@@ -25,7 +25,7 @@
 { "en": "closed",    "ko": "",       "fi": "suljettu, kiinni",    "fr": "fermé" },
 
 { "en": "difficult",       "ko": "어렵다",       "fi": "vaikea",    "fr": "difficile" },
-{ "en": "easy",       "ko": "쉽다",       "fi": "helppo",    "fr": "facile" },
+{ "en": "easy",       "fi": "helppo",    "fr": "facile",   "es": "fácil",  "ko": "쉽다" },
 
 
 { "en": "important",        "ko": "중요하다",          "fi": "tärkeä",    "fr": "important" },
