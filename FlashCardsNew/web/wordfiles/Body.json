@@ -50,6 +50,8 @@
 { "en": "shoulder",  "fi": "olkapää",   "fr": "épaule" ,   "es": "(el) hombro",  "ko": "어깨"},
 { "en": "elbow",     "fi": "kyynärpää", "fr": "coude",     "ko": "팔꿈치" },
 
+{ "en": "to breathe","fi": "hengittää", "fr": "respirer",  "es": "respirar",     "ko": "" },
+
 { "en": "mentality",       "ko": "심리 (heart + principle)",         "fi": "mentaliteetti, mielenlaatu",    "fr": "mentalité" },
 { "en": "psychology",       "ko": "심리학 (heart + principle + study)",         "fi": "psykologia, sielutiede",    "fr": "psychologie" }
 

@@ -23,6 +23,7 @@
 { "en": "harmful",      "ko": "해롭다",      "fi": "haitallinen, vahingollinen", "fr": "nuisible" },
 { "en": "advantageous, beneficial",      "ko": "이롭다",      "fi": "edullinen", "fr": "avantageux" },
 
+{ "en": "together",    "fi": "yhdessä", "fr": "ensemble",  "es": "juntos",   "ko": "함께" },
 
 
 { "en": "drug (narcotic)",       "ko": "마약",    "fi": "huume",    "fr":"drogue"},

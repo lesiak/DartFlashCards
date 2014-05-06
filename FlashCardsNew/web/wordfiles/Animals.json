@@ -28,15 +28,17 @@
  
 { "en": "donkey",     "fi": "aasi",      "fr": "baudet",    "es": "(el) burro",  "ko": "" },
 
-{ "en": "bird",       "fi": "lintu",     "fr": "oiseau",    "es": "(la) ave",    "ko": "새" },
+{ "en": "bird",       "fi": "lintu",     "fr": "oiseau",    "es": "(el!) ave",    "ko": "새" },
 { "en": "duck",       "fi": "ankka",     "fr": "canard",    "es": "(el) pato",   "ko": "오리" },
 { "en": "goose",      "fi": "hahni",     "fr": "oie",       "es": "(el) ganso",  "ko": "" },
-{ "en": "pigeon",     "fi": "kyyhkynen", "fr": "pigeon",   "es": "(la) paloma", "ko": "비둘기" },
+{ "en": "pigeon",     "fi": "kyyhkynen", "fr": "pigeon",    "es": "(la) paloma", "ko": "비둘기" },
 { "en": "eagle",      "fi": "kotka",     "fr": "aigle",     "es": "(la) águila", "ko": "" },
 { "en": "sparrow",    "fi": "varpunen",  "fr": "moineau",   "es": "(el) gorrión","ko": ""},
 { "en": "swan",       "fi": "joutsen",   "fr": "cygne",     "es": "(el) cisne",  "ko": ""},
 { "en": "stork",      "fi": "haikara",   "fr": "cigogne",   "es": "(la) cigüeña","ko": "" },
 { "en": "gull",       "fi": "lokki",     "fr": "mouette",   "es": "(la) gaviota","ko": "" },
+{ "en": "owl",        "fi": "pöllö",     "fr": "hibou",     "es": "(la) lechuza","ko": "올빼미" },
+{ "en": "parrot",     "fi": "papukaija", "fr": "perroquet", "es": "(el) loro",   "ko": "앵무새" },
 
 { "en": "ant",        "fi": "muurahainen","fr": "fourmi",   "es": "(la) hormiga","ko": "개미" },
 { "en": "butterfly",  "fi": "perhonen",   "fr": "papillon", "es": "(la) mariposa","ko": "나비" },
@@ -56,7 +58,11 @@
 { "en": "hamster",    "fi": "hamsteri",   "fr": "hamster",     "es": "(el) hámster",  "ko": "조선 쥐" },
 
 { "en": "animal",     "fi": "eläin",      "fr": "animal",      "es": "(el) animal",   "ko": "동물" },
+{ "en": "wing",       "fi": "siipi",      "fr": "aile",        "es": "(el!) ala",      "ko": "날개" },
 { "en": "horn",       "fi": "",           "fr": "corne",       "es": "(el) cuerno",   "ko": "뿔" },
-{ "en": "tail",       "fi": "häntä",      "fr": "queue",       "es": "(la) cola",     "ko": "꼬리" }
+{ "en": "tail",       "fi": "häntä",      "fr": "queue",       "es": "(la) cola",     "ko": "꼬리" },
+{ "en": "beak",       "fi": "nokka",      "fr": "bec",         "es": "(el) pico",     "ko": "부리" },
+
+{ "en": "nest",        "fi": "pesä",    "fr": "nid",    "es": "(el) nido", "ko": "둥지"}
 
 ]

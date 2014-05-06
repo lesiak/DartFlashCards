@@ -44,7 +44,7 @@
 { "en": "rise",        "ko": "오르다",          "fi": "nousta",    "fr": "augmenter" },
 { "en": "significantly",        "ko": "크게",          "fi": "merkittävästi",    "fr": "significativement" },
 { "en": "advertisment",        "ko": "광고",          "fi": "mainos",    "fr": "publicité" },
-{ "en": "training",        "ko": "훈련",          "fi": "harjoitus",    "fr": "entraînement" },
+
 
 { "en": "same",           "fi": "samanlainen",    "fr": "même",   "es": "mismo",  "ko": "같다" },
 { "en": "similar",        "fi": "samanlainen",    "fr": "similaire, semblable", "es": "parecido (a), similar",  "ko": "비슷하다" },

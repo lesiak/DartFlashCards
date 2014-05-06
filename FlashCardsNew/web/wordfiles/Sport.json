@@ -1,14 +1,22 @@
 [
 { "en": "hobby",       "fi": "mieliharrastus","fr": "hobby",    "ko": "취미" },
+{ "en": "sport",       "fi": "urheilu",       "fr": "sport",    "es": "(el) deporte", "ko": "스포츠" },
+
 { "en": "football",    "fi": "jalkapallo",  "fr": "football",   "es": "(el) fútbol",     "ko": "축구 (kick + ball)" },
 { "en": "volleyball",  "fi": "lentopallo",  "fr": "volley-ball","es": "(el) voleibol",   "ko": "배구 (push + ball)" },
 { "en": "basketball",  "fi": "koripallo",   "fr": "basket-ball","es": "(el) baloncesto", "ko": "농구 (bamboo basket + ball)" },
 { "en": "baseball",    "fi": "baseball",    "fr": "base-ball",  "es": "(el) béisbol",    "ko": "야구 (field + ball)" },
 { "en": "badminton",   "fi": "sulkapallo",  "fr": "badminton","ko": "배드민턴" },
 
-{ "en": "hockey",      "fi": "jääkiekko",   "fr": "","ko": ""},
+{ "en": "hockey",      "fi": "jääkiekko",   "fr": "",           "es": "(el) hockey",  "ko": ""},
 
-{ "en": "team",        "fi": "joukkue" ,    "fr":"", "ko": " 팀"},
+{ "en": "player",      "fi": "pelaaja" ,    "fr": "joueur",     "es": "(el) jugador",  "ko": "플레이어"},
+{ "en": "team",        "fi": "joukkue" ,    "fr": "équipe",     "es": "(el) equipo",   "ko": "팀"},
+
+{ "en": "to win",      "fi": "voittaa" ,    "fr": "gagner",     "es": "ganar",   "ko": ""},
+{ "en": "to lose",     "fi": "menettää" ,   "fr": "perdre",     "es": "perder",  "ko": ""},
+
+{ "en": "training",    "fi": "harjoitus",   "fr": "entraînement","es": "(el) entrenamiento",  "ko": "훈련" },
 
 { "en": "to ski",    "ko": " ",    "fi": "hiihtää" , "fr":"skier"},
 { "en": "skis",    "ko": " 스키",    "fi": "sukset" , "fr":"skis"},
@@ -19,12 +27,14 @@
 
 { "en": "throw",     "ko": "던지다",       "fi": "heittää",     "fr": "jeter" },
 { "en": "catch",     "ko": "잡다",       "fi": "ottaa kiinni",     "fr": "" },
-{ "en": "swim",     "ko": "수영하다",       "fi": "uida",     "fr": "nager" },
+{ "en": "swim",      "fi": "uida",     "fr": "nager",   "es": "nadar",   "ko": "수영하다" },
 { "en": "swimming pool",     "ko": "수영장",       "fi": "uimahalli",     "fr": "piscine" },
 
 { "en": "competition",    "ko": "경기 (競  “contest” and 技 “talent”)",    "fi": "kilpailu, kisat" , "fr":"concours, compétition"},
-{ "en": "stadium",    "ko": "경기장",    "fi": "stadion" , "fr":"stade"},
-{ "en": "gym",    "ko": "체육관",    "fi": "punttisali, kuntosali" , "fr":""},
+{ "en": "stadium",   "fi": "stadion" ,   "fr": "stade",         "es": "(el) estadio", "ko": "경기장"},
+
+{ "en": "spectator", "fi": "katsoja",    "fr": "spectateur",    "es": "(el) espectador", "ko": "구경꾼"},
+{ "en": "gym",       "fi": "punttisali, kuntosali" , "fr": "",  "es": "(el) gimnasio",   "ko": "체육관"},
 
 { "en": "record (as in best, highest, etc.)",    "ko": "",    "fi": "ennätys" , "fr":""},
 
@@ -38,7 +48,7 @@
 { "en": "bowling",    "ko": "볼링",    "fi": "keilailu" , "fr":"bowling"},
 
 
-{ "en": "game",    "ko": "게임,  놀이",    "fi": "peli, leikki" , "fr":"jeu"}
+{ "en": "game",      "fi": "peli, leikki" , "fr": "jeu",   "es": "(el) juego", "ko": "게임,  놀이"}
 
 ]
         

@@ -7,6 +7,8 @@
 
 { "en": "intelligent",   "fi": "älykäs",          "fr": "intelligent", "es": "inteligente",   "ko": "" },
 
+{ "en": "boring",        "fi": "tylsä",          "fr": "ennuyeux", "es": "aburrido",   "ko": "" },
+
 { "en": "timid",         "ko": "",       "fi": "arka, pelokas",          "fr": "timide" },
 { "en": "to be timid",   "ko": "",       "fi": "arastella, arastaa",          "fr": "être timide" },
 { "en": "to hesitate",   "ko": "주저하다",       "fi": "epäröidä",          "fr": "hésiter" },

@@ -8,6 +8,7 @@
 { "en": "actor",         "fi": "näyttelijä",   "fr": "acteur",        "es": "(el) actor",     "ko": "배우" },
 { "en": "movie star",    "fi": "päänäyttelijä","fr": "star de cinéma","es": "(la) estrella de cine", "ko": "영화 배우"},
 { "en": "singer",        "fi": "laulaja",      "fr": "chanteur",      "es": "",   "ko": "가수" },
+{ "en": "to sing",       "fi": "laulaa",       "fr": "chanter",       "es": "cantar",   "ko": "노래하다" },
 { "en": "song",          "fi": "laulu",        "fr": "chanson",       "es": "(la) canción", "ko": "노래" },
 { "en": "title",         "fi": "nimi",         "fr": "titre",         "es": "(el) título",  "ko": "제목" },
 { "en": "lyrics",         "ko": "가사",       "fi": "sanoitus",          "fr": "paroles" },

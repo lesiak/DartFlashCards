@@ -45,8 +45,8 @@
 { "en": "to invite",         "ko": "초대하다, 초청하다",       "fi": "kutsua",          "fr": "inviter" },
 { "en": "according to",         "ko": "-에 따라서",       "fi": "mukaan",          "fr": "" },
 
-{ "en": "for example",         "ko": "예를 들어서",       "fi": "esimerkiksi",          "fr": "par exemple" },
-{ "en": "example",         "ko": "예",       "fi": "esimerkki",          "fr": "exemple" },
+{ "en": "for example",    "fi": "esimerkiksi",   "fr": "par exemple",  "es": "por ejemplo",  "ko": "예를 들어서" },
+{ "en": "example",        "fi": "esimerkki",     "fr": "exemple",      "es": "ejemplo",      "ko": "예" },
 
 { "en": "by chance",   "ko": "우연히",    "fi": "sattumalta",   "fr":"par hasard"},
 

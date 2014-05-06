@@ -19,6 +19,8 @@
 { "en": "recommend",   "ko": "추천하다",   "fi": "suositella",    "fr": "recommander" },
 { "en": "idea",        "ko": "아이디어",   "fi": "idea",          "fr": "idée" },
 
+{ "en": "to try",      "fi": "yrittää",   "fr": "essayer",   "es": "intentar", "ko": ""},
+
 
 { "en": "willingly",  "ko": "기꺼이",    "fi": "mielellään",   "fr":"volontiers"},
 

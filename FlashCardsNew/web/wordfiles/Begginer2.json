@@ -17,7 +17,7 @@
 { "en": "come in",     "ko": "들어오다",  "fi": "",         "fr": "" },
 
 { "en": "to walk",     "ko": "걸어가다",   "fi": "kävellä",    "fr": "marcher, se promener" },
-{ "en": "a walk",      "ko": "산책",       "fi": "kävely",    "fr": "promenade" },
+{ "en": "a walk",      "fi": "kävely",      "fr": "promenade","es": "(el) paseo", "ko": "산책" },
 { "en": "stay",        "ko": "머무르다",   "fi": "jäädä",    "fr": "rester" },
   
 { "en": "think",       "ko": "생각하다",   "fi": "ajatella",    "fr": "penser" },

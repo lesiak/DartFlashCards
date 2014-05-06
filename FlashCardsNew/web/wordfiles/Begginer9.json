@@ -84,6 +84,9 @@
 
 { "en": "female (animals)",       "ko": "암컷",       "fi": "naaras",    "fr": "femelle" },
 
+{ "en": "to feed",       "fi": "ruokkia",    "fr": "nourrir, alimenter",  "es": "alimentar",  "ko": "" },
+{ "en": "to stroke",     "fi": "silittää",   "fr": "caresser",  "es": "acariciar",     "ko": "" },
+
 { "en": "nightmare",       "ko": "악몽 (bad + dream)",       "fi": "painajainen",    "fr": "cauchemar" },
 { "en": "to spit",       "ko": "뱉다",       "fi": "sylkeä",    "fr": "cracher" }
 
