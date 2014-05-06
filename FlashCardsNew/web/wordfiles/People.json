@@ -70,6 +70,7 @@
 { "en": "beautiful",   "fi": "kaunis",        "fr": "beau",    "es": "",         "ko": "아름답다" },
 { "en": "pretty",      "fi": "sievä",         "fr": "joli",    "es": "bonito",  "ko": "아름답다" },
 { "en": "cute",        "fi": "söpö, soma",    "fr": "mignon",  "es": "nono",    "ko": "귀엽다" },
+{ "en": "elegant",     "fi": "tyylikäs",      "fr": "élégant", "es": "elegante",    "ko": "우아한" },
 
 
 { "en": "fat",    "ko": "뚱뚱하다",    "fi": "lihava, läski (derogatory), paksu" , "fr":"gros"},
@@ -101,6 +102,7 @@
 
 { "en": "to hug",         "ko": "포옹하다",       "fi": "halata",          "fr": "étreindre" },
 
+{ "en": "partner",        "fi": "kumppani, partneri",     "fr": "partenaire",  "es": "(la) pareja", "ko": "파트너"},
 
 { "en": "close (with other people)",         "ko": "친하다",       "fi": "",          "fr": "" },
 
@@ -108,11 +110,8 @@
 { "en": "jealous",         "ko": "부럽다",       "fi": "mustasukkainen",          "fr": "jaloux" },
 { "en": "ashamed",         "ko": "부끄럽다",       "fi": "häpeissään",          "fr": "honteux" },
 
-{ "en": "brave",        "fi": "rohkea",          "fr": "courageux",       "ko": "용감한" },
-{ "en": "aggressive",   "fi": "aggressiivinen",  "fr": "agressif",    "es": "agresivo",   "ko": "" },
-{ "en": "stubborn",     "fi": "itsepäinen",      "fr": "têtu",        "es": "terco",   "ko": "" },
 
-{ "en": "laborious",      "ko": "힘들다",      "fi": "työläs", "fr": "laborieux" },
+
 
 { "en": "habit",         "ko": "버릇",       "fi": "tapa",          "fr": "habitude" },
 { "en": "manners",         "ko": "버릇",       "fi": "käytöstavat",          "fr": "manières" },
@@ -121,7 +120,7 @@
 { "en": "comment",         "ko": "비평",            "fi": "kommentti",          "fr": "commentaire" },
 { "en": "to comment",         "ko": "비평하다",     "fi": "kommentoida",          "fr": "commenter" },
 
-{ "en": "beginner",         "ko": "초보, 초보자 (early + walk + person)",       "fi": "aloittelija",          "fr": "débutant" },
+{ "en": "beginner",      "fi": "aloittelija",          "fr": "débutant", "es": "principiante",    "ko": "초보, 초보자 (early + walk + person)" },
 { "en": "fool",         "ko": "바보",       "fi": "typerys, hullu",          "fr": "fou" },
 { "en": "lover",         "ko": "애인",       "fi": "rakastaja",          "fr": "amant" },
 { "en": "genius",         "ko": "천재 (heaven + gift)",       "fi": "nero",          "fr": "génie" }

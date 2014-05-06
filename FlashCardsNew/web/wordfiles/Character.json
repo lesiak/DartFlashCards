@@ -13,8 +13,14 @@
 { "en": "to be timid",   "ko": "",       "fi": "arastella, arastaa",          "fr": "être timide" },
 { "en": "to hesitate",   "ko": "주저하다",       "fi": "epäröidä",          "fr": "hésiter" },
 
-{ "en": "patient",       "fi": "kärsivällinen",   "fr": "patient",     "es": "",              "ko": "" },
-{ "en": "punctual",      "fi": "täsmällinen",   "fr": "ponctuel",     "es": "puntual",              "ko": "" },
+{ "en": "patient",       "fi": "kärsivällinen",  "fr": "patient",      "es": "",              "ko": "" },
+{ "en": "punctual",      "fi": "täsmällinen",    "fr": "ponctuel",     "es": "puntual",              "ko": "" },
+{ "en": "laborious",     "fi": "työläs",         "fr": "laborieux",    "ko": "힘들다" },
+
+{ "en": "shy",          "fi": "ujo",             "fr": "timide" ,     "es": "tímido", "ko": ""},
+{ "en": "brave",        "fi": "rohkea",          "fr": "courageux",     "ko": "용감한" },
+{ "en": "aggressive",   "fi": "aggressiivinen",  "fr": "agressif",    "es": "agresivo",   "ko": "" },
+{ "en": "stubborn",     "fi": "itsepäinen",      "fr": "têtu",        "es": "terco",   "ko": "" },
 
 
 { "en": "sincere",       "fi": "vilpitön",          "fr": "sincère",    "ko": "진실하다" },

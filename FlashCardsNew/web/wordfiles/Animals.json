@@ -32,7 +32,7 @@
 { "en": "duck",       "fi": "ankka",     "fr": "canard",    "es": "(el) pato",   "ko": "오리" },
 { "en": "goose",      "fi": "hahni",     "fr": "oie",       "es": "(el) ganso",  "ko": "" },
 { "en": "pigeon",     "fi": "kyyhkynen", "fr": "pigeon",    "es": "(la) paloma", "ko": "비둘기" },
-{ "en": "eagle",      "fi": "kotka",     "fr": "aigle",     "es": "(la) águila", "ko": "" },
+{ "en": "eagle",      "fi": "kotka",     "fr": "aigle",     "es": "(el) águila", "ko": "" },
 { "en": "sparrow",    "fi": "varpunen",  "fr": "moineau",   "es": "(el) gorrión","ko": ""},
 { "en": "swan",       "fi": "joutsen",   "fr": "cygne",     "es": "(el) cisne",  "ko": ""},
 { "en": "stork",      "fi": "haikara",   "fr": "cigogne",   "es": "(la) cigüeña","ko": "" },

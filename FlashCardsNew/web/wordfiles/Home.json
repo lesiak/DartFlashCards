@@ -2,6 +2,7 @@
 
 { "en": "house",       "fi": "talo",       "fr": "",             "es": "(la) casa",        "ko": "" },
 { "en": "home",        "fi": "koti",       "fr": "maison",       "es": "(la) casa, (el) hogar","ko": "집"      },
+{ "en": "a flat",      "fi": "huoneisto",  "fr": "appartement",  "es": "(el) piso","ko": ""      },
 { "en": "apartment",   "fi": "huoneisto",  "fr": "appartement",  "es": "(el) apartamento", "ko": "아파트, 빌라" },
 { "en": "room",        "fi": "huone",      "fr": "chambre",      "es": "(la) habitación, (el) cuarto", "hu": "szoba",            "ko": "방" },
 { "en": "door",        "fi": "ovi",        "fr": "porte",        "es": "(la) puerta",      "hu": "ágy",   "ko": "문" },    
@@ -10,6 +11,7 @@
 { "en": "refrigerator","fi": "jääkaappi",  "fr": "réfrigérateur","es": "(el) refrigerador","ko": "냉장고" },
 { "en": "washing machine","fi": "pesukone","fr": "machine à laver","es": "(la) lavadora", "ko": "세탁기" },
 { "en": "chair",       "fi": "tuoli",      "fr": "chaise",       "es": "(la) silla",  "hu": "szék",  "ko": "의자" },
+{ "en": "armchair",    "fi": "nojatuoli",  "fr": "fauteuil",     "es": "(el) sillón",  "hu": "fotel",  "ko": "안락 의자" },
 
 { "en": "table",       "fi": "pöytä",      "fr": "table",        "es": "(la) mesa",   "ko": "책상" },
 
@@ -18,35 +20,38 @@
 { "en": "bedroom",     "fi": "makuuhuone",        "fr": "chambre à coucher", "es": "(el) dormitorio",                 "ko": "침실 (sleep + room)" },
 
 { "en": "blanket",     "fi": "viltti",     "fr": "couverture", "ko": "담요" },
-{ "en": "carpet",      "fi": "matto",      "fr": "tapis",      "hu": "szőnyeg", "ko": "양탄자" },
-{ "en": "curtain",     "fi": "verho",      "fr": "rideau",     "hu": "függöny", "ko": "커튼" },
+{ "en": "carpet",      "fi": "matto",      "fr": "tapis",      "es": "(la) alfombra",   "hu": "szőnyeg", "ko": "양탄자" },
+{ "en": "curtain",     "fi": "verho",      "fr": "rideau",     "es": "(la) cortina",    "hu": "függöny", "ko": "커튼" },
 
-{ "en": "roof",        "fi": "katto",      "fr": "toit",       "es": "(el) techo",  "hu": "fedél",       "ko": "지붕" },
+{ "en": "wardrobe",    "fi": "vaatekaappi","fr": "armoire",    "es": "(el) armario",    "ko": "옷장" },
+
+{ "en": "roof",        "fi": "katto",      "fr": "toit",       "es": "(el) tejado",  "hu": "fedél",       "ko": "지붕" },
 { "en": "floor",       "fi": "lattia",     "fr": "sol",        "es": "(el) suelo",  "hu": "padló",       "ko": "바닥"     },
 { "en": "fence",       "fi": "aita",       "fr": "clôture",    "es": "(la) valla, (la) cerca",  "hu": "kerítés",     "ko": "울타리"     },
 { "en": "balcony",     "fi": "parveke",    "fr": "balcon",     "es": "(el) balcón", "ko": "발코니"     },
 { "en": "chimney",     "fi": "savupiippu", "fr": "cheminée",   "es": "(la) chimenea", "ko": "굴뚝"     },
-{ "en": "wall",        "fi": "seinä, muuri","fr": "mur",       "ko": "담" },
+{ "en": "wall",        "fi": "seinä, muuri","fr": "mur",       "es": "(la) pared",    "ko": "담" },
 
-{ "en": "soap",        "fi": "saippua",    "fr": "savon",   "es": "(el) jabón","ko": "비누" }, 
-{ "en": "shampoo",     "fi": "shampoo, hiustenpesuaine",    "fr": "shampoing",  "es": "(el) champú", "ko": "샴푸" },
+{ "en": "soap",        "fi": "saippua",    "fr": "savon",      "es": "(el) jabón","ko": "비누" }, 
+{ "en": "shampoo",     "fi": "shampoo, hiustenpesuaine", 
+                                           "fr": "shampoing",       "es": "(el) champú", "ko": "샴푸" },
 { "en": "toothpaste",  "fi": "hammastahna","fr": "dentifrice",      "es": "(la) pasta de dientes, (el) dentífrico",     "ko": "치약"           },
 { "en": "toothbrush",  "fi": "hammasharja","fr": "brosse à dents",  "es": "(el) cepillo de dientes",   "ko": "칫솔"     },
 { "en": "mirror",      "fi": "peili",      "fr": "miroir",          "es": "(el) espejo", "ko": "거울"           },
 { "en": "towel",       "fi": "pyyhe",      "fr": "serviette",       "es": "(la) toalla", "ko": "수건, 타월" },
 
 { "en": "lamp",        "fi": "lamppu",     "fr": "lampe",         "ko": "램프, 전등"    },
-{ "en": "bath",        "fi": "kylpy",      "fr": "bain",          "ko": "목욕"           },
-{ "en": "bathroom",    "fi": "kylpyhuone", "fr": "salle de bain", "ko": "욕실"           },
+{ "en": "bath",        "fi": "kylpy",      "fr": "bain",          "es": "(la) bañera, (el) baño", "ko": "목욕"           },
+{ "en": "bathroom",    "fi": "kylpyhuone", "fr": "salle de bain", "es": "(el) baño",  "ko": "욕실"           },
 { "en": "bathe",       "fi": "kylpeä",     "fr": "se baigner",    "ko": " 목욕시키다" },
 
 { "en": "shower",      "fi": "suihku",     "fr": "douche",        "es": "(la) ducha", "ko": " " },
 { "en": "sink",        "fi": "pesuallas, lavuaari", "fr": "évier, lavabo" ,  "hu": "mosogató",  "ko": "싱크대"},
-{ "en": "tap",         "fi": "hana",    "fr": "robinet", "ko": " " },
+{ "en": "tap",         "fi": "hana",       "fr": "robinet", "ko": " " },
 
 
-{ "en": "pillow",      "fi": "tyyny",    "fr": "oreiller",        "es": "(la) almohada",  "ko": " 베개" },
-{ "en": "comb",        "fi": "kampa",    "fr": "peigne",          "es": "(el) peine",  "ko": " 빗" },
+{ "en": "pillow",      "fi": "tyyny",      "fr": "oreiller",      "es": "(la) almohada",  "ko": " 베개" },
+{ "en": "comb",        "fi": "kampa",      "fr": "peigne",        "es": "(el) peine",  "ko": " 빗" },
 { "en": "shaving",     "fi": "parranajo",  "fr": "rasage",        "ko": "면도"           },
 { "en": "razor",       "fi": "partakone",  "fr": "rasoir",        "ko": "면도칼"        },
 

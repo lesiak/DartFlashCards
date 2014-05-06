@@ -48,7 +48,7 @@
 
  
 
-{ "en": "search",       "ko": "찾다",       "fi": "hakea",    "fr": "chercher" },
+{ "en": "search",       "fi": "hakea",    "fr": "chercher", "es": "buscar", "ko": "찾다" },
 { "en": "find",         "ko": "발견하다",  "fi": "löytää",    "fr": "trouver" },
 
 { "en": "excuse me",    "fi": "anteeksi",    "fr": "excusez-moi",   "ko": "실례합니다" },
