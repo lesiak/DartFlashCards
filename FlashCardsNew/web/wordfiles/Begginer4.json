@@ -87,8 +87,6 @@
 { "en": "believe",         "fi": "uskoa (siihen)",    "fr": "croire",  "es": "creer",  "ko": "믿다" },
 { "en": "to expect",       "ko": "예상하다, 기대하다",       "fi": "odottaa",    "fr": "attendre" },
 { "en": "to intend",       "ko": "",       "fi": "aikoa",    "fr": "avoir l'intention" },
-{ "en": "to hope",       "ko": "희망하다",       "fi": "toivoa",    "fr": "espérer" },
-{ "en": "hope",       "ko": "희망",       "fi": "toivo",    "fr": "espoir" },
 
 
 

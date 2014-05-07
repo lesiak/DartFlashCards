@@ -34,6 +34,7 @@
 { "en": "to touch",  "fi": "koskea",    "fr": "toucher",     "es": "tocar",       "ko": "대다" },
 { "en": "to raise",  "fi": "",          "fr": "",            "es": "elevar",      "ko": "들다" },
 
+{ "en": "belly",     "fi": "vatsa" ,    "fr":"ventre",      "es": "(la) barriga", "ko": "배"},
 
 { "en": "a bone",    "fi": "luu" ,      "fr":"os",          "es": "(el) hueso",   "ko": "뼈"},
 { "en": "blood",     "fi": "veri" ,     "fr":"sang",        "es": "(la) sangre",  "ko": "피"},

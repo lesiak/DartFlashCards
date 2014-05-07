@@ -11,6 +11,8 @@
 { "en": "cute",        "fi": "söpö, soma",   "fr": "mignon",       "es": "nono",     "ko": "귀엽다" },
 { "en": "elegant",     "fi": "tyylikäs",     "fr": "élégant",      "es": "elegante", "ko": "우아한" },
 
+{ "en": "charming",   "fi": "",              "fr": "charmant",     "es": "encantador","ko": "매력적인" },
+
 { "en": "ugly",        "fi": "ruma",         "fr": "laid, moche",  "es": "feo",      "ko": "추한" },
 
 

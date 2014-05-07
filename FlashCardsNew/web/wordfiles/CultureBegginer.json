@@ -5,6 +5,8 @@
 { "en": "newspaper",     "fi": "sanomalehti",  "fr": "journal",       "es": "(el) periódico, (el) diario",   "ko": "신문 (new + hear)" },
 { "en": "magazine",      "fi": "aikakauslehti","fr": "magazine" ,     "es": "(le) revista",   "ko": "잡지"},
 
+{ "en": "movie",         "fi": "elokuva",      "fr": "film",          "es": "(la) película",     "ko": "영화" },
+
 { "en": "actor",         "fi": "näyttelijä",   "fr": "acteur",        "es": "(el) actor",     "ko": "배우" },
 { "en": "movie star",    "fi": "päänäyttelijä","fr": "star de cinéma","es": "(la) estrella de cine", "ko": "영화 배우"},
 { "en": "singer",        "fi": "laulaja",      "fr": "chanteur",      "es": "",   "ko": "가수" },

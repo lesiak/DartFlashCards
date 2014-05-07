@@ -4,21 +4,45 @@
 { "en": "happy",     "fi": "onnellinen",   "fr": "heureux",   "es": "feliz",    "ko": "행복하다" },
 { "en": "glad",      "fi": "iloinen",      "fr": "heureux",   "es": "contento", "ko": "성난" },
 
-{ "en": "angry",     "fi": "vihainen, suuttunut",          "fr": "en colère, fâché",  "ko": "성난" },
+{ "en": "angry",     "fi": "vihainen, suuttunut",  "fr": "en colère, fâché",  "es": "enfadado",  "ko": "성난" },
+{ "en": "proud",     "fi": "ylpeä",                "fr": "fier,orgueilleux",  "es": "orgulloso", "ko": "" },
 
+{ "en": "worried",       "fi": "huolestunut",          "fr": "inquiet",  "ko": "" },
+{ "en": "nervous",       "fi": "hermostunut",          "fr": "nerveux", "ko": "" },
 
+{ "en": "upset",         "fi": "järkyttynyt",         "fr": "bouleversé",  "es": "indignado",    "ko": "" },
 
-{ "en": "worried",         "ko": "",       "fi": "huolestunut",          "fr": "inquiet" },
-{ "en": "nervous",         "ko": "",       "fi": "hermostunut",          "fr": "nerveux" },
+{ "en": "disappointed",  "fi": "pettynyt",            "fr": "déçu",        "es": "decepcionado", "ko": "" },
+
+{ "en": "depressed",     "fi": "masentunut",          "fr": "déprimé",     "es": "deprimido",   "ko": "" },
+{ "en": "lonely",        "fi": "yksinäinen",          "fr": "solitaire",   "es": "solitario, solo",   "ko": "고독한" },
+
+{ "en": "satisfied",     "fi": "vakuuttunut",          "fr": "satisfait",   "es": "satisfecho",   "ko": "" },
+{ "en": "excited",       "fi": "innoissaan, innostunut",  "fr": "excité",  "es": "emocionado", "ko": "흥분한"},
 
 { "en": "tired",         "fi": "väsynyt",   "fr": "fatigué",   "es": "cansado",  "ko": "피곤한" },
 
 
 { "en": "laugh",       "ko": "웃다",      "fi": "nauraa",    "fr": "rire" },
 { "en": "to smile",         "ko": "웃다",       "fi": "hymyillä",          "fr": "sourire" },
-{ "en": "smile",         "ko": "미소",       "fi": "hymy",          "fr": "sourire" }
+{ "en": "smile",         "ko": "미소",       "fi": "hymy",          "fr": "sourire" },
 
 
+{ "en": "anger",      "fi": "viha",           "fr": "colère",    "es": "(la) ira, (la) cólera", "ko": "분노" },
+{ "en": "joy",        "fi": "ilo",            "fr": "joie",      "es": "(la) alegría",          "ko": "즐거움" },
+{ "en": "sadness",    "fi": "surullisuus",    "fr": "tristesse", "es": "(la) tristeza",         "ko": "" },
+{ "en": "love",       "fi": "rakkaus",        "fr": "amour",     "es": "(el) amor",             "ko": "사랑" },
+{ "en": "hate",       "fi": "viha",           "fr": "haine",     "es": "(el) odio",             "ko": "" },
+
+{ "en": "to hope",    "fi": "toivoa",         "fr": "espérer",   "es": "esperar",               "ko": "희망하다" },
+{ "en": "hope",       "fi": "toivo",          "fr": "espoir",    "es": "(la) esperanza",        "ko": "희망" },
+
+
+{ "en": "emotion",    "fi": "tunne, emotio",  "fr": "émotion",   "es": "(la) emoción",   "ko": "감정" },
+{ "en": "mood",       "fi": "mieliala",       "fr": "humeur",    "es": "(el) humor",     "ko": "기분" },
+{ "en": "to feel",    "fi": "tuntea",         "fr": "sentir",    "es": "sentirse",     "ko": "느끼다" },
+{ "en": "feeling",    "fi": "tunne",          "fr": "sentiment", "es": "(el) sentimiento",     "ko": "" },
+{ "en": "stress",     "fi": "stressi",        "fr": "stress","ko": "스트레스" }
 
 
 ]
