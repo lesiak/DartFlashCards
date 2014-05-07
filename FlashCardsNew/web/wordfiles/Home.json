@@ -52,7 +52,7 @@
 
 { "en": "pillow",      "fi": "tyyny",      "fr": "oreiller",      "es": "(la) almohada",  "ko": " 베개" },
 { "en": "comb",        "fi": "kampa",      "fr": "peigne",        "es": "(el) peine",  "ko": " 빗" },
-{ "en": "shaving",     "fi": "parranajo",  "fr": "rasage",        "ko": "면도"           },
+{ "en": "shaving",     "fi": "parranajo",  "fr": "rasage",        "es": "(el) afeitado",  "ko": "면도"           },
 { "en": "razor",       "fi": "partakone",  "fr": "rasoir",        "ko": "면도칼"        },
 
 { "en": "kitchen",     "fi": "keittiö",  "fr": "cuisine",         "es": "(la) cocina",  "ko": " 부엌" },

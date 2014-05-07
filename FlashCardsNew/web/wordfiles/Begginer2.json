@@ -66,9 +66,6 @@
 { "en": "thin",         "ko": "얇다",       "fi": "ohut",          "fr": "mince" },
 { "en": "thick",         "ko": "두껍다",       "fi": "paksu",          "fr": "mince" },
 
-{ "en": "short (height)",       "ko": "키가 작다",       "fi": "lyhyt",    "fr": "petit" },
-{ "en": "tall (height - building)",       "ko": " 키가 크다",       "fi": "korkea",    "fr": "haut, grand" },
-{ "en": "tall (height - man)",       "ko": " 키가 크다",       "fi": "pitkä",    "fr": "haut" },
 
 { "en": "weight",       "ko": "무게",       "fi": "paino",    "fr": "poids" },
 { "en": "heavy",         "ko": "무거운 (무겁다)",       "fi": "painava",          "fr": "lourd" },

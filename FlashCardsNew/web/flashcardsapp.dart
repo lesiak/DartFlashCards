@@ -19,6 +19,7 @@ class FlashCardsApp extends PolymerElement {
   List<String> level1Files = ['Begginer1',
                      'Begginer2',
                      'Begginer3',
+                     'AppearanceBeginner',
                      'Begginer4',
                      'Begginer5',
                      'Begginer6',

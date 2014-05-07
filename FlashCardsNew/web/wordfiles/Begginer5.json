@@ -22,11 +22,8 @@
 
 { "en": "to cut",    "ko": "베다",    "fi": "leikata" , "fr":"couper"},
 
-{ "en": "strong",         "ko": "강하다",       "fi": "vahva",          "fr": "forte" },
-{ "en": "weak",         "ko": "약하다",       "fi": "heikko",          "fr": "faible" },
-
-{ "en": "weakness, weak point",         "ko": "약점 (weak + point)",       "fi": "heikkous",          "fr": "faiblesse, point faible" },
-
+{ "en": "strong",       "fi": "vahva",          "fr": "forte",   "es": "fuerte",   "ko": "강하다" },
+{ "en": "weak",         "fi": "heikko",         "fr": "faible",  "ko": "약하다" },
 
 
 { "en": "to lose",      "ko": "잃다",      "fi": "menettää, hävitä", "fr": "perdre" },
