@@ -32,6 +32,8 @@
 { "en": "to rescue",    "fi": "pelastaa",       "fr": "sauver",   "es": "rescatar",  "ko": ""},
 
 
+{ "en": "to confuse",    "fi": "",       "fr": "",   "es": "confundir",  "ko": ""},
+{ "en": "to avoid",    "fi": "välttää",       "fr": "éviter",   "es": "evitar",  "ko": ""},
 
 { "en": "to work, function",       "ko": "",    "fi": "toimia",    "fr":"fonctionner"},
 

@@ -9,10 +9,10 @@
 { "en": "Saturday",     "ko": "토요일",         "fi": "lauantai",          "fr": "samedi" },
 { "en": "Sunday",     "ko": "일요일",         "fi": "sunnuntai",          "fr": "dimanche" },
 
-{ "en": "winter",     "ko": "겨울",         "fi": "talvi",          "fr": "hiver" },
+{ "en": "winter",     "fi": "talvi",      "fr": "hiver",  "es": "(el) invierno",  "ko": "겨울" },
 { "en": "spring",     "ko": "봄",         "fi": "kevät",          "fr": "printemps" },
-{ "en": "summer",     "fi": "kesä",          "fr": "été",    "es": "(el) verano",   "ko": "여름" },
-{ "en": "autumn",     "ko": "가을",         "fi": "syksy",          "fr": "automne" },
+{ "en": "summer",     "fi": "kesä",       "fr": "été",    "es": "(el) verano",   "ko": "여름" },
+{ "en": "autumn",     "ko": "가을",      "fi": "syksy",          "fr": "automne" },
 
 { "en": "January",     "ko": "일월",         "fi": "tammikuu",          "fr": "janvier" },
 { "en": "February",     "ko": "이월",         "fi": "helmikuu",          "fr": "février" },

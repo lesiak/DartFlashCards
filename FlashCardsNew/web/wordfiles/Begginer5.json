@@ -1,5 +1,5 @@
 [
-{ "en": "question",       "ko": "문제",       "fi": "kysymys, asia",    "fr": "question" },
+{ "en": "question",      "fi": "kysymys, asia",    "fr": "question",   "ko": "문제" },
 { "en": "to ask",        "ko": "묻다 (물어)",          "fi": "kysyä",    "fr": "" },
 { "en": "answer",       "fi": "vastaus",   "fr": "réponse",    "es": "(la) respuesta",  "ko": "답변, 대답 (reply + answer)" },
 { "en": "to answer",    "fi": "vastata",   "fr": "répondre",   "es": "responder",       "ko": "답변하다, 대답하다" },
@@ -30,7 +30,7 @@
 { "en": "lost",      "ko": "잃어버린",      "fi": "menetetty, hävitty", "fr": "perdu" },
 
 
-{ "en": "wheel",       "ko": "바퀴",       "fi": "pyörä",    "fr": "roue" },
+{ "en": "wheel",        "fi": "pyörä",    "fr": "roue",   "ko": "바퀴" },
 { "en": "basket",       "ko": "바구니",       "fi": "kori",    "fr": "panier" },
 { "en": "reaction",       "ko": "반응 (reverse + answer)",       "fi": "reaktio",    "fr": "réaction" },
 { "en": "to react",       "ko": "반응하다",       "fi": "suhtautua",    "fr": "réagir" },
@@ -38,12 +38,12 @@
 { "en": "to interrupt",       "ko": "방해하다",       "fi": "keskeyttää",    "fr": "interrompre" },
 
 
-{ "en": "invitation",         "ko": "초대 (invite + wait), 초청 (invite + request)",       "fi": "kutsu",          "fr": "invitation" },
-{ "en": "to invite",         "ko": "초대하다, 초청하다",       "fi": "kutsua",          "fr": "inviter" },
-{ "en": "according to",         "ko": "-에 따라서",       "fi": "mukaan",          "fr": "" },
+{ "en": "invitation",      "fi": "kutsu",        "fr": "invitation",   "es": "(la) invitación",  "ko": "초대 (invite + wait), 초청 (invite + request)" },
+{ "en": "to invite",       "fi": "kutsua",       "fr": "inviter",      "es": "invitar",          "ko": "초대하다, 초청하다" },
+{ "en": "according to",    "fi": "mukaan",       "fr": "",                    "ko": "-에 따라서" },
 
-{ "en": "for example",    "fi": "esimerkiksi",   "fr": "par exemple",  "es": "por ejemplo",  "ko": "예를 들어서" },
-{ "en": "example",        "fi": "esimerkki",     "fr": "exemple",      "es": "ejemplo",      "ko": "예" },
+{ "en": "for example",     "fi": "esimerkiksi",  "fr": "par exemple",  "es": "por ejemplo",  "ko": "예를 들어서" },
+{ "en": "example",         "fi": "esimerkki",    "fr": "exemple",      "es": "ejemplo",      "ko": "예" },
 
 { "en": "by chance",   "ko": "우연히",    "fi": "sattumalta",   "fr":"par hasard"},
 
@@ -58,8 +58,8 @@
 { "en": "criticize",            "ko": "비판하다 (blame + judge)",          "fi": "arvostella",    "fr": "critiquer" },
 { "en": "critical",            "ko": "비판적 (blame + judge + of)",          "fi": "kriittinen",    "fr": "critique" },
 
-{ "en": "security",            "ko": "보안 (keep + comfortable)",          "fi": "turvallisuus",    "fr": "sécurité" },
-{ "en": "safe",            "ko": "안전한 (?)",          "fi": "turvallinen",    "fr": "sauf" }
+{ "en": "security",        "fi": "turvallisuus",    "fr": "sécurité", "es": "(la) seguridad", "ko": "보안 (keep + comfortable)" },
+{ "en": "safe",            "fi": "turvallinen",    "fr": "sauf",  "ko": "안전한 (?)" }
 
   
 ]

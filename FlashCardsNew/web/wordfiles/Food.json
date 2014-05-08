@@ -27,9 +27,14 @@
 { "en": "potato",       "fi": "peruna",     "fr": "pomme de terre","es": "(la) patata", "ko": "감자" },
 { "en": "french fries", "fi": "ranskalaiset" , "fr":"","ko": "감자튀김"},
 
-{ "en": "pumpkin",      "fi": "kurpitsa",   "fr": "citrouille", "ko": "호박" },
+{ "en": "pumpkin",      "fi": "kurpitsa",   "fr": "citrouille",    "es": "(la) calabaza",  "ko": "호박" },
 { "en": "butternut squash",       "ko": "",         "fi": "myskikurpitsa",    "fr": "courge musquée, doubeurre" },
 
+{ "en": "courgette",      "fi": "kesäkurpitsa","fr": "courgette", "es": "(el) calabacín",  "ko": "서양 호박" },
+
+{ "en": "spinach",        "fi": "pinaatti",     "fr": "épinards",  "es": "(la) espinaca",  "ko": "시금치" },
+{ "en": "bell pepper",    "fi": "paprika",      "fr": "poivron",   "es": "(el) pimiento",  "ko": "피망" },
+{ "en": "lettuce",        "fi": "lehtisalaatti","fr": "laitue",    "es": "(la) lechuga",  "ko": "상추" },
 
 { "en": "mushroom",       "fi": "sieni",     "fr": "champignon",  "ko": "버섯" },
 { "en": "onion",          "fi": "sipuli",    "fr": "oignon",    "es": "(la) cebolla",    "ko": "양파 (the West + Welsh onion)" },
@@ -60,6 +65,7 @@
 { "en": "pancake",       "ko": "",         "fi": "ohukainen",    "fr": "" },
 { "en": "scrambled eggs",       "ko": "",         "fi": "munakokkeli",    "fr": "" },
 { "en": "omelette",       "ko": "",         "fi": "munakas",    "fr": "" },
+{ "en": "sausage",              "fi": "makkara",    "fr": "saucisse",  "es": "(la) salchicha" , "ko": ""},
 
 
 { "en": "ice cream",       "ko": "아이스크림",         "fi": "jätski, jäätelö",    "fr": "crème glacée" },
@@ -72,8 +78,8 @@
 { "en": "sour",        "ko": "신, 사워",       "fi": "hapan",        "fr": "aigre" },
 { "en": "spicy",        "ko": "맵다",       "fi": "mausteinen" ,  "fr":"piquant"},
 { "en": "mild",        "ko": "",       "fi": "mieto" ,  "fr":""},
-{ "en": "fresh",        "ko": "신선한",       "fi": "tuore" ,  "fr":"frais"},
-{ "en": "refreshing",        "ko": "상쾌한",       "fi": "virkistävä" ,  "fr":"rafraîchissant"},
+{ "en": "fresh",        "fi": "tuore" ,       "fr": "frais",          "es": "fresco",  "ko": "신선한"},
+{ "en": "refreshing",   "fi": "virkistävä",   "fr": "rafraîchissant", "es": "refrescante", "ko": "상쾌한"},
 
 
 { "en": "cuisine",      "ko": "요리",       "fi": "keittiö",      "fr": "cuisine" },
@@ -89,9 +95,11 @@
 
 { "en": "fast food",          "ko": "패스트 푸드",         "fi": "pikaruoka",    "fr": "" },
 
+{ "en": "poultry",    "fi": "siipikarja",    "fr": "volaille", "es": "aves de corral",  "ko": "푸드" },
+{ "en": "turkey",     "fi": "dinde",    "fr": "volaille",      "es": "(el) pavo",  "ko": "" },
 
 { "en": "meal",         "ko": "식사",       "fi": "ateria",    "fr": "repas" },
-{ "en": "dessert",         "ko": "디저트, 후식",       "fi": "jälkiruoka",    "fr": "dessert" },
+{ "en": "dessert",       "fi": "jälkiruoka",    "fr": "dessert",  "es": "(el) postre", "ko": "디저트, 후식" },
 { "en": "snack",         "ko": "간식 (between + meal)",       "fi": "välipala, pientä purtavaa",    "fr": "casse-croûte" }
 
 

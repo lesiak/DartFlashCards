@@ -19,7 +19,7 @@
 { "en": "walnut",     "fi": "saksanpähkinä","fr": "noix",       "es": "(la) nuez",     "hu": "dió",        "ko": "호두"   },
 { "en": "almond",     "fi": "manteli",      "fr": "amande",     "es": "(la) almendra", "hu": "mandula",    "ko": "아몬드" },
 
-{ "en": "fruit",      "fi": "hedelmä",      "fr": "fruit",      "hu": "gyümölcs",   "ko": "과일"    },
+{ "en": "fruit",      "fi": "hedelmä",      "fr": "fruit",      "fr": "(la) fruta",    "hu": "gyümölcs",   "ko": "과일"    },
 
 { "en": "hard",       "fi": "kova",         "fr": "dur",        "hu": "kemény",     "ko": ""     },
 { "en": "soft",       "fi": "pehmeä",       "fr": "mou",        "hu": "puha, lágy", "ko": ""     }
