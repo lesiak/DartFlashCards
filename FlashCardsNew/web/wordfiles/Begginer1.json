@@ -25,6 +25,7 @@
 { "en": "rainbow",   "fi": "sateenkaari","fr": "arc-en-ciel","es": "(el) arco iris", "hu": "szivárvány",   "ko": "무지개"        },
 { "en": "stone",     "fi": "kivi",       "fr": "pierre" ,   "es": "(la) piedra", "hu": "kő",    "ko": "돌"        },
 { "en": "mountain",  "fi": "vuori",      "fr": "montagne",  "es": "(la) montaña","hu": "hegy",  "ko": "산",   "zh": "山 (shān)"        },
+{ "en": "hill",      "fi": "mäki, kukkula","fr": "colline", "es": "(la) colina", "hu": "hegy",  "ko": "언덕"   },
 { "en": "swamp",     "fi": "suo",        "fr": "marais",    "es": "(el) pantano","hu": "ingovány", "ko": "늪"  },
 
  

@@ -51,6 +51,8 @@
 
 { "en": "quality",         "ko": "품질",       "fi": "laatu",          "fr": "qualité" },
 
+{ "en": "wool",     "fi": "villa",    "fr": "laine",   "es": "(la) lana",   "ko": "" },
+
 { "en": "make, manufacture, tailor",         "ko": "짓다",       "fi": "",          "fr": "" }
 
 

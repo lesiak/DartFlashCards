@@ -3,12 +3,23 @@
 { "en": "nature",      "ko": "자연",         "fi": "luonto" ,     "fr":"nature"},
 { "en": "natural",     "ko": "",             "fi": "luonnollinen", "fr":"naturel"},
 { "en": "environment", "ko": "",             "fi": "ympäristö" ,   "fr":"environnement"},
-{ "en": "protection",  "ko": "보호",         "fi": "suojelu" ,    "fr":"protection, sauvegarde"},
-{ "en": "to protect",  "ko": "보호하다",    "fi": "suojella" ,   "fr":"protéger"},
-{ "en": "valley",      "ko": "골짜기, 계곡","fi": "laakso" ,     "fr":"vallée"},
-{ "en": "ocean",       "ko": "대양, 해양",   "fi": "valtameri",  "fr":"océan"},
-{ "en": "meadow",      "ko": "목초지",       "fi": "niitty" ,    "fr":""},
-{ "en": "shadow",      "ko": "그림자",       "fi": "varjo",     "fr": "ombre" },
+{ "en": "protection",  "fi": "suojelu" ,     "fr":"protection, sauvegarde",  "ko": "보호"},
+{ "en": "to protect",  "fi": "suojella" ,    "fr":"protéger",  "ko": "보호하다"},
+{ "en": "valley",      "fi": "laakso" ,      "fr":"vallée",   "es": "(el) valle","ko": "골짜기, 계곡"},
+{ "en": "ocean",       "fi": "valtameri",    "fr":"océan",   "ko": "대양, 해양"},
+
+
+  
+{ "en": "meadow",      "fi": "niitty" ,      "fr": "",          "es": "", "ko": "목초지"},
+{ "en": "field",       "fi": "pelto" ,       "fr": "",          "es": "(el) campo", "ko": ""},
+{ "en": "countryside", "fi": "maaseutu" ,    "fr": "campagne",  "es": "(el) campo", "ko": ""},
+
+{ "en": "farm",        "fi": "maatila",      "fr": "ferme",     "es": "(la) granja",  "ko": ""},
+{ "en": "barn",        "fi": "lato, navetta","fr": "grange",  "es": "(el) establo", "ko": ""},
+
+
+
+{ "en": "shadow",      "fi": "varjo",      "fr": "ombre" ,    "es": "(?) ombre", "ko": "그림자"},
 { "en": "cloudy",      "ko": "흐리다",       "fi": "pilvinen",   "fr":"nuageux"},
 { "en": "storm",       "ko": "폭풍",         "fi": "myrsky",   "fr":"orage (m), tempête (f)"},
 { "en": "lightning",   "ko": "번개, 벼락 ",  "fi": "salama",   "fr":"éclair (m)"},

@@ -77,6 +77,16 @@
 
 { "en": "stapler",       "ko": "호치키스",    "fi": "nitoja",    "fr":"agrafeuse"},
 
+{ "en": "agriculture",   "fi": "maanviljely",   "fr": "agriculture", "es": "(la) agricultura", "ko": ""},
+{ "en": "soil",          "fi": "maaperä",       "fr": "terre",       "es": "(la) tierra",      "ko": ""},
+{ "en": "vineyard",      "fi": "viinitarha",    "fr": "vignoble",    "es": "(la) viña",        "ko": ""},
+
+{ "en": "to harverst",      "fi": "",    "fr": "récolter",    "es": "cosechar",        "ko": ""},
+
+
+{ "en": "to feed",       "fi": "ruokkia",    "fr": "nourrir, alimenter",  "es": "alimentar",  "ko": "" },
+{ "en": "to stroke",     "fi": "silittää",   "fr": "caresser",  "es": "acariciar",     "ko": "" },
+
 
 { "en": "to rub",   "ko": "비비다",    "fi": "hieroa",   "fr":"frotter"},
 { "en": "fall asleep",   "ko": "잠들다",    "fi": "nukahtaa",   "fr":"s'endormir"},
@@ -85,8 +95,6 @@
 
 { "en": "female (animals)",       "ko": "암컷",       "fi": "naaras",    "fr": "femelle" },
 
-{ "en": "to feed",       "fi": "ruokkia",    "fr": "nourrir, alimenter",  "es": "alimentar",  "ko": "" },
-{ "en": "to stroke",     "fi": "silittää",   "fr": "caresser",  "es": "acariciar",     "ko": "" },
 
 { "en": "nightmare",       "ko": "악몽 (bad + dream)",       "fi": "painajainen",    "fr": "cauchemar" },
 { "en": "to spit",       "ko": "뱉다",       "fi": "sylkeä",    "fr": "cracher" }
