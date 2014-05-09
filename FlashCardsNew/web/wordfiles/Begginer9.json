@@ -73,6 +73,8 @@
 { "en": "to predict",   "ko": "",    "fi": "ennustaa",   "fr":"prédire, prévoir"},
 { "en": "prediction",   "ko": "",    "fi": "ennustus",   "fr":"prédiction"},
 
+{ "en": "active",   "fi": "aktiivinen",   "fr":"actif", "es":"activo",   "ko": ""},
+
 { "en": "weakness, weak point",         "ko": "약점 (weak + point)",       "fi": "heikkous",          "fr": "faiblesse, point faible" },
 
 { "en": "stapler",       "ko": "호치키스",    "fi": "nitoja",    "fr":"agrafeuse"},
