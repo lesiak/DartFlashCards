@@ -51,7 +51,15 @@
 
 { "en": "quality",         "ko": "품질",       "fi": "laatu",          "fr": "qualité" },
 
-{ "en": "wool",     "fi": "villa",    "fr": "laine",   "es": "(la) lana",   "ko": "" },
+
+{ "en": "clothes",     "fi": "vaatteet",    "fr": "vêtements",   "es": "(la) ropa",   "ko": "" },
+{ "en": "flip-flops",     "fi": "vaatteet",    "fr": "vêtements",   "es": "(la) ropa",   "ko": "" },
+{ "en": "T-shirt",     "fi": "hiha",    "fr": "T-shirt",   "es": "(la) camiseta",   "ko": "" },
+
+{ "en": "sleeve",     "fi": "T-paita",    "fr": "manche",   "es": "(la) manga",   "ko": "" },
+{ "en": "button",     "fi": "nappi",    "fr": "bouton",   "es": "(el) botón",   "ko": "" },
+
+{ "en": "wool",     "fi": "varvastossut",    "fr": "tongs",   "es": "(las) chanclas",   "ko": "" },
 
 { "en": "make, manufacture, tailor",         "ko": "짓다",       "fi": "",          "fr": "" }
 
