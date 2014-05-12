@@ -10,7 +10,7 @@
 { "en": "artist",         "ko": "예술가",       "fi": "taiteilija",          "fr": "artiste" },
  
 { "en": "princess",         "ko": "왕자비",       "fi": "prinsessa",          "fr": "" },
-{ "en": "scientist",         "ko": "과학자",       "fi": "tiedemies, tutkija",          "fr": "" },
+{ "en": "scientist",     "fi": "tiedemies, tutkija",  "fr": "", "es": "(el) científico",   "ko": "과학자" },
 { "en": "farmer",         "ko": "농장주",       "fi": "maanviljelijä",          "fr": "agriculteur" },
 { "en": "hunter",         "ko": "사냥꾼",       "fi": "metsästäjä",          "fr": "chasseur" },
 

@@ -26,7 +26,7 @@
 
 
 { "en": "solution",   "ko": "해결",       "fi": "ratkaisu",    "fr": "solution" },
-{ "en": "result",     "ko": "결과 (finish + result)",    "fi": "tulos" , "fr":"résultat"},
+{ "en": "result",     "fi": "tulos",    "fr": "résultat",  "fr": "(el) resultado", "ko": "결과 (finish + result)"},
 
 { "en": "decision",   "ko": "결정 (decide + decide)",    "fi": "päätös" , "fr":"décision"},
 { "en": "to decide",  "ko": "결정하다",    "fi": "päättää" , "fr":"décider"},

@@ -7,7 +7,14 @@
 { "en": "course",       "ko": "과목",       "fi": "kurssi",    "fr": "cours" },
 
 { "en": "test",        "ko": "시험",          "fi": "koe, tentti",    "fr": "test, examen" },
-{ "en": "science",       "ko": "과학",       "fi": "tiede",    "fr": "science" },
+{ "en": "science",       "fi": "tiede",    "fr": "science",  "es": "(la) ciencia",  "ko": "과학" },
+{ "en": "research",      "fi": "tutkimus",    "fr": "recherche",  "es": "(la) investigación",  "ko": "연구" },
+
+{ "en": "experiment",    "fi": "kokeilu",    "fr": "",         "es": "(el) experimento",  "ko": "실험" },
+{ "en": "to observe",    "fi": "tarkkailla", "fr": "observer", "es": "observar",  "ko": ""},
+
+{ "en": "laboratory",      "fi": "laboratorio",    "fr": "laboratoire",  "es": "(el) laboratorio",  "ko": "실험실" },
+
 
 { "en": "report",       "ko": "보고서",       "fi": "selvitys, raportti",    "fr": "rapport" },
 
@@ -17,7 +24,8 @@
 { "en": "geometry",       "fi": "geometria",    "fr": "géométrie",      "es": "(la) geometría",    "ko": "기하학" },
 { "en": "algebra",        "fi": "algebra",      "fr": "algèbre",        "es": "(la) álgebra",      "ko": "기하학" },
 { "en": "physics",        "fi": "fysiikka",     "fr": "physique",       "es": "(la) física",       "ko": "물리학" },
-{ "en": "biology",       "ko": "생물학",       "fi": "biologia",    "fr": "biologie" }, 
+{ "en": "biology",        "fi": "biologia",     "fr": "biologie",       "es": "(la) biología",     "ko": "생물학" }, 
+{ "en": "chemistry",      "fi": "kemia",        "fr": "chimie",         "es": "(la) química",      "ko": "화학" }, 
 { "en": "psychology",       "ko": "심리학",       "fi": "psykologia",    "fr": "psychologie" },
 { "en": "geography",       "ko": "지리학",       "fi": "maantiede",    "fr": "géographie" },
 { "en": "law (discipline)",       "ko": "",       "fi": "oikeustiede",    "fr": "droit" },
