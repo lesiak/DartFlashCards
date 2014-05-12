@@ -3,7 +3,7 @@
 { "en": "entertainment", "fi": "viihde",       "fr": "divertissement","es": "(el) entretenimiento",  "ko": "환대" },
 { "en": "book",          "fi": "kirja",        "fr": "livre",         "es": "(el) libro",    "ko": "책" },
 { "en": "newspaper",     "fi": "sanomalehti",  "fr": "journal",       "es": "(el) periódico, (el) diario",   "ko": "신문 (new + hear)" },
-{ "en": "magazine",      "fi": "aikakauslehti","fr": "magazine" ,     "es": "(le) revista",   "ko": "잡지"},
+{ "en": "magazine",      "fi": "aikakauslehti","fr": "magazine" ,     "es": "(la) revista",   "ko": "잡지"},
 
 { "en": "movie",         "fi": "elokuva",      "fr": "film",          "es": "(la) película",     "ko": "영화" },
 

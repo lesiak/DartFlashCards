@@ -16,8 +16,8 @@
 { "en": "ugly",        "fi": "ruma",         "fr": "laid, moche",  "es": "feo",      "ko": "추한" },
 
 
-{ "en": "slim, slender",   "fi": "hoikka, laiha",                      "fr": "mince, maigre, svelte",  "es": "gordo",    "ko": "날씬하다, 호리 호리하다"},
-{ "en": "fat",             "fi": "lihava, läski (derogatory), paksu" , "fr": "gros",                   "es": "delgado",  "ko": "뚱뚱하다"},
+{ "en": "slim, slender",   "fi": "hoikka, laiha",                      "fr": "mince, maigre, svelte",  "es": "delgado",    "ko": "날씬하다, 호리 호리하다"},
+{ "en": "fat",             "fi": "lihava, läski (derogatory), paksu" , "fr": "gros",                   "es": "gordo",  "ko": "뚱뚱하다"},
 
 { "en": "straight (hair)", "fi": "" , "fr": "",                   "es": "liso",  "ko": ""},
 { "en": "curly (hair)", "fi": "" , "fr": "",                      "es": "rizado",  "ko": ""}
