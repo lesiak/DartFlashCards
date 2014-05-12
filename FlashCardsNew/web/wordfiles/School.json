@@ -13,10 +13,11 @@
 
 { "en": "pencil",       "ko": "연필",       "fi": "lyijykynä",    "fr": "crayon" }, 
 
-{ "en": "mathematics",       "ko": "수학",       "fi": "matematiikka",    "fr": "mathématiques" },
-{ "en": "geometry",       "ko": "기하학",       "fi": "geometria",    "fr": "géométrie" },
-{ "en": "physics",       "ko": "물리학",       "fi": "fysiikka",    "fr": "physique" },
-{ "en": "biology",       "ko": "생물학",       "fi": "biologia",    "fr": "biologie" },
+{ "en": "mathematics",    "fi": "matematiikka", "fr": "mathématiques",  "es": "(las) matemáticas", "ko": "수학" },
+{ "en": "geometry",       "fi": "geometria",    "fr": "géométrie",      "es": "(la) geometría",    "ko": "기하학" },
+{ "en": "algebra",        "fi": "algebra",      "fr": "algèbre",        "es": "(la) álgebra",      "ko": "기하학" },
+{ "en": "physics",        "fi": "fysiikka",     "fr": "physique",       "es": "(la) física",       "ko": "물리학" },
+{ "en": "biology",       "ko": "생물학",       "fi": "biologia",    "fr": "biologie" }, 
 { "en": "psychology",       "ko": "심리학",       "fi": "psykologia",    "fr": "psychologie" },
 { "en": "geography",       "ko": "지리학",       "fi": "maantiede",    "fr": "géographie" },
 { "en": "law (discipline)",       "ko": "",       "fi": "oikeustiede",    "fr": "droit" },
@@ -29,12 +30,24 @@
 { "en": "graduate",       "ko": "졸업하다",       "fi": "valmistua, suorittaa tutkinto, saada oppiarvo",    "fr": "obtenir sa licence, son diplôme" },
 { "en": "diligently",       "ko": "열심히",       "fi": "ahkerasti",    "fr": "diligemment" },
 
-{ "en": "number",       "ko": "수",       "fi": "luku",    "fr": "nombre, numéro" },
-{ "en": "triangle",       "ko": "삼각형",       "fi": "kolmio",    "fr": "triangle" },
+{ "en": "number",       "fi": "luku",      "fr": "nombre, numéro", "es": "(el) número",  "ko": "수" },
+{ "en": "point (maths)","fi": "",          "fr": "point",          "es": "(el) punto",   "ko": "" },
+{ "en": "triangle",     "fi": "kolmio",    "fr": "triangle", "ko": "삼각형" },
 { "en": "square",       "ko": "정사각형",       "fi": "neliö",    "fr": "carré" },
 { "en": "circle",       "ko": "원",       "fi": "ympyrä",    "fr": "cercle" },
-{ "en": "disk (mathematics)",       "ko": "원판",       "fi": "kiekko",    "fr": "disque" },
-{ "en": "equation",       "ko": "방정식",       "fi": "yhtälö",    "fr": "équation" },
+{ "en": "disk (maths)",   "ko": "원판",       "fi": "kiekko",    "fr": "disque" },
+{ "en": "equation",     "fi": "yhtälö",    "fr": "équation",    "ko": "방정식" },
+
+{ "en": "infinity",     "fi": "äärettömyys",    "fr": "infinité",  "es": "(el) infinito", "ko": "방정식" },
+
+{ "en": "plus (maths)",  "fi": "plussa",    "fr": "plus",  "es": "(el) más", "ko": "" },
+{ "en": "minus (maths)", "fi": "miinus",    "fr": "moins",  "es": "(el) menos", "ko": "" },
+
+
+{ "en": "to add (maths)","fi": "",    "fr": "ajouter",      "es": "sumar", "ko": "" },
+{ "en": "to subtract",   "fi": "",    "fr": "soustraire",   "es": "sustraer", "ko": "" },
+{ "en": "to multiply",   "fi": "",    "fr": "multiplier",   "es": "multiplicar", "ko": "" },
+{ "en": "to divide",     "fi": "",    "fr": "partager",     "es": "dividir", "ko": "" },
 
 { "en": "to count",       "ko": "",       "fi": "laskea",    "fr": "compter" },
 
@@ -48,8 +61,9 @@
 { "en": "principle",     "ko": "원칙, 원리",       "fi": "periaate",     "fr": "principe" },
 
 
-{ "en": "ruler",       "ko": "자",       "fi": "viivain",    "fr": "règle" },
-{ "en": "calculator",       "ko": "계산기",       "fi": "laskin",    "fr": "calculatrice" }
+{ "en": "ruler",         "fi": "viivain",   "fr": "règle",     "ko": "자" },
+{ "en": "to calculate",  "fi": "laskea",    "fr": "calculer",  "es": "calcular",  "ko": "계산기" },
+{ "en": "calculator",    "fi": "laskin",    "fr": "calculatrice",  "ko": "계산기" }
 
 
 ]

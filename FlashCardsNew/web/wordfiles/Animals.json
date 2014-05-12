@@ -49,6 +49,8 @@
 { "en": "elephant",   "fi": "norsu",      "fr": "éléphant",    "es": "(el) elefante", "ko": "코끼리" },
 { "en": "fish",       "fi": "kala",       "fr": "poisson",     "es": "(el) pez",      "ko": "물고기" },
 
+{ "en": "dolphin",    "fi": "delfiini",   "fr": "dauphin",     "es": "(el) delfín",   "ko": "돌고래" },
+{ "en": "shark",      "fi": "hai",        "fr": "requin",      "es": "(el) tiburón",  "ko": "상어" },
 
 { "en": "crocodile",  "fi": "krokotiili", "fr": "crocodile",   "es": "(el) cocodrilo","ko": "악어" },
 

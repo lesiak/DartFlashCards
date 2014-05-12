@@ -59,7 +59,7 @@
 { "en": "slow",        "ko": "느리다",          "fi": "hidas",    "fr": "lent" },
 { "en": "fast (adj)",        "ko": "빠르다",          "fi": "nopea",    "fr": "rapide" },
 { "en": "fast (adv)",        "ko": "빨리",          "fi": "nopeasti, lujaa",    "fr": "vite" },
-{ "en": "speed",        "ko": "속도 (速 speed and 度 amount), 속력",          "fi": "nopeus",    "fr": "vitesse" },
+{ "en": "speed",          "fi": "nopeus",    "fr": "vitesse","es": "(la) velocidad",   "ko": "속도 (速 speed and 度 amount), 속력" },
 
 { "en": "to commute",     "ko": "통근하다",       "fi": "käydä töissä",     "fr": "" }
 

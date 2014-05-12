@@ -16,10 +16,13 @@
 { "en": "lyrics",         "ko": "가사",       "fi": "sanoitus",          "fr": "paroles" },
 { "en": "scenario",         "ko": "",       "fi": "skenaario, suunnitelma",          "fr": "scénario" },
 
-{ "en": "sound",         "ko": "소리",       "fi": "ääni",          "fr": "son" },
-{ "en": "music",         "ko": "음악",       "fi": "musiikki",          "fr": "musique" },
-{ "en": "melody",    "ko": "멜로디",    "fi": "melodia, sävel" , "fr":"mélodie"},
-{ "en": "concert",         "ko": "음악회, 콘서트",       "fi": "konsertti",          "fr": "concert" },
+{ "en": "sound",         "fi": "ääni",          "fr": "son" ,     "es": "(el) sonido",   "ko": "소리"},
+{ "en": "music",         "fi": "musiikki",      "fr": "musique",  "es": "(la) música",  "ko": "음악" },
+{ "en": "melody",        "fi": "melodia, sävel","fr": "mélodie",  "es": "(la) melodía", "ko": "멜로디"},
+{ "en": "band",          "fi": "yhtye, bändi",  "fr": "bande",    "es": "(el) grupo", "ko": "음악회, 콘서트" },
+{ "en": "concert",       "fi": "konsertti",     "fr": "concert",  "ko": "음악회, 콘서트" },
+
+{ "en": "classical",     "fi": "klassinen",     "fr": "classique","es": "clásico",    "ko": "음악회, 콘서트" },
 
 { "en": "ticket",         "ko": "표",       "fi": "lippu",          "fr": "billet" },
 { "en": "writer",         "ko": "작가",       "fi": "kirjoittaja, kirjailija",          "fr": "écrivain, auteur" },
@@ -48,5 +51,6 @@
 { "en": "drum",           "ko": "드럼",         "fi": "rumpu",   "fr":"tambour, batterie"},
 { "en": "violin",           "ko": "바이올린",         "fi": "viulu",   "fr":"violon"},
 
+{ "en": "musician",      "fi": "muusikko",     "fr":"musicien", "es":"(el) músico",  "ko": ""},
 { "en": "musical instrument",  "ko": "악기",    "fi": "soitin",   "fr":"instrument de musique"}
 ]
