@@ -23,6 +23,7 @@
 { "en": "mathematics",    "fi": "matematiikka", "fr": "mathématiques",  "es": "(las) matemáticas", "ko": "수학" },
 { "en": "geometry",       "fi": "geometria",    "fr": "géométrie",      "es": "(la) geometría",    "ko": "기하학" },
 { "en": "algebra",        "fi": "algebra",      "fr": "algèbre",        "es": "(la) álgebra",      "ko": "기하학" },
+{ "en": "statistics",     "fi": "tilasto",      "fr": "statistiques",   "es": "(la) estadística",  "ko": "" },
 { "en": "physics",        "fi": "fysiikka",     "fr": "physique",       "es": "(la) física",       "ko": "물리학" },
 { "en": "biology",        "fi": "biologia",     "fr": "biologie",       "es": "(la) biología",     "ko": "생물학" }, 
 { "en": "chemistry",      "fi": "kemia",        "fr": "chimie",         "es": "(la) química",      "ko": "화학" }, 
@@ -57,7 +58,25 @@
 { "en": "to multiply",   "fi": "",    "fr": "multiplier",   "es": "multiplicar", "ko": "" },
 { "en": "to divide",     "fi": "",    "fr": "partager",     "es": "dividir", "ko": "" },
 
-{ "en": "to count",       "ko": "",       "fi": "laskea",    "fr": "compter" },
+{ "en": "to count",      "ko": "",       "fi": "laskea",    "fr": "compter" },
+
+{ "en": "microscope",    "fi": "mikroskooppi",  "fr": "microscope",  "es": "(el) microscopio", "ko": "" },
+{ "en": "telescope",     "fi": "teleskooppi",   "fr": "télescope",   "es": "(el) telescopio",  "ko": "" },
+{ "en": "astronomy",     "fi": "tähtitiede",    "fr": "astronomie",   "es": "(la) astronomía",  "ko": "" },
+{ "en": "universe",      "fi": "maailmankaikkeus",    "fr": "univers",   "es": "(el) universo",  "ko": "" },
+
+{ "en": "evolution",     "fi": "evoluutio",    "fr": "évolution",   "es": "(la) evolución",  "ko": "" },
+
+{ "en": "theory",        "fi": "teoria",       "fr": "méthode", "es": "(la) teoría",  "ko": "이론" },
+{ "en": "method",        "fi": "menetelmä, metodi",    "fr": "méthode",  "es": "(el) método", "ko": "방법" },
+
+
+{ "en": "engineering",   "fi": "konetekniikka",   "fr": "ingénierie",  "es": "(la) ingeniería", "ko": "" },
+{ "en": "engineer",      "fi": "insinööri",       "fr": "ingénieur",   "es": "(el) ingeniero", "ko": "" },
+{ "en": "system",        "fi": "järjestelmä",     "fr": "système",     "es": "(el) sistema", "ko": "" },
+
+{ "en": "design",        "fi": "",     "fr": "",     "es": "(el) diseño", "ko": "" },
+{ "en": "to design",     "fi": "",     "fr": "",     "es": "diseñar", "ko": "" },
 
 { "en": "word",          "ko": "",          "fi": "sana",    "fr": "mot" },
 { "en": "sentence",      "ko": "문장",      "fi": "lause, virke",    "fr": "phrase" },

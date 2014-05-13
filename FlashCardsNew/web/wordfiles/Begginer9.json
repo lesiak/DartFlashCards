@@ -70,8 +70,8 @@
 { "en": "threat (expression of intent to injure or punish another)",   "ko": "",    "fi": "uhkaus",   "fr":"menace"},
 { "en": "threat (indication of imminent danger)",   "ko": "",    "fi": "uhka",   "fr":""},
 
-{ "en": "to predict",   "ko": "",    "fi": "ennustaa",   "fr":"prédire, prévoir"},
-{ "en": "prediction",   "ko": "",    "fi": "ennustus",   "fr":"prédiction"},
+{ "en": "to predict",   "fi": "ennustaa",   "fr":"prédire, prévoir",   "ko": ""},
+{ "en": "prediction",   "fi": "ennustus",   "fr":"prédiction",  "ko": ""},
 
 { "en": "active",   "fi": "aktiivinen",   "fr":"actif", "es":"activo",   "ko": ""},
 

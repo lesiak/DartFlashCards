@@ -58,8 +58,8 @@
 { "en": "cell phone",   "fi": "kännykkä, matkapuhelin",    "fr": "portable",   "ko": "핸드폰, 휴대전화, 휴대폰" }, 
 { "en": "number",       "fi": "numero",     "fr": "numéro",       "es": "(el) número",   "ko": "번호" },
 { "en": "to answer (receive a phone)",        "ko": "받다",          "fi": "",    "fr": "" },
-{ "en": "to change",       "fi": "muuttaa",    "fr": "changer",     "es": "cambiar",  "ko": "바꾸다" },
-{ "en": "a change",        "fi": "muutos",    "fr": "changement",   "es": "(el) cambio", "ko": "바꾸다" },
+{ "en": "to change",    "fi": "muuttaa",    "fr": "changer",     "es": "cambiar",  "ko": "바꾸다" },
+{ "en": "change",       "fi": "muutos",    "fr": "changement",   "es": "(el) cambio", "ko": "바꾸다" },
 
 { "en": "telephone call",   "ko": "통화",    "fi": "puhelu",    "fr": "appel téléphonique" },
 
