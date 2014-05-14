@@ -5,7 +5,8 @@
 { "en": "fear",          "ko": "",    "fi": "pelko",    "fr":""},
 { "en": "coward",        "ko": "",    "fi": "pelkuri",    "fr":""},
 
-{ "en": "intelligent",   "fi": "älykäs",          "fr": "intelligent", "es": "inteligente",   "ko": "" },
+{ "en": "clever",        "fi": "nokkela",        "fr": "intelligent", "es": "inteligente",   "ko": "" },
+{ "en": "intelligent",   "fi": "älykäs",         "fr": "intelligent", "es": "inteligente",   "ko": "" },
 
 { "en": "boring",        "fi": "tylsä",          "fr": "ennuyeux", "es": "aburrido",   "ko": "" },
 
@@ -13,18 +14,36 @@
 { "en": "to be timid",   "ko": "",       "fi": "arastella, arastaa",          "fr": "être timide" },
 { "en": "to hesitate",   "ko": "주저하다",       "fi": "epäröidä",          "fr": "hésiter" },
 
-{ "en": "patient",       "fi": "kärsivällinen",  "fr": "patient",      "es": "",              "ko": "" },
-{ "en": "punctual",      "fi": "täsmällinen",    "fr": "ponctuel",     "es": "puntual",              "ko": "" },
-{ "en": "laborious",     "fi": "työläs",         "fr": "laborieux",    "ko": "힘들다" },
+{ "en": "patient",       "fi": "kärsivällinen",  "fr": "patient",     "es": "",              "ko": "" },
+{ "en": "punctual",      "fi": "täsmällinen",    "fr": "ponctuel",    "es": "puntual",              "ko": "" },
+{ "en": "laborious",     "fi": "työläs",         "fr": "laborieux",   "ko": "힘들다" },
 
-{ "en": "shy",          "fi": "ujo",             "fr": "timide" ,     "es": "tímido", "ko": ""},
-{ "en": "brave",        "fi": "rohkea",          "fr": "courageux",     "ko": "용감한" },
-{ "en": "aggressive",   "fi": "aggressiivinen",  "fr": "agressif",    "es": "agresivo",   "ko": "" },
-{ "en": "stubborn",     "fi": "itsepäinen",      "fr": "têtu",        "es": "terco",   "ko": "" },
+{ "en": "shy",           "fi": "ujo",            "fr": "timide" ,     "es": "tímido", "ko": ""},
+{ "en": "brave",         "fi": "rohkea",         "fr": "courageux",   "ko": "용감한" },
+{ "en": "aggressive",    "fi": "aggressiivinen", "fr": "agressif",    "es": "agresivo",   "ko": "" },
+{ "en": "stubborn",      "fi": "itsepäinen",     "fr": "têtu",        "es": "terco",   "ko": "" },
 
+{ "en": "self-confident","fi": "itsevarma",      "fr": "sûr de soi",  "es": "seguro de sí mismo",   "ko": "" },
 
-{ "en": "sincere",       "fi": "vilpitön",          "fr": "sincère",    "ko": "진실하다" },
-{ "en": "reliable",      "fi": "luotettava",          "fr": "fiable",   "ko": "믿음직하다" }
+{ "en": "generous",      "fi": "antelias",       "fr": "généreux",    "es": "generoso",   "ko": "" },
+{ "en": "serious, earnest",  "fi": "totinen",    "fr": "sérieux",     "es": "serio",      "ko": "" },
+
+{ "en": "mean, wicked",  "fi": "",               "fr": "méchant",     "es": "malo", "ko": "" },
+{ "en": "kind",          "fi": "",               "fr": "aimable",     "es": "amable", "ko": "" },
+{ "en": "loving, kind",  "fi": "",               "fr": "affectueux",  "es": "cariñoso", "ko": "" },
+
+{ "en": "funny",         "fi": "",               "fr": "drôle",       "es": "gracioso", "ko": "" },
+
+{ "en": "energetic",     "fi": "energinen",      "fr": "énergique",   "es": "enérgico", "ko": "" },
+{ "en": "active",        "fi": "aktiivinen",     "fr":"actif",        "es":"activo",    "ko": ""},
+
+{ "en": "selfish",       "fi": "itsekäs",        "fr":"égoïste",      "es":"egoísta",    "ko": ""},
+
+{ "en": "sincere",      "fi": "vilpitön",        "fr": "sincère",     "es": "sincero", "ko": "진실하다" },
+{ "en": "honest",       "fi": "rehellinen",      "fr": "honnête",     "es": "honesto", "ko": "진실하다" },
+{ "en": "reliable",      "fi": "luotettava",     "fr": "fiable",     "ko": "믿음직하다" },
+
+{ "en": "character",     "fi": "",               "fr": "caractère",  "es": "(el) carácter", "ko": "" }
 
 
 ]

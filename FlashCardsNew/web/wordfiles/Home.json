@@ -24,7 +24,13 @@
 { "en": "curtain",     "fi": "verho",      "fr": "rideau",     "es": "(la) cortina",    "hu": "függöny", "ko": "커튼" },
 
 { "en": "wardrobe",    "fi": "vaatekaappi","fr": "armoire",    "es": "(el) armario",    "ko": "옷장" },
-{ "en": "bookshelf",   "fi": "kirjahylly", "fr": "étagère à livres",     "es": "(la) estantería de libros",    "ko": "옷장" },
+{ "en": "shelf",       "fi": "hylly",      "fr": "étagère",    "es": "(el) estante",    "ko": "" },
+{ "en": "bookshelf",   "fi": "kirjahylly", "fr": "étagère à livres",     "es": "(la) estantería de libros",    "ko": "" },
+{ "en": "chest of drawers",  "fi": "lipasto", "fr": "commode", "es": "(la) cómoda",    "ko": "" },
+
+{ "en": "rocking chair",  "fi": "keinutuoli", "fr": "",        "es": "(la) mecedora",    "ko": "" },
+{ "en": "stool",          "fi": "jakkara",   "fr": "tabouret", "es": "(el) taburete",    "ko": "" },
+
 
 { "en": "roof",        "fi": "katto",      "fr": "toit",       "es": "(el) tejado",  "hu": "fedél",       "ko": "지붕" },
 { "en": "floor",       "fi": "lattia",     "fr": "sol",        "es": "(el) suelo",  "hu": "padló",       "ko": "바닥"     },

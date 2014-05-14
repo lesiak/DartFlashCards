@@ -19,8 +19,8 @@
 
 { "en": "joyful",        "ko": "즐겁다",          "fi": "iloinen",    "fr": "joyeux" },
 
-{ "en": "to open",    "ko": "열다",       "fi": "avata",    "fr": "ouvrir" },
-{ "en": "open",    "ko": "열다",       "fi": "auki",    "fr": "ouvert" },
+{ "en": "to open",       "fi": "avata",   "fr": "ouvrir",    "es": "abrir",   "ko": "열다" },
+{ "en": "open",          "fi": "auki",    "fr": "ouvert",    "es": "abierto", "ko": "열다" },
 { "en": "to close",    "ko": "닫다",       "fi": "sulkea",    "fr": "fermer" },
 { "en": "closed",    "ko": "",       "fi": "suljettu, kiinni",    "fr": "fermé" },
 
@@ -45,6 +45,8 @@
 { "en": "significantly",        "ko": "크게",          "fi": "merkittävästi",    "fr": "significativement" },
 { "en": "advertisment",        "ko": "광고",          "fi": "mainos",    "fr": "publicité" },
 
+
+{ "en": "to seem",        "fi": "näyttää, tuntua",    "fr": "paraître, sembler",   "es": "parecer",  "ko": "" },
 
 { "en": "same",           "fi": "samanlainen",    "fr": "même",   "es": "mismo",  "ko": "같다" },
 { "en": "similar",        "fi": "samanlainen",    "fr": "similaire, semblable", "es": "parecido (a), similar",  "ko": "비슷하다" },

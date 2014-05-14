@@ -73,7 +73,7 @@
 { "en": "sesame",       "ko": "참깨",         "fi": "seesami",    "fr": "sésame" },
 
 
-{ "en": "sweet",        "ko": "달다",       "fi": "makea",        "fr": "doux" },
+{ "en": "sweet",        "fi": "makea",        "fr": "doux",   "es": "dulce",   "ko": "달다" },
 { "en": "bitter",       "ko": "쓰다",       "fi": "kitkerä",      "fr": "amer" },
 { "en": "sour",        "ko": "신, 사워",       "fi": "hapan",        "fr": "aigre" },
 { "en": "spicy",        "ko": "맵다",       "fi": "mausteinen" ,  "fr":"piquant"},
