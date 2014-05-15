@@ -2,6 +2,7 @@
  
 { "en": "car",         "fi": "auto",         "fr": "voiture",  "es": "(el) coche",      "ko": "자동차" },
 { "en": "train",       "fi": "juna",         "fr": "train",    "es": "(el) tren",       "ko": "기차" },
+{ "en": "bus",         "fi": "bussi",        "fr": "bus",      "es": "(el) autobús",    "ko": "버스" },
 { "en": "metro",       "fi": "maanalainen",  "fr": "métro",    "es": "(el) metro",      "ko": "지하철" },
 { "en": "tram",        "fi": "raitiovaunu",  "fr": "tram",     "es": "(el) tranvía",    "ko": "시가 전차" },
 { "en": "bicycle",     "fi": "polkupyörä",   "fr": "vélo",     "es": "(la) bicicleta",  "ko": "자전거" },
@@ -28,14 +29,18 @@
 { "en": "drive",       "fi": "kuljettaa",    "fr": "conduire", "es": "conducir",        "ko": "운전하다" },
 { "en": "driver",      "fi": "kuljettaja",   "fr": "conducteur","es": "(el) conductor", "ko": "운전사" },
 { "en": "station",     "fi": "asema" ,       "fr":"station",   "es": "(la) estación",   "ko": "역"},
-{ "en": "platform",    "fi": "asemalaituri", "fr":"quai",      "es": "(la) plataforma", "ko": "플랫폼, 승강장"},
+{ "en": "platform",    "fi": "asemalaituri", "fr":"quai",      "es": "(el) andén",      "ko": "플랫폼, 승강장"},
+{ "en": "ticket",      "fi": "lippu",        "fr": "billet",   "es": "(el) billete",    "ko": "표" },
+{ "en": "reserve",     "fi": "",             "fr": "",         "es": "reservar",    "ko": "" },
+{ "en": "validate (a ticket)",      "fi": "",        "fr": "",   "es": "picar",    "ko": "" },
+
 
 { "en": "exit",        "fi": "uloskäynti",   "fr":"sortie",    "es": "(la) salida",     "ko": "출구"},
 { "en": "entrance",    "fi": "sisäänkäynti", "fr":"entrée",    "es": "(la) entrada",    "ko": "입구"},
 
 { "en": "get to",      "fi": "päästä",       "fr": "?",                                 "ko": "도착하다" },
 { "en": "arrive",      "fi": "saapua",       "fr": "arriver",  "es": "llegar",          "ko": "도착하다" },
-{ "en": "to leave (from)",        "ko": "떠나다",          "fi": "lähteä",    "fr": "partir" },
+{ "en": "to leave (from)","fi": "lähteä",    "fr": "partir",   "es": "salir",          "ko": "떠나다" },
 { "en": "to transfer, change",        "ko": "갈아 타다",          "fi": "vaihtaa",    "fr": "" },
 
 { "en": "to get off",        "ko": "내리다",          "fi": "jäädä pois",    "fr": "descendre" },
@@ -52,6 +57,8 @@
 { "en": "line",           "fi": "linja",     "fr": "ligne","ko": "호선" },
 { "en": "route",          "fi": "reitti",    "fr": "itinéraire, route","ko": "노선" },
 { "en": "license plate",  "fi": "rekisterikilpi",    "fr": "plaque d'immatriculation",  "ko": "번호판" },
+{ "en": "steering wheel", "fi": "",          "fr": "volant", "es": "(el) volante",      "ko": "" },
+{ "en": "brake",          "fi": "jarru",     "fr": "frein",  "es": "(el) freno",        "ko": "" },
 
 { "en": "complicated",        "ko": "복잡하다",          "fi": "monimutkainen",    "fr": "compliqué" },
 { "en": "immediately, right away, right",        "ko": "바로",          "fi": "heti",    "fr": "immédiatement" },
@@ -61,8 +68,13 @@
 { "en": "fast (adv)",        "ko": "빨리",          "fi": "nopeasti, lujaa",    "fr": "vite" },
 { "en": "speed",          "fi": "nopeus",    "fr": "vitesse","es": "(la) velocidad",   "ko": "속도 (速 speed and 度 amount), 속력" },
 
-{ "en": "to commute",     "ko": "통근하다",       "fi": "käydä töissä",     "fr": "" }
-
+{ "en": "public transport","fi": "joukkoliikenne",   "fr": "transport en commun", "es": "(el) transporte público",       "ko": "대중 교통" },
+{ "en": "passenger",       "fi": "matkustaja",       "fr": "passager",            "es": "(el) pasajero",    "ko": "승객"  },
+{ "en": "timetable",       "fi": "aikataulu",        "fr": "horaire",             "es": "(el) horario",     "ko": "" },
+{ "en": "rush hour",       "fi": "ruuhka-aika, tungosaika",        "fr": "l'heure de pointe",             "es": "(la) hora punta",     "ko": "" },
+{ "en": "to commute",      "fi": "käydä töissä",     "fr": "",  "ko": "통근하다" },
+{ "en": "to change, to transfer to another vehicle",   "fi": "vaihtaa",    "fr": "changer", "es": "transbordar", "ko": "갈아타다" },
+{ "en": "to park",         "fi": "",    "fr": "garer", "es": "aparcar", "ko": "" }
 
 ]
         

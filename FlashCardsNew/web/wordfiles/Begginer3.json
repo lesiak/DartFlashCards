@@ -24,6 +24,7 @@
 { "en": "already",   "fi": "jo",         "fr": "déjà",                "es": "ya" ,        "ko": "벌써, 이미" },
 
 { "en": "always",     "fi": "aina",      "fr": "toujours",  "es": "siempre",   "ko": "항상, 늘, 언제나" },
+{ "en": "never",      "fi": "ei koskaan","fr": "jamais",    "es": "nunca",    "ko": "" },
 { "en": "again",      "fi": "taas, uudelleen, jälleen",  "fr": "de nouveau, encore",  "es": "otra vez, de nuevo", "ko": "다시, 또" },
 { "en": "now",        "fi": "nyt",       "fr": "maintenant", "es": "ahora",  "ko": "지금" },
 { "en": "today",      "fi": "tänään",    "fr": "aujourd'hui","es": "hoy",    "ko": "오늘" },

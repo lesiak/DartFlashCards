@@ -26,11 +26,11 @@
 { "en": "bus stop",     "fi": "bussipysäkki" ,  "fr":"arrêt de bus",  "es": "(la) parada de autobús",  "ko": " 버스 정류장"},
 { "en": "library",      "fi": "kirjasto",       "fr": "bibliothèque", "es": "(la) biblioteca",    "ko": "도서관" },
 { "en": "bookstore",    "fi": "kirjakauppa",    "fr": "librairie",    "es": "(la) librería",      "ko": "서점, 책방 (book + house)" },
-{ "en": "shop",         "fi": "myymälä, kauppa","fr": "magasin, boutique", "es": "(la) tienda",   "ko": "가게" },
-{ "en": "departmant store",  "fi": "tavaratalo","fr": "grand magasin",     "es": "grandes almacenes",  "ko": "백화점 (hundred + goods + shop)" },
+{ "en": "shop",         "fi": "myymälä, kauppa","fr": "magasin, boutique","es": "(la) tienda",   "ko": "가게" },
+{ "en": "departmant store", "fi": "tavaratalo","fr": "grand magasin",     "es": "grandes almacenes",  "ko": "백화점 (hundred + goods + shop)" },
 
-{ "en": "town hall",    "fi": "kaupungintalo" , "fr":"mairie",    "ko": ""},
-{ "en": "square (in city)",  "fi": "aukio" ,    "fr":"place",     "es": "(la) plaza",  "ko": ""},
+{ "en": "town hall",        "fi": "kaupungintalo" , "fr":"mairie",        "es": "(el) ayuntamiento",   "ko": ""},
+{ "en": "square (in city)", "fi": "aukio" ,         "fr":"place",         "es": "(la) plaza",  "ko": ""},
 
 { "en": "other side",        "ko": "건너편",          "fi": "toinen puoli (toisella puolella)",    "fr": "?" },
 
@@ -39,6 +39,7 @@
 { "en": "noisy",            "fi": "meluisa",         "fr": "bruyant","ko": "시끄럽하다" },
 
 { "en": "crowd",            "fi": "väkijoukko",      "fr": "foule",   "es": "(la) multitud",   "ko": "" },
+{ "en": "crowded",          "fi": "tungosta",        "fr": "",   "es": "lleno (de gente)",   "ko": "" },
 
 
 { "en": "prison",           "fi": "vankila",         "fr": "prison, (slang) cabane",  "es": "(la) prisión",    "ko": "교도소" },

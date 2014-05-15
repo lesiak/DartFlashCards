@@ -1,8 +1,8 @@
 [
 
-{ "en": "buy",         "fi": "ostaa",    "fr": "acheter",              "ko": "사다" },
+{ "en": "buy",         "fi": "ostaa",    "fr": "acheter",              "es": "comprar",    "ko": "사다" },
 { "en": "sell",        "fi": "myydä",    "fr": "vendre",               "ko": "팔다" },
-{ "en": "cheap",       "fi": "halpa",    "fr": "bon marché, pas cher", "ko": "싸다" },
+{ "en": "cheap",       "fi": "halpa",    "fr": "bon marché, pas cher", "es": "barato",  "ko": "싸다" },
 { "en": "expensive",   "fi": "kallis",   "fr": "cher",                 "ko": "비싸다" },
 { "en": "price",       "fi": "hinta",    "fr": "prix",                 "ko": "가격" },
 { "en": "pay",         "fi": "maksaa",   "fr": "payer",                "ko": "지불하다" },

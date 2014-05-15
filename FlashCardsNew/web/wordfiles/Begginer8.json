@@ -3,7 +3,7 @@
 
 { "en": "generally",         "ko": "일반적으로",       "fi": "yleensä, tavallisesti",          "fr": "généralement, en général" },
 
-
+{ "en": "sure",             "fi": "varma",    "fr": "sûr", "fr": "seguro",  "ko": ""},
 
 
 
@@ -20,7 +20,7 @@
 
 { "en": "soon, immediately",        "ko": "금방",          "fi": "heti",    "fr": "immédiatement" },
 { "en": "long, for a long time",        "ko": "오래",          "fi": "kauan",    "fr": "longtemps" },
-{ "en": "to change, to transfer to another vehicle",        "ko": "갈아타다",          "fi": "vaihtaa",    "fr": "changer" },
+
 { "en": "to change, to replace one's own clothing",        "ko": " 갈아입다",          "fi": "vaihtaa vaatteet",    "fr": "se changer" }, 
 
 { "en": "line",          "ko": "호선",       "fi": "linja",    "fr": "ligne de métro" },
@@ -74,7 +74,8 @@
 { "en": "gain",    "ko": "획득, 이득",    "fi": "hyöty" , "fr":"gain, profit"},
 
 { "en": "to lose",    "ko": "",    "fi": "menettää" , "fr":"perdre"},
-{ "en": "to reduce",    "ko": "",    "fi": "vähentää, alentaa, pienentää" , "fr":"réduire, diminuer"},
+{ "en": "to reduce",    "fi": "vähentää, alentaa, pienentää" , "fr":"réduire, diminuer",  "ko": ""},
+
 { "en": "to lay off",    "ko": "",    "fi": "lomauttaa" , "fr":"mettre en chômage"},
 { "en": "to decrease",    "ko": "",    "fi": "vähentää, pienentää, laskea" , "fr":"réduire"},
 

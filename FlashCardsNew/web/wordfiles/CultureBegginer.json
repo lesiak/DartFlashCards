@@ -24,7 +24,6 @@
 
 { "en": "classical",     "fi": "klassinen",     "fr": "classique","es": "clásico",    "ko": "음악회, 콘서트" },
 
-{ "en": "ticket",         "ko": "표",       "fi": "lippu",          "fr": "billet" },
 { "en": "writer",         "ko": "작가",       "fi": "kirjoittaja, kirjailija",          "fr": "écrivain, auteur" },
 { "en": "poem",         "ko": "시",       "fi": "runo",          "fr": "poème" },
 { "en": "poet",         "ko": "시인",       "fi": "runoilija",          "fr": "poète" },

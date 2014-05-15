@@ -6,14 +6,14 @@
 { "en": "screen",          "fi": "",           "fr": "écran",       "es": "(la) pantalla",   "ko": "화면" },
 { "en": "mouse",           "fi": "hiiri",      "fr": "souris",      "es": "(el) ratón",      "ko": "마우스" },
 { "en": "battery",         "fi": "akku",       "fr": "pile",        "es": "(la) batería",    "ko": "배터리" },
-{ "en": "recharge",         "ko": "충전하다",       "fi": "ladata",          "fr": "recharger" },
-{ "en": "a charger",         "ko": "",       "fi": "laturi",          "fr": "" },
-{ "en": "device",       "ko": "장치",    "fi": "laite",    "fr":"appareil"},
+{ "en": "recharge",        "fi": "ladata",     "fr": "recharger",   "ko": "충전하다" },
+{ "en": "a charger",       "fi": "laturi",     "fr": "",            "ko": "" },
+{ "en": "device",          "fi": "laite",      "fr":"appareil",     "ko": "장치"},
 
-{ "en": "server",         "ko": "서버",       "fi": "palvelin",          "fr": "serveur" },
+{ "en": "server",          "fi": "palvelin",   "fr": "serveur",     "es": "(el) servidor",   "ko": "서버" },
 
-{ "en": "television (set)",    "fi": "televisio",  "fr": "téléviseur (m), télévision (f)",    "hu": "",  "ko": "텔레비전"       },
-{ "en": "remote control",    "fi": "kaukosäädin",  "fr": "télécommande",    "hu": "",  "ko": ""       },
+{ "en": "television (set)","fi": "televisio",  "fr": "téléviseur (m), télévision (f)",       "ko": "텔레비전"       },
+{ "en": "remote control",    "fi": "kaukosäädin",  "fr": "télécommande",         "ko": ""       },
 
 
 
@@ -34,8 +34,8 @@
 { "en": "to update",         "ko": "업데이트하다",      "fi": "päivittää",    "fr": "mettre à jour, actualiser" },
 { "en": "update",         "ko": "업데이트",      "fi": "päivitys",    "fr": "mise à jour" },
 
-{ "en": "maintenance",         "ko": "",      "fi": "huolto",    "fr": "maintenance" },
-{ "en": "to maintain",         "ko": "",      "fi": "huoltaa",    "fr": "maintenir" },
+{ "en": "maintenance",       "fi": "huolto",    "fr": "maintenance",   "es": "(el) mantenimiento",  "ko": "" },
+{ "en": "to maintain",       "fi": "huoltaa",   "fr": "maintenir",     "es": "mantener",            "ko": "" },
 
 
 { "en": "to connect",         "ko": "",      "fi": "kytkeä",    "fr": "relier" },

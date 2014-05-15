@@ -12,17 +12,12 @@
 { "en": "present",        "ko": "선물",          "fi": "lahja",    "fr": "cadeau" },
 
 
-
-{ "en": "delivery",      "fi": "toimitus",    "fr": "livraison",        "ko": "배달" },
-{ "en": "deliver",       "ko": "배달하다",       "fi": "toimittaa",    "fr": "livrer" },
-
-
 { "en": "joyful",        "ko": "즐겁다",          "fi": "iloinen",    "fr": "joyeux" },
 
 { "en": "to open",       "fi": "avata",   "fr": "ouvrir",    "es": "abrir",   "ko": "열다" },
 { "en": "open",          "fi": "auki",    "fr": "ouvert",    "es": "abierto", "ko": "열다" },
-{ "en": "to close",    "ko": "닫다",       "fi": "sulkea",    "fr": "fermer" },
-{ "en": "closed",    "ko": "",       "fi": "suljettu, kiinni",    "fr": "fermé" },
+{ "en": "to close",      "fi": "sulkea",  "fr": "fermer",    "ko": "닫다" },
+{ "en": "closed",        "fi": "suljettu, kiinni",    "fr": "fermé",  "ko": "" },
 
 { "en": "difficult",       "ko": "어렵다",       "fi": "vaikea",    "fr": "difficile" },
 { "en": "easy",       "fi": "helppo",    "fr": "facile",   "es": "fácil",  "ko": "쉽다" },

@@ -30,7 +30,7 @@
 { "en": "lost",      "ko": "잃어버린",      "fi": "menetetty, hävitty", "fr": "perdu" },
 
 
-{ "en": "wheel",        "fi": "pyörä",    "fr": "roue",   "ko": "바퀴" },
+{ "en": "wheel",        "fi": "pyörä",    "fr": "roue",  "es": "(la) rueda",  "ko": "바퀴" },
 { "en": "basket",       "ko": "바구니",       "fi": "kori",    "fr": "panier" },
 { "en": "reaction",       "ko": "반응 (reverse + answer)",       "fi": "reaktio",    "fr": "réaction" },
 { "en": "to react",       "ko": "반응하다",       "fi": "suhtautua",    "fr": "réagir" },
