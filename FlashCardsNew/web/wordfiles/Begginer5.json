@@ -59,7 +59,7 @@
 { "en": "critical",            "ko": "비판적 (blame + judge + of)",          "fi": "kriittinen",    "fr": "critique" },
 
 { "en": "security",        "fi": "turvallisuus",    "fr": "sécurité", "es": "(la) seguridad", "ko": "보안 (keep + comfortable)" },
-{ "en": "safe",            "fi": "turvallinen",    "fr": "sauf",  "ko": "안전한 (?)" }
+{ "en": "safe",            "fi": "turvallinen",     "fr": "sauf",     "es": "seguro",         "ko": "안전한 (?)" }
 
   
 ]
