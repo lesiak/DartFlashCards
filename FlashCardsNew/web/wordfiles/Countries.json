@@ -21,8 +21,8 @@
 { "en": "Australia",     "fi": "Australia",     "fr": "Australia" ,  "es": "(la) Australia",   "ko": "호주"},
 { "en": "Africa",        "fi": "Afrikka",       "fr": "Afrique",     "es": "(la) África",      "ko": "아프리카" },
 { "en": "Asia",          "fi": "Aasia",         "fr": "Asie",        "es": "(la) Asia",        "ko": "아시아" },
-{ "en": "country",       "fi": "maa",           "fr": "pays",        "es": "(el) país",        "ko": "나라" }
-
+{ "en": "country",       "fi": "maa",           "fr": "pays",        "es": "(el) país",        "ko": "나라" },
+{ "en": "flag",          "fi": "lippu",         "fr": "drapeau",     "es": "(la) bandera",     "ko": "" }
 
 
 

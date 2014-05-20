@@ -12,7 +12,7 @@
 { "en": "winter",     "fi": "talvi",      "fr": "hiver",  "es": "(el) invierno",  "ko": "겨울" },
 { "en": "spring",     "ko": "봄",         "fi": "kevät",          "fr": "printemps" },
 { "en": "summer",     "fi": "kesä",       "fr": "été",    "es": "(el) verano",   "ko": "여름" },
-{ "en": "autumn",     "ko": "가을",      "fi": "syksy",          "fr": "automne" },
+{ "en": "autumn",     "fi": "syksy",      "fr": "automne","es": "(el) otoño",    "ko": "가을" },
 
 { "en": "January",     "ko": "일월",         "fi": "tammikuu",          "fr": "janvier" },
 { "en": "February",     "ko": "이월",         "fi": "helmikuu",          "fr": "février" },

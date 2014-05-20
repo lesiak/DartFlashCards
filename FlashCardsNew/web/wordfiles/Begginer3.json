@@ -38,7 +38,7 @@
 { "en": "day",          "fi": "päivä",     "fr": "jour",     "es": "(el) día",       "ko": "일" },
 { "en": "week",         "fi": "viikko",    "fr": "semaine",  "es": "(la) semana",    "ko": "주" },
 { "en": "year",         "fi": "vuosi",     "fr": "année",    "es": "(el) año",       "ko": "년" },
-{ "en": "last year",     "ko": "작년",    "fi": "viime vuonna",    "fr": "année dernière" },
+{ "en": "last year",     "fi": "viime vuonna",    "fr": "année dernière",   "es": "el año pasado" , "ko": "작년" },
 { "en": "this year",    "ko": "올해",    "fi": "tänä vuonna",    "fr": "cette année" },
 
 { "en": "next",         "ko": " 다음",   "fi": "seuraava, ensi",    "fr": "suivant" },

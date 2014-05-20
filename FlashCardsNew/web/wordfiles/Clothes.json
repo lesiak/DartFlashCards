@@ -1,5 +1,5 @@
 [
-{ "en": "bag",          "fi": "laukku",    "fr": "sac",       "ko": "가방" },
+{ "en": "bag",          "fi": "laukku",    "fr": "sac",       "fr": "(el) bolso",         "ko": "가방" },
 { "en": "trousers",     "fi": "housut",    "fr": "pantalon",  "es": "pantalones",  "ko": "바지" },
 { "en": "jeans",        "fi": "farkut",    "fr": "jeans",     "es": "pantalones vaqueros",     "ko": "청바지 (blue + pants)" },
 

@@ -1,12 +1,25 @@
 [
 
 { "en": "seed",      "fi": "siemen",   "fr":"graine",   "ko": "씨"},
+{ "en": "flower",    "fi": "kukka",    "fr":"fleur",    "es": "(la) flor",   "ko": "꽃"},
+
 { "en": "bamboo",    "fi": "bambu",    "fr":"bambou",   "es": "(el) bambú",  "ko": "대나무"},
 { "en": "rose",      "fi": "ruusu",    "fr":"rose",     "es": "(la) rosa",   "ko": "장미"},
 { "en": "tulip",     "fi": "tulppaani","fr":"tulipe",   "es": "(el) tulipán","ko": "튤립"},
+{ "en": "sunflower", "fi": "auringonkukka","fr":"tournesol", "es": "(el) girasol","ko": "해바라기"},
+
 { "en": "oak",       "fi": "tammi",    "fr":"chêne",    "es": "(el) roble",  "ko": "참나무"},
 { "en": "birch",     "fi": "koivu",    "fr":"bouleau",  "es": "(el) abedul", "ko": "자작나무"},
+{ "en": "pine tree", "fi": "mänty",    "fr":"pin",  "es": "(el) pino", "ko": ""},
+{ "en": "chestnut tree", "fi": "kastanjapuu",    "fr":"châtaignier",  "es": "(el) castaño", "ko": ""},
+{ "en": "beech",     "fi": "pyökki",    "fr":"hêtre",  "es": "(el) haya", "ko": ""},
+{ "en": "maple",     "fi": "vaahtera",    "fr":"érable",  "es": "(el) arce", "ko": ""},
+{ "en": "eucalyptus",     "fi": "eukalyptus",    "fr":"eucalyptus",  "es": "(el) eucalipto", "ko": ""},
+
 { "en": "bush",      "fi": "pensas",   "fr":"buisson",  "es": "(el) arbusto","ko": "덤불" },
+
+{ "en": "apple tree", "fi": "omenapuu",    "fr":"pommier",  "es": "(el) manzano","ko": ""},
+{ "en": "cherry tree", "fi": "kirsikkapuu",    "fr":"arbre de la cerise",  "es": "(el) cerezo","ko": ""},
 { "en": "palm tree", "fi": "palmu",    "fr":"palmier",  "es": "(la) palmera","ko": "야자 나무"},
 
 { "en": "corn",      "fi": "maissi" ,  "fr":"maïs",     "es": "(el) maíz",   "ko": ""},
@@ -19,6 +32,16 @@
 { "en": "hops",   "fi": "humala" , "fr":"houblon",      "es": "(??) lúpulo",  "ko": "홉"},
 
 { "en": "branch",  "fi": "oksa",   "fr":" branche (f), rameau (m)",    "ko": ""  },
+{ "en": "trunk",  "fi": "",   "fr":" tronc",     "es": "(el) tronco",    "ko": ""  },
+{ "en": "bark",  "fi": "kaarna",   "fr":" corteza",     "es": "(la) corteza",    "ko": ""  },
+{ "en": "root",  "fi": "juuri",   "fr":" racine",     "es": "(la) raíz",    "ko": ""  },
+
+
+{ "en": "bunch of flowers",  "fi": "kukkia",   "fr": "bouquet de fleurs",     "es": "(el) ramo de flores",   "ko": ""  },
+{ "en": "to bloom",  "fi": "kukinta",   "fr": "fleurir",     "es": "florecer",   "ko": ""  },
+{ "en": "vase",  "fi": "maljakko",   "fr": "vase",     "es": "(el) florero",   "ko": ""  },
+{ "en": "fragrant",  "fi": "tuoksuva",   "fr": "",     "es": "fragante",   "ko": ""  },
+{ "en": "to pick",  "fi": "poimia",   "fr": "ramasser",     "es": "coger",   "ko": ""  },
 
 { "en": "plant",      "ko": "식물 (plant + thing)",    "fi": "kasvi",   "fr":"plante"}
 
