@@ -16,8 +16,8 @@
 { "en": "time (occurence)",       "ko": "번",       "fi": "kerta",    "fr": "fois" },
 
 
-{ "en": "complicated",      "ko": "복잡하다 (double + mix)",      "fi": "monimutkainen",          "fr": "compliqué" },
-{ "en": "simple",      "ko": "단순하다 (single + only)",      "fi": "yksinkertainen",          "fr": "simple" },
+{ "en": "complicated",     "fi": "monimutkainen",    "fr": "compliqué",   "ko": "복잡하다 (double + mix)" },
+{ "en": "simple",          "fi": "yksinkertainen",   "fr": "simple",   "es": "sencillo",  "ko": "단순하다 (single + only)" },
 { "en": "simply",      "ko": "간단히",      "fi": "yksinkertaisesti",          "fr": "simplement" },
 
 { "en": "to cut",    "ko": "베다",    "fi": "leikata" , "fr":"couper"},

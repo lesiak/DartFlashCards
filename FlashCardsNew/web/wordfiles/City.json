@@ -14,7 +14,10 @@
 { "en": "staircase",  "fi": "portaikko" ,"fr":"escalier",   "es": "(la) escalera", "ko": "계단"},
 { "en": "road",       "fi": "tie" ,      "fr":"route",      "es": "(la) planta, (el) piso (Latin America)",    "ko": "길"},
 { "en": "street",     "fi": "katu" ,     "fr":"rue",        "es": "(la) calle",    "ko": "거리"},
+{ "en": "avenue",     "fi": "katu" ,     "fr":"rue",        "es": "(la) avenida",    "ko": ""},
 { "en": "alley, backstreet", "fi": "kuja", "fr":"ruelle",   "es": "",    "ko": "골목"},
+{ "en": "(street) corner",  "fi": "kadunkulma", "fr":"coin",   "es": "(la) esquina",    "ko": "골목"},
+
 { "en": "bakery",     "fi": "leipomo" ,  "fr":"boulangerie","es": "(la) panadería",  "ko": "빵집"},
 
 { "en": "to build",   "fi": "rakentaa",  "fr":"construire", "es": "construir",     "ko": "건조하다"},
@@ -52,10 +55,19 @@
 { "en": "gallery",          "fi": "galleria, taidegalleria","fr": "",       "es": "(la) galería",  "ko": "화랑" },
 { "en": "railway",          "fi": "rautatie",        "fr": "chemin de fer", "es": "(el) ferrocarril", "ko": "철도" },
 { "en": "railway station",  "fi": "rautatieasema",   "fr": "gare",          "es": "(la) estación de ferrocarril",  "ko": "철도역" },
-{ "en": "intersection",     "fi": "risteys",         "fr": "carrefour",     "es": "(la) intersección",  "ko": "사거리" },
-{ "en": "pedestrian crossing", "fi": "suojatie",     "fr": "passage pour piétons", "ko": "횡단 보도" },
-{ "en": "traffic",          "fi": "liikenne" ,       "fr":"circulation",           "ko": "교통"}
 
+{ "en": "intersection",     "fi": "risteys",         "fr": "carrefour",     "es": "(la) intersección",  "ko": "사거리" },
+{ "en": "junction",         "fi": "ylitys",          "fr": "",     "es": "(el) cruce",  "ko": "" },
+
+{ "en": "pedestrian",       "fi": "jalankulkija",    "fr": "piéton",        "es": "(el) peatón",  "ko": "횡단 보도" },
+{ "en": "pedestrian crossing", "fi": "suojatie",     "fr": "passage pour piétons", "ko": "횡단 보도" },
+{ "en": "traffic lights",   "fi": "liikennevalot",   "fr": "feux de circulation",  "es": "(el) semáforo",  "ko": "" },
+
+{ "en": "traffic",          "fi": "liikenne" ,       "fr": "circulation",           "ko": "교통"},
+{ "en": "street lamp (lamppost)","fi": "lyhtypylväs",   "fr": "lampadaire",  "es": "(la) farola",  "ko": "" },
+{ "en": "postbox",          "fi": "postilaatikko",   "fr": "boîte postale",  "es": "(el) buzón",  "ko": "" },
+{ "en": "tunnel",           "fi": "tunneli",         "fr": "tunnel",         "es": "(el) túnel",  "ko": "" },
+{ "en": "urban",            "fi": "kaupunki-",       "fr": "urbain",         "es": "urbano",  "ko": "" }
 
 
 

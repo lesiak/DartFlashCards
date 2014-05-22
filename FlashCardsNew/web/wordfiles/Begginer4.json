@@ -96,8 +96,8 @@
 { "en": "knowledge",       "fi": "tieto",      "fr": "connaissance","es": "(el) conocimiento",   "ko": "지식" },
 
   
-{ "en": "empty",       "ko": "비다",       "fi": "tyhjä",    "fr": "vide" },
-{ "en": "vacant",       "ko": "비다",       "fi": "vapaa",    "fr": "vacant" }
+{ "en": "empty",           "fi": "tyhjä",      "fr": "vide",        "es": "vacío",     "ko": "비다" },
+{ "en": "vacant",          "fi": "vapaa",      "fr": "vacant",      "es": "vacante",   "ko": "비다" }
 
 ]
         

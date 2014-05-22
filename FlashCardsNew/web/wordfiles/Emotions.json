@@ -8,7 +8,7 @@
 { "en": "proud",     "fi": "ylpeä",                "fr": "fier,orgueilleux",  "es": "orgulloso", "ko": "" },
 
 { "en": "worried",       "fi": "huolestunut",          "fr": "inquiet",  "ko": "" },
-{ "en": "nervous",       "fi": "hermostunut",          "fr": "nerveux", "ko": "" },
+{ "en": "nervous",       "fi": "hermostunut",          "fr": "nerveux",  "es": "nervioso", "ko": "" },
 
 { "en": "upset",         "fi": "järkyttynyt",         "fr": "bouleversé",  "es": "indignado",    "ko": "" },
 
@@ -42,7 +42,16 @@
 { "en": "mood",       "fi": "mieliala",       "fr": "humeur",    "es": "(el) humor",     "ko": "기분" },
 { "en": "to feel",    "fi": "tuntea",         "fr": "sentir",    "es": "sentirse",     "ko": "느끼다" },
 { "en": "feeling",    "fi": "tunne",          "fr": "sentiment", "es": "(el) sentimiento",     "ko": "" },
-{ "en": "stress",     "fi": "stressi",        "fr": "stress","ko": "스트레스" }
+{ "en": "stress",     "fi": "stressi",        "fr": "stress",             "ko": "스트레스" },
+
+
+{ "en": "pleasure",   "fi": "ilo, huvi",      "fr": "plaisir",   "es": "(el) placer",   "ko": "" },
+{ "en": "hunger",     "fi": "nälkä",          "fr": "faim",      "es": "(el) hambre",   "ko": "" },
+{ "en": "thirst",     "fi": "jano",           "fr": "soif",      "es": "(la) sed",      "ko": "" },
+{ "en": "thirst",     "fi": "jano",           "fr": "soif",      "es": "(la) sed",      "ko": "" },
+{ "en": "surprise",   "fi": "yllätys",        "fr": "surprise",  "es": "(la) sorpresa", "ko": "" },
+{ "en": "to surprise","fi": "yllättää",       "fr": "surprendre","es": "sorprender", "ko": "" },
+{ "en": "sensation (feeling)",  "fi": "tunne","fr": "sensation", "es": "(la) sensación",   "ko": "" }
 
 
 ]

@@ -1,14 +1,15 @@
 [
 
 { "en": "proud",         "fi": "ylpeä",          "fr": "fier",    "ko": "" },
-{ "en": "to fear",       "ko": "",    "fi": "pelätä (pelkää)",    "fr":""},
-{ "en": "fear",          "ko": "",    "fi": "pelko",    "fr":""},
+{ "en": "to fear",       "fi": "pelätä (pelkää)","fr":"",  "ko": ""},
+{ "en": "fear",          "fi": "pelko",          "fr": "",   "es": "(el) miedo", "ko": ""},
 { "en": "coward",        "ko": "",    "fi": "pelkuri",    "fr":""},
 
 { "en": "clever",        "fi": "nokkela",        "fr": "intelligent", "es": "inteligente",   "ko": "" },
 { "en": "intelligent",   "fi": "älykäs",         "fr": "intelligent", "es": "inteligente",   "ko": "" },
 
 { "en": "boring",        "fi": "tylsä",          "fr": "ennuyeux", "es": "aburrido",   "ko": "" },
+{ "en": "to get bored",  "fi": "kyllästyä",      "fr": "s'ennuyer","es": "aburrirse",   "ko": "" },
 
 { "en": "timid",         "ko": "",       "fi": "arka, pelokas",          "fr": "timide" },
 { "en": "to be timid",   "ko": "",       "fi": "arastella, arastaa",          "fr": "être timide" },

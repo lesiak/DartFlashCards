@@ -12,6 +12,10 @@
 { "en": "petrol",      "fi": "bensiini",     "fr": "essence",  "es": "(la) gasolina",   "ko": "가솔린" },
 { "en": "petroleum",   "fi": "maaöljy",      "fr": "pétrole",  "es": "(el) petróleo",   "ko": "석유" },
 
+{ "en": "motorway",    "fi": "moottoritie",  "fr": "autoroute","es": "(la) autopista","ko": "" },
+{ "en": "port",        "fi": "satama",       "fr": "port",     "es": "(el) puerto","ko": "" },
+
+
 { "en": "east",        "fi": "itä",          "fr": "est",      "es": "(el) este",       "ko": "동쪽, 동부" },
 { "en": "west",        "fi": "länsi",        "fr": "ouest",    "es": "(el) oeste",      "ko": "서쪽, 서부" },
 { "en": "north",       "fi": "pohjoinen",    "fr": "nord",     "es": "(el) norte",      "ko": "북쪽, 북부" },
