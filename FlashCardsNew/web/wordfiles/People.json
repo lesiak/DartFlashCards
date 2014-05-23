@@ -37,22 +37,30 @@
 
 { "en": "family",       "ko": "가족",       "fi": "perhe",   "fr": "famille" },
 { "en": "father",        "ko": "아버지",          "fi": "isä",    "fr": "père" },
-{ "en": "child",        "ko": "아이, 어린이",          "fi": "lapsi",    "fr": "enfant" },
-{ "en": "son",         "fi": "poika",    "fr": "fils",    "es": "(el) hijo",   "ko": "아들" },
-{ "en": "daughter",    "fi": "tytär",    "fr": "fille",   "es": "(el) hija",   "ko": "딸" },
-{ "en": "baby",        "ko": "아가",          "fi": "vauva, beibi",    "fr": "bébé" },
+{ "en": "child",       "fi": "lapsi",       "fr": "enfant",    "es": "(el) niño",  "ko": "아이, 어린이" },
+{ "en": "son",         "fi": "poika",       "fr": "fils",    "es": "(el) hijo",   "ko": "아들" },
+{ "en": "daughter",    "fi": "tytär",       "fr": "fille",   "es": "(el) hija",   "ko": "딸" },
+{ "en": "baby",        "ko": "아가",       "fi": "vauva, beibi",    "fr": "bébé" },
 { "en": "wife",        "fi": "vaimo",       "fr": "femme",   "es": "(la) mujer, (la) esposa", "ko": "아내" },
 { "en": "husband",     "fi": "aviomies",    "fr": "mari",    "es": "(el) marido", "ko": "남편" },
 
 { "en": "sister",      "fi": "sisar, sisko","fr": "sœur",    "es": "(la) hermana", "ko": "" },
 { "en": "brother",     "fi": "veli",        "fr": "frère",   "es": "(el) hermano", "ko": "" },
+{ "en": "twin",        "fi": "kaksonen",    "fr": "jumeau",   "es": "(el) gemelo", "ko": "" },
 
 { "en": "parents",        "ko": "부모",          "fi": "vanhemmat",    "fr": "parents" },
 { "en": "single parent",        "ko": "단일 부모",          "fi": "yksinhuoltaja",    "fr": "" },
 
+
+{ "en": "grandmother",       "fi": "isoäiti",    "fr": "grand-mère",   "es": "(la) abuela",  "ko": "" },
+{ "en": "grandma",           "fi": "mummo",      "fr": "grand-mère",   "es": "(la) abuelita",  "ko": "" },
+
 { "en": "marriage",        "ko": "결혼 (tie + marry)",          "fi": "avioliitto, häät",    "fr": "mariage" },
 { "en": "to get married",        "ko": "결혼하다",          "fi": "mennä naimisiin",    "fr": "se marier" },
-{ "en": "bride",        "ko": "신부 (new + wife)",          "fi": "morsian",    "fr": "mariée" },
+{ "en": "bride",       "fi": "morsian",    "fr": "mariée",   "ko": "신부 (new + wife)"},
+{ "en": "groom",       "fi": "sulhanen",   "fr": "", "es": "(el) novio",   "ko": ""},
+
+{ "en": "fiancé",       "fi": "sulhanen",   "fr": "fiancé", "es": "(el) novio, (el) prometido",   "ko": ""},
 
 { "en": "engagement (betrothal)",        "ko": "약혼 (contract + marry)",          "fi": "kihlaus",    "fr": "fiançailles" },
 { "en": "blind date",   "ko": "소개팅",    "fi": "sokkotreffit",   "fr":""},

@@ -20,8 +20,10 @@
 { "en": "before",    "fi": "ennen",      "fr": "avant",    "es": "antes",       "ko": "전에" },
 
 { "en": "yet",       "fi": "vielä",      "fr": "encore",   "ko": "아직" },
-{ "en": "later",     "fi": "myöhemmin",  "fr": "plus tard, ensuite",  "es": "más tarde",  "ko": "나중에" },
+{ "en": "later",     "fi": "myöhemmin",  "fr": "plus tard, ensuite",  "es": "más tarde, luego",  "ko": "나중에" },
 { "en": "already",   "fi": "jo",         "fr": "déjà",                "es": "ya" ,        "ko": "벌써, 이미" },
+{ "en": "immediately","fi": "heti",      "fr": "immédiatement",       "es": "inmediatamente" , "ko": "금방" },
+{ "en": "soon",       "fi": "pain",      "fr": "bientôt",             "es": "pronto" , "ko": "" },
 
 { "en": "always",     "fi": "aina",      "fr": "toujours",  "es": "siempre",   "ko": "항상, 늘, 언제나" },
 { "en": "never",      "fi": "ei koskaan","fr": "jamais",    "es": "nunca",    "ko": "" },
@@ -32,9 +34,12 @@
 { "en": "yesterday",  "fi": "eilen",     "fr": "hier",       "es": "ayer",   "ko": "어제"},
 { "en": "often",      "fi": "usein",     "fr": "souvent",       "es": "",   "ko": "자주"},
 
-
+{ "en": "clock",        "fi": "kello",     "fr": "horloge",  "es": "(el) reloj",     "ko": "" },
+{ "en": "time",         "fi": "aika",      "fr": "temps",    "es": "(el) tiempo",    "ko": "" },
+{ "en": "second",       "fi": "sekunti",   "fr": "seconde",  "es": "(el) segundo",   "ko": "" },
 { "en": "minute",       "fi": "minuutti",  "fr": "minute",   "es": "(el) minuto",    "ko": "분" },  
-{ "en": "hour",         "fi": "tunti",     "fr": "heure",    "es": "(la) hora",      "ko": "시간" },  
+{ "en": "hour",         "fi": "tunti",     "fr": "heure",    "es": "(la) hora",      "ko": "시간" }, 
+{ "en": "half an hour", "fi": "puoli tuntia", "fr": "demi-heure","es": "(la) media hora",      "ko": "" },
 { "en": "day",          "fi": "päivä",     "fr": "jour",     "es": "(el) día",       "ko": "일" },
 { "en": "week",         "fi": "viikko",    "fr": "semaine",  "es": "(la) semana",    "ko": "주" },
 { "en": "year",         "fi": "vuosi",     "fr": "année",    "es": "(el) año",       "ko": "년" },

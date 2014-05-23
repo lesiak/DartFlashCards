@@ -6,11 +6,17 @@
 { "en": "screen",          "fi": "",           "fr": "écran",       "es": "(la) pantalla",   "ko": "화면" },
 { "en": "mouse",           "fi": "hiiri",      "fr": "souris",      "es": "(el) ratón",      "ko": "마우스" },
 { "en": "battery",         "fi": "akku",       "fr": "pile",        "es": "(la) batería",    "ko": "배터리" },
-{ "en": "recharge",        "fi": "ladata",     "fr": "recharger",   "ko": "충전하다" },
+{ "en": "to recharge",     "fi": "ladata",     "fr": "recharger",   "es": "recargar",        "ko": "충전하다" },
 { "en": "a charger",       "fi": "laturi",     "fr": "",            "ko": "" },
+
+{ "en": "cable",           "fi": "kaapeli",    "fr": "câble",       "es": "(el) cable",   "ko": "" },
+
 { "en": "device",          "fi": "laite",      "fr":"appareil",     "ko": "장치"},
 
 { "en": "server",          "fi": "palvelin",   "fr": "serveur",     "es": "(el) servidor",   "ko": "서버" },
+{ "en": "laptop",          "fi": "kannettava tietokone",   "fr": "portatif",     "es": "(el) ordenador portátil",   "ko": "" },
+
+{ "en": "hardware",        "fi": "laitteisto",   "fr": "matériel",  "es": "(el) hardware",   "ko": "" },
 
 { "en": "television (set)","fi": "televisio",  "fr": "téléviseur (m), télévision (f)",       "ko": "텔레비전"       },
 { "en": "remote control",    "fi": "kaukosäädin",  "fr": "télécommande",         "ko": ""       },
@@ -38,8 +44,13 @@
 { "en": "to maintain",       "fi": "huoltaa",   "fr": "maintenir",     "es": "mantener",            "ko": "" },
 
 
-{ "en": "to connect",         "ko": "",      "fi": "kytkeä",    "fr": "relier" },
-{ "en": "switch off",         "ko": "끄다",      "fi": "sammuttaa",    "fr": "éteindre" },
+{ "en": "to connect",         "fi": "kytkeä",      "fr": "relier",  "ko": "" },
+{ "en": "connection",         "fi": "yhteys",      "fr": "",         "es": "(la) conexión",  "ko": "" },
+{ "en": "wireless",           "fi": "langaton",    "fr": "sans fil", "es": "inalámbrico",  "ko": "" },
+{ "en": "wireless connection","fi": "langaton yhteys",    "fr": "connexion sans fil", "es": "(la) conexión inalámbrica",  "ko": "" },
+{ "en": "switch off",         "fi": "sammuttaa",   "fr": "éteindre",  "ko": "끄다" },
+{ "en": "printer",            "fi": "kirjoitin",   "fr": "imprimeur", "es": "(la) impresora",  "ko": "" },
+{ "en": "compatible",         "fi": "yhteensopiva","fr": "compatible","es": "compatible",  "ko": "" },
 
 
 { "en": "user",    "ko": "사용자",    "fi": "käyttäjä" , "fr":""},

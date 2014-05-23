@@ -13,8 +13,14 @@
 { "en": "violet",    "fi": "violetti",       "fr": "violet",   "es": "violeta",   "ko": "보라색" },
 { "en": "purple",    "fi": "",               "fr": "pourpre",  "es": "morado",    "ko": "보라색" },
 
-{ "en": "colorful",  "fi": "värikäs",        "fr": "coloré" ,  "es": "",          "ko": "화려한"},
-{ "en": "colourless","fi": "väritön",        "fr": "incolore, sans couleur", "es": "incoloro", "ko": "무색의" }
+
+
+{ "en": "colour",    "fi": "väri",           "fr": "couleur",  "es": "(el) color","ko": ""},
+{ "en": "colorful",  "fi": "värikäs",        "fr": "coloré",   "es": "",          "ko": "화려한"},
+{ "en": "colourless","fi": "väritön",        "fr": "incolore, sans couleur", "es": "incoloro", "ko": "무색의" },
+
+{ "en": "light (colour)",   "fi": "vaalea",  "fr": "clair",  "es": "claro",  "ko": ""},
+{ "en": "dark (colour)",    "fi": "tumma",   "fr": "foncé",  "es": "oscuro",  "ko": ""}
 
 
 ]

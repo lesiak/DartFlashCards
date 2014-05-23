@@ -58,7 +58,7 @@
 { "en": "to multiply",   "fi": "",    "fr": "multiplier",   "es": "multiplicar", "ko": "" },
 { "en": "to divide",     "fi": "",    "fr": "partager",     "es": "dividir", "ko": "" },
 
-{ "en": "to count",      "ko": "",       "fi": "laskea",    "fr": "compter" },
+{ "en": "to count",      "fi": "laskea",        "fr": "compter",      "es": "contar",  "ko": "" },
 
 { "en": "microscope",    "fi": "mikroskooppi",  "fr": "microscope",  "es": "(el) microscopio", "ko": "" },
 { "en": "telescope",     "fi": "teleskooppi",   "fr": "télescope",   "es": "(el) telescopio",  "ko": "" },
