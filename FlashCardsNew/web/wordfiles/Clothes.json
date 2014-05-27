@@ -16,20 +16,20 @@
 { "en": "wallet",       "fi": "lompakko",   "fr": "portefeuille",  "ko": "지갑" },
 { "en": "gloves",       "fi": "käsineet",   "fr": "gants",         "ko": "장갑" },
 { "en": "panties",      "fi": "pikkuhousut, alushousut",   "fr": "culotte",  "ko": "팬티" },
-{ "en": "necktie",      "fi": "kravatti",   "fr": "cravate",  "ko": "넥타이" },
-{ "en": "ring",         "fi": "sormus",     "fr": "anneau",  "ko": "반지 (half + finger)" },
-{ "en": "sock",         "fi": "sukka",          "fr": "chaussette",  "ko": "양말 (the West + Korean socks), 삭스" },
+{ "en": "necktie",      "fi": "kravatti",   "fr": "cravate",     "ko": "넥타이" },
+{ "en": "ring",         "fi": "sormus",     "fr": "anneau",   "es": "(el) anillo", "ko": "반지 (half + finger)" },
+{ "en": "sock",         "fi": "sukka",      "fr": "chaussette",      "ko": "양말 (the West + Korean socks), 삭스" },
 
-{ "en": "scarf",     "ko": "목도리, 스카프",         "fi": "huivi",   "fr": "écharpe" },
-{ "en": "hat",     "ko": "모자",         "fi": "hattu",   "fr": "chapeau" },
+{ "en": "scarf",        "fi": "huivi",      "fr": "écharpe",    "es": "(la) bufanda", "ko": "목도리, 스카프" },
+{ "en": "hat",          "fi": "hattu",      "fr": "chapeau", "ko": "모자" },
 
 
 { "en": "pocket",       "ko": "포켓",      "fi": "tasku",        "fr": "poche" },
-{ "en": "belt",         "ko": "벨트",      "fi": "vyö",          "fr": "ceinture" },
+{ "en": "belt",         "fi": "vyö",        "fr": "ceinture",     "es": "(el) cinturón",   "ko": "벨트" },
 
-{ "en": "shoe",        "ko": "구두",       "fi": "kenkä",        "fr": "chaussure" },
-{ "en": "shoelace",    "ko": "신발 끈",    "fi": "kengännauha" , "fr":"lacet"},
-{ "en": "heel",        "ko": "힐",         "fi": "korko" ,       "fr":"talon"},
+{ "en": "shoe",        "fi": "kenkä",       "fr": "chaussure",   "es": "(el) zapato",  "ko": "구두" },
+{ "en": "shoelace",    "fi": "kengännauha", "fr":"lacet",        "ko": "신발 끈"},
+{ "en": "heel",        "fi": "korko" ,      "fr":"talon",        "es":"(el) tacón",   "ko": "힐"},
 
 
 
@@ -42,24 +42,22 @@
 
 
 { "en": "cool, stylish, good-looking",         "ko": "멋있다",       "fi": "mahtava",          "fr": "excellent" },
-{ "en": "sexy",         "ko": "섹시하다",       "fi": "seksikäs",          "fr": "sexy" },
+{ "en": "sexy",        "fi": "seksikäs",          "fr": "sexy",       "es": "sexy", "ko": "섹시하다" },
 
 { "en": "new",         "ko": "새로운, 새",       "fi": "uusi",          "fr": "nouveau, neuf" },
 { "en": "old",         "ko": " 낡다, 오래되다, 늙다(of people)",       "fi": "vanha",          "fr": "vieux" },
-{ "en": "size",    "ko": "사이즈",    "fi": "koko, suuruus" , "fr":"taille"},
+{ "en": "size",        "fi": "koko, suuruus", "fr":"taille",  "ko": "사이즈"},
 
 
-{ "en": "quality",         "ko": "품질",       "fi": "laatu",          "fr": "qualité" },
+{ "en": "quality",     "fi": "laatu",    "fr": "qualité",   "es": "(la) calidad", "ko": "품질" },
+{ "en": "clothes",     "fi": "vaatteet", "fr": "vêtements", "es": "(la) ropa",   "ko": "" },
+{ "en": "flip-flops",  "fi": "vaatteet", "fr": "vêtements", "es": "(la) ropa",   "ko": "" },
+{ "en": "T-shirt",     "fi": "hiha",     "fr": "T-shirt",   "es": "(la) camiseta",   "ko": "" },
 
+{ "en": "sleeve",      "fi": "T-paita",   "fr": "manche",    "es": "(la) manga",   "ko": "" },
+{ "en": "button",      "fi": "nappi",     "fr": "bouton",    "es": "(el) botón",   "ko": "" },
 
-{ "en": "clothes",     "fi": "vaatteet",    "fr": "vêtements",   "es": "(la) ropa",   "ko": "" },
-{ "en": "flip-flops",     "fi": "vaatteet",    "fr": "vêtements",   "es": "(la) ropa",   "ko": "" },
-{ "en": "T-shirt",     "fi": "hiha",    "fr": "T-shirt",   "es": "(la) camiseta",   "ko": "" },
-
-{ "en": "sleeve",     "fi": "T-paita",    "fr": "manche",   "es": "(la) manga",   "ko": "" },
-{ "en": "button",     "fi": "nappi",    "fr": "bouton",   "es": "(el) botón",   "ko": "" },
-
-{ "en": "wool",     "fi": "varvastossut",    "fr": "tongs",   "es": "(las) chanclas",   "ko": "" },
+{ "en": "wool",      "fi": "varvastossut",    "fr": "tongs",   "es": "(las) chanclas",   "ko": "" },
 
 { "en": "make, manufacture, tailor",         "ko": "짓다",       "fi": "",          "fr": "" }
 

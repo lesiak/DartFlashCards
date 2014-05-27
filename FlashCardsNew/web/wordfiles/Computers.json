@@ -15,8 +15,12 @@
 
 { "en": "server",          "fi": "palvelin",   "fr": "serveur",     "es": "(el) servidor",   "ko": "서버" },
 { "en": "laptop",          "fi": "kannettava tietokone",   "fr": "portatif",     "es": "(el) ordenador portátil",   "ko": "" },
+{ "en": "desktop computer","fi": "pöytätietokone",   "fr": "ordinateur de bureau",     "es": "(el) ordenador de sobremesa",   "ko": "데스크톱 컴퓨터" },
 
-{ "en": "hardware",        "fi": "laitteisto",   "fr": "matériel",  "es": "(el) hardware",   "ko": "" },
+{ "en": "hardware",        "fi": "laitteisto",   "fr": "matériel",    "es": "(el) hardware",   "ko": "" },
+{ "en": "memory (storage)","fi": "muisti",       "fr": "mémoire",     "es": "(la) memoria",  "ko": "메모리" },
+{ "en": "hard disk",       "fi": "kiintolevy",   "fr": "disque dur",  "es": "(el) disco duro",  "ko": "하드 디스크" },
+
 
 { "en": "television (set)","fi": "televisio",  "fr": "téléviseur (m), télévision (f)",       "ko": "텔레비전"       },
 { "en": "remote control",    "fi": "kaukosäädin",  "fr": "télécommande",         "ko": ""       },
@@ -37,12 +41,13 @@
 { "en": "install",         "ko": "설치하다",      "fi": "asentaa",    "fr": "installer" },
 { "en": "installation",         "ko": "설치",      "fi": "asennus",    "fr": "installation" },
 
-{ "en": "to update",         "ko": "업데이트하다",      "fi": "päivittää",    "fr": "mettre à jour, actualiser" },
-{ "en": "update",         "ko": "업데이트",      "fi": "päivitys",    "fr": "mise à jour" },
+{ "en": "to update",         "fi": "päivittää",    "fr": "mettre à jour, actualiser", "es": "actualizar", "ko": "업데이트하다" },
+{ "en": "update",            "fi": "päivitys",    "fr": "mise à jour",                "es": "(la) actualización", "ko": "업데이트" },
 
 { "en": "maintenance",       "fi": "huolto",    "fr": "maintenance",   "es": "(el) mantenimiento",  "ko": "" },
 { "en": "to maintain",       "fi": "huoltaa",   "fr": "maintenir",     "es": "mantener",            "ko": "" },
 
+{ "en": "warranty",          "fi": "takuu",       "fr": "garantie",     "es": "(la) garantía",  "ko": "보증" },
 
 { "en": "to connect",         "fi": "kytkeä",      "fr": "relier",  "ko": "" },
 { "en": "connection",         "fi": "yhteys",      "fr": "",         "es": "(la) conexión",  "ko": "" },
@@ -51,6 +56,7 @@
 { "en": "switch off",         "fi": "sammuttaa",   "fr": "éteindre",  "ko": "끄다" },
 { "en": "printer",            "fi": "kirjoitin",   "fr": "imprimeur", "es": "(la) impresora",  "ko": "" },
 { "en": "compatible",         "fi": "yhteensopiva","fr": "compatible","es": "compatible",  "ko": "" },
+{ "en": "adaptor",            "fi": "adapteri",    "fr": "adaptateur","es": "(el) adaptador",  "ko": "어댑터" },
 
 
 { "en": "user",    "ko": "사용자",    "fi": "käyttäjä" , "fr":""},
