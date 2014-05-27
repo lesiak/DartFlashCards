@@ -32,6 +32,5 @@ class ProgressBarElement extends PolymerElement {
   currentFailChanged(int oldValue) {
     precentFail = (currentFail*100)/total;  
   }
-  
-  bool get applyAuthorStyles => true;
+   
 }

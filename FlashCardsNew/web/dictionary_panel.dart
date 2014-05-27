@@ -117,10 +117,6 @@ class DictionaryPanelElement extends PolymerElement {
     
   String getValueForLang(Card c, String lang) => c.getValueForLang(lang);
   
-  bool get applyAuthorStyles => true;
-  
-  
-    
 }
 
 class DictionaryTableRow extends Object with Observable {

@@ -74,10 +74,7 @@ class WordsTable extends PolymerElement {
   String getLangName(String lang) => LangUtils.getLangName(lang);
       
   String getValueForLang(Card c, String lang) => c.getValueForLang(lang);
-          
-  // This lets the Bootstrap CSS "bleed through" into the Shadow DOM
-  // of this element.
-  bool get applyAuthorStyles => true;
+            
 }
 
 

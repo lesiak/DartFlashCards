@@ -198,12 +198,7 @@ class LearingPanelElement extends PolymerElement {
     var html='<audio autoplay="true"><source src="$url"></audio>';
     $['audioContainer'].setInnerHtml(html, treeSanitizer : new NullTreeSanitizer());
   }
-  
-
-  
-  bool get applyAuthorStyles => true;
-  
-  
+   
 }
 
 

@@ -15,8 +15,6 @@ class DecksTableElement extends PolymerElement {
     selectedName = deckName;
     dispatchEvent(new CustomEvent('decknameclicked', detail: deckName)); 
   }
-     
-  bool get applyAuthorStyles => true;
   
   String getCss(String wordFile, String _selectedNameTrigger) {    
     if (wordFile == selectedName) {

@@ -323,9 +323,5 @@ class FlashCardsApp extends PolymerElement {
     return deckNames;
   }
   
-  
-// This lets the Bootstrap CSS "bleed through" into the Shadow DOM
-  // of this element.
-  bool get applyAuthorStyles => true;
 }
 
