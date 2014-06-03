@@ -77,7 +77,8 @@
 
 { "en": "weakness, weak point",         "ko": "약점 (weak + point)",       "fi": "heikkous",          "fr": "faiblesse, point faible" },
 
-{ "en": "stapler",       "ko": "호치키스",    "fi": "nitoja",    "fr":"agrafeuse"},
+{ "en": "stapler",       "fi": "nitoja",        "fr": "agrafeuse",  "ko": "호치키스"},
+{ "en": "a (post) stamp","fi": "postimerkki",   "fr": "timbre",      "es": "(el) sello", "ko": "우표"},
 
 { "en": "agriculture",   "fi": "maanviljely",   "fr": "agriculture", "es": "(la) agricultura", "ko": ""},
 { "en": "soil",          "fi": "maaperä",       "fr": "terre",       "es": "(la) tierra",      "ko": ""},

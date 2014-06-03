@@ -53,7 +53,7 @@
 { "en": "previous",     "ko": "이전",    "fi": "edellinen" , "fr":"précédent"},
 
 { "en": "the day after tomorrow",        "ko": "모레",          "fi": "ylihuomenna",    "fr": "après-demain" },
-{ "en": "last night",       "ko": " 어젯밤",       "fi": "viime yönä",    "fr": "la nuit dernière" },
+{ "en": "last night",   "fi": "viime yönä",    "fr": "la nuit dernière",  "es": "anoche",  "ko": " 어젯밤" },
 
  
 

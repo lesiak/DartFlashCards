@@ -7,6 +7,7 @@
 { "en": "debit card",         "ko": "",    "fi": "pankkikortti",          "fr": "carte bancaire" },
 { "en": "credit card",         "ko": "신용 카드, 크레디트 카드",    "fi": "luottokortti",          "fr": "carte de crédit" },
 { "en": "banknote",         "ko": "지폐",    "fi": "seteli",          "fr": "billet (de banque)" },
+{ "en": "cash",             "fi": "käteinen",          "fr": "liquide",   "es": "(el) efectivo",  "ko": "" },
 
 
 { "en": "account",         "ko": "계정",    "fi": "tili",          "fr": "compte" },
