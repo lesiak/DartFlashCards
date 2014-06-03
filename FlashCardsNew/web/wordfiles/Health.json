@@ -2,6 +2,7 @@
 
 { "en": "hospital",            "fi": "sairaala",    "fr": "hôpital",       "es": "(el) hospital",  "ko": "병원 (illness + public building)" },
 { "en": "sick, painful",       "fi": "sairas",      "fr": "malade",        "es": "enfermo",        "ko": "아프다" },
+{ "en": "ill",                 "fi": "sairas",      "fr": "malade",        "es": "enfermo",        "ko": "" },
 { "en": "healthy",             "fi": "terveellinen","fr": "en bonne santé","es": "sano",           "ko": "건강하다" },
 { "en": "doctor",              "fi": "lääkäri, tohtori", "fr": "médecin, docteur","es": "(el) médico",   "ko": "의사" },
 { "en": "patient (in hospital)", "fi": "potilas",   "fr": "patient",       "es": "paciente (???)", "ko": "환자" },

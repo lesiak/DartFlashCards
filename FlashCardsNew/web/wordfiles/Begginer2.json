@@ -1,15 +1,15 @@
 [
 
 { "en": "buy",         "fi": "ostaa",    "fr": "acheter",              "es": "comprar",    "ko": "사다" },
-{ "en": "sell",        "fi": "myydä",    "fr": "vendre",               "ko": "팔다" },
+{ "en": "sell",        "fi": "myydä",    "fr": "vendre",               "es": "vender",     "ko": "팔다" },
 { "en": "cheap",       "fi": "halpa",    "fr": "bon marché, pas cher", "es": "barato",  "ko": "싸다" },
-{ "en": "expensive",   "fi": "kallis",   "fr": "cher",                 "ko": "비싸다" },
+{ "en": "expensive",   "fi": "kallis",   "fr": "cher",                 "es": "caro",    "ko": "비싸다" },
 { "en": "price",       "fi": "hinta",    "fr": "prix",                 "ko": "가격" },
 { "en": "pay",         "fi": "maksaa",   "fr": "payer",                "ko": "지불하다" },
 { "en": "money",       "fi": "raha",     "fr": "argent",               "ko": "돈" },
-{ "en": "to take",     "fi": "ottaa",    "fr": "prendre",              "ko": "잡다" },
+{ "en": "to take",     "fi": "ottaa",    "fr": "prendre",              "es": "coger",   "ko": "잡다" },
 
-{ "en": "bring",       "ko": " 가져오다 ","fi": "touda",    "fr": "apporter, amener" },
+{ "en": "bring",       "fi": "touda",    "fr": "apporter, amener",     "fr": "traer", "ko": "가져오다"},
 { "en": "leave (behind)", "ko": " 남기다 ","fi": "jättää",  "fr": "laisser" },
 
 { "en": "come",        "fi": "tulla",    "fr": "venir",   "es": "venir",  "ko": "오다" },
@@ -37,9 +37,9 @@
 { "en": "to stop",        "ko": "",       "fi": "lopettaa, pysäyttää, pysähtyä",    "fr": "" },
 
 { "en": "to smoke",     "fi": "tupakoida","fr": "fumer",       "ko": "피우다" },
-{ "en": "cigarette",    "fi": "savuke",   "fr": "cigarette",   "ko": "담배" },
-{ "en": "tobacco",      "fi": "tupakka",  "fr": "tabac",       "ko": "담배" },
-{ "en": "match",        "fi": "tulitikku","fr":"allumette",    "ko": "성냥"},
+{ "en": "cigarette",    "fi": "savuke",   "fr": "cigarette",   "es": "(el) cigarrillo, (el) cigarro", "ko": "담배" },
+{ "en": "tobacco",      "fi": "tupakka",  "fr": "tabac",       "es":"(el) tabaco",              "ko": "담배" },
+{ "en": "match",        "fi": "tulitikku","fr":"allumette",    "es":"(el) cerillo, (la) cerilla","ko": "성냥"},
  
 
 { "en": "silver",       "fi": "hopea",    "fr": "argent",    "es": "(la) plata",   "ko": "은" }, 

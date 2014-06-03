@@ -36,7 +36,7 @@
 
 { "en": "to hope",    "fi": "toivoa",         "fr": "espérer",   "es": "esperar",               "ko": "희망하다" },
 { "en": "hope",       "fi": "toivo",          "fr": "espoir",    "es": "(la) esperanza",        "ko": "희망" },
-
+{ "en": "hopefully(!)","fi": "",     "fr": "",          "es": "Ojalá",        "ko": "" },
 
 { "en": "emotion",    "fi": "tunne, emotio",  "fr": "émotion",   "es": "(la) emoción",   "ko": "감정" },
 { "en": "mood",       "fi": "mieliala",       "fr": "humeur",    "es": "(el) humor",     "ko": "기분" },

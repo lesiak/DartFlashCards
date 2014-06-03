@@ -36,7 +36,8 @@
 { "en": "platform",    "fi": "asemalaituri", "fr":"quai",      "es": "(el) andén",      "ko": "플랫폼, 승강장"},
 { "en": "ticket",      "fi": "lippu",        "fr": "billet",   "es": "(el) billete",    "ko": "표" },
 { "en": "reserve",     "fi": "",             "fr": "",         "es": "reservar",    "ko": "" },
-{ "en": "validate (a ticket)",      "fi": "",        "fr": "",   "es": "picar",    "ko": "" },
+{ "en": "validate (a ticket)",      "fi": "",        "fr": "", "es": "picar",    "ko": "" },
+{ "en": "(railway) track", "fi": "junarata",  "fr": "voie",    "es": "vía",    "ko": "" },
 
 
 { "en": "exit",        "fi": "uloskäynti",   "fr":"sortie",    "es": "(la) salida",     "ko": "출구"},
@@ -47,7 +48,7 @@
 { "en": "to leave (from)","fi": "lähteä",    "fr": "partir",   "es": "salir",          "ko": "떠나다" },
 { "en": "to transfer, change",        "ko": "갈아 타다",          "fi": "vaihtaa",    "fr": "" },
 
-{ "en": "to get off",        "ko": "내리다",          "fi": "jäädä pois",    "fr": "descendre" },
+{ "en": "to get off",       "fi": "jäädä pois",    "fr": "descendre",  "es": "bajar",   "ko": "내리다" },
 { "en": "to get out, (go out, exit)",        "ko": "나가다",          "fi": "",    "fr": "sortir" },
 
 { "en": "to go out (from home)",        "ko": "외출하다",          "fi": "",    "fr": "sortir" },

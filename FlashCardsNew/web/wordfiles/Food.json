@@ -93,16 +93,23 @@
 { "en": "cup",          "fi": "kuppi",      "fr": "tasse",        "ko": "컵" }, 
 { "en": "plate",        "fi": "lautanen",   "fr": "assiette",         "ko": "" },
 
-{ "en": "fast food",          "ko": "패스트 푸드",         "fi": "pikaruoka",    "fr": "" },
+{ "en": "fast food",    "fi": "pikaruoka",  "fr": "",     "ko": "패스트 푸드" },
 
-{ "en": "poultry",    "fi": "siipikarja",    "fr": "volaille", "es": "aves de corral",  "ko": "푸드" },
-{ "en": "turkey",     "fi": "dinde",    "fr": "volaille",      "es": "(el) pavo",  "ko": "" },
+{ "en": "poultry",    "fi": "siipikarja",   "fr": "volaille", "es": "aves de corral",  "ko": "푸드" },
+{ "en": "turkey",     "fi": "dinde",        "fr": "volaille",      "es": "(el) pavo",  "ko": "" },
 
 { "en": "meal",         "ko": "식사",       "fi": "ateria",    "fr": "repas" },
-{ "en": "dessert",       "fi": "jälkiruoka",    "fr": "dessert",  "es": "(el) postre", "ko": "디저트, 후식" },
-{ "en": "snack",         "ko": "간식 (between + meal)",       "fi": "välipala, pientä purtavaa",    "fr": "casse-croûte" }
+{ "en": "starter",       "fi": "alkuruoka","fr": "entrée",  "es": "(el) entrante", "ko": "" },
+{ "en": "main course",    "fi": "pääruoka","fr": "plat principal",  "es": "(el) plato principal", "ko": "" },
+{ "en": "dessert",       "fi": "jälkiruoka","fr": "dessert",  "es": "(el) postre", "ko": "디저트, 후식" },
+{ "en": "snack",         "ko": "간식 (between + meal)",       "fi": "välipala, pientä purtavaa",    "fr": "casse-croûte" },
 
-
+{ "en": "restaurant",   "fi": "ravintola",    "fr": "restaurant",          "es": "(el) restaurante",   "ko": "" },
+{ "en": "to eat out",   "fi": "syödä ulkona", "fr": "aller au restaurant", "es": "comer fuera",   "ko": "" },
+{ "en": "menu",         "fi": "ruokalista",   "fr": "carte",               "es": "(la) carta",   "ko": "" },
+{ "en": "to order",     "fi": "tilata",       "fr": "",                    "es": "pedir",   "ko": "" },
+{ "en": "a tip (money)","fi": "",       "fr": "",                          "es": "(la) propina",   "ko": "" },
+{ "en": "bill",         "fi": "lasku",        "fr": "addition",            "es": "(la) cuenta",   "ko": "" }
 
 
 ]

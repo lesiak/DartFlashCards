@@ -24,7 +24,7 @@
 { "en": "lawyer",        "ko": "",          "fi": "lakimies",    "fr": "avocat" },
 { "en": "prosecutor",        "ko": "검사",          "fi": "syyttäjä",    "fr": "procureur" },
 
-{ "en": "waiter",    "ko": "웨이터",    "fi": "tarjoilija" , "fr":"serveur"},
+{ "en": "waiter",        "fi": "tarjoilija" , "fr": "serveur", "es": "(el) camarero",   "ko": "웨이터"},
 
 { "en": "policeman",    "ko": "경찰관",    "fi": "poliisi" , "fr":"policier, gendarme"},
 { "en": "fireman",    "ko": "소방수",    "fi": "palomies" , "fr":"pompier"},

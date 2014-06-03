@@ -28,21 +28,23 @@
 
 
 { "en": "programmer",       "ko": "프로그래머",      "fi": "ohjelmoija",    "fr": "programmeur" },
-{ "en": "software",         "ko": "소프트웨어",      "fi": "ohjelmisto",    "fr": "logiciel" },
+{ "en": "software",         "fi": "ohjelmisto",    "fr": "logiciel",    "es": "(el) software", "ko": "소프트웨어" },
 
-{ "en": "application",         "ko": "",      "fi": "sovellus",    "fr": "application" },
-{ "en": "settings",         "ko": "",      "fi": "asetukset",    "fr": "paramètres, réglage" },
+{ "en": "application",      "fi": "sovellus",     "fr": "application", "es": "(la) aplicación",   "ko": "" },
+{ "en": "settings",         "fi": "asetukset",    "fr": "paramètres, réglage",  "ko": "" },
+
+{ "en": "bug, defect",      "fi": "vika",     "fr": "défaut", "es": "(el) defecto",   "ko": "" },
 
 { "en": "to develop",         "ko": "",      "fi": "kehittää",    "fr": "développer" },
 { "en": "developer",         "ko": "",      "fi": "kehittäjä",    "fr": "" },
 { "en": "development",         "ko": "",      "fi": "kehitys",    "fr": "développement" },
 
-{ "en": "download",         "ko": "다운로드",      "fi": "ladata",    "fr": "télécharger" },
-{ "en": "install",         "ko": "설치하다",      "fi": "asentaa",    "fr": "installer" },
-{ "en": "installation",         "ko": "설치",      "fi": "asennus",    "fr": "installation" },
+{ "en": "to download",       "fi": "ladata",    "fr": "télécharger",   "es": "descargar",           "ko": "다운로드" },
+{ "en": "install",           "fi": "asentaa",   "fr": "installer",     "es": "instalar",            "ko": "설치하다" },
+{ "en": "installation",      "fi": "asennus",   "fr": "installation",  "es": "(la) instalación",    "ko": "설치" },
 
-{ "en": "to update",         "fi": "päivittää",    "fr": "mettre à jour, actualiser", "es": "actualizar", "ko": "업데이트하다" },
-{ "en": "update",            "fi": "päivitys",    "fr": "mise à jour",                "es": "(la) actualización", "ko": "업데이트" },
+{ "en": "to update",         "fi": "päivittää", "fr": "mettre à jour, actualiser", "es": "actualizar", "ko": "업데이트하다" },
+{ "en": "update",            "fi": "päivitys",  "fr": "mise à jour",   "es": "(la) actualización",  "ko": "업데이트" },
 
 { "en": "maintenance",       "fi": "huolto",    "fr": "maintenance",   "es": "(el) mantenimiento",  "ko": "" },
 { "en": "to maintain",       "fi": "huoltaa",   "fr": "maintenir",     "es": "mantener",            "ko": "" },
@@ -53,6 +55,8 @@
 { "en": "connection",         "fi": "yhteys",      "fr": "",         "es": "(la) conexión",  "ko": "" },
 { "en": "wireless",           "fi": "langaton",    "fr": "sans fil", "es": "inalámbrico",  "ko": "" },
 { "en": "wireless connection","fi": "langaton yhteys",    "fr": "connexion sans fil", "es": "(la) conexión inalámbrica",  "ko": "" },
+{ "en": "online",            "fi": "",            "fr": "en ligne",   "es": "en línea",      "ko": ""},
+{ "en": "offline",            "fi": "offline",    "fr": "déconnecté", "es": "desconectado",      "ko": ""},
 { "en": "switch off",         "fi": "sammuttaa",   "fr": "éteindre",  "ko": "끄다" },
 { "en": "printer",            "fi": "kirjoitin",   "fr": "imprimeur", "es": "(la) impresora",  "ko": "" },
 { "en": "compatible",         "fi": "yhteensopiva","fr": "compatible","es": "compatible",  "ko": "" },
@@ -63,12 +67,19 @@
 { "en": "login",    "ko": "로그인",    "fi": "" , "fr":""},
 { "en": "password",    "ko": "비밀번호",    "fi": "salasana" , "fr":"mot de passe"},
 
-{ "en": "folder",      "ko": "폴더",    "fi": "kansio" ,  "fr":"dossier"},
-{ "en": "file",        "ko": "파일",    "fi": "tiedosto", "fr":"fichier"},
-{ "en": "attachment",  "ko": "",         "fi": "liite",    "fr":""},
-{ "en": "to attach",   "ko": "붙이다",  "fi": "liittää",  "fr":"attacher"},
+{ "en": "folder",      "fi": "kansio" ,  "fr": "dossier",  "es": "(la) carpeta",  "ko": "폴더"},
+{ "en": "file",        "fi": "tiedosto", "fr": "fichier",  "es": "(el) archivo",  "ko": "파일"},
+{ "en": "menu (computer)", "fi": "menu",     "fr": "menu",     "es": "(el) menú",     "ko": "메뉴"},
+{ "en": "to save",     "fi": "tallentaa","fr": "",         "es": "guardar",       "ko": ""},
+{ "en": "a click",     "fi": "klikkaus", "fr": "clic",     "es": "(el) clic",     "ko": "클릭"},
+{ "en": "to click",    "fi": "klikata",  "fr": "cliquer",  "es": "hacer clic",    "ko": ""},
+{ "en": "to drag",     "fi": "vetää",    "fr": "",         "es": "arrastrar",      "ko": ""},
+{ "en": "attachment",  "fi": "liite",    "fr": "",         "ko": ""},
+{ "en": "to attach",   "fi": "liittää",  "fr": "attacher", "ko": "붙이다"},
 
-
+{ "en": "network",     "fi": "verkko",   "fr": "réseau",   "es": "(la) red",         "ko": "네트워크"},
+{ "en": "browser",     "fi": "selain",   "fr": "navigateur","es": "(el) navegador",  "ko": "브라우저"},
+{ "en": "link",        "fi": "linkki",   "fr": "",          "es": "(el) enlace",     "ko": "링크"},
 
 
 { "en": "to monitor",         "ko": "",      "fi": "valvoa",    "fr": "surveiller" }

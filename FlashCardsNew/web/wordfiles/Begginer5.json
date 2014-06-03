@@ -20,6 +20,8 @@
 { "en": "simple",          "fi": "yksinkertainen",   "fr": "simple",   "es": "sencillo",  "ko": "단순하다 (single + only)" },
 { "en": "simply",      "ko": "간단히",      "fi": "yksinkertaisesti",          "fr": "simplement" },
 
+{ "en": "strange",       "fi": "outo, kummallinen, omituinen",          "fr": "étrange", "es": "extraño", "ko": "이상하다" },
+
 { "en": "to cut",    "ko": "베다",    "fi": "leikata" , "fr":"couper"},
 
 { "en": "strong",       "fi": "vahva",          "fr": "forte",   "es": "fuerte",   "ko": "강하다" },
@@ -47,7 +49,13 @@
 
 { "en": "by chance",   "ko": "우연히",    "fi": "sattumalta",   "fr":"par hasard"},
 
-{ "en": "on the contrary",   "ko": "이에 반하여",    "fi": "päinvastoin",   "fr":"au contraire"},
+{ "en": "on the contrary",   "fi": "päinvastoin",   "fr":"au contraire",  "ko": "이에 반하여"},
+{ "en": "on top of that",    "fi": "(sen) lisäksi", "fr":"", "es": "además", "ko": "게다가"},
+{ "en": "in addition",       "fi": "(sen) lisäksi", "fr":"", "es": "además", "ko": "게다가"},
+
+{ "en": "to go shopping",       "fi": "käydä ostoksilla", "fr":"",       "es": "hacer la compra", "ko": ""},
+{ "en": "trolley",              "fi": "ostoskori",        "fr":"panier", "es": "(el) carrito", "ko": ""},
+{ "en": "cash desk",              "fi": "kassa",        "fr":"caisse", "es": "(la) caja", "ko": ""},
 
 
 { "en": "special",         "ko": "특별한",       "fi": "erityinen, erikoinen",          "fr": "spéciale" },
