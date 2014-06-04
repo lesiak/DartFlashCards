@@ -27,7 +27,7 @@
 { "en": "doll",          "ko": "인형",       "fi": "nukke",    "fr": "poupée" },
 { "en": "separately",    "ko": "따로",       "fi": "erillään",    "fr": "séparément" }, 
 
-
+{ "en": "to burn",        "ko": "타다",          "fi": "polttaa",    "fr": "" },
 
 { "en": "to replace",        "ko": "",          "fi": "korvata",       "fr": "remplacer" },
 { "en": "replacement",        "ko": "",          "fi": "korvaaminen, korvaus",       "fr": "remplacement" },

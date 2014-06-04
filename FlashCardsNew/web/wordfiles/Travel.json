@@ -54,7 +54,11 @@
 { "en": "to go out (from home)",        "ko": "외출하다",          "fi": "",    "fr": "sortir" },
 
 { "en": "to ride",        "ko": "타다",          "fi": "",    "fr": "" },
-{ "en": "to burn",        "ko": "타다",          "fi": "polttaa",    "fr": "" },
+
+{ "en": "to turn",        "fi": "kääntää",     "fr": "tourner",      "es": "girar",      "ko": "" },
+{ "en": "to the left",    "fi": "vasemmalle",  "fr": "à gauche",     "es": "a la izquierda",      "ko": "" },
+{ "en": "to the right",   "fi": "oikealle",    "fr": "à droite",     "es": "a la derecha",      "ko": "" },
+{ "en": "on the corner",  "fi": "kulmassa",    "fr": "",             "es": "en la esquina",      "ko": "" },
 
 { "en": "a visit",        "fi": "vierailu",    "fr": "visite",  "ko": "방문" },
 
