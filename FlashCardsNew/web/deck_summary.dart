@@ -22,11 +22,11 @@ class DeckSummary extends PolymerElement {
     print('created summary');
     
     new PathObserver(this, 'cards')
-    ..changes.listen((record) {
+    ..open((record) {
       recomputeStats();       
     });
     new PathObserver(this, 'primaryLang')
-    ..changes.listen((_) {
+    ..open((_) {
       recomputeStats();
     });    
   } 

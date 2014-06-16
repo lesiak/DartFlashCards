@@ -33,7 +33,7 @@ class LearingPanelElement extends PolymerElement {
       this.pronounciationManager = new PronounciationManager(cache, playMp3FromUrl);                
     });*/
     new PathObserver(this, 'fileCache')
-        ..changes.listen((changeRecords) {          
+        ..open((changeRecords) {          
           this.pronounciationManager = new PronounciationManager(fileCache, playMp3FromUrl);          
         });
        

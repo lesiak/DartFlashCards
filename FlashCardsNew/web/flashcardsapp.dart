@@ -75,10 +75,11 @@ class FlashCardsApp extends PolymerElement {
   @observable List<String> items;
   
   @observable String primaryLang;
+    
+  //TODO: find out why initializing this variable breaks the app in 0.10.0+1, but not in 0.9.5
+  @observable String secondaryLang;
   
-  @observable String secondaryLang = "fi";
-  
-  @observable String thirdLang ="fr";
+  @observable String thirdLang;
   
   @observable String flagPath;
   
@@ -113,9 +114,9 @@ class FlashCardsApp extends PolymerElement {
       }
     }
     primaryLang = langs[idx];
-    secondaryLang = langs[(idx + 1) % langs.length];
+    secondaryLang = langs[(idx + 1) % langs.length];    
     thirdLang = langs[(idx + 2) % langs.length];
-
+  
   }
   
   @override

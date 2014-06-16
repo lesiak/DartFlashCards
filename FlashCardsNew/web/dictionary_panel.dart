@@ -27,7 +27,7 @@ class DictionaryPanelElement extends PolymerElement {
     
   DictionaryPanelElement.created() : super.created() {        
     new PathObserver(this, 'primaryLang')
-       ..changes.listen((_) {          
+       ..open((_) {          
          dictionaryInPrimaryLangSize = calculateNonEmptyInPrimLang();
        });
   } 

@@ -24,7 +24,7 @@ class WordsTable extends PolymerElement {
   
   WordsTable.created() : super.created() {
     new PathObserver(this, 'cards')
-    ..changes.listen((_) {
+    ..open((_) {
       wordRows = mapToRowData(cards);
     });    
   }
