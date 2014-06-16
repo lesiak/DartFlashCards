@@ -59,7 +59,7 @@
 { "en": "candy",       "fi": "karkki, karamelli",    "fr": "bonbon" , "ko": "사탕"},
 { "en": "cookie",      "fi": "pikkuleipä",    "fr": "gâteau",   "ko": "쿠키" },
 
-{ "en": "sandwich",    "fi": "voileipä",    "fr": "sandwich",   "ko": "샌드위치" },
+{ "en": "sandwich",    "fi": "voileipä",    "fr": "sandwich",   "es": "(el) bocadillo", "ko": "샌드위치" },
 { "en": "sushi",       "fi": "sushi",       "fr": "sushi",  "ko": "스시, 일본식 초밥 (vinegar + rice)" },
 
 { "en": "pancake",       "ko": "",         "fi": "ohukainen",    "fr": "" },
@@ -75,7 +75,7 @@
 
 { "en": "sweet",        "fi": "makea",        "fr": "doux",   "es": "dulce",   "ko": "달다" },
 { "en": "bitter",       "ko": "쓰다",       "fi": "kitkerä",      "fr": "amer" },
-{ "en": "sour",        "ko": "신, 사워",       "fi": "hapan",        "fr": "aigre" },
+{ "en": "sour",         "fi": "hapan",        "fr": "aigre",   "es": "ácido", "ko": "신, 사워" },
 { "en": "spicy",        "ko": "맵다",       "fi": "mausteinen" ,  "fr":"piquant"},
 { "en": "mild",        "ko": "",       "fi": "mieto" ,  "fr":""},
 { "en": "fresh",        "fi": "tuore" ,       "fr": "frais",          "es": "fresco",  "ko": "신선한"},
@@ -90,8 +90,10 @@
 { "en": "spoon",        "fi": "lusikka",    "fr": "cuillère",   "es": "(la) cuchara",  "ko": "스푼" },
 { "en": "fork",         "fi": "haarukka",   "fr": "fourchette",                        "ko": "포크" },
 { "en": "chopsticks",   "fi": "syömäpuikot","fr": "baguettes",  "es": "palillos",      "ko": "젓가락"},
-{ "en": "cup",          "fi": "kuppi",      "fr": "tasse",        "ko": "컵" }, 
+{ "en": "cup",          "fi": "kuppi",      "fr": "tasse",      "es": "(la) taza",     "ko": "컵" }, 
 { "en": "plate",        "fi": "lautanen",   "fr": "assiette",         "ko": "" },
+{ "en": "glass (water)","fi": "",           "fr": "",           "es": "(el) vaso",       "ko": "" },
+{ "en": "glass (vine)", "fi": "",           "fr": "",           "es": "(la) copa",       "ko": "" },
 
 { "en": "fast food",    "fi": "pikaruoka",  "fr": "",     "ko": "패스트 푸드" },
 
