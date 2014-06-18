@@ -64,6 +64,8 @@
 { "en": "limit",          "ko": "한도",      "fi": "raja" ,      "fr":"limite"},
 { "en": "to limit",       "ko": "한하다",    "fi": "rajoittaa" , "fr":"limiter"},
 
+{ "en": "to trust",       "fi": "" , "fr":"","es":"tener confianza",  "ko": ""},
+
 
 { "en": "to decorate",    "ko": "장식하다",       "fi": "koristella",          "fr": "décorer" },
 

@@ -1,8 +1,8 @@
 [
-{ "en": "question",      "fi": "kysymys, asia",    "fr": "question",   "ko": "문제" },
-{ "en": "to ask",        "ko": "묻다 (물어)",          "fi": "kysyä",    "fr": "" },
-{ "en": "answer",       "fi": "vastaus",   "fr": "réponse",    "es": "(la) respuesta",  "ko": "답변, 대답 (reply + answer)" },
-{ "en": "to answer",    "fi": "vastata",   "fr": "répondre",   "es": "responder",       "ko": "답변하다, 대답하다" },
+{ "en": "question",     "fi": "kysymys, asia", "fr": "question",  "es": "(la) pregunta",  "ko": "문제" },
+{ "en": "to ask",       "fi": "kysyä",         "fr": "",                     "ko": "묻다 (물어)" },
+{ "en": "answer",       "fi": "vastaus",       "fr": "réponse",    "es": "(la) respuesta",  "ko": "답변, 대답 (reply + answer)" },
+{ "en": "to answer",    "fi": "vastata",       "fr": "répondre",   "es": "responder",       "ko": "답변하다, 대답하다" },
 
 
 { "en": "warm",     "ko": "따뜻하다",    "fi": "lämmin" , "fr":"chaud"},

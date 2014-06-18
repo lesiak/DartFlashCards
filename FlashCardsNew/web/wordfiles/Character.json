@@ -19,6 +19,7 @@
 { "en": "punctual",      "fi": "täsmällinen",    "fr": "ponctuel",    "es": "puntual",              "ko": "" },
 { "en": "laborious",     "fi": "työläs",         "fr": "laborieux",   "ko": "힘들다" },
 
+{ "en": "friendly",      "fi": "ystävällinen",   "fr": "amical" ,     "es": "amable", "ko": ""},
 { "en": "shy",           "fi": "ujo",            "fr": "timide" ,     "es": "tímido", "ko": ""},
 { "en": "brave",         "fi": "rohkea",         "fr": "courageux",   "ko": "용감한" },
 { "en": "aggressive",    "fi": "aggressiivinen", "fr": "agressif",    "es": "agresivo",   "ko": "" },

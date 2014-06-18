@@ -7,7 +7,7 @@
 { "en": "to cost",     "fi": "maksaa",   "fr": "coûter",               "es": "costar",  "ko": "" },
 { "en": "price",       "fi": "hinta",    "fr": "prix",                 "ko": "가격" },
 { "en": "pay",         "fi": "maksaa",   "fr": "payer",                "es": "pagar", "ko": "지불하다" },
-{ "en": "money",       "fi": "raha",     "fr": "argent",               "ko": "돈" },
+{ "en": "money",       "fi": "raha",     "fr": "argent",               "es": "(el) dinero",  "ko": "돈" },
 { "en": "to take",     "fi": "ottaa",    "fr": "prendre",              "es": "coger",   "ko": "잡다" },
 
 { "en": "bring",       "fi": "touda",    "fr": "apporter, amener",     "fr": "traer", "ko": "가져오다"},

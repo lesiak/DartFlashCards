@@ -27,8 +27,8 @@
 { "en": "physics",        "fi": "fysiikka",     "fr": "physique",       "es": "(la) física",       "ko": "물리학" },
 { "en": "biology",        "fi": "biologia",     "fr": "biologie",       "es": "(la) biología",     "ko": "생물학" }, 
 { "en": "chemistry",      "fi": "kemia",        "fr": "chimie",         "es": "(la) química",      "ko": "화학" }, 
-{ "en": "psychology",       "ko": "심리학",       "fi": "psykologia",    "fr": "psychologie" },
-{ "en": "geography",       "ko": "지리학",       "fi": "maantiede",    "fr": "géographie" },
+{ "en": "psychology",     "fi": "psykologia",   "fr": "psychologie",    "es": "(la) psicología",   "ko": "심리학" },
+{ "en": "geography",      "fi": "maantiede",    "fr": "géographie",     "es": "(la) geografía",    "ko": "지리학" },
 { "en": "law (discipline)",       "ko": "",       "fi": "oikeustiede",    "fr": "droit" },
 { "en": "medicine (discipline)",       "ko": "의학",       "fi": "lääketiede",    "fr": "médecine" },
 
@@ -41,10 +41,10 @@
 
 { "en": "number",       "fi": "luku",      "fr": "nombre, numéro", "es": "(el) número",  "ko": "수" },
 { "en": "point (maths)","fi": "",          "fr": "point",          "es": "(el) punto",   "ko": "" },
-{ "en": "triangle",     "fi": "kolmio",    "fr": "triangle", "ko": "삼각형" },
-{ "en": "square",       "ko": "정사각형",       "fi": "neliö",    "fr": "carré" },
-{ "en": "circle",       "ko": "원",       "fi": "ympyrä",    "fr": "cercle" },
-{ "en": "disk (maths)",   "ko": "원판",       "fi": "kiekko",    "fr": "disque" },
+{ "en": "triangle",     "fi": "kolmio",    "fr": "triangle",       "es": "(el) triángulo",  "ko": "삼각형" },
+{ "en": "square",       "fi": "neliö",     "fr": "carré",          "es": "", "ko": "정사각형" },
+{ "en": "circle",       "fi": "ympyrä",    "fr": "cercle",   "ko": "원" },
+{ "en": "disk (maths)", "fi": "kiekko",    "fr": "disque",    "ko": "원판" },
 { "en": "equation",     "fi": "yhtälö",    "fr": "équation",    "ko": "방정식" },
 
 { "en": "infinity",     "fi": "äärettömyys",    "fr": "infinité",  "es": "(el) infinito", "ko": "방정식" },

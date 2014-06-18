@@ -53,11 +53,11 @@
 { "en": "famous",         "ko": "유명한",       "fi": "kuuluisa",          "fr": "célèbre" },
 { "en": "fan",         "ko": "팬",       "fi": "fani",          "fr": "fan" },
 
-{ "en": "guitar",         "ko": "기타",         "fi": "kitara",              "fr": "guitare" }, 
-{ "en": "piano",          "ko": "피아노",       "fi": "piano",               "fr": "piano" },
-{ "en": "saxophone",      "ko": "색소폰",       "fi": "saksofoni",           "fr": "saxophone" },
-{ "en": "drum",           "ko": "드럼",         "fi": "rumpu",   "fr":"tambour, batterie"},
-{ "en": "violin",           "ko": "바이올린",         "fi": "viulu",   "fr":"violon"},
+{ "en": "guitar",      "fi": "kitara",      "fr": "guitare",          "es": "(la) guitarra",  "ko": "기타" }, 
+{ "en": "piano",       "fi": "piano",       "fr": "piano",            "es": "(el) piano",     "ko": "피아노" },
+{ "en": "saxophone",   "fi": "saksofoni",   "fr": "saxophone",        "es": "(el) saxófono",  "ko": "색소폰" },
+{ "en": "drum",        "fi": "rumpu",       "fr":"tambour, batterie", "es": "(el) tambor",    "ko": "드럼"},
+{ "en": "violin",      "fi": "viulu",       "fr":"violon",            "es": "(el) violín",  "ko": "바이올린"},
 
 { "en": "musician",      "fi": "muusikko",     "fr":"musicien", "es":"(el) músico",  "ko": ""},
 { "en": "musical instrument",  "ko": "악기",    "fi": "soitin",   "fr":"instrument de musique"}

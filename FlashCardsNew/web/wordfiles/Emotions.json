@@ -7,13 +7,11 @@
 { "en": "angry",     "fi": "vihainen, suuttunut",  "fr": "en colère, fâché",  "es": "enfadado",  "ko": "성난" },
 { "en": "proud",     "fi": "ylpeä",                "fr": "fier,orgueilleux",  "es": "orgulloso", "ko": "" },
 
-{ "en": "worried",       "fi": "huolestunut",          "fr": "inquiet",  "ko": "" },
-{ "en": "nervous",       "fi": "hermostunut",          "fr": "nerveux",  "es": "nervioso", "ko": "" },
+{ "en": "worried",       "fi": "huolestunut",      "fr": "inquiet",     "es": "preocupado", "ko": "" },
+{ "en": "nervous",       "fi": "hermostunut",      "fr": "nerveux",     "es": "nervioso", "ko": "" },
 
 { "en": "upset",         "fi": "järkyttynyt",         "fr": "bouleversé",  "es": "indignado",    "ko": "" },
-
 { "en": "disappointed",  "fi": "pettynyt",            "fr": "déçu",        "es": "decepcionado", "ko": "" },
-
 { "en": "depressed",     "fi": "masentunut",          "fr": "déprimé",     "es": "deprimido",   "ko": "" },
 { "en": "lonely",        "fi": "yksinäinen",          "fr": "solitaire",   "es": "solitario, solo",   "ko": "고독한" },
 
