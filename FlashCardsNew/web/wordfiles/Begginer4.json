@@ -80,7 +80,7 @@
 { "en": "meaning",         "ko": "의미, 뜻",       "fi": "merkitys, tarkoitus",          "fr": "sens, signification" },
 { "en": "purpose",         "ko": "목적",       "fi": "tarkoitus",          "fr": "but, intention" },
     
-{ "en": "to consider",         "ko": "고려하다",       "fi": "harkita",          "fr": "envisager, considérer" },
+{ "en": "to consider",     "fi": "harkita",           "fr": "envisager, considérer",   "es": "considerar", "ko": "고려하다" },
 { "en": "believe",         "fi": "uskoa (siihen)",    "fr": "croire",  "es": "creer",  "ko": "믿다" },
 { "en": "to expect",       "ko": "예상하다, 기대하다",       "fi": "odottaa",    "fr": "attendre" },
 { "en": "to intend",       "ko": "",       "fi": "aikoa",    "fr": "avoir l'intention" },

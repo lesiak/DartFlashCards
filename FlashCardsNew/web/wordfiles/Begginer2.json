@@ -1,16 +1,16 @@
 [
 
-{ "en": "buy",         "fi": "ostaa",    "fr": "acheter",              "es": "comprar",    "ko": "사다" },
-{ "en": "sell",        "fi": "myydä",    "fr": "vendre",               "es": "vender",     "ko": "팔다" },
-{ "en": "cheap",       "fi": "halpa",    "fr": "bon marché, pas cher", "es": "barato",  "ko": "싸다" },
-{ "en": "expensive",   "fi": "kallis",   "fr": "cher",                 "es": "caro",    "ko": "비싸다" },
-{ "en": "to cost",     "fi": "maksaa",   "fr": "coûter",               "es": "costar",  "ko": "" },
-{ "en": "price",       "fi": "hinta",    "fr": "prix",                 "ko": "가격" },
-{ "en": "pay",         "fi": "maksaa",   "fr": "payer",                "es": "pagar", "ko": "지불하다" },
-{ "en": "money",       "fi": "raha",     "fr": "argent",               "es": "(el) dinero",  "ko": "돈" },
-{ "en": "to take",     "fi": "ottaa",    "fr": "prendre",              "es": "coger",   "ko": "잡다" },
+{ "en": "buy",         "fi": "ostaa",    "fr": "acheter",              "es": "comprar",     "ko": "사다" },
+{ "en": "sell",        "fi": "myydä",    "fr": "vendre",               "es": "vender",      "ko": "팔다" },
+{ "en": "cheap",       "fi": "halpa",    "fr": "bon marché, pas cher", "es": "barato",      "ko": "싸다" },
+{ "en": "expensive",   "fi": "kallis",   "fr": "cher",                 "es": "caro",        "ko": "비싸다" },
+{ "en": "to cost",     "fi": "maksaa",   "fr": "coûter",               "es": "costar",      "ko": "" },
+{ "en": "price",       "fi": "hinta",    "fr": "prix",                 "es": "(el) precio", "ko": "가격" },
+{ "en": "pay",         "fi": "maksaa",   "fr": "payer",                "es": "pagar",       "ko": "지불하다" },
+{ "en": "money",       "fi": "raha",     "fr": "argent",               "es": "(el) dinero", "ko": "돈" },
+{ "en": "to take",     "fi": "ottaa",    "fr": "prendre",              "es": "coger",       "ko": "잡다" },
 
-{ "en": "bring",       "fi": "touda",    "fr": "apporter, amener",     "fr": "traer", "ko": "가져오다"},
+{ "en": "bring",       "fi": "touda",    "fr": "apporter, amener",     "fr": "traer",       "ko": "가져오다"},
 { "en": "leave (behind)", "ko": " 남기다 ","fi": "jättää",  "fr": "laisser" },
 
 { "en": "come",        "fi": "tulla",    "fr": "venir",   "es": "venir",  "ko": "오다" },

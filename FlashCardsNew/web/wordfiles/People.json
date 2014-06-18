@@ -62,7 +62,8 @@
 { "en": "friend",        "fi": "ystävä",        "fr": "ami",            "es": "(el) amigo",  "ko": "친구" },
 { "en": "friendship",    "fi": "ystävyys",      "fr": "amitié",         "es": "(la) amistad",  "ko": "" },
 
-{ "en": "boyfriend",         "fi": "poikaystävä",       "fr": "copain",   "es": "novio", "ko": "" },
+{ "en": "a couple",          "fi": "pari",              "fr": "couple",    "es": "(la) pareja", "ko": "" },
+{ "en": "boyfriend",         "fi": "poikaystävä",       "fr": "copain",    "es": "(el) novio", "ko": "" },
 { "en": "marriage",          "fi": "avioliitto, häät",  "fr": "mariage",      "ko": "결혼 (tie + marry)" },
 { "en": "married",           "fi": "naimisissa",        "fr": "marié",     "es": "casado",  "ko": "" },
 { "en": "to get married",    "fi": "mennä naimisiin",   "fr": "se marier", "es": "casarse",  "ko": "결혼하다" },
@@ -115,7 +116,13 @@
 { "en": "sensitive",         "ko": "",       "fi": "herkkä",          "fr": "" },
 
 
-{ "en": "to hug",         "ko": "포옹하다",       "fi": "halata",          "fr": "étreindre" },
+{ "en": "to hug",         "fi": "halata",       "fr": "étreindre",   "ko": "포옹하다" },
+{ "en": "to cuddle",      "fi": "halata",       "fr": "caresser",    "es": "acurrucar",   "ko": "" },
+
+{ "en": "romantic",      "fi": "romanttinen",       "fr": "romantique",    "es": "romántico",   "ko": "" },
+
+
+{ "en": "to kiss",        "fi": "suudella",     "fr": "embrasser",  "es": "besar", "ko": ""},
 
 { "en": "partner",        "fi": "kumppani, partneri",     "fr": "partenaire",  "es": "(la) pareja", "ko": "파트너"},
 
