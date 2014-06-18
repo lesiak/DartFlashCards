@@ -1,7 +1,7 @@
-part of forvo_api;
+part of flashcards_core;
 
 
-class ForvoRequestUtils {
+class CardUtils {
   
   static RegExp IN_PARENTHESES = new RegExp("\\(.+?\\)");
   

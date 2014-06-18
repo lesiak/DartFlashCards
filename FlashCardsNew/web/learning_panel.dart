@@ -122,7 +122,7 @@ class LearingPanelElement extends PolymerElement {
     if (word == null) {
       return;
     }
-    word = ForvoRequestUtils.sanitizeWord(lang, word);
+    word = CardUtils.sanitizeWord(lang, word);
 
     Element container = $[containerId];    
     

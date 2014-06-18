@@ -206,7 +206,7 @@ class FlashCardsApp extends PolymerElement {
     initProgress(engine.allCardsInDeck.length * all_langs.length);    
     for (Card card in engine.allCardsInDeck) {
       for (String lang in all_langs) {
-        pronounciationManager.fetchMissingPronunciations(lang, ForvoRequestUtils.sanitizeWord(lang, card.getValueForLang(lang)), step);        
+        pronounciationManager.fetchMissingPronunciations(lang, CardUtils.sanitizeWord(lang, card.getValueForLang(lang)), step);        
       }                  
     }    
   }

@@ -98,19 +98,9 @@ class DictionaryPanelElement extends PolymerElement {
     if (cardValue == null) {
       return false;
     } else {
-      String sanitizedWord = sanitizeWordForMatching(cardValue, langName);      
+      String sanitizedWord = CardUtils.sanitizeWord(langName, cardValue);      
       return sanitizedWord.startsWith(searchRegex);
     }    
-  }
-  
-  static String sanitizeWordForMatching(String word, String langName) {
-    if (langName == "en" && word.startsWith("to ")) {
-      return word.substring(3);
-    } else if (langName == "es" && (word.startsWith('(el) ') || word.startsWith('(la) '))) {
-      return word.substring(5);            
-    } else {
-      return word;
-    } 
   }
   
   String getLangName(String lang) => LangUtils.getLangName(lang);

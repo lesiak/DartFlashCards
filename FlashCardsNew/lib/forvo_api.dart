@@ -8,4 +8,3 @@ import 'package:FlashCardsNew/filecache_api.dart';
 
 part 'src/Forvo.dart';
 part 'src/PronounciationManager.dart';
-part 'src/ForvoRequestUtils.dart';
