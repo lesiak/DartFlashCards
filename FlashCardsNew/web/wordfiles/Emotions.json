@@ -7,8 +7,9 @@
 { "en": "angry",     "fi": "vihainen, suuttunut",  "fr": "en colère, fâché",  "es": "enfadado",  "ko": "성난" },
 { "en": "proud",     "fi": "ylpeä",                "fr": "fier,orgueilleux",  "es": "orgulloso", "ko": "" },
 
-{ "en": "worried",       "fi": "huolestunut",      "fr": "inquiet",     "es": "preocupado", "ko": "" },
-{ "en": "nervous",       "fi": "hermostunut",      "fr": "nerveux",     "es": "nervioso", "ko": "" },
+{ "en": "to worry",      "fi": "huolehtia",          "fr": "s'inquiéter",     "es": "preocuparse", "ko": "" },
+{ "en": "worried",       "fi": "huolestunut",        "fr": "inquiet",     "es": "preocupado", "ko": "" },
+{ "en": "nervous",       "fi": "hermostunut",        "fr": "nerveux",     "es": "nervioso", "ko": "" },
 
 { "en": "upset",         "fi": "järkyttynyt",         "fr": "bouleversé",  "es": "indignado",    "ko": "" },
 { "en": "disappointed",  "fi": "pettynyt",            "fr": "déçu",        "es": "decepcionado", "ko": "" },
@@ -40,7 +41,8 @@
 { "en": "mood",       "fi": "mieliala",       "fr": "humeur",    "es": "(el) humor",     "ko": "기분" },
 { "en": "to feel",    "fi": "tuntea",         "fr": "sentir",    "es": "sentirse",     "ko": "느끼다" },
 { "en": "feeling",    "fi": "tunne",          "fr": "sentiment", "es": "(el) sentimiento",     "ko": "" },
-{ "en": "stress",     "fi": "stressi",        "fr": "stress",             "ko": "스트레스" },
+{ "en": "stress",     "fi": "stressi",        "fr": "stress",    "es": "(el) estrés",          "ko": "스트레스" },
+{ "en": "stressed out","fi": "stressaantunut","fr": "stressé",   "es": "estresado",          "ko": "" },
 
 
 { "en": "pleasure",   "fi": "ilo, huvi",      "fr": "plaisir",   "es": "(el) placer",   "ko": "" },

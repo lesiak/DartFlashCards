@@ -95,6 +95,8 @@
 { "en": "polite",          "fi": "kohtelias",        "fr": "poli",         "es": "cortés, educado",   "ko": ""},
 { "en": "impolite",        "fi": "epäkohtelias",     "fr": "impoli",       "es": "descortés",   "ko": ""},
 
+{ "en": "crazy",           "fi": "hullu",     "fr": "fou",       "es": "loco",   "ko": ""},
+
 { "en": "to laugh",        "fi": "nauraa",          "fr": "rire",          "es": "reírse",   "ko": ""},
 { "en": "to cry",          "fi": "itkeä",           "fr": "pleurer",       "es": "llorar",   "ko": ""},
 

@@ -7,25 +7,25 @@
 { "en": "put",         "fi": "panna",     "fr": "placer, mettre",  "ko": " 두다" },
 { "en": "to give",     "fi": "antaa",     "fr": "donner",     "es": "dar",       "ko": "주다" },
 { "en": "to receive",  "fi": "saada",     "fr": "recevoir",   "es": "recibir",   "ko": "받다" },
-{ "en": "to borrow",   "fi": "lainata, ottaa lainaksi",    "fr": "emprunter",  "ko": "빌리다" },
-{ "en": "to lend",        "ko": "빌려주다",          "fi": "lainata, antaa lainaksi",    "fr": "prêter" },
-{ "en": "present",        "ko": "선물",          "fi": "lahja",    "fr": "cadeau" },
+{ "en": "to borrow",   "fi": "lainata, ottaa lainaksi",    "fr": "emprunter", "es": "pedir prestado, tomar prestado", "ko": "빌리다" },
+{ "en": "to lend",     "fi": "lainata, antaa lainaksi",    "fr": "prêter",    "es": "prestar", "ko": "빌려주다" },
+{ "en": "gift (present)",  "fi": "lahja",    "fr": "cadeau",  "es": "(el) regalo",    "ko": "선물" },
 
 
 { "en": "joyful",        "ko": "즐겁다",          "fi": "iloinen",    "fr": "joyeux" },
 
 { "en": "to open",       "fi": "avata",   "fr": "ouvrir",    "es": "abrir",   "ko": "열다" },
 { "en": "open",          "fi": "auki",    "fr": "ouvert",    "es": "abierto", "ko": "열다" },
-{ "en": "to close",      "fi": "sulkea",  "fr": "fermer",    "ko": "닫다" },
-{ "en": "closed",        "fi": "suljettu, kiinni",    "fr": "fermé",  "ko": "" },
+{ "en": "to close",      "fi": "sulkea",  "fr": "fermer",    "es": "cerrar", "ko": "닫다" },
+{ "en": "closed",        "fi": "suljettu, kiinni",    "fr": "fermé", "es": "cerrado",  "ko": "" },
 
-{ "en": "difficult",       "ko": "어렵다",       "fi": "vaikea",    "fr": "difficile" },
-{ "en": "easy",       "fi": "helppo",    "fr": "facile",   "es": "fácil",  "ko": "쉽다" },
+{ "en": "difficult",     "fi": "vaikea",  "fr": "difficile", "es": "difícil", "ko": "어렵다" },
+{ "en": "easy",          "fi": "helppo",  "fr": "facile",    "es": "fácil",   "ko": "쉽다" },
 
 
-{ "en": "important",        "ko": "중요하다",          "fi": "tärkeä",    "fr": "important" },
-{ "en": "popular",        "ko": "인기 있는, 유명한",          "fi": "suosittu",    "fr": "populaire" },
-{ "en": "popularity",        "ko": "인기",          "fi": "suosio",    "fr": "popularité" },
+{ "en": "important",     "fi": "tärkeä",  "fr": "important", "es": "importante",    "ko": "중요하다" },
+{ "en": "popular",       "fi": "suosittu","fr": "populaire", "es": "popular", "ko": "인기 있는, 유명한" },
+{ "en": "popularity",    "fi": "suosio",  "fr": "popularité","es": "(la) popularidad",  "ko": "인기" },
 { "en": "favorite",        "ko": "",          "fi": "suosikki",    "fr": "favori, préféré" },
 
 { "en": "nice",        "ko": "",          "fi": "kiva, mukava",       "fr": "agréable" },
@@ -74,15 +74,15 @@
 { "en": "a secret",    "fi": "salaisuus",   "fr": "secret",        "es": "(el) secreto","ko": "비밀"},
 { "en": "secret",      "fi": "salainen",    "fr": "secret",        "es": "secreto",     "ko": "비밀"},
 
-{ "en": "fact",         "ko": "사실",       "fi": "tosiasia",          "fr": "fait, vérité" },
-{ "en": "joke",         "ko": "농담",       "fi": "vitsi",          "fr": "blague" },
+{ "en": "fact",        "fi": "tosiasia",    "fr": "fait, vérité",  "es": "(el) hecho", "ko": "사실" },
+{ "en": "joke",        "fi": "vitsi",       "fr": "blague",        "es": "(la) broma", "ko": "농담" },
 
-{ "en": "meaning",         "ko": "의미, 뜻",       "fi": "merkitys, tarkoitus",          "fr": "sens, signification" },
-{ "en": "purpose",         "ko": "목적",       "fi": "tarkoitus",          "fr": "but, intention" },
+{ "en": "meaning",         "fi": "merkitys, tarkoitus", "fr": "sens, signification", "ko": "의미, 뜻" },
+{ "en": "purpose",         "fi": "tarkoitus",          "fr": "but, intention", "ko": "목적" },
     
 { "en": "to consider",     "fi": "harkita",           "fr": "envisager, considérer",   "es": "considerar", "ko": "고려하다" },
-{ "en": "believe",         "fi": "uskoa (siihen)",    "fr": "croire",  "es": "creer",  "ko": "믿다" },
-{ "en": "to expect",       "ko": "예상하다, 기대하다",       "fi": "odottaa",    "fr": "attendre" },
+{ "en": "believe",         "fi": "uskoa (siihen)",    "fr": "croire",                  "es": "creer",  "ko": "믿다" },
+{ "en": "to expect",       "fi": "odottaa",    "fr": "attendre", "ko": "예상하다, 기대하다" },
 { "en": "to intend",       "ko": "",       "fi": "aikoa",    "fr": "avoir l'intention" },
 
 

@@ -16,6 +16,8 @@
 
 { "en": "memory",      "ko": "기억",       "fi": "muisto",        "fr": "souvenir" },
 { "en": "remember",    "ko": "기억하다",   "fi": "muistaa",       "fr": "rappeler" },
+{ "en": "forget",      "fi": "unohtaa",       "fr": "oublier", "es": "olvidar",   "ko": "" },
+
 { "en": "recommend",   "ko": "추천하다",   "fi": "suositella",    "fr": "recommander" },
 { "en": "idea",        "ko": "아이디어",   "fi": "idea",          "fr": "idée" },
 
