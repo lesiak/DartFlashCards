@@ -3,7 +3,7 @@
 { "en": "machine",   "fi": "kone",       "fr": "machine",   "es": "(la) máquina","hu": "gép",   "ko": "기계", "zh": "机 (jī)"    },  
 { "en": "fire",      "fi": "palo",       "fr": "feu",       "es": "(el) fuego",  "hu": "tűz",   "ko": "불",   "zh": "火 (huǒ)"   },
 { "en": "light",     "fi": "valo",       "fr": "lumière",   "es": "(la) luz",    "hu": "fény",  "ko": "빛",   "zh": "光 (guāng)" },
-{ "en": "water",     "fi": "vesi",       "fr": "eau",       "es": "(la) agua",   "hu": "víz",   "ko": "물",   "zh": "水  (shuǐ)"  },
+{ "en": "water",     "fi": "vesi",       "fr": "eau",       "es": "(el) agua",   "hu": "víz",   "ko": "물",   "zh": "水  (shuǐ)"  },
 { "en": "river",     "fi": "joki",       "fr": "fleuve",    "es": "(el) río",    "hu": "folyó", "ko": "강",   "zh": "河  (hé)"    },
 { "en": "sea",       "fi": "meri",       "fr": "mer",       "es": "(el) mar",    "hu": "tenger","ko": "바다", "zh": "海  (hǎi)"   },
 { "en": "wave",      "fi": "aalto",      "fr": "vague",     "es": "(la) ola, (la) onda", "hu": "hullám","ko": "파"   },

@@ -24,7 +24,7 @@
 { "en": "think",       "ko": "생각하다",   "fi": "ajatella",    "fr": "penser" },
 { "en": "understand",  "ko": "이해하다",   "fi": "ymmärtää",    "fr": "comprendre" },
 
-{ "en": "live, dwell", "ko": "살다",       "fi": "asua",    "fr": "habiter" },
+{ "en": "live, dwell", "fi": "asua",        "fr": "habiter",  "ko": "살다" },
 { "en": "here",        "fi": "täällä",    "fr": "ici",    "es": "aquí",   "ko": "여기에" },
 
 
@@ -37,7 +37,7 @@
 { "en": "to begin, start",        "ko": "",       "fi": "aloittaa",    "fr": "" },
 { "en": "to stop",        "ko": "",       "fi": "lopettaa, pysäyttää, pysähtyä",    "fr": "" },
 
-{ "en": "to smoke",     "fi": "tupakoida","fr": "fumer",       "ko": "피우다" },
+{ "en": "to smoke",     "fi": "tupakoida","fr": "fumer",       "es": "fumar",         "ko": "피우다" },
 { "en": "cigarette",    "fi": "savuke",   "fr": "cigarette",   "es": "(el) cigarrillo, (el) cigarro", "ko": "담배" },
 { "en": "tobacco",      "fi": "tupakka",  "fr": "tabac",       "es":"(el) tabaco",              "ko": "담배" },
 { "en": "match",        "fi": "tulitikku","fr":"allumette",    "es":"(el) cerillo, (la) cerilla","ko": "성냥"},
@@ -50,12 +50,12 @@
 { "en": "paper",        "fi": "paperi",   "fr": "papier",    "es": "(el) papel",   "ko": "종이" },
 
 { "en": "wood (substance)", "fi": "puu",  "fr": "bois",      "es": "(la) madera",  "ko": "나무, 목재" },
-{ "en": "glass (substance)","fi": "lasi", "fr": "verre",     "es": "",              "ko": "유리" },
+{ "en": "glass (substance)","fi": "lasi", "fr": "verre",     "es": "(el) vidrio",              "ko": "유리" },
 
 { "en": "small",        "fi": "pieni",       "fr": "petit",    "es": "pequeño",    "ko": " 작다" },
 { "en": "big",          "fi": "iso, suuri",  "fr": "grand",    "es": "grande",     "ko": " 크다" },
 
-{ "en": "long",         "fi": "pitkä",       "fr": "long",     "es": "pequeño",    "ko": "길다" },
+{ "en": "long",         "fi": "pitkä",       "fr": "long",     "es": "largo",    "ko": "길다" },
 { "en": "short",        "fi": "lyhyt",       "fr": "court",    "es": "corto",      "ko": "짧다" },
 
 { "en": "far",          "fi": "kaukana",     "fr": "loin",     "es": "lejos",      "ko": "멀다" },
@@ -68,8 +68,8 @@
 { "en": "thick",         "ko": "두껍다",       "fi": "paksu",          "fr": "mince" },
 
 
-{ "en": "weight",       "ko": "무게",       "fi": "paino",    "fr": "poids" },
-{ "en": "heavy",         "ko": "무거운 (무겁다)",       "fi": "painava",          "fr": "lourd" },
-{ "en": "light",         "ko": "가볍다",       "fi": "kevyt",          "fr": "léger" }
+{ "en": "weight",        "fi": "paino",    "fr": "poids",  "es": "(el) peso",  "ko": "무게" },
+{ "en": "heavy",         "fi": "painava",  "fr": "lourd",  "es": "pesado",     "ko": "무거운 (무겁다)" },
+{ "en": "light",         "fi": "kevyt",    "fr": "léger",  "es": "ligero",     "ko": "가볍다" }
 
 ]

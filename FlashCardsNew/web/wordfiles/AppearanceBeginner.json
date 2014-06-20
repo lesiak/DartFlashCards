@@ -19,6 +19,11 @@
 { "en": "slim, slender",   "fi": "hoikka, laiha",                      "fr": "mince, maigre, svelte",  "es": "delgado",    "ko": "날씬하다, 호리 호리하다"},
 { "en": "fat",             "fi": "lihava, läski (derogatory), paksu" , "fr": "gros",                   "es": "gordo",  "ko": "뚱뚱하다"},
 
+{ "en": "(one's) figure",   "fi": "hahmo" ,        "fr":"",   "ko": "몸매"  },
+{ "en": "a slender figure", "fi": "hoikka hahmo",  "fr":"",   "ko": "날씬한 몸매"},
+{ "en": "obesity",          "fi": "liikalihavuus" , "fr":"obésité",   "ko": "비만 (fat + full)"},
+
+
 { "en": "straight (hair)", "fi": "" , "fr": "",                   "es": "liso",  "ko": ""},
 { "en": "curly (hair)", "fi": "" , "fr": "",                      "es": "rizado",  "ko": ""}
 

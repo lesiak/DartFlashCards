@@ -86,16 +86,21 @@
 { "en": "poor",    "ko": "가난하다",    "fi": "köyhä" , "fr":"pauvre"},
 { "en": "rich (person)",    "ko": "부자 (rich man)",    "fi": "rikas" , "fr":"riche"},
 
-{ "en": "smart",    "ko": "똑똑하다",    "fi": "fiksu, terävä" , "fr":"intelligent"},
-{ "en": "lazy",    "ko": "게으른",    "fi": "laiska" , "fr":"paresseux"},
-{ "en": "wise",    "ko": "슬기롭다 (wisdom + be, be characterized by)",    "fi": "viisas, järkevä" , "fr":"sage"},
-{ "en": "wisdom",    "ko": "슬기",    "fi": "viisaus, järkevyys" , "fr":"sagesse"},
+{ "en": "smart",      "fi": "fiksu, terävä" , "fr":"intelligent",  "ko": "똑똑하다"},
+{ "en": "lazy",     "fi": "laiska" , "fr":"paresseux", "es":"perezoso, vago",   "ko": "게으른"  },
+{ "en": "wise",      "fi": "viisas, järkevä" , "fr":"sage",    "ko": "슬기롭다 (wisdom + be, be characterized by)"},
+{ "en": "wisdom",       "fi": "viisaus, järkevyys" , "fr":"sagesse",  "ko": "슬기"},
 
+{ "en": "behaviour",       "fi": "käyttäytyminen",   "fr": "comportement", "es": "(el) comportamiento",   "ko": ""},
+{ "en": "polite",          "fi": "kohtelias",        "fr": "poli",         "es": "cortés, educado",   "ko": ""},
+{ "en": "impolite",        "fi": "epäkohtelias",     "fr": "impoli",       "es": "descortés",   "ko": ""},
 
+{ "en": "to laugh",        "fi": "nauraa",          "fr": "rire",          "es": "reírse",   "ko": ""},
+{ "en": "to cry",          "fi": "itkeä",           "fr": "pleurer",       "es": "llorar",   "ko": ""},
 
-{ "en": "(one's) figure",    "ko": "몸매"    ,"fi": "hahmo" , "fr":""},
-{ "en": "a slender figure",    "ko": "날씬한 몸매"  ,  "fi": "hoikka hahmo" , "fr":""},
-{ "en": "obesity",    "ko": "비만 (fat + full)"  ,  "fi": "liikalihavuus" , "fr":"obésité"},
+{ "en": "to yell",          "fi": "huutaa",           "fr": "crier, hurler",       "es": "gritar",   "ko": ""},
+{ "en": "to blush",          "fi": "punastua",        "fr": "",       "es": "ponerse rojo",   "ko": ""},
+
 
 { "en": "cut down (on)",    "ko": "줄이다"  ,  "fi": "vähentää" , "fr":"réduire"},
 

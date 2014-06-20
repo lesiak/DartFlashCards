@@ -20,6 +20,8 @@
 { "en": "before",    "fi": "ennen",      "fr": "avant",    "es": "antes",       "ko": "전에" },
 
 { "en": "yet",       "fi": "vielä",      "fr": "encore",   "ko": "아직" },
+{ "en": "still",     "fi": "vielä",      "fr": "encore",       "es": "todavía, aún",   "ko": ""},
+
 { "en": "later",     "fi": "myöhemmin",  "fr": "plus tard, ensuite",  "es": "más tarde, luego",  "ko": "나중에" },
 { "en": "already",   "fi": "jo",         "fr": "déjà",                "es": "ya" ,        "ko": "벌써, 이미" },
 { "en": "immediately","fi": "heti",      "fr": "immédiatement",       "es": "inmediatamente" , "ko": "금방" },
@@ -33,6 +35,7 @@
 { "en": "tomorrow",   "fi": "huomenna",  "fr": "demain",     "es": "mañana", "ko": "내일" },
 { "en": "yesterday",  "fi": "eilen",     "fr": "hier",       "es": "ayer",   "ko": "어제"},
 { "en": "often",      "fi": "usein",     "fr": "souvent",       "es": "",   "ko": "자주"},
+
 
 
 { "en": "clock",        "fi": "kello",     "fr": "horloge",  "es": "(el) reloj",     "ko": "" },
@@ -81,6 +84,7 @@
 
 { "en": "but",             "fi": "mutta",      "fr": "mais",     "es": "pero",   "ko": "하지만" },
 { "en": "also",            "fi": "myös",      "fr": "aussi",     "es": "también",   "ko": "또한, 역시" },
+{ "en": "neither",         "fi": "eikä, -kaan",      "fr": "",              "es": "tampoco",   "ko": "" },
 
 { "en": "awhile",        "ko": "잠깐",          "fi": "hetken",    "fr": "" },
 { "en": "first (adv, in time or sequence)",        "ko": "먼저",          "fi": "",    "fr": "" },

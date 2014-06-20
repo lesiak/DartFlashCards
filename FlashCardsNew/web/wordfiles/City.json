@@ -9,7 +9,7 @@
 { "en": "school",     "fi": "koulu" ,    "fr":"école",      "es": "(la) escuela",  "ko": "학교"},
 { "en": "museum",     "fi": "museo" ,    "fr":"musée",      "es": "(el) museo",    "ko": "박물관"},
 { "en": "centre",     "fi": "keskusta",  "fr":"milieu",     "es": "(el) centro",   "ko": "가운데"},
-{ "en": "floor (storey)","fi": "kerros", "fr":"étage",      "es": "(el) piso",     "ko": "층"},
+{ "en": "floor (storey)","fi": "kerros", "fr":"étage",      "es": "(el) piso, (la) planta",     "ko": "층"},
 { "en": "lift",       "fi": "hissi" ,    "fr":"ascenseur",  "es": "(el) ascensor", "ko": "엘리베이터"},
 { "en": "staircase",  "fi": "portaikko" ,"fr":"escalier",   "es": "(la) escalera", "ko": "계단"},
 { "en": "road",       "fi": "tie" ,      "fr":"route",      "es": "(la) planta, (el) piso (Latin America)",    "ko": "길"},
