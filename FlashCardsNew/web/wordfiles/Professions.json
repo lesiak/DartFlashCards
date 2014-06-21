@@ -1,47 +1,47 @@
 [
 
-{ "en": "photographer",         "ko": "사진사",       "fi": "valokuvaaja",          "fr": "" },
-{ "en": "cook",         "ko": "요리사",       "fi": "kokki",          "fr": "" },
-{ "en": "secretary",         "ko": "비서 (secret + writing)",       "fi": "sihteeri",          "fr": "secrétaire" },
+{ "en": "photographer",  "fi": "valokuvaaja",    "fr": "",            "es": "(el) fotógrafo", "ko": "사진사" },
+{ "en": "cook",          "fi": "kokki",          "fr": "",            "es": "(el) cocinero",  "ko": "요리사" },
+{ "en": "secretary",     "fi": "sihteeri",       "fr": "secrétaire",  "ko": "비서 (secret + writing)" },
 
 
-{ "en": "dancer",         "ko": "무용가",       "fi": "tanssija",          "fr": "" },
-{ "en": "painter",         "ko": "화가",       "fi": "maalari",          "fr": "peintre" },
-{ "en": "artist",         "ko": "예술가",       "fi": "taiteilija",          "fr": "artiste" },
+{ "en": "dancer",        "fi": "tanssija",      "fr": "",            "es": "(el) bailarín",  "ko": "무용가" },
+{ "en": "painter",       "fi": "maalari",       "fr": "peintre",     "es": "(el) pintor",   "ko": "화가" },
+{ "en": "artist",        "fi": "taiteilija",    "fr": "artiste",     "es": "(el) artista",   "ko": "예술가"},
  
-{ "en": "princess",         "ko": "왕자비",       "fi": "prinsessa",          "fr": "" },
-{ "en": "scientist",     "fi": "tiedemies, tutkija",  "fr": "", "es": "(el) científico",   "ko": "과학자" },
-{ "en": "farmer",         "ko": "농장주",       "fi": "maanviljelijä",          "fr": "agriculteur" },
-{ "en": "hunter",         "ko": "사냥꾼",       "fi": "metsästäjä",          "fr": "chasseur" },
+{ "en": "princess",      "fi": "prinsessa",         "fr": "" ,       "es": "(la) princesa", "ko": "왕자비"},
+{ "en": "scientist",     "fi": "tiedemies, tutkija","fr": "",        "es": "(el) científico",   "ko": "과학자" },
+{ "en": "farmer",        "fi": "maanviljelijä",     "fr": "agriculteur", "ko": "농장주" },
+{ "en": "hunter",        "fi": "metsästäjä",        "fr": "chasseur", "ko": "사냥꾼" },
 
-{ "en": "fashion model",         "ko": "패션 모델",       "fi": "malli",          "fr": "" },
-{ "en": "prostitute",         "ko": "창녀",       "fi": "prostituoitu, huora",          "fr": "" },
-{ "en": "fisherman",    "ko": "어부",    "fi": "kalastaja" , "fr":"pêcheur"},
+{ "en": "fashion model", "fi": "malli",         "fr": "",          "es": "(el/la!) modelo",  "ko": "패션 모델" },
+{ "en": "prostitute",    "fi": "prostituoitu, huora",  "fr": "",   "es": "(la) prostituta",  "ko": "창녀" },
+{ "en": "fisherman",     "fi": "kalastaja" ,      "fr":"pêcheur",  "es": "(el) pescador",    "ko": "어부"},
 
-{ "en": "miner",    "ko": "갱부",    "fi": "kaivosmies" , "fr":"mineur"},
-{ "en": "mine",    "ko": "광산, 갱도",    "fi": "kaivos" , "fr":"mine"},
+{ "en": "miner",         "fi": "kaivosmies",   "fr":"mineur", "ko": "갱부"},
+{ "en": "mine",          "fi": "kaivos" ,      "fr":"mine",   "ko": "광산, 갱도"},
 
-{ "en": "lawyer",        "ko": "",          "fi": "lakimies",    "fr": "avocat" },
-{ "en": "prosecutor",        "ko": "검사",          "fi": "syyttäjä",    "fr": "procureur" },
+{ "en": "lawyer",        "fi": "lakimies",    "fr": "avocat",     "es": "(el) abogado", "ko": "" },
+{ "en": "prosecutor",    "fi": "syyttäjä",    "fr": "procureur",  "es": "(el) fiscal", "ko": "검사" },
 
-{ "en": "waiter",        "fi": "tarjoilija" , "fr": "serveur", "es": "(el) camarero",   "ko": "웨이터"},
+{ "en": "waiter",        "fi": "tarjoilija",  "fr": "serveur",    "es": "(el) camarero",   "ko": "웨이터"},
 
-{ "en": "policeman",    "ko": "경찰관",    "fi": "poliisi" , "fr":"policier, gendarme"},
-{ "en": "fireman",    "ko": "소방수",    "fi": "palomies" , "fr":"pompier"},
-
-
-{ "en": "beggar",         "ko": "거지",       "fi": "kerjäläinen",          "fr": "mendiant" },
-{ "en": "begging",         "ko": "구걸",       "fi": "kerjääminen",          "fr": "la mendicité" },
-{ "en": "to beg",         "ko": "구걸하다",       "fi": "kerjätä",          "fr": "mendier" },
+{ "en": "policeman",     "fi": "poliisi",     "fr":"policier, gendarme", "es": "(el) policía", "ko": "경찰관"},
+{ "en": "fireman",       "fi": "palomies" ,   "fr":"pompier",            "es": "(el) bombero", "ko": "소방수"},
 
 
-{ "en": "criminal",         "ko": "범인 (violate + people)",       "fi": "rikollinen",          "fr": "criminel" },
-{ "en": "crime",         "ko": "범죄 (violate + fault)",       "fi": "rikollisuus, rikos",     "fr": "crime" },
-{ "en": "victim",         "ko": "희생자",       "fi": "uhri",     "fr": "victime" },
+{ "en": "beggar",        "fi": "kerjäläinen", "fr": "mendiant",     "es": "(el) mendigo",    "ko": "거지" },
+{ "en": "begging",       "fi": "kerjääminen", "fr": "la mendicité", "es": "(la) mendicidad", "ko": "구걸" },
+{ "en": "to beg",        "fi": "kerjätä",     "fr": "mendier",      "es": "mendigar",        "ko": "구걸하다" },
 
-{ "en": "thief",         "ko": "",       "fi": "voro",     "fr": "" },
 
-{ "en": "law",         "ko": "법",       "fi": "laki",     "fr": "loi" }
+{ "en": "criminal",      "fi": "rikollinen",  "fr": "criminel",      "ko": "범인 (violate + people)" },
+{ "en": "crime",         "fi": "rikollisuus, rikos", "fr": "crime",  "ko": "범죄 (violate + fault)" },
+{ "en": "victim",        "fi": "uhri",     "fr": "victime",  "ko": "희생자"   },
+
+{ "en": "thief",         "fi": "voro",     "fr": "",                "es": "(el) ladrón", "ko": "" },
+
+{ "en": "law",           "fi": "laki",     "fr": "loi",  "ko": "법" }
 
 
   
