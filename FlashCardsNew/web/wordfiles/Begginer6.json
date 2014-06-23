@@ -55,6 +55,7 @@
 { "en": "accept",       "ko": "받아들이다",       "fi": "hyväksyä, suostua",    "fr": "accepter" },
 { "en": "reject",       "ko": "거절하다",       "fi": "hylätä",    "fr": "rejeter" },
 
+{ "en": "handmade",        "fi": "käsintehty",   "fr": "", "es": "hecho a mano",  "ko": "" },
 
 { "en": "to present",     "ko": "선사하다", "fi": "esittää, näyttää",    "fr": "présenter" },
 { "en": "presentation",     "ko": "",        "fi": "esitys",    "fr": "exposé (m), présentation" }

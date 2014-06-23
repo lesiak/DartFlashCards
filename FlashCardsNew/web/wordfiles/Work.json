@@ -38,9 +38,9 @@
 { "en": "pretext",        "ko": "핑계",             "fi": "tekosyy",    "fr": "prétexte" },
 
 
-{ "en": "repair",        "ko": "수리",             "fi": "",    "fr": "" },
-{ "en": "to repair",        "ko": "수리하다",             "fi": "",    "fr": "" },
-{ "en": "to retire",        "ko": "은퇴하다",             "fi": "",    "fr": "" },
+{ "en": "repair",           "fi": "korjaus",    "fr": "",    "ko": "수리" },
+{ "en": "to repair",        "fi": "korjata",    "fr": "réparer",  "es": "reparar",   "ko": "수리하다" },
+{ "en": "to retire",        "fi": "",    "fr": "",   "ko": "은퇴하다" },
 
 { "en": "Pleased to meet you",        "ko": "만나서 반가워요",             "fi": "Ilo tavata",    "fr": "c'est un plaisir de vous rencontrer, ravi de vous avoir rencontré" },
 { "en": "introduce",    "ko": "소개하다",       "fi": "esitellä",    "fr": "introduire" },

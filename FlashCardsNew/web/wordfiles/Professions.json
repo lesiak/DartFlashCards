@@ -10,8 +10,11 @@
 { "en": "mechanic",     "fi": "mekaanikko",      "fr": "mécanicien",  "es": "(el) mecánico",     "ko": "" },
 { "en": "locksmith",    "fi": "lukkoseppä",      "fr": "serrurier",   "es": "(el) cerrajero",    "ko": "" },
 { "en": "carpenter",    "fi": "puuseppä",        "fr": "charpentier", "es": "(el) carpintero",   "ko": "" },
+{ "en": "welder",       "fi": "hitsaaja",        "fr": "soudeur",     "es": "(el) soldador",   "ko": "" },
+{ "en": "butcher",      "fi": "teurastaja",      "fr": "boucher",     "es": "(el) carnicero",   "ko": "" },
+{ "en": "watchmaker",   "fi": "kelloseppä",      "fr": "horloger",    "es": "(el) relojero",   "ko": "" },
 
-{ "en": "secretary",     "fi": "sihteeri",       "fr": "secrétaire",  "ko": "비서 (secret + writing)" },
+{ "en": "secretary",    "fi": "sihteeri",        "fr": "secrétaire",  "ko": "비서 (secret + writing)" },
 
 
 { "en": "dancer",        "fi": "tanssija",      "fr": "",            "es": "(el) bailarín",  "ko": "무용가" },
@@ -24,7 +27,7 @@
 { "en": "hunter",        "fi": "metsästäjä",        "fr": "chasseur", "ko": "사냥꾼" },
 
 { "en": "fashion model", "fi": "malli",         "fr": "",          "es": "(el/la!) modelo",  "ko": "패션 모델" },
-{ "en": "prostitute",    "fi": "prostituoitu, huora",  "fr": "",   "es": "(la) prostituta",  "ko": "창녀" },
+
 { "en": "fisherman",     "fi": "kalastaja" ,      "fr":"pêcheur",  "es": "(el) pescador",    "ko": "어부"},
 
 { "en": "miner",         "fi": "kaivosmies",   "fr":"mineur", "ko": "갱부"},
@@ -38,9 +41,13 @@
 { "en": "policeman",     "fi": "poliisi",     "fr":"policier, gendarme", "es": "(el) policía", "ko": "경찰관"},
 { "en": "fireman",       "fi": "palomies" ,   "fr":"pompier",            "es": "(el) bombero", "ko": "소방수"},
 
-{ "en": "to train, educate (sb)", "fi": "kouluttaa" ,  "fr":"former",   "es": "formar", "ko": ""},
+{ "en": "teacher",       "fi": "opettaja" ,   "fr":"professeur",   "es": "(el) profesor, (el) maestro", "ko": ""},
 { "en": "apprentice",    "fi": "oppipoika" ,  "fr":"apprenti",            "es": "(el) aprendiz", "ko": ""},
+{ "en": "to train, educate (sb)", "fi": "kouluttaa" ,  "fr":"former",   "es": "formar", "ko": ""},
 
+
+
+{ "en": "prostitute",    "fi": "prostituoitu, huora",  "fr": "",   "es": "(la) prostituta",  "ko": "창녀" },
 
 { "en": "beggar",        "fi": "kerjäläinen", "fr": "mendiant",     "es": "(el) mendigo",    "ko": "거지" },
 { "en": "begging",       "fi": "kerjääminen", "fr": "la mendicité", "es": "(la) mendicidad", "ko": "구걸" },
