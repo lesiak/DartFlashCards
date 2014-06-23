@@ -300,13 +300,16 @@ class FlashCardsApp extends PolymerElement {
   void updateOptions() {
     var option1Element = $['optionsRadios1'];
     var option2Element = $['optionsRadios2'];
-    var option3Element = $['optionsRadios3'];    
+    var optionsRadiosFiKoEs = $['optionsRadiosFiKoEs'];    
+    var optionsRadiosFiEsFr = $['optionsRadiosFiEsFr'];
     if (option1Element.checked) {
       langs = ["fi","ko","fr"];       
     } else if (option2Element.checked) {
       langs = ["ko","fi","hu"];      
-    } else {
+    } else if (optionsRadiosFiKoEs.checked ){
       langs = ["fi","ko","es"];      
+    } else {
+      langs = ["fi","es","fr"];
     }
     primaryLang = langs[0];
     secondaryLang = langs[1];
