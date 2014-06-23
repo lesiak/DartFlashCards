@@ -2,6 +2,15 @@
 
 { "en": "photographer",  "fi": "valokuvaaja",    "fr": "",            "es": "(el) fotógrafo", "ko": "사진사" },
 { "en": "cook",          "fi": "kokki",          "fr": "",            "es": "(el) cocinero",  "ko": "요리사" },
+
+{ "en": "baker",        "fi": "leipuri",         "fr": "boulanger",   "es": "(el) panadero",     "ko": "" },
+{ "en": "hairdresser",  "fi": "kampaaja",        "fr": "coiffeur",    "es": "(el) peluquero",    "ko": "" },
+{ "en": "electrician",  "fi": "sähköasentaja, sähkömies", "fr": "électricien",   "es": "(el) electricista",  "ko": "" },
+{ "en": "plumber",      "fi": "putkimies",       "fr": "plombier",    "es": "(el) fontanero, plomero",  "ko": "" },
+{ "en": "mechanic",     "fi": "mekaanikko",      "fr": "mécanicien",  "es": "(el) mecánico",     "ko": "" },
+{ "en": "locksmith",    "fi": "lukkoseppä",      "fr": "serrurier",   "es": "(el) cerrajero",    "ko": "" },
+{ "en": "carpenter",    "fi": "puuseppä",        "fr": "charpentier", "es": "(el) carpintero",   "ko": "" },
+
 { "en": "secretary",     "fi": "sihteeri",       "fr": "secrétaire",  "ko": "비서 (secret + writing)" },
 
 
@@ -28,6 +37,9 @@
 
 { "en": "policeman",     "fi": "poliisi",     "fr":"policier, gendarme", "es": "(el) policía", "ko": "경찰관"},
 { "en": "fireman",       "fi": "palomies" ,   "fr":"pompier",            "es": "(el) bombero", "ko": "소방수"},
+
+{ "en": "to train, educate (sb)", "fi": "kouluttaa" ,  "fr":"former",   "es": "formar", "ko": ""},
+{ "en": "apprentice",    "fi": "oppipoika" ,  "fr":"apprenti",            "es": "(el) aprendiz", "ko": ""},
 
 
 { "en": "beggar",        "fi": "kerjäläinen", "fr": "mendiant",     "es": "(el) mendigo",    "ko": "거지" },

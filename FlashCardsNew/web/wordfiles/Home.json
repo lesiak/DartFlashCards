@@ -62,9 +62,9 @@
 { "en": "shaving",     "fi": "parranajo",  "fr": "rasage",        "es": "(el) afeitado",  "ko": "면도"           },
 { "en": "razor",       "fi": "partakone",  "fr": "rasoir",        "ko": "면도칼"        },
 
-{ "en": "kitchen",     "fi": "keittiö",  "fr": "cuisine",         "es": "(la) cocina",  "ko": " 부엌" },
+{ "en": "kitchen",     "fi": "keittiö",    "fr": "cuisine",       "es": "(la) cocina",  "ko": " 부엌" },
 
-{ "en": "get up, wake up",       "ko": "일어나다",       "fi": "nousta",    "fr": "se lever" },
+{ "en": "get up",      "fi": "nousta",     "fr": "se lever",      "es": "levantarse", "ko": "일어나다" },
 
 { "en": "to wash (oneself)",       "ko": "",       "fi": "peseytyä",    "fr": "se laver" },
 

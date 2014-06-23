@@ -38,19 +38,22 @@
 
 
 
-{ "en": "clock",        "fi": "kello",     "fr": "horloge",  "es": "(el) reloj",     "ko": "" },
-{ "en": "time",         "fi": "aika",      "fr": "temps",    "es": "(el) tiempo",    "ko": "" },
-{ "en": "second",       "fi": "sekunti",   "fr": "seconde",  "es": "(el) segundo",   "ko": "" },
-{ "en": "minute",       "fi": "minuutti",  "fr": "minute",   "es": "(el) minuto",    "ko": "분" },  
-{ "en": "hour",         "fi": "tunti",     "fr": "heure",    "es": "(la) hora",      "ko": "시간" }, 
-{ "en": "half an hour", "fi": "puoli tuntia", "fr": "demi-heure","es": "(la) media hora",      "ko": "" },
-{ "en": "day",          "fi": "päivä",     "fr": "jour",     "es": "(el) día",       "ko": "일" },
-{ "en": "week",         "fi": "viikko",    "fr": "semaine",  "es": "(la) semana",    "ko": "주" },
-{ "en": "year",         "fi": "vuosi",     "fr": "année",    "es": "(el) año",       "ko": "년" },
-{ "en": "last year",     "fi": "viime vuonna",    "fr": "année dernière",   "es": "el año pasado" , "ko": "작년" },
-{ "en": "this year",    "ko": "올해",    "fi": "tänä vuonna",    "fr": "cette année" },
+{ "en": "clock",       "fi": "kello",       "fr": "horloge",       "es": "(el) reloj",     "ko": "" },
+{ "en": "time",        "fi": "aika",        "fr": "temps",         "es": "(el) tiempo",    "ko": "" },
+{ "en": "second",      "fi": "sekunti",     "fr": "seconde",       "es": "(el) segundo",   "ko": "" },
+{ "en": "minute",      "fi": "minuutti",    "fr": "minute",        "es": "(el) minuto",    "ko": "분" },  
+{ "en": "hour",        "fi": "tunti",       "fr": "heure",         "es": "(la) hora",      "ko": "시간" }, 
+{ "en": "half an hour","fi": "puoli tuntia","fr": "demi-heure",    "es": "(la) media hora",      "ko": "" },
+{ "en": "day",         "fi": "päivä",       "fr": "jour",          "es": "(el) día",       "ko": "일" },
+{ "en": "week",        "fi": "viikko",      "fr": "semaine",       "es": "(la) semana",    "ko": "주" },
+{ "en": "year",        "fi": "vuosi",       "fr": "année",         "es": "(el) año",       "ko": "년" },
+{ "en": "last year",   "fi": "viime vuonna","fr": "année dernière","es": "el año pasado" , "ko": "작년" },
+{ "en": "this year",   "fi": "tänä vuonna", "fr": "cette année",   "ko": "올해" },
 
-{ "en": "in one hour",  "fi": "",          "fr": "",             "es": "en una hora",   "ko": ""},
+{ "en": "in one hour", "fi": "",            "fr": "",              "es": "en una hora",   "ko": ""},
+
+{ "en": "late",        "fi": "myöhässä",    "fr": "tard",          "es": "tarde", "ko": "늦다" },
+{ "en": "early",       "fi": "aikaisin",    "fr": "tôt",           "es": "temprano", "ko": "" },
 
 { "en": "next",         "ko": " 다음",   "fi": "seuraava, ensi",    "fr": "suivant" },
 { "en": "previous",     "ko": "이전",    "fi": "edellinen" , "fr":"précédent"},
