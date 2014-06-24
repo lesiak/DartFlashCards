@@ -44,9 +44,9 @@ class DeckSummary extends PolymerElement {
   
   
   
-  int get _completed => cards.where((card) =>Engine.isCardCompleted(card, primaryLang)).length;
+  int get _completed => cards.where((card) =>CardScoresEngine.isCardCompleted(card, primaryLang)).length;
  
-  int get _dueSize => cards.where((card) => Engine.isCardInLearningList(card, primaryLang)).length; 
+  int get _dueSize => cards.where((card) => CardScoresEngine.isCardInLearningList(card, primaryLang)).length; 
     
 }
 

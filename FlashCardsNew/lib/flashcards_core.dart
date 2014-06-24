@@ -10,5 +10,6 @@ part 'src/CardScore.dart';
 part 'src/ResultStore.dart';
 part 'src/DeckLoader.dart';
 part 'src/Engine.dart';
+part 'src/CardScoresEngine.dart';
 part 'src/DeckEngine.dart';
 part 'src/CardUtils.dart';

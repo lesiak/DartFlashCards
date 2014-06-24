@@ -33,23 +33,11 @@ class DeckEngine implements DeckState {
   }
     
   List<Card> buildLearningList(List<Card> allElements) {
-    return allElements.where((card) => isCardInLearningList(card, currentLang)).toList();
+    return allElements.where((card) => CardScoresEngine.isCardInLearningList(card, currentLang)).toList();
   }
+   
   
-  static bool isCardInLearningList(Card card, String lang) {
-    CardScore lastCardScore = ResultStore.getCardScoreFromStore(card, lang);
-    return isInLearningList(lastCardScore);
-  }
-  
-  static bool isInLearningList(CardScore lastCardScore) {
-    if (lastCardScore == null) {
-      return true;
-    }
-    var currentDate = new DateTime.now();
-    var scheduledDate = lastCardScore.getNextScheduledTime();
-    return currentDate.isAfter(scheduledDate);    
-  }
-  
+
   
   Card get currentCard {    
     return _currentCard;   
@@ -108,22 +96,16 @@ class DeckEngine implements DeckState {
     initLearningList();
   }
   
-  static bool isCardCompleted(Card card, String lang) {
-    CardScore inStore = ResultStore.getCardScoreFromStore(card, lang); 
-    if (inStore == null) {
-      return false;
-    }
-    return (inStore.lastResult == GOOD_ANSWER);
-  }
+  
   
   int get deckSize => allCardsInDeck.length;
   
   int get completedSize => allCardsInDeck
-      .where((card) => isCardCompleted(card, currentLang))
+      .where((card) => CardScoresEngine.isCardCompleted(card, currentLang))
       .length;
   
   int get dueSize => allCardsInDeck
-      .where((card) => isCardInLearningList(card, currentLang))
+      .where((card) => CardScoresEngine.isCardInLearningList(card, currentLang))
       .length;
  
 }
