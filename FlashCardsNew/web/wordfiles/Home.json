@@ -15,7 +15,7 @@
 
 { "en": "table",       "fi": "pöytä",      "fr": "table",        "es": "(la) mesa",   "ko": "책상" },
 
-{ "en": "(reading) desk", "fi": "kirjoituspöytä", "fr": "pupitre",           "ko": "책상" },
+{ "en": "(reading) desk", "fi": "kirjoituspöytä", "fr": "pupitre",           "es": "(el) escritorio",           "ko": "책상" },
 { "en": "bed",         "fi": "sänky, vuode",      "fr": "lit",               "es": "(la) cama",  "hu": "ágy",    "ko": "침대 (sleep + stage)" },
 { "en": "bedroom",     "fi": "makuuhuone",        "fr": "chambre à coucher", "es": "(el) dormitorio",                 "ko": "침실 (sleep + room)" },
 

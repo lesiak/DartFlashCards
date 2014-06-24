@@ -1,13 +1,17 @@
 [
 
-{ "en": "company",           "ko": "회사",           "fi": "yritys, yhtiö",    "fr": "entreprise, société" },
-{ "en": "office",           "ko": "사무실",           "fi": "toimisto, konttori",    "fr": "bureau" },
+{ "en": "to work",           "fi": "työskennellä",       "fr": "travailler",   "es": "trabajar",  "ko": "" },
+{ "en": "company",           "fi": "yritys, yhtiö",      "fr": "entreprise, société",  "ko": "회사" },
+{ "en": "office",            "fi": "toimisto, konttori", "fr": "bureau",   "es": "(la) oficina",  "ko": "사무실" },
+{ "en": "project",           "fi": "hanke, projekti",    "fr": "projet",   "es": "(el) proyecto",  "ko": "" },
+{ "en": "plan (program)",    "fi": "ohjelma",            "fr": "plan",     "es": "(el) plan",  "ko": "" },
 
-{ "en": "supervisor, manager",           "ko": "과장님",           "fi": "johtaja",    "fr": "" },
+
 { "en": "to request",           "ko": "부탁하다",           "fi": "pyytää",    "fr": "" },
 { "en": "a request",           "ko": "",           "fi": "pyyntö",    "fr": "" },
 { "en": "please (do so)",           "ko": "부탁합니다",           "fi": "",    "fr": "" },
-{ "en": "meeting",           "ko": "회의",           "fi": "kokous",    "fr": "réunion" },
+{ "en": "meeting (prearranged)",  "fi": "kokous",    "fr": "réunion",   "es": "(la) cita",  "ko": "회의" },
+{ "en": "conference",             "fi": "konferenssi",    "fr": "conférence",   "es": "(la) conferencia",  "ko": "" },
 
 { "en": "to concentrate",           "ko": "집중하다",           "fi": "keskittää",    "fr": "(se) concentrer" },
 { "en": "flattery",           "ko": "아첨, 아부, 듣기 좋은 말",           "fi": "imartelu",    "fr": "flatterie" },
@@ -22,7 +26,7 @@
 { "en": "atmosphere",         "ko": "분위기",       "fi": "ilmapiiri, tunnelma",    "fr": "ambiance" },
 
 
-{ "en": "traffic",    "ko": "교통",    "fi": "liikenne" , "fr":"circulation"},
+
 
 { "en": "colleague",        "ko": "동료",             "fi": "kollega, virkaveli, virkatoveri",    "fr": "collègue" },
 { "en": "coworker",        "ko": "회사동료",             "fi": "",    "fr": "" },

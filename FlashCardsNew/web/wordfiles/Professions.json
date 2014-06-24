@@ -13,8 +13,12 @@
 { "en": "welder",       "fi": "hitsaaja",        "fr": "soudeur",     "es": "(el) soldador",   "ko": "" },
 { "en": "butcher",      "fi": "teurastaja",      "fr": "boucher",     "es": "(el) carnicero",   "ko": "" },
 { "en": "watchmaker",   "fi": "kelloseppä",      "fr": "horloger",    "es": "(el) relojero",   "ko": "" },
+{ "en": "cleaner",      "fi": "siivooja",        "fr": "nettoyeur",   "es": "(el) limpiador",   "ko": "" },
 
-{ "en": "secretary",    "fi": "sihteeri",        "fr": "secrétaire",  "ko": "비서 (secret + writing)" },
+
+{ "en": "manager",       "fi": "johtaja",         "fr": "",           "es": "(el) gerente",     "ko": "과장님" },
+{ "en": "secretary",     "fi": "sihteeri",        "fr": "secrétaire", "es": "(la) secretaria",  "ko": "비서 (secret + writing)" },
+{ "en": "intern",        "fi": "harjoittelija",   "fr": "",           "es": "(el) becario",      "ko": "" },
 
 
 { "en": "dancer",        "fi": "tanssija",      "fr": "",            "es": "(el) bailarín",  "ko": "무용가" },

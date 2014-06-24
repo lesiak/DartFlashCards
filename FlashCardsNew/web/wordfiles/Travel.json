@@ -91,6 +91,7 @@
 { "en": "passenger",       "fi": "matkustaja",       "fr": "passager",            "es": "(el) pasajero",    "ko": "승객"  },
 { "en": "timetable",       "fi": "aikataulu",        "fr": "horaire",             "es": "(el) horario",     "ko": "" },
 { "en": "rush hour",       "fi": "ruuhka-aika, tungosaika",        "fr": "l'heure de pointe",             "es": "(la) hora punta",     "ko": "" },
+{ "en": "traffic",         "fi": "liikenne" ,        "fr":"circulation",  "ko": "교통"},
 { "en": "to commute",      "fi": "käydä töissä",     "fr": "",  "ko": "통근하다" },
 { "en": "to change, to transfer to another vehicle",   "fi": "vaihtaa",    "fr": "changer", "es": "transbordar", "ko": "갈아타다" },
 { "en": "to park",         "fi": "",    "fr": "garer", "es": "aparcar", "ko": "" }

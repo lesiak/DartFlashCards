@@ -9,6 +9,7 @@
 { "en": "banknote",         "ko": "지폐",    "fi": "seteli",          "fr": "billet (de banque)" },
 { "en": "cash",             "fi": "käteinen",          "fr": "liquide",   "es": "(el) efectivo",  "ko": "" },
 
+{ "en": "salary",          "ko": "급여",      "fi": "palkkaus",    "fr": "salaire" },
 
 { "en": "account",         "ko": "계정",    "fi": "tili",          "fr": "compte" },
 { "en": "deposit",         "ko": "예금",    "fi": "talletus",          "fr": "dépôt" },
@@ -28,12 +29,15 @@
 { "en": "discount",        "ko": "할인",    "fi": "alennus",          "fr": "réduction, rabais, remise" },
 { "en": "a fine, penalty", "ko": "벌금",    "fi": "sakko",          "fr": "amende" },
 
+{ "en": "accounting",      "fi": "kirjanpito",          "fr": "comptabilité", "es": "(la) contabilidad", "ko": "" },
+
+
 { "en": "cost, expense",   "ko": "비용",            "fi": "kustannus",          "fr": "coût" },
 { "en": "insurance",       "ko": "보험 (protect + dangerous)",  "fi": "vakuutus",          "fr": "assurance" },
 { "en": "a guarantee",     "ko": "보장 (protect + block)",      "fi": "takaus",          "fr": "garantie" },
 { "en": "to guarantee",    "ko": "보장하다",      "fi": "taata",          "fr": "garantir" },
 { "en": "percent",         "ko": "퍼센트",          "fi": "prosentti",    "fr": "pour cent" },
-{ "en": "salary",          "ko": "급여",      "fi": "palkkaus",    "fr": "salaire" },
+
 { "en": "poverty",         "ko": "가난",      "fi": "köyhyys",    "fr": "pauvreté" }
 
 
