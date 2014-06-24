@@ -72,7 +72,7 @@ packages:
   string_scanner:
     description: string_scanner
     source: hosted
-    version: "0.0.2"
+    version: "0.0.3"
   template_binding:
     description: template_binding
     source: hosted
