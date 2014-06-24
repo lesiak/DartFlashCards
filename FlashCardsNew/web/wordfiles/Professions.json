@@ -19,6 +19,7 @@
 { "en": "manager",       "fi": "johtaja",         "fr": "",           "es": "(el) gerente",     "ko": "과장님" },
 { "en": "secretary",     "fi": "sihteeri",        "fr": "secrétaire", "es": "(la) secretaria",  "ko": "비서 (secret + writing)" },
 { "en": "intern",        "fi": "harjoittelija",   "fr": "",           "es": "(el) becario",      "ko": "" },
+{ "en": "head of department", "fi": "osastopäällikkö", "fr": "",      "es": "(el) jefe del departamento",      "ko": "" },
 
 
 { "en": "dancer",        "fi": "tanssija",      "fr": "",            "es": "(el) bailarín",  "ko": "무용가" },
