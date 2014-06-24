@@ -39,19 +39,27 @@ class DictionaryPanelElement extends PolymerElement {
   }
   
   void loadAllCards() {    
-    List<DictionaryTableRow> cards = new List();  
+    List<DictionaryTableRow> cards = new List();      
+    loadCardsFromDecksIgnoringErrors(deckNames)
+      .then((cards) {
+        allCards = cards;
+        dictionarySize = allCards.length;
+        dictionaryInPrimaryLangSize = calculateNonEmptyInPrimLang();        
+      });        
+  }
+  
+  Future<List<DictionaryTableRow>> loadCardsFromDecksIgnoringErrors(List<String> deckNames) {
+    List<DictionaryTableRow> cards = new List<DictionaryTableRow>();  
     var engine = new Engine();    
-    Future.forEach(deckNames, 
+    return Future.forEach(deckNames, 
         (wordfile) => engine.loadDeckFile('./wordfiles/$wordfile.json')
         .then((deckCards) {
           var cardRows = deckCards.map((card) => new DictionaryTableRow(card, wordfile));
           cards.addAll(cardRows);
         } , onError: (e, st) => print('Cannot read $wordfile, $e, $st')))
-      .then((_) {
-        allCards = cards;
-        dictionarySize = allCards.length;
-        dictionaryInPrimaryLangSize = calculateNonEmptyInPrimLang();        
-      });        
+        .then((_) {
+          return cards;                   
+        });
   }
   
   int calculateNonEmptyInPrimLang() {
