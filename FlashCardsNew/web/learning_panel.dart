@@ -136,8 +136,9 @@ class LearingPanelElement extends PolymerElement {
       // call the web server asynchronously
       if (play) {
       print('EEEEEEEEEEEEEEEEEEEEEEEEE Playing sound: ' +word);
-      }
-     // String resp = '{"attributes":{"total":2},"items":[{"id":259850,"word":"\uae30\uacc4","addtime":"2009-07-28 02:40:01","hits":209,"username":"fairybel","sex":"f","country":"Korea, Republic of","code":"ko","langname":"Korean","pathmp3":"http:\/\/apifree.forvo.com\/audio\/1n3k3m3b2n22391j3o322q3e2d2h3c2h2c3c3i3l2f2a2p3k1m282f1o1l3l243c3e3q2a2e2o3i3e25363f3c1i3o1f1j282f28212d1m2d3e333m1b3k3a3i1n1b1g27273b1g1h362c3a2e3d383q233o2p2f2i3m283g2f371t1t_231g3j2o3f1m2d3k283h1k2p213n3k2i1m1h2e37322h1t1t","pathogg":"http:\/\/apifree.forvo.com\/audio\/3p3d1l3d3p393n3p282j3i3m3g1k3m2c1f2i352j3g2m31343h381l312f3c3b3q1h3a3k2n2n1j1i3p223g3p2f1h1o3p1n25233e3c1f1h1j1p3f1l3d2p242o3i3f321l1k3g3i3a2h25333o3i3e3d1f3k362f1m2i2q3g371t1t_362d2g3n24392i1k3h1n3o2q2d3c2k2a311p271b3k371t1t","rate":"0","num_votes":"0","num_positive_votes":0},{"id":1732756,"word":"\uae30\uacc4","addtime":"2012-09-15 05:48:49","hits":174,"username":"magicalcicada","sex":"m","country":"Korea, Republic of","code":"ko","langname":"Korean","pathmp3":"http:\/\/apifree.forvo.com\/audio\/1j39361m2i3k1p2e3f2m3g3m243c2a3c3h2l1j1p2q2j332o2k2g1i372e2q3k27352i2j3i2e3e323k2m371b3f1p33322l1m2o272l33241n2n212q261b212e3d252b2f3j2b1n1j2i24352c283i2b393c1h1n212o3p292h1t1t_3l243e23212j1h1i1m2p3e2i3l1i3j3a3f3d372o2l2h1t1t","pathogg":"http:\/\/apifree.forvo.com\/audio\/283h3d3h35341j3c23373b3d2l33222m3k253l2f2b293d3c2m1k3125341j1h2f2j2d3m3h26353h3k2b2k1k2p3j2m2c3l3o2m2i393i2q1h3h1f362f291o3d233d361n3l243o1n262i34363f2k3h1k323j2c2a3m2q2a2h1t1t_2p291k28243o2a2428372d353g2m34372j3p2l2d372h1t1t","rate":"0","num_votes":"0","num_positive_votes":0}]} ';
+      }      
+      
+      // String resp = 'TEST_RESP';       
      // onForvoSuccessTest(resp, lang, word, container, play);
       pronounciationManager.getForvoPronunciations(lang, word)
       .then((req) => onForvoSuccess(req, lang, word, container, play), 
