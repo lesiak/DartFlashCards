@@ -17,13 +17,13 @@ class DictionaryPanelElement extends PolymerElement {
          
   @published List<String> deckNames = toObservable([]);
   
-  @published List<DictionaryTableRow> allCards = toObservable([]);
+  @observable List<DictionaryTableRow> allCards = toObservable([]);
   
-  @published List<DictionaryTableRow> matchingCards = toObservable([]);
+  @observable List<DictionaryTableRow> matchingCards = toObservable([]);
   
-  @published int dictionarySize;
+  @observable int dictionarySize;
   
-  @published int dictionaryInPrimaryLangSize;
+  @observable int dictionaryInPrimaryLangSize;
     
   DictionaryPanelElement.created() : super.created() {        
     new PathObserver(this, 'primaryLang')
