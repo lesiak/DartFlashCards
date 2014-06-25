@@ -1,0 +1,97 @@
+[
+{ "en": "to learn",       "ko": "배우다",       "fi": "oppia",    "fr": "apprendre" },
+{ "en": "lesson",        "ko": "수업, 과",          "fi": "oppitunti",    "fr": "leçon" },
+{ "en": "professor",        "ko": "교수",          "fi": "professori",    "fr": "professeur" },
+
+{ "en": "topic",       "ko": "주제",       "fi": "aihe",    "fr": "sujet" },
+{ "en": "course",       "ko": "과목",       "fi": "kurssi",    "fr": "cours" },
+
+{ "en": "test",        "ko": "시험",          "fi": "koe, tentti",    "fr": "test, examen" },
+{ "en": "science",       "fi": "tiede",    "fr": "science",  "es": "(la) ciencia",  "ko": "과학" },
+{ "en": "research",      "fi": "tutkimus",    "fr": "recherche",  "es": "(la) investigación",  "ko": "연구" },
+
+{ "en": "experiment",    "fi": "kokeilu",    "fr": "",         "es": "(el) experimento",  "ko": "실험" },
+{ "en": "to observe",    "fi": "tarkkailla", "fr": "observer", "es": "observar",  "ko": ""},
+
+{ "en": "laboratory",      "fi": "laboratorio",    "fr": "laboratoire",  "es": "(el) laboratorio",  "ko": "실험실" },
+
+
+{ "en": "report",       "ko": "보고서",       "fi": "selvitys, raportti",    "fr": "rapport" },
+
+{ "en": "pencil",       "ko": "연필",       "fi": "lyijykynä",    "fr": "crayon" }, 
+
+{ "en": "mathematics",    "fi": "matematiikka", "fr": "mathématiques",  "es": "(las) matemáticas", "ko": "수학" },
+{ "en": "geometry",       "fi": "geometria",    "fr": "géométrie",      "es": "(la) geometría",    "ko": "기하학" },
+{ "en": "algebra",        "fi": "algebra",      "fr": "algèbre",        "es": "(la) álgebra",      "ko": "기하학" },
+{ "en": "statistics",     "fi": "tilasto",      "fr": "statistiques",   "es": "(la) estadística",  "ko": "" },
+{ "en": "physics",        "fi": "fysiikka",     "fr": "physique",       "es": "(la) física",       "ko": "물리학" },
+{ "en": "biology",        "fi": "biologia",     "fr": "biologie",       "es": "(la) biología",     "ko": "생물학" }, 
+{ "en": "chemistry",      "fi": "kemia",        "fr": "chimie",         "es": "(la) química",      "ko": "화학" }, 
+{ "en": "psychology",     "fi": "psykologia",   "fr": "psychologie",    "es": "(la) psicología",   "ko": "심리학" },
+{ "en": "geography",      "fi": "maantiede",    "fr": "géographie",     "es": "(la) geografía",    "ko": "지리학" },
+{ "en": "law (discipline)",       "ko": "",       "fi": "oikeustiede",    "fr": "droit" },
+{ "en": "medicine (discipline)",       "ko": "의학",       "fi": "lääketiede",    "fr": "médecine" },
+
+{ "en": "elementary school",       "ko": "초등학교 (early + class + study + school)",       "fi": "alkeiskoulu",    "fr": "école primaire" },
+
+
+{ "en": "graduation",       "ko": "졸업",       "fi": "",    "fr": "" },
+{ "en": "graduate",       "ko": "졸업하다",       "fi": "valmistua, suorittaa tutkinto, saada oppiarvo",    "fr": "obtenir sa licence, son diplôme" },
+{ "en": "diligently",       "ko": "열심히",       "fi": "ahkerasti",    "fr": "diligemment" },
+
+{ "en": "number",       "fi": "luku",      "fr": "nombre, numéro", "es": "(el) número",  "ko": "수" },
+{ "en": "point (maths)","fi": "",          "fr": "point",          "es": "(el) punto",   "ko": "" },
+{ "en": "triangle",     "fi": "kolmio",    "fr": "triangle",       "es": "(el) triángulo",  "ko": "삼각형" },
+{ "en": "square",       "fi": "neliö",     "fr": "carré",          "es": "", "ko": "정사각형" },
+{ "en": "circle",       "fi": "ympyrä",    "fr": "cercle",   "ko": "원" },
+{ "en": "disk (maths)", "fi": "kiekko",    "fr": "disque",    "ko": "원판" },
+{ "en": "equation",     "fi": "yhtälö",    "fr": "équation",    "ko": "방정식" },
+
+{ "en": "infinity",     "fi": "äärettömyys",    "fr": "infinité",  "es": "(el) infinito", "ko": "방정식" },
+
+{ "en": "plus (maths)",  "fi": "plussa",    "fr": "plus",  "es": "(el) más", "ko": "" },
+{ "en": "minus (maths)", "fi": "miinus",    "fr": "moins",  "es": "(el) menos", "ko": "" },
+
+
+{ "en": "to add (maths)","fi": "",    "fr": "ajouter",      "es": "sumar", "ko": "" },
+{ "en": "to subtract",   "fi": "",    "fr": "soustraire",   "es": "sustraer", "ko": "" },
+{ "en": "to multiply",   "fi": "",    "fr": "multiplier",   "es": "multiplicar", "ko": "" },
+{ "en": "to divide",     "fi": "",    "fr": "partager",     "es": "dividir", "ko": "" },
+
+{ "en": "to count",      "fi": "laskea",        "fr": "compter",      "es": "contar",  "ko": "" },
+
+{ "en": "microscope",    "fi": "mikroskooppi",  "fr": "microscope",  "es": "(el) microscopio", "ko": "" },
+{ "en": "telescope",     "fi": "teleskooppi",   "fr": "télescope",   "es": "(el) telescopio",  "ko": "" },
+{ "en": "astronomy",     "fi": "tähtitiede",    "fr": "astronomie",   "es": "(la) astronomía",  "ko": "" },
+{ "en": "universe",      "fi": "maailmankaikkeus",    "fr": "univers",   "es": "(el) universo",  "ko": "" },
+
+{ "en": "evolution",     "fi": "evoluutio",    "fr": "évolution",   "es": "(la) evolución",  "ko": "" },
+
+{ "en": "theory",        "fi": "teoria",       "fr": "méthode", "es": "(la) teoría",  "ko": "이론" },
+{ "en": "method",        "fi": "menetelmä, metodi",    "fr": "méthode",  "es": "(el) método", "ko": "방법" },
+
+
+{ "en": "engineering",   "fi": "konetekniikka",   "fr": "ingénierie",  "es": "(la) ingeniería", "ko": "" },
+{ "en": "engineer",      "fi": "insinööri",       "fr": "ingénieur",   "es": "(el) ingeniero", "ko": "" },
+{ "en": "system",        "fi": "järjestelmä",     "fr": "système",     "es": "(el) sistema", "ko": "" },
+
+{ "en": "design",        "fi": "",     "fr": "",     "es": "(el) diseño", "ko": "" },
+{ "en": "to design",     "fi": "",     "fr": "",     "es": "diseñar", "ko": "" },
+
+{ "en": "word",          "ko": "",          "fi": "sana",    "fr": "mot" },
+{ "en": "sentence",      "ko": "문장",      "fi": "lause, virke",    "fr": "phrase" },
+{ "en": "alphabet",      "ko": "알파벳",    "fi": "aakkoset, aakkosto",    "fr": "alphabet" },
+{ "en": "dictionary",    "ko": "사전",      "fi": "sanakirja",    "fr": "dictionnaire" },
+{ "en": "encyclopedia",  "ko": "백과사전",  "fi": "tietosanakirja",    "fr": "encyclopédie" },
+{ "en": "grammar",       "ko": "문법",       "fi": "kielioppi",    "fr": "grammaire" },
+{ "en": "rule, law",     "ko": "법칙 (law + rule)",       "fi": "sääntö",     "fr": "règle" },
+{ "en": "principle",     "ko": "원칙, 원리",       "fi": "periaate",     "fr": "principe" },
+
+
+{ "en": "ruler",         "fi": "viivain",   "fr": "règle",     "ko": "자" },
+{ "en": "to calculate",  "fi": "laskea",    "fr": "calculer",  "es": "calcular",  "ko": "계산기" },
+{ "en": "calculator",    "fi": "laskin",    "fr": "calculatrice",  "ko": "계산기" }
+
+
+]
+        

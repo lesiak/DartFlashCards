@@ -1,0 +1,29 @@
+<link rel="import" href="packages/polymer/polymer.html">
+<polymer-element name="words-table" >
+  <template>
+  <link rel="stylesheet" href="resources/bootstrap-3.1.1-dist/css/bootstrap.css" >
+  <link rel="stylesheet" href="resources/flashcardsnew.css">
+    <table class="table table-striped table-bordered ">                                
+        <thead>
+        <tr>
+            <th>English</th>
+            <th>{{getLangName(primaryLang)}}</th>
+            <th>{{getLangName(secondaryLang)}}</th>
+            <th>{{getLangName(thirdLang)}}</th>            
+            <th>Due in</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr template repeat="{{row in wordRows}}" class={{row.cssClass}}>
+            <td>{{row.card.en}}</td>
+            <td>{{getValueForLang(row.card, primaryLang)}}</td>
+            <td>{{getValueForLang(row.card, secondaryLang)}}</td>
+            <td>{{getValueForLang(row.card, thirdLang)}}</td>            
+            <td>{{row.dueIn}}</td>
+        </tr>
+        </tbody>
+    </table>
+  </template>
+  <script type="application/dart" src="words_table.dart"></script>
+</polymer-element>
+

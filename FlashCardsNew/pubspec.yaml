@@ -1,8 +1,0 @@
-name: FlashCardsNew
-description: A sample Polymer application
-dependencies:
-    polymer: any    
-    unittest: any
-transformers:
-- polymer:
-    entry_points: web/flashcardsnew.html
