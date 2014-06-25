@@ -1,10 +1,12 @@
 import 'package:polymer/polymer.dart';
 
 import 'dart:html';
+import 'dart:convert' show JSON;
 
 import 'package:FlashCardsNew/filecache_api.dart';
 import 'package:FlashCardsNew/flashcards_core.dart';
 import 'package:FlashCardsNew/forvo_api.dart';
+
 
 /**
  * A Polymer click counter element.
@@ -105,7 +107,18 @@ class FlashCardsApp extends PolymerElement {
       //app.startApplication();
       this.pronounciationManager = new PronounciationManager(cache, null);
     });
-    var langInStore =window.localStorage['primaryLang'];
+    initLangsFromLocalStorage();
+  
+  }
+  
+  void initLangsFromLocalStorage() {
+    var langInStore = window.localStorage['primaryLang'];
+    var langsInStoreJSON = window.localStorage['langs'];
+    if (langsInStoreJSON != null) {
+      List<String> langsInStore = JSON.decode(langsInStoreJSON);
+      langs = langsInStore;
+    }
+    
     var idx = 0;
     if (langInStore != null) {
       idx = langs.indexOf(langInStore);
@@ -115,8 +128,7 @@ class FlashCardsApp extends PolymerElement {
     }
     primaryLang = langs[idx];
     secondaryLang = langs[(idx + 1) % langs.length];    
-    thirdLang = langs[(idx + 2) % langs.length];
-  
+    thirdLang = langs[(idx + 2) % langs.length];  
   }
   
   @override
@@ -314,7 +326,9 @@ class FlashCardsApp extends PolymerElement {
     primaryLang = langs[0];
     secondaryLang = langs[1];
     thirdLang = langs[2];
-    
+    window.localStorage['langs'] = JSON.encode(langs);
+    window.localStorage['primaryLang'] = primaryLang;
+   
     
     hideOptions();
   }
