@@ -126,23 +126,31 @@ class LearingPanelElement extends PolymerElement {
     Element container = $[containerId];    
     
     String cachedForvoResponse = window.localStorage[lang+"/"+word];
-    if (cachedForvoResponse != null) {
-      print('found $word pronounciation list in localstorage');
-      ForvoResponse r = new ForvoResponse.fromJsonString(lang, word, cachedForvoResponse);      
-      displayPronounciations(r, container, play);
-    } 
-    else {
-      // call the web server asynchronously
-      if (play) {
-      print('EEEEEEEEEEEEEEEEEEEEEEEEE Playing sound: ' +word);
-      }      
+    
+    try {
+      if (cachedForvoResponse != null) {
+        print('found $word pronounciation list in localstorage');
+        ForvoResponse r = new ForvoResponse.fromJsonString(lang, word, cachedForvoResponse);      
+        displayPronounciations(r, container, play);
+      } 
+      else {
+        // call the web server asynchronously
+        if (play) {
+        print('EEEEEEEEEEEEEEEEEEEEEEEEE Playing sound: ' +word);
+        }      
+        
+        // String resp = 'TEST_RESP';       
+       // onForvoSuccessTest(resp, lang, word, container, play);
+        pronounciationManager.getForvoPronunciations(lang, word)
+        .then((req) => onForvoSuccess(req, lang, word, container, play), 
+          onError: (asyncError) => print(asyncError));              
+      }
+    } catch(e) {
+      print("AAAAAAAAA" + e);
+      window.alert("Unexpecrted excepttion");
       
-      // String resp = 'TEST_RESP';       
-     // onForvoSuccessTest(resp, lang, word, container, play);
-      pronounciationManager.getForvoPronunciations(lang, word)
-      .then((req) => onForvoSuccess(req, lang, word, container, play), 
-        onError: (asyncError) => print(asyncError));              
     }
+      
   }
   
   /*void onForvoSuccessTest(String  responseText, String lang, String word, Element container, bool play) {  
