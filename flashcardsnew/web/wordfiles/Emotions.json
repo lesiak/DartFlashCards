@@ -18,6 +18,7 @@
 
 { "en": "satisfied",     "fi": "vakuuttunut",          "fr": "satisfait",   "es": "satisfecho",   "ko": "" },
 { "en": "excited",       "fi": "innoissaan, innostunut",  "fr": "excité",  "es": "emocionado", "ko": "흥분한"},
+{ "en": "exciting",       "fi": "jännittävä",  "fr": "excitant, passionnant",  "es": "emocionante", "ko": ""},
 
 { "en": "tired",         "fi": "väsynyt",   "fr": "fatigué",   "es": "cansado",  "ko": "피곤한" },
 

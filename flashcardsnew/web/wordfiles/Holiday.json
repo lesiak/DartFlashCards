@@ -9,8 +9,10 @@
 { "en": "to take (a photo)", "fi": "ottaa kuvaa",    "fr": "", "es": "tomar (una foto)",   "ko": "찍다"},
 { "en": "to develop (a photo)", "fi": "",    "fr": "",         "es": "desarrollar (una foto)",   "ko": "인화하다" },
 
-{ "en": "passport",   "fi": "passi",     "fr": "passeport",   "es": "(el) pasaporte", "ko": "여권" },
-{ "en": "visa",       "fi": "viisumi",   "fr": "visa",        "es": "(la) visa",      "ko": "" },
+{ "en": "passport",     "fi": "passi",     "fr": "passeport",   "es": "(el) pasaporte", "ko": "여권" },
+{ "en": "visa",         "fi": "viisumi",   "fr": "visa",        "es": "(la) visa",      "ko": "" },
+
+{ "en": "travel agent", "fi": "",          "fr": "",            "es": "(el) agente de viajes",      "ko": "" },
 
 { "en": "trip planner",     "ko": "",       "fi": "reittiopas",     "fr": "" },
 

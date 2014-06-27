@@ -26,7 +26,7 @@
 { "en": "important",     "fi": "tärkeä",  "fr": "important", "es": "importante",    "ko": "중요하다" },
 { "en": "popular",       "fi": "suosittu","fr": "populaire", "es": "popular", "ko": "인기 있는, 유명한" },
 { "en": "popularity",    "fi": "suosio",  "fr": "popularité","es": "(la) popularidad",  "ko": "인기" },
-{ "en": "favorite",        "ko": "",          "fi": "suosikki",    "fr": "favori, préféré" },
+{ "en": "favorite",      "fi": "suosikki","fr": "favori, préféré", "es": "favorito", "ko": "" },
 
 { "en": "nice",        "ko": "",          "fi": "kiva, mukava",       "fr": "agréable" },
 { "en": "pleasant",    "ko": "",          "fi": "miellyttävä, mukava","fr": "agréable" },

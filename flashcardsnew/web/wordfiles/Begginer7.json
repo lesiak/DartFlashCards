@@ -38,7 +38,7 @@
 { "en": "to work, function",       "ko": "",    "fi": "toimia",    "fr":"fonctionner"},
 
 
-{ "en": "service",       "ko": "서비스",    "fi": "palvelu",    "fr":"service"},
+{ "en": "service",      "fi": "palvelu",    "fr": "service", "es": "(el) servicio",  "ko": "서비스"},
 { "en": "target",       "ko": "",    "fi": "tavoite, kohde",    "fr":""},
 { "en": "delivery",      "fi": "toimitus",    "fr": "livraison",        "ko": "배달" },
 { "en": "deliver",       "ko": "배달하다",       "fi": "toimittaa",    "fr": "livrer" },

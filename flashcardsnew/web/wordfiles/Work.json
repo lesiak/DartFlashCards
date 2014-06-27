@@ -1,7 +1,7 @@
 [
 
 { "en": "to work",           "fi": "työskennellä",       "fr": "travailler",   "es": "trabajar",  "ko": "" },
-{ "en": "company",           "fi": "yritys, yhtiö",      "fr": "entreprise, société",  "ko": "회사" },
+{ "en": "company",           "fi": "yritys, yhtiö",      "fr": "entreprise, société",   "es": "(la) empresa", "ko": "회사" },
 { "en": "office",            "fi": "toimisto, konttori", "fr": "bureau",   "es": "(la) oficina",  "ko": "사무실" },
 { "en": "project",           "fi": "hanke, projekti",    "fr": "projet",   "es": "(el) proyecto",  "ko": "" },
 { "en": "plan (program)",    "fi": "ohjelma",            "fr": "plan",     "es": "(el) plan",  "ko": "" },
@@ -34,7 +34,8 @@
 { "en": "coworker",        "ko": "루틴",             "fi": "rutiini",    "fr": "routine" },
 
 
-{ "en": "employer",        "ko": "고용주",             "fi": "työnantaja",    "fr": "employeur" },
+{ "en": "employer",        "fi": "työnantaja",    "fr": "employeur",    "ko": "고용주" },
+{ "en": "employee",        "fi": "työntekijä",    "fr": "employé",      "es": "(el) empleado",   "ko": "" },
 
 { "en": "business trip",        "ko": "출장 (out + spread)",             "fi": "liikematka",    "fr": "voyage d'affaires" },
 

@@ -24,7 +24,8 @@
 
 { "en": "dancer",        "fi": "tanssija",      "fr": "",            "es": "(el) bailarín",  "ko": "무용가" },
 { "en": "painter",       "fi": "maalari",       "fr": "peintre",     "es": "(el) pintor",   "ko": "화가" },
-{ "en": "artist",        "fi": "taiteilija",    "fr": "artiste",     "es": "(el) artista",   "ko": "예술가"},
+{ "en": "artist",        "fi": "taiteilija",    "fr": "artiste",     "es": "(el/la) artista",   "ko": "예술가"},
+{ "en": "designer",      "fi": "suunnittelija,muotoilija",  "fr": "créateur",   "es": "(el) diseñador",   "ko": ""},
  
 { "en": "king",          "fi": "kuningas",          "fr": "roi" ,    "es": "(el) rey",      "ko": ""}, 
 { "en": "queen",         "fi": "kuningatar",        "fr": "reine" ,  "es": "(la) reina",    "ko": ""},

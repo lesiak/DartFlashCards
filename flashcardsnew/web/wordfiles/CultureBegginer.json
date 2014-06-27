@@ -10,6 +10,8 @@
 { "en": "actor",         "fi": "näyttelijä",     "fr": "acteur",        "es": "(el) actor",     "ko": "배우" },
 { "en": "actress",       "fi": "näyttelijä(tär)","fr": "actrice",     "es": "(la) actriz",     "ko": "배우" },
 { "en": "movie star",    "fi": "päänäyttelijä",  "fr": "star de cinéma","es": "(la) estrella de cine", "ko": "영화 배우"},
+{ "en": "director",       "fi": "",              "fr": "",              "es": "(el) director",     "ko": "" },
+
 { "en": "singer",        "fi": "laulaja",        "fr": "chanteur",      "es": "(el/la) cantante",   "ko": "가수" },
 { "en": "to sing",       "fi": "laulaa",         "fr": "chanter",       "es": "cantar",   "ko": "노래하다" },
 { "en": "song",          "fi": "laulu",          "fr": "chanson",       "es": "(la) canción", "ko": "노래" },
@@ -51,8 +53,8 @@
 
 { "en": "a comeback",         "ko": "컴백",       "fi": "paluu",          "fr": "" },
 
-{ "en": "famous",         "ko": "유명한",       "fi": "kuuluisa",          "fr": "célèbre" },
-{ "en": "fan",         "ko": "팬",       "fi": "fani",          "fr": "fan" },
+{ "en": "famous",      "fi": "kuuluisa",    "fr": "célèbre",         "es": "famoso", "ko": "유명한" },
+{ "en": "fan",         "fi": "fani",        "fr": "fan",      "ko": "팬" },
 
 { "en": "guitar",      "fi": "kitara",      "fr": "guitare",          "es": "(la) guitarra",  "ko": "기타" }, 
 { "en": "piano",       "fi": "piano",       "fr": "piano",            "es": "(el) piano",     "ko": "피아노" },
