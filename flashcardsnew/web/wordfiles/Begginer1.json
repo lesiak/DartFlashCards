@@ -1,0 +1,68 @@
+[
+
+{ "en": "machine",   "fi": "kone",       "fr": "machine",   "es": "(la) máquina","hu": "gép",   "ko": "기계", "zh": "机 (jī)"    },  
+{ "en": "fire",      "fi": "palo",       "fr": "feu",       "es": "(el) fuego",  "hu": "tűz",   "ko": "불",   "zh": "火 (huǒ)"   },
+{ "en": "light",     "fi": "valo",       "fr": "lumière",   "es": "(la) luz",    "hu": "fény",  "ko": "빛",   "zh": "光 (guāng)" },
+{ "en": "water",     "fi": "vesi",       "fr": "eau",       "es": "(el) agua",   "hu": "víz",   "ko": "물",   "zh": "水  (shuǐ)"  },
+{ "en": "river",     "fi": "joki",       "fr": "fleuve",    "es": "(el) río",    "hu": "folyó", "ko": "강",   "zh": "河  (hé)"    },
+{ "en": "sea",       "fi": "meri",       "fr": "mer",       "es": "(el) mar",    "hu": "tenger","ko": "바다", "zh": "海  (hǎi)"   },
+{ "en": "wave",      "fi": "aalto",      "fr": "vague",     "es": "(la) ola, (la) onda", "hu": "hullám","ko": "파"   },
+{ "en": "beach",     "fi": "hiekkaranta","fr": "plage",     "es": "(la) playa",  "hu": "strand","ko": "바닷가", "zh": "海滩  (hǎitān), 沙滩 (shā tān)" },
+{ "en": "sand",      "fi": "hiekka",     "fr": "sable",     "es": "(la) arena",  "hu": "homok", "ko": "모래",   "zh": "沙 (shā)" },
+{ "en": "forest",    "fi": "metsä",      "fr": "forêt",     "es": "(el) bosque", "hu": "erdő",  "ko": "숲",     "zh": "森林  (sēn lín)"   },
+{ "en": "garden",    "fi": "puutarha",   "fr": "jardin",    "es": "(el) jardín", "hu": "kert",  "ko": "정원",   "zh": "花园 (huāyuán)" },
+{ "en": "park",      "fi": "puisto",     "fr": "parc" ,     "es": "(el) parque", "hu": "park",  "ko": "공원",   "zh": "公园  (gōngyuán)"},
+{ "en": "tree",      "fi": "puu",        "fr": "arbre" ,    "es": "(el) árbol",  "hu": "fa",    "ko": "나무",   "zh": "树  (shù)" },
+{ "en": "leaf",      "fi": "lehti",      "fr": "feuille",   "es": "(la) hoja",   "hu": "",      "ko": "잎",     "zh": "树叶 (shù yè)"   },
+{ "en": "lake",      "fi": "järvi",      "fr": "lac",       "es": "(el) lago",   "hu": "tó",    "ko": "호수",   "zh": "湖  (hú)" },
+{ "en": "sun",       "fi": "aurinko",    "fr": "soleil",    "es": "(el) sol",    "hu": "nap",   "ko": "해",     "zh": ""   },
+{ "en": "moon",      "fi": "kuu",        "fr": "lune" ,     "es": "(la) luna",   "hu": "hold",  "ko": "달",     "zh": "月亮  (yuè liang)"   },
+{ "en": "air",       "fi": "ilma",       "fr": "air" ,      "es": "(el) aire",   "hu": "levegő","ko": "공기",   "zh": "空气  (kōng qì)" },
+{ "en": "star",      "fi": "tähti",      "fr": "étoile" ,   "es": "(la) estrella","hu": "csillag","ko": "별",    "zh": "星  (xīng)"  },
+{ "en": "fog",       "fi": "sumu",       "fr": "brouillard","es": "(la) niebla", "hu": "köd", "ko": "안개" },
+{ "en": "sky",       "fi": "taivas",     "fr": "ciel" ,     "es": "(el) cielo",  "hu": "ég",    "ko": "하늘",    "zh": "天空  (tiān kōng)" },
+{ "en": "cloud",     "fi": "pilvi",      "fr": "nuage" ,    "es": "(la) nube",   "hu": "felhő", "ko": "구름",   "zh": "云  (yún)" },
+{ "en": "rainbow",   "fi": "sateenkaari","fr": "arc-en-ciel","es": "(el) arco iris", "hu": "szivárvány",   "ko": "무지개"        },
+{ "en": "stone",     "fi": "kivi",       "fr": "pierre" ,   "es": "(la) piedra", "hu": "kő",    "ko": "돌"        },
+{ "en": "mountain",  "fi": "vuori",      "fr": "montagne",  "es": "(la) montaña","hu": "hegy",  "ko": "산",   "zh": "山 (shān)"        },
+{ "en": "hill",      "fi": "mäki, kukkula","fr": "colline", "es": "(la) colina", "hu": "hegy",  "ko": "언덕"   },
+{ "en": "swamp",     "fi": "suo",        "fr": "marais",    "es": "(el) pantano","hu": "ingovány", "ko": "늪"  },
+
+ 
+{ "en": "rain",      "fi": "sade",       "fr": "pluie",     "es": "(la) lluvia", "hu": "eső",   "ko": "비"  },
+{ "en": "snow",      "fi": "lumi",       "fr": "neige",     "es": "(la) nieve",  "hu": "hó",    "ko": "눈"  },
+{ "en": "wind",      "fi": "tuuli",      "fr": "vent",      "es": "(el) viento", "hu": "szél",  "ko": "바람"},
+{ "en": "weather",   "fi": "sää, ilma",  "fr": "temps",     "es": "(el) tiempo", "hu": "időjárás", "ko": "날씨"},
+{ "en": "climate",   "fi": "ilmasto",    "fr": "climat",    "es": "(el) clima",  "hu": "klíma", "ko": "기후"   },
+
+{ "en": "sunset",    "fi": "auringonlasku", "fr": "coucher du soleil", "es": "(la) puesta del sol", "hu": "napnyugta", "ko": "일몰"           },
+{ "en": "sunrise",   "fi": "auringonnousu", "fr": "lever du soleil",   "es": "(la) salida del sol", "hu": "napkelte",  "ko": "해돋이"        },
+
+
+{ "en": "world",     "fi": "maailma",    "fr": "monde",     "es": "(el) mundo",  "hu": "világ",  "ko": "세계" },
+
+
+
+{ "en": "sit",       "fi": "istua",      "fr": "être assis",  "es": "sentarse",     "hu": "ül",  "ko": "앉다",  "zh": "坐  (zuò)"       },
+{ "en": "stand",     "fi": "seisoa",     "fr": "être debout", "es": "estar de pie", "hu": "áll",  "ko": "서다" },
+{ "en": "sleep",     "fi": "nukkua",     "fr": "dormir",      "es": "dormir",       "hu": "alszik",  "ko": "자다"       },
+{ "en": "know (sth)","fi": "tietää",     "fr": "savoir",      "es": "saber",        "hu": "tud",  "ko": "알다"   },
+{ "en": "know (sb)", "fi": "tuntea",     "fr": "connaître",   "es": "conocer",      "hu": "tud",  "ko": "알다"   },
+{ "en": "not to know","fi": "ei tiedä",  "fr": "ne pas savoir",          "ko": "모르다"      },
+{ "en": "make",      "fi": "tehdä",      "fr": "faire",       "es": "hacer", "hu": "ül",         "ko": "만들다"       },
+{ "en": "see",       "fi": "nähdä",      "fr": "voir",        "es": "ver", "ko": "보다" },
+{ "en": "to be seen","fi": "näkyä",      "fr": "" ,           "ko": "보이다"},
+{ "en": "to show",   "fi": "näyttää",    "fr": "montrer",     "es": "mostrar", "ko": "보여주다" },
+
+{ "en": "to look",      "fi": "näyttää, katsoa",  "fr": "regarder", "es": "mirar",   "ko": "보이다 (??)" },
+{ "en": "to speak",     "fi": "puhua",     "fr": "parler",          "es": "hablar",   "ko": "말하다" },
+  
+{ "en": "hear",         "fi": "kuulla",    "fr": "entendre",        "es": "oír",         "ko": "듣다" },
+{ "en": "listen",       "fi": "kuunnella", "fr": "écouter",         "es": "escuchar",    "ko": "듣다" },
+{ "en": "to need",      "fi": "tarvita",   "fr": "avoir besoin de", "es": "necesitar", "ko": "필요하다" },
+{ "en": "to want",      "fi": "haluta",    "fr": "vouloir",         "es": "querer",    "ko": "싶다" }
+
+
+
+
+]

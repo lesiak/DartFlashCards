@@ -1,0 +1,117 @@
+[
+
+{ "en": "to eat",       "fi": "syödä",     "fr": "manger",         "es": "comer",       "ko": "먹다" },
+{ "en": "to drink",     "fi": "juoda",     "fr": "boire",          "es": "beber",       "ko": "마시다" },
+
+{ "en": "food",         "fi": "ruoka",     "fr": "nourritures",    "es": "(la) comida", "ko": "음식" },
+{ "en": "I am hungry",       "ko": "배고파요",         "fi": "Minulla on nälkä",    "fr": "J'ai faim" },
+{ "en": "I am full",       "ko": "배 불러요",         "fi": "",    "fr": "" },
+{ "en": "to be full",       "ko": "배 부르다",         "fi": "",    "fr": "" },
+
+
+{ "en": "powder",       "fi": "jauhe",      "fr": "poudre",        "es": "(el) polvo",    "ko": "가루"},
+{ "en": "flour",        "fi": "jauhot",     "fr": "farine",        "es": "(la) harina",   "ko": "가루" },
+{ "en": "bread",        "fi": "leipä",      "fr": "pain",          "es": "(el) pan",      "ko": "빵" },
+{ "en": "salt",         "fi": "suola",      "fr": "sel",           "es": "(la) sal",      "ko": "소금" },
+{ "en": "sugar",        "fi": "sokeri",     "fr": "sucre",         "es": "(el) azúcar",   "ko": "설탕" },
+{ "en": "garlic",       "fi": "valkosipuli","fr": "ail",           "es": "(el) ajo",      "ko": "마늘" },
+
+{ "en": "tea",          "fi": "tee",        "fr": "thé",           "es": "(el) té",       "ko": "차" },
+{ "en": "coffee",       "fi": "kahvi",      "fr": "café",          "es": "(el) café",     "ko": "커피" },
+{ "en": "juice",        "fi": "mehu",       "fr": "jus",           "es": "(el) zumo",     "ko": "주스" },
+
+{ "en": "cheese",       "fi": "juusto",     "fr": "fromage",       "es": "(el) queso",    "ko": "치즈" },
+{ "en": "cucumber",     "fi": "kurkku",     "fr": "concombre",     "es": "(el) pepino",   "ko": "오이" },
+{ "en": "carrot",       "fi": "porkkana",   "fr": "carotte",       "es": "(la) zanahoria","ko": "당근" },
+{ "en": "aubergine",    "fi": "munakoiso",  "fr": "aubergine",     "es": "(la) berenjena","ko": "가지" },
+{ "en": "potato",       "fi": "peruna",     "fr": "pomme de terre","es": "(la) patata", "ko": "감자" },
+{ "en": "french fries", "fi": "ranskalaiset" , "fr":"","ko": "감자튀김"},
+
+{ "en": "pumpkin",      "fi": "kurpitsa",   "fr": "citrouille",    "es": "(la) calabaza",  "ko": "호박" },
+{ "en": "butternut squash",       "ko": "",         "fi": "myskikurpitsa",    "fr": "courge musquée, doubeurre" },
+
+{ "en": "courgette",      "fi": "kesäkurpitsa","fr": "courgette", "es": "(el) calabacín",  "ko": "서양 호박" },
+
+{ "en": "spinach",        "fi": "pinaatti",     "fr": "épinards",  "es": "(la) espinaca",  "ko": "시금치" },
+{ "en": "bell pepper",    "fi": "paprika",      "fr": "poivron",   "es": "(el) pimiento",  "ko": "피망" },
+{ "en": "lettuce",        "fi": "lehtisalaatti","fr": "laitue",    "es": "(la) lechuga",  "ko": "상추" },
+
+{ "en": "mushroom",       "fi": "sieni",     "fr": "champignon",  "ko": "버섯" },
+{ "en": "onion",          "fi": "sipuli",    "fr": "oignon",    "es": "(la) cebolla",    "ko": "양파 (the West + Welsh onion)" },
+
+{ "en": "soup",           "fi": "keitto",    "fr": "soupe",     "es": "(la) sopa",    "ko": "국" },
+{ "en": "meat",           "fi": "liha",      "fr": "viande",    "es": "(la) carne",   "ko": "고기" },
+{ "en": "bacon",          "fi": "pekoni",    "fr":"lardon",     "es": "(el) tocino",  "ko": "베이컨"},
+{ "en": "egg",            "fi": "muna",      "fr":"œuf",        "es": "(el) huevo",   "ko": "알"},
+{ "en": "oil",            "fi": "öljy" ,     "fr":"huile",      "es": "(el) aceite",  "ko": "기름"},
+
+{ "en": "ice",            "fi": "jää",        "fr": "glace",     "es": "(el) hielo",   "ko": "얼음" },
+{ "en": "hot pepper", "fi": "kuuma pippuria", "fr": "piment",                  "ko": "고추" },
+{ "en": "milk",        "fi": "maito",         "fr": "lait",      "es": "(la) leche",   "ko": "우유" },
+{ "en": "butter",      "fi": "voi",           "fr": "beurre",    "es": "(la) mantequilla",  "ko": "버터" },
+{ "en": "cream",       "fi": "kerma",         "fr": "crème",    "ko": "크림" },
+{ "en": "cake",        "fi": "kakku",         "fr": "gâteau", "ko": "케이크" },
+
+{ "en": "beer",        "fi": "olut",         "fr": "bière", "es": "(la) cerveza",  "ko": "맥주" },
+{ "en": "vodka",       "fi": "vodka",        "fr": "vodka", "es": "(la) vodka",    "ko": "보드카" },
+{ "en": "wine",        "fi": "viini",        "fr": "vin",   "es": "(el) vino",     "ko": "포도주" },
+{ "en": "honey",       "fi": "hunaja",       "fr": "miel",  "es": "(la) miel",     "ko": "꿀" },
+{ "en": "candy",       "fi": "karkki, karamelli",    "fr": "bonbon" , "ko": "사탕"},
+{ "en": "cookie",      "fi": "pikkuleipä",    "fr": "gâteau",   "ko": "쿠키" },
+
+{ "en": "sandwich",    "fi": "voileipä",    "fr": "sandwich",   "es": "(el) bocadillo", "ko": "샌드위치" },
+{ "en": "sushi",       "fi": "sushi",       "fr": "sushi",  "ko": "스시, 일본식 초밥 (vinegar + rice)" },
+
+{ "en": "pancake",       "ko": "",         "fi": "ohukainen",    "fr": "" },
+{ "en": "scrambled eggs",       "ko": "",         "fi": "munakokkeli",    "fr": "" },
+{ "en": "omelette",       "ko": "",         "fi": "munakas",    "fr": "" },
+{ "en": "sausage",              "fi": "makkara",    "fr": "saucisse",  "es": "(la) salchicha" , "ko": ""},
+
+
+{ "en": "ice cream",       "ko": "아이스크림",         "fi": "jätski, jäätelö",    "fr": "crème glacée" },
+{ "en": "alkohol",       "ko": "알코올",         "fi": "alkoholi",    "fr": "alcool" },
+{ "en": "sesame",       "ko": "참깨",         "fi": "seesami",    "fr": "sésame" },
+
+
+{ "en": "sweet",        "fi": "makea",        "fr": "doux",   "es": "dulce",   "ko": "달다" },
+{ "en": "bitter",       "ko": "쓰다",       "fi": "kitkerä",      "fr": "amer" },
+{ "en": "sour",         "fi": "hapan",        "fr": "aigre",   "es": "ácido", "ko": "신, 사워" },
+{ "en": "spicy",        "ko": "맵다",       "fi": "mausteinen" ,  "fr":"piquant"},
+{ "en": "mild",        "ko": "",       "fi": "mieto" ,  "fr":""},
+{ "en": "fresh",        "fi": "tuore" ,       "fr": "frais",          "es": "fresco",  "ko": "신선한"},
+{ "en": "refreshing",   "fi": "virkistävä",   "fr": "rafraîchissant", "es": "refrescante", "ko": "상쾌한"},
+
+
+{ "en": "cuisine",      "ko": "요리",       "fi": "keittiö",      "fr": "cuisine" },
+{ "en": "chef",         "ko": "요리사",     "fi": "kokki",        "fr": "chef de cuisine" },
+{ "en": "diet",         "ko": "다이어트",     "fi": "ruokavalio",        "fr": "" },
+
+{ "en": "knife",        "fi": "veitsi",     "fr": "couteau",    "es": "",              "ko": "칼" },
+{ "en": "spoon",        "fi": "lusikka",    "fr": "cuillère",   "es": "(la) cuchara",  "ko": "스푼" },
+{ "en": "fork",         "fi": "haarukka",   "fr": "fourchette",                        "ko": "포크" },
+{ "en": "chopsticks",   "fi": "syömäpuikot","fr": "baguettes",  "es": "palillos",      "ko": "젓가락"},
+{ "en": "cup",          "fi": "kuppi",      "fr": "tasse",      "es": "(la) taza",     "ko": "컵" }, 
+{ "en": "plate",        "fi": "lautanen",   "fr": "assiette",         "ko": "" },
+{ "en": "glass (water)","fi": "",           "fr": "",           "es": "(el) vaso",       "ko": "" },
+{ "en": "glass (vine)", "fi": "",           "fr": "",           "es": "(la) copa",       "ko": "" },
+
+{ "en": "fast food",    "fi": "pikaruoka",  "fr": "",     "ko": "패스트 푸드" },
+
+{ "en": "poultry",    "fi": "siipikarja",   "fr": "volaille", "es": "aves de corral",  "ko": "푸드" },
+{ "en": "turkey",     "fi": "dinde",        "fr": "volaille",      "es": "(el) pavo",  "ko": "" },
+
+{ "en": "meal",         "ko": "식사",       "fi": "ateria",    "fr": "repas" },
+{ "en": "starter",       "fi": "alkuruoka","fr": "entrée",  "es": "(el) entrante", "ko": "" },
+{ "en": "main course",    "fi": "pääruoka","fr": "plat principal",  "es": "(el) plato principal", "ko": "" },
+{ "en": "dessert",       "fi": "jälkiruoka","fr": "dessert",  "es": "(el) postre", "ko": "디저트, 후식" },
+{ "en": "snack",         "ko": "간식 (between + meal)",       "fi": "välipala, pientä purtavaa",    "fr": "casse-croûte" },
+
+{ "en": "restaurant",   "fi": "ravintola",    "fr": "restaurant",          "es": "(el) restaurante",   "ko": "" },
+{ "en": "to eat out",   "fi": "syödä ulkona", "fr": "aller au restaurant", "es": "comer fuera",   "ko": "" },
+{ "en": "menu",         "fi": "ruokalista",   "fr": "carte",               "es": "(la) carta",   "ko": "" },
+{ "en": "to order",     "fi": "tilata",       "fr": "",                    "es": "pedir",   "ko": "" },
+{ "en": "a tip (money)","fi": "",       "fr": "",                          "es": "(la) propina",   "ko": "" },
+{ "en": "bill",         "fi": "lasku",        "fr": "addition",            "es": "(la) cuenta",   "ko": "" }
+
+
+]

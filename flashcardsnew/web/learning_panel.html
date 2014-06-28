@@ -1,0 +1,78 @@
+<link rel="import" href="packages/polymer/polymer.html">
+<polymer-element name="learning-panel">
+  <template>
+  <link rel="stylesheet" href="resources/bootstrap-3.1.1-dist/css/bootstrap.css" >
+  <link rel="stylesheet" href="resources/flashcardsnew.css">  
+    <div class="row ">     
+        <div class="col-md-12">
+          <div id="flashcardQuestion" class="flashcard-question">
+            <h1 id="en" class="flashcardQuestionH"><strong>{{card.en}}</strong></h1>    
+            <div id="enPro" class="btn-toolbar"><!-- do not collapse--></div>
+          </div>
+        </div>
+    </div> 
+    
+    <div class="row" style="margin-bottom : 10px">
+        <span class="col-md-6 col-xs-12">
+        <button id="showAnswerButton" on-click="{{showAnswer}}" disabled?={{responsesVisible}} class="btn btn-info btn-lg btn-block">Show answer</button>
+        </span>
+    </div>
+    <div class="row" style="margin-bottom : 10px">
+        <span class="col-md-2 col-xs-4">
+        <button id="goodAnswerButton" on-click="{{goodAnswer}}" disabled?={{!responsesVisible}} class="btn btn-default btn-lg btn-block">Good</button>
+        </span>
+        <span class="col-md-2 col-xs-4">
+        <button id="poorAnswerButton" on-click="{{poorAnswer}}" disabled?={{!responsesVisible}} class="btn btn-default btn-lg btn-block">Almost</button>
+        </span>
+        <span class="col-md-2 col-xs-4">
+        <button id="badAnswerButton" on-click="{{badAnswer}}" disabled?={{!responsesVisible}} class="btn  btn-default btn-lg btn-block">Bad</button>
+        </span>
+    </div>
+    
+      
+    <div class="row show-grid">
+      <div  class="col-md-12">
+        <div id="answerprimary" class="flashcardAnswer">
+          <h1 id="ko">
+            <template if="{{ responsesVisible }}">
+              {{answerPrimary}}
+            </template>  
+          </h1>
+          <div id="primaryPro" class="btn-toolbar">
+            <!-- do not collapse-->
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="row show-grid">
+      <div class="col-md-6 divAnswerLeft">
+        <div class="flashcardAnswer">
+          <h1 id="fi">
+            <template if="{{ responsesVisible }}">
+              {{answerSecondary}}
+            </template>  
+          </h1>
+          <div id="secondaryPro" class="btn-toolbar" if="{{ responsesVisible }}">
+            <!-- do not collapse-->
+            <!--<button class="btn" rel="tooltip" title="f Korea, Republic of">fairybel</button>-->
+          </div>
+        </div>
+      </div>
+      <div class="col-md-6 divAnswerRight">
+        <div class="flashcardAnswer">
+          <h1 id="fr" >
+            <template if="{{ responsesVisible }}">
+               {{answerThird}}
+            </template>  
+          </h1>
+          <div id="thirdPro" class="btn-toolbar" if="{{ responsesVisible }}">
+            <!-- do not collapse-->
+          </div>
+        </div>
+      </div>
+      
+    </div><!-- row -->
+    <div id="audioContainer"></div>
+  </template>
+  <script type="application/dart" src="learning_panel.dart"></script> 
+</polymer-element>

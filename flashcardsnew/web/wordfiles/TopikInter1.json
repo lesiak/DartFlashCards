@@ -1,0 +1,36 @@
+[
+
+
+{ "en": "art",       "ko": "예술",       "fi": "taide",    "fr": "art" },
+
+{ "en": "on the whole",       "ko": "대체로",       "fi": "kokonaisuutena",    "fr": "dans l'ensemble, en tout cas, de toute façon" },
+
+
+
+
+
+{ "en": "symbolize",       "ko": "상징하다",       "fi": "olla jnk symboli",    "fr": "symboliser" },
+{ "en": "courage",       "ko": "용기",       "fi": "rohkeus",    "fr": "courage" },
+{ "en": "go too far",       "ko": "지나치다",       "fi": "mennä liian pitkälle",    "fr": "aller trop loin" },
+{ "en": "request",       "ko": "요청",       "fi": "pyyntö",    "fr": "demande" },
+
+
+{ "en": "communication",       "ko": "통신",       "fi": "kommunikaatio, tietoliikenne",    "fr": "communication" },
+{ "en": "platform",       "ko": "플랫폼",       "fi": "alusta",    "fr": "plate-forme" },
+
+{ "en": "troublesome",       "ko": "귀찮은",       "fi": "hankala",    "fr": "gênant" },
+{ "en": "land",    "ko": "땅",    "fi": "maa" , "fr":"terre"},
+
+{ "en": "toilet seat",        "ko": "변기",    	"fi": "wc-istuin, vessanpönttö",    "fr": "toilette" },
+{ "en": "urinal",        "ko": "소변기",    	"fi": "urinaali",    "fr": "urinoir" },
+{ "en": "toilet paper",        "ko": "화장지",    	"fi": "vessapaperi",    "fr": "papier de toilette, papier-cul, abbreviated PQ" },
+
+
+
+{ "en": "skipping rope",     "ko": "밧줄을 건너 뛰는",       "fi": "hyppynaru",     "fr": "corde à sauter" },
+{ "en": "doll",        "ko": "인형",          "fi": "nukke",    "fr": "poupée" },
+{ "en": "amount",     "ko": "",       "fi": "määrä (fi), lukumäärä",     "fr": " quantité (fr), nombre (fr), montant" },
+{ "en": "demand",     "ko": "요구하다, 필요로하다",       "fi": "vaatia",     "fr": "exiger" },
+{ "en": "perform (in front of an audience)",     "ko": "",       "fi": " esittää",     "fr": "jouer (actor), danser (dancer), chanter (singer)" }
+
+]

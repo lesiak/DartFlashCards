@@ -1,0 +1,125 @@
+body {
+  /*overflow-y:hidden;*/
+}
+
+#flashcardQuestion, #answerprimary {
+  padding: 19px;
+  min-height: 148px; 
+  margin-bottom: 20px;
+}
+
+.flashcard-question {
+  background-color: #eeeeee;  
+  -webkit-border-radius: 6px;
+  -moz-border-radius: 6px;
+  border-radius: 6px;
+}
+
+#flashcardQuestion h1 {
+  text-align: center; 
+  margin-bottom: 10px;
+  font-size: 50px;
+  line-height: 1;
+  color: inherit;
+  letter-spacing: -1px;
+}
+
+
+#answerprimary h1 {
+  margin-top: 20px;
+  font-size: 50px;
+  line-height: 1;
+  color: inherit;
+  letter-spacing: -1px;
+}
+
+.flashcardAnswer {
+  height: 120px;
+  padding: 19px;
+  margin-bottom: 20px;
+  background-color: #ccc;
+
+  border: 1px solid #eee;
+  border: 1px solid rgba(0, 0, 0, 0.05);
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);
+  -moz-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);
+  box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);
+}
+
+.flashcardAnswer h1 {
+ margin-bottom: 10px;
+ margin-top: 10px;
+}
+
+.show-grid {
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+.show-grid .show-grid {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.table tbody tr.selectedTableRow a {
+  color: #ffffff;
+  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
+}
+
+.table tbody tr.selectedTableRow td {
+  color: #ffffff;
+  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
+  background-color: #49afcd;
+  *background-color: #2f96b4;
+  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#5bc0de), to(#2f96b4));
+  background-image: -webkit-linear-gradient(top, #5bc0de, #2f96b4);
+  background-image: -o-linear-gradient(top, #5bc0de, #2f96b4);
+  background-image: linear-gradient(to bottom, #5bc0de, #2f96b4);
+  background-image: -moz-linear-gradient(top, #5bc0de, #2f96b4);
+  background-repeat: repeat-x;
+  border-color: #2f96b4 #2f96b4 #1f6377;
+  border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
+  filter: progid:dximagetransform.microsoft.gradient(startColorstr='#ff5bc0de', endColorstr='#ff2f96b4', GradientType=0);
+  filter: progid:dximagetransform.microsoft.gradient(enabled=false);
+}
+
+/* answers table */
+
+.table tbody tr.succ td {
+  background-color: #dff0d8;
+}
+
+.table-striped tbody tr.succ:nth-child(odd) td,
+.table-striped tbody tr.succ:nth-child(odd) th {
+  background-color: #e2f4dd;
+}
+
+.table tbody tr.succInList td {
+  background-color: #efefec;
+}
+
+.table-striped tbody tr.succInList:nth-child(odd) td,
+.table-striped tbody tr.succInList:nth-child(odd) th {
+  background-color: #f8f8f8;
+}
+
+.table-striped tbody tr.danger:nth-child(odd) td,
+.table-striped tbody tr.danger:nth-child(odd) th {
+  background-color: #f5e4e4;
+}
+
+
+.table tbody tr.almost td {
+  background-color: #eeee95;
+}
+
+
+
+
+
+.summaryheader {
+	font-weight: bold;
+}

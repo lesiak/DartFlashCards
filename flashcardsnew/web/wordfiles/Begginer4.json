@@ -1,0 +1,103 @@
+[
+
+
+{ "en": "clean",       "fi": "puhdas",    "fr": "propre",    "es": "limpio",   "ko": "깨끗하다"},
+{ "en": "dirty",       "fi": "likainen" , "fr": "sale",      "es": "sucio",   "ko": "더럽다"},
+
+{ "en": "put",         "fi": "panna",     "fr": "placer, mettre",  "ko": " 두다" },
+{ "en": "to give",     "fi": "antaa",     "fr": "donner",     "es": "dar",       "ko": "주다" },
+{ "en": "to receive",  "fi": "saada",     "fr": "recevoir",   "es": "recibir",   "ko": "받다" },
+{ "en": "to borrow",   "fi": "lainata, ottaa lainaksi",    "fr": "emprunter", "es": "pedir prestado, tomar prestado", "ko": "빌리다" },
+{ "en": "to lend",     "fi": "lainata, antaa lainaksi",    "fr": "prêter",    "es": "prestar", "ko": "빌려주다" },
+{ "en": "gift (present)",  "fi": "lahja",    "fr": "cadeau",  "es": "(el) regalo",    "ko": "선물" },
+
+
+{ "en": "joyful",        "ko": "즐겁다",          "fi": "iloinen",    "fr": "joyeux" },
+
+{ "en": "to open",       "fi": "avata",   "fr": "ouvrir",    "es": "abrir",   "ko": "열다" },
+{ "en": "open",          "fi": "auki",    "fr": "ouvert",    "es": "abierto", "ko": "열다" },
+{ "en": "to close",      "fi": "sulkea",  "fr": "fermer",    "es": "cerrar", "ko": "닫다" },
+{ "en": "closed",        "fi": "suljettu, kiinni",    "fr": "fermé", "es": "cerrado",  "ko": "" },
+
+{ "en": "difficult",     "fi": "vaikea",  "fr": "difficile", "es": "difícil", "ko": "어렵다" },
+{ "en": "easy",          "fi": "helppo",  "fr": "facile",    "es": "fácil",   "ko": "쉽다" },
+
+
+{ "en": "important",     "fi": "tärkeä",  "fr": "important", "es": "importante",    "ko": "중요하다" },
+{ "en": "popular",       "fi": "suosittu","fr": "populaire", "es": "popular", "ko": "인기 있는, 유명한" },
+{ "en": "popularity",    "fi": "suosio",  "fr": "popularité","es": "(la) popularidad",  "ko": "인기" },
+{ "en": "favorite",      "fi": "suosikki","fr": "favori, préféré", "es": "favorito", "ko": "" },
+
+{ "en": "nice",        "ko": "",          "fi": "kiva, mukava",       "fr": "agréable" },
+{ "en": "pleasant",    "ko": "",          "fi": "miellyttävä, mukava","fr": "agréable" },
+{ "en": "comfortable", "ko": "",            "fi": "mukava",             "fr": "confortable" },
+
+
+{ "en": "useful",       "ko": "",          "fi": "hyödyllinen", "fr": "utile" },
+{ "en": "handy",        "ko": "",          "fi": "kätevä",      "fr": "maniable, pratique" },
+
+{ "en": "rise",        "ko": "오르다",          "fi": "nousta",    "fr": "augmenter" },
+{ "en": "significantly",        "ko": "크게",          "fi": "merkittävästi",    "fr": "significativement" },
+{ "en": "advertisment",        "ko": "광고",          "fi": "mainos",    "fr": "publicité" },
+
+
+{ "en": "to seem",        "fi": "näyttää, tuntua",    "fr": "paraître, sembler",   "es": "parecer",  "ko": "" },
+
+{ "en": "same",           "fi": "samanlainen",    "fr": "même",   "es": "mismo",  "ko": "같다" },
+{ "en": "similar",        "fi": "samanlainen",    "fr": "similaire, semblable", "es": "parecido (a), similar",  "ko": "비슷하다" },
+{ "en": "different",        "ko": "다르다, 다른",          "fi": "eri, erilainen",    "fr": "différent, autre" },
+{ "en": "to resemble",        "ko": "닮다",          "fi": "muistuttaa",    "fr": "ressembler à" },
+{ "en": "to compare",        "ko": "비교하다, (~에) 필적하다",          "fi": "verrata (part + ill), vertailla",    "fr": "comparer" },
+{ "en": "comparison",        "ko": "비교",          "fi": "vertailu",    "fr": "comparaison" },
+
+{ "en": "relation",             "ko": "관계",       "fi": "suhde",    "fr":"relation, rapport"},
+{ "en": "relative",             "ko": "상대적인",   "fi": "suhteellinen",    "fr":"relatif"},
+{ "en": "ratio, proportion",    "ko": "비율",       "fi": "suhde",    "fr": "rapport, ratio" },
+
+
+{ "en": "other",        "ko": "다른",     "fi": "muu",           "fr": "autre" },
+{ "en": "only",         "fi": "vain",      "fr": "seulement",     "es": "sólo",    "ko": "만" },
+
+
+
+{ "en": "become",        "ko": "되다",    "fi": "tulla",          "fr": "devenir" },
+{ "en": "beginning (noun)", "ko": "처음", "fi": "alku",           "fr": "début" },
+
+{ "en": "last",        "ko": "마지막",          "fi": "viime",    "fr": "dernier" },
+
+
+{ "en": "to help",     "fi": "auttaa",      "fr": "aider",         "es": "ayudar",      "ko": "돕다" },
+{ "en": "help",        "fi": "apu, ohje",   "fr": "aide, secours", "es": "(la) ayuda",  "ko": "도움" },
+
+{ "en": "to lie",      "fi": "valehdella",  "fr": "mentir",        "es": "mentir",      "ko": "거짓말하다" },
+{ "en": "lie",         "fi": "valhe",       "fr": "mensonge",      "es": "mentira",     "ko": "거짓말" },
+{ "en": "a secret",    "fi": "salaisuus",   "fr": "secret",        "es": "(el) secreto","ko": "비밀"},
+{ "en": "secret",      "fi": "salainen",    "fr": "secret",        "es": "secreto",     "ko": "비밀"},
+
+{ "en": "fact",        "fi": "tosiasia",    "fr": "fait, vérité",  "es": "(el) hecho", "ko": "사실" },
+{ "en": "joke",        "fi": "vitsi",       "fr": "blague",        "es": "(la) broma", "ko": "농담" },
+
+{ "en": "meaning",         "fi": "merkitys, tarkoitus", "fr": "sens, signification", "ko": "의미, 뜻" },
+{ "en": "purpose",         "fi": "tarkoitus",          "fr": "but, intention", "ko": "목적" },
+    
+{ "en": "to consider",     "fi": "harkita",           "fr": "envisager, considérer",   "es": "considerar", "ko": "고려하다" },
+{ "en": "believe",         "fi": "uskoa (siihen)",    "fr": "croire",                  "es": "creer",  "ko": "믿다" },
+{ "en": "to expect",       "fi": "odottaa",    "fr": "attendre", "ko": "예상하다, 기대하다" },
+{ "en": "to intend",       "ko": "",       "fi": "aikoa",    "fr": "avoir l'intention" },
+
+
+
+
+{ "en": "to forbid",       "fi": "kieltää",    "fr": "interdire",   "es": "prohibir", "ko": "금하다" },
+
+{ "en": "to be used, be utilized",       "ko": "쓰이다",       "fi": "",    "fr": "" },
+{ "en": "event",           "fi": "tapahtuma",  "fr": "événement",   "ko": "행사" },
+{ "en": "situation",       "fi": "tilanne",    "fr": "situation",   "es": "(la) situación",      "ko": "?" },
+{ "en": "knowledge",       "fi": "tieto",      "fr": "connaissance","es": "(el) conocimiento",   "ko": "지식" },
+
+  
+{ "en": "empty",           "fi": "tyhjä",      "fr": "vide",        "es": "vacío",     "ko": "비다" },
+{ "en": "vacant",          "fi": "vapaa",      "fr": "vacant",      "es": "vacante",   "ko": "비다" }
+
+]
+        

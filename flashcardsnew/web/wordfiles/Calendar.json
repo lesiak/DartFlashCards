@@ -1,0 +1,35 @@
+[
+
+
+{ "en": "Monday",      "fi": "maanantai",   "fr": "lundi",      "es": "(el) lunes",       "ko": "월요일" },
+{ "en": "Tuesday",     "fi": "tiistai",     "fr": "mardi",      "es": "(el) martes",      "ko": "화요일" },
+{ "en": "Wednesday",   "fi": "keskiviikko", "fr": "mercredi",   "es": "(el) miércoles",   "ko": "수요일" },
+{ "en": "Thursday",    "fi": "torstai",     "fr": "jeudi",      "es": "(el) jueves",      "ko": "목요일" },
+{ "en": "Friday",      "fi": "perjantai",   "fr": "vendredi",   "es": "(el) viernes",     "ko": "금요일" },
+{ "en": "Saturday",    "fi": "lauantai",    "fr": "samedi",     "es": "(el) sábado",      "ko": "토요일" },
+{ "en": "Sunday",      "fi": "sunnuntai",   "fr": "dimanche",   "es": "(el) domingo",     "ko": "일요일" },
+
+{ "en": "winter",     "fi": "talvi",        "fr": "hiver",      "es": "(el) invierno",    "ko": "겨울" },
+{ "en": "spring",     "fi": "kevät",        "fr": "printemps",  "es": "(la) primavera",   "ko": "봄" },
+{ "en": "summer",     "fi": "kesä",         "fr": "été",        "es": "(el) verano",      "ko": "여름" },
+{ "en": "autumn",     "fi": "syksy",        "fr": "automne",    "es": "(el) otoño",       "ko": "가을" },
+
+{ "en": "January",    "fi": "tammikuu",     "fr": "janvier",    "es": "(el) enero",       "ko": "일월" },
+{ "en": "February",   "fi": "helmikuu",     "fr": "février",    "es": "(el) febrero",     "ko": "이월" },
+{ "en": "March",      "fi": "maaliskuu",    "fr": "mars",       "es": "(el) marzo",       "ko": "삼월" },
+{ "en": "April",      "fi": "huhtikuu",     "fr": "avril",      "es": "(el) abril",       "ko": "사월" },
+{ "en": "May",        "fi": "toukokuu",     "fr": "mai",        "es": "(el) mayo",        "ko": "오월" },
+{ "en": "June",       "fi": "kesäkuu",      "fr": "juin",       "es": "(el) junio",       "ko": "유월" },
+{ "en": "July",       "fi": "heinäkuu",     "fr": "juillet",    "es": "(el) julio",       "ko": "칠월" },
+{ "en": "August",     "fi": "elokuu",       "fr": "août",       "es": "(el) agosto",      "ko": "팔월" },
+{ "en": "September",  "fi": "syyskuu",      "fr": "septembre",  "es": "(el) septiembre",  "ko": "구월" },
+{ "en": "October",    "fi": "lokakuu",      "fr": "octobre",    "es": "(el) octubre",     "ko": "십월" },
+{ "en": "November",   "fi": "marraskuu",    "fr": "novembre",   "es": "(el) noviembre",   "ko": "십일월" },
+{ "en": "December",   "fi": "joulukuu",     "fr": "décembre",   "es": "(el) diciembre",   "ko": "십이 월" },
+
+{ "en": "calendar",     "ko": "달력 (month + calendar)",         "fi": "kalenteri",          "fr": "calendrier" },
+
+
+{ "en": "future",     "ko": "미래",         "fi": "tulevaisuus",          "fr": "avenir" },
+{ "en": "past",     "ko": "과거",         "fi": "menneisyys",          "fr": "passé" }
+]
