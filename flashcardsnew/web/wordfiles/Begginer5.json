@@ -62,6 +62,8 @@
 { "en": "special",         "ko": "특별한",       "fi": "erityinen, erikoinen",          "fr": "spéciale" },
 { "en": "private",       "ko": "",    "fi": "yksityinen",    "fr":"privé"},
 
+{ "en": "passage (between buildings, underground)",      "fi": "",   "fr": "",   "es": "(el) pasaje", "ko": ""},
+{ "en": "passage (way through)",      "fi": "",   "fr": "",   "es": "(el) paso", "ko": ""},
 
 { "en": "criticize, reproach",  "ko": "비난하다 (blame + blame)",          "fi": "arvostella",    "fr": "critiquer" },
 { "en": "criticize",            "ko": "비판하다 (blame + judge)",          "fi": "arvostella",    "fr": "critiquer" },

@@ -3,10 +3,10 @@
 { "en": "nature",      "ko": "자연",         "fi": "luonto" ,     "fr":"nature"},
 { "en": "natural",     "ko": "",             "fi": "luonnollinen", "fr":"naturel"},
 { "en": "environment", "ko": "",             "fi": "ympäristö" ,   "fr":"environnement"},
-{ "en": "protection",  "fi": "suojelu" ,     "fr":"protection, sauvegarde",  "ko": "보호"},
-{ "en": "to protect",  "fi": "suojella" ,    "fr":"protéger",  "ko": "보호하다"},
-{ "en": "valley",      "fi": "laakso" ,      "fr":"vallée",   "es": "(el) valle","ko": "골짜기, 계곡"},
-{ "en": "ocean",       "fi": "valtameri",    "fr":"océan",   "ko": "대양, 해양"},
+{ "en": "protection",  "fi": "suojelu" ,     "fr": "protection, sauvegarde",  "ko": "보호"},
+{ "en": "to protect",  "fi": "suojella" ,    "fr": "protéger",  "ko": "보호하다"},
+{ "en": "valley",      "fi": "laakso" ,      "fr": "vallée",   "es": "(el) valle","ko": "골짜기, 계곡"},
+{ "en": "ocean",       "fi": "valtameri",    "fr": "océan",    "fr": "(el) océano",  "ko": "대양, 해양"},
 
 
   

@@ -62,7 +62,7 @@
 { "en": "near",         "fi": "lähellä",     "fr": "près de",  "es": "cerca de",   "ko": "가깝다" },
 
 { "en": "wide",         "fi": "leveä",       "fr": "large",    "es": "ancho",  "ko": "넓다" },
-{ "en": "narrow",       "fi": "kapea",       "fr": "étroit",   "es": "angosto, estrecho",  "ko": "좁다" },
+{ "en": "narrow",       "fi": "kapea",       "fr": "étroit",   "es": "estrecho (+street, passage, room, stairs), angosto (+bed, channel, face)",  "ko": "좁다" },
 
 { "en": "thin",         "ko": "얇다",       "fi": "ohut",          "fr": "mince" },
 { "en": "thick",         "ko": "두껍다",       "fi": "paksu",          "fr": "mince" },

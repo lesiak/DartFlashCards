@@ -19,7 +19,7 @@
 { "en": "forget",      "fi": "unohtaa",       "fr": "oublier", "es": "olvidar",   "ko": "" },
 
 { "en": "recommend",   "ko": "추천하다",   "fi": "suositella",    "fr": "recommander" },
-{ "en": "idea",        "ko": "아이디어",   "fi": "idea",          "fr": "idée" },
+{ "en": "idea",        "fi": "idea",      "fr": "idée",      "es": "(la) idea", "ko": "아이디어" },
 
 { "en": "to try",      "fi": "yrittää",   "fr": "essayer",   "es": "intentar", "ko": ""},
 

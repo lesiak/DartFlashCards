@@ -1,0 +1,65 @@
+[
+
+{ "en": "morning",   "fi": "aamu",       "fr": "matin",     "es": "(la) mañana", "ko": "아침" },
+{ "en": "noon",      "fi": "keskipäivä", "fr": "midi",      "es": "(el) mediodía",  "ko": "정오" },
+{ "en": "afternoon", "fi": "iltapäivä",  "fr": "après-midi","es": "(la) tarde",  "ko": "오후에" },
+{ "en": "evening",   "fi": "ilta",       "fr": "soir",      "es": "(la) tarde",  "ko": "저녁" },
+{ "en": "night",     "fi": "yö",         "fr": "nuit",      "es": "(la) noche",  "ko": "밤" },
+
+
+{ "en": "after",     "fi": "jälkeen",    "fr": "après",    "es": "después",      "ko": "후" },
+{ "en": "before",    "fi": "ennen",      "fr": "avant",    "es": "antes",       "ko": "전에" },
+
+{ "en": "yet",       "fi": "vielä",      "fr": "encore",   "ko": "아직" },
+{ "en": "still",     "fi": "vielä",      "fr": "encore",       "es": "todavía, aún",   "ko": ""},
+
+{ "en": "later",     "fi": "myöhemmin",  "fr": "plus tard, ensuite",  "es": "más tarde, luego",  "ko": "나중에" },
+{ "en": "already",   "fi": "jo",         "fr": "déjà",                "es": "ya" ,        "ko": "벌써, 이미" },
+{ "en": "immediately","fi": "heti",      "fr": "immédiatement",       "es": "inmediatamente" , "ko": "금방" },
+{ "en": "soon",       "fi": "pain",      "fr": "bientôt",             "es": "pronto" , "ko": "" },
+
+{ "en": "always",     "fi": "aina",      "fr": "toujours",  "es": "siempre",   "ko": "항상, 늘, 언제나" },
+{ "en": "never",      "fi": "ei koskaan","fr": "jamais",    "es": "nunca",    "ko": "" },
+{ "en": "again",      "fi": "taas, uudelleen, jälleen",  "fr": "de nouveau, encore",  "es": "otra vez, de nuevo", "ko": "다시, 또" },
+{ "en": "now",        "fi": "nyt",       "fr": "maintenant", "es": "ahora",  "ko": "지금" },
+{ "en": "today",      "fi": "tänään",    "fr": "aujourd'hui","es": "hoy",    "ko": "오늘" },
+{ "en": "tomorrow",   "fi": "huomenna",  "fr": "demain",     "es": "mañana", "ko": "내일" },
+{ "en": "yesterday",  "fi": "eilen",     "fr": "hier",       "es": "ayer",   "ko": "어제"},
+{ "en": "often",      "fi": "usein",     "fr": "souvent",       "es": "",   "ko": "자주"},
+
+
+
+{ "en": "clock",       "fi": "kello",       "fr": "horloge",       "es": "(el) reloj",     "ko": "" },
+{ "en": "time",        "fi": "aika",        "fr": "temps",         "es": "(el) tiempo",    "ko": "" },
+{ "en": "second",      "fi": "sekunti",     "fr": "seconde",       "es": "(el) segundo",   "ko": "" },
+{ "en": "minute",      "fi": "minuutti",    "fr": "minute",        "es": "(el) minuto",    "ko": "분" },  
+{ "en": "hour",        "fi": "tunti",       "fr": "heure",         "es": "(la) hora",      "ko": "시간" }, 
+{ "en": "half an hour","fi": "puoli tuntia","fr": "demi-heure",    "es": "(la) media hora",      "ko": "" },
+{ "en": "day",         "fi": "päivä",       "fr": "jour",          "es": "(el) día",       "ko": "일" },
+{ "en": "week",        "fi": "viikko",      "fr": "semaine",       "es": "(la) semana",    "ko": "주" },
+{ "en": "year",        "fi": "vuosi",       "fr": "année",         "es": "(el) año",       "ko": "년" },
+{ "en": "last year",   "fi": "viime vuonna","fr": "année dernière","es": "el año pasado" , "ko": "작년" },
+{ "en": "this year",   "fi": "tänä vuonna", "fr": "cette année",   "ko": "올해" },
+
+{ "en": "in one hour", "fi": "",            "fr": "",              "es": "en una hora",   "ko": ""},
+
+{ "en": "late",        "fi": "myöhässä",    "fr": "tard",          "es": "tarde", "ko": "늦다" },
+{ "en": "early",       "fi": "aikaisin",    "fr": "tôt",           "es": "temprano", "ko": "" },
+
+{ "en": "next",         "ko": " 다음",   "fi": "seuraava, ensi",    "fr": "suivant" },
+{ "en": "previous",     "ko": "이전",    "fi": "edellinen" , "fr":"précédent"},
+
+{ "en": "the day after tomorrow",        "ko": "모레",          "fi": "ylihuomenna",    "fr": "après-demain" },
+{ "en": "last night",   "fi": "viime yönä",    "fr": "la nuit dernière",  "es": "anoche",  "ko": " 어젯밤" },
+
+ 
+
+
+{ "en": "awhile",        "ko": "잠깐",          "fi": "hetken",    "fr": "" },
+{ "en": "first (adv, in time or sequence)",        "ko": "먼저",          "fi": "",    "fr": "" },
+{ "en": "recently",        "ko": "최근에",          "fi": "äskettäin",    "fr": "récemment" }
+
+
+
+
+]

@@ -54,7 +54,7 @@
 { "en": "relative",             "ko": "상대적인",   "fi": "suhteellinen",    "fr":"relatif"},
 { "en": "ratio, proportion",    "ko": "비율",       "fi": "suhde",    "fr": "rapport, ratio" },
 
-
+{ "en": "side",           "fi": "puoli",    "fr": "côté",   "es": "(el) lado",  "ko": "" },
 { "en": "other",        "ko": "다른",     "fi": "muu",           "fr": "autre" },
 { "en": "only",         "fi": "vain",      "fr": "seulement",     "es": "sólo",    "ko": "만" },
 

@@ -15,13 +15,13 @@
 { "en": "road",       "fi": "tie" ,      "fr":"route",      "es": "(el) camino, (la) carretera",    "ko": "길"},
 { "en": "street",     "fi": "katu" ,     "fr":"rue",        "es": "(la) calle",    "ko": "거리"},
 { "en": "avenue",     "fi": "katu" ,     "fr":"rue",        "es": "(la) avenida",    "ko": ""},
-{ "en": "alley, backstreet", "fi": "kuja", "fr":"ruelle",   "es": "",    "ko": "골목"},
-{ "en": "(street) corner",  "fi": "kadunkulma", "fr":"coin",   "es": "(la) esquina",    "ko": "골목"},
+{ "en": "alley, backstreet", "fi": "kuja", "fr":"ruelle",   "es": "(el) callejón",    "ko": "골목"},
+{ "en": "(street) corner",  "fi": "kadunkulma", "fr":"coin","es": "(la) esquina",    "ko": "골목"},
 
 { "en": "bakery",     "fi": "leipomo" ,  "fr":"boulangerie","es": "(la) panadería",  "ko": "빵집"},
 
 { "en": "to build",   "fi": "rakentaa",  "fr":"construire", "es": "construir",     "ko": "건조하다"},
-{ "en": "dry",        "fi": "" ,   "fr":"", "ko": "건조하다"},
+
 { "en": "architecture", "fi": "arkkitehtuuri" , "fr":"architecture",  "es": "(la) arquitectura", "ko": " 건축학"},
 { "en": "architect",    "fi": "arkkitehti" ,    "fr":"architecte",    "es": "(el) arquitecto",   "ko": " 건축가"},
 { "en": "bank",         "fi": "pankki" ,        "fr":"banque",        "es": "(el) banco",         "ko": " 은행"},

@@ -1,15 +1,13 @@
 [
 
-{ "en": "state",        "ko": "",          "fi": "valtio",    "fr": "état" },
-{ "en": "president",        "ko": "대통령 (great + command + govern)",          "fi": "presidentti",    "fr": "président" },
-{ "en": "government",        "ko": "정부",          "fi": "hallitus",    "fr": "gouvernement" },
-{ "en": "authorities",        "ko": "당국",          "fi": "viranomaiset",    "fr": "autorités" },
-{ "en": "delegate",        "ko": "대리자",          "fi": "edustaja",    "fr": "délégué" },
+{ "en": "state (country, administrative region)",         "fi": "valtio",         "fr": "état",  "es": "(el) estado", "ko": "" },
+{ "en": "president",     "fi": "presidentti",    "fr": "président",  "ko": "대통령 (great + command + govern)" },
+{ "en": "government",    "fi": "hallitus",       "fr": "gouvernement", "es": "(el) gobierno",  "ko": "정부" },
+{ "en": "authorities",   "fi": "viranomaiset",   "fr": "autorités",    "es": "(las) autoridades",    "ko": "당국" },
+{ "en": "delegate",      "fi": "edustaja",       "fr": "délégué", "ko": "대리자" },
 
-{ "en": "delegate",        "ko": "대리자",          "fi": "edustaja",    "fr": "délégué" },
-
-{ "en": "to negotiate",        "ko": "",          "fi": "neuvotella",    "fr": "négocier" },
-{ "en": "negotiation",        "ko": "",          "fi": "neuvottelu",    "fr": "négociation" },
+{ "en": "to negotiate",    "fi": "neuvotella",    "fr": "négocier",    "es": "negociar", "ko": "" },
+{ "en": "negotiation",     "fi": "neuvottelu",    "fr": "négociation", "es": "(la) negociación",    "ko": "" },
 
 
 
