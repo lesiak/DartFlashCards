@@ -15,10 +15,10 @@
 
 { "en": "table",       "fi": "pöytä",      "fr": "table",        "es": "(la) mesa",   "ko": "책상" },
 
-{ "en": "(reading) desk", "fi": "kirjoituspöytä", "fr": "pupitre",           "es": "(el) escritorio",           "ko": "책상" },
-{ "en": "bed",         "fi": "sänky, vuode",      "fr": "lit",               "es": "(la) cama",  "hu": "ágy",    "ko": "침대 (sleep + stage)" },
+{ "en": "(reading) desk", "fi": "kirjoituspöytä", "fr": "pupitre",   "es": "(el) escritorio",           "ko": "책상" },
+{ "en": "bed",         "fi": "sänky, vuode",      "fr": "lit",       "es": "(la) cama",  "hu": "ágy",    "ko": "침대 (sleep + stage)" },
 { "en": "bedroom",     "fi": "makuuhuone",        "fr": "chambre à coucher", "es": "(el) dormitorio",                 "ko": "침실 (sleep + room)" },
-
+{ "en": "pillow",      "fi": "tyyny",      "fr": "oreiller",      "es": "(la) almohada",  "ko": " 베개" },
 { "en": "blanket",     "fi": "viltti",     "fr": "couverture", "ko": "담요" },
 { "en": "carpet",      "fi": "matto",      "fr": "tapis",      "es": "(la) alfombra",   "hu": "szőnyeg", "ko": "양탄자" },
 { "en": "curtain",     "fi": "verho",      "fr": "rideau",     "es": "(la) cortina",    "hu": "függöny", "ko": "커튼" },
@@ -57,10 +57,9 @@
 { "en": "tap",         "fi": "hana",       "fr": "robinet", "ko": " " },
 
 
-{ "en": "pillow",      "fi": "tyyny",      "fr": "oreiller",      "es": "(la) almohada",  "ko": " 베개" },
 { "en": "comb",        "fi": "kampa",      "fr": "peigne",        "es": "(el) peine",  "ko": " 빗" },
 { "en": "shaving",     "fi": "parranajo",  "fr": "rasage",        "es": "(el) afeitado",  "ko": "면도"           },
-{ "en": "razor",       "fi": "partakone",  "fr": "rasoir",        "ko": "면도칼"        },
+{ "en": "razor",       "fi": "partakone",  "fr": "rasoir",        "es": "(la) navaja, (la) maquinilla de afeitar",    "ko": "면도칼"        },
 
 { "en": "kitchen",     "fi": "keittiö",    "fr": "cuisine",       "es": "(la) cocina",  "ko": " 부엌" },
 
@@ -70,8 +69,8 @@
 
 { "en": "to make the bed",       "ko": "",       "fi": "pedata sänky, sijata vuode",    "fr": "" },
 { "en": "to clean",       "ko": "",       "fi": "puhdistaa, siivota",    "fr": "nettoyer" },
-{ "en": "to wash",       "ko": "씻다",       "fi": "pestä, tiskata, pyykätä",    "fr": "laver" },
-{ "en": "to wipe",       "ko": "닦음",       "fi": "pyyhkiä",    "fr": "essuyer" },
+{ "en": "to wash",        "fi": "pestä, tiskata, pyykätä",    "fr": "laver",    "ko": "씻다" },
+{ "en": "to wipe",        "fi": "pyyhkiä",    "fr": "essuyer",  "ko": "닦음" },
 { "en": "to sweep",       "ko": "",       "fi": "lakaista",    "fr": "balayer" },
 
 { "en": "broom",       "ko": "",       "fi": "harja, luuta",    "fr": "balai" },
@@ -79,21 +78,21 @@
 { "en": "dust pan",       "ko": "",       "fi": "rikkalapio",    "fr": "pelle (f)" },
 { "en": "vacuum cleaner", "ko": "진공 청소기","fi": "pölynimuri",    "fr": "aspirateur" },
 
-{ "en": "to iron",       "ko": "",            "fi": "silittää",    "fr": "repasser" },
-{ "en": "iron (for clothes)",       "ko": "", "fi": "silitysrauta",    "fr": "fer à repasser" },
+{ "en": "to iron",             "fi": "silittää",        "fr": "repasser",        "es": "planchar",  "ko": "" },
+{ "en": "iron (for clothes)",  "fi": "silitysrauta",    "fr": "fer à repasser" , "es": "(la) plancha",  "ko": "" },
 
 
-{ "en": "breakfast",     "ko": "아침",       "fi": "aamiainen",    "fr": "petit déjeuner" },
-{ "en": "lunch",         "ko": "점심",       "fi": "lounas",       "fr": "déjeuner" },
-{ "en": "dinner",        "ko": "저녁",       "fi": "päivällinen",  "fr": "dîner" },
+{ "en": "breakfast",     "fi": "aamiainen",    "fr": "petit déjeuner",   "es": "(el) desayuno",    "ko": "아침" },
+{ "en": "lunch",         "fi": "lounas",       "fr": "déjeuner",         "es": "(el) almuerzo",    "ko": "점심" },
+{ "en": "dinner",        "fi": "päivällinen",  "fr": "dîner",            "es": "(la) cena",    "ko": "저녁" },
 
-{ "en": "rubbish",       "ko": "쓰레기",     "fi": "roska" ,       "fr":"déchets"},
+{ "en": "rubbish",       "fi": "roska" ,       "fr":"déchets",         "ko": "쓰레기"},
 { "en": "recycling",     "ko": "",            "fi": "kierrätys" ,   "fr":""},
 
 
 
 { "en": "corner",        "ko": "구석, 모서리", "fi": "nurkka, kulma",  "fr": "coin (m)" },
 
-{ "en": "cellar",        "ko": "지하실",    "fi": "kellari",  "fr": "cave, cellier" }
+{ "en": "cellar",        "fi": "kellari",  "fr": "cave, cellier",   "ko": "지하실" }
 
 ]
