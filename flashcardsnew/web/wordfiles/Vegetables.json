@@ -1,0 +1,28 @@
+[
+
+{ "en": "garlic",       "fi": "valkosipuli",  "fr": "ail",           "es": "(el) ajo",      "ko": "마늘" },
+{ "en": "cucumber",     "fi": "kurkku",       "fr": "concombre",     "es": "(el) pepino",   "ko": "오이" },
+{ "en": "carrot",       "fi": "porkkana",     "fr": "carotte",       "es": "(la) zanahoria","ko": "당근" },
+{ "en": "aubergine",    "fi": "munakoiso",    "fr": "aubergine",     "es": "(la) berenjena","ko": "가지" },
+{ "en": "potato",       "fi": "peruna",       "fr": "pomme de terre","es": "(la) patata",   "ko": "감자" },
+
+{ "en": "pumpkin",      "fi": "kurpitsa",     "fr": "citrouille",    "es": "(la) calabaza",  "ko": "호박" },
+{ "en": "courgette",    "fi": "kesäkurpitsa", "fr": "courgette",     "es": "(el) calabacín", "ko": "서양 호박" },
+{ "en": "avocado",      "fi": "avokado",      "fr": "avocat",        "es": "(el) aguacate",  "ko": "아보카도" },
+
+{ "en": "cabbage",      "fi": "kaali",        "fr": "chou",          "es": "(el) repollo",   "ko": "양배추" },
+{ "en": "cauliflower",  "fi": "kukkakaali",   "fr": "chou-fleur",    "es": "(la) coliflor",  "ko": "콜리 플라워" },
+{ "en": "broccoli",     "fi": "parsakaali",   "fr": "brocoli",       "es": "(el) brócoli",   "ko": "브로콜리" },
+{ "en": "spinach",      "fi": "pinaatti",     "fr": "épinards",      "es": "(la) espinaca",  "ko": "시금치" },
+{ "en": "bell pepper",  "fi": "paprika",      "fr": "poivron",       "es": "(el) pimiento",  "ko": "피망" },
+{ "en": "lettuce",      "fi": "lehtisalaatti","fr": "laitue",        "es": "(la) lechuga",   "ko": "상추" },
+
+{ "en": "mushroom",     "fi": "sieni",        "fr": "champignon",  "ko": "버섯" },
+{ "en": "onion",        "fi": "sipuli",       "fr": "oignon",    "es": "(la) cebolla",    "ko": "양파 (the West + Welsh onion)" },
+
+
+{ "en": "hot pepper", "fi": "kuuma pippuria", "fr": "piment",                  "ko": "고추" }
+
+
+
+]

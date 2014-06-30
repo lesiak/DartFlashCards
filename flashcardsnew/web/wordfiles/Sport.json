@@ -1,5 +1,5 @@
 [
-{ "en": "hobby",       "fi": "mieliharrastus","fr": "hobby",    "ko": "취미" },
+{ "en": "hobby",       "fi": "mieliharrastus","fr": "hobby",    "es": "(el) pasatiempo, (el) hobby", "ko": "취미" },
 { "en": "sport",       "fi": "urheilu",       "fr": "sport",    "es": "(el) deporte", "ko": "스포츠" },
 
 { "en": "football",    "fi": "jalkapallo",  "fr": "football",   "es": "(el) fútbol",     "ko": "축구 (kick + ball)" },

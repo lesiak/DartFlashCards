@@ -76,10 +76,20 @@ class DictionaryPanelElement extends PolymerElement {
     if (searchTerm.length < 2) {     
       matchingCards.clear();  
     } else {
-      var filtered = allCards.where(isCardMatching);      
+      var filtered = allCards.where(isCardMatching);
+      //sortCards(filtered.toList());
       matchingCards = toObservable(filtered.toList());
     }
   }
+  
+  /*Iterable<DictionaryTableRow> sortCards(List<DictionaryTableRow> allCards) {
+    int aa = 0;
+    allCards.toList().sort((r1,r2) => {
+      
+    });
+    
+    
+  }*/
   
   
   

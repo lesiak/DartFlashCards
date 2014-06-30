@@ -21,20 +21,7 @@
 { "en": "juice",        "fi": "mehu",       "fr": "jus",           "es": "(el) zumo",     "ko": "주스" },
 
 { "en": "cheese",       "fi": "juusto",     "fr": "fromage",       "es": "(el) queso",    "ko": "치즈" },
-{ "en": "cucumber",     "fi": "kurkku",     "fr": "concombre",     "es": "(el) pepino",   "ko": "오이" },
-{ "en": "carrot",       "fi": "porkkana",   "fr": "carotte",       "es": "(la) zanahoria","ko": "당근" },
-{ "en": "aubergine",    "fi": "munakoiso",  "fr": "aubergine",     "es": "(la) berenjena","ko": "가지" },
-{ "en": "potato",       "fi": "peruna",     "fr": "pomme de terre","es": "(la) patata", "ko": "감자" },
 { "en": "french fries", "fi": "ranskalaiset" , "fr":"","ko": "감자튀김"},
-
-{ "en": "pumpkin",      "fi": "kurpitsa",   "fr": "citrouille",    "es": "(la) calabaza",  "ko": "호박" },
-{ "en": "butternut squash",       "ko": "",         "fi": "myskikurpitsa",    "fr": "courge musquée, doubeurre" },
-
-{ "en": "courgette",      "fi": "kesäkurpitsa","fr": "courgette", "es": "(el) calabacín",  "ko": "서양 호박" },
-
-{ "en": "spinach",        "fi": "pinaatti",     "fr": "épinards",  "es": "(la) espinaca",  "ko": "시금치" },
-{ "en": "bell pepper",    "fi": "paprika",      "fr": "poivron",   "es": "(el) pimiento",  "ko": "피망" },
-{ "en": "lettuce",        "fi": "lehtisalaatti","fr": "laitue",    "es": "(la) lechuga",  "ko": "상추" },
 
 { "en": "mushroom",       "fi": "sieni",     "fr": "champignon",  "ko": "버섯" },
 { "en": "onion",          "fi": "sipuli",    "fr": "oignon",    "es": "(la) cebolla",    "ko": "양파 (the West + Welsh onion)" },

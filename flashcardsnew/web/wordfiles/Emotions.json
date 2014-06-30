@@ -23,9 +23,9 @@
 { "en": "tired",         "fi": "väsynyt",   "fr": "fatigué",   "es": "cansado",  "ko": "피곤한" },
 
 
-{ "en": "to laugh",      "fi": "nauraa",    "fr": "rire",      "es": "reír",  "ko": "웃다" },
-{ "en": "to smile",         "ko": "웃다",       "fi": "hymyillä",          "fr": "sourire" },
-{ "en": "smile",         "ko": "미소",       "fi": "hymy",          "fr": "sourire" },
+{ "en": "to laugh",      "fi": "nauraa",      "fr": "rire",      "es": "reír",  "ko": "웃다" },
+{ "en": "to smile",      "fi": "hymyillä",    "fr": "sourire",   "es": "sourire",    "ko": "웃다" },
+{ "en": "smile",         "fi": "hymy",        "fr": "sourire",   "es": "sonreír",    "ko": "미소" },
 
 
 { "en": "anger",      "fi": "viha",           "fr": "colère",    "es": "(la) ira, (la) cólera", "ko": "분노" },

@@ -18,16 +18,16 @@
 { "en": "remember",    "ko": "기억하다",   "fi": "muistaa",       "fr": "rappeler" },
 { "en": "forget",      "fi": "unohtaa",       "fr": "oublier", "es": "olvidar",   "ko": "" },
 
-{ "en": "recommend",   "ko": "추천하다",   "fi": "suositella",    "fr": "recommander" },
+{ "en": "recommend",   "fi": "suositella",    "fr": "recommander", "es": "recomendar",  "ko": "추천하다" },
 { "en": "idea",        "fi": "idea",      "fr": "idée",      "es": "(la) idea", "ko": "아이디어" },
 
 { "en": "to try",      "fi": "yrittää",   "fr": "essayer",   "es": "intentar", "ko": ""},
 
 
-{ "en": "willingly",  "ko": "기꺼이",    "fi": "mielellään",   "fr":"volontiers"},
+{ "en": "willingly",  "fi": "mielellään",   "fr":"volontiers",  "ko": "기꺼이"},
 
 
-{ "en": "solution",   "ko": "해결",       "fi": "ratkaisu",    "fr": "solution" },
+{ "en": "solution",   "fi": "ratkaisu",    "fr": "solution",  "es": "(la) solución",  "ko": "해결" },
 { "en": "result",     "fi": "tulos",    "fr": "résultat",  "fr": "(el) resultado", "ko": "결과 (finish + result)"},
 
 { "en": "decision",   "ko": "결정 (decide + decide)",    "fi": "päätös" , "fr":"décision"},
@@ -52,8 +52,8 @@
 { "en": "proposition",    "ko": "제안",      "fi": "ehdotus, esitys",    "fr": "proposition" },
 { "en": "to propose",     "ko": "제안하다",  "fi": "ehdottaa, esittää",    "fr": "proposer" },
 
-{ "en": "accept",       "ko": "받아들이다",       "fi": "hyväksyä, suostua",    "fr": "accepter" },
-{ "en": "reject",       "ko": "거절하다",       "fi": "hylätä",    "fr": "rejeter" },
+{ "en": "accept",         "fi": "hyväksyä, suostua", "fr": "accepter",     "es": "aceptar",    "ko": "받아들이다" },
+{ "en": "reject",         "fi": "hylätä",            "fr": "rejeter",  "ko": "거절하다" },
 
 { "en": "handmade",        "fi": "käsintehty",   "fr": "", "es": "hecho a mano",  "ko": "" },
 

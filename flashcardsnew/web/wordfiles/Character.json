@@ -1,9 +1,9 @@
 [
 
-{ "en": "proud",         "fi": "ylpeä",          "fr": "fier",    "ko": "" },
+{ "en": "proud",         "fi": "ylpeä",          "fr": "fier",   "es": "orgulloso",  "ko": "" },
 { "en": "to fear",       "fi": "pelätä (pelkää)","fr":"",  "ko": ""},
-{ "en": "fear",          "fi": "pelko",          "fr": "",   "es": "(el) miedo", "ko": ""},
-{ "en": "coward",        "ko": "",    "fi": "pelkuri",    "fr":""},
+{ "en": "fear",          "fi": "pelko",          "fr": "",             "es": "(el) miedo", "ko": ""},
+{ "en": "coward",        "fi": "pelkuri",        "fr":"",              "es": "(el) cobarde",  "ko": ""},
 { "en": "brave",         "fi": "rohkea",         "fr": "courageux",    "es": "valiente", "ko": "용감한" },
 
 { "en": "clever",        "fi": "nokkela",        "fr": "intelligent", "es": "inteligente",   "ko": "" },
@@ -12,7 +12,7 @@
 { "en": "boring",        "fi": "tylsä",          "fr": "ennuyeux", "es": "aburrido",   "ko": "" },
 { "en": "to get bored",  "fi": "kyllästyä",      "fr": "s'ennuyer","es": "aburrirse",   "ko": "" },
 
-{ "en": "timid",         "ko": "",       "fi": "arka, pelokas",          "fr": "timide" },
+{ "en": "timid",         "fi": "arka, pelokas",          "fr": "timide", "es": "tímido",   "ko": "" },
 { "en": "to be timid",   "ko": "",       "fi": "arastella, arastaa",          "fr": "être timide" },
 { "en": "to hesitate",   "ko": "주저하다",       "fi": "epäröidä",          "fr": "hésiter" },
 
