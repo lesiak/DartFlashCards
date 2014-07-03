@@ -80,7 +80,7 @@
 
 { "en": "to iron",             "fi": "silittää",        "fr": "repasser",        "es": "planchar",  "ko": "" },
 { "en": "iron (for clothes)",  "fi": "silitysrauta",    "fr": "fer à repasser" , "es": "(la) plancha",  "ko": "" },
-
+{ "en": "to get dressed",      "fi": "pukeutua",        "fr": "s'habiller",        "es": "vestirse",  "ko": "" },
 
 { "en": "breakfast",     "fi": "aamiainen",    "fr": "petit déjeuner",   "es": "(el) desayuno",    "ko": "아침" },
 { "en": "lunch",         "fi": "lounas",       "fr": "déjeuner",         "es": "(el) almuerzo",    "ko": "점심" },

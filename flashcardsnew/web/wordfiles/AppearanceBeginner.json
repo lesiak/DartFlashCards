@@ -16,17 +16,21 @@
 { "en": "ugly",        "fi": "ruma",         "fr": "laid, moche",  "es": "feo",      "ko": "추한" },
 
 
-{ "en": "slim, slender",   "fi": "hoikka, laiha",                      "fr": "mince, maigre, svelte",  "es": "delgado",    "ko": "날씬하다, 호리 호리하다"},
-{ "en": "fat",             "fi": "lihava, läski (derogatory), paksu" , "fr": "gros",                   "es": "gordo",  "ko": "뚱뚱하다"},
+{ "en": "slim, slender",   "fi": "hoikka, laiha",      "fr": "mince, maigre, svelte",  "es": "delgado",    "ko": "날씬하다, 호리 호리하다"},
+{ "en": "skinny",          "fi": "luiseva" ,           "fr": "maigre",                 "es": "flaco",  "ko": ""},
+{ "en": "fat",             "fi": "lihava, läski (derogatory), paksu" , "fr": "gros",   "es": "gordo",  "ko": "뚱뚱하다"},
 
+
+{ "en": "good-looking",     "fi": "ylipaino",      "fr": "beau",   "es": "guapo",  "ko": ""},
 { "en": "(one's) figure",   "fi": "hahmo" ,        "fr": "figure", "es": "(la) figura",   "ko": "몸매"  },
 { "en": "a slender figure", "fi": "hoikka hahmo",  "fr":"",   "ko": "날씬한 몸매"},
 { "en": "obesity",          "fi": "liikalihavuus", "fr":"obésité",  "es":"(la) obesidad",  "ko": "비만 (fat + full)"},
-
+{ "en": "(the) overweight", "fi": "ylipaino",      "fr": "embonpoint",   "es": "(el) sobrepeso",  "ko": ""},
 
 { "en": "straight (hair)", "fi": "" , "fr": "",                   "es": "liso",  "ko": ""},
-{ "en": "curly (hair)", "fi": "" , "fr": "",                      "es": "rizado",  "ko": ""}
-
+{ "en": "curly (hair)",    "fi": "" , "fr": "",                      "es": "rizado",  "ko": ""},
+{ "en": "makeup",          "fi": "meikki" ,        "fr": "maquillage",  "es": "(el) maquillaje",  "ko": ""}, 
+{ "en": "style",           "fi": "tyyli" ,        "fr": "style",  "es": "(el) estilo",  "ko": ""}
 
 
 

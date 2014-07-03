@@ -30,6 +30,7 @@
 { "en": "chin",      "fi": "leuka",     "fr": "menton",      "es": "(la) barbilla",           "ko": "턱" },
 { "en": "jaw",       "fi": "leuka",     "fr": "mâchoire",    "es": "(la) mandíbula",          "ko": "턱"},
 { "en": "eyebrow",   "fi": "kulmakarva","fr": "sourcil",     "es": "(la) ceja",               "ko": "눈썹" },
+{ "en": "freckle",   "fi": "pisama, kesakko","fr": "",       "es": "(la) peca",               "ko": "" },
 
 { "en": "to touch",  "fi": "koskea",    "fr": "toucher",     "es": "tocar",       "ko": "대다" },
 { "en": "to raise",  "fi": "",          "fr": "",            "es": "elevar",      "ko": "들다" },
