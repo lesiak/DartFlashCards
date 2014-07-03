@@ -130,8 +130,14 @@ class LearingPanelElement extends PolymerElement {
     try {
       if (cachedForvoResponse != null) {
         print('found $word pronounciation list in localstorage');
-        ForvoResponse r = new ForvoResponse.fromJsonString(lang, word, cachedForvoResponse);      
-        displayPronounciations(r, container, play);
+        try {
+          ForvoResponse r = new ForvoResponse.fromJsonString(lang, word, cachedForvoResponse);      
+          displayPronounciations(r, container, play);
+        } catch(e) {
+          print("BBBBB" + e);
+          window.alert("Unexpecrted excepttion");
+          
+        }
       } 
       else {
         // call the web server asynchronously
@@ -141,9 +147,15 @@ class LearingPanelElement extends PolymerElement {
         
         // String resp = 'TEST_RESP';       
        // onForvoSuccessTest(resp, lang, word, container, play);
+        try {
         pronounciationManager.getForvoPronunciations(lang, word)
         .then((req) => onForvoSuccess(req, lang, word, container, play), 
-          onError: (asyncError) => print(asyncError));              
+          onError: (asyncError) => print(asyncError));
+        } catch(e) {
+                 print("CCC" + e);
+                 window.alert("Unexpecrted excepttion");
+                 
+               }
       }
     } catch(e) {
       print("AAAAAAAAA" + e);
