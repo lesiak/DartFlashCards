@@ -127,41 +127,34 @@ class LearingPanelElement extends PolymerElement {
     
     String cachedForvoResponse = window.localStorage[lang+"/"+word];
     
-    try {
-      if (cachedForvoResponse != null) {
-        print('found $word pronounciation list in localstorage');
-        try {
-          ForvoResponse r = new ForvoResponse.fromJsonString(lang, word, cachedForvoResponse);      
-          displayPronounciations(r, container, play);
-        } catch(e) {
-          print("BBBBB" + e);
-          window.alert("Unexpecrted excepttion");
-          
-        }
-      } 
-      else {
-        // call the web server asynchronously
-        if (play) {
-        print('EEEEEEEEEEEEEEEEEEEEEEEEE Playing sound: ' +word);
-        }      
-        
-        // String resp = 'TEST_RESP';       
-       // onForvoSuccessTest(resp, lang, word, container, play);
-        try {
-        pronounciationManager.getForvoPronunciations(lang, word)
-        .then((req) => onForvoSuccess(req, lang, word, container, play), 
-          onError: (asyncError) => print(asyncError));
-        } catch(e) {
-                 print("CCC" + e);
-                 window.alert("Unexpecrted excepttion");
-                 
-               }
+   
+    if (cachedForvoResponse != null) {
+      print('found $word pronounciation list in localstorage');
+      try {
+        ForvoResponse r = new ForvoResponse.fromJsonString(lang, word, cachedForvoResponse);      
+        displayPronounciations(r, container, play);
+      } catch(e) {
+        print("BBBBB ${e}");
+        window.alert("Unexpecrted excepttion");          
       }
-    } catch(e) {
-      print("AAAAAAAAA" + e);
-      window.alert("Unexpecrted excepttion");
+    } 
+    else {
+      // call the web server asynchronously
+      if (play) {
+       print('Fetching sound: $word');
+      }      
       
+      // String resp = 'TEST_RESP';       
+     // onForvoSuccessTest(resp, lang, word, container, play);
+      
+      pronounciationManager.getForvoPronunciations(lang, word)          
+        .then((req) => onForvoSuccess(req, lang, word, container, play))
+        .catchError((e) {          
+          print("EEE Could not fetch pronunciation ${e}");           
+        });
+              
     }
+   
       
   }
   
