@@ -37,9 +37,9 @@
 
 { "en": "other side",        "ko": "건너편",          "fi": "toinen puoli (toisella puolella)",    "fr": "?" },
 
-{ "en": "bench",            "fi": "penkki",          "fr": "banc", "ko": "벤치" },
+{ "en": "bench",            "fi": "penkki",          "fr": "banc",        "es": "(el) banco",  "ko": "벤치" },
 { "en": "quiet",            "fi": "hiljainen",       "fr": "calme, tranquille", "es": "tranquilo",   "ko": "조용하다" },
-{ "en": "noisy",            "fi": "meluisa",         "fr": "bruyant","ko": "시끄럽하다" },
+{ "en": "noisy",            "fi": "meluisa",         "fr": "bruyant",      "es": "ruidoso",   "ko": "시끄럽하다" },
 
 { "en": "crowd",            "fi": "väkijoukko",      "fr": "foule",   "es": "(la) multitud",   "ko": "" },
 { "en": "crowded",          "fi": "tungosta",        "fr": "",   "es": "lleno (de gente)",   "ko": "" },
@@ -63,7 +63,7 @@
 { "en": "pedestrian crossing", "fi": "suojatie",     "fr": "passage pour piétons", "ko": "횡단 보도" },
 { "en": "traffic lights",   "fi": "liikennevalot",   "fr": "feux de circulation",  "es": "(el) semáforo",  "ko": "" },
 
-{ "en": "traffic",          "fi": "liikenne" ,       "fr": "circulation",           "ko": "교통"},
+{ "en": "traffic",          "fi": "liikenne" ,       "fr": "circulation",    "es": "(el) tráfico",        "ko": "교통"},
 { "en": "street lamp (lamppost)","fi": "lyhtypylväs",   "fr": "lampadaire",  "es": "(la) farola",  "ko": "" },
 { "en": "postbox",          "fi": "postilaatikko",   "fr": "boîte postale",  "es": "(el) buzón",  "ko": "" },
 { "en": "tunnel",           "fi": "tunneli",         "fr": "tunnel",         "es": "(el) túnel",  "ko": "" },

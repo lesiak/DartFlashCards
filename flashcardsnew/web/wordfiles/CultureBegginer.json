@@ -16,7 +16,7 @@
 { "en": "to sing",       "fi": "laulaa",         "fr": "chanter",       "es": "cantar",   "ko": "노래하다" },
 { "en": "song",          "fi": "laulu",          "fr": "chanson",       "es": "(la) canción", "ko": "노래" },
 { "en": "title",         "fi": "nimi",           "fr": "titre",         "es": "(el) título",  "ko": "제목" },
-{ "en": "lyrics",        "fi": "sanoitus",       "fr": "paroles", "ko": "가사" },
+{ "en": "lyrics",        "fi": "sanoitus",       "fr": "paroles",       "es": "(las) letras",  "ko": "가사" },
 { "en": "scenario",      "fi": "skenaario, suunnitelma",          "fr": "scénario", "es": "(el) guión (cine), (el) argumento (teat)",  "ko": "" },
 
 { "en": "sound",         "fi": "ääni",           "fr": "son" ,       "es": "(el) sonido",     "ko": "소리"},
@@ -31,7 +31,7 @@
 { "en": "to queue",      "fi": "jonottaa",       "fr": "",           "es": "hacer cola",      "ko": "" },
 { "en": "ticket (entry)","fi": "",               "fr": "",           "es": "(la) entrada",      "ko": "" },
 { "en": "stamp",         "fi": "",               "fr": "",           "es": "(el) cuño",      "ko": "" },
-{ "en": "sober",         "fi": "",               "fr": "sobre",      "es": "(el) sobrio",      "ko": "" },
+{ "en": "sober",         "fi": "",               "fr": "sobre",      "es": "sobrio",      "ko": "" },
 { "en": "cloakroom",     "fi": "vaatesäilö",     "fr": "vestiaire",  "es": "(el) guardarropa",      "ko": "" },
 
 { "en": "classical",     "fi": "klassinen",     "fr": "classique",   "es": "clásico",    "ko": "음악회, 콘서트" },
