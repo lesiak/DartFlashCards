@@ -59,8 +59,7 @@
 { "en": "to the left",    "fi": "vasemmalle",  "fr": "à gauche",     "es": "a la izquierda",      "ko": "" },
 { "en": "to the right",   "fi": "oikealle",    "fr": "à droite",     "es": "a la derecha",      "ko": "" },
 { "en": "on the corner",  "fi": "kulmassa",    "fr": "",             "es": "en la esquina",      "ko": "" },
-
-{ "en": "a visit",        "fi": "vierailu",    "fr": "visite",  "ko": "방문" },
+{ "en": "a visit",        "fi": "vierailu",    "fr": "visite",       "es": "(la) visita",   "ko": "방문" },
 
 { "en": "class",          "fi": "luokka",    "fr": "", "ko": "등" },
 { "en": "line",           "fi": "linja",     "fr": "ligne","ko": "호선" },
@@ -69,23 +68,23 @@
 { "en": "steering wheel", "fi": "",          "fr": "volant",     "es": "(el) volante",      "ko": "" },
 { "en": "brake",          "fi": "jarru",     "fr": "frein",      "es": "(el) freno",        "ko": "" },
 { "en": "headlight",      "fi": "",          "fr": "phare",      "es": "(el) faro",        "ko": "" },
-{ "en": "blinker",        "fi": "",            "fr": "clignotant", "es": "(el) intermitente",        "ko": "" },
+{ "en": "blinker",        "fi": "",          "fr": "clignotant", "es": "(el) intermitente",        "ko": "" },
 { "en": "rear-view mirror", "fi": "",        "fr": "rétroviseur","es": "(el) retrovisor",        "ko": "" },
 { "en": "seat belt",      "fi": "turvavyö",  "fr": "ceinture de sécurité","es": "(el) cinturón de seguridad",        "ko": "" },
-{ "en": "fasten (seat belt)",  "fi": "",  "fr": "","es": "abrochar",        "ko": "" },
-{ "en": "overtake",  "fi": "",  "fr": "","es": "adelantar",        "ko": "" },
+{ "en": "fasten (seat belt)",  "fi": "",     "fr": "",           "es": "abrochar",        "ko": "" },
+{ "en": "overtake",       "fi": "",          "fr": "",           "es": "adelantar",        "ko": "" },
 { "en": "driving licence",  "fi": "ajokortti",  "fr": "permis de conduire","es": "(el) carnet de conducir",        "ko": "" },
 
 
-{ "en": "complicated",        "ko": "복잡하다",          "fi": "monimutkainen",    "fr": "compliqué" },
+
 { "en": "immediately, right away, right",        "ko": "바로",          "fi": "heti",    "fr": "immédiatement" },
 
-{ "en": "slow",        "ko": "느리다",          "fi": "hidas",    "fr": "lent" },
-{ "en": "fast (adj)",     "fi": "nopea",             "fr": "rapide",       "es": "rápido",  "ko": "빠르다" },
-{ "en": "fast (adv)",     "fi": "nopeasti, lujaa",   "fr": "vite",         "es": "rápidamente",     "ko": "빨리" },
-{ "en": "speed",          "fi": "nopeus",            "fr": "vitesse",      "es": "(la) velocidad",   "ko": "속도 (速 speed and 度 amount), 속력" },
+{ "en": "slow",           "fi": "hidas",             "fr": "lent",         "es": "lento",          "ko": "느리다" },
+{ "en": "fast (adj)",     "fi": "nopea",             "fr": "rapide",       "es": "rápido",         "ko": "빠르다" },
+{ "en": "fast (adv)",     "fi": "nopeasti, lujaa",   "fr": "vite",         "es": "rápidamente",    "ko": "빨리" },
+{ "en": "speed",          "fi": "nopeus",            "fr": "vitesse",      "es": "(la) velocidad", "ko": "속도 (速 speed and 度 amount), 속력" },
 
-{ "en": "decelerate",     "fi": "",   "fr": "ralentir",         "es": "desacelerar",     "ko": "" },
+{ "en": "decelerate",     "fi": "",                  "fr": "ralentir",     "es": "desacelerar",     "ko": "" },
 
 { "en": "public transport","fi": "joukkoliikenne",   "fr": "transport en commun", "es": "(el) transporte público",       "ko": "대중 교통" },
 { "en": "passenger",       "fi": "matkustaja",       "fr": "passager",            "es": "(el) pasajero",    "ko": "승객"  },

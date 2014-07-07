@@ -37,13 +37,12 @@
 { "en": "root",  "fi": "juuri",   "fr":" racine",     "es": "(la) raíz",    "ko": ""  },
 
 
-{ "en": "bunch of flowers",  "fi": "kukkia",   "fr": "bouquet de fleurs",     "es": "(el) ramo de flores",   "ko": ""  },
-{ "en": "to bloom",  "fi": "kukinta",   "fr": "fleurir",     "es": "florecer",   "ko": ""  },
-{ "en": "vase",  "fi": "maljakko",   "fr": "vase",     "es": "(el) florero",   "ko": ""  },
-{ "en": "fragrant",  "fi": "tuoksuva",   "fr": "",     "es": "fragante",   "ko": ""  },
-{ "en": "to pick",  "fi": "poimia",   "fr": "ramasser",     "es": "coger",   "ko": ""  },
-
-{ "en": "plant",      "ko": "식물 (plant + thing)",    "fi": "kasvi",   "fr":"plante"}
+{ "en": "bunch of flowers",  "fi": "kukkia","fr": "bouquet de fleurs",     "es": "(el) ramo de flores",   "ko": ""  },
+{ "en": "to bloom",      "fi": "kukinta",   "fr": "fleurir",     "es": "florecer",   "ko": ""  },
+{ "en": "vase",          "fi": "maljakko",  "fr": "vase",        "es": "(el) florero",   "ko": ""  },
+{ "en": "fragrant",      "fi": "tuoksuva",  "fr": "",            "es": "fragante",   "ko": ""  },
+{ "en": "to pick",       "fi": "poimia",    "fr": "ramasser",    "es": "coger",   "ko": ""  },
+{ "en": "plant",         "fi": "kasvi",     "fr": "plante",      "es": "(la)planta",   "ko": "식물 (plant + thing)"}
 
 
 ]

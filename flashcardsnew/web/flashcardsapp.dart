@@ -26,6 +26,7 @@ class FlashCardsApp extends PolymerElement {
                      'Begginer3aTimeExpressions',
                      'AppearanceBeginner',
                      'Begginer4',
+                     'Begginer4aDescriptions',
                      'Begginer5',
                      'Begginer6',
                      'CultureBegginer',                     

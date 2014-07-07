@@ -1,6 +1,6 @@
 [
 
-{ "en": "bottle",          "ko": "병",       "fi": "pullo",    "fr": "bouteille" },
+{ "en": "bottle",             "fi": "pullo",    "fr": "bouteille",  "es": "(la) botella", "ko": "병" },
 { "en": "bag (container)",    "ko": "",    "fi": "pussi" , "fr":"sac"},
 
 { "en": "can (for drinks)",    "ko": "",    "fi": "juomatölkki" , "fr":"boîte (f)"},

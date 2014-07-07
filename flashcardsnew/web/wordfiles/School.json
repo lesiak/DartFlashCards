@@ -18,7 +18,7 @@
 
 { "en": "report",       "ko": "보고서",       "fi": "selvitys, raportti",    "fr": "rapport" },
 
-{ "en": "pencil",       "ko": "연필",       "fi": "lyijykynä",    "fr": "crayon" }, 
+{ "en": "pencil",         "fi": "lyijykynä",    "fr": "crayon",         "es": "(el) lápiz", "ko": "연필"}, 
 
 { "en": "mathematics",    "fi": "matematiikka", "fr": "mathématiques",  "es": "(las) matemáticas", "ko": "수학" },
 { "en": "geometry",       "fi": "geometria",    "fr": "géométrie",      "es": "(la) geometría",    "ko": "기하학" },

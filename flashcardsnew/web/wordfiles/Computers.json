@@ -1,20 +1,20 @@
 [
 { "en": "computer",        "fi": "tietokone",  "fr": "ordinateur",  "es": "(el) ordenador",  "ko": "컴퓨터" },
 { "en": "keyboard",        "fi": "näppäimistö","fr": "clavier",     "es": "(el) teclado",    "ko": "키보드" },
-{ "en": "notebook",        "fi": "",           "fr": "" ,                      "ko": "노트북"},
+
 { "en": "monitor",         "fi": "monitori",   "fr": "moniteur",    "es": "(el) monitor",    "ko": "모니터" },
 { "en": "screen",          "fi": "",           "fr": "écran",       "es": "(la) pantalla",   "ko": "화면" },
 { "en": "mouse",           "fi": "hiiri",      "fr": "souris",      "es": "(el) ratón",      "ko": "마우스" },
 { "en": "battery",         "fi": "akku",       "fr": "pile",        "es": "(la) batería",    "ko": "배터리" },
 { "en": "to recharge",     "fi": "ladata",     "fr": "recharger",   "es": "recargar",        "ko": "충전하다" },
-{ "en": "a charger",       "fi": "laturi",     "fr": "",            "ko": "" },
+{ "en": "a charger",       "fi": "laturi",     "fr": "",            "es": "(el) cargador",   "ko": "" },
 
 { "en": "cable",           "fi": "kaapeli",    "fr": "câble",       "es": "(el) cable",   "ko": "" },
 
 { "en": "device",          "fi": "laite",      "fr":"appareil",     "ko": "장치"},
 
 { "en": "server",          "fi": "palvelin",   "fr": "serveur",     "es": "(el) servidor",   "ko": "서버" },
-{ "en": "laptop",          "fi": "kannettava tietokone",   "fr": "portatif",     "es": "(el) ordenador portátil",   "ko": "" },
+{ "en": "laptop",          "fi": "kannettava tietokone",   "fr": "portatif",     "es": "(el) portátil",   "ko": "" },
 { "en": "desktop computer","fi": "pöytätietokone",   "fr": "ordinateur de bureau",     "es": "(el) ordenador de sobremesa",   "ko": "데스크톱 컴퓨터" },
 
 { "en": "hardware",        "fi": "laitteisto",   "fr": "matériel",    "es": "(el) hardware",   "ko": "" },
@@ -27,7 +27,7 @@
 
 
 
-{ "en": "programmer",       "ko": "프로그래머",      "fi": "ohjelmoija",    "fr": "programmeur" },
+{ "en": "programmer",       "fi": "ohjelmoija",    "fr": "programmeur", "es": "(el) programador",  "ko": "프로그래머"  },
 { "en": "software",         "fi": "ohjelmisto",    "fr": "logiciel",    "es": "(el) software", "ko": "소프트웨어" },
 
 { "en": "application",      "fi": "sovellus",     "fr": "application", "es": "(la) aplicación",   "ko": "" },
@@ -51,7 +51,7 @@
 
 { "en": "warranty",          "fi": "takuu",       "fr": "garantie",     "es": "(la) garantía",  "ko": "보증" },
 
-{ "en": "to connect",         "fi": "kytkeä",      "fr": "relier",  "ko": "" },
+{ "en": "to connect",         "fi": "kytkeä",      "fr": "relier",   "es": "conectar", "ko": "" },
 { "en": "connection",         "fi": "yhteys",      "fr": "",         "es": "(la) conexión",  "ko": "" },
 { "en": "wireless",           "fi": "langaton",    "fr": "sans fil", "es": "inalámbrico",  "ko": "" },
 { "en": "wireless connection","fi": "langaton yhteys",    "fr": "connexion sans fil", "es": "(la) conexión inalámbrica",  "ko": "" },

@@ -1,16 +1,16 @@
 [
 { "en": "space",       "ko": "공간, 우주",  "fi": "avaruus" ,     "fr":"espace"},
 { "en": "nature",      "ko": "자연",         "fi": "luonto" ,     "fr":"nature"},
-{ "en": "natural",     "ko": "",             "fi": "luonnollinen", "fr":"naturel"},
-{ "en": "environment", "ko": "",             "fi": "ympäristö" ,   "fr":"environnement"},
-{ "en": "protection",  "fi": "suojelu" ,     "fr": "protection, sauvegarde",  "ko": "보호"},
-{ "en": "to protect",  "fi": "suojella" ,    "fr": "protéger",  "ko": "보호하다"},
+{ "en": "natural",     "fi": "luonnollinen", "fr":"naturel",   "es": "natural",    "ko": ""},
+{ "en": "environment", "fi": "ympäristö" ,   "fr": "environnement",  "es": "(el) medio ambiente","ko": ""},
+{ "en": "protection",  "fi": "suojelu" ,     "fr": "protection, sauvegarde","es": "(la) protección",    "ko": "보호"},
+{ "en": "to protect",  "fi": "suojella" ,    "fr": "protéger", "es": "proteger",  "ko": "보호하다"},
 { "en": "valley",      "fi": "laakso" ,      "fr": "vallée",   "es": "(el) valle","ko": "골짜기, 계곡"},
-{ "en": "ocean",       "fi": "valtameri",    "fr": "océan",    "fr": "(el) océano",  "ko": "대양, 해양"},
+{ "en": "ocean",       "fi": "valtameri",    "fr": "océan",    "es": "(el) océano",  "ko": "대양, 해양"},
 
 
   
-{ "en": "meadow",      "fi": "niitty" ,      "fr": "",          "es": "", "ko": "목초지"},
+{ "en": "meadow",      "fi": "niitty" ,      "fr": "",          "es": "(el) prado, (la) pradera", "ko": "목초지"},
 { "en": "field",       "fi": "pelto" ,       "fr": "",          "es": "(el) campo",  "ko": ""},
 { "en": "countryside", "fi": "maaseutu" ,    "fr": "campagne",  "es": "(el) campo",  "ko": ""},
 { "en": "landscape",   "fi": "maisema" ,     "fr": "paysage",   "es": "(el) paisaje","ko": ""},
@@ -32,7 +32,7 @@
 { "en": "volcano",      "fi": "tulivuori",  "fr":"volcan",     "es":"(el) volcán",   "ko": ""},
 { "en": "stream, creek","fi": "puro",       "fr":"ruisseau",   "es":"(el) riachuelo",   "ko": ""},
 
-{ "en": "gas",         "ko": "가스",         "fi": "kaasu" ,     "fr":"gaz"},
-{ "en": "a liquid",    "ko": "액체",         "fi": "neste",      "fr": "liquide" },
-{ "en": "pressure",    "ko": "압력 (press + strength)",       "fi": "paine",    "fr": "pression" }
+{ "en": "gas",         "fi": "kaasu" ,        "fr":"gaz",    "ko": "가스"},
+{ "en": "a liquid",    "fi": "neste",         "fr": "liquide",  "ko": "액체" },
+{ "en": "pressure",    "fi": "paine",         "fr": "pression",  "es": "(la) presión",  "ko": "압력 (press + strength)" }
 ]

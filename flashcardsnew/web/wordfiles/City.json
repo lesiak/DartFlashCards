@@ -33,7 +33,8 @@
 { "en": "departmant store", "fi": "tavaratalo","fr": "grand magasin",     "es": "grandes almacenes",  "ko": "백화점 (hundred + goods + shop)" },
 
 { "en": "town hall",        "fi": "kaupungintalo" , "fr":"mairie",        "es": "(el) ayuntamiento",   "ko": ""},
-{ "en": "square (in city)", "fi": "aukio" ,         "fr":"place",         "es": "(la) plaza",  "ko": ""},
+{ "en": "square (in city)", "fi": "aukio",          "fr":"place",         "es": "(la) plaza",  "ko": ""},
+{ "en": "fountain",         "fi": "suihkulähde",    "fr":"fontaine",      "es": "(la) fuente",  "ko": ""},
 
 { "en": "other side",        "ko": "건너편",          "fi": "toinen puoli (toisella puolella)",    "fr": "?" },
 

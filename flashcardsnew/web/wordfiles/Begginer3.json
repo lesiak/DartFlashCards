@@ -8,7 +8,7 @@
 { "en": "email",     "fi": "sähköposti", "fr": "e-mail",   "es": "",             "ko": "이메일" },
 { "en": "send",      "fi": "lähettää",   "fr": "envoyer",  "es": "enviar",       "ko": "보내다" },
 
-
+{ "en": "at (@)",    "fi": "", "fr": "",   "es": "(la) arroba",             "ko": "" },
 
 
  
@@ -24,6 +24,8 @@
 { "en": "phone",        "fi": "puhelin",    "fr": "téléphone",    "es": "(el) teléfono",   "ko": "전화" },
 { "en": "cell phone",   "fi": "kännykkä, matkapuhelin",    "fr": "portable",   "ko": "핸드폰, 휴대전화, 휴대폰" }, 
 { "en": "number",       "fi": "numero",     "fr": "numéro",       "es": "(el) número",   "ko": "번호" },
+{ "en": "to call (by phone)",      "fi": "(puhelimella) soittaa",    "fr": " appeler, téléphoner",         "es": "llamar", "ko": "" },
+
 { "en": "to answer (receive a phone)",        "ko": "받다",          "fi": "",    "fr": "" },
 { "en": "to change",    "fi": "muuttaa",    "fr": "changer",     "es": "cambiar",  "ko": "바꾸다" },
 { "en": "change",       "fi": "muutos",    "fr": "changement",   "es": "(el) cambio", "ko": "바꾸다" },

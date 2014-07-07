@@ -1,8 +1,8 @@
 [
-{ "en": "cook",        "ko": "요리하다",    "fi": "keittää, laittaa ruokaa",    "fr": "cuisiner" },
-{ "en": "to bake",     "ko": "굽다",        "fi": "leipoa",   "fr":""},
-{ "en": "prepare",     "ko": "준비하다",    "fi": "valmistella",    "fr": "préparer" },
-{ "en": "preparation", "ko": "준비",        "fi": "valmistelu",    "fr": "préparation" },
+{ "en": "to cook",     "fi": "keittää, laittaa ruokaa",    "fr": "cuisiner",  "es": "cocinar",  "ko": "요리하다" },
+{ "en": "to bake",     "fi": "leipoa",         "fr": "",           "es": "",          "ko": "굽다"},
+{ "en": "prepare",     "fi": "valmistella",    "fr": "préparer",   "es": "preparar",   "ko": "준비하다"},
+{ "en": "preparation", "fi": "valmistelu",     "fr": "préparation","es": "(la) preparación",    "ko": "준비" },
 
 { "en": "pot",         "ko": "냄비",       "fi": "potti",    "fr": "casserole" },
 { "en": "kettle",      "ko": "주전자",     "fi": "kattila" , "fr":"bouilloire"},

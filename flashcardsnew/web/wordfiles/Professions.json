@@ -34,7 +34,7 @@
 
 { "en": "scientist",     "fi": "tiedemies, tutkija","fr": "",        "es": "(el) científico",   "ko": "과학자" },
 { "en": "farmer",        "fi": "maanviljelijä",     "fr": "agriculteur", "ko": "농장주" },
-{ "en": "hunter",        "fi": "metsästäjä",        "fr": "chasseur", "ko": "사냥꾼" },
+{ "en": "hunter",        "fi": "metsästäjä",        "fr": "chasseur","es": "(el) cazador","ko": "사냥꾼" },
 
 { "en": "fashion model", "fi": "malli",         "fr": "",          "es": "(el/la!) modelo",  "ko": "패션 모델" },
 

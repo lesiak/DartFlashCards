@@ -17,9 +17,6 @@
 { "en": "time (occurence)",       "ko": "번",       "fi": "kerta",    "fr": "fois" },
 
 
-{ "en": "complicated",     "fi": "monimutkainen",    "fr": "compliqué",   "ko": "복잡하다 (double + mix)" },
-{ "en": "simple",          "fi": "yksinkertainen",   "fr": "simple",   "es": "sencillo",  "ko": "단순하다 (single + only)" },
-{ "en": "simply",      "ko": "간단히",      "fi": "yksinkertaisesti",          "fr": "simplement" },
 
 { "en": "strange",       "fi": "outo, kummallinen, omituinen",          "fr": "étrange", "es": "extraño", "ko": "이상하다" },
 
