@@ -64,34 +64,20 @@
 
 { "en": "get up",         "fi": "nousta",     "fr": "se lever",      "es": "levantarse", "ko": "일어나다" },
 
-{ "en": "to wash oneself", "fi": "peseytyä",    "fr": "se laver",   "es": "lavarse" ,   "ko": ""},
-
-{ "en": "to make the bed",       "ko": "",       "fi": "pedata sänky, sijata vuode",    "fr": "" },
-{ "en": "to clean",       "fi": "puhdistaa, siivota",    "fr": "nettoyer", "es": "limpiar",  "ko": "" },
-{ "en": "to wash",        "fi": "pestä, tiskata, pyykätä",    "fr": "laver", "es": "(+clothes, car) lavar, (+floor) fregar",      "ko": "씻다" },
-{ "en": "to wipe",        "fi": "pyyhkiä",    "fr": "essuyer",  "ko": "닦음" },
-{ "en": "to sweep",       "ko": "",       "fi": "lakaista",    "fr": "balayer" },
-
-{ "en": "broom",       "ko": "",       "fi": "harja, luuta",    "fr": "balai" },
-{ "en": "brush (sweeper)",       "ko": "",       "fi": "harja",    "fr": "balayette (f)" },
-{ "en": "dust pan",       "ko": "",       "fi": "rikkalapio",    "fr": "pelle (f)" },
-{ "en": "vacuum cleaner", "fi": "pölynimuri",    "fr": "aspirateur",  "es": "(la) aspiradora", "ko": "진공 청소기" },
-
-{ "en": "to iron",             "fi": "silittää",        "fr": "repasser",        "es": "planchar",  "ko": "" },
-{ "en": "iron (for clothes)",  "fi": "silitysrauta",    "fr": "fer à repasser" , "es": "(la) plancha",  "ko": "" },
-{ "en": "to get dressed",      "fi": "pukeutua",        "fr": "s'habiller",        "es": "vestirse",  "ko": "" },
+{ "en": "to wash oneself","fi": "peseytyä",    "fr": "se laver",   "es": "lavarse" ,   "ko": ""},
+{ "en": "to get dressed", "fi": "pukeutua",        "fr": "s'habiller",        "es": "vestirse",  "ko": "" },
 
 { "en": "breakfast",     "fi": "aamiainen",    "fr": "petit déjeuner",   "es": "(el) desayuno",    "ko": "아침" },
 { "en": "lunch",         "fi": "lounas",       "fr": "déjeuner",         "es": "(el) almuerzo",    "ko": "점심" },
 { "en": "dinner",        "fi": "päivällinen",  "fr": "dîner",            "es": "(la) cena",    "ko": "저녁" },
 
-{ "en": "rubbish",       "fi": "roska" ,       "fr":"déchets",         "ko": "쓰레기"},
-{ "en": "recycling",     "ko": "",            "fi": "kierrätys" ,   "fr":""},
+{ "en": "rubbish",       "fi": "roska" ,       "fr":"déchets",           "es":"(la) basura",      "ko": "쓰레기"},
+{ "en": "recycling",     "ko": "",            "fi": "kierrätys" ,        "es":"(el) reciclaje, (es) reciclado",   "fr":""},
 
 
 
-{ "en": "corner",        "ko": "구석, 모서리", "fi": "nurkka, kulma",  "fr": "coin (m)" },
+{ "en": "corner",        "fi": "nurkka, kulma",  "fr": "coin (m)",   "ko": "구석, 모서리" },
 
-{ "en": "cellar",        "fi": "kellari",  "fr": "cave, cellier",   "ko": "지하실" }
+{ "en": "cellar",        "fi": "kellari",  "fr": "cave, cellier",   "es": "(el) sótano (basement); (la) bodega (for wine) " , "ko": "지하실" }
 
 ]

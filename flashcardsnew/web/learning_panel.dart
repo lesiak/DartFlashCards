@@ -139,10 +139,8 @@ class LearingPanelElement extends PolymerElement {
       }
     } 
     else {
-      // call the web server asynchronously
-      if (play) {
-       print('Fetching sound: $word');
-      }      
+      // call the web server asynchronously      
+      print('Fetching prono list: $word');            
       
       // String resp = 'TEST_RESP';       
      // onForvoSuccessTest(resp, lang, word, container, play);
@@ -181,7 +179,7 @@ class LearingPanelElement extends PolymerElement {
    /* if (deckState.currentCard.en != r.requestWord) {
       return;
     }*/    
-    List<Element> pronounciationNodes = createAudioNodes(r);    
+    List<Element> pronounciationNodes = createAudioNodes(r.items);    
     container.nodes.addAll(pronounciationNodes);  
     if (play && !r.items.isEmpty) {
       pronounciationManager.playPronounciation(r.lang, r.word, PronounciationManager.getPreferredPronunciation(r));
@@ -189,9 +187,9 @@ class LearingPanelElement extends PolymerElement {
   }
   
  
-  List<Element> createAudioNodes(ForvoResponse r) {
+  List<Element> createAudioNodes(List<ForvoItem> forvoItems) {
     List<Element> ret = [];
-    for (ForvoItem item in r.items) {
+    for (ForvoItem item in forvoItems) {
       DivElement div = new DivElement(); 
       div.classes.add('btn-group');
       ButtonElement button = new ButtonElement();

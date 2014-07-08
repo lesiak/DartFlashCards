@@ -56,6 +56,7 @@ class FlashCardsApp extends PolymerElement {
                               'Professions',
                               'Containers',
                               'Military',
+                              'HouseWork',
                               'Countries',
                               'Plants',
                               'Calendar',
