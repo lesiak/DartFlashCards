@@ -10,8 +10,8 @@
 { "en": "after",     "fi": "jälkeen",    "fr": "après",    "es": "después",      "ko": "후" },
 { "en": "before",    "fi": "ennen",      "fr": "avant",    "es": "antes",       "ko": "전에" },
 
-{ "en": "yet",       "fi": "vielä",      "fr": "encore",   "ko": "아직" },
-{ "en": "still",     "fi": "vielä",      "fr": "encore",       "es": "todavía, aún",   "ko": ""},
+{ "en": "yet",       "fi": "vielä",      "fr": "encore",   "es": "todavía, aún (still), ya (in questions)",   "ko": "아직" },
+{ "en": "still",     "fi": "vielä",      "fr": "encore",   "es": "todavía, aún",                              "ko": ""},
 
 { "en": "later",     "fi": "myöhemmin",  "fr": "plus tard, ensuite",  "es": "más tarde, luego",  "ko": "나중에" },
 { "en": "already",   "fi": "jo",         "fr": "déjà",                "es": "ya" ,        "ko": "벌써, 이미" },
@@ -20,12 +20,12 @@
 
 { "en": "always",     "fi": "aina",      "fr": "toujours",  "es": "siempre",   "ko": "항상, 늘, 언제나" },
 { "en": "never",      "fi": "ei koskaan","fr": "jamais",    "es": "nunca",    "ko": "" },
-{ "en": "again",      "fi": "taas, uudelleen, jälleen",  "fr": "de nouveau, encore",  "es": "otra vez, de nuevo", "ko": "다시, 또" },
+{ "en": "again",      "fi": "taas, uudelleen, jälleen",  "fr": "de nouveau, encore",  "es": "otra vez, de nuevo, volver (a + infin)", "ko": "다시, 또" },
 { "en": "now",        "fi": "nyt",       "fr": "maintenant", "es": "ahora",  "ko": "지금" },
 { "en": "today",      "fi": "tänään",    "fr": "aujourd'hui","es": "hoy",    "ko": "오늘" },
 { "en": "tomorrow",   "fi": "huomenna",  "fr": "demain",     "es": "mañana", "ko": "내일" },
 { "en": "yesterday",  "fi": "eilen",     "fr": "hier",       "es": "ayer",   "ko": "어제"},
-{ "en": "often",      "fi": "usein",     "fr": "souvent",       "es": "",   "ko": "자주"},
+{ "en": "often",      "fi": "usein",     "fr": "souvent",    "es": "con frecuencia, a menudo",   "ko": "자주"},
 
 
 
@@ -57,7 +57,7 @@
 
 { "en": "awhile",        "ko": "잠깐",          "fi": "hetken",    "fr": "" },
 { "en": "first (adv, in time or sequence)",        "ko": "먼저",          "fi": "",    "fr": "" },
-{ "en": "recently",        "ko": "최근에",          "fi": "äskettäin",    "fr": "récemment" }
+{ "en": "recently",     "fi": "äskettäin",    "fr": "récemment",    "es": "recientemente",   "ko": "최근에" }
 
 
 
