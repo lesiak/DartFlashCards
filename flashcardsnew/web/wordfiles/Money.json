@@ -38,7 +38,7 @@
 { "en": "to guarantee",    "ko": "보장하다",      "fi": "taata",          "fr": "garantir" },
 { "en": "percent",         "ko": "퍼센트",          "fi": "prosentti",    "fr": "pour cent" },
 
-{ "en": "poverty",         "ko": "가난",      "fi": "köyhyys",    "fr": "pauvreté" }
+{ "en": "poverty",         "fi": "köyhyys",    "fr": "pauvreté",   "es": "(la) pobreza", "ko": "가난" }
 
 
 

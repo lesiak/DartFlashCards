@@ -3,8 +3,10 @@
 { "en": "state (country, administrative region)",         "fi": "valtio",         "fr": "état",  "es": "(el) estado", "ko": "" },
 { "en": "president",     "fi": "presidentti",    "fr": "président",  "ko": "대통령 (great + command + govern)" },
 { "en": "government",    "fi": "hallitus",       "fr": "gouvernement", "es": "(el) gobierno",  "ko": "정부" },
+{ "en": "to govern",     "fi": "hallita",        "fr": "gouverner",    "es": "gobernar",       "ko": "" },
 { "en": "authorities",   "fi": "viranomaiset",   "fr": "autorités",    "es": "(las) autoridades",    "ko": "당국" },
 { "en": "delegate",      "fi": "edustaja",       "fr": "délégué", "ko": "대리자" },
+
 
 { "en": "to negotiate",    "fi": "neuvotella",    "fr": "négocier",    "es": "negociar", "ko": "" },
 { "en": "negotiation",     "fi": "neuvottelu",    "fr": "négociation", "es": "(la) negociación",    "ko": "" },
@@ -13,8 +15,16 @@
 
 { "en": "embassy",        "ko": "대사관 (great + dispatch + building)",          "fi": "suurlähetystö",    "fr": "ambassade" },
 { "en": "economy",        "ko": "경제",          "fi": "talous",    "fr": "économie" },
-{ "en": "democracy",        "ko": "민주주의",          "fi": "kansanvalta, demokratia",    "fr": "démocratie" },
-{ "en": "society",        "ko": "사회",          "fi": "yhteiskunta",    "fr": "société" },
+
+{ "en": "politics",       "fi": "politiikka",              "fr": "politique",   "es": "(la) política",   "ko": "" },
+{ "en": "democracy",      "fi": "kansanvalta, demokratia", "fr": "démocratie",  "es": "(la) democracia",   "ko": "민주주의" },
+{ "en": "communism",      "fi": "kommunismi",              "fr": "communisme",  "es": "(el) comunismo",   "ko": "" },
+{ "en": "liberalism",     "fi": "liberalismi",             "fr": "libéralisme", "es": "(el) liberalismo",   "ko": "" },
+{ "en": "monarchy",       "fi": "monarkia",                "fr": "monarchie",   "es": "(la) monarquía",   "ko": "" },
+{ "en": "ideology",       "fi": "ideologia",               "fr": "idéologie",   "es": "(la) ideología",   "ko": "" },
+ 
+
+{ "en": "society",        "fi": "yhteiskunta",             "fr": "société",   "ko": "사회" },
 
 { "en": "Ministry of Finance",        "ko": "",          "fi": "valtiovarainministeriö",    "fr": "" }
 

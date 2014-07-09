@@ -81,8 +81,21 @@
 
 
 { "en": "freedom, liberty",    "ko": "자유",    "fi": "" , "fr":""},
-{ "en": "religion",    "ko": "종교",    "fi": "uskonto" , "fr":"religion"},
-{ "en": "Buddhism",   "ko": "불교",    "fi": "buddhalaisuus",   "fr":"bouddhisme"},
+{ "en": "religion",   "fi": "uskonto",   "fr":"religion", "es":"(la) religión", "ko": "종교"},
+{ "en": "faith",      "fi": "usko",      "fr":"foi",      "es":"(la) fe", "ko": ""},
+{ "en": "religious",  "fi": "usko",      "fr":"religieux","es":"religioso", "ko": ""},
+
+{ "en": "temple",     "fi": "temppeli",  "fr":"temple",   "es":"(el) templo", "ko": ""},
+{ "en": "synagogue",  "fi": "synagoga",  "fr":"synagogue","es":"(la) sinagoga", "ko": ""},
+{ "en": "mosque",     "fi": "moskeija",  "fr":"mosquée",  "es":"(la) mezquita", "ko": ""},
+{ "en": "to pray",    "fi": "rukoilla",  "fr":"prier",    "es":"rezar", "ko": ""},
+{ "en": "atheist",    "fi": "ateisti",   "fr":"athée",    "es":"(el) ateo", "ko": ""},
+{ "en": "monk",       "fi": "munkki",    "fr":"moine",    "es":"(el) monje", "ko": ""},
+{ "en": "nun",        "fi": "nunna",     "fr":"",         "es":"(la) monja", "ko": ""},
+{ "en": "priest",     "fi": "pappi",     "fr":"prêtre",   "es":"(el) sacerdote", "ko": ""},
+
+
+{ "en": "Buddhism",   "fi": "buddhalaisuus",   "fr":"bouddhisme",   "es":"(el) budismo", "ko": "불교"},
 { "en": "dry",        "fi": "" ,   "fr":"", "ko": "건조하다"},
 { "en": "dry",    "ko": "마른",    "fi": "kuiva" , "fr":"sec"},
 { "en": "wet",    "ko": "젖은",    "fi": "märkä" , "fr":"humide, mouillé"}

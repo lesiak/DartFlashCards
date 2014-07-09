@@ -16,7 +16,8 @@
 { "en": "to declare",   "ko": "",    "fi": "julistaa",  "fr":"déclarer"},
 { "en": "to announce",   "ko": "",    "fi": "ilmoittaa, kuuluttaa, julistaa",  "fr":"annoncer"},
 
-
+ 
+{ "en": "belong (to)",        "fi": "kuulua (+allative)",   "fr": "appartenir (à)", "es": "pertenecer (a)",   "ko": ""},
 { "en": "information",        "ko": "정보",          "fi": "tiedot",    "fr": "information" },
 
 { "en": "intuition",   "ko": "직관",    "fi": "intuitio", 	"fr":"intuition"},
@@ -29,6 +30,8 @@
 
 { "en": "gradually",            "ko": "",    "fi": "vähitellen, asteittain",   "fr":"peu à peu, graduellement"},
 
+{ "en": "to diffuse",   "fi": "",   "fr": "diffuser", "es": "difundir",   "ko": ""},
+{ "en": "diffused",     "fi": "",   "fr": "",         "es": "difundido",   "ko": ""},
 
 { "en": "monopolize",   "ko": "독점하다",    "fi": "monopolisoida",   "fr":"monopoliser"},
 
