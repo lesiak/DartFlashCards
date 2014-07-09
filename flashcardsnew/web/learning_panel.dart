@@ -51,9 +51,9 @@ class LearingPanelElement extends PolymerElement {
   
   void showAnswer() {
     responsesVisible = true;  
-    getPronunciations(primaryLang, card.getValueForLang(primaryLang), "primaryPro", true);
-    getPronunciations(secondaryLang, card.getValueForLang(secondaryLang), "secondaryPro", false);
-    getPronunciations(thirdLang, card.getValueForLang(thirdLang), "thirdPro", false);   
+    displayPronunciations(primaryLang, card.getValueForLang(primaryLang), card.en, "primaryPro", true);
+    displayPronunciations(secondaryLang, card.getValueForLang(secondaryLang), card.en, "secondaryPro", false);
+    displayPronunciations(thirdLang, card.getValueForLang(thirdLang), card.en, "thirdPro", false);   
   }
    
   void poorAnswer() {
@@ -89,7 +89,7 @@ class LearingPanelElement extends PolymerElement {
     clearQuestionPronunciations();
     clearAnswerPronunciations();
     if (card != null) {
-      getPronunciations("en", card.en, "enPro", true);  
+      displayPronunciations("en", card.en, card.en, "enPro", true);  
     }
   }
   
@@ -117,22 +117,19 @@ class LearingPanelElement extends PolymerElement {
 
     
   
-  void getPronunciations(String lang, String word, String containerId, bool play) {
+  void displayPronunciations(String lang, String word, String wordEn, String containerId, bool play) {
     if (word == null) {
       return;
     }
     word = CardUtils.sanitizeWord(lang, word);
-
-    Element container = $[containerId];    
-    
+    Element container = $[containerId];        
     String cachedForvoResponse = window.localStorage[lang+"/"+word];
-    
-   
+       
     if (cachedForvoResponse != null) {
       print('found $word pronounciation list in localstorage');
       try {
         ForvoResponse r = new ForvoResponse.fromJsonString(lang, word, cachedForvoResponse);      
-        displayPronounciations(r, container, play);
+        displayPronounciationsFromForvoResponse(r, container, play);
       } catch(e) {
         print("BBBBB ${e}");
         window.alert("Unexpecrted excepttion");          
@@ -147,14 +144,12 @@ class LearingPanelElement extends PolymerElement {
      // onForvoSuccessTest(resp, lang, word, container, play);
       
       pronounciationManager.getForvoPronunciations(lang, word)          
-        .then((req) => onForvoSuccess(req, lang, word, container, play))
+        .then((req) => onForvoSuccess(req, lang, word, wordEn, container, play))
         .catchError((e) {          
           print("EEE Could not fetch pronunciation ${e}");           
         });
               
-    }
-   
-      
+    }        
   }
   
   /*void onForvoSuccessTest(String  responseText, String lang, String word, Element container, bool play) {  
@@ -166,17 +161,20 @@ class LearingPanelElement extends PolymerElement {
     }*/
 
 
-  void onForvoSuccess(HttpRequest req, String lang, String word, Element container, bool play) {  
+  void onForvoSuccess(HttpRequest req, String lang, String word, String wordEn, Element container, bool play) {  
     String responseText = req.responseText;
-  //  print(responseText);
-    if (!responseText.isEmpty) {
-      ForvoResponse r = new ForvoResponse.fromJsonString(lang, word, responseText);
-      displayPronounciations(r, container, play);
+    if (responseText.isEmpty) {
+      return;
     }
-    
+    if (card.en != wordEn) {
+      return;
+    }
+    ForvoResponse r = new ForvoResponse.fromJsonString(lang, word, responseText);
+    displayPronounciationsFromForvoResponse(r, container, play);
+        
   }
 
-  void displayPronounciations(ForvoResponse r,  Element container, bool play) {      
+  void displayPronounciationsFromForvoResponse(ForvoResponse r,  Element container, bool play) {      
    /* if (deckState.currentCard.en != r.requestWord) {
       return;
     }*/    
