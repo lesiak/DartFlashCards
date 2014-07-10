@@ -9,7 +9,8 @@
             <th>English</th>
             <th>{{getLangName(primaryLang)}}</th>
             <th>{{getLangName(secondaryLang)}}</th>
-            <th>{{getLangName(thirdLang)}}</th>            
+            <th>{{getLangName(thirdLang)}}</th>
+            <th>Level</th>            
             <th>Due in</th>
         </tr>
         </thead>
@@ -18,7 +19,8 @@
             <td>{{row.card.en}}</td>
             <td>{{getValueForLang(row.card, primaryLang)}}</td>
             <td>{{getValueForLang(row.card, secondaryLang)}}</td>
-            <td>{{getValueForLang(row.card, thirdLang)}}</td>            
+            <td>{{getValueForLang(row.card, thirdLang)}}</td>
+            <td>{{row.knowledgeLevel}}</td>            
             <td>{{row.dueIn}}</td>
         </tr>
         </tbody>

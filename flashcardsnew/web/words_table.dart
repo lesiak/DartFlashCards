@@ -38,11 +38,12 @@ class WordsTable extends PolymerElement {
         
       String dueIn = "";
       String cssClass = getCssClassFromScore(score);      
-     
+      int knowledgeLevel = 0;
       if (score != null) {     
-          dueIn = formatDuration(score.getDueInDuration(currentDate));          
+          dueIn = formatDuration(score.getDueInDuration(currentDate));
+          knowledgeLevel = score.goodInARow;
       }
-      WordTableRow r = new WordTableRow(card, cssClass, dueIn);
+      WordTableRow r = new WordTableRow(card, cssClass, dueIn, knowledgeLevel);
       ret.add(r);    
     }
     return ret;
@@ -83,8 +84,9 @@ class WordTableRow extends Object with Observable {
   @observable Card card; 
   @observable String cssClass;
   @observable String dueIn;
+  @observable int knowledgeLevel;
   
-  WordTableRow(this.card, this.cssClass, this.dueIn);
+  WordTableRow(this.card, this.cssClass, this.dueIn, this.knowledgeLevel);
  
 }
 
