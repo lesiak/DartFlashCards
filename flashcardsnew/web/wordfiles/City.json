@@ -45,6 +45,7 @@
 { "en": "crowd",            "fi": "väkijoukko",      "fr": "foule",   "es": "(la) multitud",   "ko": "" },
 { "en": "crowded",          "fi": "tungosta",        "fr": "",   "es": "lleno (de gente)",   "ko": "" },
 
+{ "en": "a palce",          "fi": "paikka, sija",        "fr": "lieu, endroit",   "es": "(el) lugar",   "ko": "" },
 
 { "en": "prison",           "fi": "vankila",         "fr": "prison, (slang) cabane",  "es": "(la) prisión",    "ko": "교도소" },
 { "en": "city",             "fi": "kaupunki",        "fr": "ville",         "es": "(la) ciudad",  "ko": "도시" },
@@ -61,7 +62,7 @@
 { "en": "junction",         "fi": "ylitys",          "fr": "",     "es": "(el) cruce",  "ko": "" },
 
 { "en": "pedestrian",       "fi": "jalankulkija",    "fr": "piéton",        "es": "(el) peatón",  "ko": "횡단 보도" },
-{ "en": "pedestrian crossing", "fi": "suojatie",     "fr": "passage pour piétons", "ko": "횡단 보도" },
+{ "en": "pedestrian crossing", "fi": "suojatie",     "fr": "passage pour piétons", "es": "paso de cebra, paso de peatones","ko": "횡단 보도" },
 { "en": "traffic lights",   "fi": "liikennevalot",   "fr": "feux de circulation",  "es": "(el) semáforo",  "ko": "" },
 
 { "en": "traffic",          "fi": "liikenne" ,       "fr": "circulation",    "es": "(el) tráfico",        "ko": "교통"},

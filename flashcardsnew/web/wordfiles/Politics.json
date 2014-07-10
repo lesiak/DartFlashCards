@@ -1,7 +1,7 @@
 [
 
-{ "en": "state (country, administrative region)",         "fi": "valtio",         "fr": "état",  "es": "(el) estado", "ko": "" },
-{ "en": "president",     "fi": "presidentti",    "fr": "président",  "ko": "대통령 (great + command + govern)" },
+{ "en": "state (country)","fi": "valtio",        "fr": "état",         "es": "(el) estado", "ko": "" },
+{ "en": "president",     "fi": "presidentti",    "fr": "président",          "ko": "대통령 (great + command + govern)" },
 { "en": "government",    "fi": "hallitus",       "fr": "gouvernement", "es": "(el) gobierno",  "ko": "정부" },
 { "en": "to govern",     "fi": "hallita",        "fr": "gouverner",    "es": "gobernar",       "ko": "" },
 { "en": "authorities",   "fi": "viranomaiset",   "fr": "autorités",    "es": "(las) autoridades",    "ko": "당국" },
