@@ -1,0 +1,29 @@
+<link rel="import" href="packages/polymer/polymer.html">
+<polymer-element name="review-table" >
+  <template>
+  <link rel="stylesheet" href="resources/bootstrap-3.1.1-dist/css/bootstrap.css" >
+  <link rel="stylesheet" href="resources/flashcardsnew.css">
+    <table class="table table-striped table-bordered ">                                
+        <thead>
+        <tr>
+            <th>English</th>
+            <th>{{getLangName(primaryLang)}}</th>
+            <th>{{getLangName(secondaryLang)}}</th>
+            <th>{{getLangName(thirdLang)}}</th>
+            <th>Level</th>            
+        </tr>
+        </thead>
+        <tbody>
+        <tr template repeat="{{row in wordRows}}" class={{row.cssClass}}>
+            <td>{{row.card.en}}</td>
+            <td>{{getValueForLang(row.card, primaryLang)}}</td>
+            <td>{{getValueForLang(row.card, secondaryLang)}}</td>
+            <td>{{getValueForLang(row.card, thirdLang)}}</td>
+            <td>{{row.knowledgeLevel}}</td>
+        </tr>
+        </tbody>
+    </table>
+  </template>
+  <script type="application/dart" src="words_table_review.dart"></script>
+</polymer-element>
+

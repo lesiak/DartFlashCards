@@ -1,5 +1,6 @@
 <link rel="import" href="packages/polymer/polymer.html">
 <link rel="import" href="words_table.html">
+<link rel="import" href="words_table_review.html">
 <link rel="import" href="deck_summary.html">
 <link rel="import" href="decks_table.html">
 <link rel="import" href="learning_panel.html">
@@ -112,9 +113,15 @@
                     
               <template id="progressDivTmpl" bind if="{{ showProgress }}">
                 <progress-bar total="{{total}}" currentSucc="{{currentSucc}}" currentFail="{{currentFail}}"></progress-bar>                            
-              </template>                                      
+              </template>
+              <h3>Review</h3>
+              <review-table id="wordsTableToLearn" 
+                    cards="{{learningList}}"
+                    primaryLang="{{primaryLang}}"
+                    secondaryLang="{{secondaryLang}}"
+                    thirdLang="{{thirdLang}}"></review-table>                                      
               <words-table id="wordsTable" 
-                    cards="{{cards}}"
+                    cards="{{notInLearningList}}"
                     primaryLang="{{primaryLang}}"
                     secondaryLang="{{secondaryLang}}"
                     thirdLang="{{thirdLang}}"></words-table>                       

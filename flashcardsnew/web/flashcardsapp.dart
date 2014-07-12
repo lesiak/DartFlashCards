@@ -18,6 +18,10 @@ class FlashCardsApp extends PolymerElement {
   
   @observable List<Card> cards = toObservable([]);
   
+  @observable List<Card> learningList = toObservable([]);
+  
+  @observable List<Card> notInLearningList = toObservable([]);
+  
   List<String> level1Files = ['Begginer1',
                      'Home',
                      'City',                              
@@ -170,6 +174,10 @@ class FlashCardsApp extends PolymerElement {
    // cards.replaceRange(0, cards.length, engine.allCardsInDeck);
     if (engine.allCardsInDeck != null) {
       cards = toObservable(engine.allCardsInDeck);
+     // learningList = toObservable(DeckEngine.buildLearningList(cards, primaryLang));
+     Iterable<List<Card>> matchedUnmatched = DeckEngine.partitionCards(cards, primaryLang);
+     learningList = toObservable(matchedUnmatched.first);
+     notInLearningList = toObservable(matchedUnmatched.last);
     } else {
       print("No cards loaded");
     }
@@ -185,11 +193,7 @@ class FlashCardsApp extends PolymerElement {
   }
   
   void startPanel() {
-    //ui.showLearningPanel();
-    //showCurrentQuestion();
-        
-    showLearningPanel();    
-   // showCurrentQuestion();
+    showLearningPanel();
   }
   
   void showLearningPanel() {

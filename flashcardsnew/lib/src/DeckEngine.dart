@@ -24,7 +24,7 @@ class DeckEngine implements DeckState {
   }
   
   void initLearningList() {
-    learningList = buildLearningList(allCardsInDeck);
+    learningList = buildLearningList(allCardsInDeck, currentLang);
     if (!learningList.isEmpty) {
       _currentWord = 0;
       _currentCard = learningList[_currentWord];
@@ -32,11 +32,23 @@ class DeckEngine implements DeckState {
     }
   }
     
-  List<Card> buildLearningList(List<Card> allElements) {
-    return allElements.where((card) => CardScoresEngine.isCardInLearningList(card, currentLang)).toList();
+  static List<Card> buildLearningList(List<Card> allElements, String currentLang) {   
+    return allElements.where((card) => CardScoresEngine.isCardInLearningList(card, currentLang)).toList();   
   }
    
-  
+  static Iterable<List<Card>> partitionCards(List<Card> allElements, String currentLang) {   
+     //return allElements.where((card) => CardScoresEngine.isCardInLearningList(card, currentLang)).toList();   
+    var matches    = [];
+      var nonMatches = [];
+      allElements.forEach((e) {
+        if (CardScoresEngine.isCardInLearningList(e, currentLang)) {
+          matches.add(e);
+        } else {
+          nonMatches.add(e);
+        }
+      });
+      return [matches, nonMatches]; 
+  }
 
   
   Card get currentCard {    
