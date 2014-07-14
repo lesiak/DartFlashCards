@@ -6,6 +6,8 @@
 { "en": "project",           "fi": "hanke, projekti",    "fr": "projet",   "es": "(el) proyecto",  "ko": "" },
 { "en": "plan (program)",    "fi": "ohjelma",            "fr": "plan",     "es": "(el) plan",  "ko": "" },
 
+{ "en": "to plan",    "fi": "suunnitella",            "fr": "planifier",     "es": "planificar",  "ko": "" },
+
 
 { "en": "to request",           "ko": "부탁하다",           "fi": "pyytää",    "fr": "" },
 { "en": "a request",           "ko": "",           "fi": "pyyntö",    "fr": "" },

@@ -36,6 +36,7 @@
 { "en": "loving, kind",  "fi": "",               "fr": "affectueux",  "es": "cariñoso", "ko": "" },
 
 { "en": "funny",         "fi": "",               "fr": "drôle",       "es": "gracioso", "ko": "" },
+{ "en": "ironic",         "fi": "ironinen",               "fr": "ironique",       "es": "irónico", "ko": "" },
 
 { "en": "energetic",     "fi": "energinen",      "fr": "énergique",   "es": "enérgico", "ko": "" },
 { "en": "active",        "fi": "aktiivinen",     "fr":"actif",        "es":"activo",    "ko": ""},

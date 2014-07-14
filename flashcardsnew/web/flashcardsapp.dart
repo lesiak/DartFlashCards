@@ -34,6 +34,7 @@ class FlashCardsApp extends PolymerElement {
                      'Begginer5',
                      'Begginer6',
                      'CultureBegginer',                     
+                     'CultureMusic',
                      'Sport',
                      'Travel',
                      'Holiday',

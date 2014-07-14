@@ -43,14 +43,15 @@
 { "en": "to tremble",    "fi": "vapista",   "fr": "trembler", "es": "temblar", "ko": ""},
 
 { "en": "item",       "ko": "",        "fi": "erä",      "fr":"article"},
-{ "en": "treasure",   "ko": "보물",    "fi": "aarre",   "fr":"trésor"},
+{ "en": "treasure",   "fi": "aarre",   "fr":"trésor",     "es":"(el) tesoro", "ko": "보물"},
+
 
 { "en": "earnings, gains, proceeds",         "ko": "수익금",       "fi": "",          "fr": "" },
 
 { "en": "profit",         "ko": "",       "fi": "voitto",          "fr": "profitable, rentable" },
 { "en": "profitable",         "ko": "",       "fi": "kannattava, tuottoisa, tuottava",          "fr": "profitable, rentable" },
 { "en": "unprofitable",         "ko": "",       "fi": "tappiollinen, kannattamaton",          "fr": "peu profitable, peu rentable" },
-
+{ "en": "prize",   "fi": "palkinto",   "fr":"prix",     "es":"(el) premio", "ko": ""},
 
 { "en": "to disappear",      "fi": "kadota",          "fr": "disparaître",  "ko": "" },
 { "en": "to inspire",      "fi": "innostaa",          "fr": "inspirer",  "es": "inspirar", "ko": "" },

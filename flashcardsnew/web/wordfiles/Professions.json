@@ -36,7 +36,9 @@
 { "en": "farmer",        "fi": "maanviljelijä",     "fr": "agriculteur", "ko": "농장주" },
 { "en": "hunter",        "fi": "metsästäjä",        "fr": "chasseur","es": "(el) cazador","ko": "사냥꾼" },
 
-{ "en": "fashion model", "fi": "malli",         "fr": "",          "es": "(el/la!) modelo",  "ko": "패션 모델" },
+{ "en": "fashion model", "fi": "malli",             "fr": "",         "es": "(el/la!) modelo",  "ko": "패션 모델" },
+{ "en": "pilot",         "fi": "pilotti",           "fr": "pilote",   "es": "(el/la!) piloto",  "ko": "조종사" },
+{ "en": "stewardess",    "fi": "lentoemäntä",       "fr": "",         "es": "(la) azafata",     "ko": "스튜어디스" },
 
 { "en": "fisherman",     "fi": "kalastaja" ,      "fr":"pêcheur",  "es": "(el) pescador",    "ko": "어부"},
 
@@ -45,6 +47,7 @@
 
 { "en": "lawyer",        "fi": "lakimies",    "fr": "avocat",     "es": "(el) abogado", "ko": "" },
 { "en": "prosecutor",    "fi": "syyttäjä",    "fr": "procureur",  "es": "(el) fiscal", "ko": "검사" },
+{ "en": "judge",         "fi": "tuomari",     "fr": "juge",       "es": "(el) juez", "ko": "" },
 
 { "en": "waiter",        "fi": "tarjoilija",  "fr": "serveur",    "es": "(el) camarero",   "ko": "웨이터"},
 

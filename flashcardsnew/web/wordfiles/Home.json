@@ -78,6 +78,6 @@
 
 { "en": "corner",        "fi": "nurkka, kulma",  "fr": "coin (m)",   "ko": "구석, 모서리" },
 
-{ "en": "cellar",        "fi": "kellari",  "fr": "cave, cellier",   "es": "(el) sótano (basement); (la) bodega (for wine) " , "ko": "지하실" }
+{ "en": "cellar",        "fi": "kellari",  "fr": "cave, cellier",   "es": "(el) sótano (basement), (la) bodega (for wine) " , "ko": "지하실" }
 
 ]

@@ -16,12 +16,15 @@
 
 { "en": "memory",      "ko": "기억",       "fi": "muisto",        "fr": "souvenir" },
 { "en": "remember",    "ko": "기억하다",   "fi": "muistaa",       "fr": "rappeler" },
-{ "en": "forget",      "fi": "unohtaa",       "fr": "oublier", "es": "olvidar",   "ko": "" },
+{ "en": "forget",      "fi": "unohtaa",     "fr": "oublier",     "es": "olvidar",   "ko": "" },
+{ "en": "dream",       "fi": "unelma",      "fr": "rêve",        "es": "(el) sueño",   "ko": "" },
+{ "en": "to dream",    "fi": "unelmoida",   "fr": "rêver",       "es": "soñar",   "ko": "" },
 
 { "en": "recommend",   "fi": "suositella",    "fr": "recommander", "es": "recomendar",  "ko": "추천하다" },
 { "en": "idea",        "fi": "idea",      "fr": "idée",      "es": "(la) idea", "ko": "아이디어" },
 
 { "en": "to try",      "fi": "yrittää",   "fr": "essayer",   "es": "intentar", "ko": ""},
+{ "en": "(to be) capable (of)",   "fi": "pystyä (jhk), pystyä tekemään jtk",   "fr": "capable (de)",   "es": "capaz (de)", "ko": ""},
 
 
 { "en": "willingly",  "fi": "mielellään",   "fr":"volontiers",  "ko": "기꺼이"},

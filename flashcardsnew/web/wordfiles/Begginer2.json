@@ -33,8 +33,8 @@
 
 { "en": "to rest",     "fi": "levätä",     "fr": "se reposer",   "es": "descansar",  "ko": "쉬다" },
 { "en": "to wait",     "fi": "odottaa",    "fr": "patienter",    "es": "esperar",    "ko": "기다리다" },
-{ "en": "to begin (to do sth), start (doing sth)",        "ko": "시작하다",       "fi": "alkaa",    "fr": "commencer" },
-{ "en": "to begin, start",        "ko": "",       "fi": "aloittaa",    "fr": "" },
+{ "en": "to begin (to do sth), start (doing sth)",       "fi": "alkaa",    "fr": "commencer", "es": "empezar, comenzar",  "ko": "시작하다"},
+{ "en": "to begin, start (intr)",          "fi": "aloittaa",    "fr": "",  "es": "empezar, comenzar",  "ko": "" },
 { "en": "to stop",        "ko": "",       "fi": "lopettaa, pysäyttää, pysähtyä",    "fr": "" },
 
 { "en": "to smoke",     "fi": "tupakoida","fr": "fumer",       "es": "fumar",         "ko": "피우다" },

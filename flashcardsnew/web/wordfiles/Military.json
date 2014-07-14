@@ -17,10 +17,10 @@
 { "en": "shoot",        "ko": "쏘다",          "fi": "ampua",    "fr": "tirer" },
 
 
-{ "en": "bomb",        "ko": "폭탄",          "fi": "pommi",    "fr": "" },
-{ "en": "explosion",   "ko": "폭발",          "fi": "räjähdys",    "fr": "" },
-{ "en": "violence",    "ko": "폭력",          "fi": "väkivalta",    "fr": "violence" },
-{ "en": "violent",     "ko": "폭력적인, 격렬한",          "fi": "väkivaltainen",    "fr": "violent" },
+{ "en": "bomb",        "fi": "pommi",         "fr": "",         "es": "(la) bomba",        "ko": "폭탄" },
+{ "en": "explosion",   "fi": "räjähdys",      "fr": "",         "es": "(la) explosión",    "ko": "폭발" },
+{ "en": "violence",    "fi": "väkivalta",     "fr": "violence", "es": "(la) violencia",    "ko": "폭력" },
+{ "en": "violent",     "fi": "väkivaltainen", "fr": "violent",  "es": "(la) bomba",       "ko": "폭력적인, 격렬한" },
 { "en": "to injure",   "ko": "해치다",          "fi": "loukata",    "fr": "blesser" },
 { "en": "demonstration",        "ko": "시위, 시연, 데모",          "fi": "mielenosoitus",    "fr": "démonstration" },
 

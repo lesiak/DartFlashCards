@@ -1,4 +1,6 @@
 [
+
+{ "en": "art",       "ko": "예술",       "fi": "taide",    "fr": "art" },
 { "en": "culture",       "fi": "kulttuuri",      "fr": "culture",       "es": "(la) cultura",  "ko": "문화" },
 { "en": "entertainment", "fi": "viihde",         "fr": "divertissement","es": "(el) entretenimiento",  "ko": "환대" },
 { "en": "book",          "fi": "kirja",          "fr": "livre",         "es": "(el) libro",    "ko": "책" },
@@ -12,11 +14,6 @@
 { "en": "movie star",    "fi": "päänäyttelijä",  "fr": "star de cinéma","es": "(la) estrella de cine", "ko": "영화 배우"},
 { "en": "director",       "fi": "",              "fr": "",              "es": "(el) director",     "ko": "" },
 
-{ "en": "singer",        "fi": "laulaja",        "fr": "chanteur",      "es": "(el/la) cantante",   "ko": "가수" },
-{ "en": "to sing",       "fi": "laulaa",         "fr": "chanter",       "es": "cantar",   "ko": "노래하다" },
-{ "en": "song",          "fi": "laulu",          "fr": "chanson",       "es": "(la) canción", "ko": "노래" },
-{ "en": "title",         "fi": "nimi",           "fr": "titre",         "es": "(el) título",  "ko": "제목" },
-{ "en": "lyrics",        "fi": "sanoitus",       "fr": "paroles",       "es": "(las) letras",  "ko": "가사" },
 { "en": "scenario",      "fi": "skenaario, suunnitelma",          "fr": "scénario", "es": "(el) guión (cine), (el) argumento (teat)",  "ko": "" },
 
 { "en": "sound",         "fi": "ääni",           "fr": "son" ,       "es": "(el) sonido",     "ko": "소리"},
@@ -27,14 +24,6 @@
 { "en": "discotheque",   "fi": "diskoteekki",    "fr": "discothèque","es": "(la) discoteca",  "ko": "" },
 { "en": "venue",         "fi": "tapahtumapaikka","fr": "",          "es": "(el) local",      "ko": "" },
 
-{ "en": "a queue",       "fi": "jono",           "fr": "",           "es": "(la) cola",      "ko": "" },
-{ "en": "to queue",      "fi": "jonottaa",       "fr": "",           "es": "hacer cola",      "ko": "" },
-{ "en": "ticket (entry)","fi": "",               "fr": "",           "es": "(la) entrada",      "ko": "" },
-{ "en": "stamp",         "fi": "",               "fr": "",           "es": "(el) cuño",      "ko": "" },
-{ "en": "sober",         "fi": "",               "fr": "sobre",      "es": "sobrio",      "ko": "" },
-{ "en": "cloakroom",     "fi": "vaatesäilö",     "fr": "vestiaire",  "es": "(el) guardarropa",      "ko": "" },
-
-{ "en": "classical",     "fi": "klassinen",     "fr": "classique",   "es": "clásico",    "ko": "음악회, 콘서트" },
 
 { "en": "writer",        "fi": "kirjoittaja, kirjailija", "fr": "écrivain, auteur", "es": "(el) escritor", "ko": "작가" },
 { "en": "poem",          "fi": "runo",          "fr": "poème",      "es": "(el) poema",  "ko": "시" },
@@ -54,14 +43,6 @@
 { "en": "a comeback",         "ko": "컴백",       "fi": "paluu",          "fr": "" },
 
 { "en": "famous",      "fi": "kuuluisa",    "fr": "célèbre",         "es": "famoso", "ko": "유명한" },
-{ "en": "fan",         "fi": "fani",        "fr": "fan",      "ko": "팬" },
+{ "en": "fan",         "fi": "fani",        "fr": "fan",      "ko": "팬" }
 
-{ "en": "guitar",      "fi": "kitara",      "fr": "guitare",          "es": "(la) guitarra",  "ko": "기타" }, 
-{ "en": "piano",       "fi": "piano",       "fr": "piano",            "es": "(el) piano",     "ko": "피아노" },
-{ "en": "saxophone",   "fi": "saksofoni",   "fr": "saxophone",        "es": "(el) saxófono",  "ko": "색소폰" },
-{ "en": "drum",        "fi": "rumpu",       "fr":"tambour, batterie", "es": "(el) tambor",    "ko": "드럼"},
-{ "en": "violin",      "fi": "viulu",       "fr":"violon",            "es": "(el) violín",  "ko": "바이올린"},
-
-{ "en": "musician",      "fi": "muusikko",     "fr":"musicien", "es":"(el) músico",  "ko": ""},
-{ "en": "musical instrument",  "ko": "악기",    "fi": "soitin",   "fr":"instrument de musique"}
 ]
