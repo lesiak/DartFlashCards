@@ -24,11 +24,13 @@ class FlashCardsApp extends PolymerElement {
   
   List<String> level1Files = ['Begginer1',
                      'Home',
-                     'City',                              
+                     'City',
+                     'AppearanceBeginner',
+                     'AppearancePeople',
                      'Begginer2',
                      'Begginer3',
                      'Begginer3aTimeExpressions',
-                     'AppearanceBeginner',
+                     'Begginer3bCommunication',                     
                      'Begginer4',
                      'Begginer4aDescriptions',
                      'Begginer5',
@@ -170,8 +172,7 @@ class FlashCardsApp extends PolymerElement {
   }
   
   void showDeckData() {
-    //cards = toObservable(engine.allCardsInDeck);
-    print("AAAAAAAAAAAAAAAAAAAAAAAAA");
+    //cards = toObservable(engine.allCardsInDeck);    
    // cards.replaceRange(0, cards.length, engine.allCardsInDeck);
     if (engine.allCardsInDeck != null) {
       cards = toObservable(engine.allCardsInDeck);

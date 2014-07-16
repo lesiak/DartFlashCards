@@ -15,6 +15,7 @@
 { "en": "concert",       "fi": "konsertti",      "fr": "concert",    "es": "(el) concierto",  "ko": "음악회, 콘서트" },
 { "en": "discotheque",   "fi": "diskoteekki",    "fr": "discothèque","es": "(la) discoteca",  "ko": "" },
 { "en": "venue",         "fi": "tapahtumapaikka","fr": "",          "es": "(el) local",      "ko": "" },
+{ "en": "a venue",         "fi": "tapahtumapaikka","fr": "",          "es": "(el) local",      "ko": "" },
 
 { "en": "a queue",       "fi": "jono",           "fr": "",           "es": "(la) cola",      "ko": "" },
 { "en": "to queue",      "fi": "jonottaa",       "fr": "",           "es": "hacer cola",      "ko": "" },
@@ -24,6 +25,8 @@
 { "en": "cloakroom",     "fi": "vaatesäilö",     "fr": "vestiaire",  "es": "(el) guardarropa",      "ko": "" },
 
 { "en": "classical",     "fi": "klassinen",     "fr": "classique",   "es": "clásico",    "ko": "음악회, 콘서트" },
+{ "en": "melodic",       "fi": "melodinen",     "fr": "mélodique",   "es": "melódico",    "ko": "" },
+{ "en": "melodious",     "fi": "melodinen, heleä", "fr": "mélodieux",   "es": "melodioso",    "ko": "" },
 
 
 { "en": "guitar",      "fi": "kitara",      "fr": "guitare",          "es": "(la) guitarra",  "ko": "기타" }, 
@@ -33,5 +36,5 @@
 { "en": "violin",      "fi": "viulu",       "fr":"violon",            "es": "(el) violín",  "ko": "바이올린"},
 
 { "en": "musician",      "fi": "muusikko",     "fr":"musicien", "es":"(el) músico",  "ko": ""},
-{ "en": "musical instrument",  "fi": "soitin",   "fr":"instrument de musique",  "ko": "악기"}
+{ "en": "musical instrument",  "fi": "soitin",   "fr":"instrument de musique",   "es":"(el) instrumento", "ko": "악기"}
 ]

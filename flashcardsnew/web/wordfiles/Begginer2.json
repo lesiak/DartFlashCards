@@ -10,8 +10,8 @@
 { "en": "money",       "fi": "raha",     "fr": "argent",               "es": "(el) dinero", "ko": "돈" },
 { "en": "to take",     "fi": "ottaa",    "fr": "prendre",              "es": "coger",       "ko": "잡다" },
 
-{ "en": "bring",       "fi": "touda",    "fr": "apporter, amener",     "fr": "traer",       "ko": "가져오다"},
-{ "en": "leave (behind)", "ko": " 남기다 ","fi": "jättää",  "fr": "laisser" },
+{ "en": "bring",       "fi": "touda",    "fr": "apporter, amener",     "es": "traer",       "ko": "가져오다"},
+{ "en": "leave (sth behind)", "fi": "jättää",  "fr": "laisser",        "es": "dejar",   "ko": " 남기다" },
 
 { "en": "come",        "fi": "tulla",    "fr": "venir",   "es": "venir",  "ko": "오다" },
 { "en": "enter, go in","ko": "들어가다",  "fi": "astua sisään", "fr": "entrer" },
@@ -50,26 +50,7 @@
 { "en": "paper",        "fi": "paperi",   "fr": "papier",    "es": "(el) papel",   "ko": "종이" },
 
 { "en": "wood (substance)", "fi": "puu",  "fr": "bois",      "es": "(la) madera",  "ko": "나무, 목재" },
-{ "en": "glass (substance)","fi": "lasi", "fr": "verre",     "es": "(el) vidrio",              "ko": "유리" },
+{ "en": "glass (substance)","fi": "lasi", "fr": "verre",     "es": "(el) vidrio",              "ko": "유리" }
 
-{ "en": "small",        "fi": "pieni",       "fr": "petit",    "es": "pequeño",    "ko": " 작다" },
-{ "en": "big",          "fi": "iso, suuri",  "fr": "grand",    "es": "grande",     "ko": " 크다" },
-
-{ "en": "long",         "fi": "pitkä",       "fr": "long",     "es": "largo",    "ko": "길다" },
-{ "en": "short",        "fi": "lyhyt",       "fr": "court",    "es": "corto",      "ko": "짧다" },
-
-{ "en": "far",          "fi": "kaukana",     "fr": "loin",     "es": "lejos",      "ko": "멀다" },
-{ "en": "near",         "fi": "lähellä",     "fr": "près de",  "es": "cerca de",   "ko": "가깝다" },
-
-{ "en": "wide",         "fi": "leveä",       "fr": "large",    "es": "ancho",  "ko": "넓다" },
-{ "en": "narrow",       "fi": "kapea",       "fr": "étroit",   "es": "estrecho (+street, passage, room, stairs), angosto (+bed, channel, face)",  "ko": "좁다" },
-
-{ "en": "thin",         "ko": "얇다",       "fi": "ohut",          "fr": "mince" },
-{ "en": "thick",         "ko": "두껍다",       "fi": "paksu",          "fr": "mince" },
-
-
-{ "en": "weight",        "fi": "paino",    "fr": "poids",  "es": "(el) peso",  "ko": "무게" },
-{ "en": "heavy",         "fi": "painava",  "fr": "lourd",  "es": "pesado",     "ko": "무거운 (무겁다)" },
-{ "en": "light",         "fi": "kevyt",    "fr": "léger",  "es": "ligero",     "ko": "가볍다" }
 
 ]

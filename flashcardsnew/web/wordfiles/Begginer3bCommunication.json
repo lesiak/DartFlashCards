@@ -1,0 +1,40 @@
+[
+
+{ "en": "read",      "fi": "lukea",      "fr": "lire",     "es": "leer",         "ko": "읽다" },
+{ "en": "write",     "fi": "kirjoittaa", "fr": "écrire",   "es": "escribir",     "ko": "쓰다" },
+
+{ "en": "letter",    "fi": "kirje",      "fr": "lettre",   "es": "(la) carta",   "ko": "편지" },
+{ "en": "message",   "fi": "viesti",     "fr": "message",  "es": "(el) mensaje", "ko": "메시지" },
+{ "en": "email",     "fi": "sähköposti", "fr": "e-mail",   "es": "(el) correo electrónico",             "ko": "이메일" },
+{ "en": "send",      "fi": "lähettää",   "fr": "envoyer",  "es": "enviar",       "ko": "보내다" },
+
+{ "en": "at (@)",    "fi": "",          "fr": "",          "es": "(la) arroba",             "ko": "" },
+{ "en": "a draft",   "fi": "luonnos",   "fr": "",          "es": "(el) borrador",             "ko": "" },
+{ "en": "attachment","fi": "liite",     "fr": "attachement","es": "(el) archivo adjunto",             "ko": "" },
+
+
+{ "en": "phone",        "fi": "puhelin",    "fr": "téléphone",    "es": "(el) teléfono",   "ko": "전화" },
+{ "en": "cell phone",   "fi": "kännykkä, matkapuhelin",  "fr": "portable", "es": "(el) móvil",  "ko": "핸드폰, 휴대전화, 휴대폰" }, 
+{ "en": "number",       "fi": "numero",     "fr": "numéro",       "es": "(el) número",   "ko": "번호" },
+{ "en": "to call (by phone)",      "fi": "(puhelimella) soittaa",    "fr": " appeler, téléphoner",         "es": "llamar", "ko": "" },
+
+{ "en": "to answer (receive a phone)",        "ko": "받다",          "fi": "",    "fr": "" },
+
+{ "en": "voicemail",     "fi": "puheposti",     "fr": "messagerie vocale",       "es": "(el) buzón de voz",   "ko": "" },
+{ "en": "engaged (UK), busy (US)",   "fi": "",     "fr": "",       "es": "ocupado",   "ko": "" },
+
+{ "en": "to change",    "fi": "muuttaa",    "fr": "changer",     "es": "cambiar",  "ko": "바꾸다" },
+
+
+{ "en": "change",       "fi": "muutos",    "fr": "changement",   "es": "(el) cambio", "ko": "바꾸다" },
+
+{ "en": "telephone call",   "ko": "통화",    "fi": "puhelu",    "fr": "appel téléphonique" },
+
+{ "en": "memo",        "ko": "메모",          "fi": "muistio",    "fr": "note" },
+{ "en": "to pass on",        "ko": "전하다",          "fi": "",    "fr": "" }
+
+
+
+
+
+]

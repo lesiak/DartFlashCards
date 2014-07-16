@@ -38,14 +38,14 @@
 
 { "en": "other side",        "ko": "건너편",          "fi": "toinen puoli (toisella puolella)",    "fr": "?" },
 
-{ "en": "bench",            "fi": "penkki",          "fr": "banc",        "es": "(el) banco",  "ko": "벤치" },
+{ "en": "bench",            "fi": "penkki",          "fr": "banc",          "es": "(el) banco",  "ko": "벤치" },
 { "en": "quiet",            "fi": "hiljainen",       "fr": "calme, tranquille", "es": "tranquilo",   "ko": "조용하다" },
-{ "en": "noisy",            "fi": "meluisa",         "fr": "bruyant",      "es": "ruidoso",   "ko": "시끄럽하다" },
+{ "en": "noisy",            "fi": "meluisa",         "fr": "bruyant",       "es": "ruidoso",   "ko": "시끄럽하다" },
 
-{ "en": "crowd",            "fi": "väkijoukko",      "fr": "foule",   "es": "(la) multitud",   "ko": "" },
-{ "en": "crowded",          "fi": "tungosta",        "fr": "",   "es": "lleno (de gente)",   "ko": "" },
+{ "en": "crowd",            "fi": "väkijoukko",      "fr": "foule",         "es": "(la) multitud",   "ko": "" },
+{ "en": "crowded",          "fi": "tungosta",        "fr": "",              "es": "lleno (de gente)",   "ko": "" },
 
-{ "en": "a palce",          "fi": "paikka, sija",        "fr": "lieu, endroit",   "es": "(el) lugar",   "ko": "" },
+{ "en": "a place",          "fi": "paikka, sija",    "fr": "lieu, endroit", "es": "(el) lugar",   "ko": "" },
 
 { "en": "prison",           "fi": "vankila",         "fr": "prison, (slang) cabane",  "es": "(la) prisión",    "ko": "교도소" },
 { "en": "city",             "fi": "kaupunki",        "fr": "ville",         "es": "(la) ciudad",  "ko": "도시" },
@@ -59,7 +59,7 @@
 { "en": "railway station",  "fi": "rautatieasema",   "fr": "gare",          "es": "(la) estación de ferrocarril",  "ko": "철도역" },
 
 { "en": "intersection",     "fi": "risteys",         "fr": "carrefour",     "es": "(la) intersección",  "ko": "사거리" },
-{ "en": "junction",         "fi": "ylitys",          "fr": "",     "es": "(el) cruce",  "ko": "" },
+{ "en": "junction",         "fi": "ylitys",          "fr": "",              "es": "(el) cruce",  "ko": "" },
 
 { "en": "pedestrian",       "fi": "jalankulkija",    "fr": "piéton",        "es": "(el) peatón",  "ko": "횡단 보도" },
 { "en": "pedestrian crossing", "fi": "suojatie",     "fr": "passage pour piétons", "es": "paso de cebra, paso de peatones","ko": "횡단 보도" },

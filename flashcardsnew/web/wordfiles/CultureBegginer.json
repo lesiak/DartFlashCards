@@ -1,11 +1,21 @@
 [
 
-{ "en": "art",       "ko": "예술",       "fi": "taide",    "fr": "art" },
+{ "en": "art",           "fi": "taide",          "fr": "art",           "es": "(el) arte",  "ko": "예술" },
 { "en": "culture",       "fi": "kulttuuri",      "fr": "culture",       "es": "(la) cultura",  "ko": "문화" },
 { "en": "entertainment", "fi": "viihde",         "fr": "divertissement","es": "(el) entretenimiento",  "ko": "환대" },
 { "en": "book",          "fi": "kirja",          "fr": "livre",         "es": "(el) libro",    "ko": "책" },
 { "en": "newspaper",     "fi": "sanomalehti",    "fr": "journal",       "es": "(el) periódico, (el) diario",   "ko": "신문 (new + hear)" },
 { "en": "magazine",      "fi": "aikakauslehti",  "fr": "magazine" ,     "es": "(la) revista",   "ko": "잡지"},
+{ "en": "page",         "fi": "sivu",            "fr": "page",          "es": "(la) página",    "ko": "페이지" },
+
+{ "en": "writer",        "fi": "kirjoittaja, kirjailija", "fr": "écrivain, auteur", "es": "(el) escritor", "ko": "작가" },
+{ "en": "poem",          "fi": "runo",          "fr": "poème",        "es": "(el) poema",  "ko": "시" },
+{ "en": "poet",          "fi": "runoilija",     "fr": "poète",        "es": "(el) poeta",  "ko": "시인" },
+{ "en": "literature",    "fi": "kirjallisuus",  "fr": "littérature",  "es": "(la) literatura",  "ko": "" },
+{ "en": "story",         "fi": "tarina",        "fr": "histoire",     "es": "(la) historia",  "ko": "" },
+{ "en": "tale",          "fi": "tarina",        "fr": "conte",     "es": "(el) cuento",  "ko": "" },
+{ "en": "a paperback",   "fi": "pokkari, taskukirja",        "fr": "",     "es": "(el) libro de bolsillo",  "ko": "" },
+
 
 { "en": "movie",         "fi": "elokuva",        "fr": "film",          "es": "(la) película",     "ko": "영화" },
 
@@ -16,18 +26,8 @@
 
 { "en": "scenario",      "fi": "skenaario, suunnitelma",          "fr": "scénario", "es": "(el) guión (cine), (el) argumento (teat)",  "ko": "" },
 
-{ "en": "sound",         "fi": "ääni",           "fr": "son" ,       "es": "(el) sonido",     "ko": "소리"},
-{ "en": "music",         "fi": "musiikki",       "fr": "musique",    "es": "(la) música",     "ko": "음악" },
-{ "en": "melody",        "fi": "melodia, sävel", "fr": "mélodie",    "es": "(la) melodía",    "ko": "멜로디"},
-{ "en": "band",          "fi": "yhtye, bändi",   "fr": "bande",      "es": "(el) grupo",      "ko": "음악회, 콘서트" },
-{ "en": "concert",       "fi": "konsertti",      "fr": "concert",    "es": "(el) concierto",  "ko": "음악회, 콘서트" },
-{ "en": "discotheque",   "fi": "diskoteekki",    "fr": "discothèque","es": "(la) discoteca",  "ko": "" },
-{ "en": "venue",         "fi": "tapahtumapaikka","fr": "",          "es": "(el) local",      "ko": "" },
 
 
-{ "en": "writer",        "fi": "kirjoittaja, kirjailija", "fr": "écrivain, auteur", "es": "(el) escritor", "ko": "작가" },
-{ "en": "poem",          "fi": "runo",          "fr": "poème",      "es": "(el) poema",  "ko": "시" },
-{ "en": "poet",          "fi": "runoilija",     "fr": "poète",      "es": "(el) poeta",  "ko": "시인" },
 
 { "en": "to draw",       "fi": "piirtää",       "fr": "dessiner",   "es": "dibujar",      "ko": "그리다" },
 { "en": "picture (drawing)","fi": "kuva",       "fr": "dessin",     "es": "(el) dibujo",  "ko": "그림" },

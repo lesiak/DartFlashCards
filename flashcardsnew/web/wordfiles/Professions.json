@@ -27,11 +27,6 @@
 { "en": "artist",        "fi": "taiteilija",    "fr": "artiste",     "es": "(el/la) artista",   "ko": "예술가"},
 { "en": "designer",      "fi": "suunnittelija,muotoilija",  "fr": "créateur",   "es": "(el) diseñador",   "ko": ""},
  
-{ "en": "king",          "fi": "kuningas",          "fr": "roi" ,    "es": "(el) rey",      "ko": ""}, 
-{ "en": "queen",         "fi": "kuningatar",        "fr": "reine" ,  "es": "(la) reina",    "ko": ""},
-{ "en": "prince",        "fi": "prinssi",           "fr": "prince" , "es": "(el) príncipe", "ko": ""},
-{ "en": "princess",      "fi": "prinsessa",         "fr": "" ,       "es": "(la) princesa", "ko": "왕자비"},
-
 { "en": "scientist",     "fi": "tiedemies, tutkija","fr": "",        "es": "(el) científico",   "ko": "과학자" },
 { "en": "farmer",        "fi": "maanviljelijä",     "fr": "agriculteur", "ko": "농장주" },
 { "en": "hunter",        "fi": "metsästäjä",        "fr": "chasseur","es": "(el) cazador","ko": "사냥꾼" },

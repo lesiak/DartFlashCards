@@ -71,6 +71,7 @@
 { "en": "file",        "fi": "tiedosto", "fr": "fichier",  "es": "(el) archivo",  "ko": "파일"},
 { "en": "menu (computer)", "fi": "menu",     "fr": "menu",     "es": "(el) menú",     "ko": "메뉴"},
 { "en": "to save",     "fi": "tallentaa","fr": "",         "es": "guardar",       "ko": ""},
+{ "en": "to delete",   "fi": "poistaa",  "fr": "effacer",         "es": "borrar, suprimir",       "ko": ""},
 { "en": "a click",     "fi": "klikkaus", "fr": "clic",     "es": "(el) clic",     "ko": "클릭"},
 { "en": "to click",    "fi": "klikata",  "fr": "cliquer",  "es": "hacer clic",    "ko": ""},
 { "en": "to drag",     "fi": "vetää",    "fr": "",         "es": "arrastrar",      "ko": ""},

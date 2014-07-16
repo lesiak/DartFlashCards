@@ -1,36 +1,30 @@
 [
 
+{ "en": "small",        "fi": "pieni",       "fr": "petit",    "es": "pequeño",    "ko": " 작다" },
+{ "en": "big",          "fi": "iso, suuri",  "fr": "grand",    "es": "grande",     "ko": " 크다" },
+{ "en": "low",          "fi": "matala",      "fr": "bas",      "es": "bajo",       "ko": "키가 작다" },
+{ "en": "high",         "fi": "korkea",      "fr": "haut",     "es": "alto",       "ko": "키가 크다" },
 
-{ "en": "appearance",      "fi": "",    "fr": "",                   "es": "(la) apariencia",   "ko": "외관" },
-{ "en": "short (height)",  "fi": "lyhyt",    "fr": "petit",         "es": "bajo",    "ko": "키가 작다" },
-{ "en": "tall (building)", "fi": "korkea",   "fr": "haut, grand",   "es": "alto",    "ko": "키가 크다" },
-{ "en": "tall (man)",      "fi": "pitkä",    "fr": "haut",          "es": "alto",    "ko": "키가 크다" },
+{ "en": "long",         "fi": "pitkä",       "fr": "long",     "es": "largo",      "ko": "길다" },
+{ "en": "short",        "fi": "lyhyt",       "fr": "court",    "es": "corto",      "ko": "짧다" },
 
-{ "en": "beautiful",   "fi": "kaunis",       "fr": "beau",         "es": "hermoso",  "ko": "아름답다" },
-{ "en": "pretty",      "fi": "sievä",        "fr": "joli",         "es": "bonito",   "ko": "아름답다" },
-{ "en": "cute",        "fi": "söpö, soma",   "fr": "mignon",       "es": "nono",     "ko": "귀엽다" },
-{ "en": "elegant",     "fi": "tyylikäs",     "fr": "élégant",      "es": "elegante", "ko": "우아한" },
+{ "en": "far",          "fi": "kaukana",     "fr": "loin",     "es": "lejos",      "ko": "멀다" },
+{ "en": "near",         "fi": "lähellä",     "fr": "près de",  "es": "cerca de",   "ko": "가깝다" },
 
-{ "en": "charming",   "fi": "",              "fr": "charmant",     "es": "encantador","ko": "매력적인" },
-
-{ "en": "ugly",        "fi": "ruma",         "fr": "laid, moche",  "es": "feo",      "ko": "추한" },
-
-
-{ "en": "slim, slender",   "fi": "hoikka, laiha",      "fr": "mince, maigre, svelte",  "es": "delgado",    "ko": "날씬하다, 호리 호리하다"},
-{ "en": "skinny",          "fi": "luiseva" ,           "fr": "maigre",                 "es": "flaco",  "ko": ""},
-{ "en": "fat",             "fi": "lihava, läski (derogatory), paksu" , "fr": "gros",   "es": "gordo",  "ko": "뚱뚱하다"},
+{ "en": "wide",         "fi": "leveä",       "fr": "large",    "es": "ancho",  "ko": "넓다" },
+{ "en": "narrow",       "fi": "kapea",       "fr": "étroit",   "es": "estrecho (+street, passage, room, stairs), angosto (+bed, channel, face)",  "ko": "좁다" },
+{ "en": "thin",         "fi": "ohut",        "fr": "mince",    "ko": "얇다" },
+{ "en": "thick",        "fi": "paksu",       "fr": "mince",    "ko": "두껍다" },
 
 
-{ "en": "good-looking",     "fi": "ylipaino",      "fr": "beau",   "es": "guapo",  "ko": ""},
-{ "en": "(one's) figure",   "fi": "hahmo" ,        "fr": "figure", "es": "(la) figura",   "ko": "몸매"  },
-{ "en": "a slender figure", "fi": "hoikka hahmo",  "fr":"",   "ko": "날씬한 몸매"},
-{ "en": "obesity",          "fi": "liikalihavuus", "fr":"obésité",  "es":"(la) obesidad",  "ko": "비만 (fat + full)"},
-{ "en": "(the) overweight", "fi": "ylipaino",      "fr": "embonpoint",   "es": "(el) sobrepeso",  "ko": ""},
+{ "en": "weight",       "fi": "paino",    "fr": "poids",  "es": "(el) peso",  "ko": "무게" },
+{ "en": "heavy",        "fi": "painava",  "fr": "lourd",  "es": "pesado",     "ko": "무거운 (무겁다)" },
+{ "en": "light",        "fi": "kevyt",    "fr": "léger",  "es": "ligero",     "ko": "가볍다" },
 
-{ "en": "straight (hair)", "fi": "" , "fr": "",                   "es": "liso",  "ko": ""},
-{ "en": "curly (hair)",    "fi": "" , "fr": "",                      "es": "rizado",  "ko": ""},
-{ "en": "makeup",          "fi": "meikki" ,        "fr": "maquillage",  "es": "(el) maquillaje",  "ko": ""}, 
-{ "en": "style",           "fi": "tyyli" ,        "fr": "style",  "es": "(el) estilo",  "ko": ""}
+
+{ "en": "appearance",      "fi": "",    "fr": "",                   "es": "(la) apariencia",   "ko": "외관" }
+
+
 
 
 

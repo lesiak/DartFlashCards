@@ -23,9 +23,9 @@
 { "en": "tired",         "fi": "väsynyt",   "fr": "fatigué",   "es": "cansado",  "ko": "피곤한" },
 
 
-{ "en": "to laugh",      "fi": "nauraa",      "fr": "rire",      "es": "reír",  "ko": "웃다" },
-{ "en": "to smile",      "fi": "hymyillä",    "fr": "sourire",   "es": "sourire",    "ko": "웃다" },
-{ "en": "smile",         "fi": "hymy",        "fr": "sourire",   "es": "sonreír",    "ko": "미소" },
+{ "en": "to laugh",      "fi": "nauraa",      "fr": "rire",      "es": "reír",          "ko": "웃다" },
+{ "en": "to smile",      "fi": "hymyillä",    "fr": "sourire",   "es": "(la) sonrisa",  "ko": "웃다" },
+{ "en": "smile",         "fi": "hymy",        "fr": "sourire",   "es": "sonreír",        "ko": "미소" },
 
 
 { "en": "anger",      "fi": "viha",           "fr": "colère",    "es": "(la) ira, (la) cólera", "ko": "분노" },
@@ -48,7 +48,6 @@
 
 { "en": "pleasure",   "fi": "ilo, huvi",      "fr": "plaisir",   "es": "(el) placer",   "ko": "" },
 { "en": "hunger",     "fi": "nälkä",          "fr": "faim",      "es": "(el) hambre",   "ko": "" },
-{ "en": "thirst",     "fi": "jano",           "fr": "soif",      "es": "(la) sed",      "ko": "" },
 { "en": "thirst",     "fi": "jano",           "fr": "soif",      "es": "(la) sed",      "ko": "" },
 { "en": "surprise",   "fi": "yllätys",        "fr": "surprise",  "es": "(la) sorpresa", "ko": "" },
 { "en": "to surprise","fi": "yllättää",       "fr": "surprendre","es": "sorprender", "ko": "" },
