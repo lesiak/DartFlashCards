@@ -4,7 +4,7 @@
 { "en": "oxygen",     "ko": "산소",      "fi": "happi",   "fr":"oxygène"},
 { "en": "nitrogen",   "ko": "질소",      "fi": "typpi",   "fr":"azote"},
 { "en": "sulphur",    "ko": "황",        "fi": "rikki",   "fr":"soufre"},
-{ "en": "rubber",     "ko": "고무",      "fi": "kumi",   "fr":"caoutchouc"},
+{ "en": "rubber",     "fi": "kumi",   "fr":"caoutchouc",  "es":"(el) caucho", "ko": "고무"},
 { "en": "asphalt",    "ko": "아스팔트",  "fi": "asfaltti",   "fr":"asphalte"}
 
 

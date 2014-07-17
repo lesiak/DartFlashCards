@@ -14,8 +14,8 @@
 { "en": "really",     "ko": "정말",       "fi": "todella",         "fr": "vraiment" },
 { "en": "not really", "ko": "별로",       "fi": "",                "fr": "" },
 
-{ "en": "memory",      "ko": "기억",       "fi": "muisto",        "fr": "souvenir" },
-{ "en": "remember",    "ko": "기억하다",   "fi": "muistaa",       "fr": "rappeler" },
+{ "en": "memory (souvenir)",      "fi": "muisto",        "fr": "souvenir",  "es": "(el) recuerdo","ko": "기억" },
+{ "en": "remember",    "fi": "muistaa",       "fr": "rappeler",  "es": "recordar", "ko": "기억하다" },
 { "en": "forget",      "fi": "unohtaa",     "fr": "oublier",     "es": "olvidar",   "ko": "" },
 { "en": "dream",       "fi": "unelma",      "fr": "rêve",        "es": "(el) sueño",   "ko": "" },
 { "en": "to dream",    "fi": "unelmoida",   "fr": "rêver",       "es": "soñar",   "ko": "" },

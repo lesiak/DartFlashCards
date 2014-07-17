@@ -24,7 +24,7 @@
 
 { "en": "nice",        "ko": "",          "fi": "kiva, mukava",       "fr": "agréable" },
 { "en": "pleasant",    "ko": "",          "fi": "miellyttävä, mukava","fr": "agréable" },
-{ "en": "comfortable", "ko": "",            "fi": "mukava",             "fr": "confortable" },
+{ "en": "comfortable", "fi": "mukava",    "fr": "confortable", "es": "cómodo, confortable",  "ko": "" },
 
 
 { "en": "useful",       "ko": "",          "fi": "hyödyllinen", "fr": "utile" },

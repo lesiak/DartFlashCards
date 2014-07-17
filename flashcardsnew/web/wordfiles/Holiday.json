@@ -14,11 +14,13 @@
 
 { "en": "travel agent", "fi": "",          "fr": "",            "es": "(el) agente de viajes",      "ko": "" },
 
-{ "en": "trip planner",     "ko": "",       "fi": "reittiopas",     "fr": "" },
+{ "en": "trip planner",     "fi": "reittiopas",     "fr": "",  "ko": "" },
 
-
-
-{ "en": "sunbathe",     "ko": "일광욕을하다",       "fi": "ottaa aurinkoa",     "fr": "bronzer" }
+{ "en": "to pack",     "fi": "pakata",          "fr": "",            "es": "empacar",      "ko": "" },
+{ "en": "to unpack",   "fi": "",                "fr": "",            "es": "desempacar",      "ko": "" },
+{ "en": "sunglasses",  "fi": "aurinkolasit",    "fr": "lunettes de soleil",            "es": "(las) gafas de sol",      "ko": "색안경" },
+{ "en": "swimsuit",    "fi": "uimapuku",        "fr": "maillot de bain",            "es": "(el) traje de baño",      "ko": "수영복" },
+{ "en": "sunbathe",    "fi": "ottaa aurinkoa",  "fr": "bronzer",  "ko": "일광욕을하다" }
 
 
 
