@@ -5,6 +5,8 @@ class CardUtils {
   
   static RegExp IN_PARENTHESES = new RegExp("\\(.+?\\)");
   
+  static RegExp IN_BRACKETS = new RegExp("\\[.+?\\]");
+  
   static String sanitizeWord(String lang, String word) {
     if (word == null) {
       return null;
@@ -12,8 +14,14 @@ class CardUtils {
     if (word.contains(IN_PARENTHESES)) {
       word = word.replaceAll(IN_PARENTHESES, "");
     }
+    if (word.contains(IN_BRACKETS)) {
+          word = word.replaceAll(IN_BRACKETS, "");
+        }
     if (word.contains(',')) {
       word = word.split(',')[0];
+    }
+    if (word.contains(';')) {
+          word = word.split(';')[0];
     }
     if (lang == "en") {
       if (word.startsWith("to ")) {
