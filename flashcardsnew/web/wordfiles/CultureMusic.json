@@ -14,8 +14,7 @@
 { "en": "band",          "fi": "yhtye, bändi",   "fr": "bande",      "es": "(el) grupo",      "ko": "음악회, 콘서트" },
 { "en": "concert",       "fi": "konsertti",      "fr": "concert",    "es": "(el) concierto",  "ko": "음악회, 콘서트" },
 { "en": "discotheque",   "fi": "diskoteekki",    "fr": "discothèque","es": "(la) discoteca",  "ko": "" },
-{ "en": "venue",         "fi": "tapahtumapaikka","fr": "",          "es": "(el) local",      "ko": "" },
-{ "en": "a venue",         "fi": "tapahtumapaikka","fr": "",          "es": "(el) local",      "ko": "" },
+{ "en": "a venue",       "fi": "tapahtumapaikka","fr": "",           "es": "(el) local",      "ko": "" },
 
 { "en": "a queue",       "fi": "jono",           "fr": "",           "es": "(la) cola",      "ko": "" },
 { "en": "to queue",      "fi": "jonottaa",       "fr": "",           "es": "hacer cola",      "ko": "" },

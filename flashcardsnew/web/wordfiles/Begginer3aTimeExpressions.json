@@ -26,7 +26,8 @@
 { "en": "tomorrow",   "fi": "huomenna",  "fr": "demain",     "es": "mañana", "ko": "내일" },
 { "en": "yesterday",  "fi": "eilen",     "fr": "hier",       "es": "ayer",   "ko": "어제"},
 { "en": "often",      "fi": "usein",     "fr": "souvent",    "es": "con frecuencia, a menudo",   "ko": "자주"},
-
+ 
+{ "en": "usually",      "fi": "yleensä, tavallisesti",     "fr": "",    "es": "normalmente, soler (to usually do - to be accustomed to)",   "ko": ""},
 
 
 { "en": "clock",       "fi": "kello",       "fr": "horloge",       "es": "(el) reloj",     "ko": "" },

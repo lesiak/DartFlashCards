@@ -51,6 +51,9 @@
 { "en": "on top of that",    "fi": "(sen) lisäksi", "fr":"", "es": "además", "ko": "게다가"},
 { "en": "in addition",       "fi": "(sen) lisäksi", "fr":"", "es": "además", "ko": "게다가"},
 
+
+{ "en": "instead of",   "fi": "sijasta, asemesta",   "fr":"au lieu de","es":"en vez de, en lugar de",  "ko": ""},
+
 { "en": "to go shopping",       "fi": "käydä ostoksilla", "fr":"",       "es": "hacer la compra", "ko": ""},
 { "en": "trolley",              "fi": "ostoskori",        "fr":"panier", "es": "(el) carrito", "ko": ""},
 { "en": "cash desk",              "fi": "kassa",        "fr":"caisse", "es": "(la) caja", "ko": ""},

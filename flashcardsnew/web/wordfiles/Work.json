@@ -27,27 +27,21 @@
 { "en": "busy",         "fi": "kiireinen",    "fr": "occupé",    "es": "ocupado",  "ko": "바쁘다" },
 { "en": "atmosphere",         "ko": "분위기",       "fi": "ilmapiiri, tunnelma",    "fr": "ambiance" },
 
-
-
-
-{ "en": "colleague",        "ko": "동료",             "fi": "kollega, virkaveli, virkatoveri",    "fr": "collègue" },
-{ "en": "coworker",        "ko": "회사동료",             "fi": "",    "fr": "" },
-
-{ "en": "coworker",        "ko": "루틴",             "fi": "rutiini",    "fr": "routine" },
-
-
+{ "en": "colleague",        "fi": "kollega, virkaveli, virkatoveri",    "fr": "collègue",   "ko": "동료" },
+{ "en": "coworker",         "fi": "",    "fr": "",  "ko": "회사동료" },
+{ "en": "routine",         "fi": "rutiini",       "fr": "routine",    "ko": "루틴" },
 { "en": "employer",        "fi": "työnantaja",    "fr": "employeur",    "ko": "고용주" },
 { "en": "employee",        "fi": "työntekijä",    "fr": "employé",      "es": "(el) empleado",   "ko": "" },
 
-{ "en": "business trip",        "ko": "출장 (out + spread)",             "fi": "liikematka",    "fr": "voyage d'affaires" },
-
-
+{ "en": "business trip",   "fi": "liikematka",    "fr": "voyage d'affaires",   "ko": "출장 (out + spread)" },
 { "en": "pretext",        "ko": "핑계",             "fi": "tekosyy",    "fr": "prétexte" },
 
 { "en": "promotion (in work)",           "fi": "",    "fr": "",  "es": "(el) ascenso",  "ko": "" },
 
 { "en": "repair",           "fi": "korjaus",    "fr": "",    "ko": "수리" },
 { "en": "to repair",        "fi": "korjata",    "fr": "réparer",  "es": "reparar",   "ko": "수리하다" },
+{ "en": "to fix",           "fi": "korjata",    "fr": "réparer",  "es": "fijar",     "ko": "" },
+
 { "en": "to retire",        "fi": "",    "fr": "",   "ko": "은퇴하다" },
 
 { "en": "Pleased to meet you",        "ko": "만나서 반가워요",             "fi": "Ilo tavata",    "fr": "c'est un plaisir de vous rencontrer, ravi de vous avoir rencontré" },

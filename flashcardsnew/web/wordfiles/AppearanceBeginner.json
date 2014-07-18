@@ -12,9 +12,9 @@
 { "en": "near",         "fi": "lähellä",     "fr": "près de",  "es": "cerca de",   "ko": "가깝다" },
 
 { "en": "wide",         "fi": "leveä",       "fr": "large",    "es": "ancho",  "ko": "넓다" },
-{ "en": "narrow",       "fi": "kapea",       "fr": "étroit",   "es": "estrecho (+street, passage, room, stairs), angosto (+bed, channel, face)",  "ko": "좁다" },
-{ "en": "thin (not thick)", "fi": "ohut",    "fr": "mince",    "es": "[+layer, sheet] fino; delgado, [+wall] delgado, [+slice, line, fabric] fino",  "ko": "얇다" },
-{ "en": "thick (not thin)",  "fi": "paksu",  "fr": "mince",    "es": "[+wall, line, slice, neck] grueso, [+lips] grueso; carnoso, [+waist] ancho, [+sweater] gordo",  "ko": "두껍다" },
+{ "en": "narrow",       "fi": "kapea",       "fr": "étroit",   "es": "estrecho [+street, passage, room, stairs], angosto [+bed, channel, face]",  "ko": "좁다" },
+{ "en": "thin (not thick)", "fi": "ohut",    "fr": "mince",    "es": "fino; delgado [+layer, sheet], delgado [+wall], fino [+slice, line, fabric]",  "ko": "얇다" },
+{ "en": "thick (not thin)",  "fi": "paksu",  "fr": "mince",    "es": "grueso [+wall, line, slice, neck], grueso; carnoso [+lips], ancho [+waist], gordo [+sweater]",  "ko": "두껍다" },
   
 
 { "en": "weight",       "fi": "paino",    "fr": "poids",  "es": "(el) peso",  "ko": "무게" },

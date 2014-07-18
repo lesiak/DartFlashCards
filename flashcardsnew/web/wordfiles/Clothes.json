@@ -1,6 +1,7 @@
 [
-{ "en": "bag",          "fi": "laukku",    "fr": "sac",       "fr": "(el) bolso",         "ko": "가방" },
-{ "en": "trousers",     "fi": "housut",    "fr": "pantalon",  "es": "pantalones",  "ko": "바지" },
+
+{ "en": "bag",          "fi": "laukku",    "fr": "sac",       "es": "(el) bolso",         "ko": "가방" },
+{ "en": "trousers",     "fi": "housut",    "fr": "pantalon",  "es": "pantalones",         "ko": "바지" },
 { "en": "jeans",        "fi": "farkut",    "fr": "jeans",     "es": "pantalones vaqueros",     "ko": "청바지 (blue + pants)" },
 
 { "en": "skirt",        "fi": "hame",      "fr": "jupe",      "es": "(la) falda",    "ko": "치마" },
@@ -8,17 +9,14 @@
 { "en": "shorts",       "fi": "sortsit",   "fr": "short",     "es": "pantalones cortos, ",  "ko": "반바지" },
 { "en": "shirt",        "fi": "paita",     "fr": "chemise",   "es": "(la) camisa", "ko": "셔츠" },
 { "en": "blouse",       "fi": "",          "fr": "blouse",     "es": "(la) blusa", "ko": "블라우스" },
+{ "en": "T-shirt",     "fi": "hiha",     "fr": "T-shirt",   "es": "(la) camiseta",   "ko": "" },
 
-{ "en": "headphones",   "fi": "kuulokkeet", "fr": "casque",        "es": "auriculares",  "ko": "헤드폰" },
+{ "en": "clothes",      "fi": "vaatteet",   "fr": "vêtements",    "es": "(la) ropa",      "ko": "" },
 { "en": "jacket",       "fi": "takki",      "fr": "veste",         "es": "(la) chaqueta","ko": "재킷" },
-{ "en": "key",          "fi": "avain",      "fr": "clé",           "es": "(la) llave",   "ko": "열쇠" },
-{ "en": "umbrella",     "fi": "sateenvarjo","fr": "parapluie",     "es": "(el) paraguas",  "ko": "우산" },
-{ "en": "eyeglasses",   "fi": "silmälasit", "fr": "lunettes",      "es": "gafas, anteojos","ko": "안경 (eye + lens)" },
-{ "en": "wallet",       "fi": "lompakko",   "fr": "portefeuille",  "es": "(la) cartera", "ko": "지갑" },
 { "en": "gloves",       "fi": "käsineet",   "fr": "gants",         "es": "guantes",  "ko": "장갑" },
 { "en": "panties",      "fi": "pikkuhousut, alushousut",   "fr": "culotte",  "ko": "팬티" },
 { "en": "necktie",      "fi": "kravatti",   "fr": "cravate",       "es": "(la) corbata", "ko": "넥타이" },
-{ "en": "ring",         "fi": "sormus",     "fr": "anneau",        "es": "(el) anillo", "ko": "반지 (half + finger)" },
+
 { "en": "sock",         "fi": "sukka",      "fr": "chaussette",    "es": "(el) calcetín",   "ko": "양말 (the West + Korean socks), 삭스" },
 
 { "en": "scarf",        "fi": "huivi",      "fr": "écharpe",       "es": "(la) bufanda", "ko": "목도리, 스카프" },
@@ -26,12 +24,29 @@
 { "en": "cap",          "fi": "",           "fr": "", "es": "(la) gorra", "ko": "" },
 
 
-{ "en": "pocket",       "fi": "tasku",      "fr": "poche",        "es": "(el) bolsillo", "ko": "포켓" },
 { "en": "belt",         "fi": "vyö",        "fr": "ceinture",     "es": "(el) cinturón",   "ko": "벨트" },
+{ "en": "key",          "fi": "avain",      "fr": "clé",           "es": "(la) llave",   "ko": "열쇠" },
+{ "en": "umbrella",     "fi": "sateenvarjo","fr": "parapluie",     "es": "(el) paraguas",  "ko": "우산" },
+{ "en": "eyeglasses",   "fi": "silmälasit", "fr": "lunettes",      "es": "(las) gafas","ko": "안경 (eye + lens)" },
+{ "en": "wallet",       "fi": "lompakko",   "fr": "portefeuille",  "es": "(la) cartera", "ko": "지갑" },
+{ "en": "headphones",   "fi": "kuulokkeet", "fr": "casque",        "es": "auriculares",  "ko": "헤드폰" },
+{ "en": "jewelry",      "fi": "korut",      "fr": "bijoux,bijouterie", "es": "(la) joyería,(las) joyas",  "ko": "보석류" },
+{ "en": "jewel",        "fi": "koru, jalokivi",     "fr": "bijou", "es": "(la) joya",  "ko": "보석" },
+{ "en": "ring",         "fi": "sormus",     "fr": "anneau",        "es": "(el) anillo", "ko": "반지 (half + finger)" },
+{ "en": "earrings",     "fi": "korvakorut", "fr": "",              "es": "(los) pendientes", "ko": "귀걸이" },
+{ "en": "bracelet",     "fi": "rannerengas", "fr": "bracelet",     "es": "(la) pulsera, (el) brazalete", "ko": "" },
+{ "en": "bangle",       "fi": "rannerengas", "fr": "bracelet",       "es": "(el) brazalete", "ko": "" },
+{ "en": "pendant",      "fi": "riipus",     "fr": "pendentif",     "es": "(el) colgante", "ko": "" },
+{ "en": "necklace",     "fi": "kaulakoru, kaulaketju", "fr": "collier",     "es": "(el) collar", "ko": "" },
+{ "en": "chain",        "fi": "ketju",      "fr": "chaîne",     "es": "(la) cadena", "ko": "" },
 
 { "en": "shoe",        "fi": "kenkä",       "fr": "chaussure",   "es": "(el) zapato",  "ko": "구두" },
+{ "en": "flip-flops",  "fi": "varvastossut", "fr": "tongs", "es": "(las) chanclas",  "ko": "" },
+{ "en": "sandals",     "fi": "sandaalit", "fr": "sandales", "es": "(las) sandalias",  "ko": "" },
+
 { "en": "shoelace",    "fi": "kengännauha", "fr":"lacet",        "ko": "신발 끈"},
 { "en": "heel",        "fi": "korko" ,      "fr":"talon",        "es":"(el) tacón",   "ko": "힐"},
+
 
 
 
@@ -41,6 +56,7 @@
 
 { "en": "to wear (necklaces, earrings)", "fi": "",   "fr": "",  "es": "llevar",  "ko": "하다" },
 { "en": "to wear (wristwatches)",              "fi": "",   "fr": "",  "es": "llevar", "ko": "차다" },
+{ "en": "to slip on",              "fi": "",   "fr": "",  "es": "ponerse", "ko": "차다" },
 
 
 { "en": "cool, stylish, good-looking",            "fi": "mahtava",          "fr": "excellent",  "ko": "멋있다" },
@@ -49,21 +65,19 @@
 { "en": "new",         "fi": "uusi",          "fr": "nouveau, neuf",  "es": "nuevo", "ko": "새로운, 새" },
 { "en": "old",         "fi": "vanha",         "fr": "vieux",          "es": "viejo", "ko": " 낡다, 오래되다, 늙다(of people)" },
 { "en": "size (of clothes)","fi": "koko, suuruus", "fr":"taille",     "es":"(la) talla", "ko": "사이즈"},
-
-
 { "en": "quality",     "fi": "laatu",    "fr": "qualité",   "es": "(la) calidad",   "ko": "품질" },
-{ "en": "clothes",     "fi": "vaatteet", "fr": "vêtements", "es": "(la) ropa",      "ko": "" },
-{ "en": "flip-flops",  "fi": "varvastossut", "fr": "tongs", "es": "(las) chanclas",  "ko": "" },
-{ "en": "sandals",     "fi": "sandaalit", "fr": "sandales", "es": "(las) sandalias",  "ko": "" },
-{ "en": "T-shirt",     "fi": "hiha",     "fr": "T-shirt",   "es": "(la) camiseta",   "ko": "" },
+{ "en": "to try on",      "fi": "kokeilla",      "fr": "essayer",     "es": "probarse", "ko": "" },
+{ "en": "matching (corresponding in pattern, color)",      "fi": "",      "fr": "assorti",     "es": "que hace juego", "ko": "" },
 
-{ "en": "sleeve",      "fi": "T-paita",   "fr": "manche",    "es": "(la) manga",   "ko": "" },
-{ "en": "button",      "fi": "nappi",     "fr": "bouton",    "es": "(el) botón",   "ko": "" },
-{ "en": "collar",      "fi": "kaulus",     "fr": "",         "es": "(el) cuello",   "ko": "" },
+{ "en": "pocket",      "fi": "tasku",      "fr": "poche",     "es": "(el) bolsillo", "ko": "포켓" },
+{ "en": "sleeve",      "fi": "T-paita",    "fr": "manche",    "es": "(la) manga",   "ko": "" },
+{ "en": "button",      "fi": "nappi",      "fr": "bouton",    "es": "(el) botón",   "ko": "" },
+{ "en": "collar",      "fi": "kaulus",     "fr": "",          "es": "(el) cuello",   "ko": "" },
 
 { "en": "cotton",      "fi": "puuvilla" ,"fr":"coton",       "es": "(el) algodón","ko": "솜"},
 { "en": "wool",        "fi": "villa",    "fr": "laine",      "es": "(la) lana",   "ko": "" },
 { "en": "silk",        "fi": "silkki" ,  "fr":"soie",        "es": "(la) seda",   "ko": "솜"},
+{ "en": "leather",     "fi": "nahka" ,  "fr":"cuir",         "es": "(el) cuero, (la) piel",   "ko": ""},
 
 { "en": "make, manufacture, tailor",         "ko": "짓다",       "fi": "",          "fr": "" }
 
