@@ -83,12 +83,13 @@
  { "en": "group",       "fi": "ryhmä",     "fr": "groupe",    "es": "(el) grupo",  "ko": "" },
  
 
-{ "en": "poor",    "ko": "가난하다",    "fi": "köyhä" , "fr":"pauvre"},
-{ "en": "rich (person)",    "ko": "부자 (rich man)",    "fi": "rikas" , "fr":"riche"},
+{ "en": "poor",         "fi": "köyhä",       "fr":"pauvre",   "es":"pobre",           "ko": "가난하다"},
+{ "en": "rich (person)","fi": "rikas",       "fr":"riche",    "es":"rico",  "ko": "부자 (rich man)"},
+{ "en": "wealthy",       "fi": "varakas",       "fr":"riche", "es":"rico, adinerado",  "ko": ""},
 
-{ "en": "smart",      "fi": "fiksu, terävä" , "fr":"intelligent",  "ko": "똑똑하다"},
-{ "en": "lazy",     "fi": "laiska" , "fr":"paresseux", "es":"perezoso, vago",   "ko": "게으른"  },
-{ "en": "wise",      "fi": "viisas, järkevä" , "fr":"sage",    "ko": "슬기롭다 (wisdom + be, be characterized by)"},
+{ "en": "smart",      "fi": "fiksu, terävä", "fr":"intelligent",  "ko": "똑똑하다"},
+{ "en": "lazy",       "fi": "laiska",        "fr":"paresseux",    "es":"perezoso, vago",   "ko": "게으른"  },
+{ "en": "wise",      "fi": "viisas, järkevä","fr":"sage",        "ko": "슬기롭다 (wisdom + be, be characterized by)"},
 { "en": "wisdom",       "fi": "viisaus, järkevyys" , "fr":"sagesse",  "ko": "슬기"},
 
 { "en": "behaviour",       "fi": "käyttäytyminen",   "fr": "comportement", "es": "(el) comportamiento",   "ko": ""},

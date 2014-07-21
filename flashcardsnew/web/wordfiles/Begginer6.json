@@ -4,10 +4,10 @@
 { "en": "a little",   "fi": "vähän",    "fr": "un peu",    "es": "un poco",  "ko": "조금" },
 { "en": "a lot",      "fi": "paljon",   "fr": "beaucoup",  "es": "mucho",    "ko": "많은" },
 
-{ "en": "enough (sufficient)",      "ko": "",       "fi": "tarpeeksi, riittävästi",   "fr": "assez" },
-{ "en": "enough (sufficiently)",    "ko": "충분히", "fi": "tarpeeksi, riittävän",     "fr": "suffisamment, assez" },
+{ "en": "enough (sufficient)",      "fi": "tarpeeksi, riittävästi",   "fr": "assez", "es": "suficiente, bastante",    "ko": "" },
+{ "en": "enough (sufficiently)",    "fi": "tarpeeksi, riittävän",     "fr": "suffisamment, assez", "es": "(lo) suficientemente, lo bastante", "ko": "충분히" },
 
-{ "en": "to be enough, sufficient",      "ko": "",       "fi": "riittää (+ ill)",      "fr": "suffire" },
+{ "en": "to be enough, sufficient",      "fi": "riittää (+ ill)",      "fr": "suffire" , "es": "ser lo suficientemente",  "ko": ""},
 
 { "en": "very",       "fi": "hyvin",   "fr": "très",    "es": "muy",   "ko": "아주" },
 

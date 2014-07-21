@@ -10,6 +10,7 @@
 
 { "en": "collect",         "fi": "kerätä",       "fr": "recueillir",     "ko": "모으다" },
 { "en": "save up",         "fi": "säästää",      "fr": "épargner",      "ko": "모으다" },
+{ "en": "spend (money)",   "fi": "säästää",      "fr": "épargner",      "ko": "모으다" },
 
 { "en": "account",         "ko": "계정",    "fi": "tili",          "fr": "compte" },
 { "en": "deposit",         "ko": "예금",    "fi": "talletus",          "fr": "dépôt" },
