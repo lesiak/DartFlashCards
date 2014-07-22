@@ -10,7 +10,7 @@
 
 { "en": "collect",         "fi": "kerätä",       "fr": "recueillir",     "ko": "모으다" },
 { "en": "save up",         "fi": "säästää",      "fr": "épargner",      "ko": "모으다" },
-{ "en": "spend (money)",   "fi": "säästää",      "fr": "épargner",      "ko": "모으다" },
+{ "en": "spend (money)",   "fi": "",             "fr": "dépenser",      "es": "gastar",      "ko": "" },
 
 { "en": "account",         "ko": "계정",    "fi": "tili",          "fr": "compte" },
 { "en": "deposit",         "ko": "예금",    "fi": "talletus",          "fr": "dépôt" },
@@ -38,6 +38,9 @@
 { "en": "a guarantee",     "ko": "보장 (protect + block)",      "fi": "takaus",          "fr": "garantie" },
 { "en": "to guarantee",    "ko": "보장하다",      "fi": "taata",          "fr": "garantir" },
 { "en": "percent",         "ko": "퍼센트",          "fi": "prosentti",    "fr": "pour cent" },
+
+{ "en": "cashpoint",                 "fi": "pankkiautomaatti",    "fr": "bancomat", "es": "(el) cajero automático",   "ko": "현금 자동 입출금기" },
+{ "en": "(bank) transfer",                 "fi": "",    "fr": "", "es": "(la) transferencia bancaria",   "ko": "" },
 
 { "en": "poverty",         "fi": "köyhyys",    "fr": "pauvreté",   "es": "(la) pobreza", "ko": "가난" }
 

@@ -34,6 +34,7 @@
 { "en": "drum",        "fi": "rumpu",       "fr":"tambour, batterie", "es": "(el) tambor",    "ko": "드럼"},
 { "en": "violin",      "fi": "viulu",       "fr":"violon",            "es": "(el) violín",  "ko": "바이올린"},
 
-{ "en": "musician",      "fi": "muusikko",     "fr":"musicien", "es":"(el) músico",  "ko": ""},
-{ "en": "musical instrument",  "fi": "soitin",   "fr":"instrument de musique",   "es":"(el) instrumento", "ko": "악기"}
+{ "en": "play (instrument)",  "fi": "soittaa",   "fr":"jouer",   "es":"tocar", "ko": ""},
+{ "en": "musician",           "fi": "muusikko",     "fr":"musicien", "es":"(el) músico",  "ko": ""},
+{ "en": "musical instrument", "fi": "soitin",   "fr":"instrument de musique",   "es":"(el) instrumento", "ko": "악기"}
 ]

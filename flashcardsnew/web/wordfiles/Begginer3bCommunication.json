@@ -18,7 +18,7 @@
 { "en": "number",       "fi": "numero",     "fr": "numéro",       "es": "(el) número",   "ko": "번호" },
 { "en": "to call (by phone)",      "fi": "(puhelimella) soittaa",    "fr": " appeler, téléphoner",         "es": "llamar", "ko": "" },
 
-{ "en": "to answer (receive a phone)",        "ko": "받다",          "fi": "",    "fr": "" },
+{ "en": "to answer (receive a phone)",  "fi": "",    "fr": "", "es": "contestar, coger (el teléfono)" ,   "ko": "받다" },
 
 { "en": "voicemail",     "fi": "puheposti",     "fr": "messagerie vocale",       "es": "(el) buzón de voz",   "ko": "" },
 { "en": "engaged (UK), busy (US)",   "fi": "",     "fr": "",       "es": "ocupado",   "ko": "" },

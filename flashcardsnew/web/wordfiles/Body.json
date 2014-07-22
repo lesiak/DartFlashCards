@@ -31,7 +31,10 @@
 { "en": "jaw",       "fi": "leuka",     "fr": "mâchoire",    "es": "(la) mandíbula",          "ko": "턱"},
 { "en": "eyebrow",   "fi": "kulmakarva","fr": "sourcil",     "es": "(la) ceja",               "ko": "눈썹" },
 { "en": "freckle",   "fi": "pisama, kesakko","fr": "",       "es": "(la) peca",               "ko": "" },
-{ "en": "skull",     "fi": "kallo",     "fr": "crâne",       "es": "(el) cráneo, (la) calavera",               "ko": "" },
+
+{ "en": "beard",     "fi": "parta",     "fr": "barbe",  "es": "(la) barba",               "ko": "" },
+{ "en": "moustache", "fi": "viikset",     "fr": "moustache",  "es": "(el) bigote",               "ko": "" },
+
 
 
 { "en": "to touch",  "fi": "koskea",    "fr": "toucher",     "es": "tocar",       "ko": "대다" },
@@ -43,6 +46,7 @@
 { "en": "blood",     "fi": "veri" ,     "fr":"sang",        "es": "(la) sangre",  "ko": "피"},
 { "en": "lung",      "fi": "keuhko",    "fr":"poumon",      "es": "(el) pulmón",  "ko": "폐"},
 { "en": "stomach",   "fi": "maha",      "fr":"estomac",     "es": "(el) estómago","ko": "위"},
+{ "en": "skull",     "fi": "kallo",     "fr": "crâne",       "es": "(el) cráneo, (la) calavera",               "ko": "" },
 
 { "en": "female",    "fi": "nainen",    "fr": "femelle",    "ko": "여성" },
 

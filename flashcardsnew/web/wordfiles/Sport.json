@@ -1,6 +1,7 @@
 [
 { "en": "hobby",       "fi": "mieliharrastus","fr": "hobby",    "es": "(el) pasatiempo, (el) hobby", "ko": "취미" },
 { "en": "sport",       "fi": "urheilu",       "fr": "sport",    "es": "(el) deporte", "ko": "스포츠" },
+{ "en": "play (game, sport)",       "fi": "pelata",       "fr": "jouer",    "es": "jugar", "ko": "" },
 
 { "en": "football",    "fi": "jalkapallo",  "fr": "football",   "es": "(el) fútbol",     "ko": "축구 (kick + ball)" },
 { "en": "volleyball",  "fi": "lentopallo",  "fr": "volley-ball","es": "(el) voleibol",   "ko": "배구 (push + ball)" },
@@ -49,6 +50,7 @@
 { "en": "badminton",   "fi": "sulkapallo",  "fr": "badminton",  "es": "(el) bádminton",  "ko": "배드민턴" },
 
 
+{ "en": "chess",      "fi": "shakki" , "fr": "échecs",   "es": "(el) ajedrez", "ko": ""},
 { "en": "game",      "fi": "peli, leikki" , "fr": "jeu",   "es": "(el) juego", "ko": "게임,  놀이"}
 
 ]

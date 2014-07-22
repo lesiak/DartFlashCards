@@ -1,5 +1,6 @@
 [
-{ "en": "to learn",       "ko": "배우다",       "fi": "oppia",    "fr": "apprendre" },
+{ "en": "to learn",       "fi": "oppia",     "fr": "apprendre",   "ko": "배우다" },
+{ "en": "to teach",       "fi": "opettaa",   "fr": "enseigner",   "es": "enseñar",  "ko": "" },
 { "en": "lesson",        "ko": "수업, 과",          "fi": "oppitunti",    "fr": "leçon" },
 { "en": "professor",        "ko": "교수",          "fi": "professori",    "fr": "professeur" },
 

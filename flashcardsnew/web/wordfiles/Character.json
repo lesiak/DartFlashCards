@@ -46,6 +46,8 @@
 { "en": "sincere",      "fi": "vilpitön",        "fr": "sincère",     "es": "sincero", "ko": "진실하다" },
 { "en": "honest",       "fi": "rehellinen",      "fr": "honnête",     "es": "honesto", "ko": "진실하다" },
 { "en": "reliable",     "fi": "luotettava",      "fr": "fiable",     "ko": "믿음직하다" },
+{ "en": "hard-working",     "fi": "ahkera",      "fr": "travailleur",  "es": "trabajador",     "ko": "" },
+
 
 { "en": "careful",      "fi": "varovainen",      "fr": "prudent",     "es": "prudente",  "ko": "" },
 { "en": "careless",     "fi": "varomaton",       "fr": "négligent",   "es": "negligente",  "ko": "" },

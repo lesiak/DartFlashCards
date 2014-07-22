@@ -76,7 +76,7 @@
 
 
 
-{ "en": "corner",        "fi": "nurkka, kulma",  "fr": "coin (m)",   "ko": "구석, 모서리" },
+{ "en": "corner (of room)", "fi": "nurkka, kulma",  "fr": "coin (m)",  "es": "(el) rincón",   "ko": "구석, 모서리" },
 
 { "en": "cellar",        "fi": "kellari",  "fr": "cave, cellier",   "es": "(el) sótano (basement), (la) bodega (for wine) " , "ko": "지하실" }
 
