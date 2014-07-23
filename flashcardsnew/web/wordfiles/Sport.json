@@ -1,36 +1,36 @@
 [
 { "en": "hobby",       "fi": "mieliharrastus","fr": "hobby",    "es": "(el) pasatiempo, (el) hobby", "ko": "취미" },
-{ "en": "sport",       "fi": "urheilu",       "fr": "sport",    "es": "(el) deporte", "ko": "스포츠" },
-{ "en": "play (game, sport)",       "fi": "pelata",       "fr": "jouer",    "es": "jugar", "ko": "" },
+{ "en": "sport",       "fi": "urheilu",       "fr": "sport",    "es": "(el) deporte",    "ko": "스포츠" },
+{ "en": "play (game, sport)", "fi": "pelata", "fr": "jouer",    "es": "jugar",           "ko": "" },
 
 { "en": "football",    "fi": "jalkapallo",  "fr": "football",   "es": "(el) fútbol",     "ko": "축구 (kick + ball)" },
 { "en": "volleyball",  "fi": "lentopallo",  "fr": "volley-ball","es": "(el) voleibol",   "ko": "배구 (push + ball)" },
 { "en": "basketball",  "fi": "koripallo",   "fr": "basket-ball","es": "(el) baloncesto", "ko": "농구 (bamboo basket + ball)" },
 
-{ "en": "hockey",      "fi": "jääkiekko",   "fr": "",           "es": "(el) hockey",  "ko": ""},
+{ "en": "hockey",      "fi": "jääkiekko",   "fr": "",           "es": "(el) hockey",     "ko": ""},
 
-{ "en": "player",      "fi": "pelaaja" ,    "fr": "joueur",     "es": "(el) jugador",  "ko": "플레이어"},
-{ "en": "team",        "fi": "joukkue" ,    "fr": "équipe",     "es": "(el) equipo",   "ko": "팀"},
+{ "en": "player",      "fi": "pelaaja" ,    "fr": "joueur",     "es": "(el) jugador",    "ko": "플레이어"},
+{ "en": "team",        "fi": "joukkue" ,    "fr": "équipe",     "es": "(el) equipo",     "ko": "팀"},
 
-{ "en": "to win",      "fi": "voittaa" ,    "fr": "gagner",     "es": "ganar",   "ko": ""},
-{ "en": "to lose",     "fi": "menettää" ,   "fr": "perdre",     "es": "perder",  "ko": ""},
+{ "en": "to win",      "fi": "voittaa" ,    "fr": "gagner",     "es": "ganar",           "ko": ""},
+{ "en": "to lose",     "fi": "menettää" ,   "fr": "perdre",     "es": "perder",          "ko": ""},
 
 { "en": "training",    "fi": "harjoitus",   "fr": "entraînement","es": "(el) entrenamiento",  "ko": "훈련" },
 
 { "en": "to ski",      "fi": "hiihtää" ,    "fr":"skier",       "es": "esquiar",  "ko": " "},
-{ "en": "skis",        "fi": "sukset" ,     "fr":"skis",        "es":"esquís",    "ko": " 스키"},
+{ "en": "skis",        "fi": "sukset" ,     "fr":"skis",        "es": "esquís",    "ko": " 스키"},
 
 { "en": "to jump",     "fi": "hypätä",      "fr": "sauter",     "es": "saltar","ko": "뛰다"},
 { "en": "to run",      "fi": "juosta",      "fr": "courir",     "es": "correr",  "ko": "달리다"},
 { "en": "to kick",     "fi": "potkia",      "fr": "botter",      "ko": "차다" },
 
 { "en": "to throw",    "fi": "heittää",     "fr": "jeter",      "es": "lanzar", "ko": "던지다" },
-{ "en": "catch",       "fi": "ottaa kiinni",     "fr": "",  "ko": "잡다" },
-{ "en": "swim",        "fi": "uida",        "fr": "nager",   "es": "nadar",   "ko": "수영하다" },
-{ "en": "swimming pool","fi": "uimahalli",    "fr": "piscine",        "ko": "수영장" },
-{ "en": "swimming",     "fi": "uinti",        "fr": "natation",   "es": "(la) natación",   "ko": "수영" },
+{ "en": "catch",       "fi": "ottaa kiinni","fr": "",              "ko": "잡다" },
+{ "en": "swim",        "fi": "uida",        "fr": "nager",      "es": "nadar",   "ko": "수영하다" },
+{ "en": "swimming pool","fi": "uimahalli",  "fr": "piscine",    "es": "(la) piscina",       "ko": "수영장" },
+{ "en": "swimming",     "fi": "uinti",      "fr": "natation",   "es": "(la) natación",   "ko": "수영" },
 
-{ "en": "competition",  "fi": "kilpailu, kisat" , "fr":"concours, compétition",   "ko": "경기 (競  “contest” and 技 “talent”)"},
+{ "en": "competition (sport)",  "fi": "kilpailu, kisat" , "fr":"concours, compétition","es":"(la) competencia",    "ko": "경기 (競  “contest” and 技 “talent”)"},
 { "en": "stadium",   "fi": "stadion" ,   "fr": "stade",         "es": "(el) estadio", "ko": "경기장"},
 
 { "en": "spectator", "fi": "katsoja",    "fr": "spectateur",    "es": "(el) espectador", "ko": "구경꾼"},

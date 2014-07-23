@@ -36,13 +36,13 @@
 { "en": "program",       "fi": "ohjelma",       "fr": "programme",  "es": "(el) programa",    "ko": "프로그램" },
 
 { "en": "interview",     "fi": "haastattelu",   "fr": "entretien", "es": "(la) entrevista",  "ko": "인터뷰" },
+{ "en": "series",        "fi": "sarja",         "fr": "série",     "es": "(la) serie",     "ko": "시리즈" },
+{ "en": "duration",      "fi": "kesto",         "fr": "durée",     "es": "(la) duración",  "ko": "지속"},
 
-{ "en": "series",         "ko": "시리즈",       "fi": "sarja",          "fr": "série" },
-{ "en": "duration",         "ko": "지속",       "fi": "kesto",          "fr": "durée" },
-
-{ "en": "a comeback",         "ko": "컴백",       "fi": "paluu",          "fr": "" },
+{ "en": "a comeback",    "fi": "paluu",         "fr": "",         "es": "(la) vuelta, (el) regreso",      "ko": "컴백" },
+{ "en": "make a comeback","fi": "",         "fr": "",             "es": "volver (a)",        "ko": "컴백" },
 
 { "en": "famous",      "fi": "kuuluisa",    "fr": "célèbre",         "es": "famoso", "ko": "유명한" },
-{ "en": "fan",         "fi": "fani",        "fr": "fan",      "ko": "팬" }
+{ "en": "fan",         "fi": "fani",        "fr": "fan",     "es": "(el) aficionado, (el) fan, (el) admirador, (el) fanático",    "ko": "팬" }
 
 ]
