@@ -29,7 +29,7 @@ class FileCache {
     var dirsToCreate = new List.from(langs)..addAll(respLangs);    
     return Future.forEach(dirsToCreate, (lang) {
       _filesystem.root.createDirectory(lang)
-        .then((entry) => _createDirectoryCallback(entry, lang), onError: (e) => _logFileError(e.error));
+        .then((entry) => _createDirectoryCallback(entry, lang), onError: (e) => _logFileError(e));
     });
   }
   
