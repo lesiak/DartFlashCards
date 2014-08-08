@@ -37,6 +37,8 @@
 { "en": "balcony",        "fi": "parveke",    "fr": "balcon",     "es": "(el) balcón", "ko": "발코니"     },
 { "en": "chimney",        "fi": "savupiippu", "fr": "cheminée",   "es": "(la) chimenea", "ko": "굴뚝"     },
 { "en": "wall",           "fi": "seinä, muuri","fr": "mur",       "es": "(la) pared",    "ko": "담" },
+{ "en": "loft",           "fi": "parvi",       "fr": "grenier",   "es": "(el) desván",    "ko": "" },
+
 
 { "en": "soap",           "fi": "saippua",    "fr": "savon",      "es": "(el) jabón","ko": "비누" }, 
 { "en": "shampoo",        "fi": "shampoo, hiustenpesuaine", 
