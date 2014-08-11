@@ -13,6 +13,8 @@ class FileCache {
   
   FileCache(List<String> langs, FileCacheReadyCallback readyCallback) {    
     int quota = 1024* 1024 * 1024;
+    DeprecatedStorageQuota sq = window.navigator.persistentStorage;
+    sq.queryUsageAndQuota((usage,q) => print("AAA Persistent storage: $usage, $q")); 
    // window.requestFileSystemSync(type, size)    
     //window.localStorage
     /*window.storageInfo.requestQuota(Window.PERSISTENT, quota)
