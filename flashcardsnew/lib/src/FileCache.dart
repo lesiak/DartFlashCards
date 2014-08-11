@@ -12,14 +12,19 @@ class FileCache {
   Map<String, DirectoryEntry> dirs = new Map<String, DirectoryEntry>();
   
   FileCache(List<String> langs, FileCacheReadyCallback readyCallback) {    
-    int quota = 1024* 1024 * 1024;
+    
     DeprecatedStorageQuota sq = window.navigator.persistentStorage;
-    sq.queryUsageAndQuota((usage,q) => print("AAA Persistent storage: $usage, $q")); 
+    
+    sq.queryUsageAndQuota((usage,q) {
+      var usagePerc = (usage*100)/q;
+      print("AAA Persistent storage: usage: $usage, quota: $q, used $usagePerc%");
+    }); 
    // window.requestFileSystemSync(type, size)    
     //window.localStorage
     /*window.storageInfo.requestQuota(Window.PERSISTENT, quota)
       .then((size) => print("Granted quota $size"), onError: (e) => print(e));*/
-    window.requestFileSystem(quota, persistent: true)
+    int fsQuota = 3 * 1024 * 1024 * 1024;
+    window.requestFileSystem(fsQuota, persistent: true)
         .then((fs) => _requestFileSystemCallback(langs,fs), onError: (e) => _logFileError(e))
         .then((nothing) => readyCallback(this));
   }
