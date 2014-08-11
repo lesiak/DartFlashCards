@@ -58,13 +58,25 @@
 { "en": "dinosaur",   "fi": "hirmulisko, dinosaurus",   "fr": "dinosaure",  "es": "(el) dinosaurio",    "ko": "공룡" },
 
 { "en": "hamster",    "fi": "hamsteri",   "fr": "hamster",     "es": "(el) hámster",  "ko": "조선 쥐" },
+{ "en": "guinea pig", "fi": "marsu",      "fr": "",            "es": "(el) conejillo de indias",  "ko": "기니 피그" },
 
 { "en": "animal",     "fi": "eläin",      "fr": "animal",      "es": "(el) animal",   "ko": "동물" },
 { "en": "wing",       "fi": "siipi",      "fr": "aile",        "es": "(el!) ala",      "ko": "날개" },
 { "en": "horn",       "fi": "",           "fr": "corne",       "es": "(el) cuerno",   "ko": "뿔" },
 { "en": "tail",       "fi": "häntä",      "fr": "queue",       "es": "(la) cola",     "ko": "꼬리" },
 { "en": "beak",       "fi": "nokka",      "fr": "bec",         "es": "(el) pico",     "ko": "부리" },
+{ "en": "fur",        "fi": "turkki",     "fr": "fourrure",    "es": "(el) pelo",     "ko": "모피" },
 
-{ "en": "nest",        "fi": "pesä",    "fr": "nid",    "es": "(el) nido", "ko": "둥지"}
+{ "en": "cage",       "fi": "häkki",      "fr": "cage",        "es": "(la) jaula",     "ko": "새장" },
+{ "en": "aquarium",   "fi": "akvaario",   "fr": "aquarium",    "es": "(el) acuario",   "ko": "수족관" },
+{ "en": "leash",      "fi": "talutin",    "fr": "laisse",      "es": "(la) correa",    "ko": "" },
+{ "en": "pet crate",      "fi": "",       "fr": "",            "es": "(el) transportín",    "ko": "" },
+{ "en": "nest",        "fi": "pesä",    "fr": "nid",    "es": "(el) nido", "ko": "둥지"},
+
+{ "en": "to bite",    "fi": "purra",      "fr": "mordre",      "es": "morder",    "ko": "" },
+
+{ "en": "vet",    "fi": "eläinlääkäri",      "fr": "vétérinaire",      "es": "(el) veterinario",    "ko": "" }
+
+
 
 ]
