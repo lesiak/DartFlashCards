@@ -23,7 +23,9 @@
 { "en": "scarf",        "fi": "huivi",      "fr": "écharpe",       "es": "(la) bufanda", "ko": "목도리, 스카프" },
 { "en": "hat",          "fi": "hattu",      "fr": "chapeau",       "es": "(el) sombrero",   "ko": "모자" },
 { "en": "cap",          "fi": "",           "fr": "",              "es": "(la) gorra", "ko": "" },
-
+{ "en": "jumper",          "fi": "",           "fr": "", "es": "(el) jersey", "ko": "" },
+{ "en": "warm (clothes)",          "fi": "",           "fr": "", "es": "de abrigo", "ko": "" },
+{ "en": "coat",          "fi": "",           "fr": "", "es": "(el) abrigo", "ko": "" },
 
 { "en": "belt",         "fi": "vyö",        "fr": "ceinture",     "es": "(el) cinturón",   "ko": "벨트" },
 { "en": "key",          "fi": "avain",      "fr": "clé",           "es": "(la) llave",   "ko": "열쇠" },
@@ -45,7 +47,9 @@
 { "en": "flip-flops",  "fi": "varvastossut", "fr": "tongs", "es": "(las) chanclas",  "ko": "" },
 { "en": "sandals",     "fi": "sandaalit", "fr": "sandales", "es": "(las) sandalias",  "ko": "" },
 
+{ "en": "boots",       "fi": "",          "fr": "",         "es": "(las) botas",  "ko": "" },
 { "en": "shoelace",    "fi": "kengännauha", "fr":"lacet",        "es":"(el) cordón",      "ko": "신발 끈"},
+
 { "en": "heel",        "fi": "korko" ,      "fr":"talon",        "es":"(el) tacón",   "ko": "힐"},
 { "en": "barefoot",        "fi": "avojaloin" ,      "fr":"pieds nus",        "es":"descalzo",   "ko": ""},
 
@@ -58,7 +62,8 @@
 { "en": "to wear (necklaces, earrings)", "fi": "",   "fr": "",  "es": "llevar",  "ko": "하다" },
 { "en": "to wear (wristwatches)",              "fi": "",   "fr": "",  "es": "llevar", "ko": "차다" },
 { "en": "to slip on",              "fi": "",   "fr": "",  "es": "ponerse", "ko": "차다" },
-
+{ "en": "to put on",               "fi": "",   "fr": "",  "es": "ponerse", "ko": "" },
+{ "en": "to take off",             "fi": "",   "fr": "",  "es": "quitarse", "ko": "" },
 
 { "en": "cool, stylish, good-looking", "fi": "mahtava", "fr": "excellent",  "es": "guay", "ko": "멋있다" },
 { "en": "sexy",        "fi": "seksikäs",          "fr": "sexy",       "es": "sexy", "ko": "섹시하다" },
