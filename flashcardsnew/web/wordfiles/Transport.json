@@ -35,7 +35,7 @@
 { "en": "station",     "fi": "asema" ,       "fr":"station",   "es": "(la) estación",   "ko": "역"},
 { "en": "platform",    "fi": "asemalaituri", "fr":"quai",      "es": "(el) andén",      "ko": "플랫폼, 승강장"},
 { "en": "ticket",      "fi": "lippu",        "fr": "billet",   "es": "(el) billete",    "ko": "표" },
-{ "en": "reserve",     "fi": "",             "fr": "",         "es": "reservar",    "ko": "" },
+
 { "en": "validate (a ticket)",      "fi": "",        "fr": "", "es": "picar",    "ko": "" },
 { "en": "(railway) track", "fi": "junarata",  "fr": "voie",    "es": "vía",    "ko": "" },
 

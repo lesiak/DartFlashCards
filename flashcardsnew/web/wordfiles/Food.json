@@ -21,7 +21,7 @@
 { "en": "juice",        "fi": "mehu",       "fr": "jus",           "es": "(el) zumo",     "ko": "주스" },
 
 { "en": "cheese",       "fi": "juusto",     "fr": "fromage",       "es": "(el) queso",    "ko": "치즈" },
-{ "en": "french fries", "fi": "ranskalaiset" , "fr":"","ko": "감자튀김"},
+{ "en": "french fries", "fi": "ranskalaiset","fr":"",              "es": "(las) papas fritas",       "ko": "감자튀김"},
 
 { "en": "mushroom",       "fi": "sieni",     "fr": "champignon",  "ko": "버섯" },
 { "en": "onion",          "fi": "sipuli",    "fr": "oignon",    "es": "(la) cebolla",    "ko": "양파 (the West + Welsh onion)" },
@@ -50,18 +50,18 @@
 { "en": "sushi",       "fi": "sushi",       "fr": "sushi",  "ko": "스시, 일본식 초밥 (vinegar + rice)" },
 
 { "en": "pancake",       "ko": "",         "fi": "ohukainen",    "fr": "" },
-{ "en": "scrambled eggs",       "ko": "",         "fi": "munakokkeli",    "fr": "" },
-{ "en": "omelette",       "ko": "",         "fi": "munakas",    "fr": "" },
-{ "en": "sausage",              "fi": "makkara",    "fr": "saucisse",  "es": "(la) salchicha" , "ko": ""},
+{ "en": "scrambled eggs", "fi": "munakokkeli",    "fr": "", "es": "(los) huevos revueltos",  "ko": "" },
+{ "en": "omelette",       "fi": "munakas",    "fr": "",     "es": "(la) tortilla, (el) omelet",    "ko": "" },
+{ "en": "sausage",        "fi": "makkara",    "fr": "saucisse",  "es": "(la) salchicha" , "ko": ""},
 
 
-{ "en": "ice cream",       "ko": "아이스크림",         "fi": "jätski, jäätelö",    "fr": "crème glacée" },
-{ "en": "alkohol",       "ko": "알코올",         "fi": "alkoholi",    "fr": "alcool" },
-{ "en": "sesame",       "ko": "참깨",         "fi": "seesami",    "fr": "sésame" },
+{ "en": "ice cream",      "fi": "jätski, jäätelö",    "fr": "crème glacée",  "es": "(el) helado",    "ko": "아이스크림" },
+{ "en": "alcohol",        "fi": "alkoholi",    "fr": "alcool",               "es": "(el) alcohol",   "ko": "알코올" },
+{ "en": "sesame",         "fi": "seesami",    "fr": "sésame",      "ko": "참깨" },
 
 
 { "en": "sweet",        "fi": "makea",        "fr": "doux",   "es": "dulce",   "ko": "달다" },
-{ "en": "bitter",       "ko": "쓰다",       "fi": "kitkerä",      "fr": "amer" },
+{ "en": "bitter",       "fi": "kitkerä",      "fr": "amer",   "ko": "쓰다" },
 { "en": "sour",         "fi": "hapan",        "fr": "aigre",   "es": "ácido", "ko": "신, 사워" },
 { "en": "spicy",        "ko": "맵다",       "fi": "mausteinen" ,  "fr":"piquant"},
 { "en": "mild",        "ko": "",       "fi": "mieto" ,  "fr":""},

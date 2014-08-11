@@ -114,17 +114,22 @@
               <template id="progressDivTmpl" bind if="{{ showProgress }}">
                 <progress-bar total="{{total}}" currentSucc="{{currentSucc}}" currentFail="{{currentFail}}"></progress-bar>                            
               </template>
-              <h3>Review</h3>
-              <review-table id="wordsTableToLearn" 
-                    cards="{{learningList}}"
-                    primaryLang="{{primaryLang}}"
-                    secondaryLang="{{secondaryLang}}"
-                    thirdLang="{{thirdLang}}"></review-table>                                      
-              <words-table id="wordsTable" 
-                    cards="{{notInLearningList}}"
-                    primaryLang="{{primaryLang}}"
-                    secondaryLang="{{secondaryLang}}"
-                    thirdLang="{{thirdLang}}"></words-table>                       
+              <template bind if="{{ !learningList.isEmpty }}">
+                <h3>Review</h3>              
+                <review-table id="wordsTableToLearn" 
+                      cards="{{learningList}}"
+                      primaryLang="{{primaryLang}}"
+                      secondaryLang="{{secondaryLang}}"
+                      thirdLang="{{thirdLang}}"></review-table>
+              </template>
+              <template bind if="{{ !notInLearningList.isEmpty }}">
+                <h3>Completed</h3>
+                <words-table id="wordsTable" 
+                      cards="{{notInLearningList}}"
+                      primaryLang="{{primaryLang}}"
+                      secondaryLang="{{secondaryLang}}"
+                      thirdLang="{{thirdLang}}"></words-table>
+              </template>
             </div><!-- deckDetailsDiv -->
           </div><!-- col-md-9 -->
         </div><!--welcomePageDiv-->

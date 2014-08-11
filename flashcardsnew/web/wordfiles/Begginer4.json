@@ -12,7 +12,7 @@
 { "en": "gift (present)",  "fi": "lahja",    "fr": "cadeau",  "es": "(el) regalo",    "ko": "선물" },
 
 
-{ "en": "joyful",        "ko": "즐겁다",          "fi": "iloinen",    "fr": "joyeux" },
+
 
 { "en": "to open",       "fi": "avata",   "fr": "ouvrir",    "es": "abrir",   "ko": "열다" },
 { "en": "open",          "fi": "auki",    "fr": "ouvert",    "es": "abierto", "ko": "열다" },
@@ -27,12 +27,12 @@
 { "en": "comfortable", "fi": "mukava",    "fr": "confortable", "es": "cómodo, confortable",  "ko": "" },
 
 
-{ "en": "useful",       "ko": "",          "fi": "hyödyllinen", "fr": "utile" },
-{ "en": "handy",        "ko": "",          "fi": "kätevä",      "fr": "maniable, pratique" },
+{ "en": "useful",            "fi": "hyödyllinen", "fr": "utile","es": "útil",  "ko": "" },
+{ "en": "handy (useful)",    "fi": "kätevä",      "fr": "maniable, pratique", "es": "práctico, útil",  "ko": ""  },
 
-{ "en": "rise",        "ko": "오르다",          "fi": "nousta",    "fr": "augmenter" },
+{ "en": "rise",              "fi": "nousta",    "fr": "augmenter",  "ko": "오르다" },
 { "en": "significantly",        "ko": "크게",          "fi": "merkittävästi",    "fr": "significativement" },
-{ "en": "advertisment",        "ko": "광고",          "fi": "mainos",    "fr": "publicité" },
+{ "en": "advertisement",        "fi": "mainos",    "fr": "publicité",   "es": "(el) anuncio",   "ko": "광고" },
 
 
 

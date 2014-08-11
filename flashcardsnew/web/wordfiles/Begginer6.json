@@ -31,10 +31,10 @@
 
 
 { "en": "solution",   "fi": "ratkaisu",    "fr": "solution",  "es": "(la) solución",  "ko": "해결" },
-{ "en": "result",     "fi": "tulos",    "fr": "résultat",  "fr": "(el) resultado", "ko": "결과 (finish + result)"},
+{ "en": "result",     "fi": "tulos",       "fr": "résultat",  "es": "(el) resultado", "ko": "결과 (finish + result)"},
 
-{ "en": "decision",   "ko": "결정 (decide + decide)",    "fi": "päätös" , "fr":"décision"},
-{ "en": "to decide",  "ko": "결정하다",    "fi": "päättää" , "fr":"décider"},
+{ "en": "decision",   "fi": "päätös",      "fr": "décision",  "es": "(la) decisión", "ko": "결정 (decide + decide)"},
+{ "en": "to decide",  "fi": "päättää",     "fr": "décider",   "es": "decidir",  "ko": "결정하다"},
 
 
 { "en": "cause, reason",  "ko": "원인",    "fi": "syy" , "fr":"cause, raison "},

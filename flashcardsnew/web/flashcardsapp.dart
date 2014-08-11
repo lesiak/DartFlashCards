@@ -38,7 +38,7 @@ class FlashCardsApp extends PolymerElement {
                      'CultureBegginer',                     
                      'CultureMusic',
                      'Sport',
-                     'Travel',
+                     'Transport',
                      'Holiday',
                      'Clothes',
                      'Food',
@@ -119,8 +119,7 @@ class FlashCardsApp extends PolymerElement {
       //app.startApplication();
       this.pronounciationManager = new PronounciationManager(cache, null);
     });
-    initLangsFromLocalStorage();
-  
+    initLangsFromLocalStorage();      
   }
   
   void initLangsFromLocalStorage() {

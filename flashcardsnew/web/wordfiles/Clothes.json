@@ -6,13 +6,14 @@
 
 { "en": "skirt",        "fi": "hame",      "fr": "jupe",      "es": "(la) falda",    "ko": "치마" },
 { "en": "dress",        "fi": "mekko",     "fr": "robe",      "es": "(el) vestido",  "ko": "드레스" },
-{ "en": "shorts",       "fi": "sortsit",   "fr": "short",     "es": "pantalones cortos, ",  "ko": "반바지" },
+{ "en": "shorts",       "fi": "sortsit",   "fr": "short",     "es": "pantalones cortos",  "ko": "반바지" },
 { "en": "shirt",        "fi": "paita",     "fr": "chemise",   "es": "(la) camisa", "ko": "셔츠" },
 { "en": "blouse",       "fi": "",          "fr": "blouse",     "es": "(la) blusa", "ko": "블라우스" },
 { "en": "T-shirt",     "fi": "hiha",     "fr": "T-shirt",   "es": "(la) camiseta",   "ko": "" },
 
 { "en": "clothes",      "fi": "vaatteet",   "fr": "vêtements",    "es": "(la) ropa",      "ko": "" },
 { "en": "jacket",       "fi": "takki",      "fr": "veste",         "es": "(la) chaqueta","ko": "재킷" },
+{ "en": "coat",       "fi": "takki",      "fr": "",         "es": "(el) abrigo","ko": "" },
 { "en": "gloves",       "fi": "käsineet",   "fr": "gants",         "es": "guantes",  "ko": "장갑" },
 { "en": "panties",      "fi": "pikkuhousut, alushousut",   "fr": "culotte",  "ko": "팬티" },
 { "en": "necktie",      "fi": "kravatti",   "fr": "cravate",       "es": "(la) corbata", "ko": "넥타이" },
@@ -20,8 +21,8 @@
 { "en": "sock",         "fi": "sukka",      "fr": "chaussette",    "es": "(el) calcetín",   "ko": "양말 (the West + Korean socks), 삭스" },
 
 { "en": "scarf",        "fi": "huivi",      "fr": "écharpe",       "es": "(la) bufanda", "ko": "목도리, 스카프" },
-{ "en": "hat",          "fi": "hattu",      "fr": "chapeau", "ko": "모자" },
-{ "en": "cap",          "fi": "",           "fr": "", "es": "(la) gorra", "ko": "" },
+{ "en": "hat",          "fi": "hattu",      "fr": "chapeau",       "es": "(el) sombrero",   "ko": "모자" },
+{ "en": "cap",          "fi": "",           "fr": "",              "es": "(la) gorra", "ko": "" },
 
 
 { "en": "belt",         "fi": "vyö",        "fr": "ceinture",     "es": "(el) cinturón",   "ko": "벨트" },
@@ -44,9 +45,9 @@
 { "en": "flip-flops",  "fi": "varvastossut", "fr": "tongs", "es": "(las) chanclas",  "ko": "" },
 { "en": "sandals",     "fi": "sandaalit", "fr": "sandales", "es": "(las) sandalias",  "ko": "" },
 
-{ "en": "shoelace",    "fi": "kengännauha", "fr":"lacet",        "ko": "신발 끈"},
+{ "en": "shoelace",    "fi": "kengännauha", "fr":"lacet",        "es":"(el) cordón",      "ko": "신발 끈"},
 { "en": "heel",        "fi": "korko" ,      "fr":"talon",        "es":"(el) tacón",   "ko": "힐"},
-
+{ "en": "barefoot",        "fi": "avojaloin" ,      "fr":"pieds nus",        "es":"descalzo",   "ko": ""},
 
 
 
@@ -59,7 +60,7 @@
 { "en": "to slip on",              "fi": "",   "fr": "",  "es": "ponerse", "ko": "차다" },
 
 
-{ "en": "cool, stylish, good-looking",            "fi": "mahtava",          "fr": "excellent",  "ko": "멋있다" },
+{ "en": "cool, stylish, good-looking", "fi": "mahtava", "fr": "excellent",  "es": "guay", "ko": "멋있다" },
 { "en": "sexy",        "fi": "seksikäs",          "fr": "sexy",       "es": "sexy", "ko": "섹시하다" },
 
 { "en": "new",         "fi": "uusi",          "fr": "nouveau, neuf",  "es": "nuevo", "ko": "새로운, 새" },

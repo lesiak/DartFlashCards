@@ -3,6 +3,7 @@
 { "en": "sad",       "fi": "surullinen",   "fr": "triste",    "es": "triste",   "ko": "" },
 { "en": "happy",     "fi": "onnellinen",   "fr": "heureux",   "es": "feliz",    "ko": "행복하다" },
 { "en": "glad",      "fi": "iloinen",      "fr": "heureux",   "es": "contento", "ko": "성난" },
+{ "en": "joyful",    "fi": "iloinen",      "fr": "joyeux",    "es": "alegre",   "ko": "즐겁다" },
 
 { "en": "angry",     "fi": "vihainen, suuttunut",  "fr": "en colère, fâché",  "es": "enfadado",  "ko": "성난" },
 { "en": "proud",     "fi": "ylpeä",                "fr": "fier,orgueilleux",  "es": "orgulloso", "ko": "" },

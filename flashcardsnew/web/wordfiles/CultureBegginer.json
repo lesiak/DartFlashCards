@@ -32,6 +32,11 @@
 { "en": "to draw",       "fi": "piirtää",       "fr": "dessiner",   "es": "dibujar",      "ko": "그리다" },
 { "en": "picture (drawing)","fi": "kuva",       "fr": "dessin",     "es": "(el) dibujo",  "ko": "그림" },
 
+{ "en": "to paint",          "fi": "maalata",       "fr": "peindre",     "es": "pintar",  "ko": "" },
+{ "en": "picture (painting)","fi": "",       "fr": "",     "es": "(el) cuadro",  "ko": "" },
+{ "en": "abstract (adj)","fi": "",       "fr": "",     "es": "abstracto",  "ko": "" },
+{ "en": "realistic (adj)","fi": "",       "fr": "",     "es": "realista",  "ko": "" },
+
 { "en": "channel",       "fi": "kanava",        "fr": "canal",      "es": "(el) canal",   "ko": "채널" },
 { "en": "program",       "fi": "ohjelma",       "fr": "programme",  "es": "(el) programa",    "ko": "프로그램" },
 
