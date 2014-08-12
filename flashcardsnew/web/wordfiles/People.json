@@ -31,8 +31,8 @@
 
 { "en": "date of birth",        "ko": "생년월일",  "fi": "syntymäaika" , "fr":"date de naissance"},
 { "en": "place of birth",       "ko": "출생지",    "fi": "syntymäpaikka" , "fr":"lieu de naissance"},
-{ "en": "birthday",        "ko": "생일",  "fi": "syntymäpäivä" , "fr":"anniversaire"},
-{ "en": "address",        "ko": "주소",  "fi": "osoite" , "fr":"adresse"},
+{ "en": "birthday",       "fi": "syntymäpäivä",     "fr": "anniversaire",  "es": "(el) cumpleaños",    "ko": "생일"  },
+{ "en": "address",        "fi": "osoite",           "fr": "adresse",   "ko": "주소"},
 
 
 { "en": "family",      "fi": "perhe",       "fr": "famille",  "es": "(la) familia","ko": "가족" },
@@ -58,6 +58,11 @@
 
 { "en": "grandson",      "fi": "pojanpoika",    "fr": "petit fils",     "es": "(el) nieto",  "ko": "" },
 { "en": "granddaughter", "fi": "tyttärentytär", "fr": "petite fille",   "es": "(la) nieta",  "ko": "" },
+
+{ "en": "uncle",         "fi": "setä, eno",     "fr": "oncle",          "es": "(el) tío",  "ko": "" },
+{ "en": "aunt",          "fi": "täti",          "fr": "tante",          "es": "(la) tía",  "ko": "" },
+
+{ "en": "cousin",        "fi": "serkku",        "fr": "cousin",         "es": "(el) primo",  "ko": "" },
 
 { "en": "friend",        "fi": "ystävä",        "fr": "ami",            "es": "(el) amigo",  "ko": "친구" },
 { "en": "friendship",    "fi": "ystävyys",      "fr": "amitié",         "es": "(la) amistad",  "ko": "" },

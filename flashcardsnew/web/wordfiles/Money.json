@@ -35,8 +35,6 @@
 
 { "en": "cost, expense",   "ko": "비용",            "fi": "kustannus",          "fr": "coût" },
 { "en": "insurance",       "ko": "보험 (protect + dangerous)",  "fi": "vakuutus",          "fr": "assurance" },
-{ "en": "a guarantee",     "ko": "보장 (protect + block)",      "fi": "takaus",          "fr": "garantie" },
-{ "en": "to guarantee",    "ko": "보장하다",      "fi": "taata",          "fr": "garantir" },
 { "en": "percent",         "ko": "퍼센트",          "fi": "prosentti",    "fr": "pour cent" },
 
 { "en": "cashpoint",                 "fi": "pankkiautomaatti",    "fr": "bancomat", "es": "(el) cajero automático",   "ko": "현금 자동 입출금기" },

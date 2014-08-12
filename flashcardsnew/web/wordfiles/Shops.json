@@ -1,0 +1,18 @@
+[
+
+{ "en": "buy",         "fi": "ostaa",    "fr": "acheter",              "es": "comprar",     "ko": "사다" },
+{ "en": "sell",        "fi": "myydä",    "fr": "vendre",               "es": "vender",      "ko": "팔다" },
+{ "en": "cheap",       "fi": "halpa",    "fr": "bon marché, pas cher", "es": "barato",      "ko": "싸다" },
+{ "en": "expensive",   "fi": "kallis",   "fr": "cher",                 "es": "caro",        "ko": "비싸다" },
+{ "en": "to cost",     "fi": "maksaa",   "fr": "coûter",               "es": "costar",      "ko": "" },
+{ "en": "price",       "fi": "hinta",    "fr": "prix",                 "es": "(el) precio", "ko": "가격" },
+{ "en": "pay",         "fi": "maksaa",   "fr": "payer",                "es": "pagar",       "ko": "지불하다" },
+{ "en": "money",       "fi": "raha",     "fr": "argent",               "es": "(el) dinero", "ko": "돈" },
+{ "en": "to take",     "fi": "ottaa",    "fr": "prendre",              "es": "coger",       "ko": "잡다" },
+
+{ "en": "to browse (in shop)","fi": "", "fr": "",     "es": "rebuscar",              "ko": "" },
+{ "en": "second-hand",        "fi": "", "fr": "",     "es": "de segunda mano",              "ko": "" },
+{ "en": "a guarantee",        "fi": "takaus",          "fr": "garantie",    "ko": "보장 (protect + block)" },
+{ "en": "to guarantee",       "fi": "taata",          "fr": "garantir",  "ko": "보장하다" }
+
+]

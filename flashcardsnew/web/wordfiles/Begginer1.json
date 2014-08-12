@@ -60,7 +60,7 @@
 { "en": "hear",         "fi": "kuulla",    "fr": "entendre",        "es": "oír",         "ko": "듣다" },
 { "en": "listen",       "fi": "kuunnella", "fr": "écouter",         "es": "escuchar",    "ko": "듣다" },
 { "en": "to need",      "fi": "tarvita",   "fr": "avoir besoin de", "es": "necesitar", "ko": "필요하다" },
-{ "en": "to want",      "fi": "haluta",    "fr": "vouloir",         "es": "querer",    "ko": "싶다" }
+{ "en": "to want",      "fi": "haluta",    "fr": "vouloir",         "es": "querer, desear",    "ko": "싶다" }
 
 
 

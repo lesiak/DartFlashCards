@@ -14,6 +14,7 @@
 { "en": "butcher",      "fi": "teurastaja",      "fr": "boucher",     "es": "(el) carnicero",   "ko": "" },
 { "en": "watchmaker",   "fi": "kelloseppä",      "fr": "horloger",    "es": "(el) relojero",   "ko": "" },
 { "en": "cleaner",      "fi": "siivooja",        "fr": "nettoyeur",   "es": "(el) limpiador",   "ko": "" },
+{ "en": "barman",       "fi": "baarimikko",      "fr": "barman",      "es": "(el/la) barman",   "ko": "" },
 
 
 { "en": "manager",       "fi": "johtaja",         "fr": "",           "es": "(el) gerente",     "ko": "과장님" },
@@ -45,6 +46,7 @@
 { "en": "judge",         "fi": "tuomari",     "fr": "juge",       "es": "(el) juez", "ko": "" },
 
 { "en": "waiter",        "fi": "tarjoilija",  "fr": "serveur",    "es": "(el) camarero",   "ko": "웨이터"},
+{ "en": "to serve (waiter)", "fi": "",  "fr": "",    "es": "atender",   "ko": ""},
 
 { "en": "policeman",     "fi": "poliisi",     "fr":"policier, gendarme", "es": "(el) policía", "ko": "경찰관"},
 { "en": "fireman",       "fi": "palomies" ,   "fr":"pompier",            "es": "(el) bombero", "ko": "소방수"},

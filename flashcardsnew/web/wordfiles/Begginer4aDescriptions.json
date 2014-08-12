@@ -10,6 +10,7 @@
 { "en": "popular",       "fi": "suosittu",      "fr": "populaire",      "es": "popular", "ko": "인기 있는, 유명한" },
 { "en": "popularity",    "fi": "suosio",        "fr": "popularité",     "es": "(la) popularidad",  "ko": "인기" },
 { "en": "favorite",      "fi": "suosikki",      "fr": "favori, préféré","es": "favorito", "ko": "" },
+{ "en": "urgent",        "fi": "kiireellinen",  "fr": "urgent",         "es": "urgente", "ko": "" },
 
 
 { "en": "to seem",       "fi": "näyttää, tuntua",    "fr": "paraître, sembler",   "es": "parecer",  "ko": "" },

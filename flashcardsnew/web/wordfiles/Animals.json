@@ -75,6 +75,11 @@
 
 { "en": "to bite",    "fi": "purra",      "fr": "mordre",      "es": "morder",    "ko": "" },
 
+{ "en": "female (animals)",   "fi": "naaras",    "fr": "femelle", "es": "(la) hembra",    "ko": "암컷" },
+{ "en": "male (animals)",     "fi": "",    "fr": "", "es": "(el) macho",    "ko": "" },
+
+{ "en": "have (an animal)",     "fi": "",    "fr": "", "es": "tener",    "ko": "" },
+
 { "en": "vet",    "fi": "eläinlääkäri",      "fr": "vétérinaire",      "es": "(el) veterinario",    "ko": "" }
 
 

@@ -13,18 +13,19 @@
 { "en": "to get bored",  "fi": "kyllästyä",      "fr": "s'ennuyer","es": "aburrirse",   "ko": "" },
 
 { "en": "timid",         "fi": "arka, pelokas",          "fr": "timide", "es": "tímido",   "ko": "" },
-{ "en": "to be timid",   "ko": "",       "fi": "arastella, arastaa",          "fr": "être timide" },
-{ "en": "to hesitate",   "ko": "주저하다",       "fi": "epäröidä",          "fr": "hésiter" },
+{ "en": "to be timid",   "fi": "arastella, arastaa",          "fr": "être timide",  "ko": "" },
+{ "en": "to hesitate",   "fi": "epäröidä",       "fr": "hésiter",     "ko": "주저하다" },
 
 { "en": "patient",       "fi": "kärsivällinen",  "fr": "patient",     "es": "paciente",              "ko": "" },
 { "en": "impatient",     "fi": "kärsimätön",     "fr": "impatient",   "es": "impaciente",              "ko": "" },
 { "en": "punctual",      "fi": "täsmällinen",    "fr": "ponctuel",    "es": "puntual",              "ko": "" },
 { "en": "laborious",     "fi": "työläs",         "fr": "laborieux",   "ko": "힘들다" },
 
-{ "en": "friendly",      "fi": "ystävällinen",   "fr": "amical" ,     "es": "amable", "ko": ""},
-{ "en": "shy",           "fi": "ujo",            "fr": "timide" ,     "es": "tímido", "ko": ""},
-{ "en": "aggressive",    "fi": "aggressiivinen", "fr": "agressif",    "es": "agresivo",   "ko": "" },
-{ "en": "stubborn",      "fi": "itsepäinen",     "fr": "têtu",        "es": "terco",   "ko": "" },
+{ "en": "friendly",      "fi": "ystävällinen",   "fr": "amical" ,     "es": "amable",    "ko": "" },
+{ "en": "shy",           "fi": "ujo",            "fr": "timide" ,     "es": "tímido",    "ko": "" },
+{ "en": "aggressive",    "fi": "aggressiivinen", "fr": "agressif",    "es": "agresivo",  "ko": "" },
+{ "en": "stubborn",      "fi": "itsepäinen",     "fr": "têtu",        "es": "terco",     "ko": "" },
+{ "en": "arrogant",      "fi": "ylimielinen",    "fr": "arrogant",    "es": "arrogante", "ko": "" },
 
 { "en": "self-confident","fi": "itsevarma",      "fr": "sûr de soi",  "es": "seguro de sí mismo",   "ko": "" },
 

@@ -27,6 +27,7 @@
 { "en": "busy",         "fi": "kiireinen",    "fr": "occupé",    "es": "ocupado",  "ko": "바쁘다" },
 { "en": "atmosphere",         "ko": "분위기",       "fi": "ilmapiiri, tunnelma",    "fr": "ambiance" },
 
+{ "en": "boss",        "fi": "",    "fr": "",  "es": "(el) jefe",  "ko": "" },
 { "en": "colleague",        "fi": "kollega, virkaveli, virkatoveri",    "fr": "collègue",   "ko": "동료" },
 { "en": "coworker",         "fi": "",    "fr": "",  "ko": "회사동료" },
 { "en": "routine",         "fi": "rutiini",       "fr": "routine",    "ko": "루틴" },
