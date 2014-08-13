@@ -19,11 +19,12 @@ class FileCache {
       var usagePerc = (usage*100)/q;
       print("AAA Persistent storage: usage: $usage, quota: $q, used $usagePerc%");
     }); 
-   // window.requestFileSystemSync(type, size)    
-    //window.localStorage
+   //     
+
     /*window.storageInfo.requestQuota(Window.PERSISTENT, quota)
       .then((size) => print("Granted quota $size"), onError: (e) => print(e));*/
     int fsQuota = 3 * 1024 * 1024 * 1024;
+    sq.requestQuota(fsQuota, (int grantedQuotaInBytes) => print('Granted $grantedQuotaInBytes bytes'), (DomError error) => print(error));
     window.requestFileSystem(fsQuota, persistent: true)
         .then((fs) => _requestFileSystemCallback(langs,fs), onError: (e) => _logFileError(e))
         .then((nothing) => readyCallback(this));
