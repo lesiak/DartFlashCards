@@ -30,13 +30,16 @@ class PronounciationManager {
       fetchProgressStepMethod(false);
       return;
     }
-    if (hasForvoResponseInLocalStorage(lang, word)) {
-      print ('found pronounciation list for ${lang}/${word} in localStorage');
-      fetchProgressStepMethod(true);
-    } else {
-      fetchPronunciations(lang, word, fetchProgressStepMethod);
-    }    
-  }
+    hasForvoResponseInLocalStorage(lang,word).then((bool hasItem) {
+      if (hasItem) {
+        print ('found pronounciation list for ${lang}/${word} in localStorage');
+          fetchProgressStepMethod(true);
+        } else {
+          fetchPronunciations(lang, word, fetchProgressStepMethod);
+        }  
+      }
+    );      
+  }         
   
   void fetchPronunciations(String lang, String word, FetchProgressStepMethod fetchProgressStepMethod) {
     print("fetching prono " + lang + " " + word);
@@ -59,6 +62,7 @@ class PronounciationManager {
     try {
      r = new ForvoResponse.fromJsonString(lang, word, responseText);
     } catch(e) {
+      //fileCache.saveText('PronoMetadata', "dupa.txt",  "dupa").then((val) => print('saved in filesystem'));
       fetchProgressStepMethod(false);
       print(e);
       return;
@@ -79,7 +83,7 @@ class PronounciationManager {
       }).then((val) {
         saveForvoResponseToLocalStorage(lang, word, r);
         fetchProgressStepMethod(true);
-      }).catchError((error) { 
+      }).catchError((error) {         
         fetchProgressStepMethod(false);
         print(error);
       });
@@ -91,14 +95,16 @@ class PronounciationManager {
   }
   
   void saveForvoResponseToLocalStorage(String lang, String word, ForvoResponse r) {    
-    var key = '${lang}/${word}';
-    window.localStorage[key] = r.toJsonString();
-    print('saved ${key} in localstorage');
+    var key = '${lang}_${word}';
+    //window.localStorage[key] = r.toJsonString();
+    fileCache.saveText('PronoMetadata', key,  r.toJsonString()).then((val) => print('saved ${key} in filesystem'));
+    
   }
   
-  bool hasForvoResponseInLocalStorage(String lang, String word) {    
-    var key = '${lang}/${word}';
-    return window.localStorage[key] != null;    
+  Future<bool> hasForvoResponseInLocalStorage(String lang, String word) {    
+    var key = '${lang}_${word}';
+    //return window.localStorage[key] != null;
+    return fileCache.fileExistsinDir('PronoMetadata', key);
   }
   
   

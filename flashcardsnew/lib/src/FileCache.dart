@@ -31,10 +31,9 @@ class FileCache {
   }
   
   Future _requestFileSystemCallback(List<String> langs, FileSystem filesystem) {
-    _filesystem = filesystem;
-    //var langs = ["en", "ko", "fi", "fr", "hu", "zh"];
+    _filesystem = filesystem;    //
     var respLangs = langs.map((lang) => lang+ "Resp");    
-    var dirsToCreate = new List.from(langs)..addAll(respLangs);    
+    var dirsToCreate = new List.from(langs)..addAll(respLangs)..add('PronoMetadata');
     return Future.forEach(dirsToCreate, (lang) {
       _filesystem.root.createDirectory(lang)
         .then((entry) => _createDirectoryCallback(entry, lang), onError: (e) => _logFileError(e));
@@ -43,7 +42,59 @@ class FileCache {
   
   void _createDirectoryCallback(DirectoryEntry dir, String name) {
     print('Created directory ${dir.fullPath} ');
+    
     dirs[name] = dir;
+    
+    String json = '["aaa", "bbb"]';
+    if (name == 'enResp') {
+      dir.createFile("dupa2.json").then((entry) {
+              print('Writing dupa');
+              Future<FileEntry> writtenFut = entry.createWriter().then((FileWriter writer) {
+                   Blob newBlob = new Blob([json], 'text/plain');
+                   writer.write(newBlob);             
+                   print("dupa written");
+                   return entry;
+                 });
+            });
+      print ("AAAAAAAAAAA");
+      readFileAsString('enResp','dupa2.json').then((v) =>print(v));  
+    }
+   /* if (name == 'enResp') {
+      
+    }*/
+  }
+  
+  Future<String> readFileAsString(String dir, String fileName) {
+    return readEntry(dir, fileName).then((Entry entry) => readEntryAsString(entry));
+  }
+  
+  Future<String> readEntryAsString(FileEntry entry) {
+    return entry.file().then(readFSFileAsString);
+  }
+     
+  Future<String> readFSFileAsString(File ff) {
+    var reader = new FileReader();
+    reader.readAsText(ff);
+    return reader.onLoadEnd.first.then((ProgressEvent e) => reader.result);
+  }
+  
+ 
+  
+  Future<bool> fileExistsinDir(String dir, String fileName) {
+    return fileExists(dirs[dir], fileName);               
+  }
+    
+  
+  Future<bool> fileExists(DirectoryEntry dir, String fileName) {
+    Future<Entry> entryFut = dir.getFile(fileName);
+    return entryFut.then((Entry entry) => true, onError: (e) => false);               
+  }
+     
+    
+  void removeFile(DirectoryEntry dir, String fileName) {
+    dir.getFile(fileName).then((Entry fileEntry) {
+      fileEntry.remove().then((_empty) => print('Removed: $fileName'), onError: _logFileError);
+    }); 
   }
   
   Future<FileEntry> saveBlob(String dir, String name, Blob blob) {    
@@ -54,6 +105,11 @@ class FileCache {
           throw e;
       });
       return ret;
+  }
+  
+  Future<FileEntry> saveText(String dir, String name, String text) {
+    Blob blob = new Blob([text], 'text/plain');
+    return saveBlob(dir, name, blob);    
   }
     
   Future<Entry> readEntry(String dir, String name) {    
@@ -69,7 +125,12 @@ class FileCache {
       return entry;
     });
     return writtenFut;
-  }  
+  }
+  
+  Future<FileEntry> writeTextToEntry(FileEntry entry, String text) {
+    Blob blob = new Blob([text], 'text/plain');
+    return _writeBlob(entry, blob);     
+  }
   
   void _logFileError(FileError e) {
     var msg = '';
