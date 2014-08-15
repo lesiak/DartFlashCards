@@ -41,27 +41,8 @@ class FileCache {
   }
   
   void _createDirectoryCallback(DirectoryEntry dir, String name) {
-    print('Created directory ${dir.fullPath} ');
-    
+    print('Created directory ${dir.fullPath}');
     dirs[name] = dir;
-    
-    String json = '["aaa", "bbb"]';
-    if (name == 'enResp') {
-      dir.createFile("dupa2.json").then((entry) {
-              print('Writing dupa');
-              Future<FileEntry> writtenFut = entry.createWriter().then((FileWriter writer) {
-                   Blob newBlob = new Blob([json], 'text/plain');
-                   writer.write(newBlob);             
-                   print("dupa written");
-                   return entry;
-                 });
-            });
-      print ("AAAAAAAAAAA");
-      readFileAsString('enResp','dupa2.json').then((v) =>print(v));  
-    }
-   /* if (name == 'enResp') {
-      
-    }*/
   }
   
   Future<String> readFileAsString(String dir, String fileName) {
