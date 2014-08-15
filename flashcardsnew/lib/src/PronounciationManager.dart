@@ -95,14 +95,14 @@ class PronounciationManager {
   }
   
   void saveForvoResponseToLocalStorage(String lang, String word, ForvoResponse r) {    
-    var key = '${lang}_${word}';
+    var key = '${lang}_${word}.txt';
     //window.localStorage[key] = r.toJsonString();
     fileCache.saveText('PronoMetadata', key,  r.toJsonString()).then((val) => print('saved ${key} in filesystem'));
     
   }
   
   Future<bool> hasForvoResponseInLocalStorage(String lang, String word) {    
-    var key = '${lang}_${word}';
+    var key = '${lang}_${word}.txt';
     //return window.localStorage[key] != null;
     return fileCache.fileExistsinDir('PronoMetadata', key);
   }
@@ -164,7 +164,7 @@ class PronounciationManager {
       var blob = xhr.response;
       return fileCache.saveBlob(lang, filename, blob)
         .then((entry) {
-          print("_onMp3RequentFinishedSave entry saved " + lang + " " + filename + " " + entry.toString());
+          print("_onMp3RequentFinishedSave entry saved " + lang + " " + filename);
           return entry;
         });
     }
