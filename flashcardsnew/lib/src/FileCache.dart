@@ -46,7 +46,8 @@ class FileCache {
   }
   
   Future<String> readFileAsString(String dir, String fileName) {
-    return readEntry(dir, fileName).then((Entry entry) => readEntryAsString(entry));
+    return readEntry(dir, fileName)
+        .then((Entry entry) => readEntryAsString(entry));
   }
   
   Future<String> readEntryAsString(FileEntry entry) {

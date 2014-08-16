@@ -123,19 +123,29 @@ class LearingPanelElement extends PolymerElement {
     }
     word = CardUtils.sanitizeWord(lang, word);
     Element container = $[containerId];        
-    String cachedForvoResponse = window.localStorage[lang+"/"+word];
-       
-    if (cachedForvoResponse != null) {
+    //String cachedForvoResponse = window.localStorage[lang+"/"+word];
+    pronounciationManager.getForvoResponseFromFileSystem(lang, word)
+      .then((String cachedForvoResp) {   
       print('found $word pronounciation list in localstorage');
       try {
-        ForvoResponse r = new ForvoResponse.fromJsonString(lang, word, cachedForvoResponse);      
+        ForvoResponse r = new ForvoResponse.fromJsonString(lang, word, cachedForvoResp);      
         displayPronounciationsFromForvoResponse(r, container, play);
       } catch(e) {
         print("BBBBB ${e}");
         window.alert("Unexpecrted excepttion");          
       }
-    } 
-    else {
+    }, onError: (e) {
+      print('Fetching sound: $word');
+      // String resp = 'TEST_RESP';       
+      // onForvoSuccessTest(resp, lang, word, container, play);
+       
+       pronounciationManager.getForvoPronunciations(lang, word)          
+         .then((req) => onForvoSuccess(req, lang, word, wordEn, container, play))
+         .catchError((e) {          
+           print("EEE Could not fetch pronunciation ${e}");           
+         });
+    });
+    /*else {
       // call the web server asynchronously
       print('Fetching sound: $word');
             
@@ -149,7 +159,7 @@ class LearingPanelElement extends PolymerElement {
           print("EEE Could not fetch pronunciation ${e}");           
         });
               
-    }        
+    } */       
   }
   
   /*void onForvoSuccessTest(String  responseText, String lang, String word, Element container, bool play) {  

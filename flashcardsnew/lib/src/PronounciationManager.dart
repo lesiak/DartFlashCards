@@ -107,6 +107,11 @@ class PronounciationManager {
     return fileCache.fileExistsinDir('PronoMetadata', key);
   }
   
+  Future<String> getForvoResponseFromFileSystem(String lang, String word) {
+    var key = '${lang}_${word}.txt';
+    return fileCache.readFileAsString('PronoMetadata', key);
+  }
+  
   
   Future<HttpRequest> getForvoPronunciations(String lang, String word) {
     var url = "http://apifree.forvo.com/action/word-pronunciations/format/json/word/$word/language/$lang/key/$forvoKey/";
