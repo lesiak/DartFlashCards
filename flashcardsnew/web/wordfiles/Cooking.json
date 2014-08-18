@@ -4,14 +4,14 @@
 { "en": "prepare",     "fi": "valmistella",    "fr": "préparer",   "es": "preparar",   "ko": "준비하다"},
 { "en": "preparation", "fi": "valmistelu",     "fr": "préparation","es": "(la) preparación",    "ko": "준비" },
 
-{ "en": "pot",         "ko": "냄비",       "fi": "potti",    "fr": "casserole" },
-{ "en": "kettle",      "ko": "주전자",     "fi": "kattila" , "fr":"bouilloire"},
+{ "en": "pot",         "fi": "potti",    "fr": "casserole",  "ko": "냄비" },
+{ "en": "kettle",      "fi": "kattila" , "fr": "bouilloire", "es": "(la) tetera, (el) hervidor", "ko": "주전자"},
 
-{ "en": "oven",        "ko": "오븐",       "fi": "uuni" , "fr":"four"},
+{ "en": "oven",        "fi": "uuni" ,    "fr": "four",       "es": "(el) horno",  "ko": "오븐"},
 { "en": "gas cooker",  "ko": "가스레인지", "fi": "kaasuliesi" , "fr":"cuisinière à gaz"},
 { "en": "rice cooker", "ko": "밥솥",       "fi": "riisi liesi",    "fr": "cuiseur à riz" },
 
-{ "en": "to mix",   "ko": "비비다",    "fi": "sekoittaa",   "fr":"mélanger"},
+{ "en": "to mix",      "fi": "sekoittaa",   "fr":"mélanger", "es":" mezclar",   "ko": "비비다"},
 
 { "en": "smoked",     "ko": "",         "fi": "savustettu",          "fr": "fumé" }
 ]

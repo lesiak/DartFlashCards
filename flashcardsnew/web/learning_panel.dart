@@ -126,13 +126,13 @@ class LearingPanelElement extends PolymerElement {
     //String cachedForvoResponse = window.localStorage[lang+"/"+word];
     pronounciationManager.getForvoResponseFromFileSystem(lang, word)
       .then((String cachedForvoResp) {   
-      print('found $word pronounciation list in localstorage');
+      print('found $word pronounciation list in fileSystem');
       try {
         ForvoResponse r = new ForvoResponse.fromJsonString(lang, word, cachedForvoResp);      
         displayPronounciationsFromForvoResponse(r, container, play);
       } catch(e) {
         print("BBBBB ${e}");
-        window.alert("Unexpecrted excepttion");          
+        window.alert("Unexpected exception");          
       }
     }, onError: (e) {
       print('Fetching sound: $word');

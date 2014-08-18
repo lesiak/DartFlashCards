@@ -6,12 +6,12 @@
 { "en": "red",       "fi": "punainen",       "fr": "rouge",    "es": "rojo",      "ko": "빨간색, 빨갈다" },
 { "en": "blue",      "fi": "sininen",        "fr": "bleu",     "es": "azul",      "ko": "파란색, 파랗다, 푸르다" },
 { "en": "green",     "fi": "vihreä",         "fr": "vert",     "es": "verde",     "ko": "초록색" },
-{ "en": "orange",    "fi": "oranssi",        "fr": "" ,        "es": "",          "ko": "오렌지색"},
+{ "en": "orange",    "fi": "oranssi",        "fr": "" ,        "es": "naranja",   "ko": "오렌지색"},
 { "en": "pink",      "fi": "vaaleanpunainen","fr": "rose",     "es": "rosa",      "ko": "분홍색 (powder + red + colour)" },
 { "en": "brown",     "fi": "ruskea",         "fr": "brun, marron", "es": "marrón","ko": "밤색"},
 { "en": "grey",      "fi": "harmaa",         "fr": "gris" ,    "es": "gris",      "ko": "회색"},
 { "en": "violet",    "fi": "violetti",       "fr": "violet",   "es": "violeta",   "ko": "보라색" },
-{ "en": "purple",    "fi": "",               "fr": "pourpre",  "es": "morado",    "ko": "보라색" },
+{ "en": "purple",    "fi": "",               "fr": "pourpre",  "es": "morado, lila",    "ko": "보라색" },
 
 
 
@@ -20,7 +20,11 @@
 { "en": "colourless","fi": "väritön",        "fr": "incolore, sans couleur", "es": "incoloro", "ko": "무색의" },
 
 { "en": "light (colour)",   "fi": "vaalea",  "fr": "clair",  "es": "claro",  "ko": ""},
-{ "en": "dark (colour)",    "fi": "tumma",   "fr": "foncé",  "es": "oscuro",  "ko": ""}
+{ "en": "dark (colour)",    "fi": "tumma",   "fr": "foncé",  "es": "oscuro",  "ko": ""},
+{ "en": "bright (colour)",  "fi": "",        "fr": "",       "es": "brillante",  "ko": ""},
+
+{ "en": "pale",             "fi": "kalpea",  "fr": "pâle",   "es": "pálido",  "ko": ""},
+{ "en": "to dye",             "fi": "",  "fr": "",   "es": "teñir",  "ko": ""}
 
 
 ]
