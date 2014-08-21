@@ -33,11 +33,12 @@
 { "en": "serious, earnest",  "fi": "totinen",    "fr": "sérieux",     "es": "serio",      "ko": "" },
 
 { "en": "mean, wicked",  "fi": "",               "fr": "méchant",     "es": "malo", "ko": "" },
+{ "en": "cruel",         "fi": "julma",          "fr": "cruel",       "es": "cruel", "ko": "" },
+
 { "en": "kind",          "fi": "",               "fr": "aimable",     "es": "amable", "ko": "" },
 { "en": "loving, kind",  "fi": "",               "fr": "affectueux",  "es": "cariñoso", "ko": "" },
-
 { "en": "funny",         "fi": "",               "fr": "drôle",       "es": "gracioso", "ko": "" },
-{ "en": "ironic",         "fi": "ironinen",               "fr": "ironique",       "es": "irónico", "ko": "" },
+{ "en": "ironic",        "fi": "ironinen",       "fr": "ironique",    "es": "irónico",  "ko": "" },
 
 { "en": "energetic",     "fi": "energinen",      "fr": "énergique",   "es": "enérgico", "ko": "" },
 { "en": "active",        "fi": "aktiivinen",     "fr":"actif",        "es":"activo",    "ko": ""},
@@ -58,12 +59,14 @@
 
 
 { "en": "good-natured", "fi": "sävyisä",        "fr": "facile à vivre",   "ko": "착하다" },
-{ "en": "creative",    "fi": "luova",           "fr": "créatif",      "es": "creativo",   "ko": "창조적 (create + make + of)" },
+{ "en": "creative",     "fi": "luova",          "fr": "créatif",          "es": "creativo",   "ko": "창조적 (create + make + of)" },
 
-{ "en": "original, creative",         "ko": "독창적 (alone + create + of)",       "fi": "omaperäinen",          "fr": "original" },
+{ "en": "original, creative",          "fi": "omaperäinen",          "fr": "original", "ko": "독창적 (alone + create + of)" },
 { "en": "delicate",         "ko": "",       "fi": "herkkä",          "fr": "délicat" },
-{ "en": "sensitive",         "ko": "",       "fi": "herkkä",          "fr": "" },
+{ "en": "sensitive",             "fi": "herkkä",          "fr": "",   "ko": "" },
 
+
+{ "en": "tenderness",    "fi": "arkuus",    "fr": "tendresse",    "es": "(la) ternura",  "ko": "" },
 
 { "en": "character",     "fi": "",               "fr": "caractère",  "es": "(el) carácter", "ko": "" }
 

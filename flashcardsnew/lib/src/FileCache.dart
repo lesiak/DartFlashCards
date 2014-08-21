@@ -90,7 +90,7 @@ class FileCache {
   }
   
   Future<FileEntry> saveText(String dir, String name, String text) {
-    Blob blob = new Blob([text], 'text/plain');
+    Blob blob = new Blob([text], 'text/plain');    
     return saveBlob(dir, name, blob);    
   }
     
@@ -101,7 +101,8 @@ class FileCache {
   
   Future<FileEntry> _writeBlob(FileEntry entry, Blob b) {
     print("Writing blob ${entry.fullPath}");
-    Future<FileEntry> writtenFut = entry.createWriter().then((writer) {
+    
+    Future<FileEntry> writtenFut = entry.createWriter().then((writer) {     
       writer.write(b);
       print("blob written");
       return entry;

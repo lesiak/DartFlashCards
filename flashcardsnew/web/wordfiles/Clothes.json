@@ -25,7 +25,7 @@
 { "en": "cap",          "fi": "",           "fr": "",              "es": "(la) gorra", "ko": "" },
 { "en": "jumper",          "fi": "",           "fr": "", "es": "(el) jersey", "ko": "" },
 { "en": "warm (clothes)",          "fi": "",           "fr": "", "es": "de abrigo", "ko": "" },
-{ "en": "coat",          "fi": "",           "fr": "", "es": "(el) abrigo", "ko": "" },
+
 
 { "en": "belt",         "fi": "vyö",        "fr": "ceinture",     "es": "(el) cinturón",   "ko": "벨트" },
 { "en": "key",          "fi": "avain",      "fr": "clé",           "es": "(la) llave",   "ko": "열쇠" },

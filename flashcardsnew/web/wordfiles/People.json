@@ -20,14 +20,16 @@
 { "en": "man (masculine type)",         "ko": "사나이",       "fi": "",          "fr": "" },
 { "en": "lady",         "ko": "숙녀",       "fi": "leidi",          "fr": "dame" },
 
-{ "en": "person",         "ko": "사람, 인",       "fi": "henkilö, ihminen",          "fr": "personne, individu" },
+{ "en": "person",           "fi": "henkilö, ihminen",          "fr": "personne, individu",  "ko": "사람, 인" },
 
-{ "en": "generation",   "fi": "sukupolvi",  "fr": "génération", "es": "(la) generación",  "ko": "세대"},
+{ "en": "generation",       "fi": "sukupolvi",  "fr": "génération", "es": "(la) generación",  "ko": "세대"},
 
-{ "en": "to grow up",  "ko": "자라다",    "fi": "kasvaa, tulla aikuiseksi",    "fr": "" },
-{ "en": "to be born",  "ko": "태어나다",  "fi": "syntyä",    "fr": "naître" },
-{ "en": "life",        "ko": "생명",      "fi": "elämä" , "fr":"vie"},
-{ "en": "young",       "fi": "nuori" ,    "fr": "jeune",    "es": "joven",  "ko": "어리다"},
+{ "en": "to grow up",       "fi": "kasvaa, tulla aikuiseksi",     "fr": "",  "es": "crecer",  "ko": "자라다" },
+{ "en": "to be born",       "fi": "syntyä",    "fr": "naître",    "ko": "태어나다" },
+{ "en": "life",             "fi": "elämä" ,    "fr": "vie",      "es":"(la) vida",     "ko": "생명"},
+{ "en": "young",            "fi": "nuori" ,    "fr": "jeune",    "es": "joven",  "ko": "어리다"},
+{ "en": "youth (young age)","fi": "nuoruus" ,  "fr": "jeunesse", "es": "(la) juventud",  "ko": ""},
+
 
 { "en": "date of birth",        "ko": "생년월일",  "fi": "syntymäaika" , "fr":"date de naissance"},
 { "en": "place of birth",       "ko": "출생지",    "fi": "syntymäpaikka" , "fr":"lieu de naissance"},
@@ -94,7 +96,7 @@
 
 { "en": "smart",      "fi": "fiksu, terävä", "fr":"intelligent",  "ko": "똑똑하다"},
 { "en": "lazy",       "fi": "laiska",        "fr":"paresseux",    "es":"perezoso, vago",   "ko": "게으른"  },
-{ "en": "wise",      "fi": "viisas, järkevä","fr":"sage",        "ko": "슬기롭다 (wisdom + be, be characterized by)"},
+{ "en": "wise",       "fi": "viisas, järkevä","fr":"sage",        "ko": "슬기롭다 (wisdom + be, be characterized by)"},
 { "en": "wisdom",       "fi": "viisaus, järkevyys" , "fr":"sagesse",  "ko": "슬기"},
 
 { "en": "behaviour",       "fi": "käyttäytyminen",   "fr": "comportement", "es": "(el) comportamiento",   "ko": ""},
@@ -113,22 +115,14 @@
 { "en": "cut down (on)",    "ko": "줄이다"  ,  "fi": "vähentää" , "fr":"réduire"},
 
 
-
-
-
-
-
-
-
-
-
 { "en": "to hug",         "fi": "halata",       "fr": "étreindre",   "ko": "포옹하다" },
 { "en": "to cuddle",      "fi": "halata",       "fr": "caresser",    "es": "acurrucar",   "ko": "" },
 
 { "en": "romantic",      "fi": "romanttinen",       "fr": "romantique",    "es": "romántico",   "ko": "" },
 
 
-{ "en": "to kiss",        "fi": "suudella",     "fr": "embrasser",  "es": "besar", "ko": ""},
+{ "en": "to kiss",        "fi": "suudella",     "fr": "embrasser",  "es": "besar",      "ko": ""},
+{ "en": "a kiss",         "fi": "suudelma",     "fr": "baiser, bise","es": "(el) beso", "ko": ""},
 
 { "en": "partner",        "fi": "kumppani, partneri",     "fr": "partenaire",  "es": "(la) pareja", "ko": "파트너"},
 

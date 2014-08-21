@@ -47,8 +47,6 @@
 { "en": "late",        "fi": "myöhässä",    "fr": "tard",          "es": "tarde", "ko": "늦다" },
 { "en": "early",       "fi": "aikaisin",    "fr": "tôt",           "es": "temprano", "ko": "" },
 
-{ "en": "next",         "ko": " 다음",   "fi": "seuraava, ensi",    "fr": "suivant" },
-{ "en": "previous",     "ko": "이전",    "fi": "edellinen" , "fr":"précédent"},
 
 { "en": "the day after tomorrow",        "ko": "모레",          "fi": "ylihuomenna",    "fr": "après-demain" },
 { "en": "last night",   "fi": "viime yönä",    "fr": "la nuit dernière",  "es": "anoche",  "ko": " 어젯밤" },

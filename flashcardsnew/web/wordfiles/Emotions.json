@@ -33,7 +33,10 @@
 { "en": "joy",        "fi": "ilo",            "fr": "joie",      "es": "(la) alegría",          "ko": "즐거움" },
 { "en": "sadness",    "fi": "surullisuus",    "fr": "tristesse", "es": "(la) tristeza",         "ko": "" },
 { "en": "love",       "fi": "rakkaus",        "fr": "amour",     "es": "(el) amor",             "ko": "사랑" },
+{ "en": "to love",    "fi": "rakastaa",       "fr": "aimer",     "es": "amar",                  "ko": "" },
 { "en": "hate",       "fi": "viha",           "fr": "haine",     "es": "(el) odio",             "ko": "" },
+{ "en": "to hate",    "fi": "vihata",         "fr": "haïr",      "es": "(el) odiar",            "ko": "" },
+
 
 { "en": "to hope",    "fi": "toivoa",         "fr": "espérer",   "es": "esperar",               "ko": "희망하다" },
 { "en": "hope",       "fi": "toivo",          "fr": "espoir",    "es": "(la) esperanza",        "ko": "희망" },

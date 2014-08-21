@@ -38,6 +38,8 @@
 { "en": "pretext",        "ko": "핑계",             "fi": "tekosyy",    "fr": "prétexte" },
 
 { "en": "promotion (in work)",           "fi": "",    "fr": "",  "es": "(el) ascenso",  "ko": "" },
+{ "en": "career",           "fi": "ura",    "fr": "carrière",  "es": "(la) carrera",  "ko": "" },
+
 
 { "en": "repair",           "fi": "korjaus",    "fr": "",    "ko": "수리" },
 { "en": "to repair",        "fi": "korjata",    "fr": "réparer",  "es": "reparar",   "ko": "수리하다" },
