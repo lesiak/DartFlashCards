@@ -2,18 +2,18 @@
 
 { "en": "hammer",       "fi": "vasara",        "fr": "marteau",  "es": "(el) martillo",  "ko": "망치" },
 { "en": "needle",       "fi": "neula",         "fr": "aiguille", "es": "(la) aguja",     "ko": "바늘" },
-{ "en": "bucket",       "fi": "ämpäri, sanko", "fr": "seau (m)", "es": "",               "ko": "버킷" },
+{ "en": "bucket",       "fi": "ämpäri, sanko", "fr": "seau (m)", "es": "(el) cubo, (el) balde", "ko": "버킷" },
 { "en": "filter",       "fi": "suodatin",      "fr": "filtre",   "es": "(el) filtro",    "ko": "필터" },
 { "en": "to filter",    "fi": "suodattaa",     "fr": "filtrer",  "es": "filtrar",        "ko": "" },
 
 { "en": "scissors",     "fi": "sakset",        "fr": "ciseaux",  "es": "tijeras",        "ko": "" },
 { "en": "saw",          "fi": "saha",          "fr": "scie",     "es": "(el) serrucho",   "ko": "" },
 
-{ "en": "sharp",        "fi": "terävä",    "fr": "affilé, coupant",    "ko": "날카로운" },
-{ "en": "to sharpen",       "ko": "",       "fi": "teroittaa",    "fr": "affiler, affûter, aiguiser" },
+{ "en": "sharp (edge)", "fi": "terävä",       "fr": "affilé, coupant",            "es": "afilado",    "ko": "날카로운" },
+{ "en": "to sharpen",   "fi": "teroittaa",    "fr": "affiler, affûter, aiguiser", "es": "afilar",     "ko": "" },
 
-{ "en": "glue",         "fi": "liima",        "fr": "colle",     "ko": "풀" },
-{ "en": "to glue",      "fi": "liimata",    "fr": "coller",   "ko": "" }, 
+{ "en": "glue",         "fi": "liima",      "fr": "colle",   "es": "(el) pegamento, (la) cola",      "ko": "풀" },
+{ "en": "to glue",      "fi": "liimata",    "fr": "coller",  "es": "pegar, encolar",  "ko": "" }, 
 
 
 { "en": "tool",      "fi": "työkalu",    "fr": "outil",   "es": "(la) herramienta", "ko": "" }

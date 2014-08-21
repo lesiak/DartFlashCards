@@ -5,11 +5,16 @@
 { "en": "low",          "fi": "matala",      "fr": "bas",      "es": "bajo",       "ko": "키가 작다" },
 { "en": "high",         "fi": "korkea",      "fr": "haut",     "es": "alto",       "ko": "키가 크다" },
 
+{ "en": "new",          "fi": "uusi",        "fr": "nouveau, neuf",  "es": "nuevo", "ko": "새로운, 새" },
+{ "en": "old",          "fi": "vanha",       "fr": "vieux",          "es": "viejo", "ko": " 낡다, 오래되다, 늙다(of people)" },
+
+
 { "en": "long",         "fi": "pitkä",       "fr": "long",     "es": "largo",      "ko": "길다" },
 { "en": "short",        "fi": "lyhyt",       "fr": "court",    "es": "corto",      "ko": "짧다" },
 
 { "en": "far",          "fi": "kaukana",     "fr": "loin",     "es": "lejos",      "ko": "멀다" },
 { "en": "near",         "fi": "lähellä",     "fr": "près de",  "es": "cerca de",   "ko": "가깝다" },
+{ "en": "next to",      "fi": "vieressä",    "fr": "à côté de","es": "al lado de", "ko": "" },
 
 { "en": "wide",         "fi": "leveä",       "fr": "large",    "es": "ancho",  "ko": "넓다" },
 { "en": "narrow",       "fi": "kapea",       "fr": "étroit",   "es": "estrecho, angosto",  "ko": "좁다" },

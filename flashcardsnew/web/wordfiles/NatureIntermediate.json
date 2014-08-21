@@ -10,14 +10,8 @@
 
 
   
-{ "en": "meadow",      "fi": "niitty" ,      "fr": "",          "es": "(el) prado, (la) pradera", "ko": "목초지"},
-{ "en": "field",       "fi": "pelto" ,       "fr": "",          "es": "(el) campo",  "ko": ""},
-{ "en": "countryside", "fi": "maaseutu" ,    "fr": "campagne",  "es": "(el) campo",  "ko": ""},
 { "en": "landscape",   "fi": "maisema" ,     "fr": "paysage",   "es": "(el) paisaje","ko": ""},
 
-{ "en": "farm",        "fi": "maatila",      "fr": "ferme",     "es": "(la) granja",  "ko": ""},
-{ "en": "barn",        "fi": "lato, navetta","fr": "grange",    "es": "(el) establo", "ko": ""},
-{ "en": "a well",      "fi": "kaivo",        "fr": "puits",     "es": "(el) pozo", "ko": ""},
 
 
 

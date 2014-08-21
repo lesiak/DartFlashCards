@@ -20,7 +20,7 @@
 { "en": "belong (to)",        "fi": "kuulua (+allative)",   "fr": "appartenir (à)", "es": "pertenecer (a)",   "ko": ""},
 { "en": "information",        "ko": "정보",          "fi": "tiedot",    "fr": "information" },
 
-{ "en": "intuition",   "ko": "직관",    "fi": "intuitio", 	"fr":"intuition"},
+{ "en": "intuition",        "fi": "intuitio", 	"fr":"intuition", "es":"(la) intuición", "ko": "직관"},
 
 { "en": "to tighten (sth)",           "ko": "",    "fi": "kiristää",   "fr":"serrer"},
 { "en": "to tighten (intransitive)",  "ko": "",    "fi": "kiristyä",   "fr":"se resserrer"},
@@ -92,15 +92,6 @@
 { "en": "discussion",    "fi": "keskustelu" ,   "fr":"discussion",           "es":"(la) discusión",  "ko": "토론"},
 { "en": "to approve",    "fi": "hyväksyä, keskustella jstk" , "fr":"approuver", "es":"aprobar", "ko": ""},
 
-{ "en": "agriculture",   "fi": "maanviljely",   "fr": "agriculture", "es": "(la) agricultura", "ko": ""},
-{ "en": "soil",          "fi": "maaperä",       "fr": "terre",       "es": "(la) tierra",      "ko": ""},
-{ "en": "vineyard",      "fi": "viinitarha",    "fr": "vignoble",    "es": "(la) viña",        "ko": ""},
-
-{ "en": "to harvest",      "fi": "",    "fr": "récolter",    "es": "cosechar",        "ko": ""},
-
-
-{ "en": "to feed",       "fi": "ruokkia",    "fr": "nourrir, alimenter",  "es": "alimentar",  "ko": "" },
-{ "en": "to stroke",     "fi": "silittää",   "fr": "caresser",  "es": "acariciar",     "ko": "" },
 
 
 { "en": "to rub",   "ko": "비비다",    "fi": "hieroa",   "fr":"frotter"},

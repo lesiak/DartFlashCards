@@ -31,7 +31,7 @@
 
 { "en": "hops",   "fi": "humala" , "fr":"houblon",      "es": "(??) lúpulo",  "ko": "홉"},
 
-{ "en": "branch",  "fi": "oksa",   "fr":" branche (f), rameau (m)",    "ko": ""  },
+{ "en": "branch",  "fi": "oksa",   "fr":" branche (f), rameau (m)", "es": "(la) rama",    "ko": ""  },
 { "en": "trunk",  "fi": "",   "fr":" tronc",     "es": "(el) tronco",    "ko": ""  },
 { "en": "bark",  "fi": "kaarna",   "fr":" corteza",     "es": "(la) corteza",    "ko": ""  },
 { "en": "root",  "fi": "juuri",   "fr":" racine",     "es": "(la) raíz",    "ko": ""  },
