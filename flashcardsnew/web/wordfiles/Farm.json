@@ -1,7 +1,7 @@
 [
 
 
-{ "en": "agriculture", "fi": "maanviljely",   "fr": "agriculture", "es": "(la) agricultura", "ko": ""},
+{ "en": "agriculture", "fi": "maanviljely",  "fr": "agriculture","es": "(la) agricultura", "ko": ""},
 
 { "en": "farm",        "fi": "maatila",      "fr": "ferme",     "es": "(la) granja",  "ko": ""},
 { "en": "barn",        "fi": "lato, navetta","fr": "grange",    "es": "(el) establo", "ko": ""},
@@ -10,12 +10,8 @@
 { "en": "meadow",      "fi": "niitty" ,      "fr": "",          "es": "(el) prado, (la) pradera", "ko": "목초지"},
 { "en": "field",       "fi": "pelto" ,       "fr": "",          "es": "(el) campo",  "ko": ""},
 { "en": "countryside", "fi": "maaseutu" ,    "fr": "campagne",  "es": "(el) campo",  "ko": ""},
-
-
-{ "en": "soil",          "fi": "maaperä",       "fr": "terre",       "es": "(la) tierra",      "ko": ""},
-
-
-{ "en": "to harvest",      "fi": "",    "fr": "récolter",    "es": "cosechar",        "ko": ""},
+{ "en": "soil",        "fi": "maaperä",      "fr": "terre",     "es": "(la) tierra", "ko": ""},
+{ "en": "to harvest",  "fi": "",             "fr": "récolter",  "es": "cosechar",    "ko": ""},
 
 
 { "en": "to feed",       "fi": "ruokkia",    "fr": "nourrir, alimenter",  "es": "alimentar",  "ko": "" },

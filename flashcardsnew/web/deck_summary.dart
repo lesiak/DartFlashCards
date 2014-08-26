@@ -10,13 +10,14 @@ class DeckSummary extends PolymerElement {
   
   @published ObservableList<Card> cards = toObservable([]);
   
+  @published String primaryLang; 
+  
   @observable int completedSize;
   
   @observable int dueSize;
   
   @observable int progress;
-  
-  @published String primaryLang; 
+    
    
   DeckSummary.created() : super.created() {
     print('created summary');
@@ -32,21 +33,23 @@ class DeckSummary extends PolymerElement {
   } 
   
   void recomputeStats() {
-    completedSize = _completed;
-    dueSize = _dueSize;
+    completedSize = computeCompleted(cards);
+    dueSize = computeDueSize(cards);
+    progress = computeProgress(cards, dueSize);    
+  }
+      
+  int computeCompleted(List<Card> cards) => cards.where((card) =>CardScoresEngine.isCardCompleted(card, primaryLang)).length;
+ 
+  int computeDueSize(List<Card> cards) => cards.where((card) => CardScoresEngine.isCardInLearningList(card, primaryLang)).length;
+  
+  int computeProgress(List<Card> cards, int dueSize) {    
     if (cards.length > 0) {
       var answeredAndNotDueSize = cards.length - dueSize; 
-      progress = ((answeredAndNotDueSize/cards.length) * 100).toInt();
+      return ((answeredAndNotDueSize/cards.length) * 100).toInt();
     } else {
-      progress = 0;
+      return 0;
     }
   }
-  
-  
-  
-  int get _completed => cards.where((card) =>CardScoresEngine.isCardCompleted(card, primaryLang)).length;
- 
-  int get _dueSize => cards.where((card) => CardScoresEngine.isCardInLearningList(card, primaryLang)).length; 
     
 }
 
