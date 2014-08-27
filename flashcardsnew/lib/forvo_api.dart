@@ -2,7 +2,7 @@ library forvo_api;
 
 import 'dart:html';
 import 'dart:async';
-import 'dart:convert' show JSON;
+import 'dart:convert' show JSON, JsonEncoder;
 
 import 'package:flashcardsnew/filecache_api.dart';
 

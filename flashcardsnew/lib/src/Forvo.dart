@@ -31,6 +31,11 @@ class ForvoResponse {
     return JSON.encode(resultMap);
   }
   
+  String toPrettyJSONString(jsonObject){
+     var encoder = new JsonEncoder.withIndent("     ");
+     return encoder.convert(jsonObject);
+  }
+  
 }
 
 class ForvoItem {
