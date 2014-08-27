@@ -76,17 +76,18 @@
 { "en": "engineer",      "fi": "insinööri",       "fr": "ingénieur",   "es": "(el) ingeniero", "ko": "" },
 { "en": "system",        "fi": "järjestelmä",     "fr": "système",     "es": "(el) sistema", "ko": "" },
 
-{ "en": "design",        "fi": "",     "fr": "",     "es": "(el) diseño", "ko": "" },
-{ "en": "to design",     "fi": "",     "fr": "",     "es": "diseñar", "ko": "" },
+{ "en": "design",        "fi": "",                "fr": "",     "es": "(el) diseño", "ko": "" },
+{ "en": "to design",     "fi": "",                "fr": "",     "es": "diseñar", "ko": "" },
 
-{ "en": "word",          "ko": "",          "fi": "sana",    "fr": "mot" },
-{ "en": "sentence",      "ko": "문장",      "fi": "lause, virke",    "fr": "phrase" },
-{ "en": "alphabet",      "ko": "알파벳",    "fi": "aakkoset, aakkosto",    "fr": "alphabet" },
-{ "en": "dictionary",    "ko": "사전",      "fi": "sanakirja",    "fr": "dictionnaire" },
-{ "en": "encyclopedia",  "ko": "백과사전",  "fi": "tietosanakirja",    "fr": "encyclopédie" },
-{ "en": "grammar",       "ko": "문법",       "fi": "kielioppi",    "fr": "grammaire" },
-{ "en": "rule, law",     "ko": "법칙 (law + rule)",       "fi": "sääntö",     "fr": "règle" },
-{ "en": "principle",     "ko": "원칙, 원리",       "fi": "periaate",     "fr": "principe" },
+{ "en": "language",      "fi": "kieli",           "fr": "langue",  "es": "(el) idioma, (la) lengua",   "ko": "언어" },
+{ "en": "word",          "fi": "sana",            "fr": "mot",     "es": "(la) palabra",   "ko": "" },
+{ "en": "sentence",      "fi": "lause, virke",    "fr": "phrase",  "es": "(la) frase",  "ko": "문장" },
+{ "en": "alphabet",      "fi": "aakkoset, aakkosto","fr": "alphabet",  "ko": "알파벳" },
+{ "en": "dictionary",    "fi": "sanakirja",       "fr": "dictionnaire",  "es": "(el) diccionario",    "ko": "사전" },
+{ "en": "encyclopedia",  "fi": "tietosanakirja",  "fr": "encyclopédie",  "es": "(la) enciclopedia",   "ko": "백과사전" },
+{ "en": "grammar",       "fi": "kielioppi",       "fr": "grammaire",     "es": "(la) gramática",   "ko": "문법" },
+{ "en": "rule, law",     "fi": "sääntö",          "fr": "règle",         "es": "(la) regla",  "ko": "법칙 (law + rule)" },
+{ "en": "principle",     "fi": "periaate",        "fr": "principe",      "es": "(el) principio",   "ko": "원칙, 원리" },
 
 
 { "en": "ruler",         "fi": "viivain",   "fr": "règle",     "ko": "자" },

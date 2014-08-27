@@ -35,7 +35,8 @@
 { "en": "love",       "fi": "rakkaus",        "fr": "amour",     "es": "(el) amor",             "ko": "사랑" },
 { "en": "to love",    "fi": "rakastaa",       "fr": "aimer",     "es": "amar",                  "ko": "" },
 { "en": "hate",       "fi": "viha",           "fr": "haine",     "es": "(el) odio",             "ko": "" },
-{ "en": "to hate",    "fi": "vihata",         "fr": "haïr",      "es": "(el) odiar",            "ko": "" },
+{ "en": "to hate",    "fi": "vihata",         "fr": "haïr",      "es": "odiar",            "ko": "" },
+{ "en": "to like",    "fi": "",         "fr": "",                "es": "gustar (me gusta)",            "ko": "" },
 
 
 { "en": "to hope",    "fi": "toivoa",         "fr": "espérer",   "es": "esperar",               "ko": "희망하다" },

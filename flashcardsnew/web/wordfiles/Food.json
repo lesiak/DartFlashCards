@@ -15,6 +15,7 @@
 { "en": "salt",         "fi": "suola",      "fr": "sel",           "es": "(la) sal",      "ko": "소금" },
 { "en": "sugar",        "fi": "sokeri",     "fr": "sucre",         "es": "(el) azúcar",   "ko": "설탕" },
 { "en": "garlic",       "fi": "valkosipuli","fr": "ail",           "es": "(el) ajo",      "ko": "마늘" },
+{ "en": "rice",         "fi": "riisi",      "fr": "riz",           "es": "(el) arroz",    "ko": "밥, 쌀" },
 
 { "en": "tea",          "fi": "tee",        "fr": "thé",           "es": "(el) té",       "ko": "차" },
 { "en": "coffee",       "fi": "kahvi",      "fr": "café",          "es": "(el) café",     "ko": "커피" },
@@ -31,6 +32,7 @@
 { "en": "bacon",          "fi": "pekoni",    "fr":"lardon",     "es": "(el) tocino",  "ko": "베이컨"},
 { "en": "egg",            "fi": "muna",      "fr":"œuf",        "es": "(el) huevo",   "ko": "알"},
 { "en": "oil",            "fi": "öljy" ,     "fr":"huile",      "es": "(el) aceite",  "ko": "기름"},
+{ "en": "salad",          "fi": "salaatti" , "fr":"salade",     "es": "(la) ensalada",  "ko": "샐러드"},
 
 { "en": "ice",            "fi": "jää",        "fr": "glace",     "es": "(el) hielo",   "ko": "얼음" },
 { "en": "hot pepper", "fi": "kuuma pippuria", "fr": "piment",                  "ko": "고추" },
@@ -87,8 +89,9 @@
 { "en": "poultry",    "fi": "siipikarja",   "fr": "volaille", "es": "aves de corral",  "ko": "푸드" },
 { "en": "turkey",     "fi": "dinde",        "fr": "volaille",      "es": "(el) pavo",  "ko": "" },
 
-{ "en": "meal",         "ko": "식사",       "fi": "ateria",    "fr": "repas" },
-{ "en": "starter",       "fi": "alkuruoka","fr": "entrée",  "es": "(el) entrante", "ko": "" },
+{ "en": "meal",          "fi": "ateria",   "fr": "repas",    "ko": "식사" },
+{ "en": "a dish",        "fi": "ruokalaji","fr": "plat",     "es": "(el) plato", "ko": "" },
+{ "en": "starter",       "fi": "alkuruoka","fr": "entrée",   "es": "(el) entrante", "ko": "" },
 { "en": "main course",    "fi": "pääruoka","fr": "plat principal",  "es": "(el) plato principal", "ko": "" },
 { "en": "dessert",       "fi": "jälkiruoka","fr": "dessert",  "es": "(el) postre", "ko": "디저트, 후식" },
 { "en": "snack",         "ko": "간식 (between + meal)",       "fi": "välipala, pientä purtavaa",    "fr": "casse-croûte" },

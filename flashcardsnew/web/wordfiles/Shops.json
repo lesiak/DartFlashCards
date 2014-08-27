@@ -10,9 +10,9 @@
 { "en": "money",       "fi": "raha",     "fr": "argent",               "es": "(el) dinero", "ko": "돈" },
 { "en": "to take",     "fi": "ottaa",    "fr": "prendre",              "es": "coger",       "ko": "잡다" },
 
-{ "en": "to browse (in shop)","fi": "", "fr": "",     "es": "rebuscar",              "ko": "" },
-{ "en": "second-hand",        "fi": "", "fr": "",     "es": "de segunda mano",              "ko": "" },
-{ "en": "a guarantee",        "fi": "takaus",          "fr": "garantie",    "ko": "보장 (protect + block)" },
-{ "en": "to guarantee",       "fi": "taata",          "fr": "garantir",  "ko": "보장하다" }
+{ "en": "to browse (in shop)","fi": "", "fr": "",                      "es": "rebuscar",              "ko": "" },
+{ "en": "second-hand",        "fi": "", "fr": "",                      "es": "de segunda mano",              "ko": "" },
+{ "en": "a guarantee",        "fi": "takaus",   "fr": "garantie",      "es": "(la) garantía",  "ko": "보장 (protect + block)" },
+{ "en": "to guarantee",       "fi": "taata",    "fr": "garantir",      "es": "garantizar, asegurar",  "ko": "보장하다" }
 
 ]
