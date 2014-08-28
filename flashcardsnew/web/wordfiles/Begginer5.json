@@ -11,8 +11,6 @@
 { "en": "hot (weather)",     "ko": "덥다",    "fi": "kuuma" , "fr":"chaud"},
 { "en": "frost",     "ko": "서리",    "fi": "pakkanen" , "fr":"gel"},
 
-{ "en": "finish (intr)",       "ko": "끝나다",       "fi": "loppua",    "fr": "finir, terminer" },
-{ "en": "finish (sth)",       "ko": "끝내다",       "fi": "lopettaa",    "fr": "finir, terminer" },
 
 { "en": "time (occurence)",       "ko": "번",       "fi": "kerta",    "fr": "fois" },
 

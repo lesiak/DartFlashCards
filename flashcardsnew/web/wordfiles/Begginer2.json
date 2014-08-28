@@ -19,14 +19,15 @@
 { "en": "here",        "fi": "täällä",      "fr": "ici",      "es": "aquí",   "ko": "여기에" },
 
 
-
-
-
 { "en": "to rest",     "fi": "levätä",     "fr": "se reposer",   "es": "descansar",  "ko": "쉬다" },
 { "en": "to wait",     "fi": "odottaa",    "fr": "patienter",    "es": "esperar",    "ko": "기다리다" },
+
 { "en": "to begin (to do sth), start (doing sth)",       "fi": "alkaa",    "fr": "commencer", "es": "empezar, comenzar",  "ko": "시작하다"},
 { "en": "to begin, start (intr)",          "fi": "aloittaa",    "fr": "",  "es": "empezar, comenzar",  "ko": "" },
-{ "en": "to stop",        "ko": "",       "fi": "lopettaa, pysäyttää, pysähtyä",    "fr": "" },
+{ "en": "to stop",       "fi": "lopettaa, pysäyttää, pysähtyä",    "fr": "",  "ko": "" },
+{ "en": "finish (intr)", "fi": "loppua",    "fr": "finir, terminer",  "es": "terminar, acabar", "ko": "끝나다" },
+{ "en": "finish (sth)",  "fi": "lopettaa",  "fr": "finir, terminer",  "es": "terminar, acabar", "ko": "끝내다" },
+{ "en": "to end up",     "fi": "joutua",    "fr": "?",                "es": "terminar",  "ko": " ?"},
 
 { "en": "to smoke",     "fi": "tupakoida","fr": "fumer",       "es": "fumar",         "ko": "피우다" },
 { "en": "cigarette",    "fi": "savuke",   "fr": "cigarette",   "es": "(el) cigarrillo, (el) cigarro", "ko": "담배" },
