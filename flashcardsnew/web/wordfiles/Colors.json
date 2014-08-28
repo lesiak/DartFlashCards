@@ -16,7 +16,7 @@
 
 
 { "en": "colour",    "fi": "väri",           "fr": "couleur",  "es": "(el) color","ko": ""},
-{ "en": "colorful",  "fi": "värikäs",        "fr": "coloré",   "es": "",          "ko": "화려한"},
+{ "en": "colorful",  "fi": "värikäs",        "fr": "coloré",   "es": "colorido",  "ko": "화려한"},
 { "en": "colourless","fi": "väritön",        "fr": "incolore, sans couleur", "es": "incoloro", "ko": "무색의" },
 
 { "en": "light (colour)",   "fi": "vaalea",  "fr": "clair",  "es": "claro",  "ko": ""},
@@ -24,7 +24,7 @@
 { "en": "bright (colour)",  "fi": "",        "fr": "",       "es": "brillante",  "ko": ""},
 
 { "en": "pale",             "fi": "kalpea",  "fr": "pâle",   "es": "pálido",  "ko": ""},
-{ "en": "to dye",             "fi": "",  "fr": "",   "es": "teñir",  "ko": ""}
+{ "en": "to dye",           "fi": "",        "fr": "",       "es": "teñir",  "ko": ""}
 
 
 ]

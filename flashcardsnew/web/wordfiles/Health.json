@@ -22,8 +22,8 @@
 { "en": "operation, surgery",        "ko": "외과",     "fi": "leikkaus",    "fr": "opération" },
 { "en": "syringe",        "ko": "주사기",     "fi": "ruisku",    "fr": "seringue (f)" },
 
-{ "en": "disease",        "ko": "",     "fi": "tauti, sairaus",    "fr": "maladie" },
-{ "en": "infectious",        "ko": "",     "fi": "tarttuva",    "fr": "infectieux" },
+{ "en": "disease",        "fi": "tauti, sairaus",    "fr": "maladie", "es": "(la) enfermedad",   "ko": "" },
+{ "en": "infectious",     "fi": "tarttuva",    "fr": "infectieux",    "es": "infeccioso",  "ko": ""  },
 
 { "en": "ability (capacity)",        "ko": "",     "fi": "kyky",    "fr": "capacité" },
 

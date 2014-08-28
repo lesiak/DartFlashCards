@@ -51,6 +51,9 @@
 { "en": "city",             "fi": "kaupunki",        "fr": "ville",         "es": "(la) ciudad",  "ko": "도시" },
 { "en": "village",          "fi": "kylä",            "fr": "village",       "es": "(el) pueblo",  "ko": "마을" },
 { "en": "suburb",           "fi": "esikaupunki",     "fr": "banlieue",      "es": "(el) suburbio","ko": "근교" },
+{ "en": "neighborhood (district)",     "fi": "kaupunginosa",     "fr": "quartier",      "es": "(el) barrio","ko": "" },
+
+
 
 { "en": "factory",          "fi": "tehdas",          "fr": "",              "es": "(la) fábrica",  "ko": "공장" },
 { "en": "statue",           "fi": "patsas",          "fr": "",              "es": "(la) estatua",  "ko": "상" },
