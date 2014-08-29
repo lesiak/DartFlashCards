@@ -109,7 +109,7 @@ class PronounciationManager {
   
   Future<String> getForvoResponseFromFileSystem(String lang, String word) {
     var key = '${lang}_${word}.txt';
-    return fileCache.readFileAsString('PronoMetadata', key);
+    return fileCache.readFileAsText('PronoMetadata', key);
   }
   
   

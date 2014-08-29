@@ -45,33 +45,16 @@ class FileCache {
     dirs[name] = dir;
   }
   
-  Future<String> readFileAsString(String dir, String fileName) {
-    return readEntry(dir, fileName)
-        .then((Entry entry) => readEntryAsString(entry));
+  Future<String> readFileAsText(String dirName, String fileName) {
+    DirectoryEntry dir = dirs[dirName];
+    return FileSystemUtils.readFileAsText(dir, fileName);        
   }
-  
-  Future<String> readEntryAsString(FileEntry entry) {
-    return entry.file().then(readFSFileAsString);
-  }
-     
-  Future<String> readFSFileAsString(File ff) {
-    var reader = new FileReader();
-    reader.readAsText(ff);
-    return reader.onLoadEnd.first.then((ProgressEvent e) => reader.result);
-  }
-  
- 
-  
+    
   Future<bool> fileExistsinDir(String dir, String fileName) {
     return FileSystemUtils.fileExists(dirs[dir], fileName);               
   }
     
-  /*
-  Future<bool> fileExists(DirectoryEntry dir, String fileName) {
-    Future<Entry> entryFut = dir.getFile(fileName);
-    return entryFut.then((Entry entry) => true, onError: (e) => false);               
-  }*/
-     
+       
     
   void removeFile(DirectoryEntry dir, String fileName) {
     dir.getFile(fileName).then((Entry fileEntry) {
@@ -97,6 +80,10 @@ class FileCache {
   Future<Entry> readEntry(String dir, String name) {    
     return dirs[dir].getFile(name);  
   }
+  
+  Future<Entry> readEntryFromDir(DirectoryEntry dir, String name) {    
+      return dir.getFile(name);  
+    }
 
   
   Future<FileEntry> _writeBlob(FileEntry entry, Blob b) {

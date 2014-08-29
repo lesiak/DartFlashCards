@@ -41,10 +41,27 @@ class FileSystemUtils {
       return entry;
     });
     return writtenFut;
-  }
-
+  }*/
   
-  static Future<String> readAsText(DirectoryEntry dir, String path) {
+  static Future<String> readFileAsText(DirectoryEntry dir, String fileName) {      
+    return dir.getFile(fileName).then((Entry entry) => _readEntryAsText(entry));
+  }
+    
+  static Future<String> _readEntryAsText(FileEntry entry) {
+    return entry.file().then(_readFSFileAsText);
+  }
+       
+  static Future<String> _readFSFileAsText(File ff) {
+    var reader = new FileReader();
+    reader.readAsText(ff);
+    return reader.onLoadEnd.first.then((ProgressEvent e) => reader.result);
+  }
+  
+  static Future<Entry> readEntryFromDir(DirectoryEntry dir, String name) {    
+    return dir.getFile(name);  
+  }
+  
+  /*static Future<String> readAsText(DirectoryEntry dir, String path) {
     Future readerFuture = dir.getFile(path).then((FileEntry fileEntry) => _getTextFromFileEntry(fileEntry));
     return readerFuture;
   }
@@ -72,6 +89,8 @@ class FileSystemUtils {
     });       
   }
   */
+  
+  
   
   static Future<bool> fileExists(DirectoryEntry dir, String fileName) {
     Future<Entry> entryFut = dir.getFile(fileName);
