@@ -23,17 +23,22 @@ class ForvoResponse {
   }
   
   String toJsonString() {
-    Map resultMap = {"lang" : lang,
-                     "word" : word,
-                     "attributes" : attributes,
-                     "items" : items};
-    
-    return JSON.encode(resultMap);
+    Map jsonObject = _toJsonMap();
+    return JSON.encode(jsonObject);
   }
   
-  String toPrettyJSONString(jsonObject){
+  String toPrettyJSONString() {
+     Map jsonObject = _toJsonMap();
      var encoder = new JsonEncoder.withIndent("     ");
      return encoder.convert(jsonObject);
+  }
+  
+  Map _toJsonMap() {
+    Map resultMap = {"lang" : lang,
+                      "word" : word,
+                      "attributes" : attributes,
+                      "items" : items};
+    return resultMap;
   }
   
 }

@@ -30,7 +30,7 @@ class PronounciationManager {
       fetchProgressStepMethod(false);
       return;
     }
-    hasForvoResponseInLocalStorage(lang,word).then((bool hasItem) {
+    hasForvoResponseInFileSystem(lang,word).then((bool hasItem) {
       if (hasItem) {
         print ('found pronounciation list for ${lang}/${word} in localStorage');
           fetchProgressStepMethod(true);
@@ -101,7 +101,7 @@ class PronounciationManager {
     
   }
   
-  Future<bool> hasForvoResponseInLocalStorage(String lang, String word) {    
+  Future<bool> hasForvoResponseInFileSystem(String lang, String word) {    
     var key = '${lang}_${word}.txt';
     //return window.localStorage[key] != null;
     return fileCache.fileExistsinDir('PronoMetadata', key);

@@ -17,12 +17,13 @@
 { "en": "shoot",        "ko": "쏘다",          "fi": "ampua",    "fr": "tirer" },
 
 
-{ "en": "bomb",        "fi": "pommi",         "fr": "",         "es": "(la) bomba",        "ko": "폭탄" },
-{ "en": "explosion",   "fi": "räjähdys",      "fr": "",         "es": "(la) explosión",    "ko": "폭발" },
-{ "en": "violence",    "fi": "väkivalta",     "fr": "violence", "es": "(la) violencia",    "ko": "폭력" },
-{ "en": "violent",     "fi": "väkivaltainen", "fr": "violent",  "es": "(la) bomba",       "ko": "폭력적인, 격렬한" },
-{ "en": "to injure",   "ko": "해치다",          "fi": "loukata",    "fr": "blesser" },
-{ "en": "demonstration",        "ko": "시위, 시연, 데모",          "fi": "mielenosoitus",    "fr": "démonstration" },
+{ "en": "bomb",         "fi": "pommi",         "fr": "",         "es": "(la) bomba",        "ko": "폭탄" },
+{ "en": "explosion",    "fi": "räjähdys",      "fr": "",         "es": "(la) explosión",    "ko": "폭발" },
+{ "en": "violence",     "fi": "väkivalta",     "fr": "violence", "es": "(la) violencia",    "ko": "폭력" },
+{ "en": "violent",      "fi": "väkivaltainen", "fr": "violent",  "es": "(la) bomba",       "ko": "폭력적인, 격렬한" },
+{ "en": "to injure",    "fi": "loukata",       "fr": "blesser", "ko": "해치다" },
+{ "en": "demonstration","fi": "mielenosoitus", "fr": "démonstration",  "ko": "시위, 시연, 데모" },
+{ "en": "conflict",     "fi": "konflikti",     "fr": "conflit",  "es": "(el) conflicto",    "ko": "폭력" },
 
 { "en": "fight",        "ko": "싸우다",          "fi": "taistella",    "fr": "combattre" },
 { "en": "defense",        "ko": "방어",          "fi": "puolustus",    "fr": "défense" },

@@ -128,7 +128,8 @@ class LearingPanelElement extends PolymerElement {
       .then((String cachedForvoResp) {   
       print('found $word pronounciation list in fileSystem');
       try {
-        ForvoResponse r = new ForvoResponse.fromJsonString(lang, word, cachedForvoResp);      
+        ForvoResponse r = new ForvoResponse.fromJsonString(lang, word, cachedForvoResp);
+        print(r.toPrettyJSONString());
         displayPronounciationsFromForvoResponse(r, container, play);
       } catch(e) {
         print("BBBBB ${e}");

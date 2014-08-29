@@ -3,6 +3,7 @@
 { "en": "difficult",     "fi": "vaikea",           "fr": "difficile",   "es": "difícil",    "ko": "어렵다" },
 { "en": "easy",          "fi": "helppo",           "fr": "facile",      "es": "fácil",      "ko": "쉽다" },
 { "en": "complicated",   "fi": "monimutkainen",    "fr": "compliqué",   "es": "complicado", "ko": "복잡하다 (double + mix)" },
+{ "en": "complex",       "fi": "monimutkainen",    "fr": "complexe",    "es": "complejo", "ko": "" },
 { "en": "simple",        "fi": "yksinkertainen",   "fr": "simple",      "es": "sencillo",   "ko": "단순하다 (single + only)" },
 { "en": "simply",        "fi": "yksinkertaisesti", "fr": "simplement",  "es": "simplemente","ko": "간단히" },
 

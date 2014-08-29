@@ -46,7 +46,7 @@
 { "en": "judge",         "fi": "tuomari",     "fr": "juge",       "es": "(el) juez", "ko": "" },
 
 { "en": "waiter",        "fi": "tarjoilija",  "fr": "serveur",    "es": "(el) camarero",   "ko": "웨이터"},
-{ "en": "to serve (waiter)", "fi": "",  "fr": "",    "es": "atender",   "ko": ""},
+{ "en": "to serve (customer)", "fi": "",  "fr": "",    "es": "atender",   "ko": ""},
 
 { "en": "policeman",     "fi": "poliisi",     "fr":"policier, gendarme", "es": "(el) policía", "ko": "경찰관"},
 { "en": "fireman",       "fi": "palomies" ,   "fr":"pompier",            "es": "(el) bombero", "ko": "소방수"},

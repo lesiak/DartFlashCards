@@ -41,8 +41,8 @@
 { "en": "ratio, proportion",    "ko": "비율",       "fi": "suhde",    "fr": "rapport, ratio" },
 
 { "en": "side",           "fi": "puoli",    "fr": "côté",   "es": "(el) lado",  "ko": "" },
-{ "en": "other",        "ko": "다른",     "fi": "muu",           "fr": "autre" },
-{ "en": "only",         "fi": "vain",      "fr": "seulement",     "es": "sólo",    "ko": "만" },
+{ "en": "other",          "fi": "muu",           "fr": "autre",  "ko": "다른" },
+{ "en": "only",           "fi": "vain",      "fr": "seulement",     "es": "sólo",    "ko": "만" },
 
 
 
