@@ -65,6 +65,7 @@
 { "en": "kitchen",        "fi": "keittiö",    "fr": "cuisine",       "es": "(la) cocina",  "ko": " 부엌" },
 
 { "en": "get up",         "fi": "nousta",     "fr": "se lever",      "es": "levantarse", "ko": "일어나다" },
+{ "en": "go to bed",      "fi": "mennä nukkumaan",     "fr": "",     "es": "acostarse",  "ko": "" },
 
 { "en": "to wash oneself","fi": "peseytyä",    "fr": "se laver",   "es": "lavarse" ,   "ko": ""},
 { "en": "to get dressed", "fi": "pukeutua",        "fr": "s'habiller",        "es": "vestirse",  "ko": "" },
