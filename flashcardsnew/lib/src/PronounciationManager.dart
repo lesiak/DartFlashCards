@@ -69,7 +69,7 @@ class PronounciationManager {
     }
     if (r.items.length > 0) {        
       Future.forEach(r.items, (item) {
-        var filename = '${word}_${item.username}.ogg';
+        var filename = _makeitemFileName(word, item);
         Future ret = fileCache.readEntry(lang, filename)
         .then( (entry) {
           print('already exists ${filename}, at url: ${item.pathogg}');
@@ -97,7 +97,7 @@ class PronounciationManager {
   void saveForvoResponseToLocalStorage(String lang, String word, ForvoResponse r) {    
     var key = '${lang}_${word}.txt';
     //window.localStorage[key] = r.toJsonString();
-    fileCache.saveText('PronoMetadata', key,  r.toJsonString()).then((val) => print('saved ${key} in filesystem'));
+    fileCache.saveText('PronoMetadata', key,  r.toPrettyJsonString()).then((val) => print('saved ${key} in filesystem'));
     
   }
   
@@ -122,17 +122,16 @@ class PronounciationManager {
   
   
   void playPronounciation(String lang, String word, ForvoItem item) {
-    var filename = '${word}_${item.username}.ogg';
-    //print(filename);
-    fileCache.readEntry(lang, filename).then(mp3Player.playMp3FromDisk, 
+    var filename = _makeitemFileName(word, item);  
+    fileCache.readEntry(lang, filename)
+      .then(mp3Player.playMp3FromDisk, 
         onError: (e) => _fetchMp3AndPlay(lang, word, item));
   }
   
   void _fetchMp3AndPlay(String lang, String word, ForvoItem item) {
-    var filename = '${word}_${item.username}.ogg';
+    var filename = _makeitemFileName(word, item);
     print("not found in cache $filename");
-    Future<HttpRequest> mp3req = HttpRequest.request(item.pathogg, 
-        responseType: 'blob');
+    Future<HttpRequest> mp3req = HttpRequest.request(item.pathogg, responseType: 'blob');
     
     //Stream<HttpRequest> mp3reqStream =  new Stream.fromFuture(mp3req);
     //mp3reqStream.transform(new StreamTransformer(handleData, handleError, handleDone))
@@ -144,7 +143,7 @@ class PronounciationManager {
     
   
   Future<FileEntry> _fetchMp3(String lang, String word, ForvoItem item) {
-    var filename = '${word}_${item.username}.ogg';
+    var filename = _makeitemFileName(word, item);
     print("not found in cache $filename");
     Future<HttpRequest> mp3req = HttpRequest.request(item.pathogg, 
         responseType: 'blob');
@@ -154,6 +153,8 @@ class PronounciationManager {
     
     return writtenFileFuture; 
   }
+  
+  String _makeitemFileName(String word, ForvoItem item) => '${word}_${item.username}.ogg';
   
   void _onMp3RequentFinishedSaveAndPlay(String lang, String filename, HttpRequest xhr) {
     if (xhr.status == 200) {        

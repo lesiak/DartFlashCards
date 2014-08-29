@@ -27,7 +27,7 @@ class ForvoResponse {
     return JSON.encode(jsonObject);
   }
   
-  String toPrettyJSONString() {
+  String toPrettyJsonString() {
      Map jsonObject = _toJsonMap();
      var encoder = new JsonEncoder.withIndent("     ");
      return encoder.convert(jsonObject);
