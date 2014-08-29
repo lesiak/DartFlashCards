@@ -32,7 +32,7 @@ class PronounciationManager {
     }
     hasForvoResponseInFileSystem(lang,word).then((bool hasItem) {
       if (hasItem) {
-        print ('found pronounciation list for ${lang}/${word} in localStorage');
+        print ('found pronounciation list for ${lang}/${word} in fileSystem');
           fetchProgressStepMethod(true);
         } else {
           fetchPronunciations(lang, word, fetchProgressStepMethod);
@@ -76,8 +76,8 @@ class PronounciationManager {
           return entry;
         })
         .catchError((error) => _fetchMp3(lang, word, item))
-        .then((entry) {             
-          item.pathogg = entry.toUrl();                                    
+        .then((Entry entry) {             
+          item.pathogg = entry.fullPath;                                    
         });
         return ret;
       }).then((val) {
