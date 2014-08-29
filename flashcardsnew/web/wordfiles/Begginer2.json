@@ -14,10 +14,14 @@
   
 { "en": "think",       "fi": "ajatella",    "fr": "penser",    "es": "pensar", "ko": "생각하다" },
 { "en": "understand",  "fi": "ymmärtää",    "fr": "comprendre","es": "entender, comprender",  "ko": "이해하다" },
+{ "en": "say",         "fi": "sanoa",       "fr": "dire",    "es": "decir", "ko": "" },
+{ "en": "tell",        "fi": "kertoa",      "fr": "dire",    "es": "decir", "ko": "" },
 
-{ "en": "live, dwell", "fi": "asua",        "fr": "habiter",  "ko": "살다" },
+{ "en": "live, dwell", "fi": "asua",        "fr": "habiter",  "es": "vivir",  "ko": "살다" },
 { "en": "here",        "fi": "täällä",      "fr": "ici",      "es": "aquí",   "ko": "여기에" },
 
+
+{ "en": "to be able to", "fi": "voida, pystyä", "fr": "pouvoir, savoir (for a skill)", "es": "poder",   "ko": "...할 수 있다" },
 
 { "en": "to rest",     "fi": "levätä",     "fr": "se reposer",   "es": "descansar",  "ko": "쉬다" },
 { "en": "to wait",     "fi": "odottaa",    "fr": "patienter",    "es": "esperar",    "ko": "기다리다" },
