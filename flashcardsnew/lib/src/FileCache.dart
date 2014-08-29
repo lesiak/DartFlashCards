@@ -63,14 +63,14 @@ class FileCache {
  
   
   Future<bool> fileExistsinDir(String dir, String fileName) {
-    return fileExists(dirs[dir], fileName);               
+    return FileSystemUtils.fileExists(dirs[dir], fileName);               
   }
     
-  
+  /*
   Future<bool> fileExists(DirectoryEntry dir, String fileName) {
     Future<Entry> entryFut = dir.getFile(fileName);
     return entryFut.then((Entry entry) => true, onError: (e) => false);               
-  }
+  }*/
      
     
   void removeFile(DirectoryEntry dir, String fileName) {
