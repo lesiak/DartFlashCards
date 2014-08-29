@@ -8,6 +8,9 @@
 { "en": "new",          "fi": "uusi",        "fr": "nouveau, neuf",  "es": "nuevo", "ko": "새로운, 새" },
 { "en": "old",          "fi": "vanha",       "fr": "vieux",          "es": "viejo", "ko": " 낡다, 오래되다, 늙다(of people)" },
 
+{ "en": "clean",        "fi": "puhdas",      "fr": "propre",   "es": "limpio",   "ko": "깨끗하다"},
+{ "en": "dirty",        "fi": "likainen" ,   "fr": "sale",     "es": "sucio",   "ko": "더럽다"},
+
 
 { "en": "long",         "fi": "pitkä",       "fr": "long",     "es": "largo",      "ko": "길다" },
 { "en": "short",        "fi": "lyhyt",       "fr": "court",    "es": "corto",      "ko": "짧다" },

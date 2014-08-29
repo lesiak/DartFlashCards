@@ -19,6 +19,7 @@
 { "en": "liberalism",     "fi": "liberalismi",             "fr": "libéralisme", "es": "(el) liberalismo",   "ko": "" },
 { "en": "monarchy",       "fi": "monarkia",                "fr": "monarchie",   "es": "(la) monarquía",   "ko": "" },
 { "en": "ideology",       "fi": "ideologia",               "fr": "idéologie",   "es": "(la) ideología",   "ko": "" },
+{ "en": "liberty",        "fi": "",                        "fr": "liberté",     "es": "(la) libertad",   "ko": "" },
  
 { "en": "king",          "fi": "kuningas",       "fr": "roi" ,    "es": "(el) rey",      "ko": ""}, 
 { "en": "queen",         "fi": "kuningatar",     "fr": "reine" ,  "es": "(la) reina",    "ko": ""},

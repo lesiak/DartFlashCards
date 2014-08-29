@@ -25,6 +25,7 @@
 
 { "en": "line",          "ko": "호선",       "fi": "linja",    "fr": "ligne de métro" },
 { "en": "doll",          "ko": "인형",       "fi": "nukke",    "fr": "poupée" },
+{ "en": "tape",          "fi": "nauha",    "fr": "bande",    "es": "(la) cinta", "ko": "" },
 
 
 { "en": "to burn",        "ko": "타다",          "fi": "polttaa",    "fr": "" },

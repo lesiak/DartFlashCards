@@ -27,6 +27,9 @@
 { "en": "(to be) capable (of)",   "fi": "pystyä (jhk), pystyä tekemään jtk",   "fr": "capable (de)",   "es": "capaz (de)", "ko": ""},
 
 
+{ "en": "possible",   "fi": "mahdollinen",  "fr":"possible",    "es":"posible",  "ko": ""},
+{ "en": "possibility","fi": "mahdollisuus", "fr":"possibilité", "es":"(la) posibilidad", "ko": ""},
+
 { "en": "willingly",  "fi": "mielellään",   "fr":"volontiers",  "ko": "기꺼이"},
 
 

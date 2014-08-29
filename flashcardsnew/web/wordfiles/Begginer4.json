@@ -1,9 +1,5 @@
 [
 
-
-{ "en": "clean",       "fi": "puhdas",    "fr": "propre",    "es": "limpio",   "ko": "깨끗하다"},
-{ "en": "dirty",       "fi": "likainen" , "fr": "sale",      "es": "sucio",   "ko": "더럽다"},
-
 { "en": "put",         "fi": "panna",     "fr": "placer, mettre","es": "poner, meter",  "ko": " 두다" },
 { "en": "to give",     "fi": "antaa",     "fr": "donner",        "es": "dar",       "ko": "주다" },
 { "en": "to receive",  "fi": "saada",     "fr": "recevoir",      "es": "recibir",   "ko": "받다" },
@@ -30,9 +26,9 @@
 { "en": "useful",            "fi": "hyödyllinen", "fr": "utile","es": "útil",  "ko": "" },
 { "en": "handy (useful)",    "fi": "kätevä",      "fr": "maniable, pratique", "es": "práctico, útil",  "ko": ""  },
 
-{ "en": "rise",              "fi": "nousta",    "fr": "augmenter",  "ko": "오르다" },
-{ "en": "significantly",        "ko": "크게",          "fi": "merkittävästi",    "fr": "significativement" },
-{ "en": "advertisement",        "fi": "mainos",    "fr": "publicité",   "es": "(el) anuncio",   "ko": "광고" },
+{ "en": "rise",              "fi": "nousta",        "fr": "augmenter",  "ko": "오르다" },
+{ "en": "significantly",     "fi": "merkittävästi", "fr": "significativement", "es": "significativamente",  "ko": "크게" },
+{ "en": "advertisement",     "fi": "mainos",        "fr": "publicité",         "es": "(el) anuncio",        "ko": "광고" },
 
 
 
