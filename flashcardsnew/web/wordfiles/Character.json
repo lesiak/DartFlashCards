@@ -19,7 +19,8 @@
 { "en": "patient",       "fi": "kärsivällinen",  "fr": "patient",     "es": "paciente",              "ko": "" },
 { "en": "impatient",     "fi": "kärsimätön",     "fr": "impatient",   "es": "impaciente",              "ko": "" },
 { "en": "punctual",      "fi": "täsmällinen",    "fr": "ponctuel",    "es": "puntual",              "ko": "" },
-{ "en": "laborious",     "fi": "työläs",         "fr": "laborieux",   "ko": "힘들다" },
+{ "en": "laborious",     "fi": "työläs",         "fr": "laborieux",   "es": "laborioso",   "ko": "힘들다" },
+{ "en": "determined",     "fi": "",              "fr": "déterminé",    "es": "determinado",    "ko": "" },
 
 { "en": "friendly",      "fi": "ystävällinen",   "fr": "amical" ,     "es": "amable",    "ko": "" },
 { "en": "shy",           "fi": "ujo",            "fr": "timide" ,     "es": "tímido",    "ko": "" },

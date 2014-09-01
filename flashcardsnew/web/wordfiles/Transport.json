@@ -60,6 +60,7 @@
 { "en": "to the right",   "fi": "oikealle",    "fr": "à droite",     "es": "a la derecha",      "ko": "" },
 { "en": "on the corner",  "fi": "kulmassa",    "fr": "",             "es": "en la esquina",      "ko": "" },
 { "en": "a visit",        "fi": "vierailu",    "fr": "visite",       "es": "(la) visita",   "ko": "방문" },
+{ "en": "to visit",       "fi": "visiter",     "fr": "visite",       "es": "visitar",   "ko": "" },
 
 { "en": "class",          "fi": "luokka",    "fr": "", "ko": "등" },
 { "en": "line",           "fi": "linja",     "fr": "ligne","ko": "호선" },

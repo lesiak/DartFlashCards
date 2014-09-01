@@ -16,6 +16,8 @@
 { "en": "to declare",   "ko": "",    "fi": "julistaa",  "fr":"déclarer"},
 { "en": "to announce",   "ko": "",    "fi": "ilmoittaa, kuuluttaa, julistaa",  "fr":"annoncer"},
 
+{ "en": "exception",     "fi": "poikkeus",  "fr":"exception",  "ko": ""},
+{ "en": "to go down",     "fi": "",  "fr":"", "es":"bajar",   "ko": ""},
  
 { "en": "belong (to)",        "fi": "kuulua (+allative)",   "fr": "appartenir (à)", "es": "pertenecer (a)",   "ko": ""},
 { "en": "information",        "ko": "정보",          "fi": "tiedot",    "fr": "information" },
@@ -63,6 +65,26 @@
 { "en": "to be related to",   "ko": "",    "fi": "",   "fr":"être liée à"},
 { "en": "to support",   "ko": "",    "fi": "kannattaa",   "fr":"supporter, soutenir"},
 
+
+
+{ "en": "to support",    "fi": "kannattaa",   "fr":"supporter, soutenir",  "ko": ""},
+
+
+{ "en": "known",         "fi": "tunnettu",        "fr":"connu",   "es": "conocido",  "ko": ""},
+{ "en": "absolute",      "fi": "absoluuttinen",   "fr":"absolu",  "es": "absoluto",  "ko": ""},
+{ "en": "concrete",      "fi": "konkreettinen",   "fr":"concret", "es": "concreto",  "ko": ""},
+{ "en": "definitive",    "fi": "lopullinen",      "fr":"définitif", "es": "definitivo",  "ko": ""},
+
+{ "en": "due (to)",       "fi": "",      "fr":"grâce (à)", "es": "debido (a)",  "ko": ""},
+
+
+
+{ "en": "current",       "fi": "nykyinen",   "fr":"courant", "es":"actual",  "ko": ""},
+{ "en": "adequate",       "fi": "riittävä",   "fr":"adéquat", "es":"adecuado",  "ko": ""},
+{ "en": "sufficient",       "fi": "riittävä",   "fr":"suffisant", "es":"suficiente",  "ko": ""},
+
+{ "en": "current, flow",       "fi": "virta",   "fr":"courant", "es":"(la) corriente",  "ko": ""},
+{ "en": "given",           "fi": "annettu",   "fr":"donné", "es":"dado",  "ko": ""},
 
 { "en": "to run away",   "ko": "도망가다",    "fi": "",   "fr":""},
 

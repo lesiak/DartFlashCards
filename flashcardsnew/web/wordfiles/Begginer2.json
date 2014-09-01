@@ -10,6 +10,7 @@
 
 { "en": "to walk",     "fi": "kävellä",    "fr": "marcher, se promener", "es": "andar, caminar", "ko": "걸어가다" },
 { "en": "a walk",      "fi": "kävely",      "fr": "promenade","es": "(el) paseo, (la) caminata", "ko": "산책" },
+{ "en": "to go for a walk", "fi": "",      "fr": "","es": "ir de paseo", "ko": "" },
 { "en": "stay (in place) (remain)",    "fi": "jäädä",    "fr": "rester",  "es": "quedarse; permanecer",   "ko": "머무르다" },
   
 { "en": "think",       "fi": "ajatella",    "fr": "penser",    "es": "pensar", "ko": "생각하다" },
@@ -20,6 +21,9 @@
 { "en": "live, dwell", "fi": "asua",        "fr": "habiter",  "es": "vivir",  "ko": "살다" },
 { "en": "here",        "fi": "täällä",      "fr": "ici",      "es": "aquí",   "ko": "여기에" },
 
+{ "en": "to prefer",   "fi": "",            "fr": "", "es": "preferir",   "ko": "" },
+{ "en": "to feel like","fi": "",            "fr": "", "es": "tener ganas de",   "ko": "" },
+{ "en": "to have to","fi": "",            "fr": "",   "es": "tener que",   "ko": "" },
 
 { "en": "to be able to", "fi": "voida, pystyä", "fr": "pouvoir, savoir (for a skill)", "es": "poder",   "ko": "...할 수 있다" },
 

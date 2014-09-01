@@ -19,6 +19,7 @@
 { "en": "also",            "fi": "myös",       "fr": "aussi",    "es": "también",   "ko": "또한, 역시" },
 { "en": "neither",         "fi": "eikä, -kaan",      "fr": "",              "es": "tampoco",   "ko": "" },
 
+{ "en": "to be interested in",        "fi": "",       "fr": "","es": "interesarse (en/por)",            "ko": ""},
 
 
 { "en": "shallow",       "ko": "얕다",    "fi": "matala",    "fr":"peu profond"},
