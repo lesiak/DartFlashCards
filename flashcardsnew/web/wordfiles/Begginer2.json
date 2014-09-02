@@ -21,6 +21,8 @@
 { "en": "live, dwell", "fi": "asua",        "fr": "habiter",  "es": "vivir",  "ko": "살다" },
 { "en": "here",        "fi": "täällä",      "fr": "ici",      "es": "aquí",   "ko": "여기에" },
 
+{ "en": "to hold",     "fi": "",      "fr": "tenir",      "es": "tener",   "ko": "" },
+
 { "en": "to prefer",   "fi": "",            "fr": "", "es": "preferir",   "ko": "" },
 { "en": "to feel like","fi": "",            "fr": "", "es": "tener ganas de",   "ko": "" },
 { "en": "to have to","fi": "",            "fr": "",   "es": "tener que",   "ko": "" },

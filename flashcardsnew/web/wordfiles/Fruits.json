@@ -23,7 +23,7 @@
 
 { "en": "fruit",      "fi": "hedelmä",      "fr": "fruit",      "es": "(la) fruta",    "hu": "gyümölcs",   "ko": "과일"    },
 
-{ "en": "hard",       "fi": "kova",         "fr": "dur",        "hu": "kemény",     "ko": ""     },
+{ "en": "hard",       "fi": "kova",         "fr": "dur",        "es": "duro",  "hu": "kemény",     "ko": ""     },
 { "en": "soft",       "fi": "pehmeä",       "fr": "mou",        "hu": "puha, lágy", "ko": ""     },
 { "en": "ripe",       "fi": "kypsä",        "fr": "mûr",        "es": "maduro",     "hu": "érett",       "ko": "익은"     }
 

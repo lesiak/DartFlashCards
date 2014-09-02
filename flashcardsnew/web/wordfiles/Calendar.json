@@ -28,8 +28,8 @@
 { "en": "December",   "fi": "joulukuu",     "fr": "décembre",   "es": "(el) diciembre",   "ko": "십이 월" },
 
 { "en": "calendar",   "fi": "kalenteri",    "fr": "calendrier", "es": "(el) calendario",  "ko": "달력 (month + calendar)" },
-{ "en": "date",      "fi": "",              "fr": "date",  "es": "(la) fecha",   "ko": "" },
+{ "en": "date",       "fi": "",             "fr": "date",  "es": "(la) fecha",   "ko": "" },
 
-{ "en": "future",     "ko": "미래",         "fi": "tulevaisuus",          "fr": "avenir" },
-{ "en": "past",     "ko": "과거",         "fi": "menneisyys",          "fr": "passé" }
+{ "en": "future",     "fi": "tulevaisuus",  "fr": "avenir",   "es": "(el) futuro", "ko": "미래"   },
+{ "en": "past",       "fi": "menneisyys",   "fr": "passé",    "ko": "과거" }
 ]

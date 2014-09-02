@@ -1,6 +1,6 @@
 [
-{ "en": "space",       "ko": "공간, 우주",  "fi": "avaruus" ,     "fr":"espace"},
-{ "en": "nature",      "ko": "자연",         "fi": "luonto" ,     "fr":"nature"},
+{ "en": "space (astr)","fi": "avaruus" ,     "fr":"espace",    "es": "(el) espacio",   "ko": "공간, 우주" },
+{ "en": "nature",      "fi": "luonto" ,      "fr":"nature",    "es": "(la) naturaleza",   "ko": "자연"},
 { "en": "natural",     "fi": "luonnollinen", "fr":"naturel",   "es": "natural",    "ko": ""},
 { "en": "environment", "fi": "ympäristö" ,   "fr": "environnement",  "es": "(el) medio ambiente","ko": ""},
 { "en": "protection",  "fi": "suojelu" ,     "fr": "protection, sauvegarde","es": "(la) protección",    "ko": "보호"},
@@ -15,11 +15,11 @@
 
 
 
-{ "en": "shadow",      "fi": "varjo",      "fr": "ombre" ,    "es": "(?) ombre", "ko": "그림자"},
+{ "en": "shadow",      "fi": "varjo",      "fr": "ombre" ,    "es": "(la) sombra", "ko": "그림자"},
 { "en": "shade",       "fi": "varjo",      "fr": "ombre" ,    "es": "(la) sombra", "ko": "그림자"},
-{ "en": "cloudy",      "ko": "흐리다",       "fi": "pilvinen",   "fr":"nuageux"},
-{ "en": "storm",       "ko": "폭풍",         "fi": "myrsky",   "fr":"orage (m), tempête (f)"},
-{ "en": "lightning",   "ko": "번개, 벼락 ",  "fi": "salama",   "fr":"éclair (m)"},
+{ "en": "cloudy",      "fi": "pilvinen",   "fr": "nuageux",    "es": "nublado",     "ko": "흐리다"},
+{ "en": "storm",       "fi": "myrsky",     "fr": "orage (m), tempête (f)", "es": "(la) tormenta, (la) tempestad ", "ko": "폭풍"},
+{ "en": "lightning",   "fi": "salama",     "fr":"éclair (m)",   "ko": "번개, 벼락"},
 { "en": "thunder (sound)",   "ko": "우레",  "fi": "ukkonen",   "fr":"tonnerre (m)"},
 
 { "en": "desert",       "fi": "aavikko",    "fr": "désert",    "es":"(el) desierto", "ko": "사막" },

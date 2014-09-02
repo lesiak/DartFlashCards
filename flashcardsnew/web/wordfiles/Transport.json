@@ -51,7 +51,7 @@
 { "en": "to get off",       "fi": "jäädä pois",    "fr": "descendre",  "es": "bajar",   "ko": "내리다" },
 { "en": "to get out, (go out, exit)",        "ko": "나가다",          "fi": "",    "fr": "sortir" },
 
-{ "en": "to go out (from home)",        "ko": "외출하다",          "fi": "",    "fr": "sortir" },
+{ "en": "to go out (from home)",  "fi": "",    "fr": "sortir", "es": "salir", "ko": "외출하다"},
 
 { "en": "to ride",        "ko": "타다",          "fi": "",    "fr": "" },
 

@@ -16,7 +16,7 @@
 
 { "en": "memory (souvenir)",      "fi": "muisto",        "fr": "souvenir",  "es": "(el) recuerdo","ko": "기억" },
 { "en": "remember",    "fi": "muistaa",       "fr": "rappeler",  "es": "recordar", "ko": "기억하다" },
-{ "en": "forget",      "fi": "unohtaa",     "fr": "oublier",     "es": "olvidar",   "ko": "" },
+{ "en": "forget",      "fi": "unohtaa",     "fr": "oublier",     "es": "olvidar, olvidarse de, olvidársele algo a alguien (Se me olvidó)",   "ko": "" },
 { "en": "dream",       "fi": "unelma",      "fr": "rêve",        "es": "(el) sueño",   "ko": "" },
 { "en": "to dream",    "fi": "unelmoida",   "fr": "rêver",       "es": "soñar",   "ko": "" },
 

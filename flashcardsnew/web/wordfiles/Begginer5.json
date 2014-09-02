@@ -1,13 +1,14 @@
 [
 { "en": "question",     "fi": "kysymys, asia", "fr": "question",  "es": "(la) pregunta",  "ko": "문제" },
 { "en": "to ask",       "fi": "kysyä",         "fr": "",                     "ko": "묻다 (물어)" },
+{ "en": "to ask (for)", "fi": "",              "fr": "",          "es": "pedir",           "ko": "묻다 (물어)" },
 { "en": "answer",       "fi": "vastaus",       "fr": "réponse",    "es": "(la) respuesta",  "ko": "답변, 대답 (reply + answer)" },
-{ "en": "to answer",    "fi": "vastata",       "fr": "répondre",   "es": "responder",       "ko": "답변하다, 대답하다" },
+{ "en": "to answer",    "fi": "vastata",       "fr": "répondre",   "es": "responder, contestar",       "ko": "답변하다, 대답하다" },
 { "en": "to explain",   "fi": "selittää",      "fr": "expliquer",   "es": "explicar",       "ko": "" },
 
 
-{ "en": "warm",     "ko": "따뜻하다",    "fi": "lämmin" , "fr":"chaud"},
-{ "en": "cold",            "fi": "kylmä" , "fr": "froid",   "fr": "frío",  "ko": "춥다"},
+{ "en": "warm",         "fi": "lämmin" , "fr":"chaud", "ko": "따뜻하다"},
+{ "en": "cold",            "fi": "kylmä" , "fr": "froid",   "es": "frío",  "ko": "춥다"},
 { "en": "hot (weather)",     "ko": "덥다",    "fi": "kuuma" , "fr":"chaud"},
 { "en": "frost",     "ko": "서리",    "fi": "pakkanen" , "fr":"gel"},
 
@@ -52,13 +53,10 @@
 
 { "en": "instead of",   "fi": "sijasta, asemesta",   "fr":"au lieu de","es":"en vez de, en lugar de",  "ko": ""},
 
-{ "en": "to go shopping",       "fi": "käydä ostoksilla", "fr":"",       "es": "hacer la compra", "ko": ""},
-{ "en": "trolley",              "fi": "ostoskori",        "fr":"panier", "es": "(el) carrito", "ko": ""},
-{ "en": "cash desk",              "fi": "kassa",        "fr":"caisse", "es": "(la) caja", "ko": ""},
 
 
-{ "en": "special",         "ko": "특별한",       "fi": "erityinen, erikoinen",          "fr": "spéciale" },
-{ "en": "private",       "ko": "",    "fi": "yksityinen",    "fr":"privé"},
+{ "en": "special",         "fi": "erityinen, erikoinen",  "fr": "spéciale",  "ko": "특별한" },
+{ "en": "private",         "fi": "yksityinen",    "fr": "privé",  "es": "privado", "ko": ""},
 
 { "en": "passage (between buildings, underground)",      "fi": "",   "fr": "",   "es": "(el) pasaje", "ko": ""},
 { "en": "passage (way through)",      "fi": "",   "fr": "",   "es": "(el) paso", "ko": ""},

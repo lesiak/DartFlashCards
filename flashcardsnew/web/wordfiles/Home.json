@@ -74,7 +74,7 @@
 { "en": "lunch",         "fi": "lounas",       "fr": "déjeuner",         "es": "(el) almuerzo",    "ko": "점심" },
 { "en": "dinner",        "fi": "päivällinen",  "fr": "dîner",            "es": "(la) cena",    "ko": "저녁" },
 
-{ "en": "to have lunch", "fi": "",             "fr": "",         "es": "(el) almuerzo",    "ko": "" },
+{ "en": "to have lunch", "fi": "",             "fr": "",                 "es": "almorzar",    "ko": "" },
 
 { "en": "rubbish",       "fi": "roska" ,       "fr":"déchets",           "es":"(la) basura",      "ko": "쓰레기"},
 { "en": "recycling",     "ko": "",            "fi": "kierrätys" ,        "es":"(el) reciclaje, (es) reciclado",   "fr":""},

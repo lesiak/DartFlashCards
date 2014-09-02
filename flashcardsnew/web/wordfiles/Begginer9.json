@@ -47,6 +47,7 @@
 { "en": "item",       "ko": "",        "fi": "erä",      "fr":"article"},
 { "en": "treasure",   "fi": "aarre",   "fr":"trésor",     "es":"(el) tesoro", "ko": "보물"},
 
+{ "en": "to have a good time",   "fi": "",   "fr":"",     "es":"pasarlo bomba", "ko": ""},
 
 { "en": "earnings, gains, proceeds",         "ko": "수익금",       "fi": "",          "fr": "" },
 
@@ -66,17 +67,29 @@
 { "en": "to support",   "ko": "",    "fi": "kannattaa",   "fr":"supporter, soutenir"},
 
 
+{ "en": "physical",      "fi": "",      "fr": "", "es": "físico",  "ko": ""},
+{ "en": "entire",      "fi": "",      "fr": "", "es": "entero",  "ko": ""},
 
 { "en": "to support",    "fi": "kannattaa",   "fr":"supporter, soutenir",  "ko": ""},
 
+{ "en": "serious (situation, problem)",      "fi": "",      "fr": "", "es": "grave",  "ko": ""},
+{ "en": "historical",      "fi": "",      "fr": "", "es": "histórico",  "ko": ""},
+{ "en": "impossible",      "fi": "",      "fr": "", "es": "imposible",  "ko": ""},
 
-{ "en": "known",         "fi": "tunnettu",        "fr":"connu",   "es": "conocido",  "ko": ""},
-{ "en": "absolute",      "fi": "absoluuttinen",   "fr":"absolu",  "es": "absoluto",  "ko": ""},
-{ "en": "concrete",      "fi": "konkreettinen",   "fr":"concret", "es": "concreto",  "ko": ""},
-{ "en": "definitive",    "fi": "lopullinen",      "fr":"définitif", "es": "definitivo",  "ko": ""},
 
-{ "en": "due (to)",       "fi": "",      "fr":"grâce (à)", "es": "debido (a)",  "ko": ""},
+{ "en": "known",         "fi": "tunnettu",        "fr": "connu",    "es": "conocido",  "ko": ""},
+{ "en": "absolute",      "fi": "absoluuttinen",   "fr": "absolu",   "es": "absoluto",  "ko": ""},
+{ "en": "concrete",      "fi": "konkreettinen",   "fr": "concret",  "es": "concreto",  "ko": ""},
+{ "en": "definitive",    "fi": "lopullinen",      "fr": "définitif","es": "definitivo",  "ko": ""},
 
+{ "en": "due (to)",       "fi": "",      "fr": "grâce (à)", "es": "debido (a)",  "ko": ""},
+{ "en": "to happen",      "fi": "",      "fr": "", "es": "pasar",  "ko": ""},
+
+{ "en": "ready, willing",      "fi": "",      "fr": "", "es": "dispuesto",  "ko": ""},
+{ "en": "diverse",      "fi": "",      "fr": "", "es": "diverso",  "ko": ""},
+{ "en": "exact",      "fi": "",      "fr": "", "es": "exacto",  "ko": ""},
+{ "en": "extraordinary",      "fi": "",      "fr": "", "es": "extraordinario",  "ko": ""},
+{ "en": "direct",      "fi": "",      "fr": "", "es": "directo",  "ko": ""},
 
 
 { "en": "current",       "fi": "nykyinen",   "fr":"courant", "es":"actual",  "ko": ""},
