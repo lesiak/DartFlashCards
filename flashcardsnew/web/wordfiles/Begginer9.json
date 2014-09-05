@@ -37,15 +37,9 @@
 
 { "en": "monopolize",   "ko": "독점하다",    "fi": "monopolisoida",   "fr":"monopoliser"},
 
-{ "en": "bell",   "ko": "종, 벨",    "fi": "kello, tiuku (small)",   "fr":"cloche (f)"},
-{ "en": "lighthouse",   "ko": "등대",    "fi": "majakka",   "fr":"phare"},
-
-{ "en": "chain",   "ko": "",    "fi": "ketju",   "fr":"chaîne"},
 
 { "en": "to tremble",    "fi": "vapista",   "fr": "trembler", "es": "temblar", "ko": ""},
 
-{ "en": "item",       "ko": "",        "fi": "erä",      "fr":"article"},
-{ "en": "treasure",   "fi": "aarre",   "fr":"trésor",     "es":"(el) tesoro", "ko": "보물"},
 
 { "en": "to have a good time",   "fi": "",   "fr":"",     "es":"pasarlo bomba", "ko": ""},
 
@@ -105,8 +99,6 @@
 
 { "en": "to run away",   "ko": "도망가다",    "fi": "",   "fr":""},
 
-{ "en": "door handle",   "ko": "문 손잡이",    "fi": "ovenkahva",   "fr":"poignée de porte"},
-{ "en": "brick",         "ko": "벽돌",       "fi": "tiili",          "fr": "brique" },
 
 { "en": "to accent",   "ko": "",    "fi": "korostaa",   "fr":""},
 
@@ -115,17 +107,12 @@
 { "en": "threat (expression of intent to injure or punish another)",   "ko": "",    "fi": "uhkaus",   "fr":"menace"},
 { "en": "threat (indication of imminent danger)",   "ko": "",    "fi": "uhka",   "fr":""},
 
-{ "en": "to predict",   "fi": "ennustaa",   "fr":"prédire, prévoir",   "ko": ""},
-{ "en": "prediction",   "fi": "ennustus",   "fr":"prédiction",  "ko": ""},
 
 { "en": "meticulous",   "fi": "huolellinen","fr": "méticuleux",  "es": "meticuloso", "ko": ""},
 
 
 { "en": "weakness, weak point",         "ko": "약점 (weak + point)",       "fi": "heikkous",          "fr": "faiblesse, point faible" },
 
-{ "en": "stapler",       "fi": "nitoja",        "fr": "agrafeuse",   "es": "(la) grapadora", "ko": "호치키스"},
-{ "en": "hole punch",    "fi": "",              "fr": "perforatrice",   "es": "(la) perforadora", "ko": "호치키스"},
-{ "en": "a (post) stamp","fi": "postimerkki",   "fr": "timbre",      "es": "(el) sello", "ko": "우표"},
 
 
 { "en": "to discuss",    "fi": "pohtia, keskustella jstk" , "fr":"discuter", "es":"discutir", "ko": ""},
