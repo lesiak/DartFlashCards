@@ -17,7 +17,11 @@
 
 { "en": "stapler",       "fi": "nitoja",        "fr": "agrafeuse",   "es": "(la) grapadora", "ko": "호치키스"},
 { "en": "hole punch",    "fi": "",              "fr": "perforatrice",   "es": "(la) perforadora", "ko": "호치키스"},
-{ "en": "a (post) stamp","fi": "postimerkki",   "fr": "timbre",      "es": "(el) sello", "ko": "우표"}
+{ "en": "a (post) stamp","fi": "postimerkki",   "fr": "timbre",      "es": "(el) sello", "ko": "우표"},
+
+{ "en": "doll",          "ko": "인형",       "fi": "nukke",    "fr": "poupée" },
+{ "en": "tape",          "fi": "nauha",    "fr": "bande",    "es": "(la) cinta", "ko": "" }
+
 
 
 ]

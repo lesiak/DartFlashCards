@@ -1,10 +1,5 @@
 [
 
-{ "en": "insult",   "ko": "모욕",    "fi": "loukkaus", 	"fr":"insulte"},
-{ "en": "to insult",   "ko": "모욕하다",    "fi": "loukata",  "fr":"insulter"},
-
-{ "en": "threaten",   "ko": "위협하다",    "fi": "uhata",  "fr":"menacer"},
-{ "en": "threat",   "ko": "위협",    "fi": "uhkaus",  "fr":"menace"},
 
 { "en": "industry",   "ko": "산업",    "fi": "teollisuus",  "fr":"industrie"},
 { "en": "disappear",   "ko": "",    "fi": "kadota",  "fr":"disparaître"},
@@ -13,8 +8,6 @@
 { "en": "variation (change)",   "ko": "",    "fi": "vaihtelu",  "fr":"variation"},
 { "en": "exception",   "ko": "",    "fi": "poikkeus",  "fr":"exception"},
 
-{ "en": "to declare",   "ko": "",    "fi": "julistaa",  "fr":"déclarer"},
-{ "en": "to announce",   "ko": "",    "fi": "ilmoittaa, kuuluttaa, julistaa",  "fr":"annoncer"},
 
 { "en": "exception",     "fi": "poikkeus",  "fr":"exception",  "ko": ""},
 { "en": "to go down",     "fi": "",  "fr":"", "es":"bajar",   "ko": ""},
@@ -58,12 +51,13 @@
 { "en": "voluntary",   "ko": "자발적인 ??",    "fi": "vapaaehtoinen",   "fr":"volontaire"},
 { "en": "voluntarily",   "ko": "자발적으로",    "fi": "vapaaehtoisesti",   "fr":"volontairement"},
 { "en": "to be related to",   "ko": "",    "fi": "",   "fr":"être liée à"},
-{ "en": "to support",   "ko": "",    "fi": "kannattaa",   "fr":"supporter, soutenir"},
+
 
 
 { "en": "physical",      "fi": "",      "fr": "", "es": "físico",  "ko": ""},
-{ "en": "entire",      "fi": "",      "fr": "", "es": "entero",  "ko": ""},
 
+
+{ "en": "entire",      "fi": "",      "fr": "", "es": "entero",  "ko": ""},
 { "en": "to support",    "fi": "kannattaa",   "fr":"supporter, soutenir",  "ko": ""},
 
 { "en": "serious (situation, problem)",      "fi": "",      "fr": "", "es": "grave",  "ko": ""},
@@ -103,9 +97,6 @@
 { "en": "to accent",   "ko": "",    "fi": "korostaa",   "fr":""},
 
 { "en": "perfect, complet",   "ko": "",    "fi": "täydellinen",   "fr":""},
-{ "en": "to threaten",   "ko": "",    "fi": "uhata",   "fr":"menacer"},
-{ "en": "threat (expression of intent to injure or punish another)",   "ko": "",    "fi": "uhkaus",   "fr":"menace"},
-{ "en": "threat (indication of imminent danger)",   "ko": "",    "fi": "uhka",   "fr":""},
 
 
 { "en": "meticulous",   "fi": "huolellinen","fr": "méticuleux",  "es": "meticuloso", "ko": ""},
@@ -115,9 +106,6 @@
 
 
 
-{ "en": "to discuss",    "fi": "pohtia, keskustella jstk" , "fr":"discuter", "es":"discutir", "ko": ""},
-{ "en": "discussion",    "fi": "keskustelu" ,   "fr":"discussion",           "es":"(la) discusión",  "ko": "토론"},
-{ "en": "to approve",    "fi": "hyväksyä, keskustella jstk" , "fr":"approuver", "es":"aprobar", "ko": ""},
 
 
 

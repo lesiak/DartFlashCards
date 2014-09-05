@@ -1,0 +1,27 @@
+[
+
+{ "en": "to discuss",    "fi": "pohtia, keskustella jstk" , "fr":"discuter", "es":"discutir", "ko": ""},
+{ "en": "discussion",    "fi": "keskustelu" ,   "fr":"discussion",           "es":"(la) discusión",  "ko": "토론"},
+{ "en": "to approve",    "fi": "hyväksyä, keskustella jstk" , "fr":"approuver", "es":"aprobar", "ko": ""},
+
+
+{ "en": "insult",   "ko": "모욕",    "fi": "loukkaus",  "fr":"insulte"},
+{ "en": "to insult",   "ko": "모욕하다",    "fi": "loukata",  "fr":"insulter"},
+
+{ "en": "threaten",   "ko": "위협하다",    "fi": "uhata",  "fr":"menacer"},
+{ "en": "threat",   "ko": "위협",    "fi": "uhkaus",  "fr":"menace"},
+
+{ "en": "to threaten",   "ko": "",    "fi": "uhata",   "fr":"menacer"},
+{ "en": "threat (expression of intent to injure or punish another)",   "ko": "",    "fi": "uhkaus",   "fr":"menace"},
+{ "en": "threat (indication of imminent danger)",   "ko": "",    "fi": "uhka",   "fr":""},
+
+
+{ "en": "to declare",   "ko": "",    "fi": "julistaa",  "fr":"déclarer"},
+{ "en": "to announce",   "ko": "",    "fi": "ilmoittaa, kuuluttaa, julistaa",  "fr":"annoncer"},
+
+{ "en": "to shut up",       "ko": "닥치다",    "fi": "lähestyä",    "fr":"se taire"},
+{ "en": "shut up",       "ko": "입 닥쳐",    "fi": "ole hiljaa",    "fr":"tais-toi"}
+
+
+]
+        
