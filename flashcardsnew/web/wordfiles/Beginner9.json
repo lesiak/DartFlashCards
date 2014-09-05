@@ -65,7 +65,7 @@
 
 
 
-{ "en": "known",         "fi": "tunnettu",        "fr": "connu",    "es": "conocido",  "ko": ""},
+
 { "en": "absolute",      "fi": "absoluuttinen",   "fr": "absolu",   "es": "absoluto",  "ko": ""},
 { "en": "concrete",      "fi": "konkreettinen",   "fr": "concret",  "es": "concreto",  "ko": ""},
 { "en": "definitive",    "fi": "lopullinen",      "fr": "définitif","es": "definitivo",  "ko": ""},
@@ -92,6 +92,12 @@
 { "en": "given",           "fi": "annettu",   "fr":"donné", "es":"dado",  "ko": ""},
 
 { "en": "to run away",   "ko": "도망가다",    "fi": "",   "fr":""},
+{ "en": "interior, inside",       "fi": "",   "fr":"", "es":"(el) interior",  "ko": ""},
+{ "en": "internal",       "fi": "",   "fr":"", "es":"interno",  "ko": ""},
+
+{ "en": "just (adv)",       "fi": "",   "fr":"", "es":"justo",  "ko": ""},
+{ "en": "full, filled",       "fi": "",   "fr":"", "es":"lleno (de)",  "ko": ""},
+{ "en": "minimum",       "fi": "",   "fr":"", "es":"mínimo",  "ko": ""},
 
 
 { "en": "to accent",   "ko": "",    "fi": "korostaa",   "fr":""},

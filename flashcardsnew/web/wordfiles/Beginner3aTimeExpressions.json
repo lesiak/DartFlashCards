@@ -15,8 +15,10 @@
 
 { "en": "later",     "fi": "myöhemmin",  "fr": "plus tard, ensuite",  "es": "más tarde, luego",  "ko": "나중에" },
 { "en": "already",   "fi": "jo",         "fr": "déjà",                "es": "ya" ,        "ko": "벌써, 이미" },
-{ "en": "immediately","fi": "heti",      "fr": "immédiatement",       "es": "inmediatamente" , "ko": "금방" },
+{ "en": "immediately","fi": "heti",      "fr": "immédiatement",       "es": "inmediatamente" , "ko": "바로, 금방" },
 { "en": "soon",       "fi": "pain",      "fr": "bientôt",             "es": "pronto" , "ko": "" },
+
+{ "en": "immediate","fi": "",      "fr": "",       "es": "inmediato" , "ko": "" },
 
 { "en": "to last",   "fi": "kestää",     "fr": "durer",              "es": "durar",    "ko": "" },
 

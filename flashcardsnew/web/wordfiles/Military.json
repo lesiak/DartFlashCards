@@ -33,6 +33,8 @@
 { "en": "sword",       "fi": "miekka",    "fr": "épée",   "es": "(la) espada", "ko": "검" },
 { "en": "bow",         "fi": "jousi",     "fr": "arc",    "es": "(el) arco",   "ko": "활" },
 
+{ "en": "military",         "fi": "",     "fr": "",    "es": "militar",   "ko": "" },
+
 
 { "en": "officer",     "fi": "upseeri",   "fr": "fonctionnaire",  "es": "(el) oficial",  "ko": "" }
 

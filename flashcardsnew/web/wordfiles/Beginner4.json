@@ -76,6 +76,7 @@
 { "en": "event",           "fi": "tapahtuma",  "fr": "événement",   "ko": "행사" },
 { "en": "situation",       "fi": "tilanne",    "fr": "situation",   "es": "(la) situación",      "ko": "?" },
 { "en": "knowledge",       "fi": "tieto",      "fr": "connaissance","es": "(el) conocimiento",   "ko": "지식" },
+{ "en": "known",           "fi": "tunnettu",   "fr": "connu",       "es": "conocido",  "ko": ""},
 
   
 { "en": "empty",           "fi": "tyhjä",      "fr": "vide",        "es": "vacío",     "ko": "비다" },

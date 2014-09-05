@@ -17,11 +17,12 @@
 { "en": "to offer",             "fi": "tarjota",      "fr": "offrir",     "es": "ofrecer",   "ko": "" },
 { "en": "an offer",             "fi": "tarjous",      "fr": "offre",     "es": "(la) oferta",   "ko": "" },
 
-{ "en": "but",             "fi": "mutta",      "fr": "mais",     "es": "pero",   "ko": "하지만" },
+{ "en": "but",             "fi": "mutta",      "fr": "mais",     "es": "pero, mas",   "ko": "하지만" },
 { "en": "also",            "fi": "myös",       "fr": "aussi",    "es": "también",   "ko": "또한, 역시" },
 { "en": "neither",         "fi": "eikä, -kaan",      "fr": "",              "es": "tampoco",   "ko": "" },
 
 { "en": "to be interested in",        "fi": "",       "fr": "","es": "interesarse (en/por)",            "ko": ""},
+{ "en": "interesting",        "fi": "",       "fr": "","es": "interesante",            "ko": ""},
 
 
 { "en": "shallow",       "ko": "얕다",    "fi": "matala",    "fr":"peu profond"},
