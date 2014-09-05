@@ -14,6 +14,8 @@
 { "en": "next",            "fi": "seuraava, ensi",  "fr": "suivant",  "es": "siguiente, próximo",  "ko": " 다음" },
 { "en": "previous",        "fi": "edellinen",       "fr": "précédent","es": "anterior",            "ko": "이전"},
 
+{ "en": "to offer",             "fi": "tarjota",      "fr": "offrir",     "es": "ofrecer",   "ko": "" },
+{ "en": "an offer",             "fi": "tarjous",      "fr": "offre",     "es": "(la) oferta",   "ko": "" },
 
 { "en": "but",             "fi": "mutta",      "fr": "mais",     "es": "pero",   "ko": "하지만" },
 { "en": "also",            "fi": "myös",       "fr": "aussi",    "es": "también",   "ko": "또한, 역시" },

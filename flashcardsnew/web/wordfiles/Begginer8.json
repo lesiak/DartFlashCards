@@ -74,7 +74,7 @@
 { "en": "loss",    "ko": "손실, 상실",    "fi": "tappio, menetys, häviö (on tehnyt koko ajan tappiota)" , "fr":"perte"},
 { "en": "gain",    "ko": "획득, 이득",    "fi": "hyöty" , "fr":"gain, profit"},
 
-{ "en": "to lose",    "ko": "",    "fi": "menettää" , "fr":"perdre"},
+
 { "en": "to reduce",    "fi": "vähentää, alentaa, pienentää" , "fr":"réduire, diminuer",  "ko": ""},
 
 { "en": "to lay off",    "ko": "",    "fi": "lomauttaa" , "fr":"mettre en chômage"},

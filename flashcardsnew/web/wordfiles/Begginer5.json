@@ -2,9 +2,11 @@
 { "en": "question",     "fi": "kysymys, asia", "fr": "question",  "es": "(la) pregunta",  "ko": "문제" },
 { "en": "to ask",       "fi": "kysyä",         "fr": "",                     "ko": "묻다 (물어)" },
 { "en": "to ask (for)", "fi": "",              "fr": "",          "es": "pedir",           "ko": "묻다 (물어)" },
-{ "en": "answer",       "fi": "vastaus",       "fr": "réponse",    "es": "(la) respuesta",  "ko": "답변, 대답 (reply + answer)" },
-{ "en": "to answer",    "fi": "vastata",       "fr": "répondre",   "es": "responder, contestar",       "ko": "답변하다, 대답하다" },
-{ "en": "to explain",   "fi": "selittää",      "fr": "expliquer",   "es": "explicar",       "ko": "" },
+{ "en": "answer",       "fi": "vastaus",       "fr": "réponse",   "es": "(la) respuesta",  "ko": "답변, 대답 (reply + answer)" },
+{ "en": "to answer",    "fi": "vastata",       "fr": "répondre",  "es": "responder, contestar",       "ko": "답변하다, 대답하다" },
+{ "en": "to reply",     "fi": "",              "fr": "",          "es": "contestar",       "ko": "" },
+
+{ "en": "to explain",   "fi": "selittää",      "fr": "expliquer", "es": "explicar",       "ko": "" },
 
 
 { "en": "warm",         "fi": "lämmin" , "fr":"chaud", "ko": "따뜻하다"},
@@ -25,9 +27,9 @@
 { "en": "weak",         "fi": "heikko",         "fr": "faible",  "ko": "약하다" },
 
 
-{ "en": "to lose",      "ko": "잃다",      "fi": "menettää, hävitä", "fr": "perdre" },
+{ "en": "to lose",   "fi": "menettää, hävitä", "fr": "perdre", "es": "perder", "ko": "잃다" },
 { "en": "lost",      "ko": "잃어버린",      "fi": "menetetty, hävitty", "fr": "perdu" },
-
+{ "en": "to lose",    "ko": "",    "fi": "menettää" , "fr":"perdre"},
 
 { "en": "wheel",        "fi": "pyörä",    "fr": "roue",  "es": "(la) rueda",  "ko": "바퀴" },
 { "en": "basket",       "ko": "바구니",       "fi": "kori",    "fr": "panier" },

@@ -66,6 +66,8 @@
 
 { "en": "pedestrian",       "fi": "jalankulkija",    "fr": "piéton",        "es": "(el) peatón",  "ko": "횡단 보도" },
 { "en": "pedestrian crossing", "fi": "suojatie",     "fr": "passage pour piétons", "es": "paso de cebra, paso de peatones","ko": "횡단 보도" },
+{ "en": "to cross (a road)", "fi": "",     "fr": "", "es": "cruzar","ko": "" },
+
 { "en": "traffic lights",   "fi": "liikennevalot",   "fr": "feux de circulation",  "es": "(el) semáforo",  "ko": "" },
 
 { "en": "traffic",          "fi": "liikenne" ,       "fr": "circulation",    "es": "(el) tráfico",        "ko": "교통"},

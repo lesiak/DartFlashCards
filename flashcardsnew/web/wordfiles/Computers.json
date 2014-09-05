@@ -57,6 +57,7 @@
 { "en": "wireless connection","fi": "langaton yhteys",    "fr": "connexion sans fil", "es": "(la) conexión inalámbrica",  "ko": "" },
 { "en": "online",            "fi": "",            "fr": "en ligne",   "es": "en línea",      "ko": ""},
 { "en": "offline",            "fi": "offline",    "fr": "déconnecté", "es": "desconectado",      "ko": ""},
+{ "en": "switch on",          "fi": "",           "fr": "",           "es": "encender, abrir",  "ko": "" },
 { "en": "switch off",         "fi": "sammuttaa",   "fr": "éteindre",  "ko": "끄다" },
 { "en": "printer",            "fi": "kirjoitin",   "fr": "imprimeur", "es": "(la) impresora",  "ko": "" },
 { "en": "compatible",         "fi": "yhteensopiva","fr": "compatible","es": "compatible",  "ko": "" },

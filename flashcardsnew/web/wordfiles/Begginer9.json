@@ -74,7 +74,7 @@
 
 { "en": "serious (situation, problem)",      "fi": "",      "fr": "", "es": "grave",  "ko": ""},
 { "en": "historical",      "fi": "",      "fr": "", "es": "histórico",  "ko": ""},
-{ "en": "impossible",      "fi": "",      "fr": "", "es": "imposible",  "ko": ""},
+
 
 
 { "en": "known",         "fi": "tunnettu",        "fr": "connu",    "es": "conocido",  "ko": ""},
@@ -85,12 +85,16 @@
 { "en": "due (to)",       "fi": "",      "fr": "grâce (à)", "es": "debido (a)",  "ko": ""},
 { "en": "to happen",      "fi": "",      "fr": "", "es": "pasar",  "ko": ""},
 
+{ "en": "to waste",      "fi": "",      "fr": "", "es": "perder",  "ko": ""},
+{ "en": "to be situated",      "fi": "",      "fr": "", "es": "estar situado",  "ko": ""},
+
 { "en": "ready, willing",      "fi": "",      "fr": "", "es": "dispuesto",  "ko": ""},
 { "en": "diverse",      "fi": "",      "fr": "", "es": "diverso",  "ko": ""},
 { "en": "exact",      "fi": "",      "fr": "", "es": "exacto",  "ko": ""},
 { "en": "extraordinary",      "fi": "",      "fr": "", "es": "extraordinario",  "ko": ""},
 { "en": "direct",      "fi": "",      "fr": "", "es": "directo",  "ko": ""},
 
+{ "en": "to hire, rent",      "fi": "",      "fr": "", "es": "alquilar",  "ko": ""},
 
 { "en": "current",       "fi": "nykyinen",   "fr":"courant", "es":"actual",  "ko": ""},
 { "en": "adequate",       "fi": "riittävä",   "fr":"adéquat", "es":"adecuado",  "ko": ""},

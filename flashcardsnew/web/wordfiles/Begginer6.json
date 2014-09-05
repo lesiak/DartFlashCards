@@ -29,6 +29,7 @@
 
 { "en": "possible",   "fi": "mahdollinen",  "fr":"possible",    "es":"posible",  "ko": ""},
 { "en": "possibility","fi": "mahdollisuus", "fr":"possibilité", "es":"(la) posibilidad", "ko": ""},
+{ "en": "impossible", "fi": "",             "fr": "",           "es": "imposible",  "ko": ""},
 
 { "en": "willingly",  "fi": "mielellään",   "fr":"volontiers",  "ko": "기꺼이"},
 

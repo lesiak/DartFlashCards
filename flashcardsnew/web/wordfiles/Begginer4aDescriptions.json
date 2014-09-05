@@ -20,7 +20,9 @@
 { "en": "different",     "fi": "eri, erilainen",    "fr": "différent, autre",  "es": "diferente",   "ko": "다르다, 다른" },
 { "en": "to resemble",   "fi": "muistuttaa",    "fr": "ressembler à", "es": " parecerse (a)",  "ko": "닮다" },
 { "en": "to compare",    "fi": "verrata (part + ill), vertailla",     "fr": "comparer",   "es": "comparar", "ko": "비교하다, (~에) 필적하다" },
-{ "en": "comparison",    "fi": "vertailu",    "fr": "comparaison",    "es": "(la) comparación",   "ko": "비교" }
+{ "en": "comparison",    "fi": "vertailu",    "fr": "comparaison",    "es": "(la) comparación",   "ko": "비교" },
+
+{ "en": "hard, solid",   "fi": "kova",    "fr":"dur", "ko": "단단하다"}
 
 
 ]
