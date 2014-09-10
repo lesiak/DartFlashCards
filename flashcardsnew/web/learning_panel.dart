@@ -170,6 +170,20 @@ class LearingPanelElement extends PolymerElement {
       displayPronounciations(r, container, play);
     }*/
 
+  /*void showTestProno() {
+    Element container = $['enPro'];
+    ForvoItem testItem = new ForvoItem({});
+    testItem.username = "sasa";
+    
+    $['enPro'].nodes.add(createAudioNode("la", "word", testItem));           
+    $['primaryPro'].nodes.add(createAudioNode("la", "word", testItem));
+   }
+  
+  void hideTestProno() {
+    
+    clearQuestionPronunciations();
+    clearAnswerPronunciations();
+   }*/
 
   void onForvoSuccess(HttpRequest req, String lang, String word, String wordEn, Element container, bool play) {  
     String responseText = req.responseText;
@@ -199,18 +213,23 @@ class LearingPanelElement extends PolymerElement {
   List<Element> createAudioNodes(ForvoResponse r) {
     List<Element> ret = [];
     for (ForvoItem item in r.items) {
-      DivElement div = new DivElement(); 
-      div.classes.add('btn-group');
-      ButtonElement button = new ButtonElement();
-      button.text = item.username;
-      button.classes.add("btn btn-default");
-      button.attributes['rel'] = 'tooltip';
-      button.attributes['title'] = '${item.sex} ${item.country}';
-      button.onClick.listen((e)  => pronounciationManager.playPronounciation(r.lang, r.word, item));
-      div.nodes.add(button);   
+      DivElement div = createAudioNode(r.lang, r.word, item);         
       ret.add(div);
     }
     return ret;
+  }
+  
+  DivElement createAudioNode(String lang, String word, ForvoItem item) {
+    DivElement div = new DivElement(); 
+    div.classes.add('btn-group');
+    ButtonElement button = new ButtonElement();
+    button.text = item.username;
+    button.classes.add("btn btn-default");
+    button.attributes['rel'] = 'tooltip';
+    button.attributes['title'] = '${item.sex} ${item.country}';
+    button.onClick.listen((e)  => pronounciationManager.playPronounciation(lang, word, item));
+    div.nodes.add(button);
+    return div;
   }
 
   

@@ -7,7 +7,9 @@
         <div class="col-md-12">
           <div id="flashcardQuestion" class="flashcard-question">
             <h1 id="en" class="flashcardQuestionH"><strong>{{card.en}}</strong></h1>    
-            <div id="enPro" class="btn-toolbar"><!-- do not collapse--></div>
+            <div id="enPro" class="btn-toolbar">
+            <!-- do not collapse-->
+            </div>
           </div>
         </div>
     </div> 
@@ -27,6 +29,12 @@
         <span class="col-md-2 col-xs-4">
         <button id="badAnswerButton" on-click="{{badAnswer}}" disabled?={{!responsesVisible}} class="btn  btn-default btn-lg btn-block">Bad</button>
         </span>
+        <!--<span class="col-md-2 col-xs-4">
+        <button id="showTestPronoButton" on-click="{{showTestProno}}"  class="btn btn-default btn-lg btn-block">Show Prono</button>
+        </span>
+        <span class="col-md-2 col-xs-4">
+        <button id="hideTestPronoButton" on-click="{{hideTestProno}}"  class="btn btn-default btn-lg btn-block">Hide Prono</button>
+        </span>--> 
     </div>
     
       
