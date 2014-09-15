@@ -4,13 +4,26 @@
 { "en": "president",     "fi": "presidentti",    "fr": "président",          "ko": "대통령 (great + command + govern)" },
 { "en": "government",    "fi": "hallitus",       "fr": "gouvernement", "es": "(el) gobierno",  "ko": "정부" },
 { "en": "to govern",     "fi": "hallita",        "fr": "gouverner",    "es": "gobernar",       "ko": "" },
+
+
+{ "en": "king",          "fi": "kuningas",       "fr": "roi" ,    "es": "(el) rey",      "ko": ""}, 
+{ "en": "queen",         "fi": "kuningatar",     "fr": "reine" ,  "es": "(la) reina",    "ko": ""},
+{ "en": "prince",        "fi": "prinssi",        "fr": "prince" , "es": "(el) príncipe", "ko": ""},
+{ "en": "princess",      "fi": "prinsessa",      "fr": "" ,       "es": "(la) princesa", "ko": "왕자비"},
+
+
+
 { "en": "authorities",   "fi": "viranomaiset",   "fr": "autorités",    "es": "(las) autoridades",    "ko": "당국" },
 { "en": "delegate",      "fi": "edustaja",       "fr": "délégué", "ko": "대리자" },
+
+{ "en": "society",        "fi": "yhteiskunta",            "fr": "société",     "es": "(la) sociedad",  "ko": "사회" },
+{ "en": "nation",         "fi": "kansakunta",             "fr": "nation",      "es": "(la) nación",  "ko": "" },
+{ "en": "national",       "fi": "kansallinen",            "fr": "national",    "es": "nacional",  "ko": "" },
 
 
 { "en": "to negotiate",   "fi": "neuvotella",    "fr": "négocier",    "es": "negociar", "ko": "" },
 { "en": "negotiation",    "fi": "neuvottelu",    "fr": "négociation", "es": "(la) negociación",    "ko": "" },
-{ "en": "embassy",        "fi": "suurlähetystö", "fr": "ambassade",   "es": "(la) embajada",  "ko": "대사관 (great + dispatch + building)" },
+
 { "en": "economy",        "fi": "talous",        "fr": "économie",    "es": "(la) economía", "ko": "경제" },
 
 { "en": "politics",       "fi": "politiikka",              "fr": "politique",   "es": "(la) política",   "ko": "" },
@@ -21,13 +34,9 @@
 { "en": "ideology",       "fi": "ideologia",               "fr": "idéologie",   "es": "(la) ideología",   "ko": "" },
 { "en": "liberty",        "fi": "",                        "fr": "liberté",     "es": "(la) libertad",   "ko": "" },
  
-{ "en": "king",          "fi": "kuningas",       "fr": "roi" ,    "es": "(el) rey",      "ko": ""}, 
-{ "en": "queen",         "fi": "kuningatar",     "fr": "reine" ,  "es": "(la) reina",    "ko": ""},
-{ "en": "prince",        "fi": "prinssi",        "fr": "prince" , "es": "(el) príncipe", "ko": ""},
-{ "en": "princess",      "fi": "prinsessa",      "fr": "" ,       "es": "(la) princesa", "ko": "왕자비"},
  
+{ "en": "embassy",        "fi": "suurlähetystö", "fr": "ambassade",   "es": "(la) embajada",  "ko": "대사관 (great + dispatch + building)" },
 
-{ "en": "society",        "fi": "yhteiskunta",             "fr": "société",     "es": "(la) sociedad",  "ko": "사회" },
 
 { "en": "Ministry of Finance",        "ko": "",          "fi": "valtiovarainministeriö",    "fr": "" }
 

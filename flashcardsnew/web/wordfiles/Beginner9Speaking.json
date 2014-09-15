@@ -4,6 +4,8 @@
 { "en": "discussion",    "fi": "keskustelu" ,   "fr":"discussion",           "es":"(la) discusión",  "ko": "토론"},
 { "en": "to approve",    "fi": "hyväksyä, keskustella jstk" , "fr":"approuver", "es":"aprobar", "ko": ""},
 
+{ "en": "to refuse",    "fi": "kieltäytyä" , "fr":"refuser", "es":"rehusar", "ko": ""},
+
 
 { "en": "insult",   "ko": "모욕",    "fi": "loukkaus",  "fr":"insulte"},
 { "en": "to insult",   "ko": "모욕하다",    "fi": "loukata",  "fr":"insulter"},

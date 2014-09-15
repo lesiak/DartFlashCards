@@ -25,10 +25,11 @@
 { "en": "demonstration","fi": "mielenosoitus", "fr": "démonstration",  "ko": "시위, 시연, 데모" },
 { "en": "conflict",     "fi": "konflikti",     "fr": "conflit",  "es": "(el) conflicto",    "ko": "폭력" },
 
-{ "en": "fight",        "ko": "싸우다",          "fi": "taistella",    "fr": "combattre" },
-{ "en": "defense",        "ko": "방어",          "fi": "puolustus",    "fr": "défense" },
-{ "en": "to defend",        "ko": "",          "fi": "puolustaa",    "fr": "défendre" },
-{ "en": "attack",      "fi": "hyökkäys",  "fr": "attaque","es": "(el) ataque", "ko": "공격" },
+{ "en": "to fight",     "fi": "taistella",     "fr": "combattre",      "es": "luchar", "ko": "싸우다" },
+{ "en": "fight",        "fi": "taistelu",      "fr": "lutte, combat",  "es": "(la) lucha", "ko": "" },
+{ "en": "defense",      "fi": "puolustus",     "fr": "défense",        "es": "(la) defensa",      "ko": "방어" },
+{ "en": "to defend",    "fi": "puolustaa",     "fr": "défendre",       "es": "defender",  "ko": "" },
+{ "en": "attack",       "fi": "hyökkäys",      "fr": "attaque",        "es": "(el) ataque", "ko": "공격" },
 
 { "en": "sword",       "fi": "miekka",    "fr": "épée",   "es": "(la) espada", "ko": "검" },
 { "en": "bow",         "fi": "jousi",     "fr": "arc",    "es": "(el) arco",   "ko": "활" },

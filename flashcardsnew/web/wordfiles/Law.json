@@ -1,10 +1,12 @@
 [
 
 { "en": "law",               "fi": "laki",           "fr": "loi",         "es": "(la) ley", "ko": "법" },
+
 { "en": "thief",             "fi": "voro",           "fr": "",            "es": "(el) ladrón", "ko": "" },
+{ "en": "to steal",          "fi": "varastaa",       "fr": "voler",       "es": "robar (algo a alguien)", "ko": "" },
 
 { "en": "to accuse (sb of)", "fi": "syyttää (jstk)", "fr": "accuser",     "es": "acusar (a algn de)", "ko": "" },
-
+{ "en": "guilty",            "fi": "syyllinen",      "fr": "coupable",    "es": "culpable",  "ko": "유죄의"},
 
 { "en": "criminal",      "fi": "rikollinen",  "fr": "criminel",      "ko": "범인 (violate + people)" },
 { "en": "crime",         "fi": "rikollisuus, rikos", "fr": "crime",  "ko": "범죄 (violate + fault)" },

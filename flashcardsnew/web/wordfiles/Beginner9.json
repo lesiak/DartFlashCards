@@ -96,8 +96,13 @@
 { "en": "internal",       "fi": "",   "fr":"", "es":"interno",  "ko": ""},
 
 { "en": "just (adv)",       "fi": "",   "fr":"", "es":"justo",  "ko": ""},
-{ "en": "full, filled",       "fi": "",   "fr":"", "es":"lleno (de)",  "ko": ""},
-{ "en": "minimum",       "fi": "",   "fr":"", "es":"mínimo",  "ko": ""},
+{ "en": "full, filled",       "fi": "",   "fr":"", "es": "lleno (de)",  "ko": ""},
+{ "en": "minimum",       "fi": "",   "fr":"", "es": "mínimo",  "ko": ""},
+
+{ "en": "worse",       "fi": "",   "fr":"", "es": "peor",  "ko": ""},
+{ "en": "dead",       "fi": "",   "fr":"", "es": "muerto",  "ko": ""},
+{ "en": "to push",       "fi": "",   "fr":"", "es": "empujar",  "ko": ""},
+{ "en": "to handle",       "fi": "",   "fr":"", "es": "manejar",  "ko": ""},
 
 
 { "en": "to accent",   "ko": "",    "fi": "korostaa",   "fr":""},
