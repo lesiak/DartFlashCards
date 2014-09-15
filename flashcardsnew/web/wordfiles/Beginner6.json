@@ -31,8 +31,8 @@
 { "en": "possibility","fi": "mahdollisuus", "fr":"possibilité", "es":"(la) posibilidad", "ko": ""},
 { "en": "impossible", "fi": "",             "fr": "",           "es": "imposible",  "ko": ""},
 
-{ "en": "to predict",   "fi": "ennustaa",   "fr":"prédire, prévoir",   "ko": ""},
-{ "en": "prediction",   "fi": "ennustus",   "fr":"prédiction",        "ko": ""},
+{ "en": "to predict",   "fi": "ennustaa",   "fr":"prédire, prévoir",  "es":"predecir, pronosticar",  "ko": ""},
+{ "en": "prediction",   "fi": "ennustus",   "fr":"prédiction",        "es": "(la) predicción",  "ko": ""},
 
 
 { "en": "willingly",  "fi": "mielellään",   "fr":"volontiers",  "ko": "기꺼이"},

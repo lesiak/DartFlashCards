@@ -1,8 +1,8 @@
 [
 
 
-{ "en": "bell",   "ko": "종, 벨",    "fi": "kello, tiuku (small)",   "fr":"cloche (f)"},
-{ "en": "lighthouse",   "ko": "등대",    "fi": "majakka",   "fr":"phare"},
+{ "en": "bell",        "fi": "kello, tiuku (small)",   "fr":"cloche (f)",  "ko": "종, 벨"},
+{ "en": "lighthouse",  "fi": "majakka",   "fr":"phare","es":"(el) faro",  "ko": "등대"},
 
 { "en": "chain",   "ko": "",    "fi": "ketju",   "fr":"chaîne"},
 
@@ -12,7 +12,7 @@
 
 
 { "en": "door handle",   "ko": "문 손잡이",    "fi": "ovenkahva",   "fr":"poignée de porte"},
-{ "en": "brick",         "ko": "벽돌",       "fi": "tiili",          "fr": "brique" },
+{ "en": "brick",         "fi": "tiili",          "fr": "brique", "ko": "벽돌" },
 
 
 { "en": "stapler",       "fi": "nitoja",        "fr": "agrafeuse",   "es": "(la) grapadora", "ko": "호치키스"},

@@ -31,6 +31,7 @@
 { "en": "jaw",       "fi": "leuka",     "fr": "mâchoire",    "es": "(la) mandíbula",          "ko": "턱"},
 { "en": "eyebrow",   "fi": "kulmakarva","fr": "sourcil",     "es": "(la) ceja",               "ko": "눈썹" },
 { "en": "freckle",   "fi": "pisama, kesakko","fr": "",       "es": "(la) peca",               "ko": "" },
+{ "en": "forehead",  "fi": "otsa",      "fr": "front",       "es": "(la) frente",             "ko": "이마" },
 
 { "en": "beard",     "fi": "parta",     "fr": "barbe",  "es": "(la) barba",               "ko": "" },
 { "en": "moustache", "fi": "viikset",     "fr": "moustache",  "es": "(el) bigote",               "ko": "" },

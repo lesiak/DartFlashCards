@@ -30,7 +30,7 @@
 { "en": "library",      "fi": "kirjasto",       "fr": "bibliothèque", "es": "(la) biblioteca",    "ko": "도서관" },
 { "en": "bookstore",    "fi": "kirjakauppa",    "fr": "librairie",    "es": "(la) librería",      "ko": "서점, 책방 (book + house)" },
 { "en": "shop",         "fi": "myymälä, kauppa","fr": "magasin, boutique","es": "(la) tienda",   "ko": "가게" },
-{ "en": "departmant store", "fi": "tavaratalo", "fr": "grand magasin", "es": "grandes almacenes",  "ko": "백화점 (hundred + goods + shop)" },
+{ "en": "department store", "fi": "tavaratalo", "fr": "grand magasin", "es": "grandes almacenes",  "ko": "백화점 (hundred + goods + shop)" },
 
 { "en": "town hall",        "fi": "kaupungintalo" , "fr":"mairie",        "es": "(el) ayuntamiento",   "ko": ""},
 { "en": "square (in city)", "fi": "aukio",          "fr":"place",         "es": "(la) plaza",  "ko": ""},
