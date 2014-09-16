@@ -10,6 +10,8 @@
 { "en": "excuse me",    "fi": "anteeksi",    "fr": "excusez-moi",   "es": "Disculpe", "ko": "실례합니다" },
 { "en": "sorry",        "ko": "죄송합니다, 미안합니다",          "fi": "anteeksi",    "fr": "désolé" },
 
+{ "en": "to push",       "fi": "",   "fr":"", "es": "empujar",  "ko": ""},
+
 { "en": "to make friends", "fi": "saada kavereita, hankkia, tavata",    "fr": "",  "es": "hacer amigos",  "ko": "사귀다" },
 { "en": "next",            "fi": "seuraava, ensi",  "fr": "suivant",  "es": "siguiente, próximo",  "ko": " 다음" },
 { "en": "previous",        "fi": "edellinen",       "fr": "précédent","es": "anterior",            "ko": "이전"},
@@ -25,8 +27,8 @@
 { "en": "interesting",        "fi": "",       "fr": "","es": "interesante",            "ko": ""},
 
 
-{ "en": "shallow",       "ko": "얕다",    "fi": "matala",    "fr":"peu profond"},
-{ "en": "deep",       "ko": "깊다",    "fi": "syvä",    "fr":"profond"}
+{ "en": "shallow",       "fi": "matala",    "fr": "peu profond",  "es": "poco profundo",  "ko": "얕다"},
+{ "en": "deep",          "fi": "syvä",      "fr":"profond",       "es": "profundo",       "ko": "깊다"}
 
 
 

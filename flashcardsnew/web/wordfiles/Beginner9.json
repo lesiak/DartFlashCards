@@ -77,16 +77,10 @@
 { "en": "to be situated",      "fi": "",      "fr": "", "es": "estar situado",  "ko": ""},
 
 { "en": "ready, willing",      "fi": "",      "fr": "", "es": "dispuesto",  "ko": ""},
-{ "en": "diverse",      "fi": "",      "fr": "", "es": "diverso",  "ko": ""},
-{ "en": "exact",      "fi": "",      "fr": "", "es": "exacto",  "ko": ""},
-{ "en": "extraordinary",      "fi": "",      "fr": "", "es": "extraordinario",  "ko": ""},
 { "en": "direct",      "fi": "",      "fr": "", "es": "directo",  "ko": ""},
 
 { "en": "to hire, rent",      "fi": "",      "fr": "", "es": "alquilar",  "ko": ""},
 
-{ "en": "current",       "fi": "nykyinen",   "fr":"courant", "es":"actual",  "ko": ""},
-{ "en": "adequate",       "fi": "riittävä",   "fr":"adéquat", "es":"adecuado",  "ko": ""},
-{ "en": "sufficient",       "fi": "riittävä",   "fr":"suffisant", "es":"suficiente",  "ko": ""},
 
 { "en": "current, flow",       "fi": "virta",   "fr":"courant", "es":"(la) corriente",  "ko": ""},
 { "en": "given",           "fi": "annettu",   "fr":"donné", "es":"dado",  "ko": ""},
@@ -101,21 +95,23 @@
 
 { "en": "worse",       "fi": "",   "fr":"", "es": "peor",  "ko": ""},
 { "en": "dead",       "fi": "",   "fr":"", "es": "muerto",  "ko": ""},
-{ "en": "to push",       "fi": "",   "fr":"", "es": "empujar",  "ko": ""},
+
 { "en": "to handle",       "fi": "",   "fr":"", "es": "manejar",  "ko": ""},
 
 
 { "en": "to accent",   "ko": "",    "fi": "korostaa",   "fr":""},
 
-{ "en": "perfect, complet",   "ko": "",    "fi": "täydellinen",   "fr":""},
+{ "en": "perfect, complet",    "fi": "täydellinen",   "fr":"",  "ko": ""},
+{ "en": "to tell (a story)",   "fi": "",   "fr": "", "es": "contar",  "ko": ""},
+{ "en": "to fill (in)",        "fi": "",   "fr": "", "es": "rellenar",  "ko": ""},
+{ "en": "to bump into, to find",        "fi": "",   "fr": "", "es": "encontrar",  "ko": ""},
 
+{ "en": "to fall",        "fi": "",   "fr": "", "es": "caer",  "ko": ""},
 
 { "en": "meticulous",   "fi": "huolellinen","fr": "méticuleux",  "es": "meticuloso", "ko": ""},
 
-
+{ "en": "to turn, to twist",        "fi": "",   "fr": "", "es": "torcer",  "ko": ""},
 { "en": "weakness, weak point",         "ko": "약점 (weak + point)",       "fi": "heikkous",          "fr": "faiblesse, point faible" },
-
-
 
 
 

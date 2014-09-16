@@ -50,8 +50,8 @@
 { "en": "a promise",      "ko": "약속 (contract + bind)",    "fi": "lupaus" , "fr":"promesse"},
 { "en": "to promise",     "ko": "약속하다",    "fi": "luvata" , "fr":"promettre"},
 
-{ "en": "to choose",      "ko": "고르다, 선택하다",    "fi": "valita" , "fr":"choisir"},
-{ "en": "choice",     "ko": "선택 (select + select)",    "fi": "valinta, valikoima" , "fr":"choix"},
+{ "en": "to choose",      "fi": "valita" , "fr": "choisir",  "es": "escoger",  "ko": "고르다, 선택하다"},
+{ "en": "choice",         "fi": "valinta, valikoima" , "fr":"choix",  "ko": "선택 (select + select)"},
 
 { "en": "likely (probable)",  "ko": "음직하다",   "fi": "todennäköinen",    "fr": "probable" },
 { "en": "likely (probably)",  "ko": "아마도",     "fi": "todennäköisesti",  "fr": "probablement" },

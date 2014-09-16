@@ -9,13 +9,13 @@
 { "en": "to explain",   "fi": "selittää",      "fr": "expliquer", "es": "explicar",       "ko": "" },
 
 
-{ "en": "warm",         "fi": "lämmin" , "fr":"chaud", "ko": "따뜻하다"},
-{ "en": "cold",            "fi": "kylmä" , "fr": "froid",   "es": "frío",  "ko": "춥다"},
-{ "en": "hot (weather)",     "ko": "덥다",    "fi": "kuuma" , "fr":"chaud"},
-{ "en": "frost",     "ko": "서리",    "fi": "pakkanen" , "fr":"gel"},
+{ "en": "warm",         "fi": "lämmin",   "fr":"chaud",  "es": "caliente (iron, oven, bath); templado(a) (water, soup); cálido(a) (weather, welcome, color); de abrigo (garment)",  "ko": "따뜻하다"},
+{ "en": "cold",         "fi": "kylmä",    "fr": "froid", "es": "frío",  "ko": "춥다"},
+{ "en": "hot",          "fi": "kuuma",    "fr": "chaud", "es": "caliente (having high temperature); caluroso(a) (day, summer, climate)", "ko": "덥다"},
+{ "en": "frost",        "fi": "pakkanen", "fr": "gel",   "es": "(la) escarcha", "ko": "서리"},
 
 
-{ "en": "time (occurence)",       "ko": "번",       "fi": "kerta",    "fr": "fois" },
+{ "en": "time (occurence)",          "fi": "kerta",    "fr": "fois", "ko": "번" },
 
 
 
@@ -32,7 +32,7 @@
 { "en": "to lose",    "ko": "",    "fi": "menettää" , "fr":"perdre"},
 
 { "en": "wheel",        "fi": "pyörä",    "fr": "roue",  "es": "(la) rueda",  "ko": "바퀴" },
-{ "en": "basket",       "ko": "바구니",       "fi": "kori",    "fr": "panier" },
+{ "en": "basket",       "fi": "kori",    "fr": "panier", "ko": "바구니" },
 { "en": "reaction",       "ko": "반응 (reverse + answer)",       "fi": "reaktio",    "fr": "réaction" },
 { "en": "to react",       "ko": "반응하다",       "fi": "suhtautua",    "fr": "réagir" },
 { "en": "to disturb",       "ko": "방해하다",       "fi": "häiritä",    "fr": "perturber" },
@@ -58,7 +58,14 @@
 
 
 { "en": "special",         "fi": "erityinen, erikoinen",  "fr": "spéciale",  "ko": "특별한" },
-{ "en": "private",         "fi": "yksityinen",    "fr": "privé",  "es": "privado", "ko": ""},
+{ "en": "private",         "fi": "yksityinen",            "fr": "privé",     "es": "privado", "ko": ""},
+{ "en": "current",         "fi": "nykyinen",              "fr":"courant",    "es":"actual",  "ko": ""},
+{ "en": "adequate",        "fi": "riittävä",              "fr":"adéquat",    "es":"adecuado",  "ko": ""},
+{ "en": "sufficient",      "fi": "riittävä",              "fr":"suffisant",  "es":"suficiente",  "ko": ""},
+{ "en": "diverse",         "fi": "",                      "fr": "", "es": "diverso",  "ko": ""},
+{ "en": "exact",           "fi": "",                      "fr": "", "es": "exacto",  "ko": ""},
+{ "en": "extraordinary",   "fi": "",                      "fr": "", "es": "extraordinario",  "ko": ""},
+
 
 { "en": "passage (between buildings, underground)",      "fi": "",   "fr": "",   "es": "(el) pasaje", "ko": ""},
 { "en": "passage (way through)",      "fi": "",   "fr": "",   "es": "(el) paso", "ko": ""},

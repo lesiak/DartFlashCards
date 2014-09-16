@@ -32,21 +32,19 @@
 
 
 
-{ "en": "relation",             "ko": "관계",       "fi": "suhde",    "fr":"relation, rapport"},
-{ "en": "relative",             "ko": "상대적인",   "fi": "suhteellinen",    "fr":"relatif"},
-{ "en": "ratio, proportion",    "ko": "비율",       "fi": "suhde",    "fr": "rapport, ratio" },
+{ "en": "relation",          "fi": "suhde",    "fr":"relation, rapport", "es": "(la) relación",  "ko": "관계"},
+{ "en": "relative",          "fi": "suhteellinen",    "fr": "relatif",  "es": "relativo",  "ko": "상대적인"},
+{ "en": "ratio, proportion", "fi": "suhde",    "fr": "rapport, ratio" , "ko": "비율"},
 
-{ "en": "side",           "fi": "puoli",    "fr": "côté",   "es": "(el) lado",  "ko": "" },
-{ "en": "other",          "fi": "muu",           "fr": "autre",  "ko": "다른" },
-{ "en": "only",           "fi": "vain",      "fr": "seulement",     "es": "sólo",    "ko": "만" },
+{ "en": "side",           "fi": "puoli",    "fr": "côté",         "es": "(el) lado",  "ko": "" },
+{ "en": "other",          "fi": "muu",      "fr": "autre",        "es": "otro",  "ko": "다른" },
+{ "en": "only",           "fi": "vain",     "fr": "seulement",    "es": "sólo",    "ko": "만" },
 
 
 
-{ "en": "become",        "ko": "되다",    "fi": "tulla",          "fr": "devenir" },
-{ "en": "beginning (noun)", "ko": "처음", "fi": "alku",           "fr": "début" },
-
-{ "en": "last",        "ko": "마지막",          "fi": "viime",    "fr": "dernier" },
-
+{ "en": "become",         "fi": "tulla",     "fr": "devenir",     "es": "hacerse (a teacher, a doctor); volverse (boring, jealous, suspicious); hacerse (old, difficult, stronger); ponerse (happy, sad, thin)", "ko": "되다" },
+{ "en": "beginning (noun)","fi": "alku",     "fr": "début",       "ko": "처음" },
+{ "en": "last",         "fi": "viime",       "fr": "dernier",       "es": "último",      "ko": "마지막" },
 
 { "en": "to help",     "fi": "auttaa",      "fr": "aider",         "es": "ayudar",      "ko": "돕다" },
 { "en": "help",        "fi": "apu, ohje",   "fr": "aide, secours", "es": "(la) ayuda",  "ko": "도움" },

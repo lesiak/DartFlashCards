@@ -36,10 +36,9 @@
 { "en": "pilot",         "fi": "pilotti",           "fr": "pilote",   "es": "(el/la!) piloto",  "ko": "조종사" },
 { "en": "stewardess",    "fi": "lentoemäntä",       "fr": "",         "es": "(la) azafata",     "ko": "스튜어디스" },
 
-{ "en": "fisherman",     "fi": "kalastaja" ,      "fr":"pêcheur",  "es": "(el) pescador",    "ko": "어부"},
-
-{ "en": "miner",         "fi": "kaivosmies",   "fr":"mineur", "ko": "갱부"},
-{ "en": "mine",          "fi": "kaivos" ,      "fr":"mine",   "ko": "광산, 갱도"},
+{ "en": "fisherman",     "fi": "kalastaja" ,  "fr":"pêcheur",     "es": "(el) pescador",    "ko": "어부"},
+{ "en": "miner",         "fi": "kaivosmies",  "fr": "mineur",     "es": "(el) minero", "ko": "갱부"},
+{ "en": "mine",          "fi": "kaivos" ,     "fr": "mine",       "es": "(la) mina",   "ko": "광산, 갱도"},
 
 { "en": "lawyer",        "fi": "lakimies",    "fr": "avocat",     "es": "(el) abogado", "ko": "" },
 { "en": "prosecutor",    "fi": "syyttäjä",    "fr": "procureur",  "es": "(el) fiscal", "ko": "검사" },
@@ -61,20 +60,7 @@
 
 { "en": "beggar",        "fi": "kerjäläinen", "fr": "mendiant",     "es": "(el) mendigo",    "ko": "거지" },
 { "en": "begging",       "fi": "kerjääminen", "fr": "la mendicité", "es": "(la) mendicidad", "ko": "구걸" },
-{ "en": "to beg",        "fi": "kerjätä",     "fr": "mendier",      "es": "mendigar",        "ko": "구걸하다" },
-
-
-{ "en": "criminal",      "fi": "rikollinen",  "fr": "criminel",      "ko": "범인 (violate + people)" },
-{ "en": "crime",         "fi": "rikollisuus, rikos", "fr": "crime",  "ko": "범죄 (violate + fault)" },
-{ "en": "victim",        "fi": "uhri",     "fr": "victime",  "ko": "희생자"   },
-
-{ "en": "thief",         "fi": "voro",     "fr": "",                "es": "(el) ladrón", "ko": "" },
-
-{ "en": "law",           "fi": "laki",     "fr": "loi",             "es": "(la) ley", "ko": "법" }
-
-
-  
-
+{ "en": "to beg",        "fi": "kerjätä",     "fr": "mendier",      "es": "mendigar",        "ko": "구걸하다" }
 
 
 

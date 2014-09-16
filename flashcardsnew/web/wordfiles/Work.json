@@ -12,11 +12,9 @@
 { "en": "to request",           "ko": "부탁하다",           "fi": "pyytää",    "fr": "" },
 { "en": "a request",           "ko": "",           "fi": "pyyntö",    "fr": "" },
 { "en": "please (do so)",           "ko": "부탁합니다",           "fi": "",    "fr": "" },
-{ "en": "meeting (prearranged)",  "fi": "kokous",    "fr": "réunion",   "es": "(la) cita",  "ko": "회의" },
-{ "en": "conference",             "fi": "konferenssi",    "fr": "conférence",   "es": "(la) conferencia",  "ko": "" },
-
-{ "en": "to concentrate",           "ko": "집중하다",           "fi": "keskittää",    "fr": "(se) concentrer" },
-{ "en": "flattery",           "ko": "아첨, 아부, 듣기 좋은 말",           "fi": "imartelu",    "fr": "flatterie" },
+{ "en": "meeting (prearranged)",  "fi": "kokous",       "fr": "réunion",   "es": "(la) cita",  "ko": "회의" },
+{ "en": "conference",             "fi": "konferenssi",  "fr": "conférence",   "es": "(la) conferencia",  "ko": "" },
+{ "en": "to concentrate",         "fi": "keskittää",    "fr": "(se) concentrer",   "es": "concentrarse", "ko": "집중하다" },
 
 
 { "en": "vacation",           "ko": "휴가",           "fi": "loma",    "fr": "vacances" },
@@ -28,7 +26,7 @@
 { "en": "atmosphere",         "ko": "분위기",       "fi": "ilmapiiri, tunnelma",    "fr": "ambiance" },
 
 { "en": "boss",        "fi": "",    "fr": "",  "es": "(el) jefe",  "ko": "" },
-{ "en": "colleague",        "fi": "kollega, virkaveli, virkatoveri",    "fr": "collègue",   "ko": "동료" },
+{ "en": "colleague",        "fi": "kollega, virkaveli, virkatoveri",    "fr": "collègue",  "es": "(el) colega", "ko": "동료" },
 { "en": "coworker",         "fi": "",    "fr": "",  "ko": "회사동료" },
 { "en": "routine",         "fi": "rutiini",       "fr": "routine",    "ko": "루틴" },
 { "en": "employer",        "fi": "työnantaja",    "fr": "employeur",    "ko": "고용주" },
