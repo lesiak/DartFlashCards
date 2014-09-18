@@ -57,7 +57,7 @@
 { "en": "fact",        "fi": "tosiasia",    "fr": "fait, vérité",  "es": "(el) hecho", "ko": "사실" },
 { "en": "joke",        "fi": "vitsi",       "fr": "blague",        "es": "(la) broma", "ko": "농담" },
 
-{ "en": "meaning",         "fi": "merkitys, tarkoitus", "fr": "sens, signification", "ko": "의미, 뜻" },
+{ "en": "meaning",         "fi": "merkitys, tarkoitus", "fr": "sens, signification", "es": "(el) significado [of word, phrase], (el) sentido [of life, work]",  "ko": "의미, 뜻" },
 { "en": "purpose",         "fi": "tarkoitus",          "fr": "but, intention", "ko": "목적" },
     
 { "en": "to consider",     "fi": "harkita",           "fr": "envisager, considérer",   "es": "considerar", "ko": "고려하다" },

@@ -114,6 +114,14 @@
 { "en": "weakness, weak point",         "ko": "약점 (weak + point)",       "fi": "heikkous",          "fr": "faiblesse, point faible" },
 
 
+{ "en": "to concern",        "fi": "",   "fr": "", "es": "concernir",  "ko": ""},
+{ "en": "to convert",        "fi": "",   "fr": "", "es": "convertir",  "ko": ""},
+{ "en": "to refer",        "fi": "",   "fr": "", "es": "referir",  "ko": ""},
+
+{ "en": "to transfer",        "fi": "",   "fr": "", "es": "transferir",  "ko": ""},
+{ "en": "to compete",        "fi": "",   "fr": "", "es": "competir",  "ko": ""},
+{ "en": "to conceive",        "fi": "",   "fr": "", "es": "concebir",  "ko": ""},
+
 
 
 { "en": "to rub",   "ko": "비비다",    "fi": "hieroa",   "fr":"frotter"},

@@ -23,30 +23,30 @@
 
 { "en": "tired",        "fi": "väsynyt",      "fr": "fatigué",   "es": "cansado",  "ko": "피곤하다" },
 { "en": "busy",         "fi": "kiireinen",    "fr": "occupé",    "es": "ocupado",  "ko": "바쁘다" },
-{ "en": "atmosphere",         "ko": "분위기",       "fi": "ilmapiiri, tunnelma",    "fr": "ambiance" },
+{ "en": "atmosphere",   "fi": "ilmapiiri, tunnelma",    "fr": "ambiance", "es": "(el) ambiente", "ko": "분위기"   },
 
 { "en": "boss",        "fi": "",    "fr": "",  "es": "(el) jefe",  "ko": "" },
 { "en": "colleague",        "fi": "kollega, virkaveli, virkatoveri",    "fr": "collègue",  "es": "(el) colega", "ko": "동료" },
 { "en": "coworker",         "fi": "",    "fr": "",  "ko": "회사동료" },
-{ "en": "routine",         "fi": "rutiini",       "fr": "routine",    "ko": "루틴" },
-{ "en": "employer",        "fi": "työnantaja",    "fr": "employeur",    "ko": "고용주" },
+{ "en": "routine",         "fi": "rutiini",       "fr": "routine",      "es": "(la) rutina", "ko": "루틴" },
+{ "en": "employer",        "fi": "työnantaja",    "fr": "employeur",    "es": "(el) empleador, (el) patrono",    "ko": "고용주" },
 { "en": "employee",        "fi": "työntekijä",    "fr": "employé",      "es": "(el) empleado",   "ko": "" },
 
 { "en": "business trip",   "fi": "liikematka",    "fr": "voyage d'affaires",   "ko": "출장 (out + spread)" },
-{ "en": "pretext",        "ko": "핑계",             "fi": "tekosyy",    "fr": "prétexte" },
+{ "en": "pretext",         "fi": "tekosyy",       "fr": "prétexte",   "es": "(el) pretexto",  "ko": "핑계" },
 
-{ "en": "promotion (in work)",           "fi": "",    "fr": "",  "es": "(el) ascenso",  "ko": "" },
-{ "en": "career",           "fi": "ura",    "fr": "carrière",  "es": "(la) carrera",  "ko": "" },
+{ "en": "promotion (in work)",  "fi": "",   "fr": "",             "es": "(el) ascenso",  "ko": "" },
+{ "en": "career",           "fi": "ura",    "fr": "carrière",     "es": "(la) carrera",  "ko": "" },
 
 
-{ "en": "repair",           "fi": "korjaus",    "fr": "",    "ko": "수리" },
-{ "en": "to repair",        "fi": "korjata",    "fr": "réparer",  "es": "reparar",   "ko": "수리하다" },
+{ "en": "repair",           "fi": "korjaus",    "fr": "",         "es": "(la) reparación, (el) arreglo",  "ko": "수리" },
+{ "en": "to repair",        "fi": "korjata",    "fr": "réparer",  "es": "reparar, arreglar",   "ko": "수리하다" },
 { "en": "to fix",           "fi": "korjata",    "fr": "réparer",  "es": "fijar",     "ko": "" },
 
-{ "en": "to retire",        "fi": "",    "fr": "",   "ko": "은퇴하다" },
+{ "en": "to retire",        "fi": "",    "fr": "",    "es": "retirarse, jubilarse", "ko": "은퇴하다" },
 
 { "en": "Pleased to meet you",        "ko": "만나서 반가워요",             "fi": "Ilo tavata",    "fr": "c'est un plaisir de vous rencontrer, ravi de vous avoir rencontré" },
-{ "en": "introduce",    "ko": "소개하다",       "fi": "esitellä",    "fr": "introduire" },
+{ "en": "introduce",         "fi": "esitellä",    "fr": "introduire",  "ko": "소개하다" },
 
 { "en": "part time job",    "ko": "아르바이트",    "fi": "osa-aikaista työtä" , "fr":"emploi à temps partiel"},
 { "en": "emergency exit",    "ko": "",    "fi": "hätäuloskäynti" , "fr":""},
