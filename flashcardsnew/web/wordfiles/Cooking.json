@@ -1,5 +1,5 @@
 [
-{ "en": "to cook",     "fi": "keittää, laittaa ruokaa",    "fr": "cuisiner",  "es": "cocinar",  "ko": "요리하다" },
+{ "en": "to cook",     "fi": "keittää, laittaa ruokaa",    "fr": "cuisiner",  "es": "cocinar, cocer",  "ko": "요리하다" },
 { "en": "to bake",     "fi": "leipoa",         "fr": "",           "es": "hornear, cocer al horno",          "ko": "굽다"},
 { "en": "prepare",     "fi": "valmistella",    "fr": "préparer",   "es": "preparar",   "ko": "준비하다"},
 { "en": "preparation", "fi": "valmistelu",     "fr": "préparation","es": "(la) preparación",    "ko": "준비" },
@@ -11,7 +11,9 @@
 { "en": "gas cooker",  "fi": "kaasuliesi" , "fr":"cuisinière à gaz",  "ko": "가스레인지"},
 { "en": "rice cooker", "fi": "riisi liesi", "fr": "cuiseur à riz",    "ko": "밥솥" },
 
-{ "en": "to mix",      "fi": "sekoittaa",   "fr":"mélanger", "es":" mezclar",   "ko": "비비다"},
+{ "en": "to mix",      "fi": "sekoittaa",   "fr":"mélanger",  "es":" mezclar",   "ko": "비비다"},
+{ "en": "to cut",      "fi": "leikata" ,    "fr":"couper",    "es":"cortar",   "ko": "베다"},
+{ "en": "to slice",    "fi": "",            "fr":"",          "es":"rebanar",   "ko": ""},
 
 { "en": "smoked",      "fi": "savustettu",  "fr": "fumé",    "es": "ahumado",  "ko": "" }
 ]

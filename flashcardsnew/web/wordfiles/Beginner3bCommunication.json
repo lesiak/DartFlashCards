@@ -28,7 +28,7 @@
 
 { "en": "change",       "fi": "muutos",    "fr": "changement",   "es": "(el) cambio", "ko": "바꾸다" },
 
-{ "en": "telephone call",   "ko": "통화",    "fi": "puhelu",    "fr": "appel téléphonique" },
+{ "en": "telephone call",    "fi": "puhelu",    "fr": "appel téléphonique",  "es": "(la) llamada (telefónica)", "ko": "통화" },
 
 { "en": "memo",        "ko": "메모",          "fi": "muistio",    "fr": "note" },
 { "en": "to pass on",        "ko": "전하다",          "fi": "",    "fr": "" }

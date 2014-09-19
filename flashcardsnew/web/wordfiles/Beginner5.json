@@ -19,9 +19,9 @@
 
 
 
-{ "en": "strange",       "fi": "outo, kummallinen, omituinen",          "fr": "étrange", "es": "extraño", "ko": "이상하다" },
 
-{ "en": "to cut",    "ko": "베다",    "fi": "leikata" , "fr":"couper"},
+
+
 
 { "en": "strong",       "fi": "vahva",          "fr": "forte",   "es": "fuerte",   "ko": "강하다" },
 { "en": "weak",         "fi": "heikko",         "fr": "faible",  "ko": "약하다" },
@@ -64,15 +64,13 @@
 { "en": "sufficient",      "fi": "riittävä",              "fr":"suffisant",  "es":"suficiente",  "ko": ""},
 { "en": "diverse",         "fi": "",                      "fr": "", "es": "diverso",  "ko": ""},
 { "en": "exact",           "fi": "",                      "fr": "", "es": "exacto",  "ko": ""},
+{ "en": "normal",   "fi": "",                      "fr": "", "es": "normal",  "ko": ""},
 { "en": "extraordinary",   "fi": "",                      "fr": "", "es": "extraordinario",  "ko": ""},
-
+{ "en": "strange",       "fi": "outo, kummallinen, omituinen",          "fr": "étrange", "es": "extraño", "ko": "이상하다" },
 
 { "en": "passage (between buildings, underground)",      "fi": "",   "fr": "",   "es": "(el) pasaje", "ko": ""},
 { "en": "passage (way through)",      "fi": "",   "fr": "",   "es": "(el) paso", "ko": ""},
 
-{ "en": "criticize, reproach",  "ko": "비난하다 (blame + blame)",          "fi": "arvostella",    "fr": "critiquer" },
-{ "en": "criticize",            "ko": "비판하다 (blame + judge)",          "fi": "arvostella",    "fr": "critiquer" },
-{ "en": "critical",            "ko": "비판적 (blame + judge + of)",          "fi": "kriittinen",    "fr": "critique" },
 
 { "en": "security",        "fi": "turvallisuus",    "fr": "sécurité", "es": "(la) seguridad", "ko": "보안 (keep + comfortable)" },
 { "en": "safe",            "fi": "turvallinen",     "fr": "sauf",     "es": "seguro",         "ko": "안전한 (?)" }

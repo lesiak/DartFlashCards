@@ -19,14 +19,17 @@
 { "en": "shade",       "fi": "varjo",      "fr": "ombre" ,    "es": "(la) sombra", "ko": "그림자"},
 { "en": "cloudy",      "fi": "pilvinen",   "fr": "nuageux",    "es": "nublado",     "ko": "흐리다"},
 { "en": "storm",       "fi": "myrsky",     "fr": "orage (m), tempête (f)", "es": "(la) tormenta, (la) tempestad ", "ko": "폭풍"},
-{ "en": "lightning",   "fi": "salama",     "fr":"éclair (m)",   "ko": "번개, 벼락"},
-{ "en": "thunder (sound)",   "ko": "우레",  "fi": "ukkonen",   "fr":"tonnerre (m)"},
+{ "en": "lightning",   "fi": "salama",     "fr": "éclair (m)",   "ko": "번개, 벼락"},
+{ "en": "thunder (sound)",   "ko": "우레", "fi": "ukkonen",   "fr":"tonnerre (m)"},
 
-{ "en": "desert",       "fi": "aavikko",    "fr": "désert",    "es":"(el) desierto", "ko": "사막" },
-{ "en": "volcano",      "fi": "tulivuori",  "fr":"volcan",     "es":"(el) volcán",   "ko": ""},
-{ "en": "stream, creek","fi": "puro",       "fr":"ruisseau",   "es":"(el) riachuelo",   "ko": ""},
+{ "en": "to rain",       "fi": "",    "fr": "",    "es": "llover", "ko": "" },
 
-{ "en": "gas",         "fi": "kaasu" ,        "fr":"gaz",    "ko": "가스"},
-{ "en": "a liquid",    "fi": "neste",         "fr": "liquide",  "ko": "액체" },
-{ "en": "pressure",    "fi": "paine",         "fr": "pression",  "es": "(la) presión",  "ko": "압력 (press + strength)" }
+
+{ "en": "desert",       "fi": "aavikko",    "fr": "désert",    "es": "(el) desierto", "ko": "사막" },
+{ "en": "volcano",      "fi": "tulivuori",  "fr": "volcan",     "es": "(el) volcán",   "ko": ""},
+{ "en": "stream, creek","fi": "puro",       "fr":"ruisseau",   "es": "(el) riachuelo",   "ko": ""},
+
+{ "en": "gas",         "fi": "kaasu" ,      "fr": "gaz",       "es": "(el) gas",  "ko": "가스"},
+{ "en": "a liquid",    "fi": "neste",       "fr": "liquide",   "es": "(el) líquido",  "ko": "액체" },
+{ "en": "pressure",    "fi": "paine",       "fr": "pression",  "es": "(la) presión",  "ko": "압력 (press + strength)" }
 ]

@@ -11,6 +11,7 @@
 { "en": "flu",            "fi": "flunssa",    "fr": "grippe",       "es": "(la) gripe", "ko": "독감 (poison + feel)" },
 { "en": "pain",           "fi": "kipu" ,      "fr": "douleur",      "es": "(el) dolor",             "ko": "고통, 아픔"},
 { "en": "backache",       "fi": "selkäkipu",  "fr": "mal au dos",   "es": "(el) dolor de espalda",  "ko": ""},
+{ "en": "to hurt",        "fi": "" ,      "fr": "",      "es": "doler (me duele el pie)",             "ko": ""},
 
 { "en": "to be injured",  "fi": "" , "fr":"",   "ko": "다치다"},
 { "en": "cancer",         "fi": "syöpä",      "fr":" cancer",    "es": "(el) cáncer",      "ko": "암"},
@@ -20,7 +21,8 @@
 { "en": "injection",      "fi": "injektio",   "fr": "injection", "es": "(la) inyección",   "ko": "주사" },
 { "en": "prescription",        "ko": "처방",     "fi": "resepti",    "fr": "prescription" },
 { "en": "operation, surgery",        "ko": "외과",     "fi": "leikkaus",    "fr": "opération" },
-{ "en": "syringe",        "ko": "주사기",     "fi": "ruisku",    "fr": "seringue (f)" },
+{ "en": "syringe",         "fi": "ruisku",    "fr": "seringue (f)",  "ko": "주사기" },
+{ "en": "vaccine",         "fi": "rokote",    "fr": "(le) vaccin",         "es": "(la) vacuna",  "ko": "백신" },
 
 { "en": "disease",        "fi": "tauti, sairaus",    "fr": "maladie", "es": "(la) enfermedad",   "ko": "" },
 { "en": "infectious",     "fi": "tarttuva",    "fr": "infectieux",    "es": "infeccioso",  "ko": ""  },

@@ -36,14 +36,14 @@
 { "en": "elementary school",       "ko": "초등학교 (early + class + study + school)",       "fi": "alkeiskoulu",    "fr": "école primaire" },
 
 
-{ "en": "graduation",       "ko": "졸업",       "fi": "",    "fr": "" },
-{ "en": "graduate",       "ko": "졸업하다",       "fi": "valmistua, suorittaa tutkinto, saada oppiarvo",    "fr": "obtenir sa licence, son diplôme" },
-{ "en": "diligently",       "ko": "열심히",       "fi": "ahkerasti",    "fr": "diligemment" },
+{ "en": "graduation",      "fi": "",    "fr": "",  "es": "(la) graduación",   "ko": "졸업"},
+{ "en": "graduate",        "fi": "valmistua, suorittaa tutkinto, saada oppiarvo",    "fr": "obtenir sa licence, son diplôme",  "ko": "졸업하다" },
+{ "en": "diligently",      "fi": "ahkerasti",    "fr": "diligemment", "es": "diligentemente",   "ko": "열심히" },
 
 { "en": "number",       "fi": "luku",      "fr": "nombre, numéro", "es": "(el) número",  "ko": "수" },
 { "en": "point (maths)","fi": "",          "fr": "point",          "es": "(el) punto",   "ko": "" },
 { "en": "triangle",     "fi": "kolmio",    "fr": "triangle",       "es": "(el) triángulo",  "ko": "삼각형" },
-{ "en": "square",       "fi": "neliö",     "fr": "carré",          "es": "", "ko": "정사각형" },
+{ "en": "square",       "fi": "neliö",     "fr": "carré",          "es": "(el) cuadrado", "ko": "정사각형" },
 { "en": "circle",       "fi": "ympyrä",    "fr": "cercle",   "ko": "원" },
 { "en": "disk (maths)", "fi": "kiekko",    "fr": "disque",    "ko": "원판" },
 { "en": "equation",     "fi": "yhtälö",    "fr": "équation",    "ko": "방정식" },
@@ -90,9 +90,9 @@
 { "en": "principle",     "fi": "periaate",        "fr": "principe",      "es": "(el) principio",   "ko": "원칙, 원리" },
 
 
-{ "en": "ruler",         "fi": "viivain",   "fr": "règle",     "ko": "자" },
-{ "en": "to calculate",  "fi": "laskea",    "fr": "calculer",  "es": "calcular",  "ko": "계산기" },
-{ "en": "calculator",    "fi": "laskin",    "fr": "calculatrice",  "ko": "계산기" }
+{ "en": "ruler",         "fi": "viivain",         "fr": "règle",         "ko": "자" },
+{ "en": "to calculate",  "fi": "laskea",          "fr": "calculer",      "es": "calcular",  "ko": "계산기" },
+{ "en": "calculator",    "fi": "laskin",          "fr": "calculatrice",  "es": "(la) calculadora",  "ko": "계산기" }
 
 
 ]

@@ -1,8 +1,8 @@
 [
 
 
-{ "en": "industry",   "ko": "산업",    "fi": "teollisuus",  "fr":"industrie"},
-{ "en": "disappear",   "ko": "",    "fi": "kadota",  "fr":"disparaître"},
+{ "en": "industry",     "fi": "teollisuus",  "fr":"industrie",  "es": "(la) industria",  "ko": "산업"},
+{ "en": "disappear",    "fi": "kadota",  "fr":"disparaître",  "ko": ""},
 { "en": "resist",   "ko": "",    "fi": "vastustaa",  "fr":"résister"},
 
 { "en": "variation (change)",   "ko": "",    "fi": "vaihtelu",  "fr":"variation"},
@@ -54,21 +54,30 @@
 
 
 
-{ "en": "physical",      "fi": "",      "fr": "", "es": "físico",  "ko": ""},
 
 
-{ "en": "entire",      "fi": "",      "fr": "", "es": "entero",  "ko": ""},
+
+
 { "en": "to support",    "fi": "kannattaa",   "fr":"supporter, soutenir",  "ko": ""},
 
 { "en": "serious (situation, problem)",      "fi": "",      "fr": "", "es": "grave",  "ko": ""},
 { "en": "historical",      "fi": "",      "fr": "", "es": "histórico",  "ko": ""},
 
 
+{ "en": "physical",      "fi": "",      "fr": "", "es": "físico",  "ko": ""},
 
-
+{ "en": "entire",      "fi": "",      "fr": "", "es": "entero",  "ko": ""},
 { "en": "absolute",      "fi": "absoluuttinen",   "fr": "absolu",   "es": "absoluto",  "ko": ""},
 { "en": "concrete",      "fi": "konkreettinen",   "fr": "concret",  "es": "concreto",  "ko": ""},
 { "en": "definitive",    "fi": "lopullinen",      "fr": "définitif","es": "definitivo",  "ko": ""},
+{ "en": "perfect",    "fi": "täydellinen",   "fr":"", "es": "perfecto",  "ko": ""},
+{ "en": "precise",    "fi": "täydellinen",   "fr":"", "es": "preciso",  "ko": ""},
+
+{ "en": "personal",    "fi": "täydellinen",   "fr":"", "es": "personal",  "ko": ""},
+
+{ "en": "professional",    "fi": "täydellinen",   "fr":"", "es": "profesional",  "ko": ""},
+
+{ "en": "pure",    "fi": "",   "fr":"", "es": "puro",  "ko": ""},
 
 { "en": "due (to)",       "fi": "",      "fr": "grâce (à)", "es": "debido (a)",  "ko": ""},
 { "en": "to happen",      "fi": "",      "fr": "", "es": "pasar",  "ko": ""},
@@ -97,11 +106,11 @@
 { "en": "dead",       "fi": "",   "fr":"", "es": "muerto",  "ko": ""},
 
 { "en": "to handle",       "fi": "",   "fr":"", "es": "manejar",  "ko": ""},
-
+{ "en": "to move",       "fi": "",   "fr":"", "es": "mover",  "ko": ""},
 
 { "en": "to accent",   "ko": "",    "fi": "korostaa",   "fr":""},
 
-{ "en": "perfect, complet",    "fi": "täydellinen",   "fr":"",  "ko": ""},
+
 { "en": "to tell (a story)",   "fi": "",   "fr": "", "es": "contar",  "ko": ""},
 { "en": "to fill (in)",        "fi": "",   "fr": "", "es": "rellenar",  "ko": ""},
 { "en": "to bump into, to find",        "fi": "",   "fr": "", "es": "encontrar",  "ko": ""},
@@ -119,9 +128,18 @@
 { "en": "to refer",        "fi": "",   "fr": "", "es": "referir",  "ko": ""},
 
 { "en": "to transfer",        "fi": "",   "fr": "", "es": "transferir",  "ko": ""},
-{ "en": "to compete",        "fi": "",   "fr": "", "es": "competir",  "ko": ""},
-{ "en": "to conceive",        "fi": "",   "fr": "", "es": "concebir",  "ko": ""},
 
+{ "en": "to conceive",        "fi": "",   "fr": "", "es": "concebir",  "ko": ""},
+{ "en": "to obtain",        "fi": "",   "fr": "", "es": "conseguir",  "ko": ""},
+{ "en": "to consent",        "fi": "",   "fr": "", "es": "consentir",  "ko": ""},
+{ "en": "to correct",        "fi": "",   "fr": "", "es": "corregir",  "ko": ""},
+
+{ "en": "to serve",        "fi": "",   "fr": "", "es": "servir",  "ko": ""},
+{ "en": "to dress",        "fi": "",   "fr": "", "es": "vestir",  "ko": ""},
+{ "en": "to ascend",        "fi": "",   "fr": "", "es": "ascender",  "ko": ""},
+
+
+{ "en": "to demolish",        "fi": "",   "fr": "", "es": "demoler",  "ko": ""},
 
 
 { "en": "to rub",   "ko": "비비다",    "fi": "hieroa",   "fr":"frotter"},

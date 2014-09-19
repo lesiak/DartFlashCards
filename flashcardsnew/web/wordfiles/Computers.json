@@ -66,7 +66,7 @@
 
 { "en": "user",    "ko": "사용자",    "fi": "käyttäjä" , "fr":""},
 { "en": "login",    "ko": "로그인",    "fi": "" , "fr":""},
-{ "en": "password",    "ko": "비밀번호",    "fi": "salasana" , "fr":"mot de passe"},
+{ "en": "password",            "fi": "salasana" , "fr":"mot de passe", "es": "(la) contraseña",  "ko": "비밀번호"},
 
 { "en": "folder",      "fi": "kansio" ,  "fr": "dossier",  "es": "(la) carpeta",  "ko": "폴더"},
 { "en": "file",        "fi": "tiedosto", "fr": "fichier",  "es": "(el) archivo",  "ko": "파일"},
