@@ -1,5 +1,7 @@
 [
 
+{ "en": "to explain",   "fi": "selittää",      "fr": "expliquer", "es": "explicar",       "ko": "" },
+
 { "en": "to discuss",    "fi": "pohtia, keskustella jstk" , "fr":"discuter", "es":"discutir", "ko": ""},
 { "en": "discussion",    "fi": "keskustelu" ,   "fr":"discussion",           "es":"(la) discusión",  "ko": "토론"},
 { "en": "to approve",    "fi": "hyväksyä, keskustella jstk" , "fr":"approuver", "es":"aprobar", "ko": ""},
@@ -22,7 +24,7 @@
 { "en": "threat (indication of imminent danger)",   "ko": "",    "fi": "uhka",   "fr":""},
 
 
-{ "en": "to declare",   "ko": "",    "fi": "julistaa",  "fr":"déclarer"},
+{ "en": "to declare",    "fi": "julistaa",  "fr":"déclarer",  "es": "declarar", "ko": ""},
 { "en": "to announce",   "ko": "",    "fi": "ilmoittaa, kuuluttaa, julistaa",  "fr":"annoncer"},
 { "en": "flattery",               "fi": "imartelu",    "fr": "flatterie",  "ko": "아첨, 아부, 듣기 좋은 말" },
 { "en": "to shut up",       "ko": "닥치다",    "fi": "lähestyä",    "fr":"se taire"},

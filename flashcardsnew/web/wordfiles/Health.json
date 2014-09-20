@@ -19,9 +19,9 @@
 { "en": "vitamin",        "fi": "vitamiini" , "fr":"vitamine",   "es": "(la) vitamina",    "ko": "비타민"},
 { "en": "wound",          "fi": "haava",      "fr": "blessure",  "es": "(la) herida",      "ko": "상처" },
 { "en": "injection",      "fi": "injektio",   "fr": "injection", "es": "(la) inyección",   "ko": "주사" },
-{ "en": "prescription",        "ko": "처방",     "fi": "resepti",    "fr": "prescription" },
+{ "en": "prescription",   "fi": "resepti",    "fr": "prescription","es": "(la) receta",   "ko": "처방" },
 { "en": "operation, surgery",        "ko": "외과",     "fi": "leikkaus",    "fr": "opération" },
-{ "en": "syringe",         "fi": "ruisku",    "fr": "seringue (f)",  "ko": "주사기" },
+{ "en": "syringe",         "fi": "ruisku",    "fr": "seringue (f)",   "es": "(la) jeringa", "ko": "주사기" },
 { "en": "vaccine",         "fi": "rokote",    "fr": "(le) vaccin",         "es": "(la) vacuna",  "ko": "백신" },
 
 { "en": "disease",        "fi": "tauti, sairaus",    "fr": "maladie", "es": "(la) enfermedad",   "ko": "" },

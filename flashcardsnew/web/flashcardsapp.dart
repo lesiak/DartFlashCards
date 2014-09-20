@@ -33,7 +33,7 @@ class FlashCardsApp extends PolymerElement {
                      'Beginner3bCommunication',                     
                      'Beginner4',
                      'Beginner4aDescriptions',
-                     'Beginner5',
+                     'Beginner5AbstractDescriptions',
                      'Beginner6',
                      'CultureBegginer',                     
                      'CultureMusic',
@@ -304,6 +304,7 @@ class FlashCardsApp extends PolymerElement {
     secondaryLang = langs[(idx + 2) % langs.length];
     thirdLang = langs[(idx + 3) % langs.length];
     window.localStorage['primaryLang'] = primaryLang;
+    showDeckData();
   }
   
   void primaryLangChanged() {

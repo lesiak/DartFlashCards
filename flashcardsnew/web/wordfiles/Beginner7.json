@@ -87,6 +87,8 @@
 { "en": "synagogue",  "fi": "synagoga",  "fr":"synagogue","es":"(la) sinagoga", "ko": ""},
 { "en": "mosque",     "fi": "moskeija",  "fr":"mosquée",  "es":"(la) mezquita", "ko": ""},
 { "en": "to pray",    "fi": "rukoilla",  "fr":"prier",    "es":"rezar", "ko": ""},
+{ "en": "a prayer",    "fi": "rukous",  "fr":"prière",    "es":"(la) oración, (el) rezo", "ko": ""},
+
 { "en": "atheist",    "fi": "ateisti",   "fr":"athée",    "es":"(el) ateo", "ko": ""},
 { "en": "monk",       "fi": "munkki",    "fr":"moine",    "es":"(el) monje", "ko": ""},
 { "en": "nun",        "fi": "nunna",     "fr":"",         "es":"(la) monja", "ko": ""},

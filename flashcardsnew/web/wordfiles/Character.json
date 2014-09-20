@@ -51,6 +51,7 @@
 { "en": "reliable",     "fi": "luotettava",      "fr": "fiable",     "ko": "믿음직하다" },
 { "en": "hard-working",     "fi": "ahkera",      "fr": "travailleur",  "es": "trabajador",     "ko": "" },
 
+{ "en": "responsible",      "fi": "",        "fr": "",     "es": "responsable", "ko": "" },
 
 { "en": "careful",      "fi": "varovainen",      "fr": "prudent",     "es": "prudente",  "ko": "" },
 { "en": "careless",     "fi": "varomaton",       "fr": "négligent",   "es": "negligente",  "ko": "" },

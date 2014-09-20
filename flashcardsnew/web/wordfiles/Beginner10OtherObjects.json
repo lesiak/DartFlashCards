@@ -1,4 +1,6 @@
 [
+{ "en": "wheel",        "fi": "pyörä",     "fr": "roue",     "es": "(la) rueda",  "ko": "바퀴" },
+{ "en": "basket",       "fi": "kori",      "fr": "panier",   "ko": "바구니" },
 
 
 { "en": "bell",        "fi": "kello, tiuku (small)",   "fr":"cloche (f)",  "ko": "종, 벨"},

@@ -6,8 +6,6 @@
 { "en": "to answer",    "fi": "vastata",       "fr": "répondre",  "es": "responder, contestar",       "ko": "답변하다, 대답하다" },
 { "en": "to reply",     "fi": "",              "fr": "",          "es": "contestar",       "ko": "" },
 
-{ "en": "to explain",   "fi": "selittää",      "fr": "expliquer", "es": "explicar",       "ko": "" },
-
 
 { "en": "warm",         "fi": "lämmin",   "fr":"chaud",  "es": "caliente (iron, oven, bath); templado(a) (water, soup); cálido(a) (weather, welcome, color); de abrigo (garment)",  "ko": "따뜻하다"},
 { "en": "cold",         "fi": "kylmä",    "fr": "froid", "es": "frío",  "ko": "춥다"},
@@ -31,8 +29,6 @@
 { "en": "lost",      "fi": "menetetty, hävitty", "fr": "perdu",  "es": "perdido", "ko": "잃어버린" },
 
 
-{ "en": "wheel",        "fi": "pyörä",     "fr": "roue",     "es": "(la) rueda",  "ko": "바퀴" },
-{ "en": "basket",       "fi": "kori",      "fr": "panier",   "ko": "바구니" },
 { "en": "reaction",     "fi": "reaktio",   "fr": "réaction", "es": "(la) reacción", "ko": "반응 (reverse + answer)"  },
 { "en": "to react",     "fi": "suhtautua", "fr": "réagir",   "es": "reaccionar", "ko": "반응하다" },
 { "en": "to disturb",       "ko": "방해하다",       "fi": "häiritä",    "fr": "perturber" },
@@ -67,6 +63,22 @@
 { "en": "normal",   "fi": "",                      "fr": "", "es": "normal",  "ko": ""},
 { "en": "extraordinary",   "fi": "",                      "fr": "", "es": "extraordinario",  "ko": ""},
 { "en": "strange",       "fi": "outo, kummallinen, omituinen",          "fr": "étrange", "es": "extraño", "ko": "이상하다" },
+
+{ "en": "physical",      "fi": "",      "fr": "", "es": "físico",  "ko": ""},
+
+{ "en": "entire",      "fi": "",      "fr": "", "es": "entero",  "ko": ""},
+{ "en": "absolute",      "fi": "absoluuttinen",   "fr": "absolu",   "es": "absoluto",  "ko": ""},
+{ "en": "concrete",      "fi": "konkreettinen",   "fr": "concret",  "es": "concreto",  "ko": ""},
+{ "en": "definitive",    "fi": "lopullinen",      "fr": "définitif","es": "definitivo",  "ko": ""},
+{ "en": "perfect",    "fi": "",   "fr":"", "es": "perfecto",  "ko": ""},
+{ "en": "precise",    "fi": "",   "fr":"", "es": "preciso",  "ko": ""},
+
+{ "en": "personal",    "fi": "",   "fr":"", "es": "personal",  "ko": ""},
+
+{ "en": "professional",    "fi": "",   "fr":"", "es": "profesional",  "ko": ""},
+{ "en": "luxurious",       "fi": "ylellinen",   "fr":"luxueux", "es": "lujoso",  "ko": ""},
+{ "en": "precious",       "fi": "arvokas",   "fr":"précieux", "es": "precioso",  "ko": ""},
+
 
 { "en": "passage (between buildings, underground)",      "fi": "",   "fr": "",   "es": "(el) pasaje", "ko": ""},
 { "en": "passage (way through)",      "fi": "",   "fr": "",   "es": "(el) paso", "ko": ""},

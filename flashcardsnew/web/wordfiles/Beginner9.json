@@ -1,19 +1,17 @@
 [
 
 
-{ "en": "industry",     "fi": "teollisuus",  "fr":"industrie",  "es": "(la) industria",  "ko": "산업"},
-{ "en": "disappear",    "fi": "kadota",  "fr":"disparaître",  "ko": ""},
-{ "en": "resist",   "ko": "",    "fi": "vastustaa",  "fr":"résister"},
+{ "en": "industry",     "fi": "teollisuus",  "fr":"industrie",    "es": "(la) industria",  "ko": "산업"},
+{ "en": "disappear",    "fi": "kadota",      "fr":"disparaître",  "ko": ""},
+{ "en": "resist",       "fi": "vastustaa",   "fr":"résister",      "es":"resistir", "ko": "" },
 
 { "en": "variation (change)",   "ko": "",    "fi": "vaihtelu",  "fr":"variation"},
-{ "en": "exception",   "ko": "",    "fi": "poikkeus",  "fr":"exception"},
+{ "en": "exception",       "fi": "poikkeus",  "fr": "exception",  "es": "(la) excepción",   "ko": ""},
 
-
-{ "en": "exception",     "fi": "poikkeus",  "fr":"exception",  "ko": ""},
 { "en": "to go down",     "fi": "",  "fr":"", "es":"bajar",   "ko": ""},
  
 { "en": "belong (to)",        "fi": "kuulua (+allative)",   "fr": "appartenir (à)", "es": "pertenecer (a)",   "ko": ""},
-{ "en": "information",        "ko": "정보",          "fi": "tiedot",    "fr": "information" },
+{ "en": "information",        "fi": "tiedot",    "fr": "information", "ko": "정보" },
 
 { "en": "intuition",        "fi": "intuitio", 	"fr":"intuition", "es":"(la) intuición", "ko": "직관"},
 
@@ -23,7 +21,7 @@
 { "en": "to weaken (sth)",            "ko": "",    "fi": "heikentää",   "fr":"affaiblir"},
 { "en": "to weaken (intransitive)",   "ko": "",    "fi": "heikentyä",   "fr":"s'affaiblir"},
 
-{ "en": "gradually",            "ko": "",    "fi": "vähitellen, asteittain",   "fr":"peu à peu, graduellement"},
+{ "en": "gradually",        "fi": "vähitellen, asteittain",   "fr":"peu à peu, graduellement",  "es": "gradualmente",  "ko": ""},
 
 { "en": "to diffuse",   "fi": "",   "fr": "diffuser", "es": "difundir",   "ko": ""},
 { "en": "diffused",     "fi": "",   "fr": "",         "es": "difundido",   "ko": ""},
@@ -64,18 +62,6 @@
 { "en": "historical",      "fi": "",      "fr": "", "es": "histórico",  "ko": ""},
 
 
-{ "en": "physical",      "fi": "",      "fr": "", "es": "físico",  "ko": ""},
-
-{ "en": "entire",      "fi": "",      "fr": "", "es": "entero",  "ko": ""},
-{ "en": "absolute",      "fi": "absoluuttinen",   "fr": "absolu",   "es": "absoluto",  "ko": ""},
-{ "en": "concrete",      "fi": "konkreettinen",   "fr": "concret",  "es": "concreto",  "ko": ""},
-{ "en": "definitive",    "fi": "lopullinen",      "fr": "définitif","es": "definitivo",  "ko": ""},
-{ "en": "perfect",    "fi": "täydellinen",   "fr":"", "es": "perfecto",  "ko": ""},
-{ "en": "precise",    "fi": "täydellinen",   "fr":"", "es": "preciso",  "ko": ""},
-
-{ "en": "personal",    "fi": "täydellinen",   "fr":"", "es": "personal",  "ko": ""},
-
-{ "en": "professional",    "fi": "täydellinen",   "fr":"", "es": "profesional",  "ko": ""},
 
 { "en": "pure",    "fi": "",   "fr":"", "es": "puro",  "ko": ""},
 
@@ -87,6 +73,17 @@
 
 { "en": "ready, willing",      "fi": "",      "fr": "", "es": "dispuesto",  "ko": ""},
 { "en": "direct",      "fi": "",      "fr": "", "es": "directo",  "ko": ""},
+{ "en": "rare",      "fi": "",      "fr": "", "es": "raro",  "ko": ""},
+
+{ "en": "to freeze",      "fi": "",      "fr": "", "es": "helar",  "ko": ""},
+{ "en": "to deny",      "fi": "",      "fr": "", "es": "negar",  "ko": ""},
+
+{ "en": "to snow",      "fi": "",      "fr": "", "es": "nevar",  "ko": ""},
+{ "en": "to agree",      "fi": "",      "fr": "", "es": "acordar",  "ko": ""},
+{ "en": "to force",      "fi": "",      "fr": "", "es": "forzar",  "ko": ""},
+
+{ "en": "confess",      "fi": "",      "fr": "", "es": "confesar",  "ko": ""},
+{ "en": "to bury",      "fi": "",      "fr": "", "es": "enterrar",  "ko": ""},
 
 { "en": "to hire, rent",      "fi": "",      "fr": "", "es": "alquilar",  "ko": ""},
 

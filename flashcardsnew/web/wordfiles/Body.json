@@ -45,6 +45,7 @@
 { "en": "waist",     "fi": "vyötärö",   "fr":"taille",      "es": "(la) cintura", "ko": "허리"},
 
 { "en": "a bone",    "fi": "luu" ,      "fr":"os",          "es": "(el) hueso",   "ko": "뼈"},
+{ "en": "skeleton",    "fi": "luuranko" ,      "fr":"squelette",          "es": "(el) esqueleto",   "ko": ""},
 { "en": "blood",     "fi": "veri" ,     "fr":"sang",        "es": "(la) sangre",  "ko": "피"},
 { "en": "lung",      "fi": "keuhko",    "fr":"poumon",      "es": "(el) pulmón",  "ko": "폐"},
 { "en": "stomach",   "fi": "maha",      "fr":"estomac",     "es": "(el) estómago","ko": "위"},
