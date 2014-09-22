@@ -42,13 +42,13 @@
 { "en": "result",     "fi": "tulos",       "fr": "résultat",  "es": "(el) resultado", "ko": "결과 (finish + result)"},
 { "en": "success",    "fi": "menestys",    "fr": "succès, réussite",  "es": "(el) éxito", "ko": ""},
 
-{ "en": "decision",   "fi": "päätös",      "fr": "décision",  "es": "(la) decisión", "ko": "결정 (decide + decide)"},
 { "en": "to decide",  "fi": "päättää",     "fr": "décider",   "es": "decidir",  "ko": "결정하다"},
-
+{ "en": "decision",   "fi": "päätös",      "fr": "décision",  "es": "(la) decisión", "ko": "결정 (decide + decide)"},
 
 { "en": "cause, reason",  "ko": "원인",    "fi": "syy" , "fr":"cause, raison "},
-{ "en": "a promise",      "ko": "약속 (contract + bind)",    "fi": "lupaus" , "fr":"promesse"},
-{ "en": "to promise",     "ko": "약속하다",    "fi": "luvata" , "fr":"promettre"},
+
+{ "en": "to promise",     "fi": "luvata" , "fr": "promettre", "es": "prometer",     "ko": "약속하다"},
+{ "en": "a promise",      "fi": "lupaus" , "fr": "promesse",  "es": "(la) promesa", "ko": "약속 (contract + bind)"},
 
 { "en": "to choose",      "fi": "valita" , "fr": "choisir",  "es": "escoger",  "ko": "고르다, 선택하다"},
 { "en": "choice",         "fi": "valinta, valikoima" , "fr":"choix",  "ko": "선택 (select + select)"},
@@ -57,12 +57,14 @@
 { "en": "likely (probably)",  "ko": "아마도",     "fi": "todennäköisesti",  "fr": "probablement" },
 
 
-{ "en": "to complain",   "ko": "불평하다",   "fi": "valittaa",     "fr": "plaindre, se plaindre" },
-{ "en": "complaint",     "ko": "불평",       "fi": " valitus",     "fr": "plainte" },
+{ "en": "to complain",   "fi": "valittaa",     "fr": "plaindre, se plaindre",  "es": "quejarse",     "ko": "불평하다" },
+{ "en": "complaint",     "fi": " valitus",     "fr": "plainte",                "es": "(la) queja",   "ko": "불평" },
 
-{ "en": "suggestion",     "ko": "",           "fi": "ehdotus",    "fr": "suggestion" },
-{ "en": "proposition",    "ko": "제안",      "fi": "ehdotus, esitys",    "fr": "proposition" },
-{ "en": "to propose",     "ko": "제안하다",  "fi": "ehdottaa, esittää",    "fr": "proposer" },
+{ "en": "to suggest",     "fi": "",    "fr": "", "es": "sugerir",     "ko": "" },
+{ "en": "suggestion",     "fi": "ehdotus",    "fr": "suggestion", "es": "(la) sugerencia",     "ko": "" },
+{ "en": "to propose",     "fi": "ehdottaa, esittää",  "fr": "proposer",      "es": "proponer",     "ko": "제안하다" },
+{ "en": "proposition",    "fi": "ehdotus, esitys",    "fr": "proposition",   "es": "(la) proposición, (la) propuesta",  "ko": "제안" },
+
 
 { "en": "accept",         "fi": "hyväksyä, suostua", "fr": "accepter",     "es": "aceptar",    "ko": "받아들이다" },
 { "en": "reject",         "fi": "hylätä",            "fr": "rejeter",  "ko": "거절하다" },

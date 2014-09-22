@@ -1,19 +1,4 @@
 [
-{ "en": "question",     "fi": "kysymys, asia", "fr": "question",  "es": "(la) pregunta",  "ko": "문제" },
-{ "en": "to ask",       "fi": "kysyä",         "fr": "",                     "ko": "묻다 (물어)" },
-{ "en": "to ask (for)", "fi": "",              "fr": "",          "es": "pedir",           "ko": "묻다 (물어)" },
-{ "en": "answer",       "fi": "vastaus",       "fr": "réponse",   "es": "(la) respuesta",  "ko": "답변, 대답 (reply + answer)" },
-{ "en": "to answer",    "fi": "vastata",       "fr": "répondre",  "es": "responder, contestar",       "ko": "답변하다, 대답하다" },
-{ "en": "to reply",     "fi": "",              "fr": "",          "es": "contestar",       "ko": "" },
-
-
-{ "en": "warm",         "fi": "lämmin",   "fr":"chaud",  "es": "caliente (iron, oven, bath); templado(a) (water, soup); cálido(a) (weather, welcome, color); de abrigo (garment)",  "ko": "따뜻하다"},
-{ "en": "cold",         "fi": "kylmä",    "fr": "froid", "es": "frío",  "ko": "춥다"},
-{ "en": "hot",          "fi": "kuuma",    "fr": "chaud", "es": "caliente (having high temperature); caluroso(a) (day, summer, climate)", "ko": "덥다"},
-{ "en": "frost",        "fi": "pakkanen", "fr": "gel",   "es": "(la) escarcha", "ko": "서리"},
-
-
-{ "en": "time (occurence)",          "fi": "kerta",    "fr": "fois", "ko": "번" },
 
 
 
