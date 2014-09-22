@@ -23,6 +23,7 @@
 { "en": "threat (expression of intent to injure or punish another)",   "ko": "",    "fi": "uhkaus",   "fr":"menace"},
 { "en": "threat (indication of imminent danger)",   "ko": "",    "fi": "uhka",   "fr":""},
 
+{ "en": "to admit",    "fi": "" , "fr":"admettre", "es":"admitir", "ko": ""},
 
 { "en": "to declare",    "fi": "julistaa",  "fr":"déclarer",  "es": "declarar", "ko": ""},
 { "en": "to announce",   "ko": "",    "fi": "ilmoittaa, kuuluttaa, julistaa",  "fr":"annoncer"},

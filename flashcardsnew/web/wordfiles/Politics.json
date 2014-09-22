@@ -10,7 +10,7 @@
 { "en": "queen",         "fi": "kuningatar",     "fr": "reine" ,  "es": "(la) reina",    "ko": ""},
 { "en": "prince",        "fi": "prinssi",        "fr": "prince" , "es": "(el) príncipe", "ko": ""},
 { "en": "princess",      "fi": "prinsessa",      "fr": "" ,       "es": "(la) princesa", "ko": "왕자비"},
-
+{ "en": "kingdom",       "fi": "kuningaskunta, valtakunta",       "fr": "royaume" ,    "es": "(el) reino",      "ko": ""},
 
 
 { "en": "authorities",   "fi": "viranomaiset",   "fr": "autorités",    "es": "(las) autoridades",    "ko": "당국" },

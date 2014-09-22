@@ -11,6 +11,7 @@
 { "en": "elegant",     "fi": "tyylikäs",     "fr": "élégant",      "es": "elegante", "ko": "우아한" },
 
 { "en": "charming",   "fi": "",              "fr": "charmant",     "es": "encantador","ko": "매력적인" },
+{ "en": "attractive",   "fi": "",              "fr": "",     "es": "atractivo",       "ko": "" },
 
 { "en": "ugly",        "fi": "ruma",         "fr": "laid, moche",  "es": "feo",      "ko": "추한" },
 

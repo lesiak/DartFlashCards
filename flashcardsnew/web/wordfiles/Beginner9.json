@@ -113,6 +113,7 @@
 { "en": "to bump into, to find",        "fi": "",   "fr": "", "es": "encontrar",  "ko": ""},
 
 { "en": "to fall",        "fi": "",   "fr": "", "es": "caer",  "ko": ""},
+{ "en": "majority",       "fi": "enemmistö",   "fr": "majorité",  "es": "(la) mayoría", "ko": ""},
 
 { "en": "meticulous",   "fi": "huolellinen","fr": "méticuleux",  "es": "meticuloso", "ko": ""},
 
@@ -135,7 +136,7 @@
 { "en": "to dress",        "fi": "",   "fr": "", "es": "vestir",  "ko": ""},
 { "en": "to ascend",        "fi": "",   "fr": "", "es": "ascender",  "ko": ""},
 
-
+{ "en": "opportunity",        "fi": "tilaisuus",   "fr": "occasion", "es": "oportunidad",  "ko": ""},
 { "en": "to demolish",        "fi": "",   "fr": "", "es": "demoler",  "ko": ""},
 
 

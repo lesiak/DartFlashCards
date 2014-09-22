@@ -8,7 +8,12 @@
 { "en": "lyrics",        "fi": "sanoitus",       "fr": "paroles",       "es": "(las) letras",  "ko": "가사" },
 
 
-{ "en": "sound",         "fi": "ääni",           "fr": "son" ,       "es": "(el) sonido",     "ko": "소리"},
+{ "en": "sound",         "fi": "ääni",           "fr": "son" ,             "es": "(el) sonido",   "ko": "소리"},
+{ "en": "silence",       "fi": "hiljaisuus",     "fr": "silence" ,         "es": "(el) silencio", "ko": ""},
+{ "en": "silent",        "fi": "hiljainen",      "fr": "silencieux" ,      "es": "silencioso",    "ko": ""},
+{ "en": "quiet",         "fi": "hiljainen",      "fr": "calme, tranquille","es": "tranquilo",     "ko": "조용하다" },
+{ "en": "noisy",         "fi": "meluisa",        "fr": "bruyant",          "es": "ruidoso",       "ko": "시끄럽하다" },
+
 { "en": "music",         "fi": "musiikki",       "fr": "musique",    "es": "(la) música",     "ko": "음악" },
 { "en": "melody",        "fi": "melodia, sävel", "fr": "mélodie",    "es": "(la) melodía",    "ko": "멜로디"},
 { "en": "band",          "fi": "yhtye, bändi",   "fr": "bande",      "es": "(el) grupo",      "ko": "음악회, 콘서트" },

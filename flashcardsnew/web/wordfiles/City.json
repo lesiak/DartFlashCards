@@ -39,8 +39,6 @@
 { "en": "other side",        "ko": "건너편",          "fi": "toinen puoli (toisella puolella)",    "fr": "?" },
 
 { "en": "bench",            "fi": "penkki",          "fr": "banc",          "es": "(el) banco",  "ko": "벤치" },
-{ "en": "quiet",            "fi": "hiljainen",       "fr": "calme, tranquille", "es": "tranquilo",   "ko": "조용하다" },
-{ "en": "noisy",            "fi": "meluisa",         "fr": "bruyant",       "es": "ruidoso",   "ko": "시끄럽하다" },
 
 { "en": "crowd",            "fi": "väkijoukko",      "fr": "foule",         "es": "(la) multitud",   "ko": "" },
 { "en": "crowded",          "fi": "tungosta",        "fr": "",              "es": "lleno (de gente)",   "ko": "" },
