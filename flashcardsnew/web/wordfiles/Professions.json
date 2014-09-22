@@ -49,6 +49,7 @@
 
 { "en": "policeman",     "fi": "poliisi",     "fr":"policier, gendarme", "es": "(el) policía", "ko": "경찰관"},
 { "en": "fireman",       "fi": "palomies" ,   "fr":"pompier",            "es": "(el) bombero", "ko": "소방수"},
+{ "en": "journalist",    "fi": "toimittaja",  "fr": "journaliste",       "es": "(el) periodista",      "ko": "" },
 
 { "en": "teacher",       "fi": "opettaja" ,   "fr":"professeur",   "es": "(el) profesor, (el) maestro", "ko": ""},
 { "en": "apprentice",    "fi": "oppipoika" ,  "fr":"apprenti",            "es": "(el) aprendiz", "ko": ""},

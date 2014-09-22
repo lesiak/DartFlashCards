@@ -22,7 +22,9 @@
 { "en": "advantageous, beneficial",      "ko": "이롭다",      "fi": "edullinen", "fr": "avantageux" },
 
 { "en": "together",      "fi": "yhdessä",     "fr": "ensemble",  "es": "juntos",   "ko": "함께" },
-{ "en": "to unite",      "fi": "yhdistyä",    "fr": "unir",      "es": "unir", "ko": "" }, 
+{ "en": "to unite",      "fi": "yhdistyä",    "fr": "unir",      "es": "unir", "ko": "" },
+{ "en": "united",        "fi": "",            "fr": "uni",       "es": "unido", "ko": "" },
+ 
 { "en": "separately",    "fi": "erillään",    "fr": "séparément",   "ko": "따로" }, 
 { "en": "to separate",   "fi": "erottaa",     "fr": "séparer",   "ko": "" }, 
 

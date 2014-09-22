@@ -33,6 +33,7 @@
 
 { "en": "above",          "fi": "edellä",    "fr": "au-dessus",  "es": "arriba",     "ko": "" },
 { "en": "below",         "fi": "alla",    "fr": "au-dessous",  "es": "abajo",     "ko": "" },
+{ "en": "forward (adv, direction)",         "fi": "",    "fr": "",  "es": "adelante",     "ko": "" },
 
 
 { "en": "appearance",      "fi": "",    "fr": "",                   "es": "(la) apariencia",   "ko": "외관" }

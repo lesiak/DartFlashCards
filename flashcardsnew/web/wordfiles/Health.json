@@ -24,8 +24,9 @@
 { "en": "syringe",         "fi": "ruisku",    "fr": "seringue (f)",   "es": "(la) jeringa", "ko": "주사기" },
 { "en": "vaccine",         "fi": "rokote",    "fr": "(le) vaccin",         "es": "(la) vacuna",  "ko": "백신" },
 
-{ "en": "disease",        "fi": "tauti, sairaus",    "fr": "maladie", "es": "(la) enfermedad",   "ko": "" },
-{ "en": "infectious",     "fi": "tarttuva",    "fr": "infectieux",    "es": "infeccioso",  "ko": ""  },
+{ "en": "disease",        "fi": "tauti, sairaus","fr": "maladie",    "es": "(la) enfermedad",   "ko": "" },
+{ "en": "infectious",     "fi": "tarttuva",      "fr": "infectieux", "es": "infeccioso",        "ko": ""  },
+{ "en": "symptom",        "fi": "oire",          "fr": "symptôme",   "es": "(el) síntoma",      "ko": "" },
 
 { "en": "ability (capacity)",        "ko": "",     "fi": "kyky",    "fr": "capacité" },
 

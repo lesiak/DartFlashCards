@@ -78,7 +78,7 @@
 { "en": "to freeze",      "fi": "",      "fr": "", "es": "helar",  "ko": ""},
 { "en": "to deny",      "fi": "",      "fr": "", "es": "negar",  "ko": ""},
 
-{ "en": "to snow",      "fi": "",      "fr": "", "es": "nevar",  "ko": ""},
+
 { "en": "to agree",      "fi": "",      "fr": "", "es": "acordar",  "ko": ""},
 { "en": "to force",      "fi": "",      "fr": "", "es": "forzar",  "ko": ""},
 
@@ -86,7 +86,7 @@
 { "en": "to bury",      "fi": "",      "fr": "", "es": "enterrar",  "ko": ""},
 
 { "en": "to hire, rent",      "fi": "",      "fr": "", "es": "alquilar",  "ko": ""},
-
+{ "en": "a level",      "fi": "taso",      "fr": "niveau", "es": "(el) nivel",  "ko": ""},
 
 { "en": "current, flow",       "fi": "virta",   "fr":"courant", "es":"(la) corriente",  "ko": ""},
 { "en": "given",           "fi": "annettu",   "fr":"donné", "es":"dado",  "ko": ""},
@@ -136,11 +136,17 @@
 { "en": "to dress",        "fi": "",   "fr": "", "es": "vestir",  "ko": ""},
 { "en": "to ascend",        "fi": "",   "fr": "", "es": "ascender",  "ko": ""},
 
+{ "en": "a document",        "fi": "asiakirja, dokumentti",   "fr": "document", "es": "(el) documento",  "ko": ""},
+{ "en": "analysis",        "fi": "",   "fr": "", "es": "(el) análisis",  "ko": ""},
+
 { "en": "opportunity",        "fi": "tilaisuus",   "fr": "occasion", "es": "oportunidad",  "ko": ""},
 { "en": "to demolish",        "fi": "",   "fr": "", "es": "demoler",  "ko": ""},
 
+{ "en": "superior",        "fi": "",   "fr": "", "es": "superior",  "ko": ""},
+{ "en": "of course",        "fi": "",   "fr": "bien sûr", "es": "por supuesto",  "ko": ""},
 
-{ "en": "to rub",   "ko": "비비다",    "fi": "hieroa",   "fr":"frotter"},
+{ "en": "structure",        "fi": "rakenne",   "fr": "structure", "es": "(la) estructura",  "ko": ""},
+{ "en": "to rub",          "fi": "hieroa",   "fr":"frotter",   "ko": "비비다"},
 { "en": "fall asleep",   "ko": "잠들다",    "fi": "nukahtaa",   "fr":"s'endormir"},
 { "en": "for sure",   "ko": "꼭",    "fi": "varmasti",   "fr":""},
 { "en": "appear",       "ko": "나타나다",       "fi": "näyttää",    "fr": "apparaître" },

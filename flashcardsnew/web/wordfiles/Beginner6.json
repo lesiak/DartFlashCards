@@ -13,6 +13,8 @@
 
 { "en": "really",     "ko": "정말",       "fi": "todella",         "fr": "vraiment" },
 { "en": "not really", "ko": "별로",       "fi": "",                "fr": "" },
+{ "en": "hardly",     "fi": "",                "fr": "" ,  "es": "apenas",  "ko": ""},
+
 
 { "en": "memory (souvenir)",      "fi": "muisto",        "fr": "souvenir",  "es": "(el) recuerdo","ko": "기억" },
 { "en": "remember",    "fi": "muistaa",       "fr": "rappeler",  "es": "recordar", "ko": "기억하다" },
@@ -23,7 +25,11 @@
 { "en": "recommend",   "fi": "suositella",    "fr": "recommander", "es": "recomendar",  "ko": "추천하다" },
 { "en": "idea",        "fi": "idea",      "fr": "idée",      "es": "(la) idea", "ko": "아이디어" },
 
-{ "en": "to try",      "fi": "yrittää",   "fr": "essayer",   "es": "intentar", "ko": ""},
+{ "en": "to try (attempt)",     "fi": "yrittää",   "fr": "essayer",    "es": "intentar", "ko": ""},
+{ "en": "to try (out), sample", "fi": "yrittää",   "fr": "essayer",    "es": "probar", "ko": ""},
+{ "en": "to attempt",      "fi": "",   "fr": "",   "es": "intentar", "ko": ""},
+
+
 { "en": "(to be) capable (of)",   "fi": "pystyä (jhk), pystyä tekemään jtk",   "fr": "capable (de)",   "es": "capaz (de)", "ko": ""},
 
 
@@ -33,6 +39,7 @@
 
 { "en": "to predict",   "fi": "ennustaa",   "fr":"prédire, prévoir",  "es":"predecir, pronosticar",  "ko": ""},
 { "en": "prediction",   "fi": "ennustus",   "fr":"prédiction",        "es": "(la) predicción",  "ko": ""},
+{ "en": "to foresee",   "fi": "ennakoida",  "fr":"prévoir",           "es": "prever",  "ko": ""},
 
 
 { "en": "willingly",  "fi": "mielellään",   "fr":"volontiers",  "ko": "기꺼이"},

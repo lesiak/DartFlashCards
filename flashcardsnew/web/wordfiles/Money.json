@@ -28,7 +28,7 @@
 { "en": "operating loss",  "ko": "영업 손실",  "fi": "liiketappio",     "fr": "" },
 
 
-{ "en": "discount",        "fi": "alennus",          "fr": "réduction, rabais, remise",  "ko": "할인" },
+{ "en": "discount",        "fi": "alennus",          "fr": "réduction, rabais, remise",     "es": "(el) descuento",   "ko": "할인" },
 { "en": "a fine, penalty", "fi": "sakko",          "fr": "amende",  "ko": "벌금" },
 
 { "en": "accounting",      "fi": "kirjanpito",          "fr": "comptabilité", "es": "(la) contabilidad", "ko": "" },
