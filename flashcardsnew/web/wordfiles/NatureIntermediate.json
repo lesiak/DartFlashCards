@@ -19,8 +19,8 @@
 { "en": "shade",       "fi": "varjo",      "fr": "ombre" ,    "es": "(la) sombra", "ko": "그림자"},
 { "en": "cloudy",      "fi": "pilvinen",   "fr": "nuageux",    "es": "nublado",     "ko": "흐리다"},
 { "en": "storm",       "fi": "myrsky",     "fr": "orage (m), tempête (f)", "es": "(la) tormenta, (la) tempestad ", "ko": "폭풍"},
-{ "en": "lightning",   "fi": "salama",     "fr": "éclair (m)",   "ko": "번개, 벼락"},
-{ "en": "thunder (sound)",   "ko": "우레", "fi": "ukkonen",   "fr":"tonnerre (m)"},
+{ "en": "lightning",   "fi": "salama",     "fr": "éclair (m)",   "es": "(el) rayo",  "ko": "번개, 벼락"},
+{ "en": "thunder",     "fi": "ukkonen",    "fr":"tonnerre (m)",    "es": "(el) trueno",  "ko": "우레"},
 
 { "en": "to rain",       "fi": "",    "fr": "",    "es": "llover", "ko": "" },
 { "en": "to snow",      "fi": "",      "fr": "", "es": "nevar",  "ko": ""},

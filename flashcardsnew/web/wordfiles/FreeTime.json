@@ -3,6 +3,8 @@
 { "en": "pub, bar",   "fi": "baari, kapakka, pubi","fr":"bar, pub",   "es":"(el) bar",  "ko": "술집, 바"},
 { "en": "cafe",       "fi": "kahvila",      "fr":"café",        "es":"(el) café",   "ko": ""},
 { "en": "cheers (!)", "fi": "kippis",       "fr":"santé",       "es":"salud",       "ko": ""},
+{ "en": "drunk", "fi": "",       "fr":"",       "es":"borracho",       "ko": ""},
+{ "en": "drunk", "fi": "",       "fr":"",       "es":"bebido",       "ko": ""},
 { "en": "to raise one's glass", "fi": "",       "fr":"",       "es":"brindar",       "ko": ""}
 
 

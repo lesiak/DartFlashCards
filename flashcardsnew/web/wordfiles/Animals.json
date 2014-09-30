@@ -47,6 +47,7 @@
 { "en": "frog",       "fi": "sammakko",   "fr": "grenouille",  "es": "(la) rana",     "ko": "개구리" },
 { "en": "puppy",      "fi": "pentu",      "fr": "chiot",       "es": "(el) cachorro", "ko": "강아지" },
 { "en": "elephant",   "fi": "norsu",      "fr": "éléphant",    "es": "(el) elefante", "ko": "코끼리" },
+{ "en": "camel",     "fi": "kameli",      "fr": "chameau",     "es": "(el) camello",  "ko": "낙타" },
 { "en": "fish",       "fi": "kala",       "fr": "poisson",     "es": "(el) pez",      "ko": "물고기" },
 
 { "en": "dolphin",    "fi": "delfiini",   "fr": "dauphin",     "es": "(el) delfín",   "ko": "돌고래" },

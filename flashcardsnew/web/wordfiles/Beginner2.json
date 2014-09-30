@@ -45,7 +45,11 @@
 { "en": "cigarette",    "fi": "savuke",   "fr": "cigarette",   "es": "(el) cigarrillo, (el) cigarro", "ko": "담배" },
 { "en": "tobacco",      "fi": "tupakka",  "fr": "tabac",       "es": "(el) tabaco",              "ko": "담배" },
 { "en": "match",        "fi": "tulitikku","fr":"allumette",    "es": "(el) cerillo, (la) cerilla","ko": "성냥"},
- 
+{ "en": "ash",          "fi": "tuhka",    "fr":"cendre",       "es": "(la) ceniza","ko": ""},
+{ "en": "ashtray",      "fi": "tuhkakuppi", "fr":"cendrier",   "es": "(el) cenicero","ko": ""},
+{ "en": "to harm",      "fi": "vahinko", "fr":"dommage",   "es": "(el) daño","ko": ""},
+{ "en": "harm",         "fi": "haittaa, vahingoittaa", "fr":"nuire, endommager",   "es": "dañar","ko": ""},
+{ "en": "smoker",         "fi": "tupakoitsija", "fr":"fumeur",   "es": "(el) fumador","ko": ""},
 
 { "en": "silver",       "fi": "hopea",    "fr": "argent",    "es": "(la) plata",   "ko": "은" }, 
 { "en": "gold",         "fi": "kulta",    "fr": "or",        "es": "(el) oro",     "ko": "금" },
