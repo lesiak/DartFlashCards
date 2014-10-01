@@ -17,7 +17,7 @@
 { "en": "question",     "fi": "kysymys, asia", "fr": "question",  "es": "(la) pregunta",  "ko": "문제" },
 { "en": "to ask",       "fi": "kysyä",         "fr": "",                     "ko": "묻다 (물어)" },
 { "en": "to ask (for)", "fi": "",              "fr": "",          "es": "pedir",           "ko": "묻다 (물어)" },
-{ "en": "answer",       "fi": "vastaus",       "fr": "réponse",   "es": "(la) respuesta",  "ko": "답변, 대답 (reply + answer)" },
+{ "en": "an answer",    "fi": "vastaus",       "fr": "réponse",   "es": "(la) respuesta",  "ko": "답변, 대답 (reply + answer)" },
 { "en": "to answer",    "fi": "vastata",       "fr": "répondre",  "es": "responder, contestar",       "ko": "답변하다, 대답하다" },
 { "en": "to reply",     "fi": "",              "fr": "",          "es": "contestar",       "ko": "" },
 { "en": "to meet (=become acquainted)",        "fi": "",   "fr": "", "es": "conocer a",  "ko": ""},

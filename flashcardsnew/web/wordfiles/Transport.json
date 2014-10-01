@@ -62,7 +62,7 @@
 { "en": "a visit",        "fi": "vierailu",    "fr": "visite",       "es": "(la) visita",   "ko": "방문" },
 { "en": "to visit",       "fi": "visiter",     "fr": "visite",       "es": "visitar",   "ko": "" },
 
-{ "en": "class",          "fi": "luokka",    "fr": "", "ko": "등" },
+{ "en": "class",          "fi": "luokka",    "fr": "", "es": "(la) clase", "ko": "등" },
 { "en": "line",           "fi": "linja",     "fr": "ligne","ko": "호선" },
 { "en": "route",          "fi": "reitti",    "fr": "itinéraire, route","ko": "노선" },
 { "en": "license plate",  "fi": "rekisterikilpi",    "fr": "plaque d'immatriculation", "es": "(la) matrícula, (la) placa",  "ko": "번호판" },
@@ -91,7 +91,7 @@
 { "en": "passenger",       "fi": "matkustaja",       "fr": "passager",            "es": "(el) pasajero",    "ko": "승객"  },
 { "en": "timetable",       "fi": "aikataulu",        "fr": "horaire",             "es": "(el) horario",     "ko": "" },
 { "en": "rush hour",       "fi": "ruuhka-aika, tungosaika",        "fr": "l'heure de pointe",             "es": "(la) hora punta",     "ko": "" },
-{ "en": "traffic",         "fi": "liikenne" ,        "fr":"circulation",  "ko": "교통"},
+{ "en": "traffic",         "fi": "liikenne" ,        "fr":"circulation",  "es": "(el) tráfico",  "ko": "교통"},
 { "en": "to commute",      "fi": "käydä töissä",     "fr": "",                    "es": "viajar diariamente al trabajo", "ko": "통근하다" },
 { "en": "to change, to transfer to another vehicle",   "fi": "vaihtaa",    "fr": "changer", "es": "transbordar", "ko": "갈아타다" },
 { "en": "to park",         "fi": "",    "fr": "garer", "es": "aparcar", "ko": "" }

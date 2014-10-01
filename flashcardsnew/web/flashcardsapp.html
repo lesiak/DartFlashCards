@@ -102,10 +102,7 @@
               <p>                        
                   <button id="startButton" 
                           on-click="{{startPanel}}" 
-                          class="btn btn-lg btn-info">Start</button>
-                  <button id="clearResultsButton" 
-                          on-click="{{clearDeckResults}}" 
-                          class="btn btn-lg btn-info">Clear results</button>
+                          class="btn btn-lg btn-info">Start</button>                  
                   <button id="fetchPronoButton" 
                           on-click="{{fetchPronunciations}}"                            
                           class="btn btn-lg btn-info">Fetch Pronunciation</button>
@@ -129,7 +126,7 @@
                       primaryLang="{{primaryLang}}"
                       secondaryLang="{{secondaryLang}}"
                       thirdLang="{{thirdLang}}"></words-table>
-              </template>
+              </template>               
             </div><!-- deckDetailsDiv -->
           </div><!-- col-md-9 -->
         </div><!--welcomePageDiv-->
@@ -182,10 +179,17 @@
           </label>
         </div>
       </form>
-      <button on-click="{{updateOptions}}"                            
-        class="btn btn-info">Update</button>
-      <button on-click="{{hideOptions}}"                            
-        class="btn btn-link">Cancel</button>            
+      <p>
+        <button on-click="{{updateOptions}}"                            
+          class="btn btn-info">Update</button>
+        <button on-click="{{hideOptions}}"                            
+          class="btn btn-link">Cancel</button>
+      <p>
+      <p>                                          
+        <button id="clearResultsButton" 
+                on-click="{{clearDeckResults}}" 
+                class="btn btn-info">Clear results</button>                  
+      </p>            
     </div>       
   </div>
   <div id="optionsBacksplashPart" style="opacity: 1; display: none"></div>

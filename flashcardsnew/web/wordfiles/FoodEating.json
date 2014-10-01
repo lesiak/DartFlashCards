@@ -1,0 +1,44 @@
+[
+
+{ "en": "to eat",       "fi": "syödä",     "fr": "manger",         "es": "comer",       "ko": "먹다" },
+{ "en": "to drink",     "fi": "juoda",     "fr": "boire",          "es": "beber",       "ko": "마시다" },
+
+{ "en": "food",         "fi": "ruoka",     "fr": "nourritures",    "es": "(la) comida", "ko": "음식" },
+{ "en": "I am hungry",       "ko": "배고파요",         "fi": "Minulla on nälkä",    "fr": "J'ai faim" },
+{ "en": "I am full",       "ko": "배 불러요",         "fi": "",    "fr": "" },
+{ "en": "to be full",       "ko": "배 부르다",         "fi": "",    "fr": "" },
+
+{ "en": "cuisine",      "ko": "요리",       "fi": "keittiö",      "fr": "cuisine" },
+{ "en": "chef",         "ko": "요리사",     "fi": "kokki",        "fr": "chef de cuisine" },
+{ "en": "diet",         "ko": "다이어트",     "fi": "ruokavalio",        "fr": "" },
+
+{ "en": "knife",        "fi": "veitsi",     "fr": "couteau",    "es": "(el) cuchillo",              "ko": "칼" },
+{ "en": "spoon",        "fi": "lusikka",    "fr": "cuillère",   "es": "(la) cuchara",  "ko": "스푼" },
+{ "en": "fork",         "fi": "haarukka",   "fr": "fourchette", "es": "(el) tenedor",                       "ko": "포크" },
+{ "en": "chopsticks",   "fi": "syömäpuikot","fr": "baguettes",  "es": "palillos",      "ko": "젓가락"},
+{ "en": "cup",          "fi": "kuppi",      "fr": "tasse",      "es": "(la) taza",     "ko": "컵" }, 
+{ "en": "plate",        "fi": "lautanen",   "fr": "assiette",   "es": "(el) plato",       "ko": "" },
+{ "en": "glass (water)","fi": "",           "fr": "",           "es": "(el) vaso",       "ko": "" },
+{ "en": "glass (vine)", "fi": "",           "fr": "",           "es": "(la) copa",       "ko": "" },
+
+{ "en": "fast food",    "fi": "pikaruoka",  "fr": "",           "es": "(la) comida rápida",   "ko": "패스트 푸드" },
+
+{ "en": "poultry",    "fi": "siipikarja",   "fr": "volaille", "es": "aves de corral",  "ko": "푸드" },
+{ "en": "turkey",     "fi": "dinde",        "fr": "volaille",      "es": "(el) pavo",  "ko": "" },
+
+{ "en": "meal",          "fi": "ateria",   "fr": "repas",    "ko": "식사" },
+{ "en": "a dish",        "fi": "ruokalaji","fr": "plat",     "es": "(el) plato", "ko": "" },
+{ "en": "starter",       "fi": "alkuruoka","fr": "entrée",   "es": "(el) entrante", "ko": "" },
+{ "en": "main course",    "fi": "pääruoka","fr": "plat principal",  "es": "(el) plato principal", "ko": "" },
+{ "en": "dessert",       "fi": "jälkiruoka","fr": "dessert",  "es": "(el) postre", "ko": "디저트, 후식" },
+{ "en": "snack",         "ko": "간식 (between + meal)",       "fi": "välipala, pientä purtavaa",    "fr": "casse-croûte" },
+
+{ "en": "restaurant",   "fi": "ravintola",    "fr": "restaurant",          "es": "(el) restaurante",   "ko": "" },
+{ "en": "to eat out",   "fi": "syödä ulkona", "fr": "aller au restaurant", "es": "comer fuera",   "ko": "" },
+{ "en": "menu",         "fi": "ruokalista",   "fr": "carte",               "es": "(la) carta",   "ko": "" },
+{ "en": "to order",     "fi": "tilata",       "fr": "",                    "es": "pedir",   "ko": "" },
+{ "en": "a tip (money)","fi": "",       "fr": "",                          "es": "(la) propina",   "ko": "" },
+{ "en": "bill",         "fi": "lasku",        "fr": "addition",            "es": "(la) cuenta",   "ko": "" }
+
+
+]

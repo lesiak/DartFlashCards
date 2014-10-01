@@ -6,8 +6,8 @@
 { "en": "bell",        "fi": "kello, tiuku (small)",   "fr":"cloche (f)",  "ko": "종, 벨"},
 { "en": "lighthouse",  "fi": "majakka",   "fr":"phare","es":"(el) faro",  "ko": "등대"},
 
-{ "en": "chain",   "ko": "",    "fi": "ketju",   "fr":"chaîne"},
-
+{ "en": "chain",       "fi": "ketju",   "fr":"chaîne",  "ko": ""},
+{ "en": "rope",       "fi": "köysi",   "fr":"",  "es":"(la) cuerda, (la) soga",    "ko": ""},
 
 { "en": "item",       "ko": "",        "fi": "erä",      "fr":"article"},
 { "en": "treasure",   "fi": "aarre",   "fr":"trésor",     "es":"(el) tesoro", "ko": "보물"},
@@ -27,4 +27,5 @@
 
 
 ]
+        
         

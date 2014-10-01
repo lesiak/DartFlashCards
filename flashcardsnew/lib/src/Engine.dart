@@ -5,7 +5,7 @@ typedef void DataLoadedCallback();
 
 class Engine {
     
-  List<Card> allCardsInDeck;
+  List<Card> allCardsInDeck = [];
     
   Engine() {}  
   
@@ -17,7 +17,7 @@ class Engine {
         });
   }   
            
-  void clearDeckResults(String lang) {
+  void clearDeckResults(String lang) {    
     ResultStore.clearScores(allCardsInDeck, lang);    
   }    
   
