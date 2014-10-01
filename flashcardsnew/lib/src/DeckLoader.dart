@@ -14,7 +14,7 @@ class DeckLoader {
   }
   
   static Card _entryToCard(var entry) {
-    return new Card(entry["en"], entry["es"], entry["fi"], entry["fr"], entry["hu"], entry["ko"]);
+    return new Card(entry["en"], entry["es"], entry["fi"], entry["fr"], entry["da"], entry["hu"], entry["ko"]);
   }
     
 }

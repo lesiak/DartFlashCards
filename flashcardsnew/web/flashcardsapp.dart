@@ -85,7 +85,7 @@ class FlashCardsApp extends PolymerElement {
   
   static List<String> langs = ["ko", "fi", "es"];
   
-  static List<String> all_langs = ["en", "ko", "fi", "fr", "hu", "es"];
+  static List<String> all_langs = ["en", "ko", "fi", "fr", "hu", "es", "da"];
   
   static Map<String, String> flagsPaths = {"ko": "resources/svgFlags/Flag_of_Republic_of_Korea.svg", 
                                       "fi": "resources/svgFlags/Flag_of_Finland_1920-1978_(State).svg",
@@ -326,12 +326,12 @@ class FlashCardsApp extends PolymerElement {
   }
   
   void updateOptions() {
-    var option1Element = $['optionsRadios1'];
+    var optionsRadiosFiDaFr = $['optionsRadiosFiDaFr'];
     var option2Element = $['optionsRadios2'];
     var optionsRadiosFiKoEs = $['optionsRadiosFiKoEs'];    
     var optionsRadiosFiEsFr = $['optionsRadiosFiEsFr'];
-    if (option1Element.checked) {
-      langs = ["fi","ko","fr"];       
+    if (optionsRadiosFiDaFr.checked) {
+      langs = ["fi","da","fr"];       
     } else if (option2Element.checked) {
       langs = ["ko","fi","hu"];      
     } else if (optionsRadiosFiKoEs.checked ){

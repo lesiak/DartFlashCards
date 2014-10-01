@@ -21,7 +21,7 @@ class LearingPanelElement extends PolymerElement {
   
   @published String thirdLang;  
   
-  @observable Card card = new Card("", "", "", "", "", "");
+  @observable Card card = new Card.empty();
   
   @observable bool responsesVisible = false;
   
