@@ -6,3 +6,6 @@ dependencies:
 transformers:
 - polymer:
     entry_points: web/flashcardsnew.html
+    inline_stylesheets:
+      web/resources/bootstrap-3.1.1-dist/css/bootstrap.css: false
+      web/resources/flashcardsnew.css: false

@@ -326,12 +326,12 @@ class FlashCardsApp extends PolymerElement {
   }
   
   void updateOptions() {
-    var optionsRadiosFiDaFr = $['optionsRadiosFiDaFr'];
+    var optionsRadiosFiDaEs = $['optionsRadiosFiDaEs'];
     var option2Element = $['optionsRadios2'];
     var optionsRadiosFiKoEs = $['optionsRadiosFiKoEs'];    
     var optionsRadiosFiEsFr = $['optionsRadiosFiEsFr'];
-    if (optionsRadiosFiDaFr.checked) {
-      langs = ["fi","da","fr"];       
+    if (optionsRadiosFiDaEs.checked) {
+      langs = ["fi","da","es"];       
     } else if (option2Element.checked) {
       langs = ["ko","fi","hu"];      
     } else if (optionsRadiosFiKoEs.checked ){
