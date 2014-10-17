@@ -325,20 +325,19 @@ class FlashCardsApp extends PolymerElement {
     $['optionsBacksplashPart'].style.opacity= "1";
   }
   
-  void updateOptions() {
-    var optionsRadiosFiDaEs = $['optionsRadiosFiDaEs'];
-    var option2Element = $['optionsRadios2'];
-    var optionsRadiosFiKoEs = $['optionsRadiosFiKoEs'];    
-    var optionsRadiosFiEsFr = $['optionsRadiosFiEsFr'];
-    if (optionsRadiosFiDaEs.checked) {
+  void updateOptions() {   
+    var optionsLangs = $['optionsLangs'];
+    var selectedLangs = optionsLangs.selected;
+    if (selectedLangs == 'optionsRadiosFiDaEs') {
       langs = ["fi","da","es"];       
-    } else if (option2Element.checked) {
+    } else if (selectedLangs == 'optionsRadios2') {
       langs = ["ko","fi","hu"];      
-    } else if (optionsRadiosFiKoEs.checked ){
+    } else if (selectedLangs == 'optionsRadiosFiKoEs'){
       langs = ["fi","ko","es"];      
     } else {
       langs = ["fi","es","fr"];
     }
+    
     primaryLang = langs[0];
     secondaryLang = langs[1];
     thirdLang = langs[2];

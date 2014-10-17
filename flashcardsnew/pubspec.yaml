@@ -2,6 +2,7 @@ name: flashcardsnew
 description: A sample Polymer application
 dependencies:
   polymer: any
+  paper_elements: any
   unittest: any
 transformers:
 - polymer:
@@ -9,3 +10,4 @@ transformers:
     inline_stylesheets:
       web/resources/bootstrap-3.1.1-dist/css/bootstrap.css: false
       web/resources/flashcardsnew.css: false
+    csp: true

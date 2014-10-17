@@ -6,7 +6,9 @@
 <link rel="import" href="learning_panel.html">
 <link rel="import" href="dictionary_panel.html">
 <link rel="import" href="progress_bar.html">
-
+<link rel="import" href="packages/paper_elements/paper_radio_group.html">
+<link rel="import" href="packages/paper_elements/paper_button.html">
+<link rel="import" href="packages/core_elements/core_icons.html">
 <polymer-element name="flashcards-app">
   <template>
   <link rel="stylesheet" href="resources/bootstrap-3.1.1-dist/css/bootstrap.css" >
@@ -53,6 +55,27 @@
       .formContainer {
         padding: 15px;
       }
+      
+    paper-button.colored {
+      color: #4285f4;
+    }
+
+    paper-button[raised].colored {
+      background: #4285f4;
+      color: #fff;
+    }
+
+    paper-button.custom > core-icon {
+      margin-right: 4px;
+    }
+
+    paper-button.hover:hover {
+      background: #eee;
+    }
+
+    paper-button.blue-ripple::shadow #ripple {
+      color: #4285f4;
+    }
             
     </style>    
   <div class="container"><!-- container centers page content -->
@@ -83,9 +106,9 @@
           <decks-table items={{items}} on-decknameclicked="{{deckNameChanged1}}"></decks-table>
         </div> <!-- word Files div AAA -->
         <div class="col-sm-9 col-xs-12">
-          <div id="deckDetailsDiv" hidden>
+          <div id="deckDetailsDiv" hidden>            
             <h3>Summary</h3>
-            <div class="row">
+            <div class="row">              
               <div class="col-sm-3">
                 <deck-summary 
                    cards="{{cards}}"
@@ -154,7 +177,13 @@
     <div name="editSubscription" class="formContainer"> 
       <h1>Options</h1>
       <form class="form" role="form">
-        <div class="radio">
+         <paper-radio-group id="optionsLangs" class="blue" selected="optionsRadiosFiDaEs">
+          <paper-radio-button name="optionsRadiosFiDaEs" label="Fi, Da, Es"></paper-radio-button><br>
+          <paper-radio-button name="optionsRadios2" label="Ko, Fi, Hu"></paper-radio-button><br>
+          <paper-radio-button name="optionsRadiosFiKoEs" label="Fi, Ko, Es"></paper-radio-button><br>
+          <paper-radio-button name="optionsRadiosFiEsFr" label="Fi, Es, Fr"></paper-radio-button>
+        </paper-radio-group>
+    <!--    <div class="radio">
           <label>
             <input type="radio" name="optionsRadios" id="optionsRadiosFiDaEs" value="option1" >
             Fi, Da, Es
@@ -177,9 +206,15 @@
             <input type="radio" name="optionsRadios" id="optionsRadiosFiEsFr" value="option3">
             Fi, Es, Fr
           </label>
-        </div>
+        </div> -->
       </form>
       <p>
+        <paper-button icon="check" class="colored custom" role="button" tabindex="0">
+ok
+</paper-button>
+<paper-button icon="check" class="colored custom" role="button" tabindex="0">
+ok
+</paper-button>
         <button on-click="{{updateOptions}}"                            
           class="btn btn-info">Update</button>
         <button on-click="{{hideOptions}}"                            

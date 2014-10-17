@@ -1,11 +1,13 @@
 <link rel="import" href="packages/polymer/polymer.html">
+<link rel="import" href="packages/paper_elements/paper_shadow.html">
 <polymer-element name="learning-panel">
   <template>
   <link rel="stylesheet" href="resources/bootstrap-3.1.1-dist/css/bootstrap.css" >
-  <link rel="stylesheet" href="resources/flashcardsnew.css">  
+  <link rel="stylesheet" href="resources/flashcardsnew.css">   
     <div class="row ">     
         <div class="col-md-12">
           <div id="flashcardQuestion" class="flashcard-question">
+            <paper-shadow z="1"></paper-shadow>
             <h1 id="en" class="flashcardQuestionH"><strong>{{card.en}}</strong></h1>    
             <div id="enPro" class="btn-toolbar">
             <!-- do not collapse-->
@@ -41,6 +43,7 @@
     <div class="row show-grid">
       <div  class="col-md-12">
         <div id="answerprimary" class="flashcardAnswer">
+          <paper-shadow z="2"></paper-shadow>
           <h1 id="ko">
             <template if="{{ responsesVisible }}">
               {{answerPrimary}}
@@ -55,6 +58,7 @@
     <div class="row show-grid">
       <div class="col-md-6 divAnswerLeft">
         <div class="flashcardAnswer">
+          <paper-shadow z="2"></paper-shadow>
           <h1 id="fi">
             <template if="{{ responsesVisible }}">
               {{answerSecondary}}
@@ -68,6 +72,7 @@
       </div>
       <div class="col-md-6 divAnswerRight">
         <div class="flashcardAnswer">
+          <paper-shadow z="2"></paper-shadow>
           <h1 id="fr" >
             <template if="{{ responsesVisible }}">
                {{answerThird}}
