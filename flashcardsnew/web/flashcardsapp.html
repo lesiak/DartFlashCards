@@ -8,6 +8,7 @@
 <link rel="import" href="progress_bar.html">
 <link rel="import" href="packages/paper_elements/paper_radio_group.html">
 <link rel="import" href="packages/paper_elements/paper_button.html">
+<link rel="import" href="packages/core_elements/core_icon.html">
 <link rel="import" href="packages/core_elements/core_icons.html">
 <link rel="import" href="packages/core_elements/core_animated_pages.html">
 <link rel="import" href="packages/core_elements/core_animation.html">
@@ -182,9 +183,15 @@
         </paper-radio-group>    
       </form>
       <p>
-        <paper-button icon="check" class="custom colored" role="button" on-click="{{updateOptions}}" tabindex="0">ok</paper-button>
-        <paper-button icon="clear" class="custom" role="button" on-click="{{hideOptions}}" tabindex="0">Cancel</paper-button>        
-      <p>
+        <paper-button class="colored custom" on-click="{{updateOptions}}">
+          <core-icon icon="check"></core-icon>
+          ok
+        </paper-button>
+        <paper-button class="custom" on-click="{{hideOptions}}">
+          <core-icon icon="clear"></core-icon>
+          Cancel
+        </paper-button>               
+      </p>
       <p>                                          
         <button id="clearResultsButton" 
                 on-click="{{clearDeckResults}}" 
