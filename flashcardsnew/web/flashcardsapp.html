@@ -9,6 +9,8 @@
 <link rel="import" href="packages/paper_elements/paper_radio_group.html">
 <link rel="import" href="packages/paper_elements/paper_button.html">
 <link rel="import" href="packages/core_elements/core_icons.html">
+<link rel="import" href="packages/core_elements/core_animated_pages.html">
+<link rel="import" href="packages/core_elements/core_animation.html">
 <polymer-element name="flashcards-app">
   <template>
   <link rel="stylesheet" href="resources/bootstrap-3.1.1-dist/css/bootstrap.css" >
@@ -146,13 +148,24 @@
             thirdLang="{{thirdLang}}"
             fileCache="{{fileCache}}">
         </learning-panel>
-        <dictionary-panel hidden="true" 
-            id="dictionaryPanel"
-            primaryLang="{{primaryLang}}"
-            secondaryLang="{{secondaryLang}}"
-            thirdLang="{{thirdLang}}"
-            deckNames="{{allDeckNames}}">
-        </dictionary-panel>            
+        <core-animated-pages selected="1" id="dicPages" transitions="cross-fade">
+          <section id="dictionarySection">
+            <div id="div1" cross-fade>
+              <dictionary-panel 
+                id="dictionaryPanel"
+                primaryLang="{{primaryLang}}"
+                secondaryLang="{{secondaryLang}}"
+                thirdLang="{{thirdLang}}"
+                deckNames="{{allDeckNames}}">
+              </dictionary-panel>
+            </div>
+          </section>
+          <section id="pageDictionaryHidden">
+            <div id="div2" cross-fade>
+      
+            </div>
+          </section>
+        </core-animated-pages>              
     </div> <!-- pageContentDiv -->             
        
   </div> <!-- container -->

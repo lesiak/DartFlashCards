@@ -214,14 +214,16 @@ class FlashCardsApp extends PolymerElement {
   void showHomePanel() {
     $['welcomePageDiv'].hidden = false;
     $['learningPanel'].hidden = true;
-    $['dictionaryPanel'].hidden = true;
+    //$['dictionaryPanel'].hidden = true;
+    $['dicPages'].selected = 1;
   
   }
   
   void showDictionary() {    
     $['welcomePageDiv'].hidden = true;
     $['learningPanel'].hidden = true;
-    $['dictionaryPanel'].hidden = false;
+    //$['dictionaryPanel'].hidden = false;
+    $['dicPages'].selected = 0;
   }
   
  // void showCurrentQuestion() {
