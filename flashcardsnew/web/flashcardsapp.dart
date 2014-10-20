@@ -205,25 +205,26 @@ class FlashCardsApp extends PolymerElement {
   }
   
   void showLearningPanel() {
-    $['welcomePageDiv'].hidden = true;    
+    //$['welcomePageDiv'].hidden = true;    
     var learningPanel = $['learningPanel'];    
-    learningPanel.hidden = false;
-    learningPanel.startPanel(); 
+    //learningPanel.hidden = false;
+    learningPanel.startPanel();
+    $['dicPages'].selected = 2;
   }
 
   void showHomePanel() {
-    $['welcomePageDiv'].hidden = false;
-    $['learningPanel'].hidden = true;
+    //$['welcomePageDiv'].hidden = false;
+    //$['learningPanel'].hidden = true;
     //$['dictionaryPanel'].hidden = true;
-    $['dicPages'].selected = 1;
+    $['dicPages'].selected = 0;
   
   }
   
   void showDictionary() {    
-    $['welcomePageDiv'].hidden = true;
-    $['learningPanel'].hidden = true;
+    //$['welcomePageDiv'].hidden = true;
+    //$['learningPanel'].hidden = true;
     //$['dictionaryPanel'].hidden = false;
-    $['dicPages'].selected = 0;
+    $['dicPages'].selected = 1;
   }
   
  // void showCurrentQuestion() {

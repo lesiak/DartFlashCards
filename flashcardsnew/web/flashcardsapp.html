@@ -76,96 +76,97 @@
     </div>
     
     <div id="pageContentDiv" >
-      <div id="welcomePageDiv" class="row">
-        <div id="wordFilesDiv" class="col-sm-3 col-xs-12">             
-          <ul class="nav nav-tabs">
-            <li class="active">
-              <a id="level1Tab" on-click="{{level1Clicked}}">Level 1</a>
-            </li>
-            <li>
-              <a id="level2Tab" on-click="{{level2Clicked}}">Level 2</a>
-            </li>
-          </ul>                    
-          <decks-table items={{items}} on-decknameclicked="{{deckNameChanged1}}"></decks-table>
-        </div> <!-- word Files div AAA -->
-        <div class="col-sm-9 col-xs-12">
-          <div id="deckDetailsDiv" hidden>
-            <div>                        
-              <h3>Summary</h3>
-              <div class="row">              
-                <div class="col-sm-3">
-                  <deck-summary 
-                     cards="{{cards}}"
-                     primaryLang="{{primaryLang}}"></deck-summary>                            
-                 </div>
-                  <div class="col-sm-3 col-sm-offset-2">
-                    <img id="imgFlag"
-                         on-click="{{flagClicked}}" 
-                         _src="{{flagPath}}" 
-                        width="200px"
-                        style="border-style:solid;border-width:1px;">
-                  </div>
-                </div>
-              
-              <p>                        
-                  <button id="startButton" 
-                          on-click="{{startPanel}}" 
-                          class="btn btn-lg btn-info">Start</button>                  
-                  <button id="fetchPronoButton" 
-                          on-click="{{fetchPronunciations}}"                            
-                          class="btn btn-lg btn-info">Fetch Pronunciation</button>
-              </p>
-               </div>     
-              <template id="progressDivTmpl" bind if="{{ showProgress }}">
-                <progress-bar total="{{total}}" currentSucc="{{currentSucc}}" currentFail="{{currentFail}}"></progress-bar>                            
-              </template>
-              <template bind if="{{ !learningList.isEmpty }}">
-                <h3>Review</h3>              
-                <review-table id="wordsTableToLearn" 
-                      cards="{{learningList}}"
-                      primaryLang="{{primaryLang}}"
-                      secondaryLang="{{secondaryLang}}"
-                      thirdLang="{{thirdLang}}"></review-table>
-              </template>
-              <template bind if="{{ !notInLearningList.isEmpty }}">
-                <h3>Completed</h3>
-                <words-table id="wordsTable" 
-                      cards="{{notInLearningList}}"
-                      primaryLang="{{primaryLang}}"
-                      secondaryLang="{{secondaryLang}}"
-                      thirdLang="{{thirdLang}}"></words-table>
-              </template>               
-            </div><!-- deckDetailsDiv -->
-          </div><!-- col-md-9 -->
-        </div><!--welcomePageDiv-->
-     
-        <learning-panel hidden="true" 
-            id="learningPanel" 
-            on-deck-finished="{{goToHomePanel}}" 
-            cards="{{cards}}"
-            primaryLang="{{primaryLang}}"
-            secondaryLang="{{secondaryLang}}"
-            thirdLang="{{thirdLang}}"
-            fileCache="{{fileCache}}">
-        </learning-panel>
-        <core-animated-pages selected="1" id="dicPages" transitions="cross-fade">
-          <section id="dictionarySection">
-            <div id="div1" cross-fade>
-              <dictionary-panel 
-                id="dictionaryPanel"
+      <core-animated-pages selected="0" id="dicPages" transitions="cross-fade">
+        <section id="homeSection">
+          <div cross-fade>
+            <div id="welcomePageDiv" class="row">
+              <div id="wordFilesDiv" class="col-sm-3 col-xs-12">             
+                <ul class="nav nav-tabs">
+                  <li class="active">
+                    <a id="level1Tab" on-click="{{level1Clicked}}">Level 1</a>
+                  </li>
+                  <li>
+                    <a id="level2Tab" on-click="{{level2Clicked}}">Level 2</a>
+                  </li>
+                </ul>                    
+                <decks-table items={{items}} on-decknameclicked="{{deckNameChanged1}}"></decks-table>
+              </div> <!-- word Files div AAA -->
+              <div class="col-sm-9 col-xs-12">
+                <div id="deckDetailsDiv" hidden>
+                  <div>                        
+                    <h3>Summary</h3>
+                    <div class="row">              
+                      <div class="col-sm-3">
+                        <deck-summary 
+                          cards="{{cards}}"
+                          primaryLang="{{primaryLang}}"></deck-summary>                            
+                      </div>
+                      <div class="col-sm-3 col-sm-offset-2">
+                        <img id="imgFlag"
+                            on-click="{{flagClicked}}" 
+                            _src="{{flagPath}}" 
+                            width="200px"
+                            style="border-style:solid;border-width:1px;">
+                      </div>
+                    </div>                
+                    <p>                        
+                      <button id="startButton" 
+                              on-click="{{startPanel}}" 
+                              class="btn btn-lg btn-info">Start</button>                  
+                      <button id="fetchPronoButton" 
+                             on-click="{{fetchPronunciations}}"                            
+                             class="btn btn-lg btn-info">Fetch Pronunciation</button>
+                    </p>
+                  </div>     
+                  <template id="progressDivTmpl" bind if="{{ showProgress }}">
+                    <progress-bar total="{{total}}" currentSucc="{{currentSucc}}" currentFail="{{currentFail}}"></progress-bar>                            
+                  </template>
+                  <template bind if="{{ !learningList.isEmpty }}">
+                    <h3>Review</h3>              
+                    <review-table id="wordsTableToLearn" 
+                          cards="{{learningList}}"
+                          primaryLang="{{primaryLang}}"
+                          secondaryLang="{{secondaryLang}}"
+                           thirdLang="{{thirdLang}}"></review-table>
+                  </template>
+                  <template bind if="{{ !notInLearningList.isEmpty }}">
+                    <h3>Completed</h3>
+                    <words-table id="wordsTable" 
+                          cards="{{notInLearningList}}"
+                          primaryLang="{{primaryLang}}"
+                          secondaryLang="{{secondaryLang}}"
+                          thirdLang="{{thirdLang}}"></words-table>
+                  </template>               
+                </div><!-- deckDetailsDiv -->
+              </div><!-- col-md-9 -->
+            </div><!--welcomePageDiv-->                
+          </div>
+        </section>
+        <section id="dictionarySection">
+          <div cross-fade>
+            <dictionary-panel 
+              id="dictionaryPanel"
+              primaryLang="{{primaryLang}}"
+              secondaryLang="{{secondaryLang}}"
+              thirdLang="{{thirdLang}}"
+              deckNames="{{allDeckNames}}">
+            </dictionary-panel>
+          </div>
+        </section>        
+        <section id="learningPanelSection">
+          <div cross-fade>
+            <learning-panel
+                id="learningPanel" 
+                on-deck-finished="{{goToHomePanel}}" 
+                cards="{{cards}}"
                 primaryLang="{{primaryLang}}"
                 secondaryLang="{{secondaryLang}}"
                 thirdLang="{{thirdLang}}"
-                deckNames="{{allDeckNames}}">
-              </dictionary-panel>
-            </div>
-          </section>
-          <section id="pageDictionaryHidden">
-            <div id="div2" cross-fade>
-      
-            </div>
-          </section>
-        </core-animated-pages>              
+                fileCache="{{fileCache}}">
+            </learning-panel>
+          </div>
+        </section>
+      </core-animated-pages>              
     </div> <!-- pageContentDiv -->             
        
   </div> <!-- container -->
