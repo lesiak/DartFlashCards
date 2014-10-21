@@ -86,13 +86,6 @@ class FlashCardsApp extends PolymerElement {
   
   static List<String> all_langs = ["en", "ko", "fi", "fr", "hu", "es", "da"];
   
-  static Map<String, String> flagsPaths = {"ko": "resources/svgFlags/Flag_of_Republic_of_Korea.svg", 
-                                      "fi": "resources/svgFlags/Flag_of_Finland_1920-1978_(State).svg",
-                                      "hu": "resources/svgFlags/Civil_Ensign_of_Hungary.svg",
-                                      "fr": "resources/svgFlags/Flag_of_France.svg",
-                                      "es": "resources/svgFlags/Flag_of_Spain.svg",
-                                      "da": "resources/svgFlags/Flag_of_Denmark.svg"};
-  
   @observable List<String> items;
   
   @observable String primaryLang;
@@ -101,9 +94,7 @@ class FlashCardsApp extends PolymerElement {
   @observable String secondaryLang;
   
   @observable String thirdLang;
-  
-  @observable String flagPath;  
-  
+    
   @observable FileCache fileCache;
   
   PronounciationManager pronounciationManager;                                    
@@ -208,11 +199,6 @@ class FlashCardsApp extends PolymerElement {
     $['dicPages'].selected = 1;
   }
   
- // void showCurrentQuestion() {
-   // Card card = engine.currentCard;
-    //ui.showQuestion(card);    
- // }
-  
   void fetchPronunciations() {
     var pronoDownloadPanel = $['pronoDownloadPanel'];       
     pronoDownloadPanel.fetchPronunciations(pronounciationManager, engine.allCardsInDeck, all_langs);
@@ -220,15 +206,12 @@ class FlashCardsApp extends PolymerElement {
   
   void goToHomePanel() {
     print('show home');
-   // engine.initLearningList();
-   // ui.showHomePanel();
     showHomePanel();
     
     //to enforce update event in word table
     cards.clear();
     showDeckData();
     
-  //  showDeckData();
   }
   
   void level1Clicked(Event e, var detail, Element target) {
@@ -251,12 +234,7 @@ class FlashCardsApp extends PolymerElement {
     window.localStorage['primaryLang'] = primaryLang;
     showDeckData();
   }
-  
-  void primaryLangChanged() {
-    flagPath = flagsPaths[primaryLang];   
-  }
-  
-  
+    
   void showOptions() {        
     $['optionsDialogFramePart'].style.transform= "translate(300%, 0)";
     $['optionsBacksplashPart'].style.display= "block";

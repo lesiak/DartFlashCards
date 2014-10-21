@@ -4,6 +4,7 @@
 <link rel="import" href="deck_summary.html">
 <link rel="import" href="decks_table.html">
 <link rel="import" href="learning_panel.html">
+<link rel="import" href="flag_panel.html">
 <link rel="import" href="dictionary_panel.html">
 <link rel="import" href="progress_bar.html">
 <link rel="import" href="prono_download_panel.html">
@@ -104,11 +105,10 @@
                           primaryLang="{{primaryLang}}"></deck-summary>                            
                       </div>
                       <div class="col-sm-3 col-sm-offset-2">
-                        <img id="imgFlag"
-                            on-click="{{flagClicked}}" 
-                            _src="{{flagPath}}" 
-                            width="200px"
-                            style="border-style:solid;border-width:1px;">
+                        <flag-panel 
+                          primaryLang="{{primaryLang}}"  
+                          on-click="{{flagClicked}}">
+                        </flag-panel>                       
                       </div>
                     </div>                
                     <p>                        
