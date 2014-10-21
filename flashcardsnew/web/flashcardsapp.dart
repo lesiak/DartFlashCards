@@ -7,7 +7,6 @@ import 'package:flashcardsnew/filecache_api.dart';
 import 'package:flashcardsnew/flashcards_core.dart';
 import 'package:flashcardsnew/forvo_api.dart';
 
-
 /**
  * A Polymer click counter element.
  */
@@ -103,15 +102,7 @@ class FlashCardsApp extends PolymerElement {
   
   @observable String thirdLang;
   
-  @observable String flagPath;
-  
-  @observable int total;
-  
-  @observable int currentSucc;
-  
-  @observable int currentFail;
-  
-  @observable bool showProgress = false;  
+  @observable String flagPath;  
   
   @observable FileCache fileCache;
   
@@ -159,9 +150,6 @@ class FlashCardsApp extends PolymerElement {
   }
   
   
- 
- 
-  
   void deckNameChanged1(Event e, var deckName, Node target) { 
     loadWordTable(deckName+".json");
   }
@@ -205,26 +193,18 @@ class FlashCardsApp extends PolymerElement {
     showLearningPanel();
   }
   
-  void showLearningPanel() {
-    //$['welcomePageDiv'].hidden = true;    
-    var learningPanel = $['learningPanel'];    
-    //learningPanel.hidden = false;
+  void showLearningPanel() {       
+    var learningPanel = $['learningPanel'];        
     learningPanel.startPanel();
     $['dicPages'].selected = 2;
   }
 
   void showHomePanel() {
-    //$['welcomePageDiv'].hidden = false;
-    //$['learningPanel'].hidden = true;
-    //$['dictionaryPanel'].hidden = true;
     $['dicPages'].selected = 0;
   
   }
   
   void showDictionary() {    
-    //$['welcomePageDiv'].hidden = true;
-    //$['learningPanel'].hidden = true;
-    //$['dictionaryPanel'].hidden = false;
     $['dicPages'].selected = 1;
   }
   
@@ -234,49 +214,9 @@ class FlashCardsApp extends PolymerElement {
  // }
   
   void fetchPronunciations() {
-    initProgress(engine.allCardsInDeck.length * all_langs.length);    
-    for (Card card in engine.allCardsInDeck) {
-      for (String lang in all_langs) {
-        pronounciationManager.fetchMissingPronunciations(lang, CardUtils.sanitizeWord(lang, card.getValueForLang(lang)), step);        
-      }                  
-    }    
+    var pronoDownloadPanel = $['pronoDownloadPanel'];       
+    pronoDownloadPanel.fetchPronunciations(pronounciationManager, engine.allCardsInDeck, all_langs);
   }
-  
-  void initProgress(int pTotal) {
-    this.total = pTotal;
-    currentSucc = 0; 
-    currentFail = 0;
-    showProgress = true; 
-    //Observable.dirtyCheck();
-  }
-  
-  void step(bool success) {
-    
-      if (success) {
-        currentSucc = currentSucc + 1;
-        /*scheduleMicrotask(() {
-         
-          });*/
-              
-      } else {
-        currentFail = currentFail + 1;
-        /*scheduleMicrotask(() {
-          
-          });*/
-              
-      }                
-      
-      if ((currentSucc + currentFail) == total) {
-        showProgress = false;
-      }  
-    
-        
-  }
-  
-  void step1() {
-    
-  }
- 
   
   void goToHomePanel() {
     print('show home');

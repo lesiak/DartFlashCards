@@ -6,6 +6,7 @@
 <link rel="import" href="learning_panel.html">
 <link rel="import" href="dictionary_panel.html">
 <link rel="import" href="progress_bar.html">
+<link rel="import" href="prono_download_panel.html">
 <link rel="import" href="packages/paper_elements/paper_radio_group.html">
 <link rel="import" href="packages/paper_elements/paper_button.html">
 <link rel="import" href="packages/core_elements/core_icon.html">
@@ -118,10 +119,10 @@
                              on-click="{{fetchPronunciations}}"                            
                              class="btn btn-lg btn-info">Fetch Pronunciation</button>
                     </p>
-                  </div>     
-                  <template id="progressDivTmpl" bind if="{{ showProgress }}">
-                    <progress-bar total="{{total}}" currentSucc="{{currentSucc}}" currentFail="{{currentFail}}"></progress-bar>                            
-                  </template>
+                  </div>
+                    <prono-download-panel 
+                      id="pronoDownloadPanel">
+                    </prono-download-panel>                       
                   <template bind if="{{ !learningList.isEmpty }}">
                     <h3>Review</h3>              
                     <review-table id="wordsTableToLearn" 

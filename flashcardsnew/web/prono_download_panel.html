@@ -1,0 +1,16 @@
+<link rel="import" href="packages/polymer/polymer.html">
+<link rel="import" href="deck_summary.html">
+<link rel="import" href="progress_bar.html">
+<link rel="import" href="words_table.html">
+<link rel="import" href="words_table_review.html">
+
+<polymer-element name="prono-download-panel">
+  <template>
+  <link rel="stylesheet" href="resources/bootstrap-3.1.1-dist/css/bootstrap.css" >
+  <link rel="stylesheet" href="resources/flashcardsnew.css">
+    <template id="progressDivTmpl" bind if="{{ showProgress }}">
+      <progress-bar total="{{total}}" currentSucc="{{currentSucc}}" currentFail="{{currentFail}}"></progress-bar>                            
+    </template>
+  </template>
+  <script type="application/dart" src="prono_download_panel.dart"></script>
+</polymer-element>
