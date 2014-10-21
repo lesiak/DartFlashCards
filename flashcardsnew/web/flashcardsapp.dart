@@ -141,7 +141,7 @@ class FlashCardsApp extends PolymerElement {
   }
   
   
-  void deckNameChanged1(Event e, var deckName, Node target) { 
+  void deckNameChangeHandler(Event e, var deckName, Node target) { 
     loadWordTable(deckName+".json");
   }
   
