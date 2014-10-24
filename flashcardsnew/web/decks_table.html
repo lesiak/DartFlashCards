@@ -1,28 +1,55 @@
 <!DOCTYPE html>
 <link rel="import" href="packages/polymer/polymer.html">
+<link rel="import" href="packages/core_elements/core_menu.html">
+<link rel="import" href="packages/paper_elements/paper_item.html">
+
 <polymer-element name="decks-table">
   <template>
   <link rel="stylesheet" href="resources/bootstrap-3.1.1-dist/css/bootstrap.css" >
   <link rel="stylesheet" href="resources/flashcardsnew.css">
     <style>
       a {
-     font-weight: bold;
+        font-weight: bold;
+      }
+      
+      paper-item {
+       
+      }
+      
+      core-menu {
+        color: #01579b;
+        margin: 10px 0 0 0;
+      }
+      
+      core-menu > paper-item {
+        transition: all 300ms ease-in-out;
+      }
+      
+      core-menu > paper-item.core-selected {
+        background: #e1f5fe;
       }
     </style>
+    <core-menu theme="core-light-theme" valueattr="hash">
+          <template repeat="{{wordFile in items}}">
+            <paper-item label="{{wordFile}}" hash="{{wordFile}}">
+              <a on-click="{{wordFileClicked}}" data-msg="{{wordFile}}"></a>
+            </paper-item>
+          </template>
+        </core-menu>
     <table id="questionDecksTable" class="table table-striped table-bordered table-hover">
-                        <thead>
-                        <tr>
-                            <th>Name</th>
-                        </tr>
-                        </thead>
-                        <tbody>                          
-                            <tr template repeat="{{wordFile in items}}" class={{getCss(wordFile,selectedName)}}>                              
-                              <td>
-                                <a on-click="{{wordFileClicked}}" data-msg="{{wordFile}}">{{wordFile}}</a>
-                               </td>
-                            </tr>                          
-                        </tbody>
-                    </table>
+        <thead>
+        <tr>
+            <th>Name</th>
+        </tr>
+        </thead>
+        <tbody>                          
+            <tr template repeat="{{wordFile in items}}" class={{getCss(wordFile,selectedName)}}>                              
+              <td>
+                <a on-click="{{wordFileClicked}}" data-msg="{{wordFile}}">{{wordFile}}</a>
+               </td>
+            </tr>                          
+        </tbody>
+    </table>
   </template>
   <script type="application/dart" src="decks_table.dart"></script>
 </polymer-element>
