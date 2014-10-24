@@ -1,20 +1,13 @@
 part of flashcards_core;
 
-typedef void DataLoadedCallback();
-
-
 class Engine {
     
   List<Card> allCardsInDeck = [];
     
   Engine() {}  
   
-  void loadData(String wordfilePath, DataLoadedCallback onDataReady) {    
-    DeckLoader.loadDeckFile(wordfilePath).then(
-        (allCards) {
-          this.allCardsInDeck = allCards;
-          onDataReady();
-        });
+  Future<List<Card>> loadData(String wordfilePath) {    
+    return DeckLoader.loadDeckFile(wordfilePath).then((allCards) => this.allCardsInDeck = allCards);     
   }   
            
   void clearDeckResults(String lang) {    
