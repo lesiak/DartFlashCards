@@ -17,9 +17,9 @@ class FlashCardsApp extends PolymerElement {
   
   @observable List<Card> cards = toObservable([]);
   
-  @observable List<Card> learningList = toObservable([]);
+  @observable List<CardWithScore> learningList = toObservable([]);
   
-  @observable List<Card> notInLearningList = toObservable([]);
+  @observable List<CardWithScore> notInLearningList = toObservable([]);
   
   List<String> level1Files = ['Beginner1',
                      'Home',
@@ -160,9 +160,11 @@ class FlashCardsApp extends PolymerElement {
     //cards = toObservable(engine.allCardsInDeck);    
    // cards.replaceRange(0, cards.length, engine.allCardsInDeck);
     if (engine.allCardsInDeck != null) {
+      
       cards = toObservable(engine.allCardsInDeck);
+      List<CardWithScore> cardsWithScores = DeckEngine.mapCardsAddScores(cards, primaryLang);
      // learningList = toObservable(DeckEngine.buildLearningList(cards, primaryLang));
-     Iterable<List<Card>> matchedUnmatched = DeckEngine.partitionCards(cards, primaryLang);
+     Iterable<List<CardWithScore>> matchedUnmatched = DeckEngine.partitionCards(cardsWithScores);
      learningList = toObservable(matchedUnmatched.first);
      notInLearningList = toObservable(matchedUnmatched.last);
     } else {

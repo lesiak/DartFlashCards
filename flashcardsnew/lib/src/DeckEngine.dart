@@ -35,13 +35,20 @@ class DeckEngine implements DeckState {
   static List<Card> buildLearningList(List<Card> allElements, String currentLang) {   
     return allElements.where((card) => CardScoresEngine.isCardInLearningList(card, currentLang)).toList();   
   }
+  
+  static List<CardWithScore> mapCardsAddScores(List<Card> cards, String currentLang) {   
+    return cards.map((Card card) {
+      CardScore score = ResultStore.getCardScoreFromStore(card, currentLang);
+      return new CardWithScore(card, score);
+    }).toList();
+  }
    
-  static Iterable<List<Card>> partitionCards(List<Card> allElements, String currentLang) {   
+  static Iterable<List<CardWithScore>> partitionCards(List<CardWithScore> cardsWithScores) {   
      //return allElements.where((card) => CardScoresEngine.isCardInLearningList(card, currentLang)).toList();   
     var matches    = [];
       var nonMatches = [];
-      allElements.forEach((e) {
-        if (CardScoresEngine.isCardInLearningList(e, currentLang)) {
+      cardsWithScores.forEach((e) {
+        if (CardScoresEngine.isInLearningList(e.score)) {
           matches.add(e);
         } else {
           nonMatches.add(e);

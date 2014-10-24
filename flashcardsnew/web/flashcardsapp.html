@@ -126,7 +126,7 @@
                   <template bind if="{{ !learningList.isEmpty }}">
                     <h3>Review</h3>              
                     <review-table id="wordsTableToLearn" 
-                          cards="{{learningList}}"
+                          cardsWithScore="{{learningList}}"
                           primaryLang="{{primaryLang}}"
                           secondaryLang="{{secondaryLang}}"
                            thirdLang="{{thirdLang}}"></review-table>
@@ -134,7 +134,7 @@
                   <template bind if="{{ !notInLearningList.isEmpty }}">
                     <h3>Completed</h3>
                     <words-table id="wordsTable" 
-                          cards="{{notInLearningList}}"
+                          cardsWithScore="{{notInLearningList}}"
                           primaryLang="{{primaryLang}}"
                           secondaryLang="{{secondaryLang}}"
                           thirdLang="{{thirdLang}}"></words-table>

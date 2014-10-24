@@ -14,7 +14,7 @@ class WordsTable extends PolymerElement {
   
   @observable List<WordTableRow> wordRows = toObservable([]);
   
-  @published ObservableList<Card> cards = toObservable([]);
+  @published ObservableList<CardWithScore> cardsWithScore = toObservable([]);
   
   @published String primaryLang;
   
@@ -23,11 +23,11 @@ class WordsTable extends PolymerElement {
   @published String thirdLang;
   
   WordsTable.created() : super.created() {
-    new PathObserver(this, 'cards')
+    new PathObserver(this, 'cardsWithScore')
     ..open((_) {
       //wordRows.clear();
       //wordRows.addAll(mapToRowData(cards));
-      replaceWordRows(mapToRowData(cards));
+      replaceWordRows(mapToRowData(cardsWithScore));
     });    
   }
   
@@ -51,11 +51,11 @@ class WordsTable extends PolymerElement {
   }
   
  
-  List<WordTableRow> mapToRowData(List<Card> allCardsInDeck) {
+  List<WordTableRow> mapToRowData(List<CardWithScore> cardsWithScore) {
     List<WordTableRow> ret = [];
     var currentDate = new DateTime.now();
-    for (Card card in allCardsInDeck) {
-      CardScore score = ResultStore.getCardScoreFromStore(card, primaryLang);
+    for (CardWithScore cardWithScore in cardsWithScore) {
+      CardScore score = cardWithScore.score;
         
       String dueIn = "";
       String cssClass = getCssClassFromScore(score);      
@@ -64,7 +64,7 @@ class WordsTable extends PolymerElement {
           dueIn = formatDuration(score.getDueInDuration(currentDate));
           knowledgeLevel = score.goodInARow;
       }
-      WordTableRow r = new WordTableRow(card, cssClass, dueIn, knowledgeLevel);
+      WordTableRow r = new WordTableRow(cardWithScore.card, cssClass, dueIn, knowledgeLevel);
       ret.add(r);    
     }
     return ret;
