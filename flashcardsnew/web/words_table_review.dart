@@ -25,8 +25,29 @@ class WordsTable extends PolymerElement {
   WordsTable.created() : super.created() {
     new PathObserver(this, 'cards')
     ..open((_) {
-      wordRows = mapToRowData(cards);
+      //wordRows.clear();
+      //wordRows.addAll(mapToRowData(cards));
+      replaceWordRows(mapToRowData(cards));
     });    
+  }
+  
+  void replaceWordRows(List<WordTableRow> newWords) {
+    if (wordRows.length > newWords.length) {
+      wordRows.removeRange(newWords.length, wordRows.length);
+      for( int i = 0 ; i < wordRows.length; ++i) {
+        wordRows[i].card = newWords[i].card;
+      }
+    } else {
+      //wordRows = toObservable(newWords);
+      for( int i = 0 ; i < wordRows.length; ++i) {
+        wordRows[i].card = newWords[i].card;
+      }
+      int i = wordRows.length;
+      while (i < newWords.length) {
+        wordRows.add(newWords[i]);
+        ++i;
+      }
+    }
   }
   
  
