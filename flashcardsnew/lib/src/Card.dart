@@ -1,17 +1,13 @@
 part of flashcards_core;
 
-// Waiting on bug https://code.google.com/p/dart/issues/detail?id=13849
-//import 'package:polymer/polymer.dart'
-//show ObservableMixin, observable, bindProperty, notifyProperty;
-
-class Card extends Object with Observable {
-  @observable String en;
-  @observable String es;
-  @observable String fi;
-  @observable String fr;
-  @observable String da;
-  @observable String hu;
-  @observable String ko;
+class Card {
+  String en;
+  String es;
+  String fi;
+  String fr;
+  String da;
+  String hu;
+  String ko;
   
   factory Card.empty() {
     return new Card("", "", "", "", "", "", "");
