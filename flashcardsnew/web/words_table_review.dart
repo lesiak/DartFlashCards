@@ -36,16 +36,26 @@ class WordsTable extends PolymerElement {
       wordRows.removeRange(newWords.length, wordRows.length);
       for( int i = 0 ; i < wordRows.length; ++i) {
         wordRows[i].card = newWords[i].card;
+                wordRows[i].cssClass = newWords[i].cssClass;
+                wordRows[i].dueIn = newWords[i].dueIn;
+                wordRows[i].knowledgeLevel = newWords[i].knowledgeLevel;
       }
     } else {
       //wordRows = toObservable(newWords);
       for( int i = 0 ; i < wordRows.length; ++i) {
         wordRows[i].card = newWords[i].card;
+        wordRows[i].cssClass = newWords[i].cssClass;
+        wordRows[i].dueIn = newWords[i].dueIn;
+        wordRows[i].knowledgeLevel = newWords[i].knowledgeLevel;
       }
       int i = wordRows.length;
+      List newItems = [];
       while (i < newWords.length) {
-        wordRows.add(newWords[i]);
+        newItems.add(newWords[i]);
         ++i;
+      }
+      if (newItems.isNotEmpty) {
+        wordRows.addAll(newItems);
       }
     }
   }
@@ -76,10 +86,7 @@ class WordsTable extends PolymerElement {
     if (score == null) {
       return "notTested";
     }
-    if (score.isGoodAnswer() && !CardScoresEngine.isInLearningList(score)) {
-      return "succ";
-    }
-    else if (score.isGoodAnswer() && CardScoresEngine.isInLearningList(score)) {
+    else if (score.isGoodAnswer()) {
       return "succInList";
     }
     else if (score.isPoorAnswer()) {

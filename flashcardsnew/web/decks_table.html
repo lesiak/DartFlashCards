@@ -3,6 +3,7 @@
 <link rel="import" href="packages/core_elements/core_menu.html">
 <link rel="import" href="packages/paper_elements/paper_item.html">
 
+
 <polymer-element name="decks-table">
   <template>
   <link rel="stylesheet" href="resources/bootstrap-3.1.1-dist/css/bootstrap.css" >
@@ -26,8 +27,24 @@
       }
       
       core-menu > paper-item.core-selected {
-        background: #e1f5fe;
+         background: #5bc0de;
+        /*background: #e1f5fe;*/
+        /*color: #ffffff;
+        text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
+        background-image: linear-gradient(to bottom, #5bc0de, #2f96b4);*/
       }
+      
+       core-menu > paper-item:nth-child(odd).core-selected {
+         background: #5bc0de;
+        /*background: #e1f5fe;*/
+        /*color: #ffffff;
+        text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
+        background-image: linear-gradient(to bottom, #5bc0de, #2f96b4);*/
+      }
+      
+      core-menu > paper-item:nth-child(odd) {
+      background-color: #f9f9f9;
+}
     </style>
     <core-menu theme="core-light-theme" valueattr="hash">
           <template repeat="{{wordFile in items}}">

@@ -1,6 +1,7 @@
 import 'package:polymer/polymer.dart';
 
 import 'dart:html';
+import 'dart:async';
 import 'dart:convert' show JSON;
 
 import 'package:flashcardsnew/filecache_api.dart';
@@ -160,13 +161,19 @@ class FlashCardsApp extends PolymerElement {
     //cards = toObservable(engine.allCardsInDeck);    
    // cards.replaceRange(0, cards.length, engine.allCardsInDeck);
     if (engine.allCardsInDeck != null) {
+      new Future(() {
+        cards = toObservable(engine.allCardsInDeck);
+        List<CardWithScore> cardsWithScores = DeckEngine.mapCardsAddScores(cards, primaryLang);
+        return cardsWithScores;
+      }).then((cardsWithScores) {
+        Iterable<List<CardWithScore>> matchedUnmatched = DeckEngine.partitionCards(cardsWithScores);
+        learningList = toObservable(matchedUnmatched.first);
+        notInLearningList = toObservable(matchedUnmatched.last);
+      });
       
-      cards = toObservable(engine.allCardsInDeck);
-      List<CardWithScore> cardsWithScores = DeckEngine.mapCardsAddScores(cards, primaryLang);
      // learningList = toObservable(DeckEngine.buildLearningList(cards, primaryLang));
-     Iterable<List<CardWithScore>> matchedUnmatched = DeckEngine.partitionCards(cardsWithScores);
-     learningList = toObservable(matchedUnmatched.first);
-     notInLearningList = toObservable(matchedUnmatched.last);
+     
+     
     } else {
       print("No cards loaded");
     }

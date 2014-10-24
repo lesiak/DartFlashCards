@@ -55,11 +55,8 @@ class WordsTable extends PolymerElement {
     if (score == null) {
       return "notTested";
     }
-    if (score.isGoodAnswer() && !CardScoresEngine.isInLearningList(score)) {
+    if (score.isGoodAnswer()) {
       return "succ";
-    }
-    else if (score.isGoodAnswer() && CardScoresEngine.isInLearningList(score)) {
-      return "succInList";
     }
     else if (score.isPoorAnswer()) {
       return "almost";
