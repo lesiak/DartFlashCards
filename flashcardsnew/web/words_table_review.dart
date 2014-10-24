@@ -34,19 +34,12 @@ class WordsTable extends PolymerElement {
   void replaceWordRows(List<WordTableRow> newWords) {
     if (wordRows.length > newWords.length) {
       wordRows.removeRange(newWords.length, wordRows.length);
-      for( int i = 0 ; i < wordRows.length; ++i) {
-        wordRows[i].card = newWords[i].card;
-                wordRows[i].cssClass = newWords[i].cssClass;
-                wordRows[i].dueIn = newWords[i].dueIn;
-                wordRows[i].knowledgeLevel = newWords[i].knowledgeLevel;
+      for(int i = 0 ; i < wordRows.length; ++i) {
+        wordRows[i].copyFrom(newWords[i]);        
       }
     } else {
-      //wordRows = toObservable(newWords);
-      for( int i = 0 ; i < wordRows.length; ++i) {
-        wordRows[i].card = newWords[i].card;
-        wordRows[i].cssClass = newWords[i].cssClass;
-        wordRows[i].dueIn = newWords[i].dueIn;
-        wordRows[i].knowledgeLevel = newWords[i].knowledgeLevel;
+      for(int i = 0 ; i < wordRows.length; ++i) {
+        wordRows[i].copyFrom(newWords[i]);        
       }
       int i = wordRows.length;
       List newItems = [];
@@ -103,6 +96,8 @@ class WordsTable extends PolymerElement {
   String getLangName(String lang) => LangUtils.getLangName(lang);
       
   String getValueForLang(Card c, String lang) => c.getValueForLang(lang);
+  
+  
             
 }
 
@@ -115,6 +110,13 @@ class WordTableRow extends Object with Observable {
   @observable int knowledgeLevel;
   
   WordTableRow(this.card, this.cssClass, this.dueIn, this.knowledgeLevel);
+  
+  void copyFrom(WordTableRow from) {
+      this.card = from.card;
+      this.cssClass = from.cssClass;
+      this.dueIn = from.dueIn;
+      this.knowledgeLevel = from.knowledgeLevel;
+    }
  
 }
 
