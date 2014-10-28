@@ -8,7 +8,7 @@ class FlagPanel extends PolymerElement {
     "fi": "resources/svgFlags/Flag_of_Finland_1920-1978_(State).svg",
     "hu": "resources/svgFlags/Civil_Ensign_of_Hungary.svg",
     "fr": "resources/svgFlags/Flag_of_France.svg",
-    "es": "resources/svgFlags/Flag_of_Spain.svg",
+    "es": "resources/svgFlags/Flag_of_Spain_(Civil).svg",
     "da": "resources/svgFlags/Flag_of_Denmark.svg"
   };
       
