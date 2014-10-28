@@ -1,4 +1,10 @@
 <link rel="import" href="packages/polymer/polymer.html">
+<link rel="import" href="packages/core_elements/core_icon.html">
+<link rel="import" href="packages/core_elements/core_icons.html">
+<link rel="import" href="packages/core_elements/core_animated_pages.html">
+<link rel="import" href="packages/core_elements/core_animation.html">
+<link rel="import" href="packages/paper_elements/paper_button.html">
+
 <link rel="import" href="words_table.html">
 <link rel="import" href="words_table_review.html">
 <link rel="import" href="deck_summary.html">
@@ -8,12 +14,8 @@
 <link rel="import" href="dictionary_panel.html">
 <link rel="import" href="progress_bar.html">
 <link rel="import" href="prono_download_panel.html">
-<link rel="import" href="packages/paper_elements/paper_radio_group.html">
-<link rel="import" href="packages/paper_elements/paper_button.html">
-<link rel="import" href="packages/core_elements/core_icon.html">
-<link rel="import" href="packages/core_elements/core_icons.html">
-<link rel="import" href="packages/core_elements/core_animated_pages.html">
-<link rel="import" href="packages/core_elements/core_animation.html">
+<link rel="import" href="options_panel.html">
+
 <polymer-element name="flashcards-app">
   <template>
   <link rel="stylesheet" href="resources/bootstrap-3.1.1-dist/css/bootstrap.css" >
@@ -173,32 +175,10 @@
        
   </div> <!-- container -->
   <div id="optionsDialogFramePart">
-    <div name="editSubscription" class="formContainer"> 
-      <h1>Options</h1>
-      <form class="form" role="form">
-         <paper-radio-group id="optionsLangs" class="blue" selected="optionsRadiosFiDaEs">
-          <paper-radio-button name="optionsRadiosFiDaEs" label="Fi, Da, Es"></paper-radio-button><br>
-          <paper-radio-button name="optionsRadios2" label="Ko, Fi, Hu"></paper-radio-button><br>
-          <paper-radio-button name="optionsRadiosFiKoEs" label="Fi, Ko, Es"></paper-radio-button><br>
-          <paper-radio-button name="optionsRadiosFiEsFr" label="Fi, Es, Fr"></paper-radio-button>
-        </paper-radio-group>    
-      </form>
-      <p>
-        <paper-button class="colored custom" on-click="{{updateOptions}}">
-          <core-icon icon="check"></core-icon>
-          ok
-        </paper-button>
-        <paper-button class="custom" on-click="{{hideOptions}}">
-          <core-icon icon="clear"></core-icon>
-          Cancel
-        </paper-button>               
-      </p>
-      <p>                                          
-        <button id="clearResultsButton" 
-                on-click="{{clearDeckResults}}" 
-                class="btn btn-info">Clear results</button>                  
-      </p>            
-    </div>       
+      <options-panel id="optionsPanel"
+        on-okclicked="{{updateOptions}}"
+        on-cancelclicked="{{hideOptions}}"></options-panel>     
+        
   </div>
   <div id="optionsBacksplashPart" style="opacity: 1; display: none"></div>
 <div id="audioContainer"></div>

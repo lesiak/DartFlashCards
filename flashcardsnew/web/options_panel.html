@@ -1,0 +1,36 @@
+<link rel="import" href="packages/polymer/polymer.html">
+<link rel="import" href="packages/paper_elements/paper_radio_group.html">
+<link rel="import" href="packages/paper_elements/paper_button.html">
+<polymer-element name="options-panel" >
+  <template>
+    <link rel="stylesheet" href="resources/paperbuttons.css">  
+    <div name="editSubscription" class="formContainer"> 
+      <h1>Options</h1>
+      <form class="form" role="form">
+         <paper-radio-group id="optionsLangs" class="blue" selected="{{selectedOption}}">
+          <paper-radio-button name="optionsRadiosFiDaEs" label="Fi, Da, Es"></paper-radio-button><br>
+          <paper-radio-button name="optionsRadios2" label="Ko, Fi, Hu"></paper-radio-button><br>
+          <paper-radio-button name="optionsRadiosFiKoEs" label="Fi, Ko, Es"></paper-radio-button><br>
+          <paper-radio-button name="optionsRadiosFiEsFr" label="Fi, Es, Fr"></paper-radio-button>
+        </paper-radio-group>    
+      </form>
+      <p>
+        <paper-button class="colored custom" on-click="{{onOkClicked}}">
+          <core-icon icon="check"></core-icon>
+          ok
+        </paper-button>
+        <paper-button class="custom" on-click="{{onCancelClicked}}">
+          <core-icon icon="clear"></core-icon>
+          Cancel
+        </paper-button>               
+      </p>
+      <p>                                          
+        <button id="clearResultsButton" 
+                on-click="{{clearDeckResults}}" 
+                class="btn btn-info">Clear results</button>                  
+      </p>            
+    </div>
+  </template>
+  <script type="application/dart" src="options_panel.dart"></script>
+</polymer-element>
+

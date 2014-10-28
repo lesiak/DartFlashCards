@@ -256,8 +256,8 @@ class FlashCardsApp extends PolymerElement {
   }
   
   void updateOptions() {   
-    var optionsLangs = $['optionsLangs'];
-    var selectedLangs = optionsLangs.selected;
+    var optionsLangs = $['optionsPanel'];
+    var selectedLangs = optionsLangs.selectedOption;
     if (selectedLangs == 'optionsRadiosFiDaEs') {
       langs = ["fi","da","es"];       
     } else if (selectedLangs == 'optionsRadios2') {
