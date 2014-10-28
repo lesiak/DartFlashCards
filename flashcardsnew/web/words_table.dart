@@ -25,9 +25,35 @@ class WordsTable extends PolymerElement {
   WordsTable.created() : super.created() {
     new PathObserver(this, 'cardsWithScore')
     ..open((_) {
-      wordRows = mapToRowData(cardsWithScore);
+      //wordRows = mapToRowData(cardsWithScore);
+      replaceWordRows(mapToRowData(cardsWithScore));
     });    
   }
+  
+  void replaceWordRows(List<WordTableRow> newWords) {
+     if (wordRows.length > newWords.length) {
+       //(wordRows.removeRange(newWords.length, wordRows.length);
+       for(int i = 0 ; i < wordRows.length; ++i) {
+               wordRows[i].cssClass = "hidden";        
+             }
+       for(int i = 0 ; i < wordRows.length; ++i) {
+         wordRows[i].copyFrom(newWords[i]);        
+       }
+     } else {
+       for(int i = 0 ; i < wordRows.length; ++i) {
+         wordRows[i].copyFrom(newWords[i]);        
+       }
+       int i = wordRows.length;
+       List newItems = [];
+       while (i < newWords.length) {
+         newItems.add(newWords[i]);
+         ++i;
+       }
+       if (newItems.isNotEmpty) {
+         wordRows.addAll(newItems);
+       }
+     }
+   }
   
  
   List<WordTableRow> mapToRowData(List<CardWithScore> cardsWithScore) {
@@ -84,6 +110,13 @@ class WordTableRow extends Object with Observable {
   @observable int knowledgeLevel;
   
   WordTableRow(this.card, this.cssClass, this.dueIn, this.knowledgeLevel);
+  
+  void copyFrom(WordTableRow from) {
+       this.card = from.card;
+       this.cssClass = from.cssClass;
+       this.dueIn = from.dueIn;
+       this.knowledgeLevel = from.knowledgeLevel;
+     }
  
 }
 

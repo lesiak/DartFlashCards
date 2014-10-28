@@ -33,7 +33,10 @@ class WordsTable extends PolymerElement {
   
   void replaceWordRows(List<WordTableRow> newWords) {
     if (wordRows.length > newWords.length) {
-      wordRows.removeRange(newWords.length, wordRows.length);
+      //(wordRows.removeRange(newWords.length, wordRows.length);
+      for(int i = 0 ; i < wordRows.length; ++i) {
+              wordRows[i].cssClass = "hidden";        
+            }
       for(int i = 0 ; i < wordRows.length; ++i) {
         wordRows[i].copyFrom(newWords[i]);        
       }
