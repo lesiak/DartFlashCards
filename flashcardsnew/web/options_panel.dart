@@ -5,7 +5,7 @@ import 'dart:html';
 @CustomTag('options-panel')
 class OptionsPanel extends PolymerElement {
   
-  @published String selectedOption = "optionsRadiosFiDaEs"; 
+  @published String selectedOption = "optionsRadiosKoFiHu"; 
   
   OptionsPanel.created() : super.created() {       
   }

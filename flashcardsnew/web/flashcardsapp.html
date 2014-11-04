@@ -159,15 +159,17 @@
         </section>        
         <section id="learningPanelSection">
           <div cross-fade>
-            <learning-panel
-                id="learningPanel" 
-                on-deck-finished="{{goToHomePanel}}" 
-                cards="{{cards}}"
-                primaryLang="{{primaryLang}}"
-                secondaryLang="{{secondaryLang}}"
-                thirdLang="{{thirdLang}}"
-                fileCache="{{fileCache}}">
-            </learning-panel>
+            <div class="container">
+              <learning-panel
+                  id="learningPanel" 
+                  on-deck-finished="{{goToHomePanel}}" 
+                  cards="{{cards}}"
+                  primaryLang="{{primaryLang}}"
+                  secondaryLang="{{secondaryLang}}"
+                  thirdLang="{{thirdLang}}"
+                  fileCache="{{fileCache}}">
+              </learning-panel>
+            </div>
           </div>
         </section>
       </core-animated-pages>              
