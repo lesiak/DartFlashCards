@@ -5,6 +5,7 @@
 { "en": "entertainment", "fi": "viihde",         "fr": "divertissement","es": "(el) entretenimiento",  "ko": "환대" },
 { "en": "book",          "fi": "kirja",          "fr": "livre",         "es": "(el) libro",    "ko": "책" },
 { "en": "newspaper",     "fi": "sanomalehti",    "fr": "journal",       "es": "(el) periódico, (el) diario",   "ko": "신문 (new + hear)" },
+{ "en": "news",          "fi": "uutiset",        "fr": "nouvelles",     "es": "(las) noticias",   "ko": "뉴스" },
 { "en": "magazine",      "fi": "aikakauslehti",  "fr": "magazine" ,     "es": "(la) revista",   "ko": "잡지"},
 { "en": "page",          "fi": "sivu",           "fr": "page",          "es": "(la) página",    "ko": "페이지" },
 { "en": "chapter",       "fi": "luku",           "fr": "chapitre",      "es": "(el) capítulo",  "ko": "" },

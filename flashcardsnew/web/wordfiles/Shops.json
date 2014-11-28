@@ -14,6 +14,7 @@
 { "en": "to go shopping","fi": "käydä ostoksilla", "fr":"",       "es": "hacer la compra", "ko": ""},
 { "en": "trolley",       "fi": "ostoskori",        "fr":"panier", "es": "(el) carrito", "ko": ""},
 { "en": "cash desk",     "fi": "kassa",            "fr":"caisse", "es": "(la) caja", "ko": ""},
+{ "en": "shop window",   "fi": "näyteikkuna",      "fr":"vitrine", "es": "(el) escaparate", "ko": ""},
 
 
 { "en": "to browse (in shop)","fi": "", "fr": "",                      "es": "rebuscar",              "ko": "" },

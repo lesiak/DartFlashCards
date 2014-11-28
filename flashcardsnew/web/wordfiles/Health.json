@@ -4,6 +4,7 @@
 { "en": "sick, painful",       "fi": "sairas",      "fr": "malade",        "es": "enfermo",        "ko": "아프다" },
 { "en": "ill",                 "fi": "sairas",      "fr": "malade",        "es": "enfermo",        "ko": "" },
 { "en": "healthy",             "fi": "terveellinen","fr": "en bonne santé","es": "sano",           "ko": "건강하다" },
+{ "en": "health",              "fi": "terveys","fr": "santé","es": "(la) salud, (la) sanidad (public health)",     "ko": "" },
 { "en": "doctor",              "fi": "lääkäri, tohtori", "fr": "médecin, docteur","es": "(el) médico",   "ko": "의사" },
 { "en": "patient (hospital)",  "fi": "potilas",     "fr": "patient",       "es": "(el/la) paciente", "ko": "환자" },
 { "en": "nurse",               "fi": "sairaanhoitaja" , "fr":"infirmière", "es": "(la) enfermera", "ko": "간호사 (look after + protect + skilled person)"},

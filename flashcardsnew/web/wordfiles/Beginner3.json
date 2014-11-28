@@ -5,7 +5,8 @@
 { "en": "search",       "fi": "hakea",    "fr": "chercher", "es": "buscar", "ko": "찾다" },
 { "en": "find",         "fi": "löytää",   "fr": "trouver",  "ko": "발견하다" },
 
-{ "en": "to hide",       "fi": "",    "fr": "cacher", "es": "esconder", "ko": "" },
+{ "en": "to hide",       "fi": "",    "fr": "cacher", "es": "esconder (de), ocultar", "ko": "" },
+{ "en": "hidden",       "fi": "",    "fr": "", "es": "oculto, escondido", "ko": "" },
 { "en": "to add (to)",       "fi": "",    "fr": "", "es": "añadir (a)", "ko": "" },
 
 { "en": "excuse me",    "fi": "anteeksi",    "fr": "excusez-moi",   "es": "Disculpe", "ko": "실례합니다" },

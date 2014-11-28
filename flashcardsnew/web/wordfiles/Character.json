@@ -51,7 +51,8 @@
 { "en": "reliable",     "fi": "luotettava",      "fr": "fiable",     "ko": "믿음직하다" },
 { "en": "hard-working",     "fi": "ahkera",      "fr": "travailleur",  "es": "trabajador",     "ko": "" },
 
-{ "en": "responsible",      "fi": "",        "fr": "",     "es": "responsable", "ko": "" },
+{ "en": "responsible",      "fi": "vastuullinen","fr": "responsable",     "es": "responsable", "ko": "" },
+{ "en": "responsibility",   "fi": "vastuu",      "fr": "responsabilité",  "es": "(la) responsabilidad", "ko": "" },
 
 { "en": "careful",      "fi": "varovainen",      "fr": "prudent",     "es": "prudente",  "ko": "" },
 { "en": "careless",     "fi": "varomaton",       "fr": "négligent",   "es": "negligente",  "ko": "" },
@@ -64,8 +65,8 @@
 { "en": "creative",     "fi": "luova",          "fr": "créatif",          "es": "creativo",   "ko": "창조적 (create + make + of)" },
 
 { "en": "original, creative",          "fi": "omaperäinen",          "fr": "original", "ko": "독창적 (alone + create + of)" },
-{ "en": "delicate",         "ko": "",       "fi": "herkkä",          "fr": "délicat" },
-{ "en": "sensitive",             "fi": "herkkä",          "fr": "",   "ko": "" },
+{ "en": "delicate",          "fi": "herkkä",    "fr": "délicat",  "es": "delicado",   "ko": "" },
+{ "en": "sensitive (touchy)",             "fi": "herkkä",          "fr": "",    "es": "susceptible", "ko": "" },
 
 
 { "en": "tenderness",    "fi": "arkuus",    "fr": "tendresse",    "es": "(la) ternura",  "ko": "" },
