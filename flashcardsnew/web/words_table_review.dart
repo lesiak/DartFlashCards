@@ -10,7 +10,7 @@ import 'package:flashcardsnew/locale_utils.dart';
  * A Polymer click counter element.
  */
 @CustomTag('review-table')
-class WordsTable extends PolymerElement {
+class WordsTableReview extends PolymerElement {
   
   @observable List<WordTableRow> wordRows = toObservable([]);
   
@@ -22,7 +22,7 @@ class WordsTable extends PolymerElement {
   
   @published String thirdLang;
   
-  WordsTable.created() : super.created() {
+  WordsTableReview.created() : super.created() {
     new PathObserver(this, 'cardsWithScore')
     ..open((_) {
       //wordRows.clear();
@@ -34,10 +34,10 @@ class WordsTable extends PolymerElement {
   void replaceWordRows(List<WordTableRow> newWords) {
     if (wordRows.length > newWords.length) {
       //(wordRows.removeRange(newWords.length, wordRows.length);
-      for(int i = 0 ; i < wordRows.length; ++i) {
-              wordRows[i].cssClass = "hidden";        
-            }
-      for(int i = 0 ; i < wordRows.length; ++i) {
+      for(int i = newWords.length ; i < wordRows.length; ++i) {
+        wordRows[i].cssClass = "hidden";        
+      }
+      for(int i = 0 ; i < newWords.length; ++i) {
         wordRows[i].copyFrom(newWords[i]);        
       }
     } else {
