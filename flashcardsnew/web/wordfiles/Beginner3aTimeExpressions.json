@@ -31,7 +31,8 @@
 { "en": "yesterday",  "fi": "eilen",     "fr": "hier",       "es": "ayer",   "ko": "어제"},
 { "en": "often",      "fi": "usein",     "fr": "souvent",    "es": "con frecuencia, a menudo",   "ko": "자주"},
  
-{ "en": "usually",      "fi": "yleensä, tavallisesti",     "fr": "",    "es": "normalmente, soler (to usually do - to be accustomed to)",   "ko": ""},
+{ "en": "usually",      "fi": "yleensä, tavallisesti",     "fr": "",    "es": "normalmente",   "ko": ""},
+{ "en": "to usually (do sth), to be accustomed to)",      "fi": "",     "fr": "",    "es": "soler",   "ko": ""},
 
 
 { "en": "clock",       "fi": "kello",       "fr": "horloge",       "es": "(el) reloj",     "ko": "" },
@@ -52,7 +53,7 @@
 { "en": "early",       "fi": "aikaisin",    "fr": "tôt",           "es": "temprano", "ko": "" },
 
 
-{ "en": "the day after tomorrow",        "ko": "모레",          "fi": "ylihuomenna",    "fr": "après-demain" },
+{ "en": "the day after tomorrow",  "fi": "ylihuomenna",    "fr": "après-demain",  "es": "pasado mañana",  "ko": "모레" },
 { "en": "last night",   "fi": "viime yönä",    "fr": "la nuit dernière",  "es": "anoche",  "ko": " 어젯밤" },
 
  

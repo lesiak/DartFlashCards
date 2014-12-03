@@ -24,11 +24,38 @@
 { "en": "to meet (=become acquainted)",        "fi": "",   "fr": "", "es": "conocer a",  "ko": ""},
 { "en": "to make friends", "fi": "saada kavereita, hankkia, tavata",    "fr": "",  "es": "hacer amigos",  "ko": "사귀다" },
 
+{ "en": "reaction",        "fi": "reaktio",      "fr": "réaction",    "es": "(la) reacción", "ko": "반응 (reverse + answer)"  },
+{ "en": "to react",        "fi": "suhtautua",    "fr": "réagir",      "es": "reaccionar",    "ko": "반응하다" },
+{ "en": "to disturb",      "fi": "häiritä",      "fr": "perturber",   "es": "perturbar",     "ko": "방해하다" },
+{ "en": "to interrupt",    "fi": "keskeyttää",   "fr": "interrompre", "es": "interrumpir",   "ko": "방해하다" },
+
+
+{ "en": "invitation",      "fi": "kutsu",        "fr": "invitation",   "es": "(la) invitación",  "ko": "초대 (invite + wait), 초청 (invite + request)" },
+{ "en": "to invite",       "fi": "kutsua",       "fr": "inviter",      "es": "invitar",          "ko": "초대하다, 초청하다" },
+{ "en": "according to",    "fi": "mukaan",       "fr": "selon",        "es": "según",               "ko": "-에 따라서" },
+
+{ "en": "for example",     "fi": "esimerkiksi",  "fr": "par exemple",  "es": "por ejemplo",  "ko": "예를 들어서" },
+{ "en": "example",         "fi": "esimerkki",    "fr": "exemple",      "es": "ejemplo",      "ko": "예" },
+
+{ "en": "by chance",       "fi": "sattumalta",   "fr":"par hasard",    "es":"por casualidad", "ko": "우연히"},
+{ "en": "randomly, at random", "fi": "sattumanvaraisesti", "fr": "au hasard",  "es": "(al) azar", "ko": "" },
+
+
+{ "en": "on the contrary",   "fi": "päinvastoin",   "fr":"au contraire", "es":"al contrario, por el contrario",  "ko": "이에 반하여"},
+{ "en": "on top of that",    "fi": "(sen) lisäksi", "fr":"", "es": "además", "ko": "게다가"},
+{ "en": "in addition",       "fi": "(sen) lisäksi", "fr":"", "es": "además", "ko": "게다가"},
+
+
+{ "en": "instead of",   "fi": "sijasta, asemesta",   "fr":"au lieu de","es":"en vez de, en lugar de",  "ko": ""},
+
+
 
 { "en": "warm",         "fi": "lämmin",   "fr":"chaud",  "es": "caliente (iron, oven, bath); templado(a) (water, soup); cálido(a) (weather, welcome, color); de abrigo (garment)",  "ko": "따뜻하다"},
 { "en": "cold",         "fi": "kylmä",    "fr": "froid", "es": "frío",  "ko": "춥다"},
 { "en": "hot",          "fi": "kuuma",    "fr": "chaud", "es": "caliente (having high temperature); caluroso(a) (day, summer, climate)", "ko": "덥다"},
 { "en": "frost",        "fi": "pakkanen", "fr": "gel",   "es": "(la) escarcha", "ko": "서리"},
+{ "en": "dry",          "fi": "kuiva",    "fr":"sec",    "es":"seco", "ko": ""},
+{ "en": "wet",          "fi": "märkä" ,   "fr":"humide, mouillé",  "es":"húmedo (damp); mojado (soaked); lluvioso (weather)",  "ko": "젖은"},
 
 
 { "en": "time (occurence)",          "fi": "kerta",    "fr": "fois", "ko": "번" },

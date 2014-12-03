@@ -3,21 +3,10 @@
 { "en": "who (?)",      "fi": "kuka",    "fr": "qui",  "es": "quién",    "ko": "" },
 { "en": "where (?)",    "fi": "missä",   "fr": "où",   "es": "dónde",    "ko": "어디에" },
 
-
-
-
-
-
 { "en": "to approach, go near",       "ko": "다가가다",    "fi": "lähestyä",    "fr":"aborder, s'approcher"},
 { "en": "to approach, come up",       "ko": "다가오다, 닥치다",    "fi": "lähestyä",    "fr":"aborder, s'approcher"},
 
-
-
-
 { "en": "habit",       "ko": "버릇 (?)",    "fi": "tapa",    "fr":"habitude"},
-
-
-
 
 { "en": "advantageous, beneficial",      "ko": "이롭다",      "fi": "edullinen", "fr": "avantageux" },
 
@@ -31,7 +20,7 @@
 
 { "en": "drug (narcotic)",       "ko": "마약",    "fi": "huume",    "fr":"drogue"},
 
-{ "en": "dangerous",    "fi": "vaarallinen",    "fr": "dangereux",   "es": "peligroso",  "ko": "위험한"},
+
 { "en": "to rescue",    "fi": "pelastaa",       "fr": "sauver",   "es": "rescatar",  "ko": ""},
 
 
@@ -43,15 +32,14 @@
 
 { "en": "service",      "fi": "palvelu",    "fr": "service", "es": "(el) servicio",  "ko": "서비스"},
 { "en": "target",       "ko": "",    "fi": "tavoite, kohde",    "fr":""},
-{ "en": "delivery",      "fi": "toimitus",    "fr": "livraison",        "ko": "배달" },
-{ "en": "deliver",       "fi": "toimittaa",    "fr": "livrer",  "ko": "배달하다" },
+{ "en": "delivery",      "fi": "toimitus",    "fr": "livraison",       "es": "(la) entrega",     "ko": "배달" },
+{ "en": "deliver",       "fi": "toimittaa",   "fr": "livrer",          "es": "entregar",   "ko": "배달하다" },
 
-{ "en": "technology",       "fi": "teknologia, tekniikka",    "fr": "technologie","es": "tecnología",  "ko": "" },
+{ "en": "technology",    "fi": "teknologia, tekniikka",    "fr": "technologie","es": "tecnología",  "ko": "" },
 { "en": "smell",    	"ko": "냄새",    "fi": "haju, tuoksu", 	"fr":"odeur"},
 { "en": "to smell",    	"ko": "냄새가 나다",    "fi": "tuoksua", 	"fr":"sentir"},
 
 
-{ "en": "modern",     "fi": "moderni, nykyaikainen",  "fr": "moderne", "es": "moderno",  "ko": "냄새가 나다"},
 
 
 
@@ -61,6 +49,10 @@
 
 { "en": "showy, gaudy, tawdry",    "ko": "야하다",    "fi": "" , "fr":""},
 
+{ "en": "enter, go in","ko": "들어가다",  "fi": "astua sisään", "fr": "entrer" },
+{ "en": "come in",     "ko": "들어오다",  "fi": "",         "fr": "" },
+
+{ "en": "to come back, return",  "fi": "",    "fr": "",   "es": "volver, regresar",  "ko": "" },
 
 { "en": "participate",  "ko": "",    "fi": "osallistua" , "fr":"participer"},
 
@@ -68,18 +60,33 @@
 { "en": "to limit",       "ko": "한하다",    "fi": "rajoittaa" , "fr":"limiter"},
 
 { "en": "to trust",       "fi": "" , "fr":"","es":"tener confianza",  "ko": ""},
-
-
+{ "en": "to assure (reassure)",       "fi": "" , "fr":"","es":"asegurar",  "ko": ""},
+{ "en": "to clarify",    "fi": "",          "fr": "",  "es": "aclarar, clarificar", "ko": "" },
+ 
 { "en": "to decorate",    "ko": "장식하다",       "fi": "koristella",          "fr": "décorer" },
 
-{ "en": "announcement",   "ko": "발표",       "fi": "ilmoitus",          "fr": "annonce" },
+{ "en": "announcement",   "fi": "ilmoitus",          "fr": "annonce",  "ko": "발표" },
+
+{ "en": "to focus (on)",    "fi": "",          "fr": "",  "es": "centrar, concentrar (en)", "ko": "" },
+
+{ "en": "distinct",    "fi": "",          "fr": "",  "es": "distinto", "ko": "" },
+{ "en": "to rebel (against)",    "fi": "",          "fr": "",  "es": "rebelarse (contra)", "ko": "" },
+ 
+
+{ "en": "extinction",    "fi": "",          "fr": "",  "es": "(la) extinción", "ko": "" },
+{ "en": "impression",    "fi": "",          "fr": "",  "es": "(la) impresión", "ko": "" },
+
+{ "en": "to suffer",    "fi": "",          "fr": "",  "es": "sufrir", "ko": "" },
+{ "en": "to discover",    "fi": "",          "fr": "",  "es": "descubrir", "ko": "" },
 
 
+{ "en": "power (authority)",    "fi": "",          "fr": "",  "es": "(el) poder", "ko": "" },
+{ "en": "powerful",    "fi": "",          "fr": "",  "es": "poderoso", "ko": "" },
 
+{ "en": "to support",    "fi": "kannattaa",   "fr":"supporter, soutenir", "es":"apoyar", "ko": ""},
 
-
-
-
+{ "en": "poison",       "fi": "" , "fr":"","es":"(el) veneno",  "ko": ""},
+{ "en": "poisonous",       "fi": "" , "fr":"","es":"venenoso",  "ko": ""},
 
 { "en": "freedom, liberty",    "ko": "자유",    "fi": "" , "fr":""},
 { "en": "religion",   "fi": "uskonto",   "fr":"religion", "es":"(la) religión", "ko": "종교"},
@@ -97,11 +104,9 @@
 { "en": "nun",        "fi": "nunna",     "fr":"",         "es":"(la) monja", "ko": ""},
 { "en": "priest",     "fi": "pappi",     "fr":"prêtre",   "es":"(el) sacerdote", "ko": ""},
 
+{ "en": "to baptize",     "fi": "",     "fr":"",   "es":"bautizar", "ko": ""},
+{ "en": "Buddhism",   "fi": "buddhalaisuus",   "fr":"bouddhisme",   "es":"(el) budismo", "ko": "불교"}
 
-{ "en": "Buddhism",   "fi": "buddhalaisuus",   "fr":"bouddhisme",   "es":"(el) budismo", "ko": "불교"},
-{ "en": "dry",        "fi": "" ,   "fr":"", "ko": "건조하다"},
-{ "en": "dry",    "ko": "마른",    "fi": "kuiva" , "fr":"sec"},
-{ "en": "wet",    "ko": "젖은",    "fi": "märkä" , "fr":"humide, mouillé"}
 
 
 

@@ -5,10 +5,6 @@
 { "en": "leave (sth behind)", "fi": "jättää",  "fr": "laisser",        "es": "dejar",   "ko": " 남기다" },
 
 { "en": "come",        "fi": "tulla",    "fr": "venir",   "es": "venir",  "ko": "오다" },
-{ "en": "enter, go in","ko": "들어가다",  "fi": "astua sisään", "fr": "entrer" },
-{ "en": "come in",     "ko": "들어오다",  "fi": "",         "fr": "" },
-
-{ "en": "to come back, return",  "fi": "",    "fr": "",   "es": "volver, regresar",  "ko": "" },
 
 { "en": "to walk",     "fi": "kävellä",    "fr": "marcher, se promener", "es": "andar, caminar", "ko": "걸어가다" },
 { "en": "a walk",      "fi": "kävely",      "fr": "promenade","es": "(el) paseo, (la) caminata", "ko": "산책" },

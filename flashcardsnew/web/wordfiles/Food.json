@@ -15,7 +15,7 @@
 { "en": "cheese",       "fi": "juusto",     "fr": "fromage",       "es": "(el) queso",    "ko": "치즈" },
 { "en": "french fries", "fi": "ranskalaiset","fr":"",              "es": "(las) papas fritas",       "ko": "감자튀김"},
 
-{ "en": "mushroom",       "fi": "sieni",     "fr": "champignon",  "ko": "버섯" },
+{ "en": "mushroom",       "fi": "sieni",     "fr": "champignon",  "es": "(la) seta, (el) champiñón, (el) hongo",   "ko": "버섯" },
 { "en": "onion",          "fi": "sipuli",    "fr": "oignon",    "es": "(la) cebolla",    "ko": "양파 (the West + Welsh onion)" },
 
 { "en": "soup",           "fi": "keitto",    "fr": "soupe",     "es": "(la) sopa",    "ko": "국" },

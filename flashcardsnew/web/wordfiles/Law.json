@@ -4,15 +4,17 @@
 
 { "en": "thief",             "fi": "voro",           "fr": "",            "es": "(el) ladrón", "ko": "" },
 { "en": "to steal",          "fi": "varastaa",       "fr": "voler",       "es": "robar (algo a alguien)", "ko": "" },
+{ "en": "to kill",           "fi": "tappaa",         "fr": "tuer",        "es": "matar", "ko": "" },
 
 { "en": "to accuse (sb of)", "fi": "syyttää (jstk)", "fr": "accuser",     "es": "acusar (a algn de)", "ko": "" },
 { "en": "guilty",            "fi": "syyllinen",      "fr": "coupable",    "es": "culpable",  "ko": "유죄의"},
 
-{ "en": "criminal",      "fi": "rikollinen",  "fr": "criminel",     "es": "(el) criminal, (el) delincuente",      "ko": "범인 (violate + people)" },
-{ "en": "crime",         "fi": "rikollisuus, rikos", "fr": "crime", "es": "(el) crimen, (el) delito", "ko": "범죄 (violate + fault)" },
-{ "en": "victim",        "fi": "uhri",     "fr": "victime",          "es": "(la) víctima",  "ko": "희생자"   },
+{ "en": "criminal",          "fi": "rikollinen",  "fr": "criminel",     "es": "(el) criminal, (el) delincuente",      "ko": "범인 (violate + people)" },
+{ "en": "crime",             "fi": "rikollisuus, rikos", "fr": "crime", "es": "(el) crimen, (el) delito", "ko": "범죄 (violate + fault)" },
+{ "en": "victim",            "fi": "uhri",     "fr": "victime",         "es": "(la) víctima",  "ko": "희생자"   },
 
-{ "en": "justice",        "fi": "",     "fr": "justice", "es": "(la) justicia", "ko": ""   }
+{ "en": "a witness",         "fi": "" ,        "fr": "",                "es": "(el) testigo",  "ko": ""},
+{ "en": "justice",           "fi": "",         "fr": "justice",         "es": "(la) justicia", "ko": ""   }
 
 
 ]

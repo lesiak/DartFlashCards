@@ -1,7 +1,8 @@
 [
 
 { "en": "proud",         "fi": "ylpeä",          "fr": "fier",   "es": "orgulloso",  "ko": "" },
-{ "en": "to fear",       "fi": "pelätä (pelkää)","fr":"",  "ko": ""},
+{ "en": "to fear (be afraid of)",   "fi": "pelätä (pelkää)","fr":"",   "es": "temer (a | que), tener miedo a",  "ko": ""},
+{ "en": "to fear (that)(think regretfully)",   "fi": "","fr":"",       "es": "temerse (que)",  "ko": ""},
 { "en": "fear",          "fi": "pelko",          "fr": "",             "es": "(el) miedo", "ko": ""},
 { "en": "coward",        "fi": "pelkuri",        "fr":"",              "es": "(el) cobarde",  "ko": ""},
 { "en": "brave",         "fi": "rohkea",         "fr": "courageux",    "es": "valiente", "ko": "용감한" },
@@ -45,6 +46,7 @@
 { "en": "active",        "fi": "aktiivinen",     "fr":"actif",        "es":"activo",    "ko": ""},
 
 { "en": "selfish",       "fi": "itsekäs",        "fr":"égoïste",      "es":"egoísta",    "ko": ""},
+{ "en": "sociable",      "fi": "",               "fr":"",             "es":"sociable",    "ko": ""},
 
 { "en": "sincere",      "fi": "vilpitön",        "fr": "sincère",     "es": "sincero", "ko": "진실하다" },
 { "en": "honest",       "fi": "rehellinen",      "fr": "honnête",     "es": "honesto", "ko": "진실하다" },

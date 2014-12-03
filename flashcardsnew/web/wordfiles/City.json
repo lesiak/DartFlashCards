@@ -36,7 +36,7 @@
 { "en": "square (in city)", "fi": "aukio",          "fr":"place",         "es": "(la) plaza",  "ko": ""},
 { "en": "fountain",         "fi": "suihkulähde",    "fr":"fontaine",      "es": "(la) fuente",  "ko": ""},
 
-{ "en": "other side",        "ko": "건너편",          "fi": "toinen puoli (toisella puolella)",    "fr": "?" },
+{ "en": "other side",       "fi": "toinen puoli (toisella puolella)",    "fr": "?",  "es": "(el) otro lado",   "ko": "건너편" },
 
 { "en": "bench",            "fi": "penkki",          "fr": "banc",          "es": "(el) banco",  "ko": "벤치" },
 

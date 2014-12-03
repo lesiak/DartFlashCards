@@ -26,6 +26,8 @@
 { "en": "movie star",    "fi": "päänäyttelijä",  "fr": "star de cinéma","es": "(la) estrella de cine", "ko": "영화 배우"},
 { "en": "director",       "fi": "",              "fr": "",              "es": "(el) director",     "ko": "" },
 
+{ "en": "a role (acting)",       "fi": "",              "fr": "",              "es": "(el) papel",     "ko": "" },
+
 { "en": "scenario",      "fi": "skenaario, suunnitelma",          "fr": "scénario", "es": "(el) guión (cine), (el) argumento (teat)",  "ko": "" },
 { "en": "plot",          "fi": "juoni",          "fr": "", "es": "(el) trama",  "ko": "" },
 { "en": "the plot thickens", "fi": "",           "fr": "", "es": "el asunto se complica",  "ko": "" },

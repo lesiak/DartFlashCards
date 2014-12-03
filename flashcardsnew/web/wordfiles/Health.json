@@ -8,22 +8,22 @@
 { "en": "doctor",              "fi": "lääkäri, tohtori", "fr": "médecin, docteur","es": "(el) médico",   "ko": "의사" },
 { "en": "patient (hospital)",  "fi": "potilas",     "fr": "patient",       "es": "(el/la) paciente", "ko": "환자" },
 { "en": "nurse",               "fi": "sairaanhoitaja" , "fr":"infirmière", "es": "(la) enfermera", "ko": "간호사 (look after + protect + skilled person)"},
-{ "en": "(a) cold",       "fi": "nuha",       "fr": "rhume",        "ko": "감기" },
-{ "en": "flu",            "fi": "flunssa",    "fr": "grippe",       "es": "(la) gripe", "ko": "독감 (poison + feel)" },
-{ "en": "pain",           "fi": "kipu" ,      "fr": "douleur",      "es": "(el) dolor",             "ko": "고통, 아픔"},
-{ "en": "backache",       "fi": "selkäkipu",  "fr": "mal au dos",   "es": "(el) dolor de espalda",  "ko": ""},
-{ "en": "to hurt",        "fi": "" ,      "fr": "",      "es": "doler (me duele el pie)",             "ko": ""},
+{ "en": "(a) cold",         "fi": "nuha",       "fr": "rhume",        "ko": "감기" },
+{ "en": "flu",              "fi": "flunssa",    "fr": "grippe",       "es": "(la) gripe", "ko": "독감 (poison + feel)" },
+{ "en": "pain",             "fi": "kipu" ,      "fr": "douleur",      "es": "(el) dolor",             "ko": "고통, 아픔"},
+{ "en": "backache",         "fi": "selkäkipu",  "fr": "mal au dos",   "es": "(el) dolor de espalda",  "ko": ""},
+{ "en": "to hurt",          "fi": "" ,      "fr": "",      "es": "doler (me duele el pie)",             "ko": ""},
 
-{ "en": "to be injured",  "fi": "" , "fr":"",   "ko": "다치다"},
-{ "en": "cancer",         "fi": "syöpä",      "fr":" cancer",    "es": "(el) cáncer",      "ko": "암"},
-{ "en": "virus",          "fi": "virus" ,     "fr":" virus",     "es": "(el) virus",       "ko": "바이러스"},
-{ "en": "vitamin",        "fi": "vitamiini" , "fr":"vitamine",   "es": "(la) vitamina",    "ko": "비타민"},
-{ "en": "wound",          "fi": "haava",      "fr": "blessure",  "es": "(la) herida",      "ko": "상처" },
-{ "en": "injection",      "fi": "injektio",   "fr": "injection", "es": "(la) inyección",   "ko": "주사" },
-{ "en": "prescription",   "fi": "resepti",    "fr": "prescription","es": "(la) receta",   "ko": "처방" },
-{ "en": "operation, surgery",        "ko": "외과",     "fi": "leikkaus",    "fr": "opération" },
-{ "en": "syringe",         "fi": "ruisku",    "fr": "seringue (f)",   "es": "(la) jeringa", "ko": "주사기" },
-{ "en": "vaccine",         "fi": "rokote",    "fr": "(le) vaccin",         "es": "(la) vacuna",  "ko": "백신" },
+{ "en": "to be injured",    "fi": "" , "fr":"",   "ko": "다치다"},
+{ "en": "cancer",           "fi": "syöpä",      "fr":" cancer",      "es": "(el) cáncer",      "ko": "암"},
+{ "en": "virus",            "fi": "virus" ,     "fr":" virus",       "es": "(el) virus",       "ko": "바이러스"},
+{ "en": "vitamin",          "fi": "vitamiini" , "fr":"vitamine",     "es": "(la) vitamina",    "ko": "비타민"},
+{ "en": "wound",            "fi": "haava",      "fr": "blessure",    "es": "(la) herida",      "ko": "상처" },
+{ "en": "injection",        "fi": "injektio",   "fr": "injection",   "es": "(la) inyección",   "ko": "주사" },
+{ "en": "prescription",     "fi": "resepti",    "fr": "prescription","es": "(la) receta",      "ko": "처방" },
+{ "en": "operation, surgery","fi": "leikkaus",  "fr": "opération",   "es": "(la) operación",   "ko": "외과" },
+{ "en": "syringe",          "fi": "ruisku",     "fr": "seringue (f)","es": "(la) jeringa",     "ko": "주사기" },
+{ "en": "vaccine",          "fi": "rokote",     "fr": "(le) vaccin", "es": "(la) vacuna",      "ko": "백신" },
 
 { "en": "disease",        "fi": "tauti, sairaus","fr": "maladie",    "es": "(la) enfermedad",   "ko": "" },
 { "en": "infectious",     "fi": "tarttuva",      "fr": "infectieux", "es": "infeccioso",        "ko": ""  },
@@ -31,8 +31,8 @@
 
 { "en": "ability (capacity)",        "ko": "",     "fi": "kyky",    "fr": "capacité" },
 
-{ "en": "infectious disease",        "ko": "",     "fi": "tartuntatauti",    "fr": "" },
-{ "en": "to spread",        "ko": "",     "fi": "levitä, levittää",    "fr": "" }
+{ "en": "infectious disease",        "fi": "tartuntatauti",    "fr": "",    "es": "(la) enfermedad infecciosa",  "ko": "" },
+{ "en": "to spread (disease)",       "fi": "levitä, levittää",    "fr": "", "es": "propagarse", "ko": ""  }
 
 
 

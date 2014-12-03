@@ -22,10 +22,16 @@
 { "en": "savings",         "ko": "",           "fi": "säästöt",        "fr": "épargne" },
 { "en": "loan",            "ko": "",           "fi": "laina",          "fr": "prêt" },
 { "en": "mortgage",        "ko": "",           "fi": "asuntolaina",    "fr": "hypothèque" },
-{ "en": "debt",            "ko": "빚",         "fi": "velka",          "fr": "dette, créance" },
+{ "en": "debt",            "fi": "velka",          "fr": "dette, créance",  "ko": "빚" },
+{ "en": "bankruptcy",      "fi": "konkurssi",  "fr": "", "es": "(la) bancarrota", "ko": "" },
 
-{ "en": "loss",            "ko": "손실",       "fi": "tappio",          "fr": "perte" },
+{ "en": "loss",            "fi": "tappio",          "fr": "perte",  "ko": "손실" },
 { "en": "operating loss",  "ko": "영업 손실",  "fi": "liiketappio",     "fr": "" },
+
+{ "en": "profit",          "fi": "voitto",          "fr": "profitable, rentable", "ko": "" },
+{ "en": "profitable",         "ko": "",       "fi": "kannattava, tuottoisa, tuottava",          "fr": "profitable, rentable" },
+{ "en": "unprofitable",         "ko": "",       "fi": "tappiollinen, kannattamaton",          "fr": "peu profitable, peu rentable" },
+{ "en": "prize",   "fi": "palkinto",   "fr":"prix",     "es":"(el) premio", "ko": ""},
 
 
 { "en": "discount",        "fi": "alennus",          "fr": "réduction, rabais, remise",     "es": "(el) descuento",   "ko": "할인" },

@@ -23,7 +23,7 @@
 
 { "en": "good-looking",     "fi": "ylipaino",      "fr": "beau",   "es": "guapo",  "ko": ""},
 { "en": "(one's) figure",   "fi": "hahmo" ,        "fr": "figure", "es": "(la) figura",   "ko": "몸매"  },
-{ "en": "a slender figure", "fi": "hoikka hahmo",  "fr":"",   "ko": "날씬한 몸매"},
+{ "en": "a slender figure", "fi": "hoikka hahmo",  "fr":"",         "es":"(la) esbelta figura",   "ko": "날씬한 몸매"},
 { "en": "obesity",          "fi": "liikalihavuus", "fr":"obésité",  "es":"(la) obesidad",  "ko": "비만 (fat + full)"},
 { "en": "(the) overweight", "fi": "ylipaino",      "fr": "embonpoint",   "es": "(el) sobrepeso",  "ko": ""},
 

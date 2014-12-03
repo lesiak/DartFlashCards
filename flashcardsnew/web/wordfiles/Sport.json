@@ -47,10 +47,10 @@
 
 { "en": "to climb",    "fi": "kiipeillä (kiivetä)" , "fr": "", "es": "subirse", "ko": ""},
 
-{ "en": "bowling",    "ko": "볼링",    "fi": "keilailu" , "fr":"bowling"},
-{ "en": "baseball",    "fi": "baseball",    "fr": "base-ball",  "es": "(el) béisbol",    "ko": "야구 (field + ball)" },
-{ "en": "badminton",   "fi": "sulkapallo",  "fr": "badminton",  "es": "(el) bádminton",  "ko": "배드민턴" },
-{ "en": "chess",      "fi": "shakki" , "fr": "échecs",   "es": "(el) ajedrez", "ko": ""}
+{ "en": "bowling",     "fi": "keilailu" ,   "fr":"bowling",    "es": "(los) bolos", "ko": "볼링" },
+{ "en": "baseball",    "fi": "baseball",    "fr": "base-ball", "es": "(el) béisbol",    "ko": "야구 (field + ball)" },
+{ "en": "badminton",   "fi": "sulkapallo",  "fr": "badminton", "es": "(el) bádminton",  "ko": "배드민턴" },
+{ "en": "chess",       "fi": "shakki",      "fr": "échecs",    "es": "(el) ajedrez", "ko": ""}
 
 
 ]

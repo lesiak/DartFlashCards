@@ -4,8 +4,6 @@
 
 
 
-
-
 { "en": "strong",       "fi": "vahva",          "fr": "forte",   "es": "fuerte",   "ko": "강하다" },
 { "en": "weak (physically)",     "fi": "heikko",         "fr": "faible", "es": "débil",  "ko": "약하다" },
 { "en": "weak (ineffectual)",    "fi": "heikko",         "fr": "faible", "es": "débil",  "ko": "약하다" },
@@ -14,30 +12,7 @@
 { "en": "to lose",   "fi": "menettää, hävitä",   "fr": "perdre", "es": "perder", "ko": "잃다" },
 { "en": "lost",      "fi": "menetetty, hävitty", "fr": "perdu",  "es": "perdido", "ko": "잃어버린" },
 
-
-{ "en": "reaction",        "fi": "reaktio",      "fr": "réaction",    "es": "(la) reacción", "ko": "반응 (reverse + answer)"  },
-{ "en": "to react",        "fi": "suhtautua",    "fr": "réagir",      "es": "reaccionar",    "ko": "반응하다" },
-{ "en": "to disturb",      "fi": "häiritä",      "fr": "perturber",   "es": "perturbar",     "ko": "방해하다" },
-{ "en": "to interrupt",    "fi": "keskeyttää",   "fr": "interrompre", "es": "interrumpir",   "ko": "방해하다" },
-
-
-{ "en": "invitation",      "fi": "kutsu",        "fr": "invitation",   "es": "(la) invitación",  "ko": "초대 (invite + wait), 초청 (invite + request)" },
-{ "en": "to invite",       "fi": "kutsua",       "fr": "inviter",      "es": "invitar",          "ko": "초대하다, 초청하다" },
-{ "en": "according to",    "fi": "mukaan",       "fr": "selon",        "es": "según",               "ko": "-에 따라서" },
-
-{ "en": "for example",     "fi": "esimerkiksi",  "fr": "par exemple",  "es": "por ejemplo",  "ko": "예를 들어서" },
-{ "en": "example",         "fi": "esimerkki",    "fr": "exemple",      "es": "ejemplo",      "ko": "예" },
-
-{ "en": "by chance",       "fi": "sattumalta",   "fr":"par hasard",  "es":"por casualidad", "ko": "우연히"},
-
-{ "en": "on the contrary",   "fi": "päinvastoin",   "fr":"au contraire", "es":"al contrario, por el contrario",  "ko": "이에 반하여"},
-{ "en": "on top of that",    "fi": "(sen) lisäksi", "fr":"", "es": "además", "ko": "게다가"},
-{ "en": "in addition",       "fi": "(sen) lisäksi", "fr":"", "es": "además", "ko": "게다가"},
-
-
-{ "en": "instead of",   "fi": "sijasta, asemesta",   "fr":"au lieu de","es":"en vez de, en lugar de",  "ko": ""},
-
-
+{ "en": "modern",     "fi": "moderni, nykyaikainen",  "fr": "moderne", "es": "moderno",  "ko": "냄새가 나다"},
 
 { "en": "special",         "fi": "erityinen, erikoinen",  "fr": "spéciale",  "es": "especial",  "ko": "특별한" },
 { "en": "private",         "fi": "yksityinen",            "fr": "privé",     "es": "privado", "ko": ""},
@@ -69,7 +44,7 @@
 { "en": "passage (between buildings, underground)",      "fi": "",   "fr": "",   "es": "(el) pasaje", "ko": ""},
 { "en": "passage (way through)",      "fi": "",   "fr": "",   "es": "(el) paso", "ko": ""},
 
-
+{ "en": "dangerous",       "fi": "vaarallinen",     "fr": "dangereux","es": "peligroso",  "ko": "위험한"},
 { "en": "security",        "fi": "turvallisuus",    "fr": "sécurité", "es": "(la) seguridad", "ko": "보안 (keep + comfortable)" },
 { "en": "safe",            "fi": "turvallinen",     "fr": "sauf",     "es": "seguro",         "ko": "안전한 (?)" }
 
