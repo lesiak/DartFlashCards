@@ -66,6 +66,7 @@ class FlashCardsApp extends PolymerElement {
                               'Beginner9Speaking',
                               'Beginner10OtherObjects',
                               'Mythology',
+                              'Economy',
                               'Law',
                               'Containers',
                               'Military',

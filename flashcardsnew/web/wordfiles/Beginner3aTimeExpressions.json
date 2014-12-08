@@ -13,14 +13,17 @@
 { "en": "yet",       "fi": "vielä",      "fr": "encore",   "es": "todavía, aún (still), ya (in questions)",   "ko": "아직" },
 { "en": "still",     "fi": "vielä",      "fr": "encore",   "es": "todavía, aún",                              "ko": ""},
 
-{ "en": "later",     "fi": "myöhemmin",  "fr": "plus tard, ensuite",  "es": "más tarde, luego",  "ko": "나중에" },
-{ "en": "already",   "fi": "jo",         "fr": "déjà",                "es": "ya" ,        "ko": "벌써, 이미" },
+{ "en": "later",      "fi": "myöhemmin", "fr": "plus tard, ensuite",  "es": "más tarde, luego",  "ko": "나중에" },
+{ "en": "already",    "fi": "jo",        "fr": "déjà",                "es": "ya" ,        "ko": "벌써, 이미" },
 { "en": "immediately","fi": "heti",      "fr": "immédiatement",       "es": "inmediatamente" , "ko": "바로, 금방" },
 { "en": "soon",       "fi": "pain",      "fr": "bientôt",             "es": "pronto" , "ko": "" },
 
-{ "en": "immediate","fi": "",      "fr": "",       "es": "inmediato" , "ko": "" },
+{ "en": "since (time)","fi": "",         "fr": "",                    "es": "desde" , "ko": "" },
+{ "en": "from (time)","fi": "",         "fr": "",                     "es": "desde" , "ko": "" },
 
-{ "en": "to last",   "fi": "kestää",     "fr": "durer",              "es": "durar",    "ko": "" },
+{ "en": "immediate",  "fi": "",      "fr": "",       "es": "inmediato" , "ko": "" },
+
+{ "en": "to last",    "fi": "kestää",     "fr": "durer",              "es": "durar",    "ko": "" },
 
 { "en": "always",     "fi": "aina",      "fr": "toujours",  "es": "siempre",   "ko": "항상, 늘, 언제나" },
 { "en": "never",      "fi": "ei koskaan","fr": "jamais",    "es": "nunca",    "ko": "" },

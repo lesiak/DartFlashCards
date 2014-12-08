@@ -25,7 +25,7 @@
 { "en": "generation",       "fi": "sukupolvi",  "fr": "génération", "es": "(la) generación",  "ko": "세대"},
 
 { "en": "to grow up",       "fi": "kasvaa, tulla aikuiseksi",     "fr": "",  "es": "crecer",  "ko": "자라다" },
-{ "en": "to be born",       "fi": "syntyä",    "fr": "naître",    "ko": "태어나다" },
+{ "en": "to be born",       "fi": "syntyä",    "fr": "naître",   "es":"nacer (nací en Cuba)",   "ko": "태어나다" },
 { "en": "life",             "fi": "elämä" ,    "fr": "vie",      "es":"(la) vida",     "ko": "생명"},
 { "en": "young",            "fi": "nuori" ,    "fr": "jeune",    "es": "joven",  "ko": "어리다"},
 { "en": "youth (young age)","fi": "nuoruus" ,  "fr": "jeunesse", "es": "(la) juventud",  "ko": ""},

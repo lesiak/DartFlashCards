@@ -46,6 +46,7 @@
 { "en": "voluntarily",   "ko": "자발적으로",    "fi": "vapaaehtoisesti",   "fr":"volontairement"},
 { "en": "to be related to",   "ko": "",    "fi": "",   "fr":"être liée à"},
 
+{ "en": "journalism",   "fi": "",   "fr":"",     "es":"(el) periodismo", "ko": ""},
 
 
 { "en": "serious (situation, problem)",      "fi": "",      "fr": "", "es": "grave",  "ko": ""},
@@ -105,7 +106,7 @@
 { "en": "to bump into, to find",        "fi": "",   "fr": "", "es": "encontrar",  "ko": ""},
 
 { "en": "to fall",        "fi": "",   "fr": "", "es": "caer",  "ko": ""},
-{ "en": "majority",       "fi": "enemmistö",   "fr": "majorité",  "es": "(la) mayoría", "ko": ""},
+
 
 { "en": "meticulous",   "fi": "huolellinen","fr": "méticuleux",  "es": "meticuloso", "ko": ""},
 

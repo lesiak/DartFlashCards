@@ -49,6 +49,7 @@
 { "en": "equation",     "fi": "yhtälö",    "fr": "équation",    "ko": "방정식" },
 
 { "en": "infinity",     "fi": "äärettömyys",    "fr": "infinité",  "es": "(el) infinito", "ko": "방정식" },
+{ "en": "axis",     "fi": "",    "fr": "",  "es": "(el) eje", "ko": "" },
 
 { "en": "plus (maths)",  "fi": "plussa",    "fr": "plus",  "es": "(el) más", "ko": "" },
 { "en": "minus (maths)", "fi": "miinus",    "fr": "moins",  "es": "(el) menos", "ko": "" },

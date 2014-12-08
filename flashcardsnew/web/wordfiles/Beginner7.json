@@ -29,18 +29,15 @@
 
 { "en": "to work, function",       "ko": "",    "fi": "toimia",    "fr":"fonctionner"},
 
-
-{ "en": "service",      "fi": "palvelu",    "fr": "service", "es": "(el) servicio",  "ko": "서비스"},
-{ "en": "target",       "ko": "",    "fi": "tavoite, kohde",    "fr":""},
-{ "en": "delivery",      "fi": "toimitus",    "fr": "livraison",       "es": "(la) entrega",     "ko": "배달" },
-{ "en": "deliver",       "fi": "toimittaa",   "fr": "livrer",          "es": "entregar",   "ko": "배달하다" },
-
-{ "en": "technology",    "fi": "teknologia, tekniikka",    "fr": "technologie","es": "tecnología",  "ko": "" },
 { "en": "smell",    	"ko": "냄새",    "fi": "haju, tuoksu", 	"fr":"odeur"},
 { "en": "to smell",    	"ko": "냄새가 나다",    "fi": "tuoksua", 	"fr":"sentir"},
 
-
-
+{ "en": "to reach (manage to touch)",      "fi": "",   "fr":"", "es": "alcanzar",  "ko": ""},
+{ "en": "to highlight (problem, difference)",      "fi": "",   "fr":"", "es": "destacar",  "ko": ""},
+{ "en": "to highlight (with pen)",      "fi": "",   "fr":"", "es": "resaltar",  "ko": ""},
+ 
+{ "en": "determination",      "fi": "",   "fr":"", "es": "(el) empeño",  "ko": ""},
+{ "en": "to achieve",      "fi": "",   "fr":"", "es": "lograr",  "ko": ""},
 
 
 { "en": "to continue",    "ko": "계속하다",    "fi": "" , "fr":""},

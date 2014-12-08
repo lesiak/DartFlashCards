@@ -22,8 +22,8 @@
 { "en": "hard disk",       "fi": "kiintolevy",   "fr": "disque dur",  "es": "(el) disco duro",  "ko": "하드 디스크" },
 
 
-{ "en": "television (set)","fi": "televisio",  "fr": "téléviseur (m), télévision (f)",       "ko": "텔레비전"       },
-{ "en": "remote control",    "fi": "kaukosäädin",  "fr": "télécommande",         "ko": ""       },
+{ "en": "television (set)","fi": "televisio",  "fr": "téléviseur (m), télévision (f)",   "es": "(el) televisor",    "ko": "텔레비전"       },
+{ "en": "remote control",    "fi": "kaukosäädin",  "fr": "télécommande",     "es": "(el) control remoto",   "ko": ""       },
 
 
 

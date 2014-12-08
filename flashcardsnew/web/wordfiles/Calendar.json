@@ -30,6 +30,6 @@
 { "en": "calendar",   "fi": "kalenteri",    "fr": "calendrier", "es": "(el) calendario",  "ko": "달력 (month + calendar)" },
 { "en": "date",       "fi": "",             "fr": "date",  "es": "(la) fecha",   "ko": "" },
 
-{ "en": "future",     "fi": "tulevaisuus",  "fr": "avenir",   "es": "(el) futuro", "ko": "미래"   },
-{ "en": "past",       "fi": "menneisyys",   "fr": "passé",    "ko": "과거" }
+{ "en": "future",     "fi": "tulevaisuus",  "fr": "avenir",   "es": "(el) futuro",  "it": "(il) futuro, (il) avvenire", "ko": "미래"   },
+{ "en": "past",       "fi": "menneisyys",   "fr": "passé",    "es": "(el) pasado",  "it": "(il) passato",  "ko": "과거" }
 ]

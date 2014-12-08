@@ -7,7 +7,7 @@
 
 
 
-{ "en": "to bite",         "ko": "씹다",       "fi": "purra, haukata",          "fr": "mordre" },
+{ "en": "to bite",          "fi": "purra, haukata",          "fr": "mordre",    "ko": "씹다" },
 
 
 { "en": "hole",        "ko": "구멍",          "fi": "reikä, aukko, kuoppa, kolo",    "fr": "trou" },
@@ -48,13 +48,6 @@
 { "en": "to function",       "ko": "?",       "fi": "toimia",    "fr": "marcher, fonctionner" },
 { "en": "to use",       "ko": "사용하다, 쓰다",       "fi": "käyttää",    "fr": "utiliser, se servir de" },
 { "en": "belong",       "ko": "속하다",       "fi": "kuulua",    "fr": "appartenir à, être membre de" },
-
-
-
-
-
-
-
 
 
 { "en": "police station",    "ko": "경찰서",    "fi": "poliisiasema" , "fr":"poste de police"},

@@ -1,7 +1,7 @@
 [
 
 { "en": "state (country)","fi": "valtio",        "fr": "état",         "es": "(el) estado", "ko": "" },
-{ "en": "president",     "fi": "presidentti",    "fr": "président",          "ko": "대통령 (great + command + govern)" },
+{ "en": "president",     "fi": "presidentti",    "fr": "président",    "es": "(el) presidente",        "ko": "대통령 (great + command + govern)" },
 { "en": "government",    "fi": "hallitus",       "fr": "gouvernement", "es": "(el) gobierno",  "ko": "정부" },
 { "en": "to govern",     "fi": "hallita",        "fr": "gouverner",    "es": "gobernar",       "ko": "" },
 
@@ -24,7 +24,7 @@
 { "en": "to negotiate",   "fi": "neuvotella",    "fr": "négocier",    "es": "negociar", "ko": "" },
 { "en": "negotiation",    "fi": "neuvottelu",    "fr": "négociation", "es": "(la) negociación",    "ko": "" },
 
-{ "en": "economy",        "fi": "talous",        "fr": "économie",    "es": "(la) economía", "ko": "경제" },
+
 
 { "en": "politics",       "fi": "politiikka",              "fr": "politique",   "es": "(la) política",   "ko": "" },
 { "en": "democracy",      "fi": "kansanvalta, demokratia", "fr": "démocratie",  "es": "(la) democracia",   "ko": "민주주의" },
@@ -33,8 +33,8 @@
 { "en": "monarchy",       "fi": "monarkia",                "fr": "monarchie",   "es": "(la) monarquía",   "ko": "" },
 { "en": "ideology",       "fi": "ideologia",               "fr": "idéologie",   "es": "(la) ideología",   "ko": "" },
 { "en": "liberty",        "fi": "",                        "fr": "liberté",     "es": "(la) libertad",   "ko": "" },
- 
- 
+
+{ "en": "coup d'état",        "fi": "",                    "fr": "coup d'état", "es": "(el) golpe de estado",   "ko": "" }, 
 { "en": "embassy",        "fi": "suurlähetystö", "fr": "ambassade",   "es": "(la) embajada",  "ko": "대사관 (great + dispatch + building)" },
 
 
