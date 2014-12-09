@@ -1,9 +1,15 @@
 [
 
-{ "en": "service",      "fi": "palvelu",    "fr": "service", "es": "(el) servicio",  "ko": "서비스"},
+{ "en": "service",       "fi": "palvelu",     "fr": "service", "es": "(el) servicio",  "ko": "서비스"},
 { "en": "target",        "fi": "tavoite, kohde",    "fr":"",      "ko": ""},
 { "en": "delivery",      "fi": "toimitus",    "fr": "livraison",       "es": "(la) entrega",     "ko": "배달" },
 { "en": "deliver",       "fi": "toimittaa",   "fr": "livrer",          "es": "entregar",   "ko": "배달하다" },
+
+{ "en": "to produce",    "fi": "tuottaa",     "fr": "produire",    "es": "",   "ko": "" },
+{ "en": "production",    "fi": "tuotanto",    "fr": "production",  "es": "",   "ko": "" },
+{ "en": "product",       "fi": "tuote",       "fr": "produit",     "es": "",  "ko": "" },
+
+
 
 { "en": "economy",        "fi": "talous",        "fr": "économie",    "es": "(la) economía", "ko": "경제" },
 { "en": "technology",    "fi": "teknologia, tekniikka",    "fr": "technologie","es": "tecnología",  "ko": "" }

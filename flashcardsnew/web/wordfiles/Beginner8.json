@@ -17,7 +17,7 @@
 { "en": "independence",         "fi": "riippumattomuus",       "fr": "indépendance", "es": "(la) independencia",  "ko": ""},
 
 { "en": "own",        "ko": "자기의",          "fi": "oma",    "fr": "propre" },
-
+{ "en": "pretext",         "fi": "tekosyy",       "fr": "prétexte",   "es": "(el) pretexto",  "ko": "핑계" },
 
 { "en": "long, for a long time",        "ko": "오래",          "fi": "kauan",    "fr": "longtemps" },
 
@@ -37,12 +37,6 @@
 
 { "en": "create",        "ko": "?",          "fi": "luoda",       "fr": "créer" },
 { "en": "establish",     "ko": "?",          "fi": "perustaa",    "fr": "établir" },
-
-
-{ "en": "to produce",     "ko": "",          "fi": "tuottaa",     "fr": "produire" },
-{ "en": "production",     "ko": "",          "fi": "tuotanto",    "fr": "production" },
-{ "en": "product",        "ko": "",          "fi": "tuote",       "fr": "produit" },
-
 
 
 { "en": "to function",       "ko": "?",       "fi": "toimia",    "fr": "marcher, fonctionner" },

@@ -71,7 +71,7 @@
 
 { "en": "a couple",          "fi": "pari",              "fr": "couple",    "es": "(la) pareja", "ko": "" },
 { "en": "boyfriend",         "fi": "poikaystävä",       "fr": "copain",    "es": "(el) novio", "ko": "" },
-{ "en": "marriage",          "fi": "avioliitto, häät",  "fr": "mariage",      "ko": "결혼 (tie + marry)" },
+{ "en": "marriage",          "fi": "avioliitto, häät",  "fr": "mariage",   "es": "(el) matrimonio",     "ko": "결혼 (tie + marry)" },
 { "en": "married",           "fi": "naimisissa",        "fr": "marié",     "es": "casado",  "ko": "" },
 { "en": "to get married",    "fi": "mennä naimisiin",   "fr": "se marier", "es": "casarse",  "ko": "결혼하다" },
 
@@ -82,8 +82,9 @@
 
 { "en": "fiancé",       "fi": "sulhanen",   "fr": "fiancé", "es": "(el) novio, (el) prometido",   "ko": ""},
 
-{ "en": "engagement (betrothal)",        "ko": "약혼 (contract + marry)",          "fi": "kihlaus",    "fr": "fiançailles" },
-{ "en": "blind date",   "ko": "소개팅",    "fi": "sokkotreffit",   "fr":""},
+{ "en": "engagement (betrothal)",           "fi": "kihlaus",    "fr": "fiançailles",  "ko": "약혼 (contract + marry)" },
+{ "en": "date (meeting)","fi": "",   "fr":"",      "es": "(la) cita",   "ko": ""},
+{ "en": "blind date",    "fi": "sokkotreffit",   "fr":"",      "es": "(la) cita a ciegas",   "ko": "소개팅"},
 
  { "en": "neighbour",   "fi": "naapuri",     "fr": "voisin",  "es": "(el) vecino",  "ko": "이웃 사람" },
  { "en": "flatmate",    "fi": "kämppäkaveri, kämppis",     "fr": "colocataire",  "es": "(el) compañero de piso",  "ko": "" },
