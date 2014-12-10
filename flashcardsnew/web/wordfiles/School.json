@@ -19,18 +19,20 @@
 
 { "en": "report",       "ko": "보고서",       "fi": "selvitys, raportti",    "fr": "rapport" },
 
-{ "en": "pencil",         "fi": "lyijykynä",    "fr": "crayon",         "es": "(el) lápiz", "ko": "연필"}, 
+{ "en": "pencil",          "fi": "lyijykynä",    "fr": "crayon",         "es": "(el) lápiz", "ko": "연필"}, 
 
-{ "en": "mathematics",    "fi": "matematiikka", "fr": "mathématiques",  "es": "(las) matemáticas", "ko": "수학" },
-{ "en": "geometry",       "fi": "geometria",    "fr": "géométrie",      "es": "(la) geometría",    "ko": "기하학" },
-{ "en": "algebra",        "fi": "algebra",      "fr": "algèbre",        "es": "(la) álgebra",      "ko": "기하학" },
-{ "en": "statistics",     "fi": "tilasto",      "fr": "statistiques",   "es": "(la) estadística",  "ko": "" },
-{ "en": "physics",        "fi": "fysiikka",     "fr": "physique",       "es": "(la) física",       "ko": "물리학" },
-{ "en": "biology",        "fi": "biologia",     "fr": "biologie",       "es": "(la) biología",     "ko": "생물학" }, 
-{ "en": "chemistry",      "fi": "kemia",        "fr": "chimie",         "es": "(la) química",      "ko": "화학" }, 
-{ "en": "psychology",     "fi": "psykologia",   "fr": "psychologie",    "es": "(la) psicología",   "ko": "심리학" },
-{ "en": "geography",      "fi": "maantiede",    "fr": "géographie",     "es": "(la) geografía",    "ko": "지리학" },
-{ "en": "law (discipline)",       "ko": "",       "fi": "oikeustiede",    "fr": "droit" },
+{ "en": "mathematics",     "fi": "matematiikka", "fr": "mathématiques",  "es": "(las) matemáticas", "ko": "수학" },
+{ "en": "geometry",        "fi": "geometria",    "fr": "géométrie",      "es": "(la) geometría",    "ko": "기하학" },
+{ "en": "algebra",         "fi": "algebra",      "fr": "algèbre",        "es": "(la) álgebra",      "ko": "기하학" },
+{ "en": "statistics",      "fi": "tilasto",      "fr": "statistiques",   "es": "(la) estadística",  "ko": "" },
+{ "en": "physics",         "fi": "fysiikka",     "fr": "physique",       "es": "(la) física",       "ko": "물리학" },
+{ "en": "computer science","fi": "",             "fr": "",                       "es": "(las) ciencias de la computación",       "ko": "" },
+
+{ "en": "biology",         "fi": "biologia",     "fr": "biologie",       "es": "(la) biología",     "ko": "생물학" }, 
+{ "en": "chemistry",       "fi": "kemia",        "fr": "chimie",         "es": "(la) química",      "ko": "화학" }, 
+{ "en": "psychology",      "fi": "psykologia",   "fr": "psychologie",    "es": "(la) psicología",   "ko": "심리학" },
+{ "en": "geography",       "fi": "maantiede",    "fr": "géographie",     "es": "(la) geografía",    "ko": "지리학" },
+{ "en": "law (discipline)",          "fi": "oikeustiede",    "fr": "droit",   "ko": "" },
 { "en": "medicine (discipline)",       "ko": "의학",       "fi": "lääketiede",    "fr": "médecine" },
 
 { "en": "elementary school",       "ko": "초등학교 (early + class + study + school)",       "fi": "alkeiskoulu",    "fr": "école primaire" },

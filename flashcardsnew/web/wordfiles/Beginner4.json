@@ -7,19 +7,13 @@
 { "en": "to lend",     "fi": "lainata, antaa lainaksi",    "fr": "prêter",    "es": "prestar", "ko": "빌려주다" },
 { "en": "gift (present)",  "fi": "lahja",    "fr": "cadeau",  "es": "(el) regalo",    "ko": "선물" },
 
-
-
-
 { "en": "to open",       "fi": "avata",   "fr": "ouvrir",    "es": "abrir",   "ko": "열다" },
 { "en": "open",          "fi": "auki",    "fr": "ouvert",    "es": "abierto", "ko": "열다" },
 { "en": "to close",      "fi": "sulkea",  "fr": "fermer",    "es": "cerrar", "ko": "닫다" },
 { "en": "closed",        "fi": "suljettu, kiinni",    "fr": "fermé", "es": "cerrado",  "ko": "" },
 
-
-
-
-{ "en": "nice",        "ko": "",          "fi": "kiva, mukava",       "fr": "agréable" },
-{ "en": "pleasant",    "ko": "",          "fi": "miellyttävä, mukava","fr": "agréable" },
+{ "en": "nice",        "fi": "kiva, mukava",       "fr": "agréable",  "es": "agradable",  "ko": "" },
+{ "en": "pleasant",    "fi": "miellyttävä, mukava","fr": "agréable",  "es": "agradable", "ko": "" },
 { "en": "comfortable", "fi": "mukava",    "fr": "confortable", "es": "cómodo, confortable",  "ko": "" },
 
 
@@ -28,7 +22,7 @@
 
 { "en": "rise",              "fi": "nousta",        "fr": "augmenter",  "ko": "오르다" },
 { "en": "significantly",     "fi": "merkittävästi", "fr": "significativement", "es": "significativamente",  "ko": "크게" },
-{ "en": "advertisement",     "fi": "mainos",        "fr": "publicité",         "es": "(el) anuncio",        "ko": "광고" },
+
 
 
 
@@ -66,7 +60,7 @@
 { "en": "to expect",       "fi": "odottaa",    "fr": "attendre", "ko": "예상하다, 기대하다" },
 { "en": "to intend",       "ko": "",       "fi": "aikoa",    "fr": "avoir l'intention" },
 
-
+{ "en": "worse",          "fi": "",   "fr":"", "es": "peor",  "ko": ""},
 
 
 { "en": "to forbid",       "fi": "kieltää",    "fr": "interdire",   "es": "prohibir", "ko": "금하다" },

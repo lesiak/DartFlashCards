@@ -31,7 +31,7 @@
 { "en": "profit",          "fi": "voitto",          "fr": "profitable, rentable", "ko": "" },
 { "en": "profitable",         "ko": "",       "fi": "kannattava, tuottoisa, tuottava",          "fr": "profitable, rentable" },
 { "en": "unprofitable",         "ko": "",       "fi": "tappiollinen, kannattamaton",          "fr": "peu profitable, peu rentable" },
-{ "en": "prize",   "fi": "palkinto",   "fr":"prix",     "es":"(el) premio", "ko": ""},
+{ "en": "prize",   "fi": "palkinto",   "fr":"prix",     "es":"(el) premio, (el) galardón (formal)", "ko": ""},
 
 
 { "en": "discount",        "fi": "alennus",          "fr": "réduction, rabais, remise",     "es": "(el) descuento",   "ko": "할인" },

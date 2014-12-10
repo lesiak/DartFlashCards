@@ -1,9 +1,14 @@
 [
 
-{ "en": "to explain",   "fi": "selittää",      "fr": "expliquer", "es": "explicar",       "ko": "" },
+{ "en": "to explain",   "fi": "selittää",      "fr": "expliquer",            "es": "explicar",       "ko": "" },
 
 { "en": "to discuss",    "fi": "pohtia, keskustella jstk" , "fr":"discuter", "es":"discutir", "ko": ""},
 { "en": "discussion",    "fi": "keskustelu" ,   "fr":"discussion",           "es":"(la) discusión",  "ko": "토론"},
+
+{ "en": "to tell (a story)",   "fi": "",        "fr": "",                    "es": "contar",  "ko": ""},
+{ "en": "to fill (in)",        "fi": "",        "fr": "",                    "es": "rellenar",  "ko": ""},
+
+
 { "en": "to approve",    "fi": "hyväksyä, keskustella jstk" , "fr":"approuver", "es":"aprobar", "ko": ""},
 
 { "en": "to refuse",    "fi": "kieltäytyä" , "fr":"refuser", "es":"rehusar", "ko": ""},

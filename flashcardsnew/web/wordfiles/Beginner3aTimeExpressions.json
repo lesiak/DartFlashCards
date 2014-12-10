@@ -20,6 +20,7 @@
 
 { "en": "since (time)","fi": "",         "fr": "",                    "es": "desde" , "ko": "" },
 { "en": "from (time)","fi": "",         "fr": "",                     "es": "desde" , "ko": "" },
+{ "en": "to (until, time)","fi": "",         "fr": "",                "es": "hasta" , "ko": "" },
 
 { "en": "immediate",  "fi": "",      "fr": "",       "es": "inmediato" , "ko": "" },
 

@@ -1,9 +1,5 @@
 [
 
-
-
-
-
 { "en": "strong",       "fi": "vahva",          "fr": "forte",   "es": "fuerte",   "ko": "강하다" },
 { "en": "weak (physically)",     "fi": "heikko",         "fr": "faible", "es": "débil",  "ko": "약하다" },
 { "en": "weak (ineffectual)",    "fi": "heikko",         "fr": "faible", "es": "débil",  "ko": "약하다" },
@@ -21,7 +17,7 @@
 { "en": "sufficient",      "fi": "riittävä",              "fr":"suffisant",  "es":"suficiente",  "ko": ""},
 { "en": "diverse",         "fi": "",                      "fr": "", "es": "diverso",  "ko": ""},
 { "en": "exact",           "fi": "",                      "fr": "", "es": "exacto",  "ko": ""},
-{ "en": "normal",   "fi": "",                      "fr": "", "es": "normal",  "ko": ""},
+{ "en": "normal",          "fi": "",                      "fr": "", "es": "normal",  "ko": ""},
 { "en": "extraordinary",   "fi": "",                      "fr": "", "es": "extraordinario",  "ko": ""},
 { "en": "strange",       "fi": "outo, kummallinen, omituinen",          "fr": "étrange", "es": "extraño", "ko": "이상하다" },
 
@@ -31,8 +27,9 @@
 { "en": "absolute",      "fi": "absoluuttinen",   "fr": "absolu",   "es": "absoluto",  "ko": ""},
 { "en": "concrete",      "fi": "konkreettinen",   "fr": "concret",  "es": "concreto",  "ko": ""},
 { "en": "definitive",    "fi": "lopullinen",      "fr": "définitif","es": "definitivo",  "ko": ""},
-{ "en": "perfect",    "fi": "",   "fr":"", "es": "perfecto",  "ko": ""},
-{ "en": "precise",    "fi": "",   "fr":"", "es": "preciso",  "ko": ""},
+{ "en": "perfect",    "fi": "",   "fr":"",    "es": "perfecto",  "ko": ""},
+{ "en": "precise",    "fi": "",   "fr":"",    "es": "preciso",  "ko": ""},
+{ "en": "pure",       "fi": "",   "fr":"",    "es": "puro",  "ko": ""},
 
 { "en": "personal",    "fi": "",   "fr":"", "es": "personal",  "ko": ""},
 

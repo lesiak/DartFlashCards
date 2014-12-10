@@ -37,6 +37,9 @@
 
 { "en": "mean, wicked",  "fi": "",               "fr": "méchant",     "es": "malo", "ko": "" },
 { "en": "cruel",         "fi": "julma",          "fr": "cruel",       "es": "cruel", "ko": "" },
+{ "en": "brutal",        "fi": "brutaali",       "fr": "brutal",    "es": "brutal",  "ko": "" },
+{ "en": "brutality",     "fi": "",               "fr": "brutalité",    "es": "(la) brutalidad",  "ko": "" },
+
 
 { "en": "kind",          "fi": "",               "fr": "aimable",     "es": "amable", "ko": "" },
 { "en": "loving, kind",  "fi": "",               "fr": "affectueux",  "es": "cariñoso", "ko": "" },
@@ -53,6 +56,9 @@
 { "en": "honest",       "fi": "rehellinen",      "fr": "honnête",     "es": "honesto", "ko": "진실하다" },
 { "en": "reliable",     "fi": "luotettava",      "fr": "fiable",     "ko": "믿음직하다" },
 { "en": "hard-working",     "fi": "ahkera",      "fr": "travailleur",  "es": "trabajador",     "ko": "" },
+{ "en": "competent",        "fi": "",            "fr": "",            "es": "competente, capaz",     "ko": "" },
+{ "en": "incompetent",      "fi": "",            "fr": "",  "          es": "incompetente",     "ko": "" },
+{ "en": "meticulous",       "fi": "huolellinen", "fr": "méticuleux",  "es": "meticuloso", "ko": ""},
 
 { "en": "responsible",      "fi": "vastuullinen","fr": "responsable",     "es": "responsable", "ko": "" },
 { "en": "responsibility",   "fi": "vastuu",      "fr": "responsabilité",  "es": "(la) responsabilidad", "ko": "" },
@@ -62,6 +68,8 @@
 
 { "en": "enthusiastic", "fi": "innostunut",     "fr": "enthousiaste", "es": "entusiasmado",  "ko": "" },
 { "en": "mischievous",  "fi": "ilkikurinen",    "fr": "malicieux",    "es": "malvado",  "ko": "" },
+
+{ "en": "lustful",  "fi": "himokas",    "fr": "",    "es": "lujurioso",  "ko": "" },
 
 
 { "en": "good-natured", "fi": "sävyisä",        "fr": "facile à vivre",   "ko": "착하다" },

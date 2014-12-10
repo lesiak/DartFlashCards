@@ -73,7 +73,7 @@
 { "en": "boyfriend",         "fi": "poikaystävä",       "fr": "copain",    "es": "(el) novio", "ko": "" },
 { "en": "marriage",          "fi": "avioliitto, häät",  "fr": "mariage",   "es": "(el) matrimonio",     "ko": "결혼 (tie + marry)" },
 { "en": "married",           "fi": "naimisissa",        "fr": "marié",     "es": "casado",  "ko": "" },
-{ "en": "to get married",    "fi": "mennä naimisiin",   "fr": "se marier", "es": "casarse",  "ko": "결혼하다" },
+{ "en": "to get married (to), marry", "fi": "mennä naimisiin",   "fr": "se marier", "es": "casarse (con)",  "ko": "결혼하다" },
 
 { "en": "single, unmarried", "fi": "naimaton",          "fr": "célibataire",  "es": "soltero",  "ko": "" },
 

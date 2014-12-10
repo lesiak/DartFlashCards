@@ -5,6 +5,9 @@
 { "en": "to wipe",        "fi": "pyyhkiä",    "fr": "essuyer",  "ko": "닦음" },
 { "en": "to sweep",       "ko": "",       "fi": "lakaista",    "fr": "balayer" },
 
+{ "en": "stain",          "fi": "tahra",    "fr": "tache",    "es": "(la) mancha", "ko": "" },
+
+
 { "en": "broom",       "ko": "",       "fi": "harja, luuta",    "fr": "balai" },
 { "en": "brush (sweeper)",       "ko": "",       "fi": "harja",    "fr": "balayette (f)" },
 { "en": "dust pan",       "ko": "",       "fi": "rikkalapio",    "fr": "pelle (f)" },

@@ -16,11 +16,4 @@ class DecksTableElement extends PolymerElement {
     dispatchEvent(new CustomEvent('decknameclicked', detail: deckName)); 
   }
   
-  String getCss(String wordFile, String _selectedNameTrigger) {    
-    if (wordFile == selectedName) {
-      return "selectedTableRow";      
-    } else {
-      return "";
-    }
-  }
 }

@@ -14,7 +14,12 @@
 { "en": "backache",         "fi": "selkäkipu",  "fr": "mal au dos",   "es": "(el) dolor de espalda",  "ko": ""},
 { "en": "to hurt",          "fi": "" ,      "fr": "",      "es": "doler (me duele el pie)",             "ko": ""},
 
-{ "en": "to be injured",    "fi": "" , "fr":"",   "ko": "다치다"},
+{ "en": "poison",          "fi": "" , "fr":"poison",          "es":"(el) veneno",  "ko": ""},
+{ "en": "poisonous",       "fi": "" , "fr":"",                       "es":"venenoso",  "ko": ""},
+{ "en": "poisoning (intentional)",       "fi": "" , "fr":"",          "es":"envenenamiento",  "ko": ""},
+{ "en": "poisoning (accidental)",       "fi": "" , "fr":"",           "es":"intoxicación",  "ko": ""},
+
+
 { "en": "cancer",           "fi": "syöpä",      "fr":" cancer",      "es": "(el) cáncer",      "ko": "암"},
 { "en": "virus",            "fi": "virus" ,     "fr":" virus",       "es": "(el) virus",       "ko": "바이러스"},
 { "en": "vitamin",          "fi": "vitamiini" , "fr":"vitamine",     "es": "(la) vitamina",    "ko": "비타민"},

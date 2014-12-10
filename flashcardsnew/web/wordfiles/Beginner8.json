@@ -31,7 +31,10 @@
 { "en": "to replace",        "ko": "",          "fi": "korvata",       "fr": "remplacer" },
 { "en": "replacement",        "ko": "",          "fi": "korvaaminen, korvaus",       "fr": "remplacement" },
 
+{ "en": "landowner",          "fi": "",       "fr": "", "es": "(el) terrateniente", "ko": "" },
 
+{ "en": "to deny",      "fi": "",      "fr": "", "es": "negar",  "ko": ""},
+{ "en": "to agree",      "fi": "",      "fr": "", "es": "acordar",  "ko": ""},
 { "en": "prevent",      "fi": "estää, ehkäistä",    "fr": "empêcher", "es": "impedir",  "ko": "막다, 방해하다" },
 { "en": "obstacle",      "fi": "este",    "fr": "obstacle", "ko": "방해, 장애" },
 
@@ -45,11 +48,12 @@
 
 
 { "en": "police station",    "ko": "경찰서",    "fi": "poliisiasema" , "fr":"poste de police"},
-{ "en": "to publish",         "ko": "출판하다",       "fi": "julkaista, kustantaa",          "fr": "publier" },
+
+{ "en": "to publish",           "fi": "julkaista, kustantaa",          "fr": "publier",    "ko": "출판하다" },
 { "en": "publisher",         "ko": "",       "fi": "kustantaja",          "fr": "éditeur" },
 { "en": "publishing house",         "ko": "출판사",       "fi": "kustantamo",          "fr": "éditeur d'édition" },
 
-{ "en": "Air conditioning",    "ko": "에어컨",    "fi": "ilmastointi" , "fr":"climatisation"},
+
 
 { "en": "sign",        "ko": "간판",       "fi": "merkki",         "fr": "panneau" },
 { "en": "warning",     "ko": "경고",       "fi": "varoitus",         "fr": "avertissement" },

@@ -69,6 +69,7 @@
 { "en": "traffic lights",   "fi": "liikennevalot",   "fr": "feux de circulation",  "es": "(el) semáforo",  "ko": "" },
 
 { "en": "traffic",          "fi": "liikenne" ,       "fr": "circulation",    "es": "(el) tráfico",        "ko": "교통"},
+{ "en": "traffic jam",      "fi": "liikenneruuhka" , "fr": "embouteillage",  "es": "(el) atasco, (el) embotellamiento ",        "ko": "교통"},
 { "en": "street lamp (lamppost)","fi": "lyhtypylväs",   "fr": "lampadaire",  "es": "(la) farola",  "ko": "" },
 { "en": "postbox",          "fi": "postilaatikko",   "fr": "boîte postale",  "es": "(el) buzón",  "ko": "" },
 { "en": "tunnel",           "fi": "tunneli",         "fr": "tunnel",         "es": "(el) túnel",  "ko": "" },
