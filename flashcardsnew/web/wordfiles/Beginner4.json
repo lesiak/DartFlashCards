@@ -34,7 +34,13 @@
 { "en": "other",          "fi": "muu",      "fr": "autre",        "es": "otro",  "ko": "다른" },
 { "en": "only",           "fi": "vain",     "fr": "seulement",    "es": "sólo",    "ko": "만" },
 
-
+{ "en": "both",          "fi": "molemmat",    "fr": "tous les deux", "es": "ambos",  "ko": "" },
+{ "en": "together",      "fi": "yhdessä",     "fr": "ensemble",  "es": "juntos",   "ko": "함께" },
+{ "en": "to unite",      "fi": "yhdistyä",    "fr": "unir",      "es": "unir", "ko": "" },
+{ "en": "united",        "fi": "",            "fr": "uni",       "es": "unido", "ko": "" },
+ 
+{ "en": "separately",    "fi": "erillään",    "fr": "séparément",   "ko": "따로" }, 
+{ "en": "to separate",   "fi": "erottaa",     "fr": "séparer",   "ko": "" }, 
 
 { "en": "become",         "fi": "tulla",     "fr": "devenir",     "es": "hacerse (a teacher, a doctor); volverse (boring, jealous, suspicious); hacerse (old, difficult, stronger); ponerse (happy, sad, thin)", "ko": "되다" },
 { "en": "beginning (noun)","fi": "alku",     "fr": "début",        "es": "(el) comienzo",      "ko": "처음" },
@@ -47,6 +53,7 @@
 { "en": "lie",         "fi": "valhe",       "fr": "mensonge",      "es": "mentira",     "ko": "거짓말" },
 { "en": "a secret",    "fi": "salaisuus",   "fr": "secret",        "es": "(el) secreto","ko": "비밀"},
 { "en": "secret",      "fi": "salainen",    "fr": "secret",        "es": "secreto",     "ko": "비밀"},
+{ "en": "mysterious",      "fi": "salaperäinen",    "fr": "mystérieux",        "es": "misterioso",  "it": "misterioso",     "ko": ""},
 
 { "en": "fact",        "fi": "tosiasia",    "fr": "fait, vérité",  "es": "(el) hecho", "ko": "사실" },
 { "en": "in fact",     "fi": "",            "fr": "",              "es": "de hecho",    "ko": "" },
@@ -65,13 +72,18 @@
 
 { "en": "to forbid",       "fi": "kieltää",    "fr": "interdire",   "es": "prohibir", "ko": "금하다" },
 
-{ "en": "to be used, be utilized",       "ko": "쓰이다",       "fi": "",    "fr": "" },
+
 { "en": "event",           "fi": "tapahtuma",  "fr": "événement",   "ko": "행사" },
+
 { "en": "situation",       "fi": "tilanne",    "fr": "situation",   "es": "(la) situación",      "ko": "?" },
 { "en": "knowledge",       "fi": "tieto",      "fr": "connaissance","es": "(el) conocimiento",   "ko": "지식" },
 { "en": "known",           "fi": "tunnettu",   "fr": "connu",       "es": "conocido",  "ko": ""},
+{ "en": "information",     "fi": "tiedot",    "fr": "information",  "es": "(la) información",   "ko": "정보" },
 
-  
+{ "en": "reason",          "fi": "syy",    "fr": "raison",  "es": "(la) razón",   "ko": "원인" },
+{ "en": "cause",           "fi": "",       "fr":"cause",    "es": "(la) causa",   "ko": ""},
+
+
 { "en": "empty",           "fi": "tyhjä",      "fr": "vide",        "es": "vacío",     "ko": "비다" },
 { "en": "vacant",          "fi": "vapaa",      "fr": "vacant",      "es": "vacante",   "ko": "비다" }
 

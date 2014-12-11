@@ -5,10 +5,7 @@
 
 { "en": "sure",             "fi": "varma",    "fr": "sûr", "fr": "seguro",  "ko": ""},
 
-
-
 { "en": "to bite",          "fi": "purra, haukata",          "fr": "mordre",    "ko": "씹다" },
-
 
 { "en": "hole",        "ko": "구멍",          "fi": "reikä, aukko, kuoppa, kolo",    "fr": "trou" },
 { "en": "hang (sth)",           "fi": "riippua (from = elative)","fr": "pendre","ko": "걸다" },
@@ -24,8 +21,6 @@
 { "en": "to change, to replace one's own clothing",        "ko": " 갈아입다",          "fi": "vaihtaa vaatteet",    "fr": "se changer" }, 
 
 { "en": "line",          "ko": "호선",       "fi": "linja",    "fr": "ligne de métro" },
-
-
 { "en": "to burn",        "ko": "타다",          "fi": "polttaa",    "fr": "" },
 
 { "en": "to replace",        "ko": "",          "fi": "korvata",       "fr": "remplacer" },
@@ -38,7 +33,7 @@
 { "en": "prevent",      "fi": "estää, ehkäistä",    "fr": "empêcher", "es": "impedir",  "ko": "막다, 방해하다" },
 { "en": "obstacle",      "fi": "este",    "fr": "obstacle", "ko": "방해, 장애" },
 
-{ "en": "create",        "ko": "?",          "fi": "luoda",       "fr": "créer" },
+
 { "en": "establish",     "ko": "?",          "fi": "perustaa",    "fr": "établir" },
 
 
@@ -49,15 +44,13 @@
 
 { "en": "police station",    "ko": "경찰서",    "fi": "poliisiasema" , "fr":"poste de police"},
 
-{ "en": "to publish",           "fi": "julkaista, kustantaa",          "fr": "publier",    "ko": "출판하다" },
-{ "en": "publisher",         "ko": "",       "fi": "kustantaja",          "fr": "éditeur" },
-{ "en": "publishing house",         "ko": "출판사",       "fi": "kustantamo",          "fr": "éditeur d'édition" },
+{ "en": "journalism",        "fi": "",                     "fr": "",        "es":"(el) periodismo", "ko": ""},
+{ "en": "to publish",        "fi": "julkaista, kustantaa", "fr": "publier",    "ko": "출판하다" },
+{ "en": "publisher",         "fi": "kustantaja",           "fr": "éditeur",  "ko": "" },
+{ "en": "publishing house",  "fi": "kustantamo",          "fr": "éditeur d'édition",   "ko": "출판사" },
 
-
-
-{ "en": "sign",        "ko": "간판",       "fi": "merkki",         "fr": "panneau" },
-{ "en": "warning",     "ko": "경고",       "fi": "varoitus",         "fr": "avertissement" },
-
+{ "en": "sign",             "fi": "merkki",         "fr": "panneau",  "ko": "간판" },
+{ "en": "warning",            "fi": "varoitus",         "fr": "avertissement", "ko": "경고" },
 
 
 { "en": "loss",    "ko": "손실, 상실",    "fi": "tappio, menetys, häviö (on tehnyt koko ajan tappiota)" , "fr":"perte"},

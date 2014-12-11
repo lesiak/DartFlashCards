@@ -13,6 +13,10 @@
 
 { "en": "to refuse",    "fi": "kieltäytyä" , "fr":"refuser", "es":"rehusar", "ko": ""},
 
+{ "en": "comment",           "fi": "kommentti",          "fr": "commentaire", "es": "(el) comentario",  "ko": "비평" },
+{ "en": "to comment",        "fi": "kommentoida",          "fr": "commenter", "es": "comentar (que | algo)",   "ko": "비평하다" },
+
+
 { "en": "criticize, reproach",  "fi": "arvostella",    "fr": "critiquer", "ko": "비난하다 (blame + blame)" },
 { "en": "criticize",            "ko": "비판하다 (blame + judge)",          "fi": "arvostella",    "fr": "critiquer" },
 { "en": "critical",            "ko": "비판적 (blame + judge + of)",          "fi": "kriittinen",    "fr": "critique" },
@@ -31,10 +35,11 @@
 { "en": "to admit",    "fi": "" , "fr":"admettre", "es":"admitir", "ko": ""},
 
 { "en": "to declare",    "fi": "julistaa",  "fr":"déclarer",  "es": "declarar", "ko": ""},
-{ "en": "to announce",   "ko": "",    "fi": "ilmoittaa, kuuluttaa, julistaa",  "fr":"annoncer"},
+{ "en": "to announce",    "fi": "ilmoittaa, kuuluttaa, julistaa",  "fr":"annoncer",  "ko": ""},
+{ "en": "announcement",   "fi": "ilmoitus",          "fr": "annonce",  "ko": "발표" },
 { "en": "flattery",               "fi": "imartelu",    "fr": "flatterie",  "ko": "아첨, 아부, 듣기 좋은 말" },
-{ "en": "to shut up",       "ko": "닥치다",    "fi": "lähestyä",    "fr":"se taire"},
-{ "en": "shut up",       "ko": "입 닥쳐",    "fi": "ole hiljaa",    "fr":"tais-toi"}
+{ "en": "to shut up",          "fi": "lähestyä",    "fr":"se taire",  "ko": "닥치다"},
+{ "en": "shut up",            "fi": "ole hiljaa",    "fr":"tais-toi",  "ko": "입 닥쳐"}
 
 
 ]

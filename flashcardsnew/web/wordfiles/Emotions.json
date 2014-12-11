@@ -22,11 +22,18 @@
 { "en": "exciting",       "fi": "jännittävä",  "fr": "excitant, passionnant",  "es": "emocionante", "ko": ""},
 
 { "en": "tired",         "fi": "väsynyt",   "fr": "fatigué",   "es": "cansado",  "ko": "피곤한" },
+{ "en": "jealous",            "fi": "mustasukkainen",          "fr": "jaloux",  "ko": "부럽다" },
+{ "en": "ashamed",             "fi": "häpeissään",          "fr": "honteux",   "ko": "부끄럽다" },
 
 
-{ "en": "to laugh",      "fi": "nauraa",      "fr": "rire",      "es": "reír",          "ko": "웃다" },
+{ "en": "to laugh",      "fi": "nauraa",      "fr": "rire",      "es": "reírse",          "ko": "웃다" },
 { "en": "to smile",      "fi": "hymyillä",    "fr": "sourire",   "es": "sonreír",  "ko": "웃다" },
 { "en": "smile",         "fi": "hymy",        "fr": "sourire",   "es": "(la) sonrisa",        "ko": "미소" },
+
+{ "en": "to cry",          "fi": "itkeä",           "fr": "pleurer",       "es": "llorar",   "ko": ""},
+
+{ "en": "to yell",          "fi": "huutaa",           "fr": "crier, hurler",       "es": "gritar",   "ko": ""},
+{ "en": "to blush",          "fi": "punastua",        "fr": "",       "es": "ponerse rojo",   "ko": ""},
 
 
 { "en": "anger",      "fi": "viha",           "fr": "colère",    "es": "(la) ira, (la) cólera", "ko": "분노" },
@@ -42,6 +49,9 @@
 { "en": "to hope",    "fi": "toivoa",         "fr": "espérer",   "es": "esperar",               "ko": "희망하다" },
 { "en": "hope",       "fi": "toivo",          "fr": "espoir",    "es": "(la) esperanza",        "ko": "희망" },
 { "en": "hopefully(!)","fi": "",     "fr": "",          "es": "Ojalá",        "ko": "" },
+
+{ "en": "luckily","fi": "",     "fr": "",          "es": "por suerte",        "ko": "" },
+
 
 { "en": "emotion",    "fi": "tunne, emotio",  "fr": "émotion",   "es": "(la) emoción",   "ko": "감정" },
 { "en": "mood",       "fi": "mieliala",       "fr": "humeur",    "es": "(el) humor",     "ko": "기분" },

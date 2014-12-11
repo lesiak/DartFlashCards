@@ -9,7 +9,7 @@ class FlagPanel extends PolymerElement {
     "hu": "resources/svgFlags/Civil_Ensign_of_Hungary.svg",
     "fr": "resources/svgFlags/Flag_of_France.svg",
     "es": "resources/svgFlags/Flag_of_Spain_(Civil).svg",
-    "da": "resources/svgFlags/Flag_of_Denmark.svg"
+    "it": "resources/svgFlags/Flag_of_Italy.svg"
   };
       
   @published String primaryLang;

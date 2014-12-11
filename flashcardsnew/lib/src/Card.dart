@@ -5,7 +5,7 @@ class Card {
   String es;
   String fi;
   String fr;
-  String da;
+  String it;
   String hu;
   String ko;
   
@@ -13,7 +13,7 @@ class Card {
     return new Card("", "", "", "", "", "", "");
   }
   
-  Card(this.en, this.es, this.fi, this.fr, this.da, this.hu, this.ko);
+  Card(this.en, this.es, this.fi, this.fr, this.it, this.hu, this.ko);
   
   String getValueForLang(String lang) {    
     switch (lang) {
@@ -21,7 +21,7 @@ class Card {
       case "fi": return fi;
       case "fr": return fr;
       case "es": return es;
-      case "da": return da;
+      case "it": return it;
       case "hu": return hu;
       case "ko": return ko;      
       default: return null;

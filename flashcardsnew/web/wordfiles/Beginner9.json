@@ -11,9 +11,10 @@
 { "en": "to go down",     "fi": "",  "fr":"", "es":"bajar",   "ko": ""},
  
 { "en": "belong (to)",        "fi": "kuulua (+allative)",   "fr": "appartenir (à)", "es": "pertenecer (a)",   "ko": ""},
-{ "en": "information",        "fi": "tiedot",    "fr": "information", "ko": "정보" },
+
 
 { "en": "intuition",        "fi": "intuitio", 	"fr":"intuition", "es":"(la) intuición", "ko": "직관"},
+{ "en": "to intuit",        "fi": "tajuta intuitiivisesti",   "fr":"", "es":"intuir","it":"intuire", "ko": "직관"},
 
 { "en": "to tighten (sth)",           "ko": "",    "fi": "kiristää",   "fr":"serrer"},
 { "en": "to tighten (intransitive)",  "ko": "",    "fi": "kiristyä",   "fr":"se resserrer"},
@@ -47,7 +48,7 @@
 
 { "en": "to be related to",   "ko": "",    "fi": "",   "fr":"être liée à"},
 
-{ "en": "journalism",   "fi": "",   "fr":"",     "es":"(el) periodismo", "ko": ""},
+
 
 
 { "en": "serious (situation, problem)",      "fi": "",      "fr": "", "es": "grave",  "ko": ""},
@@ -56,14 +57,11 @@
 { "en": "measure (action, step)",      "fi": "",      "fr": "", "es": "(la) medida",  "ko": ""},
 { "en": "to take measures",      "fi": "",      "fr": "",       "es": "tomar medidas",  "ko": ""},
 
-
-
-
 { "en": "due (to)",       "fi": "",      "fr": "grâce (à)", "es": "debido (a)",  "ko": ""},
 { "en": "to happen",      "fi": "",      "fr": "", "es": "pasar",  "ko": ""},
 
 { "en": "to waste",      "fi": "",      "fr": "", "es": "perder",  "ko": ""},
-{ "en": "to be situated",      "fi": "",      "fr": "", "es": "estar situado",  "ko": ""},
+
 
 { "en": "ready, willing",      "fi": "",      "fr": "", "es": "dispuesto",  "ko": ""},
 { "en": "direct",      "fi": "",      "fr": "", "es": "directo",  "ko": ""},
@@ -84,8 +82,6 @@
 { "en": "given",           "fi": "annettu",   "fr":"donné", "es":"dado",  "ko": ""},
 
 { "en": "to run away",   "ko": "도망가다",    "fi": "",   "fr":""},
-{ "en": "interior, inside",       "fi": "",   "fr":"", "es":"(el) interior",  "ko": ""},
-{ "en": "internal",       "fi": "",   "fr":"", "es":"interno",  "ko": ""},
 
 { "en": "just (adv)",       "fi": "",   "fr":"", "es":"justo",  "ko": ""},
 { "en": "full, filled",       "fi": "",   "fr":"", "es": "lleno (de)",  "ko": ""},
@@ -103,6 +99,7 @@
 { "en": "to bump into, to find",        "fi": "",   "fr": "", "es": "encontrar",  "ko": ""},
 
 { "en": "to fall",        "fi": "",   "fr": "", "es": "caer",  "ko": ""},
+{ "en": "a fall",        "fi": "",   "fr": "", "es": "(la) caída",  "ko": ""},
 
 
 
@@ -123,19 +120,19 @@
 { "en": "to correct",        "fi": "",   "fr": "", "es": "corregir",  "ko": ""},
 
 { "en": "to serve",        "fi": "",   "fr": "", "es": "servir",  "ko": ""},
-{ "en": "to dress",        "fi": "",   "fr": "", "es": "vestir",  "ko": ""},
+
 { "en": "to ascend",        "fi": "",   "fr": "", "es": "ascender",  "ko": ""},
 
-{ "en": "a document",        "fi": "asiakirja, dokumentti",   "fr": "document", "es": "(el) documento",  "ko": ""},
-{ "en": "analysis",        "fi": "",   "fr": "", "es": "(el) análisis",  "ko": ""},
 
 { "en": "opportunity",        "fi": "tilaisuus",   "fr": "occasion", "es": "oportunidad",  "ko": ""},
-{ "en": "to demolish",        "fi": "",   "fr": "", "es": "demoler",  "ko": ""},
+
 
 { "en": "superior",        "fi": "",   "fr": "", "es": "superior",  "ko": ""},
 { "en": "of course",        "fi": "",   "fr": "bien sûr", "es": "por supuesto",  "ko": ""},
 
 { "en": "structure",        "fi": "rakenne",   "fr": "structure", "es": "(la) estructura",  "ko": ""},
+{ "en": "to demolish",        "fi": "",   "fr": "", "es": "demoler",  "ko": ""},
+
 { "en": "to rub",          "fi": "hieroa",   "fr":"frotter",   "ko": "비비다"},
 { "en": "fall asleep",   "ko": "잠들다",    "fi": "nukahtaa",   "fr":"s'endormir"},
 { "en": "for sure",   "ko": "꼭",    "fi": "varmasti",   "fr":""},

@@ -11,6 +11,7 @@
 { "en": "to be enough, sufficient",      "fi": "riittää (+ ill)",      "fr": "suffire" , "es": "ser lo suficientemente",  "ko": ""},
 
 { "en": "very",       "fi": "hyvin",   "fr": "très",    "es": "muy",   "ko": "아주" },
+{ "en": "pretty (quite, fairly)", "fi": "",   "fr": "",    "es": "bastante",   "ko": "" },
 
 { "en": "really",     "fi": "todella",         "fr": "vraiment",   "ko": "정말" },
 { "en": "not really", "fi": "",                "fr": "",            "ko": "별로" },
@@ -53,7 +54,7 @@
 { "en": "to decide",  "fi": "päättää",     "fr": "décider",   "es": "decidir",  "ko": "결정하다"},
 { "en": "decision",   "fi": "päätös",      "fr": "décision",  "es": "(la) decisión", "ko": "결정 (decide + decide)"},
 
-{ "en": "cause, reason",  "ko": "원인",    "fi": "syy" , "fr":"cause, raison "},
+
 
 { "en": "to promise",     "fi": "luvata" , "fr": "promettre", "es": "prometer",     "ko": "약속하다"},
 { "en": "a promise",      "fi": "lupaus" , "fr": "promesse",  "es": "(la) promesa", "ko": "약속 (contract + bind)"},

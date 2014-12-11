@@ -14,8 +14,8 @@ class LangUtils {
       return "Chinese";      
     } else if (lang == "es") {
       return "Spanish";
-    } else if (lang == "da") {
-      return "Danish";          
+    } else if (lang == "it") {
+      return "Italian";          
     } else if (lang==null) {
       return "null";
     }

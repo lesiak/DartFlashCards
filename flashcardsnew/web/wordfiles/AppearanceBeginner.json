@@ -31,9 +31,6 @@
 { "en": "heavy",        "fi": "painava",  "fr": "lourd",  "es": "pesado",     "ko": "무거운 (무겁다)" },
 { "en": "light (weight)","fi": "kevyt",    "fr": "léger",  "es": "ligero",     "ko": "가볍다" },
 
-{ "en": "above",          "fi": "edellä",    "fr": "au-dessus",  "es": "arriba",     "ko": "" },
-{ "en": "below",         "fi": "alla",    "fr": "au-dessous",  "es": "abajo",     "ko": "" },
-{ "en": "forward (adv, direction)",         "fi": "",    "fr": "",  "es": "adelante",     "ko": "" },
 
 
 { "en": "appearance",      "fi": "",    "fr": "",                   "es": "(la) apariencia",   "ko": "외관" }

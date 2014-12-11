@@ -22,10 +22,13 @@
 
 { "en": "person",           "fi": "henkilö, ihminen",          "fr": "personne, individu",  "ko": "사람, 인" },
 
-{ "en": "generation",       "fi": "sukupolvi",  "fr": "génération", "es": "(la) generación",  "ko": "세대"},
 
-{ "en": "to grow up",       "fi": "kasvaa, tulla aikuiseksi",     "fr": "",  "es": "crecer",  "ko": "자라다" },
+
 { "en": "to be born",       "fi": "syntyä",    "fr": "naître",   "es":"nacer (nací en Cuba)",   "ko": "태어나다" },
+{ "en": "to grow up",       "fi": "kasvaa, tulla aikuiseksi",     "fr": "",  "es": "crecer",  "ko": "자라다" },
+{ "en": "to grow old",      "fi": "",     "fr": "",  "es": "envejecerse",  "ko": "" },
+
+
 { "en": "life",             "fi": "elämä" ,    "fr": "vie",      "es":"(la) vida",     "ko": "생명"},
 { "en": "young",            "fi": "nuori" ,    "fr": "jeune",    "es": "joven",  "ko": "어리다"},
 { "en": "youth (young age)","fi": "nuoruus" ,  "fr": "jeunesse", "es": "(la) juventud",  "ko": ""},
@@ -66,6 +69,8 @@
 
 { "en": "cousin",        "fi": "serkku",        "fr": "cousin",         "es": "(el) primo",  "ko": "" },
 
+{ "en": "generation",       "fi": "sukupolvi",  "fr": "génération", "es": "(la) generación",  "ko": "세대"},
+
 { "en": "friend",        "fi": "ystävä",        "fr": "ami",            "es": "(el) amigo",  "ko": "친구" },
 { "en": "friendship",    "fi": "ystävyys",      "fr": "amitié",         "es": "(la) amistad",  "ko": "" },
 
@@ -104,13 +109,8 @@
 { "en": "polite",          "fi": "kohtelias",        "fr": "poli",         "es": "cortés, educado",   "ko": ""},
 { "en": "impolite",        "fi": "epäkohtelias",     "fr": "impoli",       "es": "descortés",   "ko": ""},
 
-{ "en": "crazy",           "fi": "hullu",     "fr": "fou",       "es": "loco",   "ko": ""},
 
-{ "en": "to laugh",        "fi": "nauraa",          "fr": "rire",          "es": "reírse",   "ko": ""},
-{ "en": "to cry",          "fi": "itkeä",           "fr": "pleurer",       "es": "llorar",   "ko": ""},
 
-{ "en": "to yell",          "fi": "huutaa",           "fr": "crier, hurler",       "es": "gritar",   "ko": ""},
-{ "en": "to blush",          "fi": "punastua",        "fr": "",       "es": "ponerse rojo",   "ko": ""},
 
 
 { "en": "cut down (on)",    "ko": "줄이다"  ,  "fi": "vähentää" , "fr":"réduire"},
@@ -119,7 +119,7 @@
 { "en": "to hug",         "fi": "halata",       "fr": "étreindre",   "ko": "포옹하다" },
 { "en": "to cuddle",      "fi": "halata",       "fr": "caresser",    "es": "acurrucar",   "ko": "" },
 
-{ "en": "romantic",      "fi": "romanttinen",       "fr": "romantique",    "es": "romántico",   "ko": "" },
+
 
 
 { "en": "to kiss",        "fi": "suudella",     "fr": "embrasser",  "es": "besar",      "ko": ""},
@@ -130,9 +130,6 @@
 { "en": "close (with other people)",         "ko": "친하다",       "fi": "",          "fr": "" },
 
 
-{ "en": "jealous",         "ko": "부럽다",       "fi": "mustasukkainen",          "fr": "jaloux" },
-{ "en": "ashamed",         "ko": "부끄럽다",       "fi": "häpeissään",          "fr": "honteux" },
-
 
 
 
@@ -140,8 +137,6 @@
 { "en": "manners",         "ko": "버릇",       "fi": "käytöstavat",          "fr": "manières" },
 
 
-{ "en": "comment",         "ko": "비평",            "fi": "kommentti",          "fr": "commentaire" },
-{ "en": "to comment",         "ko": "비평하다",     "fi": "kommentoida",          "fr": "commenter" },
 
 { "en": "beginner",      "fi": "aloittelija",          "fr": "débutant", "es": "principiante",    "ko": "초보, 초보자 (early + walk + person)" },
 { "en": "fool",         "ko": "바보",       "fi": "typerys, hullu",          "fr": "fou" },

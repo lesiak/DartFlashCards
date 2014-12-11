@@ -63,6 +63,7 @@
 { "en": "to slip on",              "fi": "",   "fr": "",  "es": "ponerse", "ko": "차다" },
 { "en": "to put on",               "fi": "",   "fr": "",  "es": "ponerse", "ko": "" },
 { "en": "to take off",             "fi": "",   "fr": "",  "es": "quitarse", "ko": "" },
+{ "en": "to dress, to get dressed","fi": "",   "fr": "" , "es": "vestirse",  "ko": ""},
 
 { "en": "cool, stylish, good-looking", "fi": "mahtava", "fr": "excellent",  "es": "guay", "ko": "멋있다" },
 { "en": "sexy",        "fi": "seksikäs",          "fr": "sexy",       "es": "sexy", "ko": "섹시하다" },

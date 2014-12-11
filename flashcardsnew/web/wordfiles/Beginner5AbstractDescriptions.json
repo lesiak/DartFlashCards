@@ -27,19 +27,20 @@
 { "en": "absolute",      "fi": "absoluuttinen",   "fr": "absolu",   "es": "absoluto",  "ko": ""},
 { "en": "concrete",      "fi": "konkreettinen",   "fr": "concret",  "es": "concreto",  "ko": ""},
 { "en": "definitive",    "fi": "lopullinen",      "fr": "définitif","es": "definitivo",  "ko": ""},
-{ "en": "perfect",    "fi": "",   "fr":"",    "es": "perfecto",  "ko": ""},
-{ "en": "precise",    "fi": "",   "fr":"",    "es": "preciso",  "ko": ""},
-{ "en": "pure",       "fi": "",   "fr":"",    "es": "puro",  "ko": ""},
+{ "en": "perfect",       "fi": "",   "fr":"",           "es": "perfecto",  "ko": ""},
+{ "en": "precise",       "fi": "",   "fr":"",           "es": "preciso",  "ko": ""},
+{ "en": "pure",          "fi": "",   "fr":"",           "es": "puro",  "ko": ""},
+{ "en": "efficient",     "fi": "",   "fr":"efficace",   "es": "eficaz, eficiente",  "ko": ""},
+{ "en": "effective",     "fi": "",   "fr":"efficace",   "es": "eficaz, efectivo",  "ko": ""},
+
 
 { "en": "personal",    "fi": "",   "fr":"", "es": "personal",  "ko": ""},
 
-{ "en": "professional",    "fi": "",   "fr":"", "es": "profesional",  "ko": ""},
-{ "en": "luxurious",       "fi": "ylellinen",   "fr":"luxueux", "es": "lujoso",  "ko": ""},
-{ "en": "precious",       "fi": "arvokas",   "fr":"précieux", "es": "precioso",  "ko": ""},
-
-
-{ "en": "passage (between buildings, underground)",      "fi": "",   "fr": "",   "es": "(el) pasaje", "ko": ""},
-{ "en": "passage (way through)",      "fi": "",   "fr": "",   "es": "(el) paso", "ko": ""},
+{ "en": "professional",    "fi": "",           "fr":"",            "es": "profesional",  "ko": ""},
+{ "en": "luxurious",       "fi": "ylellinen",  "fr":"luxueux",     "es": "lujoso",  "ko": ""},
+{ "en": "precious",        "fi": "arvokas",    "fr":"précieux",    "es": "precioso",  "ko": ""},
+{ "en": "presigious",      "fi": "",           "fr":"prestigieux", "es": "prestigioso","it": "prestigioso",  "ko": ""},
+{ "en": "prestige",      "fi": "",             "fr":"prestige",    "es": "(el) prestigio","it": "(il) prestigio",  "ko": ""},
 
 { "en": "dangerous",       "fi": "vaarallinen",     "fr": "dangereux","es": "peligroso",  "ko": "위험한"},
 { "en": "security",        "fi": "turvallisuus",    "fr": "sécurité", "es": "(la) seguridad", "ko": "보안 (keep + comfortable)" },

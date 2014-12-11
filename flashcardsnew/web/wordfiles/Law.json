@@ -7,10 +7,14 @@
 { "en": "to kill",           "fi": "tappaa",         "fr": "tuer",        "es": "matar", "ko": "" },
 
 { "en": "to accuse (sb of)", "fi": "syyttää (jstk)", "fr": "accuser",     "es": "acusar (a algn de)", "ko": "" },
+{ "en": "accusation",        "fi": "",               "fr": "",            "es": "(la) acusación", "ko": "" },
+
 { "en": "guilty",            "fi": "syyllinen",      "fr": "coupable",    "es": "culpable",  "ko": "유죄의"},
 
 { "en": "criminal",          "fi": "rikollinen",  "fr": "criminel",     "es": "(el) criminal, (el) delincuente",      "ko": "범인 (violate + people)" },
-{ "en": "crime",             "fi": "rikollisuus, rikos", "fr": "crime", "es": "(el) crimen, (el) delito", "ko": "범죄 (violate + fault)" },
+{ "en": "crime",             "fi": "rikollisuus, rikos", "fr": "crime", "es": "(el) crimen", "ko": "범죄 (violate + fault)" },
+{ "en": "offence (crime)",   "fi": "",             "fr": "",            "es": "(el) delito", "ko": "" },
+
 { "en": "victim",            "fi": "uhri",     "fr": "victime",         "es": "(la) víctima",  "ko": "희생자"   },
 
 { "en": "a witness",         "fi": "" ,        "fr": "",                "es": "(el) testigo",  "ko": ""},

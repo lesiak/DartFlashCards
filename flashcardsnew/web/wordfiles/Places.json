@@ -1,0 +1,15 @@
+[
+ 
+{ "en": "a place",             "fi": "paikka, sija",  "fr": "lieu, endroit", "es": "(el) lugar",   "ko": "" },
+
+{ "en": "interior, inside",    "fi": "",        "fr": "",           "es": "(el) interior", "ko": ""},
+{ "en": "internal",            "fi": "",        "fr": "",           "es": "interno",       "ko": ""},
+{ "en": "above",               "fi": "edellä",  "fr": "au-dessus",  "es": "arriba",        "ko": "" },
+{ "en": "below",               "fi": "alla",    "fr": "au-dessous", "es": "abajo",         "ko": "" },
+{ "en": "around",               "fi": "",    "fr": "", "es": "alrededor (de)",         "ko": "" },
+
+{ "en": "forward (adirection)","fi": "",        "fr": "",           "es": "adelante",      "ko": "" },
+{ "en": "to be situated",      "fi": "",        "fr": "",           "es": "estar situado", "ko": ""}
+
+
+]

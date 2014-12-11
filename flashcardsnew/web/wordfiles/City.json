@@ -43,8 +43,6 @@
 { "en": "crowd",            "fi": "väkijoukko",      "fr": "foule",         "es": "(la) multitud",   "ko": "" },
 { "en": "crowded",          "fi": "tungosta",        "fr": "",              "es": "lleno (de gente)",   "ko": "" },
 
-{ "en": "a place",          "fi": "paikka, sija",    "fr": "lieu, endroit", "es": "(el) lugar",   "ko": "" },
-
 { "en": "prison",           "fi": "vankila",         "fr": "prison, (slang) cabane",  "es": "(la) cárcel, (la) prisión",    "ko": "교도소" },
 { "en": "city",             "fi": "kaupunki",        "fr": "ville",         "es": "(la) ciudad",  "ko": "도시" },
 { "en": "village",          "fi": "kylä",            "fr": "village",       "es": "(el) pueblo",  "ko": "마을" },
@@ -65,6 +63,9 @@
 { "en": "pedestrian",       "fi": "jalankulkija",    "fr": "piéton",        "es": "(el) peatón",  "ko": "횡단 보도" },
 { "en": "pedestrian crossing", "fi": "suojatie",     "fr": "passage pour piétons", "es": "paso de cebra, paso de peatones","ko": "횡단 보도" },
 { "en": "to cross (a road)", "fi": "",     "fr": "", "es": "cruzar","ko": "" },
+{ "en": "passage (between buildings, underground)",      "fi": "",   "fr": "",   "es": "(el) pasaje", "ko": ""},
+{ "en": "passage (way through)",      "fi": "",   "fr": "",   "es": "(el) paso", "ko": ""},
+
 
 { "en": "traffic lights",   "fi": "liikennevalot",   "fr": "feux de circulation",  "es": "(el) semáforo",  "ko": "" },
 

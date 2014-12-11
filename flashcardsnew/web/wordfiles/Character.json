@@ -32,14 +32,18 @@
 
 { "en": "self-confident","fi": "itsevarma",      "fr": "sûr de soi",  "es": "seguro de sí mismo",   "ko": "" },
 
-{ "en": "generous",      "fi": "antelias",       "fr": "généreux",    "es": "generoso",   "ko": "" },
-{ "en": "serious, earnest",  "fi": "totinen",    "fr": "sérieux",     "es": "serio",      "ko": "" },
+{ "en": "curious",      "fi": "",                "fr": "curieux",     "es": "curioso",            "it": "curioso", "ko": "" },
+{ "en": "curiosity",      "fi": "",              "fr": "curiosité",   "es": "(la) curiosidad",    "it": "(la) curiosità", "ko": "" },
+
+{ "en": "generous",        "fi": "antelias",       "fr": "généreux",    "es": "generoso",   "ko": "" },
+{ "en": "serious, earnest","fi": "totinen",    "fr": "sérieux",     "es": "serio",      "ko": "" },
 
 { "en": "mean, wicked",  "fi": "",               "fr": "méchant",     "es": "malo", "ko": "" },
 { "en": "cruel",         "fi": "julma",          "fr": "cruel",       "es": "cruel", "ko": "" },
-{ "en": "brutal",        "fi": "brutaali",       "fr": "brutal",    "es": "brutal",  "ko": "" },
-{ "en": "brutality",     "fi": "",               "fr": "brutalité",    "es": "(la) brutalidad",  "ko": "" },
+{ "en": "brutal",        "fi": "brutaali",       "fr": "brutal",      "es": "brutal",  "ko": "" },
+{ "en": "brutality",     "fi": "",               "fr": "brutalité",   "es": "(la) brutalidad",  "ko": "" },
 
+{ "en": "crazy",         "fi": "hullu",          "fr": "fou",         "es": "loco",   "ko": ""},
 
 { "en": "kind",          "fi": "",               "fr": "aimable",     "es": "amable", "ko": "" },
 { "en": "loving, kind",  "fi": "",               "fr": "affectueux",  "es": "cariñoso", "ko": "" },
@@ -70,7 +74,9 @@
 { "en": "mischievous",  "fi": "ilkikurinen",    "fr": "malicieux",    "es": "malvado",  "ko": "" },
 
 { "en": "lustful",  "fi": "himokas",    "fr": "",    "es": "lujurioso",  "ko": "" },
+{ "en": "tenacious (persevering)",  "fi": "himokas",    "fr": "",    "es": "tenaz",    "it": "tenace",  "ko": "" },
 
+{ "en": "romantic",      "fi": "romanttinen",       "fr": "romantique",    "es": "romántico",   "ko": "" },
 
 { "en": "good-natured", "fi": "sävyisä",        "fr": "facile à vivre",   "ko": "착하다" },
 { "en": "creative",     "fi": "luova",          "fr": "créatif",          "es": "creativo",   "ko": "창조적 (create + make + of)" },

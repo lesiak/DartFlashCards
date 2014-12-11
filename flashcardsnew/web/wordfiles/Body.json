@@ -35,10 +35,20 @@
 
 { "en": "beard",     "fi": "parta",     "fr": "barbe",  "es": "(la) barba",               "ko": "" },
 { "en": "moustache", "fi": "viikset",     "fr": "moustache",  "es": "(el) bigote",               "ko": "" },
+{ "en": "bald",     "fi": "",     "fr": "",  "es": "calvo",               "ko": "" },
 
 
 
+{ "en": "senses",  "fi": "",    "fr": "",     "es": "(los) sentidos",       "ko": "" },
 { "en": "to touch",  "fi": "koskea",    "fr": "toucher",     "es": "tocar",       "ko": "대다" },
+
+{ "en": "smell",     "fi": "haju, tuoksu",  "fr":"odeur",  "ko": "냄새"},
+{ "en": "to smell",  "fi": "tuoksua",   "fr":"sentir",  "es":"oler",  "ko": "냄새가 나다"},
+
+{ "en": "blind",     "fi": "",     "fr": "",  "es": "ciego",               "ko": "" },
+{ "en": "deaf",     "fi": "",     "fr": "",  "es": "sordo",               "ko": "" },
+
+
 { "en": "to raise",  "fi": "",          "fr": "",            "es": "elevar",      "ko": "들다" },
 
 { "en": "belly",     "fi": "vatsa",     "fr":"ventre",      "es": "(la) barriga", "ko": "배"},

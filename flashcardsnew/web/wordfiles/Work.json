@@ -7,7 +7,7 @@
 { "en": "plan (program)",    "fi": "ohjelma",            "fr": "plan",     "es": "(el) plan",  "ko": "" },
 
 { "en": "to plan",    "fi": "suunnitella",            "fr": "planifier",     "es": "planificar",  "ko": "" },
-
+{ "en": "to create",              "fi": "luoda",       "fr": "créer",  "es": "crear",   "ko": "?" },
 
 { "en": "to request",           "fi": "pyytää",       "fr": "",             "es": "solicitar, pedir", "ko": "부탁하다"},
 { "en": "a request",            "fi": "pyyntö",       "fr": "",              "es": "(la) solicitud, (la) petición",   "ko": "" },
@@ -43,9 +43,14 @@
 { "en": "to repair",        "fi": "korjata",    "fr": "réparer",  "es": "reparar, arreglar",   "ko": "수리하다" },
 { "en": "to fix",           "fi": "korjata",    "fr": "réparer",  "es": "fijar",     "ko": "" },
 
+{ "en": "a document",       "fi": "asiakirja, dokumentti",  "fr": "document", "es": "(el) documento",  "ko": ""},
+{ "en": "analysis",         "fi": "",                       "fr": "",         "es": "(el) análisis",  "ko": ""},
+{ "en": "report",           "fi": "selvitys, raportti",     "fr": "rapport",  "ko": "보고서" },
+
+
 { "en": "to retire",        "fi": "",    "fr": "",    "es": "retirarse, jubilarse", "ko": "은퇴하다" },
 
-{ "en": "Pleased to meet you",   "ko": "만나서 반가워요",             "fi": "Ilo tavata",    "fr": "c'est un plaisir de vous rencontrer, ravi de vous avoir rencontré" },
+{ "en": "Pleased to meet you",   "fi": "Ilo tavata",    "fr": "c'est un plaisir de vous rencontrer, ravi de vous avoir rencontré",  "ko": "만나서 반가워요" },
 { "en": "introduce (person)",    "fi": "esitellä",    "fr": "introduire",  "es": "presentar",   "ko": "소개하다" },
 
 { "en": "part time job",     "fi": "osa-aikaista työtä" , "fr":"emploi à temps partiel",  "ko": "아르바이트"},

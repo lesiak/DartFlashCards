@@ -34,7 +34,8 @@
 { "en": "ideology",       "fi": "ideologia",               "fr": "idéologie",   "es": "(la) ideología",   "ko": "" },
 { "en": "liberty",        "fi": "",                        "fr": "liberté",     "es": "(la) libertad",   "ko": "" },
 
-{ "en": "coup d'état",        "fi": "",                    "fr": "coup d'état", "es": "(el) golpe de estado",   "ko": "" }, 
+{ "en": "coup d'état",        "fi": "",                    "fr": "coup d'état", "es": "(el) golpe de estado",   "ko": "" },
+{ "en": "to rebel (against)", "fi": "",          "fr": "",  "es": "rebelarse (contra)", "ko": "" }, 
 { "en": "embassy",        "fi": "suurlähetystö", "fr": "ambassade",   "es": "(la) embajada",  "ko": "대사관 (great + dispatch + building)" },
 
 

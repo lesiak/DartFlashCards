@@ -1,16 +1,23 @@
 [
 
-{ "en": "hospital",            "fi": "sairaala",    "fr": "hôpital",       "es": "(el) hospital",  "ko": "병원 (illness + public building)" },
-{ "en": "sick, painful",       "fi": "sairas",      "fr": "malade",        "es": "enfermo",        "ko": "아프다" },
-{ "en": "ill",                 "fi": "sairas",      "fr": "malade",        "es": "enfermo",        "ko": "" },
-{ "en": "healthy",             "fi": "terveellinen","fr": "en bonne santé","es": "sano",           "ko": "건강하다" },
-{ "en": "health",              "fi": "terveys","fr": "santé","es": "(la) salud, (la) sanidad (public health)",     "ko": "" },
-{ "en": "doctor",              "fi": "lääkäri, tohtori", "fr": "médecin, docteur","es": "(el) médico",   "ko": "의사" },
-{ "en": "patient (hospital)",  "fi": "potilas",     "fr": "patient",       "es": "(el/la) paciente", "ko": "환자" },
-{ "en": "nurse",               "fi": "sairaanhoitaja" , "fr":"infirmière", "es": "(la) enfermera", "ko": "간호사 (look after + protect + skilled person)"},
-{ "en": "(a) cold",         "fi": "nuha",       "fr": "rhume",        "ko": "감기" },
-{ "en": "flu",              "fi": "flunssa",    "fr": "grippe",       "es": "(la) gripe", "ko": "독감 (poison + feel)" },
+{ "en": "hospital",          "fi": "sairaala",      "fr": "hôpital",       "es": "(el) hospital",  "ko": "병원 (illness + public building)" },
+{ "en": "sick, painful",     "fi": "sairas",        "fr": "malade",        "es": "enfermo",        "ko": "아프다" },
+{ "en": "ill",               "fi": "sairas",        "fr": "malade",        "es": "enfermo",        "ko": "" },
+{ "en": "ilness",            "fi": "tauti, sairaus","fr": "maladie",       "es": "(la) enfermedad",   "ko": "" },
+{ "en": "disease",           "fi": "tauti, sairaus","fr": "maladie",       "es": "(la) enfermedad",   "ko": "" },
+
+{ "en": "healthy",           "fi": "terveellinen",  "fr": "en bonne santé","es": "sano",           "ko": "건강하다" },
+{ "en": "health",            "fi": "terveys",       "fr": "santé",         "es": "(la) salud, (la) sanidad (public health)",     "ko": "" },
+{ "en": "doctor",            "fi": "lääkäri, tohtori", "fr": "médecin, docteur","es": "(el) médico",   "ko": "의사" },
+{ "en": "patient (hospital)","fi": "potilas",     "fr": "patient",       "es": "(el/la) paciente", "ko": "환자" },
+{ "en": "nurse",             "fi": "sairaanhoitaja" , "fr":"infirmière", "es": "(la) enfermera", "ko": "간호사 (look after + protect + skilled person)"},
+
+
+{ "en": "to get well",              "fi": "",    "fr": "",       "es": "mejorarse", "ko": "" },
+{ "en": "to heal",              "fi": "",    "fr": "",       "es": "curar", "ko": "" },
+
 { "en": "pain",             "fi": "kipu" ,      "fr": "douleur",      "es": "(el) dolor",             "ko": "고통, 아픔"},
+{ "en": "painful",             "fi": "" ,      "fr": "",      "es": "(el) doloroso",             "ko": ""},
 { "en": "backache",         "fi": "selkäkipu",  "fr": "mal au dos",   "es": "(el) dolor de espalda",  "ko": ""},
 { "en": "to hurt",          "fi": "" ,      "fr": "",      "es": "doler (me duele el pie)",             "ko": ""},
 
@@ -19,6 +26,20 @@
 { "en": "poisoning (intentional)",       "fi": "" , "fr":"",          "es":"envenenamiento",  "ko": ""},
 { "en": "poisoning (accidental)",       "fi": "" , "fr":"",           "es":"intoxicación",  "ko": ""},
 
+{ "en": "(a) cold",         "fi": "nuha",       "fr": "rhume",        "ko": "감기" },
+{ "en": "flu",              "fi": "flunssa",    "fr": "grippe",       "es": "(la) gripe", "ko": "독감 (poison + feel)" },
+{ "en": "cough",              "fi": "",    "fr": "",       "es": "(la) tos", "ko": "" },
+{ "en": "fever",              "fi": "",    "fr": "",       "es": "(la) fiebre", "ko": "" },
+
+
+{ "en": "to injure",    "fi": "loukata",       "fr": "blesser", "ko": "해치다" },
+{ "en": "injury",              "fi": "",    "fr": "",       "es": "(la) lesión", "ko": "" },
+{ "en": "to cut (oneself)",    "fi": "",    "fr": "",       "es": "cortarse", "ko": "" },
+{ "en": "to burn (oneself)",    "fi": "",    "fr": "",       "es": "quemarse", "ko": "" },
+{ "en": "to sprain",    "fi": "",    "fr": "",       "es": "torcerse", "ko": "" },
+{ "en": "to break",    "fi": "",    "fr": "",       "es": "fracturar", "ko": "" },
+{ "en": "bruise",              "fi": "",    "fr": "",       "es": "(el) moratón", "ko": "" },
+{ "en": "scratch",              "fi": "",    "fr": "",       "es": "(el) rasguño", "ko": "" },
 
 { "en": "cancer",           "fi": "syöpä",      "fr":" cancer",      "es": "(el) cáncer",      "ko": "암"},
 { "en": "virus",            "fi": "virus" ,     "fr":" virus",       "es": "(el) virus",       "ko": "바이러스"},
@@ -29,8 +50,14 @@
 { "en": "operation, surgery","fi": "leikkaus",  "fr": "opération",   "es": "(la) operación",   "ko": "외과" },
 { "en": "syringe",          "fi": "ruisku",     "fr": "seringue (f)","es": "(la) jeringa",     "ko": "주사기" },
 { "en": "vaccine",          "fi": "rokote",     "fr": "(le) vaccin", "es": "(la) vacuna",      "ko": "백신" },
+{ "en": "medicine",              "fi": "",    "fr": "",       "es": "(el) medicamento", "ko": "" },
+{ "en": "antibiotics",              "fi": "",    "fr": "",       "es": "(los) antibióticos", "ko": "" },
+{ "en": "bandage",              "fi": "",    "fr": "",       "es": "(la) venda", "ko": "" },
 
-{ "en": "disease",        "fi": "tauti, sairaus","fr": "maladie",    "es": "(la) enfermedad",   "ko": "" },
+{ "en": "scar",              "fi": "",    "fr": "",       "es": "(la) cicatriz", "ko": "" },
+ 
+
+{ "en": "infection",     "fi": "",      "fr": "", "es": "(la) infección",        "ko": ""  },
 { "en": "infectious",     "fi": "tarttuva",      "fr": "infectieux", "es": "infeccioso",        "ko": ""  },
 { "en": "symptom",        "fi": "oire",          "fr": "symptôme",   "es": "(el) síntoma",      "ko": "" },
 
