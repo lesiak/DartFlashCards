@@ -56,18 +56,20 @@
  
 { "en": "to decorate",    "ko": "장식하다",       "fi": "koristella",          "fr": "décorer" },
 
-{ "en": "to focus (on)",    "fi": "",          "fr": "",  "es": "centrar, concentrar (en)", "ko": "" },
+{ "en": "to focus (on)",    "fi": "",     "fr": "",  "es": "centrar, concentrar (en)", "ko": "" },
 
 { "en": "distinct",    "fi": "",          "fr": "",  "es": "distinto", "ko": "" },
 
-{ "en": "extinction",    "fi": "",          "fr": "",  "es": "(la) extinción", "ko": "" },
-{ "en": "impression",    "fi": "",          "fr": "",  "es": "(la) impresión", "ko": "" },
+{ "en": "extinction",    "fi": "",        "fr": "",   "es": "(la) extinción", "ko": "" },
+{ "en": "impression",    "fi": "",        "fr": "",   "es": "(la) impresión", "ko": "" },
 
 
-{ "en": "to discover",    "fi": "",          "fr": "",  "es": "descubrir", "ko": "" },
+{ "en": "to discover",    "fi": "",       "fr": "",   "es": "descubrir", "ko": "" },
 
-{ "en": "power (authority)",    "fi": "",          "fr": "",  "es": "(el) poder", "ko": "" },
-{ "en": "powerful",    "fi": "",          "fr": "",  "es": "poderoso", "ko": "" },
+{ "en": "power (authority)",    "fi": "", "fr": "",   "es": "(el) poder", "ko": "" },
+{ "en": "powerful",    "fi": "",          "fr": "",   "es": "poderoso", "ko": "" },
+{ "en": "to force",    "fi": "",          "fr": "",   "es": "forzar",  "ko": ""},
+{ "en": "force",       "fi": "",          "fr": "",   "es": "(la) fuerza",  "ko": ""},
 
 { "en": "to support",    "fi": "kannattaa",   "fr":"supporter, soutenir", "es":"apoyar", "ko": ""},
 

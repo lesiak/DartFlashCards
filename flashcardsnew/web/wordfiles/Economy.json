@@ -11,8 +11,12 @@
 
 { "en": "advertisement", "fi": "mainos",      "fr": "publicité",  "es": "(el) anuncio",        "ko": "광고" },
 
-{ "en": "investment",       "fi": "",               "fr": "",      "es": "(la) inversión", "ko": "" },
-{ "en": "to invest (in)",       "fi": "",               "fr": "",  "es": "invertir (en)", "ko": "" },
+{ "en": "investment",    "fi": "",            "fr": "",           "es": "(la) inversión", "ko": "" },
+{ "en": "to invest (in)","fi": "",            "fr": "",           "es": "invertir (en)", "ko": "" },
+
+{ "en": "crisis",        "fi": "",            "fr": "",           "es": "(la) crisis",   "ko": "" },
+{ "en": "recovery",      "fi": "",            "fr": "",           "es": "(la) recuperación",   "ko": "" },
+
 
 { "en": "economy",       "fi": "talous",               "fr": "économie",    "es": "(la) economía", "ko": "경제" },
 { "en": "industry",      "fi": "teollisuus",           "fr":"industrie",    "es": "(la) industria",  "ko": "산업"},

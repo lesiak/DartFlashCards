@@ -21,8 +21,9 @@
 { "en": "I've been there once.",   "ko": "한 번 가 봤어요",    "fi": "",  "fr":""},
 { "en": "I have to go now.",   "ko": "지금 가야돼요.",    "fi": "",  "fr":""},
 { "en": "Not really that complicated (short form)",   "ko": "변로 안 복십해요.",    "fi": "",  "fr":""},
-{ "en": "Not really that complicated",   "ko": "아니에요, 별로 복잡하지 않아요.",    "fi": "",  "fr":""}
+{ "en": "Not really that complicated",   "ko": "아니에요, 별로 복잡하지 않아요.",    "fi": "",  "fr":""},
   
+{ "en": "What a beautiful back!",     "fi": "",  "fr":"", "es": "¡Que espalda tan bonita!", "ko": ""}
 
 ]
         

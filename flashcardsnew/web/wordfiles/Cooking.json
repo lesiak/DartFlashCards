@@ -1,8 +1,6 @@
 [
 { "en": "to cook",     "fi": "keittää, laittaa ruokaa",    "fr": "cuisiner",  "es": "cocinar, cocer",  "ko": "요리하다" },
 { "en": "to bake",     "fi": "leipoa",         "fr": "",           "es": "hornear, cocer al horno",          "ko": "굽다"},
-{ "en": "prepare",     "fi": "valmistella",    "fr": "préparer",   "es": "preparar",   "ko": "준비하다"},
-{ "en": "preparation", "fi": "valmistelu",     "fr": "préparation","es": "(la) preparación",    "ko": "준비" },
 
 { "en": "pot",         "fi": "potti",    "fr": "casserole",  "ko": "냄비" },
 { "en": "kettle",      "fi": "kattila" , "fr": "bouilloire", "es": "(la) tetera, (el) hervidor", "ko": "주전자"},

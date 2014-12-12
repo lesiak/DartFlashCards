@@ -28,6 +28,9 @@
 { "en": "loss",            "fi": "tappio",          "fr": "perte",  "ko": "손실" },
 { "en": "operating loss",  "ko": "영업 손실",  "fi": "liiketappio",     "fr": "" },
 
+ 
+ { "en": "to charge (money)", "fi": "",          "fr": "",        "es": "cobrar",  "ko": "" },
+
 { "en": "profit",          "fi": "voitto",          "fr": "profitable, rentable", "ko": "" },
 { "en": "profitable",         "ko": "",       "fi": "kannattava, tuottoisa, tuottava",          "fr": "profitable, rentable" },
 { "en": "unprofitable",         "ko": "",       "fi": "tappiollinen, kannattamaton",          "fr": "peu profitable, peu rentable" },

@@ -33,20 +33,26 @@
 { "en": "freckle",   "fi": "pisama, kesakko","fr": "",       "es": "(la) peca",               "ko": "" },
 { "en": "forehead",  "fi": "otsa",      "fr": "front",       "es": "(la) frente",             "ko": "이마" },
 
-{ "en": "beard",     "fi": "parta",     "fr": "barbe",  "es": "(la) barba",               "ko": "" },
-{ "en": "moustache", "fi": "viikset",     "fr": "moustache",  "es": "(el) bigote",               "ko": "" },
-{ "en": "bald",     "fi": "",     "fr": "",  "es": "calvo",               "ko": "" },
+{ "en": "beard",     "fi": "parta",     "fr": "barbe",       "es": "(la) barba",               "ko": "" },
+{ "en": "moustache", "fi": "viikset",   "fr": "moustache",   "es": "(el) bigote",               "ko": "" },
+{ "en": "bald",      "fi": "",          "fr": "",            "es": "calvo",               "ko": "" },
+{ "en": "wrinkle",      "fi": "",       "fr": "",            "es": "(la) arruga",               "ko": "" },
 
-
-
-{ "en": "senses",  "fi": "",    "fr": "",     "es": "(los) sentidos",       "ko": "" },
+{ "en": "senses",    "fi": "",    "fr": "",     "es": "(los) sentidos",       "ko": "" },
 { "en": "to touch",  "fi": "koskea",    "fr": "toucher",     "es": "tocar",       "ko": "대다" },
 
 { "en": "smell",     "fi": "haju, tuoksu",  "fr":"odeur",  "ko": "냄새"},
-{ "en": "to smell",  "fi": "tuoksua",   "fr":"sentir",  "es":"oler",  "ko": "냄새가 나다"},
+{ "en": "to smell",  "fi": "tuoksua",   "fr":"sentir",     "es":"oler",  "ko": "냄새가 나다"},
+{ "en": "scent",     "fi": "",          "fr":"",           "es":"(el) olor",  "ko": ""},
+
+{ "en": "sight",     "fi": "",  "fr":"",   "es":"(la) vista",   "ko": ""},
+{ "en": "hearing",     "fi": "",  "fr":"",   "es":"(el) oído",   "ko": ""},
 
 { "en": "blind",     "fi": "",     "fr": "",  "es": "ciego",               "ko": "" },
 { "en": "deaf",     "fi": "",     "fr": "",  "es": "sordo",               "ko": "" },
+
+{ "en": "invisible",     "fi": "",     "fr": "",  "es": "invisible",               "ko": "" },
+{ "en": "inaudible",     "fi": "",     "fr": "",  "es": "inaudible`",               "ko": "" },
 
 
 { "en": "to raise",  "fi": "",          "fr": "",            "es": "elevar",      "ko": "들다" },

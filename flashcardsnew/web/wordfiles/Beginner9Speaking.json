@@ -34,6 +34,10 @@
 
 { "en": "to admit",    "fi": "" , "fr":"admettre", "es":"admitir", "ko": ""},
 
+{ "en": "to allude (to)",    "fi": "" , "fr":"", "es":"aludir (a)", "ko": ""},
+{ "en": "allusion",    "fi": "" , "fr":"", "es":"(la) alusión", "ko": ""},
+
+
 { "en": "to declare",    "fi": "julistaa",  "fr":"déclarer",  "es": "declarar", "ko": ""},
 { "en": "to announce",    "fi": "ilmoittaa, kuuluttaa, julistaa",  "fr":"annoncer",  "ko": ""},
 { "en": "announcement",   "fi": "ilmoitus",          "fr": "annonce",  "ko": "발표" },

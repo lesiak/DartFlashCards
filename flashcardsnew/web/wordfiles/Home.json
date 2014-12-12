@@ -43,6 +43,7 @@
 { "en": "soap",           "fi": "saippua",    "fr": "savon",      "es": "(el) jabón","ko": "비누" }, 
 { "en": "shampoo",        "fi": "shampoo, hiustenpesuaine", 
                                            "fr": "shampoing",         "es": "(el) champú", "ko": "샴푸" },
+{ "en": "cream (cosmetics)", "fi": "",    "fr": "",                    "es": "(la) crema","ko": "" },
 { "en": "toothpaste",     "fi": "hammastahna","fr": "dentifrice",      "es": "(la) pasta de dientes, (el) dentífrico",     "ko": "치약"           },
 { "en": "toothbrush",     "fi": "hammasharja","fr": "brosse à dents",  "es": "(el) cepillo de dientes",   "ko": "칫솔"     },
 { "en": "mirror",         "fi": "peili",      "fr": "miroir",          "es": "(el) espejo", "ko": "거울"           },
@@ -70,6 +71,7 @@
 
 
 { "en": "to wash oneself","fi": "peseytyä",    "fr": "se laver",   "es": "lavarse" ,   "ko": ""},
+{ "en": "to have a shower","fi": "",           "fr": "",           "es": "ducharse" ,   "ko": ""},
 { "en": "to get dressed", "fi": "pukeutua",        "fr": "s'habiller",        "es": "vestirse",  "ko": "" },
 
 { "en": "breakfast",     "fi": "aamiainen",    "fr": "petit déjeuner",   "es": "(el) desayuno",    "ko": "아침" },

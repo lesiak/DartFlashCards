@@ -5,6 +5,8 @@
 { "en": "interior, inside",    "fi": "",        "fr": "",           "es": "(el) interior", "ko": ""},
 { "en": "internal",            "fi": "",        "fr": "",           "es": "interno",       "ko": ""},
 { "en": "above",               "fi": "edellä",  "fr": "au-dessus",  "es": "arriba",        "ko": "" },
+{ "en": "on top, above",               "fi": "",  "fr": "",  "es": "encima de",        "ko": "" },
+
 { "en": "below",               "fi": "alla",    "fr": "au-dessous", "es": "abajo",         "ko": "" },
 { "en": "around",               "fi": "",    "fr": "", "es": "alrededor (de)",         "ko": "" },
 

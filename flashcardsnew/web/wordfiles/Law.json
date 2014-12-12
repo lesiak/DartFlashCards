@@ -17,8 +17,13 @@
 
 { "en": "victim",            "fi": "uhri",     "fr": "victime",         "es": "(la) víctima",  "ko": "희생자"   },
 
+
+
 { "en": "a witness",         "fi": "" ,        "fr": "",                "es": "(el) testigo",  "ko": ""},
-{ "en": "justice",           "fi": "",         "fr": "justice",         "es": "(la) justicia", "ko": ""   }
+{ "en": "justice",           "fi": "",         "fr": "justice",         "es": "(la) justicia", "ko": ""   },
+
+{ "en": "illicit",         "fi": "" ,        "fr": "",                "es": "ilícito",  "ko": ""}
+
 
 
 ]
