@@ -44,10 +44,16 @@
 
 { "en": "police station",    "ko": "경찰서",    "fi": "poliisiasema" , "fr":"poste de police"},
 
+{ "en": "press (publishing)","fi": "",                "fr": "",             "es": "(la) prensa",  "ko": "" },
 { "en": "journalism",        "fi": "",                     "fr": "",        "es":"(el) periodismo", "ko": ""},
-{ "en": "to publish",        "fi": "julkaista, kustantaa", "fr": "publier",    "ko": "출판하다" },
-{ "en": "publisher",         "fi": "kustantaja",           "fr": "éditeur",  "ko": "" },
-{ "en": "publishing house",  "fi": "kustantamo",          "fr": "éditeur d'édition",   "ko": "출판사" },
+{ "en": "to publish",        "fi": "julkaista, kustantaa", "fr": "publier", "es": "publicar",   "ko": "출판하다" },
+{ "en": "publisher",         "fi": "kustantaja",           "fr": "éditeur", "es": "(el) editor",  "ko": "" },
+{ "en": "publishing house",  "fi": "kustantamo",          "fr": "",      "es": "(casa) editorial",  "ko": "출판사" },
+
+
+{ "en": "characteristic",  "fi": "",          "fr": "",      "es": "(la) característica",  "ko": "" },
+
+
 
 { "en": "sign",             "fi": "merkki",         "fr": "panneau",  "ko": "간판" },
 { "en": "warning",            "fi": "varoitus",         "fr": "avertissement", "ko": "경고" },

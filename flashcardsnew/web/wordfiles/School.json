@@ -46,9 +46,10 @@
 { "en": "point (maths)","fi": "",          "fr": "point",          "es": "(el) punto",   "ko": "" },
 { "en": "triangle",     "fi": "kolmio",    "fr": "triangle",       "es": "(el) triángulo",  "ko": "삼각형" },
 { "en": "square",       "fi": "neliö",     "fr": "carré",          "es": "(el) cuadrado", "ko": "정사각형" },
-{ "en": "circle",       "fi": "ympyrä",    "fr": "cercle",   "ko": "원" },
-{ "en": "disk (maths)", "fi": "kiekko",    "fr": "disque",    "ko": "원판" },
-{ "en": "equation",     "fi": "yhtälö",    "fr": "équation",    "ko": "방정식" },
+{ "en": "circle",       "fi": "ympyrä",    "fr": "cercle",         "ko": "원" },
+{ "en": "disk (maths)", "fi": "kiekko",    "fr": "disque",         "ko": "원판" },
+{ "en": "equation",     "fi": "yhtälö",    "fr": "équation",    "es": "(la) ecuación","ko": "방정식" },
+{ "en": "equal (to)",   "fi": "",          "fr": "",            "es": "igual (a)","ko": "" },
 
 { "en": "infinity",     "fi": "äärettömyys",    "fr": "infinité",  "es": "(el) infinito", "ko": "방정식" },
 { "en": "axis",     "fi": "",    "fr": "",  "es": "(el) eje", "ko": "" },

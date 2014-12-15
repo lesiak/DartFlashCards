@@ -34,6 +34,10 @@
 { "en": "ideology",       "fi": "ideologia",               "fr": "idéologie",   "es": "(la) ideología",   "ko": "" },
 { "en": "liberty",        "fi": "",                        "fr": "liberté",     "es": "(la) libertad",   "ko": "" },
 
+{ "en": "to vote",       "fi": "",                        "fr": "",             "es": "votar",   "ko": "" },
+{ "en": "voter",         "fi": "",                        "fr": "",             "es": "(el) votante",   "ko": "" },
+
+
 { "en": "coup d'état",        "fi": "",                    "fr": "coup d'état", "es": "(el) golpe de estado",   "ko": "" },
 { "en": "to rebel (against)", "fi": "",          "fr": "",  "es": "rebelarse (contra)", "ko": "" }, 
 

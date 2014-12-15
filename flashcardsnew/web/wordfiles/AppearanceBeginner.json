@@ -24,12 +24,13 @@
 { "en": "thin (not thick)", "fi": "ohut",    "fr": "mince",    "es": "fino; delgado",  "ko": "얇다" },
 { "en": "thick (not thin)",  "fi": "paksu",  "fr": "",         "es": "grueso",  "ko": "두껍다" },
   
-{ "en": "broad",         "fi": "",       "fr": "",    "es": "amplio, ancho",  "ko": "" },
+{ "en": "broad",         "fi": "",           "fr": "",         "es": "amplio, ancho",  "ko": "" },
   
-{ "en": "height",       "fi": "korkeus, pituus",    "fr": "",  "es": "(la) altura",  "ko": "" },
-{ "en": "weight",       "fi": "paino",    "fr": "poids",  "es": "(el) peso",  "ko": "무게" },
-{ "en": "heavy",        "fi": "painava",  "fr": "lourd",  "es": "pesado",     "ko": "무거운 (무겁다)" },
-{ "en": "light (weight)","fi": "kevyt",    "fr": "léger",  "es": "ligero",     "ko": "가볍다" },
+{ "en": "size",         "fi": "",            "fr": "",         "es": "(el) tamaño",  "ko": "" },
+{ "en": "height",       "fi": "korkeus, pituus",  "fr": "",    "es": "(la) altura",  "ko": "" },
+{ "en": "weight",       "fi": "paino",    "fr": "poids",       "es": "(el) peso",  "ko": "무게" },
+{ "en": "heavy",        "fi": "painava",  "fr": "lourd",       "es": "pesado",     "ko": "무거운 (무겁다)" },
+{ "en": "light (weight)","fi": "kevyt",    "fr": "léger",      "es": "ligero",     "ko": "가볍다" },
 
 
 

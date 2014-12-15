@@ -31,6 +31,11 @@
 
 { "en": "straight (hair)", "fi": "" , "fr": "",                   "es": "liso",  "ko": ""},
 { "en": "curly (hair)",    "fi": "" , "fr": "",                      "es": "rizado",  "ko": ""},
+{ "en": "blonde (hair)",    "fi": "" , "fr": "",                      "es": "rubio",  "ko": ""},
+{ "en": "dark (hair)",    "fi": "" , "fr": "",                      "es": "moreno",  "ko": ""},
+{ "en": "red-haired",    "fi": "" , "fr": "",                      "es": "pelirrojo",  "ko": ""},
+
+
 { "en": "makeup",          "fi": "meikki" ,        "fr": "maquillage",  "es": "(el) maquillaje",  "ko": ""}, 
 { "en": "style",           "fi": "tyyli" ,        "fr": "style",  "es": "(el) estilo",  "ko": ""}
 

@@ -63,8 +63,18 @@
 { "en": "extinction",    "fi": "",        "fr": "",   "es": "(la) extinción", "ko": "" },
 { "en": "impression",    "fi": "",        "fr": "",   "es": "(la) impresión", "ko": "" },
 
-
+{ "en": "to include",    "fi": "",       "fr": "",   "es": "incluir", "ko": "" },
+{ "en": "to constitute",    "fi": "",       "fr": "",   "es": "constituir", "ko": "" },
 { "en": "to discover",    "fi": "",       "fr": "",   "es": "descubrir", "ko": "" },
+
+{ "en": "nobody",    "fi": "",       "fr": "",   "es": "nadie", "ko": "" },
+{ "en": "a patrol",    "fi": "",       "fr": "",   "es": "(la) patrulla", "ko": "" },
+{ "en": "to patrol",    "fi": "",       "fr": "",   "es": "(la) patrullar", "ko": "" },
+{ "en": "to intimidate",    "fi": "",       "fr": "",   "es": "intimidar", "ko": "" },
+
+{ "en": "to benefit (from)",    "fi": "",       "fr": "",   "es": "beneficiarse (de)", "ko": "" },
+
+
 
 { "en": "power (authority)",    "fi": "", "fr": "",   "es": "(el) poder", "ko": "" },
 { "en": "powerful",    "fi": "",          "fr": "",   "es": "poderoso", "ko": "" },
@@ -72,6 +82,8 @@
 { "en": "force",       "fi": "",          "fr": "",   "es": "(la) fuerza",  "ko": ""},
 
 { "en": "to support",    "fi": "kannattaa",   "fr":"supporter, soutenir", "es":"apoyar", "ko": ""},
+
+{ "en": "to tease",    "fi": "",   "fr":"taquiner", "es":"embromar", "ko": ""},
 
 
 { "en": "freedom, liberty",    "ko": "자유",    "fi": "" , "fr":""}

@@ -44,10 +44,9 @@
 { "en": "on the contrary",   "fi": "päinvastoin",   "fr":"au contraire", "es":"al contrario, por el contrario",  "ko": "이에 반하여"},
 { "en": "on top of that",    "fi": "(sen) lisäksi", "fr":"", "es": "además", "ko": "게다가"},
 { "en": "in addition",       "fi": "(sen) lisäksi", "fr":"", "es": "además", "ko": "게다가"},
-
-
 { "en": "instead of",   "fi": "sijasta, asemesta",   "fr":"au lieu de","es":"en vez de, en lugar de",  "ko": ""},
-
+{ "en": "however",   "fi": "",   "fr":"","es":"sin embargo",  "ko": ""},
+{ "en": "meanwhile",   "fi": "",   "fr":"","es":"mientras tanto",  "ko": ""},
 
 
 { "en": "warm",         "fi": "lämmin",   "fr":"chaud",  "es": "caliente (iron, oven, bath); templado(a) (water, soup); cálido(a) (weather, welcome, color); de abrigo (garment)",  "ko": "따뜻하다"},

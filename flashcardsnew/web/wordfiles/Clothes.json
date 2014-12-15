@@ -83,7 +83,6 @@
 { "en": "silk",        "fi": "silkki" ,  "fr":"soie",        "es": "(la) seda",   "ko": "솜"},
 { "en": "leather",     "fi": "nahka" ,  "fr":"cuir",         "es": "(el) cuero, (la) piel",   "ko": ""},
 
-{ "en": "make, manufacture, tailor",         "ko": "짓다",       "fi": "",          "fr": "" }
-
+{ "en": "a tailor",    "fi": "räätäli",          "fr": "tailleur",  "es": "(el) sastre",  "es": "(it) sarto",  "ko": "" }
 
 ]

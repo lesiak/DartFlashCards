@@ -38,40 +38,13 @@
 { "en": "chimney",        "fi": "savupiippu", "fr": "cheminée",   "es": "(la) chimenea", "ko": "굴뚝"     },
 { "en": "wall",           "fi": "seinä, muuri","fr": "mur",       "es": "(la) pared",    "ko": "담" },
 { "en": "loft",           "fi": "parvi",       "fr": "grenier",   "es": "(el) desván",    "ko": "" },
-
-
-{ "en": "soap",           "fi": "saippua",    "fr": "savon",      "es": "(el) jabón","ko": "비누" }, 
-{ "en": "shampoo",        "fi": "shampoo, hiustenpesuaine", 
-                                           "fr": "shampoing",         "es": "(el) champú", "ko": "샴푸" },
-{ "en": "cream (cosmetics)", "fi": "",    "fr": "",                    "es": "(la) crema","ko": "" },
-{ "en": "toothpaste",     "fi": "hammastahna","fr": "dentifrice",      "es": "(la) pasta de dientes, (el) dentífrico",     "ko": "치약"           },
-{ "en": "toothbrush",     "fi": "hammasharja","fr": "brosse à dents",  "es": "(el) cepillo de dientes",   "ko": "칫솔"     },
-{ "en": "mirror",         "fi": "peili",      "fr": "miroir",          "es": "(el) espejo", "ko": "거울"           },
-{ "en": "towel",          "fi": "pyyhe",      "fr": "serviette",       "es": "(la) toalla", "ko": "수건, 타월" },
-
 { "en": "lamp",           "fi": "lamppu",     "fr": "lampe",         "es": "(la) lámpara",  "ko": "램프, 전등"    },
-{ "en": "bath (bathtub)", "fi": "kylpy",      "fr": "bain",          "es": "(la) bañera", "ko": "목욕"           },
-{ "en": "bathroom",       "fi": "kylpyhuone", "fr": "salle de bain", "es": "(el) baño",  "ko": "욕실"           },
-{ "en": "bathe (take bath)","fi": "kylpeä",  "fr": "se baigner",    "es": "bañarse",  "ko": " 목욕시키다" },
-
-{ "en": "shower",         "fi": "suihku",     "fr": "douche",        "es": "(la) ducha", "ko": " " },
-{ "en": "sink",           "fi": "pesuallas, lavuaari", "fr": "évier, lavabo" ,  "es": "(el) fregadero, (el) lavabo",   "hu": "mosogató",  "ko": "싱크대"},
-{ "en": "tap",            "fi": "hana",       "fr": "robinet",      "es": "(el) grifo", "ko": " " },
-
-
-{ "en": "comb",           "fi": "kampa",      "fr": "peigne",        "es": "(el) peine",  "ko": " 빗" },
-{ "en": "shaving",        "fi": "parranajo",  "fr": "rasage",        "es": "(el) afeitado",  "ko": "면도"           },
-{ "en": "razor",          "fi": "partakone",  "fr": "rasoir",        "es": "(la) navaja, (la) maquinilla de afeitar",    "ko": "면도칼"        },
 
 { "en": "kitchen",        "fi": "keittiö",    "fr": "cuisine",       "es": "(la) cocina",  "ko": " 부엌" },
 
 { "en": "get up",         "fi": "nousta",     "fr": "se lever",      "es": "levantarse", "ko": "일어나다" },
 { "en": "go to bed",      "fi": "mennä nukkumaan",     "fr": "",     "es": "acostarse",  "ko": "" },
 { "en": "to wake up",      "fi": "herätä",     "fr": "se réveiller", "es": "despertarse",  "ko": "" },
-
-
-{ "en": "to wash oneself","fi": "peseytyä",    "fr": "se laver",   "es": "lavarse" ,   "ko": ""},
-{ "en": "to have a shower","fi": "",           "fr": "",           "es": "ducharse" ,   "ko": ""},
 { "en": "to get dressed", "fi": "pukeutua",        "fr": "s'habiller",        "es": "vestirse",  "ko": "" },
 
 { "en": "breakfast",     "fi": "aamiainen",    "fr": "petit déjeuner",   "es": "(el) desayuno",    "ko": "아침" },

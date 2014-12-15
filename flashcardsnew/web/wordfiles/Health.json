@@ -45,16 +45,21 @@
 { "en": "virus",            "fi": "virus" ,     "fr":" virus",       "es": "(el) virus",       "ko": "바이러스"},
 { "en": "vitamin",          "fi": "vitamiini" , "fr":"vitamine",     "es": "(la) vitamina",    "ko": "비타민"},
 { "en": "wound",            "fi": "haava",      "fr": "blessure",    "es": "(la) herida",      "ko": "상처" },
+{ "en": "scar",             "fi": "",           "fr": "",            "es": "(la) cicatriz",    "ko": "" },
+
 { "en": "injection",        "fi": "injektio",   "fr": "injection",   "es": "(la) inyección",   "ko": "주사" },
 { "en": "prescription",     "fi": "resepti",    "fr": "prescription","es": "(la) receta",      "ko": "처방" },
 { "en": "operation, surgery","fi": "leikkaus",  "fr": "opération",   "es": "(la) operación",   "ko": "외과" },
 { "en": "syringe",          "fi": "ruisku",     "fr": "seringue (f)","es": "(la) jeringa",     "ko": "주사기" },
 { "en": "vaccine",          "fi": "rokote",     "fr": "(le) vaccin", "es": "(la) vacuna",      "ko": "백신" },
+
+
 { "en": "medicine",              "fi": "",    "fr": "",       "es": "(el) medicamento", "ko": "" },
 { "en": "antibiotics",              "fi": "",    "fr": "",       "es": "(los) antibióticos", "ko": "" },
 { "en": "bandage",              "fi": "",    "fr": "",       "es": "(la) venda", "ko": "" },
+{ "en": "drops",              "fi": "",    "fr": "",       "es": "(las) gotas", "ko": "" },
 
-{ "en": "scar",              "fi": "",    "fr": "",       "es": "(la) cicatriz", "ko": "" },
+
  
 
 { "en": "infection",     "fi": "",      "fr": "", "es": "(la) infección",        "ko": ""  },

@@ -17,6 +17,7 @@
 { "en": "barman",       "fi": "baarimikko",      "fr": "barman",      "es": "(el/la) barman",   "ko": "" },
 { "en": "worker",       "fi": "",                "fr": "ouvrier",      "es": "(el) obrero",   "ko": "" },
 { "en": "day laborer",       "fi": "",                "fr": "journalier",      "es": "(el) jornalero",   "ko": "" },
+{ "en": "bricklayer",       "fi": "",                "fr": "",      "es": "(el) albañil",   "ko": "" },
 
 
 { "en": "manager",       "fi": "johtaja",         "fr": "",           "es": "(el) gerente",     "ko": "과장님" },

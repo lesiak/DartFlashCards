@@ -1,7 +1,7 @@
 [
 
-{ "en": "apple",      "fi": "omena",        "fr": "pomme",      "es": "(la) manzana",  "hu": "alma",       "ko": "사과"   },
-{ "en": "pear",       "fi": "päärynä",      "fr": "poire",      "es": "(la) pera",     "hu": "körte",      "ko": "배"     },
+{ "en": "apple",      "fi": "omena",        "fr": "pomme",      "es": "(la) manzana",  "it": "(la) mela", "hu": "alma",       "ko": "사과"   },
+{ "en": "pear",       "fi": "päärynä",      "fr": "poire",      "es": "(la) pera",     "it": "(la) pera", "hu": "körte",      "ko": "배"     },
 { "en": "peach",      "fi": "persikka",     "fr": "pêche",      "es": "(el) melocotón","hu": "őszibarack", "ko": "복숭아" },
 { "en": "banana",     "fi": "banaani",      "fr": "banane",     "es": "(el) plátano",  "hu": "banán",      "ko": "바나나" },
 { "en": "plum",       "fi": "luumu",        "fr": "prune",      "es": "(la) ciruela",  "hu": "szilva",     "ko": "자두"   },

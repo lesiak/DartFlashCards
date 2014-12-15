@@ -44,6 +44,7 @@
 { "en": "brutality",     "fi": "",               "fr": "brutalité",   "es": "(la) brutalidad",  "ko": "" },
 
 { "en": "crazy",         "fi": "hullu",          "fr": "fou",         "es": "loco",   "ko": ""},
+{ "en": "absent-minded", "fi": "hajamielinen",   "fr": "",            "es": "despistado",   "ko": ""},
 
 { "en": "kind",          "fi": "",               "fr": "aimable",     "es": "amable", "ko": "" },
 { "en": "loving, kind",  "fi": "",               "fr": "affectueux",  "es": "cariñoso", "ko": "" },
