@@ -6,9 +6,15 @@
 { "en": "fear",          "fi": "pelko",          "fr": "",             "es": "(el) miedo", "ko": ""},
 { "en": "coward",        "fi": "pelkuri",        "fr":"",              "es": "(el) cobarde",  "ko": ""},
 { "en": "brave",         "fi": "rohkea",         "fr": "courageux",    "es": "valiente", "ko": "용감한" },
+{ "en": "courage",       "fi": "rohkeus",        "fr": "courage",      "es": "(el) coraje", "ko": "용기" },
 
-{ "en": "clever",        "fi": "nokkela",        "fr": "intelligent", "es": "inteligente",   "ko": "" },
-{ "en": "intelligent",   "fi": "älykäs",         "fr": "intelligent", "es": "inteligente",   "ko": "" },
+{ "en": "clever",        "fi": "nokkela",        "fr": "intelligent",  "es": "inteligente",   "ko": "" },
+{ "en": "intelligent",   "fi": "älykäs",         "fr": "intelligent",  "es": "inteligente",   "it":"intelligente",   "ko": "" },
+{ "en": "smart",         "fi": "fiksu, terävä",  "fr":"intelligent",   "es": "inteligente",   "ko": "똑똑하다"},
+{ "en": "lazy",          "fi": "laiska",         "fr":"paresseux",     "es":"perezoso, vago", "ko": "게으른"  },
+{ "en": "wise",          "fi": "viisas, järkevä","fr":"sage",          "es":"sabio",          "it":"saggio",    "ko": "슬기롭다 (wisdom + be, be characterized by)"},
+{ "en": "wisdom",        "fi": "viisaus, järkevyys","fr":"sagesse",   "es":"(la) sabiduría",  "ko": "슬기"},
+
 
 { "en": "boring",        "fi": "tylsä",          "fr": "ennuyeux", "es": "aburrido",   "ko": "" },
 { "en": "to get bored",  "fi": "kyllästyä",      "fr": "s'ennuyer","es": "aburrirse",   "ko": "" },

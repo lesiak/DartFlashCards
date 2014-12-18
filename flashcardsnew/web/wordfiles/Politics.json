@@ -33,18 +33,21 @@
 { "en": "monarchy",       "fi": "monarkia",                "fr": "monarchie",   "es": "(la) monarquía",   "ko": "" },
 { "en": "ideology",       "fi": "ideologia",               "fr": "idéologie",   "es": "(la) ideología",   "ko": "" },
 { "en": "liberty",        "fi": "",                        "fr": "liberté",     "es": "(la) libertad",   "ko": "" },
+{ "en": "regime",        "fi": "",                         "fr": "",            "es": "(el) régimen",   "ko": "" },
 
 { "en": "to vote",       "fi": "",                        "fr": "",             "es": "votar",   "ko": "" },
 { "en": "voter",         "fi": "",                        "fr": "",             "es": "(el) votante",   "ko": "" },
 
 
-{ "en": "coup d'état",        "fi": "",                    "fr": "coup d'état", "es": "(el) golpe de estado",   "ko": "" },
-{ "en": "to rebel (against)", "fi": "",          "fr": "",  "es": "rebelarse (contra)", "ko": "" }, 
+{ "en": "coup d'état",       "fi": "",                    "fr": "coup d'état", "es": "(el) golpe de estado",   "ko": "" },
+{ "en": "to rebel (against)","fi": "",             "fr": "",  "es": "rebelarse (contra)", "ko": "" }, 
 
-{ "en": "embassy",        "fi": "suurlähetystö", "fr": "ambassade",   "es": "(la) embajada",  "ko": "대사관 (great + dispatch + building)" },
+{ "en": "embassy",          "fi": "suurlähetystö", "fr": "ambassade",   "es": "(la) embajada",  "ko": "대사관 (great + dispatch + building)" },
 
+{ "en": "to isolate (from)","fi": "",                    "fr": "",   "es": "aislar (de)",  "ko": "" },
+{ "en": "isolation",        "fi": "",                    "fr": "",   "es": "(el) aislamiento",  "ko": "" },
 
-{ "en": "Ministry of Finance",        "ko": "",          "fi": "valtiovarainministeriö",    "fr": "" }
+{ "en": "Ministry of Finance",               "fi": "valtiovarainministeriö",    "fr": "",  "ko": "" }
 
 ]
         

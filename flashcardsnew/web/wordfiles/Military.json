@@ -9,21 +9,21 @@
 { "en": "nuclear weapon","fi": "ydinase",   "fr": "arme nucléaire","es": "(la) arma nuclear", "ko": "핵무기" },
 
 
-{ "en": "gun",          "fi": "pyssy",      "fr": "",          "es": "(la) pistola",  "ko": "총" },
-{ "en": "rifle",        "ko": "소총",          "fi": "kivääri",    "fr": "fusil" },
-{ "en": "pistol",       "ko": "권총",          "fi": "pistooli",    "fr": "pistolet (m)" },
-{ "en": "machine gun",  "ko": "기관총",          "fi": "konekivääri",    "fr": "mitrailleuse" },
+{ "en": "gun",          "fi": "pyssy",         "fr": "",              "es": "(la) pistola",  "ko": "총" },
+{ "en": "rifle",        "fi": "kivääri",       "fr": "fusil",         "es": "(el) rifle, (el) fusil",    "ko": "소총" },
+{ "en": "pistol",       "fi": "pistooli",      "fr": "pistolet (m)",  "es": "(la) pistola",   "ko": "권총" },
+{ "en": "machine gun",  "fi": "konekivääri",   "fr": "mitrailleuse",  "es": "(la) ametralladora",   "ko": "기관총" },
 
-{ "en": "shoot",        "ko": "쏘다",          "fi": "ampua",    "fr": "tirer" },
+{ "en": "shoot",        "fi": "ampua",         "fr": "tirer",         "es": "disparar",     "ko": "쏘다" },
 
 
-{ "en": "bomb",         "fi": "pommi",         "fr": "",         "es": "(la) bomba",        "ko": "폭탄" },
-{ "en": "explosion",    "fi": "räjähdys",      "fr": "",         "es": "(la) explosión",    "ko": "폭발" },
-{ "en": "violence",     "fi": "väkivalta",     "fr": "violence", "es": "(la) violencia",    "ko": "폭력" },
-{ "en": "violent",      "fi": "väkivaltainen", "fr": "violent",  "es": "(la) bomba",       "ko": "폭력적인, 격렬한" },
+{ "en": "bomb",         "fi": "pommi",         "fr": "",               "es": "(la) bomba",        "ko": "폭탄" },
+{ "en": "explosion",    "fi": "räjähdys",      "fr": "",               "es": "(la) explosión",    "ko": "폭발" },
+{ "en": "violence",     "fi": "väkivalta",     "fr": "violence",       "es": "(la) violencia",    "ko": "폭력" },
+{ "en": "violent",      "fi": "väkivaltainen", "fr": "violent",        "es": "violento",       "ko": "폭력적인, 격렬한" },
 
-{ "en": "demonstration","fi": "mielenosoitus", "fr": "démonstration",  "ko": "시위, 시연, 데모" },
-{ "en": "conflict",     "fi": "konflikti",     "fr": "conflit",  "es": "(el) conflicto",    "ko": "폭력" },
+{ "en": "demonstration (political)","fi": "mielenosoitus", "fr": "",   "es": "(la) manifestación",   "ko": "시위, 시연, 데모" },
+{ "en": "conflict",     "fi": "konflikti",     "fr": "conflit",        "es": "(el) conflicto",    "ko": "폭력" },
 
 { "en": "to fight",     "fi": "taistella",     "fr": "combattre",      "es": "luchar", "ko": "싸우다" },
 { "en": "fight",        "fi": "taistelu",      "fr": "lutte, combat",  "es": "(la) lucha", "ko": "" },
@@ -31,8 +31,8 @@
 { "en": "to defend",    "fi": "puolustaa",     "fr": "défendre",       "es": "defender",  "ko": "" },
 { "en": "attack",       "fi": "hyökkäys",      "fr": "attaque",        "es": "(el) ataque", "ko": "공격" },
 
-{ "en": "sword",       "fi": "miekka",    "fr": "épée",   "es": "(la) espada", "ko": "검" },
-{ "en": "bow",         "fi": "jousi",     "fr": "arc",    "es": "(el) arco",   "ko": "활" },
+{ "en": "sword",        "fi": "miekka",        "fr": "épée",   "es": "(la) espada", "ko": "검" },
+{ "en": "bow",          "fi": "jousi",         "fr": "arc",    "es": "(el) arco",   "ko": "활" },
 
 { "en": "military",         "fi": "",     "fr": "",    "es": "militar",   "ko": "" },
 

@@ -100,10 +100,6 @@
 { "en": "rich (person)","fi": "rikas",       "fr":"riche",    "es":"rico",  "ko": "부자 (rich man)"},
 { "en": "wealthy",       "fi": "varakas",       "fr":"riche", "es":"rico, adinerado",  "ko": ""},
 
-{ "en": "smart",      "fi": "fiksu, terävä", "fr":"intelligent",  "ko": "똑똑하다"},
-{ "en": "lazy",       "fi": "laiska",        "fr":"paresseux",    "es":"perezoso, vago",   "ko": "게으른"  },
-{ "en": "wise",       "fi": "viisas, järkevä","fr":"sage",        "ko": "슬기롭다 (wisdom + be, be characterized by)"},
-{ "en": "wisdom",       "fi": "viisaus, järkevyys" , "fr":"sagesse",  "ko": "슬기"},
 
 { "en": "behaviour",       "fi": "käyttäytyminen",   "fr": "comportement", "es": "(el) comportamiento",   "ko": ""},
 { "en": "polite",          "fi": "kohtelias",        "fr": "poli",         "es": "cortés, educado",   "ko": ""},

@@ -59,8 +59,10 @@
 { "en": "spicy (hot)",  "fi": "mausteinen" ,  "fr":"piquant",    "es": "picante",  "ko": "맵다"},
 { "en": "mild",         "fi": "mieto" ,       "fr":"",           "ko": ""},
 { "en": "fresh",        "fi": "tuore" ,       "fr": "frais",          "es": "fresco",  "ko": "신선한"},
-{ "en": "refreshing",   "fi": "virkistävä",   "fr": "rafraîchissant", "es": "refrescante", "ko": "상쾌한"}
-
+{ "en": "refreshing",   "fi": "virkistävä",   "fr": "rafraîchissant", "es": "refrescante", "ko": "상쾌한"},
+{ "en": "tasty",        "fi": "",             "fr": "",               "es": "sabroso", "ko": ""},
+{ "en": "delicious",    "fi": "",             "fr": "",               "es": "delicioso", "ko": ""},
+{ "en": "disgusting",   "fi": "",             "fr": "",               "es": "asqueroso", "ko": ""}
 
 
 

@@ -8,7 +8,7 @@
 
 { "en": "head",      "fi": "pää",      "fr": "tête",        "es": "(la) cabeza", "hu": "fej",     "ko": "머리" },
 { "en": "eye",       "fi": "silmä",    "fr": "œil",         "es": "(el) ojo",    "hu": "szem",    "ko": "얼굴" },
-{ "en": "face",      "fi": "kasvot",   "fr": "face, visage","es": "(la) cara",   "hu": "arc",     "ko": "눈"   },
+{ "en": "face",      "fi": "kasvot",   "fr": "face, visage","es": "(la) cara, (el) rostro",   "hu": "arc",     "ko": "눈"   },
 { "en": "brain",     "fi": "aivot",    "fr": "cerveau",     "es": "(el) cerebro","hu": "agy",     "ko": "뇌"   },
 { "en": "neck",      "fi": "kaula",    "fr": "cou",         "es": "(el) cuello", "hu": "nyak",    "ko": "목"   },
 { "en": "tongue",    "fi": "kieli",    "fr": "langue",      "es": "(la) lengua", "hu": "nyelv",   "ko": "혀"   },

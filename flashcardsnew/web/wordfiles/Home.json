@@ -42,10 +42,11 @@
 
 { "en": "kitchen",        "fi": "keittiö",    "fr": "cuisine",       "es": "(la) cocina",  "ko": " 부엌" },
 
-{ "en": "get up",         "fi": "nousta",     "fr": "se lever",      "es": "levantarse", "ko": "일어나다" },
-{ "en": "go to bed",      "fi": "mennä nukkumaan",     "fr": "",     "es": "acostarse",  "ko": "" },
-{ "en": "to wake up",      "fi": "herätä",     "fr": "se réveiller", "es": "despertarse",  "ko": "" },
-{ "en": "to get dressed", "fi": "pukeutua",        "fr": "s'habiller",        "es": "vestirse",  "ko": "" },
+{ "en": "get up",         "fi": "nousta",     "fr": "se lever",          "es": "levantarse", "ko": "일어나다" },
+{ "en": "go to bed",      "fi": "mennä nukkumaan",     "fr": "",         "es": "acostarse",  "ko": "" },
+{ "en": "to wake up",     "fi": "herätä",      "fr": "se réveiller",     "es": "despertarse",  "ko": "" },
+{ "en": "to get dressed", "fi": "pukeutua",    "fr": "s'habiller",       "es": "vestirse",  "ko": "" },
+{ "en": "to oversleep",   "fi": "",            "fr": "",                 "es": "quedarse dormido",  "ko": "" },
 
 { "en": "breakfast",     "fi": "aamiainen",    "fr": "petit déjeuner",   "es": "(el) desayuno",    "ko": "아침" },
 { "en": "lunch",         "fi": "lounas",       "fr": "déjeuner",         "es": "(el) almuerzo",    "ko": "점심" },
@@ -54,12 +55,13 @@
 { "en": "to have lunch", "fi": "",             "fr": "",                 "es": "almorzar",    "ko": "" },
 
 { "en": "rubbish",       "fi": "roska" ,       "fr":"déchets",           "es":"(la) basura",      "ko": "쓰레기"},
-{ "en": "recycling",     "ko": "",            "fi": "kierrätys" ,        "es":"(el) reciclaje, (es) reciclado",   "fr":""},
+{ "en": "recycling",     "fi": "kierrätys" ,   "fr":"",                  "es":"(el) reciclaje, (es) reciclado",      "ko": ""},
 
 
 
 { "en": "corner (of room)", "fi": "nurkka, kulma",  "fr": "coin (m)",  "es": "(el) rincón",   "ko": "구석, 모서리" },
 
-{ "en": "cellar",        "fi": "kellari",  "fr": "cave, cellier",   "es": "(el) sótano (basement), (la) bodega (for wine) " , "ko": "지하실" }
+{ "en": "cellar",        "fi": "kellari",  "fr": "cave, cellier",      "es": "(el) sótano (basement), (la) bodega (for wine) " , "ko": "지하실" },
+{ "en": "to hire, rent", "fi": "",         "fr": "",                    "es": "alquilar",  "ko": ""}
 
 ]

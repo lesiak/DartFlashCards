@@ -10,11 +10,12 @@
 
 
 { "en": "to approve",    "fi": "hyväksyä, keskustella jstk" , "fr":"approuver", "es":"aprobar", "ko": ""},
-
 { "en": "to refuse",    "fi": "kieltäytyä" , "fr":"refuser", "es":"rehusar", "ko": ""},
 
 { "en": "comment",           "fi": "kommentti",          "fr": "commentaire", "es": "(el) comentario",  "ko": "비평" },
 { "en": "to comment",        "fi": "kommentoida",          "fr": "commenter", "es": "comentar (que | algo)",   "ko": "비평하다" },
+
+{ "en": "to conclude",        "fi": "",          "fr": "", "es": "concluir (que)",   "ko": "" },
 
 
 { "en": "criticize, reproach",  "fi": "arvostella",    "fr": "critiquer", "ko": "비난하다 (blame + blame)" },

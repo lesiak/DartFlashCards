@@ -21,16 +21,20 @@
 { "en": "tap",            "fi": "hana",       "fr": "robinet",      "es": "(el) grifo", "ko": " " },
 
 
-{ "en": "comb",           "fi": "kampa",      "fr": "peigne",        "es": "(el) peine",  "ko": " 빗" },
+{ "en": "comb",            "fi": "kampa",      "fr": "peigne",        "es": "(el) peine",  "ko": " 빗" },
 { "en": "to shave",        "fi": "",  "fr": "",        "es": "afeitarse",  "ko": ""           },
-{ "en": "shaving",        "fi": "parranajo",  "fr": "rasage",        "es": "(el) afeitado",  "ko": "면도"           },
-{ "en": "razor",          "fi": "partakone",  "fr": "rasoir",        "es": "(la) navaja, (la) maquinilla de afeitar",    "ko": "면도칼"        },
+{ "en": "shaving",         "fi": "parranajo",  "fr": "rasage",        "es": "(el) afeitado",                 "ko": "면도"           },
+{ "en": "razor",           "fi": "partakone",  "fr": "rasoir",        "es": "(la) navaja",                   "ko": "면도칼"        },
+{ "en": "razor (electric)","fi": "partakone",  "fr": "rasoir",        "es": "(la) maquinilla de afeitar",    "ko": "면도칼"        },
 
 { "en": "handkerchief",   "fi": "",           "fr": "",           "es": "(el) pañuelo" ,   "ko": ""},
 { "en": "toilet paper",   "fi": "vessapaperi",    "fr": "papier de toilette",  "es": "(el) papel higiénico",  "ko": "화장지" },
 
-{ "en": "to wash oneself","fi": "peseytyä",    "fr": "se laver",   "es": "lavarse" ,   "ko": ""},
-{ "en": "to have a shower","fi": "",           "fr": "",           "es": "ducharse" ,   "ko": ""},
+{ "en": "to wash oneself","fi": "peseytyä",    "fr": "se laver",     "es": "lavarse" ,   "ko": ""},
+{ "en": "to have a shower","fi": "",           "fr": "",             "es": "ducharse" ,   "ko": ""},
+{ "en": "to wash one's face","fi": "",           "fr": "",           "es": "lavarse la cara" ,   "ko": ""},
+{ "en": "to brush (one's teeth)", "fi": "","         fr": "",         "es": "cepillarse (los dientes)",   "ko": "칫솔"     },
+
 { "en": "to blow one's nose","fi": "",           "fr": "",           "es": "sonarse la nariz" ,   "ko": ""}
 
 

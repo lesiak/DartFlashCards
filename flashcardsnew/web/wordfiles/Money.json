@@ -9,7 +9,7 @@
 { "en": "salary",          "fi": "palkkaus",     "fr": "salaire",           "es": "(el) salario, (el) sueldo", "ko": "급여" },
 
 { "en": "collect",         "fi": "kerätä",       "fr": "recueillir",     "ko": "모으다" },
-{ "en": "save up",         "fi": "säästää",      "fr": "épargner",      "ko": "모으다" },
+{ "en": "to save (up)",    "fi": "säästää",      "fr": "épargner",      "es": "ahorrar",       "ko": "모으다" },
 { "en": "spend (money)",   "fi": "",             "fr": "dépenser",      "es": "gastar",      "ko": "" },
 { "en": "earn (money)",    "fi": "",             "fr": "gagner",        "es": "ganar",      "ko": "" },
 

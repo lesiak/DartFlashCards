@@ -23,10 +23,6 @@
 { "en": "voicemail",     "fi": "puheposti",     "fr": "messagerie vocale",       "es": "(el) buzón de voz",   "ko": "" },
 { "en": "engaged (UK), busy (US)",   "fi": "",     "fr": "",       "es": "ocupado",   "ko": "" },
 
-{ "en": "to change",    "fi": "muuttaa",    "fr": "changer",     "es": "cambiar",  "ko": "바꾸다" },
-
-
-{ "en": "change",       "fi": "muutos",    "fr": "changement",   "es": "(el) cambio", "ko": "바꾸다" },
 
 { "en": "telephone call",    "fi": "puhelu",    "fr": "appel téléphonique",  "es": "(la) llamada (telefónica)", "ko": "통화" },
 

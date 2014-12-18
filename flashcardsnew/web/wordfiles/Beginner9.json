@@ -13,8 +13,6 @@
 { "en": "belong (to)",        "fi": "kuulua (+allative)",   "fr": "appartenir (à)", "es": "pertenecer (a)",   "ko": ""},
 
 
-{ "en": "intuition",        "fi": "intuitio", 	"fr":"intuition", "es":"(la) intuición", "ko": "직관"},
-{ "en": "to intuit",        "fi": "tajuta intuitiivisesti",   "fr":"", "es":"intuir","it":"intuire", "ko": "직관"},
 
 { "en": "to tighten (sth)",           "ko": "",    "fi": "kiristää",   "fr":"serrer"},
 { "en": "to tighten (intransitive)",  "ko": "",    "fi": "kiristyä",   "fr":"se resserrer"},
@@ -26,8 +24,6 @@
 
 { "en": "to diffuse",   "fi": "",   "fr": "diffuser", "es": "difundir",   "ko": ""},
 { "en": "diffused",     "fi": "",   "fr": "",         "es": "difundido",   "ko": ""},
-
-
 
 
 { "en": "to tremble",    "fi": "vapista",   "fr": "trembler", "es": "temblar", "ko": ""},
@@ -48,14 +44,11 @@
 
 { "en": "to be related to",   "ko": "",    "fi": "",   "fr":"être liée à"},
 
-
-
-
 { "en": "serious (situation, problem)",      "fi": "",      "fr": "", "es": "grave",  "ko": ""},
 { "en": "historical",      "fi": "",      "fr": "", "es": "histórico",  "ko": ""},
+{ "en": "direct",      "fi": "",      "fr": "", "es": "directo",  "ko": ""},
+{ "en": "rare",      "fi": "",      "fr": "", "es": "raro",  "ko": ""},
 
-{ "en": "measure (action, step)",      "fi": "",      "fr": "", "es": "(la) medida",  "ko": ""},
-{ "en": "to take measures",      "fi": "",      "fr": "",       "es": "tomar medidas",  "ko": ""},
 
 { "en": "due (to)",       "fi": "",      "fr": "grâce (à)", "es": "debido (a)",  "ko": ""},
 { "en": "to happen",      "fi": "",      "fr": "", "es": "pasar",  "ko": ""},
@@ -64,8 +57,6 @@
 
 
 { "en": "ready, willing",      "fi": "",      "fr": "", "es": "dispuesto",  "ko": ""},
-{ "en": "direct",      "fi": "",      "fr": "", "es": "directo",  "ko": ""},
-{ "en": "rare",      "fi": "",      "fr": "", "es": "raro",  "ko": ""},
 
 { "en": "to freeze",      "fi": "",      "fr": "", "es": "helar",  "ko": ""},
 
@@ -73,9 +64,9 @@
 
 
 { "en": "confess",      "fi": "",      "fr": "", "es": "confesar",  "ko": ""},
-{ "en": "to bury",      "fi": "",      "fr": "", "es": "enterrar",  "ko": ""},
 
-{ "en": "to hire, rent",      "fi": "",      "fr": "", "es": "alquilar",  "ko": ""},
+
+
 { "en": "a level",      "fi": "taso",      "fr": "niveau", "es": "(el) nivel",  "ko": ""},
 
 { "en": "current, flow",       "fi": "virta",   "fr":"courant", "es":"(la) corriente",  "ko": ""},
@@ -89,6 +80,7 @@
 
 
 { "en": "dead",       "fi": "",   "fr":"", "es": "muerto",  "ko": ""},
+{ "en": "to bury",      "fi": "",      "fr": "", "es": "enterrar",  "ko": ""},
 
 { "en": "to handle",       "fi": "",   "fr":"", "es": "manejar",  "ko": ""},
 { "en": "to move",       "fi": "",   "fr":"", "es": "mover",  "ko": ""},
@@ -128,7 +120,7 @@
 
 
 { "en": "superior",        "fi": "",   "fr": "", "es": "superior",  "ko": ""},
-{ "en": "of course",        "fi": "",   "fr": "bien sûr", "es": "por supuesto",  "ko": ""},
+
 
 { "en": "structure",        "fi": "rakenne",   "fr": "structure", "es": "(la) estructura",  "ko": ""},
 { "en": "to demolish",        "fi": "",   "fr": "", "es": "demoler",  "ko": ""},
@@ -141,6 +133,8 @@
 { "en": "domestic",     "fi": "",   "fr":"",     "es": "doméstico", "ko": ""},
 
 
+
+{ "en": "to rationalize",     "fi": "",   "fr":"",     "es": "racionalizar", "ko": ""},
 { "en": "nightmare",       "ko": "악몽 (bad + dream)",       "fi": "painajainen",    "fr": "cauchemar" },
 { "en": "to spit",       "ko": "뱉다",       "fi": "sylkeä",    "fr": "cracher" }
 

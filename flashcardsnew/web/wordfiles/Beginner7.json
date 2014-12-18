@@ -15,7 +15,7 @@
 { "en": "drug (narcotic)",       "ko": "마약",    "fi": "huume",    "fr":"drogue"},
 
 
-{ "en": "to rescue",    "fi": "pelastaa",       "fr": "sauver",   "es": "rescatar",  "ko": ""},
+
 
 { "en": "to confuse",    "fi": "",       "fr": "",   "es": "confundir",  "ko": ""},
 { "en": "to avoid",    "fi": "välttää",       "fr": "éviter",   "es": "evitar",  "ko": ""},
@@ -34,8 +34,14 @@
 
 
 { "en": "to continue",    "fi": "" , "fr": "",  "ko": "계속하다"},
-{ "en": "to suspect",     "fi": "epäillä" , "fr":"suspecter",  "ko": "느끼다"},
+{ "en": "to suspect",     "fi": "epäillä" , "fr":"suspecter",   "es":"sospechar",  "ko": "느끼다"},
+{ "en": "to presume",     "fi": "" , "fr":"",   "es":"presumir",  "ko": ""},
+{ "en": "to suppose",     "fi": "" , "fr":"",   "es":"suponer",  "ko": ""},
 
+{ "en": "alleged",     "fi": "" , "fr":"",   "es":"presunto, supuesto",  "ko": ""},
+
+
+{ "en": "to take out, remove",     "fi": "" , "fr":"",   "es":"sacar",  "ko": ""},
 
 { "en": "showy, gaudy, tawdry",    "ko": "야하다",    "fi": "" , "fr":""},
 
@@ -70,13 +76,18 @@
 { "en": "nobody",    "fi": "",       "fr": "",   "es": "nadie", "ko": "" },
 { "en": "a patrol",    "fi": "",       "fr": "",   "es": "(la) patrulla", "ko": "" },
 { "en": "to patrol",    "fi": "",       "fr": "",   "es": "(la) patrullar", "ko": "" },
+{ "en": "to control",    "fi": "",       "fr": "",   "es": "controlar", "ko": "" },
+{ "en": "control (over)",    "fi": "",       "fr": "",   "es": "(el) control (sobre)", "ko": "" },
+
 { "en": "to intimidate",    "fi": "",       "fr": "",   "es": "intimidar", "ko": "" },
 
 { "en": "to benefit (from)",    "fi": "",       "fr": "",   "es": "beneficiarse (de)", "ko": "" },
+{ "en": "to affect",    "fi": "",       "fr": "",   "es": "afectar; influir en", "ko": "" },
 
+{ "en": "to save (rescue)",    "fi": "",          "fr": "",         "es": "salvar", "ko": "" },
+{ "en": "to rescue",           "fi": "pelastaa",  "fr": "sauver",   "es": "rescatar",  "ko": ""},
 
-
-{ "en": "power (authority)",    "fi": "", "fr": "",   "es": "(el) poder", "ko": "" },
+{ "en": "power (authority)",   "fi": "",          "fr": "",         "es": "(el) poder", "ko": "" },
 { "en": "powerful",    "fi": "",          "fr": "",   "es": "poderoso", "ko": "" },
 { "en": "to force",    "fi": "",          "fr": "",   "es": "forzar",  "ko": ""},
 { "en": "force",       "fi": "",          "fr": "",   "es": "(la) fuerza",  "ko": ""},
@@ -84,7 +95,6 @@
 { "en": "to support",    "fi": "kannattaa",   "fr":"supporter, soutenir", "es":"apoyar", "ko": ""},
 
 { "en": "to tease",    "fi": "",   "fr":"taquiner", "es":"embromar", "ko": ""},
-
 
 { "en": "freedom, liberty",    "ko": "자유",    "fi": "" , "fr":""}
 

@@ -36,11 +36,13 @@
 
 { "en": "personal",    "fi": "",   "fr":"", "es": "personal",  "ko": ""},
 
-{ "en": "professional",    "fi": "",           "fr":"",            "es": "profesional",  "ko": ""},
-{ "en": "luxurious",       "fi": "ylellinen",  "fr":"luxueux",     "es": "lujoso",  "ko": ""},
-{ "en": "precious",        "fi": "arvokas",    "fr":"précieux",    "es": "precioso",  "ko": ""},
-{ "en": "presigious",      "fi": "",           "fr":"prestigieux", "es": "prestigioso","it": "prestigioso",  "ko": ""},
-{ "en": "prestige",      "fi": "",             "fr":"prestige",    "es": "(el) prestigio","it": "(il) prestigio",  "ko": ""},
+{ "en": "professional",    "fi": "",           "fr":"",               "es": "profesional",  "ko": ""},
+{ "en": "luxurious",       "fi": "ylellinen",  "fr":"luxueux",        "es": "lujoso",  "ko": ""},
+{ "en": "precious",        "fi": "arvokas",    "fr":"précieux",       "es": "precioso",  "ko": ""},
+{ "en": "presigious",      "fi": "",           "fr":"prestigieux",    "es": "prestigioso",   "it": "prestigioso",  "ko": ""},
+{ "en": "prestige",      "fi": "",             "fr":"prestige",       "es": "(el) prestigio","it": "(il) prestigio",  "ko": ""},
+{ "en": "traditional",     "fi": "perinteinen","fr":"traditionnel",   "es": "tradicional",   "it": "tradizionale",  "ko": ""},
+{ "en": "tradition",       "fi": "perinne",    "fr":"tradition",      "es": "(la) tradición","it": "(la) tradizione",  "ko": ""},
 
 { "en": "dangerous",       "fi": "vaarallinen",     "fr": "dangereux","es": "peligroso",  "ko": "위험한"},
 { "en": "security",        "fi": "turvallisuus",    "fr": "sécurité", "es": "(la) seguridad", "ko": "보안 (keep + comfortable)" },

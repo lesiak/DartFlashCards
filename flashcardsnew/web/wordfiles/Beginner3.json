@@ -21,7 +21,7 @@
 { "en": "an answer",    "fi": "vastaus",       "fr": "réponse",   "es": "(la) respuesta",  "ko": "답변, 대답 (reply + answer)" },
 { "en": "to answer",    "fi": "vastata",       "fr": "répondre",  "es": "responder, contestar",       "ko": "답변하다, 대답하다" },
 { "en": "to reply",     "fi": "",              "fr": "",          "es": "contestar",       "ko": "" },
-{ "en": "to meet (=become acquainted)",        "fi": "",   "fr": "", "es": "conocer a",  "ko": ""},
+{ "en": "to meet (=become acquainted)",        "fi": "",   "fr": "", "es": "conocer (a)",  "ko": ""},
 { "en": "to make friends", "fi": "saada kavereita, hankkia, tavata",    "fr": "",  "es": "hacer amigos",  "ko": "사귀다" },
 
 { "en": "reaction",        "fi": "reaktio",      "fr": "réaction",    "es": "(la) reacción", "ko": "반응 (reverse + answer)"  },

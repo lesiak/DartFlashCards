@@ -1,8 +1,8 @@
 [
 { "en": "map",        "fi": "kartta" ,   "fr":"carte",      "es": "(el) mapa",     "ko": "지도"},
-{ "en": "church",     "fi": "kirkko",    "fr":"église",     "es": "(la) iglesia",  "ko": "교회"},
+{ "en": "church",     "fi": "kirkko",    "fr":"église",     "es": "(la) iglesia",  "it": "(la) chiesa",    "ko": "교회"},
 { "en": "pharmacy",   "fi": "apteekki",  "fr":"pharmacie",  "es": "(la) farmacia", "ko": "약국"},
-{ "en": "castle",     "fi": "linna" ,    "fr":"château",    "es": "(el) castillo", "ko": "성"},
+{ "en": "castle",     "fi": "linna" ,    "fr":"château",    "es": "(el) castillo", "it": "(il) castello",    "ko": "성"},
 { "en": "bridge",     "fi": "silta" ,    "fr":"pont",       "es": "(el) puente",   "ko": "다리"},
 { "en": "building",   "fi": "rakennus",  "fr": "bâtiment",  "es": "(el) edificio", "ko": "건물" },
 
