@@ -27,6 +27,8 @@
 { "en": "director",       "fi": "",              "fr": "",              "es": "(el) director",     "ko": "" },
 
 { "en": "a role (acting)",       "fi": "",              "fr": "",              "es": "(el) papel",     "ko": "" },
+{ "en": "to play (a role)",       "fi": "",              "fr": "",              "es": "desempeñar",     "ko": "" },
+
 
 { "en": "scenario",      "fi": "skenaario, suunnitelma",          "fr": "scénario", "es": "(el) guión (cine), (el) argumento (teat)",  "ko": "" },
 { "en": "plot",          "fi": "juoni",          "fr": "", "es": "(el) trama",  "ko": "" },

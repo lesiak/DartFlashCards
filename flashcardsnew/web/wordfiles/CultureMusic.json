@@ -16,6 +16,8 @@
 
 { "en": "music",         "fi": "musiikki",       "fr": "musique",    "es": "(la) música",     "ko": "음악" },
 { "en": "melody",        "fi": "melodia, sävel", "fr": "mélodie",    "es": "(la) melodía",    "ko": "멜로디"},
+{ "en": "rhythm",        "fi": "",               "fr": "",           "es": "(el) ritmo",    "ko": ""},
+
 { "en": "band",          "fi": "yhtye, bändi",   "fr": "bande",      "es": "(el) grupo",      "ko": "음악회, 콘서트" },
 { "en": "concert",       "fi": "konsertti",      "fr": "concert",    "es": "(el) concierto",  "ko": "음악회, 콘서트" },
 { "en": "discotheque",   "fi": "diskoteekki",    "fr": "discothèque","es": "(la) discoteca",  "ko": "" },

@@ -23,11 +23,11 @@
 { "en": "critical",            "ko": "비판적 (blame + judge + of)",          "fi": "kriittinen",    "fr": "critique" },
 
 
-{ "en": "insult",   "ko": "모욕",    "fi": "loukkaus",  "fr":"insulte"},
-{ "en": "to insult",   "ko": "모욕하다",    "fi": "loukata",  "fr":"insulter"},
+{ "en": "insult",      "fi": "loukkaus",  "fr":"insulte",  "es": "(el) insulto",  "ko": "모욕"},
+{ "en": "to insult",   "fi": "loukata",   "fr":"insulter", "es": "insultar", "ko": "모욕하다"},
 
-{ "en": "threaten",   "ko": "위협하다",    "fi": "uhata",  "fr":"menacer"},
-{ "en": "threat",   "ko": "위협",    "fi": "uhkaus",  "fr":"menace"},
+{ "en": "threaten",    "fi": "uhata",  "fr":"menacer",  "ko": "위협하다"},
+{ "en": "threat",      "fi": "uhkaus",  "fr":"menace", "ko": "위협"},
 
 { "en": "to threaten",   "ko": "",    "fi": "uhata",   "fr":"menacer"},
 { "en": "threat (expression of intent to injure or punish another)",   "ko": "",    "fi": "uhkaus",   "fr":"menace"},

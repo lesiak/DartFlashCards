@@ -46,6 +46,7 @@
 { "en": "get to",      "fi": "päästä",       "fr": "?",                                 "ko": "도착하다" },
 { "en": "arrive",      "fi": "saapua",       "fr": "arriver",  "es": "llegar",          "ko": "도착하다" },
 { "en": "to leave (from)","fi": "lähteä",    "fr": "partir",   "es": "salir",          "ko": "떠나다" },
+{ "en": "to take off (plane)","fi": "",    "fr": "",   "es": "despegar, decolar",          "ko": "" },
 { "en": "to transfer, change",        "ko": "갈아 타다",          "fi": "vaihtaa",    "fr": "" },
 
 { "en": "to get off",       "fi": "jäädä pois",    "fr": "descendre",  "es": "bajar",   "ko": "내리다" },
