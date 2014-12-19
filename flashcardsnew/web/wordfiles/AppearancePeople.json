@@ -28,6 +28,9 @@
 { "en": "a slender figure", "fi": "hoikka hahmo",  "fr":"",         "es":"(la) esbelta figura",   "ko": "날씬한 몸매"},
 { "en": "obesity",          "fi": "liikalihavuus", "fr":"obésité",  "es":"(la) obesidad",  "ko": "비만 (fat + full)"},
 { "en": "(the) overweight", "fi": "ylipaino",      "fr": "embonpoint",   "es": "(el) sobrepeso",  "ko": ""},
+{ "en": "to lose weight", "fi": "",      "fr": "",   "es": "adelgazar, perder peso",  "ko": ""},
+{ "en": "to put on weight", "fi": "",      "fr": "",   "es": "engordar",  "ko": ""},
+
 
 { "en": "straight (hair)", "fi": "" , "fr": "",                   "es": "liso",  "ko": ""},
 { "en": "curly (hair)",    "fi": "" , "fr": "",                      "es": "rizado",  "ko": ""},

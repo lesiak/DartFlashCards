@@ -15,6 +15,8 @@
 { "en": "nun",        "fi": "nunna",     "fr":"",         "es":"(la) monja",     "it":"(la) suora, (la) monaca",  "ko": ""},
 { "en": "priest",     "fi": "pappi",     "fr":"prêtre",   "es":"(el) sacerdote", "ko": ""},
 
+{ "en": "soul",     "fi": "",     "fr":"",   "es":"(el) alma, (el) espíritu", "ko": ""},
+
 { "en": "to baptize",     "fi": "",     "fr":"",   "es":"bautizar", "ko": ""},
 { "en": "Buddhism",   "fi": "buddhalaisuus",   "fr":"bouddhisme",   "es":"(el) budismo", "ko": "불교"}
 
