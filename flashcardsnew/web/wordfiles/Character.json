@@ -34,6 +34,7 @@
 { "en": "aggressive",    "fi": "aggressiivinen", "fr": "agressif",    "es": "agresivo",  "ko": "" },
 { "en": "stubborn",      "fi": "itsepäinen",     "fr": "têtu",        "es": "terco",     "ko": "" },
 { "en": "arrogant",      "fi": "ylimielinen",    "fr": "arrogant",    "es": "arrogante", "ko": "" },
+{ "en": "arrogance",      "fi": "",    "fr": "",                      "es": "(la) arrogancia", "ko": "" },
 { "en": "humble",           "fi": "",            "fr": "" ,           "es": "humilde",    "ko": "" },
 
 { "en": "self-confident","fi": "itsevarma",      "fr": "sûr de soi",  "es": "seguro de sí mismo",   "ko": "" },

@@ -24,12 +24,16 @@
 { "en": "secretary",     "fi": "sihteeri",        "fr": "secrétaire", "es": "(la) secretaria",  "ko": "비서 (secret + writing)" },
 { "en": "intern",        "fi": "harjoittelija",   "fr": "",           "es": "(el) becario",      "ko": "" },
 { "en": "head of department", "fi": "osastopäällikkö", "fr": "",      "es": "(el) jefe del departamento",      "ko": "" },
+{ "en": "accountant",       "fi": "kirjanpitäjä",         "fr": "",           "es": "(el/la) contable, (el) contador",     "ko": "" },
+{ "en": "cashier",       "fi": "",         "fr": "",           "es": "(el) cajero",     "ko": "" },
 
 
 { "en": "dancer",        "fi": "tanssija",      "fr": "",            "es": "(el) bailarín",  "ko": "무용가" },
 { "en": "painter",       "fi": "maalari",       "fr": "peintre",     "es": "(el) pintor",   "ko": "화가" },
 { "en": "artist",        "fi": "taiteilija",    "fr": "artiste",     "es": "(el/la) artista",   "ko": "예술가"},
 { "en": "designer",      "fi": "suunnittelija,muotoilija",  "fr": "créateur",   "es": "(el) diseñador",   "ko": ""},
+{ "en": "sculptor",       "fi": "",       "fr": "",     "es": "(el) escultor",   "ko": "" },
+
  
 { "en": "scientist",     "fi": "tiedemies, tutkija","fr": "",        "es": "(el) científico",   "ko": "과학자" },
 { "en": "farmer",        "fi": "maanviljelijä",     "fr": "agriculteur", "es": "(el) granjero, (el) agricultor",   "ko": "농장주" },

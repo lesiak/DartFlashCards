@@ -31,7 +31,7 @@
 { "en": "umbrella",     "fi": "sateenvarjo","fr": "parapluie",     "es": "(el) paraguas",  "ko": "우산" },
 { "en": "eyeglasses",   "fi": "silmälasit", "fr": "lunettes",      "es": "(las) gafas","ko": "안경 (eye + lens)" },
 { "en": "wallet",       "fi": "lompakko",   "fr": "portefeuille",  "es": "(la) cartera", "ko": "지갑" },
-{ "en": "headphones",   "fi": "kuulokkeet", "fr": "casque",        "es": "auriculares",  "ko": "헤드폰" },
+
 { "en": "jewelry",      "fi": "korut",      "fr": "bijoux,bijouterie", "es": "(la) joyería,(las) joyas",  "ko": "보석류" },
 { "en": "jewel",        "fi": "koru, jalokivi",     "fr": "bijou", "es": "(la) joya",  "ko": "보석" },
 { "en": "ring",         "fi": "sormus",     "fr": "anneau",        "es": "(el) anillo", "ko": "반지 (half + finger)" },

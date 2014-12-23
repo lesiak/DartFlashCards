@@ -30,6 +30,8 @@
 { "en": "pilgrimage", "fi": "pyhiinvaellusmatka","fr":"",         "es":"(la) peregrinación", "ko": ""},
 
 { "en": "bishop",     "fi": "piispa",            "fr":"",         "es":"(el) obispo",      "it":"(il) vescovo", "ko": ""},
+{ "en": "archbishop",     "fi": "",            "fr":"",           "es":"(el) arzobispo",      "it":"", "ko": ""},
+
 { "en": "cardinal",   "fi": "kardinaali",        "fr":"",         "es":"(el) cardenal",    "it":"", "ko": ""},
 { "en": "pope",       "fi": "paavi",             "fr":"",         "es":"(el) papa",        "it":"(il) papa", "ko": ""},
  

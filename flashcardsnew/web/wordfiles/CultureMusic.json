@@ -17,6 +17,8 @@
 { "en": "music",         "fi": "musiikki",       "fr": "musique",    "es": "(la) música",     "ko": "음악" },
 { "en": "melody",        "fi": "melodia, sävel", "fr": "mélodie",    "es": "(la) melodía",    "ko": "멜로디"},
 { "en": "rhythm",        "fi": "",               "fr": "",           "es": "(el) ritmo",    "ko": ""},
+{ "en": "voice",         "fi": "",               "fr": "",           "es": "(la) voz",    "ko": ""},
+
 
 { "en": "band",          "fi": "yhtye, bändi",   "fr": "bande",      "es": "(el) grupo",      "ko": "음악회, 콘서트" },
 { "en": "concert",       "fi": "konsertti",      "fr": "concert",    "es": "(el) concierto",  "ko": "음악회, 콘서트" },
@@ -34,6 +36,9 @@
 { "en": "melodic",       "fi": "melodinen",     "fr": "mélodique",   "es": "melódico",    "ko": "" },
 { "en": "melodious",     "fi": "melodinen, heleä", "fr": "mélodieux",   "es": "melodioso",    "ko": "" },
 
+{ "en": "composer",      "fi": "", "fr": "",   "es": "(el) compositor",    "ko": "" },
+{ "en": "conductor",     "fi": "kapellimestari", "fr": "",   "es": "(el)  director de orquesta",    "ko": "" },
+{ "en": "musician",      "fi": "muusikko",     "fr":"musicien", "es":"(el) músico",  "ko": ""},
 
 { "en": "guitar",      "fi": "kitara",      "fr": "guitare",          "es": "(la) guitarra",  "ko": "기타" }, 
 { "en": "piano",       "fi": "piano",       "fr": "piano",            "es": "(el) piano",     "ko": "피아노" },
@@ -42,6 +47,9 @@
 { "en": "violin",      "fi": "viulu",       "fr":"violon",            "es": "(el) violín",  "ko": "바이올린"},
 
 { "en": "play (instrument)",  "fi": "soittaa",   "fr":"jouer",   "es":"tocar", "ko": ""},
-{ "en": "musician",           "fi": "muusikko",     "fr":"musicien", "es":"(el) músico",  "ko": ""},
+
+{ "en": "headphones",   "fi": "kuulokkeet", "fr": "casque",        "es": "auriculares",  "ko": "헤드폰" },
+{ "en": "amplifier",   "fi": "", "fr": "",        "es": "(el) amplificador",  "ko": "" },
+
 { "en": "musical instrument", "fi": "soitin",   "fr":"instrument de musique",   "es":"(el) instrumento", "ko": "악기"}
 ]
