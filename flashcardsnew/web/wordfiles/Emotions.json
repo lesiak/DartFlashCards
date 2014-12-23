@@ -23,7 +23,7 @@
 
 { "en": "tired",         "fi": "väsynyt",   "fr": "fatigué",   "es": "cansado",  "ko": "피곤한" },
 { "en": "ashamed",             "fi": "häpeissään",          "fr": "honteux",   "ko": "부끄럽다" },
-
+{ "en": "jealous",            "fi": "mustasukkainen",          "fr": "jaloux",    "es": "celoso", "ko": "부럽다" },
 
 { "en": "to laugh",      "fi": "nauraa",      "fr": "rire",      "es": "reírse",          "ko": "웃다" },
 { "en": "to smile",      "fi": "hymyillä",    "fr": "sourire",   "es": "sonreír",  "ko": "웃다" },
