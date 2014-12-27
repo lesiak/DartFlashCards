@@ -7,6 +7,8 @@
 { "en": "to protect",  "fi": "suojella" ,    "fr": "protéger", "es": "proteger",  "ko": "보호하다"},
 { "en": "valley",      "fi": "laakso" ,      "fr": "vallée",   "es": "(el) valle","ko": "골짜기, 계곡"},
 { "en": "a summit",      "fi": "" ,      "fr": "",   "es": "(la) cima, (la) cumbre","ko": ""},
+{ "en": "a cave",      "fi": "" ,      "fr": "",   "es": "(la) cueva","ko": ""},
+{ "en": "a grotto",      "fi": "" ,      "fr": "",   "es": "(la) gruta","ko": ""},
 { "en": "a plain",     "fi": "" ,            "fr": "",         "es": "(la) llanura","ko": ""},
 { "en": "ocean",       "fi": "valtameri",    "fr": "océan",    "es": "(el) océano",  "ko": "대양, 해양"},
 { "en": "bay",         "fi": "lahti" ,       "fr": "baie",     "es": "(la) bahía","ko": ""},

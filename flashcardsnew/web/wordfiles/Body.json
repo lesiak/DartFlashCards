@@ -72,6 +72,9 @@
 
 { "en": "liver",     "fi": "maksa",     "fr": "foie",      "es": "(el) hígado",  "ko": "간" },
 
+{ "en": "appendix",     "fi": "",     "fr": "",      "es": "(el) apéndice",  "ko": "" },
+
+
 { "en": "nail",      "fi": "kynsi",     "fr": "ongle",     "es": "(la) uña",     "ko": "손톱" },
 { "en": "ankle",     "fi": "nilkka",    "fr": "cheville",  "es": "(el) tobillo", "ko": "발목" },
 { "en": "knee",      "fi": "polvi",     "fr": "genou",     "es": "(la) rodilla", "ko": "무릎" },
