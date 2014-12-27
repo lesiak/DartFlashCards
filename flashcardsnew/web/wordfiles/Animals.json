@@ -74,7 +74,9 @@
 { "en": "pet crate",      "fi": "",       "fr": "",            "es": "(el) transportín",    "ko": "" },
 { "en": "nest",        "fi": "pesä",    "fr": "nid",    "es": "(el) nido", "ko": "둥지"},
 
+
 { "en": "to bite",    "fi": "purra",      "fr": "mordre",      "es": "morder",    "ko": "" },
+{ "en": "to wag",    "fi": "",      "fr": "",      "es": "menear (la cola)",    "ko": "" },
 
 
 { "en": "female (animals)",   "fi": "naaras",    "fr": "femelle", "es": "(la) hembra",    "ko": "암컷" },

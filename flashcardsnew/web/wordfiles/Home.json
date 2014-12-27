@@ -18,6 +18,9 @@
 { "en": "bed",            "fi": "sänky, vuode",      "fr": "lit",       "es": "(la) cama",  "hu": "ágy",    "ko": "침대 (sleep + stage)" },
 { "en": "bedroom",        "fi": "makuuhuone",        "fr": "chambre à coucher", "es": "(el) dormitorio",                 "ko": "침실 (sleep + room)" },
 { "en": "pillow",         "fi": "tyyny",      "fr": "oreiller",      "es": "(la) almohada",  "ko": " 베개" },
+{ "en": "mattress",            "fi": "",      "fr": "",       "es": "(el) colchón",     "ko": "" },
+
+
 { "en": "blanket",        "fi": "viltti",     "fr": "couverture", "es": "(la) manta, (la) cobija",    "ko": "담요" },
 { "en": "carpet",         "fi": "matto",      "fr": "tapis",      "es": "(la) alfombra",   "hu": "szőnyeg", "ko": "양탄자" },
 { "en": "curtain",        "fi": "verho",      "fr": "rideau",     "es": "(la) cortina",    "hu": "függöny", "ko": "커튼" },

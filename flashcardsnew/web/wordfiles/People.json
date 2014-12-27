@@ -68,6 +68,8 @@
 { "en": "aunt",          "fi": "täti",          "fr": "tante",          "es": "(la) tía",  "ko": "" },
 
 { "en": "cousin",        "fi": "serkku",        "fr": "cousin",         "es": "(el) primo",  "ko": "" },
+{ "en": "stepmother",        "fi": "",        "fr": "",         "es": "(la) madrastra",  "ko": "" },
+{ "en": "stepfather",        "fi": "",        "fr": "",         "es": "(el) padrastro",  "ko": "" },
 
 { "en": "generation",       "fi": "sukupolvi",  "fr": "génération", "es": "(la) generación",  "ko": "세대"},
 
