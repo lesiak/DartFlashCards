@@ -12,18 +12,23 @@
 { "en": "to take (a photo)", "fi": "ottaa kuvaa","fr": "",           "es": "tomar (una foto)","ko": "찍다"},
 { "en": "to develop (a photo)", "fi": "",       "fr": "",            "es": "desarrollar (una foto)",   "ko": "인화하다" },
 
-{ "en": "a tent",    "fi": "",                 "fr": "",            "es": "(la) tienda de campaña, (la) carpa",        "ko": "" },
+{ "en": "a tent",       "fi": "teltta",          "fr": "tente",       "es": "(la) tienda de campaña, (la) carpa",        "ko": "" },
+{ "en": "to camp",      "fi": "leiriytyä",       "fr": "camper",      "es": "acampar",        "ko": "" },
+{ "en": "campsite",     "fi": "leirintäalue",    "fr": "camping",     "es": "(el) cámping",        "ko": "" },
+{ "en": "a torch",     "fi": "taskulamppu",      "fr": "",            "es": "(la) linterna",        "ko": "" },
+{ "en": "to light a fire",     "fi": "",      "fr": "allumer un feu",            "es": "",        "ko": "" },
 
-{ "en": "passport",     "fi": "passi",          "fr": "passeport",   "es": "(el) pasaporte", "ko": "여권" },
-{ "en": "visa",         "fi": "viisumi",        "fr": "visa",        "es": "(la) visa",      "ko": "" },
-{ "en": "travel agent", "fi": "",               "fr": "",            "es": "(el) agente de viajes",      "ko": "" },
-{ "en": "trip planner", "fi": "reittiopas",     "fr": "",            "es": "(el) planificador de viajes",    "ko": "" },
 
-{ "en": "to pack",     "fi": "pakata",          "fr": "",            "es": "empacar",      "ko": "" },
-{ "en": "to unpack",   "fi": "",                "fr": "",            "es": "desempacar",      "ko": "" },
-{ "en": "sunglasses",  "fi": "aurinkolasit",    "fr": "lunettes de soleil",            "es": "(las) gafas de sol",      "ko": "색안경" },
-{ "en": "swimsuit",    "fi": "uimapuku",        "fr": "maillot de bain",            "es": "(el) traje de baño, (el) bañador",      "ko": "수영복" },
-{ "en": "sunbathe",    "fi": "ottaa aurinkoa",  "fr": "bronzer",    "es": "tomar el sol", "ko": "일광욕을하다" }
+{ "en": "passport",     "fi": "passi",           "fr": "passeport",   "es": "(el) pasaporte", "ko": "여권" },
+{ "en": "visa",         "fi": "viisumi",         "fr": "visa",        "es": "(la) visa",      "ko": "" },
+{ "en": "travel agent", "fi": "",                "fr": "",            "es": "(el) agente de viajes",      "ko": "" },
+{ "en": "trip planner", "fi": "reittiopas",      "fr": "",            "es": "(el) planificador de viajes",    "ko": "" },
+
+{ "en": "to pack",      "fi": "pakata",          "fr": "",            "es": "empacar",      "ko": "" },
+{ "en": "to unpack",    "fi": "",                "fr": "",            "es": "desempacar",      "ko": "" },
+{ "en": "sunglasses",   "fi": "aurinkolasit",    "fr": "lunettes de soleil",            "es": "(las) gafas de sol",      "ko": "색안경" },
+{ "en": "swimsuit",     "fi": "uimapuku",        "fr": "maillot de bain",            "es": "(el) traje de baño, (el) bañador",      "ko": "수영복" },
+{ "en": "sunbathe",     "fi": "ottaa aurinkoa",  "fr": "bronzer",    "es": "tomar el sol", "ko": "일광욕을하다" }
 
 
 

@@ -36,7 +36,10 @@
 { "en": "platform",    "fi": "asemalaituri", "fr":"quai",      "es": "(el) andén",      "ko": "플랫폼, 승강장"},
 { "en": "ticket",      "fi": "lippu",        "fr": "billet",   "es": "(el) billete",    "ko": "표" },
 
+{ "en": "carriage",      "fi": "vaunu",        "fr": "voiture", "es": "(el) vagón",    "ko": "" },
+
 { "en": "validate (a ticket)",      "fi": "",        "fr": "", "es": "picar",    "ko": "" },
+{ "en": "one-way (ticket)",       "fi": "menolippu",   "fr": "(billet) aller simple",           "es": "(boleto) de ida", "ko": "" },
 { "en": "(railway) track", "fi": "junarata",  "fr": "voie",    "es": "vía",    "ko": "" },
 
 
@@ -74,7 +77,7 @@
 { "en": "rear-view mirror", "fi": "",        "fr": "rétroviseur","es": "(el) retrovisor",        "ko": "" },
 { "en": "seat belt",      "fi": "turvavyö",  "fr": "ceinture de sécurité","es": "(el) cinturón de seguridad",        "ko": "" },
 { "en": "fasten (seat belt)",  "fi": "",     "fr": "",           "es": "abrochar",        "ko": "" },
-{ "en": "overtake",       "fi": "",          "fr": "",           "es": "adelantar",        "ko": "" },
+{ "en": "overtake",       "fi": "ohittaa",   "fr": "",           "es": "adelantar",        "ko": "" },
 { "en": "driving licence",  "fi": "ajokortti",  "fr": "permis de conduire","es": "(el) carnet de conducir",        "ko": "" },
 
 
@@ -95,7 +98,10 @@
 { "en": "traffic",         "fi": "liikenne" ,        "fr":"circulation",  "es": "(el) tráfico",  "ko": "교통"},
 { "en": "to commute",      "fi": "käydä töissä",     "fr": "",                    "es": "viajar diariamente al trabajo", "ko": "통근하다" },
 { "en": "to change, to transfer to another vehicle",   "fi": "vaihtaa",    "fr": "changer", "es": "transbordar", "ko": "갈아타다" },
-{ "en": "to park",         "fi": "",    "fr": "garer", "es": "aparcar", "ko": "" }
-
+{ "en": "to park",         "fi": "",                 "fr": "garer", "es": "aparcar", "ko": "" },
+{ "en": "roadworks",       "fi": "tietyöt",          "fr": "", "es": "obras (de carretera)", "ko": "" },
+{ "en": "to tow away",     "fi": "hinata (pois)",    "fr": "remorquer", "es": "remolcar", "ko": "" },
+{ "en": "road sign",       "fi": "liikennemerkki",   "fr": "",           "es": "(el) señal de tráfico", "ko": "" },
+{ "en": "one-way (street)",       "fi": "yksisuuntainen",   "fr": "à sens unique",           "es": "de sentido único", "ko": "" }
 ]
         
