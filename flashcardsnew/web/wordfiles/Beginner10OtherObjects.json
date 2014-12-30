@@ -23,8 +23,7 @@
 { "en": "a (post) stamp","fi": "postimerkki",   "fr": "timbre",      "es": "(el) sello", "ko": "우표"},
 
 
-
-{ "en": "doll",          "ko": "인형",       "fi": "nukke",    "fr": "poupée" },
+{ "en": "doll",          "fi": "nukke",    "fr": "poupée",    "es": "(la) muñeca",  "ko": "인형" },
 { "en": "tape",          "fi": "nauha",    "fr": "bande",    "es": "(la) cinta", "ko": "" }
 
 

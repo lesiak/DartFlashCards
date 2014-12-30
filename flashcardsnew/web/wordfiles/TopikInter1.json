@@ -10,6 +10,7 @@
 
 
 { "en": "symbolize",       "ko": "상징하다",       "fi": "olla jnk symboli",    "fr": "symboliser" },
+{ "en": "ordeal",       "fi": "koettelemus",    "fr": "",    "es": "(el) calvario", "ko": "" },
 
 { "en": "go too far",       "ko": "지나치다",       "fi": "mennä liian pitkälle",    "fr": "aller trop loin" },
 { "en": "request",       "ko": "요청",       "fi": "pyyntö",    "fr": "demande" },
@@ -27,8 +28,8 @@
 
 
 
-{ "en": "skipping rope",     "ko": "밧줄을 건너 뛰는",       "fi": "hyppynaru",     "fr": "corde à sauter" },
-{ "en": "doll",        "ko": "인형",          "fi": "nukke",    "fr": "poupée" },
+{ "en": "skipping rope",        "fi": "hyppynaru",     "fr": "corde à sauter",   "ko": "밧줄을 건너 뛰는" },
+
 { "en": "amount",     "ko": "",       "fi": "määrä (fi), lukumäärä",     "fr": " quantité (fr), nombre (fr), montant" },
 { "en": "demand",     "ko": "요구하다, 필요로하다",       "fi": "vaatia",     "fr": "exiger" },
 { "en": "perform (in front of an audience)",     "ko": "",       "fi": " esittää",     "fr": "jouer (actor), danser (dancer), chanter (singer)" }
