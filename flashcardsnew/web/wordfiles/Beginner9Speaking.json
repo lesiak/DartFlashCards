@@ -7,7 +7,8 @@
 
 { "en": "to tell (a story)",   "fi": "",        "fr": "",                    "es": "contar",  "ko": ""},
 { "en": "to fill (in)",        "fi": "",        "fr": "",                    "es": "rellenar",  "ko": ""},
-
+{ "en": "to be about (sth)",   "fi": "",        "fr": "",                    "es": "tratarse (de)",  "ko": ""},
+{ "en": "to be a matter of (sth)",   "fi": "",        "fr": "",              "es": "tratarse (de)",  "ko": ""},
 
 { "en": "to approve",    "fi": "hyväksyä, keskustella jstk" , "fr":"approuver", "es":"aprobar", "ko": ""},
 { "en": "to refuse",    "fi": "kieltäytyä" , "fr":"refuser", "es":"rehusar", "ko": ""},
@@ -35,8 +36,9 @@
 
 { "en": "to admit",    "fi": "" , "fr":"admettre", "es":"admitir", "ko": ""},
 
-{ "en": "to allude (to)",    "fi": "" , "fr":"", "es":"aludir (a)", "ko": ""},
-{ "en": "allusion",    "fi": "" , "fr":"", "es":"(la) alusión", "ko": ""},
+{ "en": "to refer (to)",     "fi": "",   "fr": "", "es": "referirse (a), referir (a)",  "ko": ""},
+{ "en": "to allude (to)",    "fi": "" ,  "fr":"",  "es":"aludir (a)",     "ko": ""},
+{ "en": "allusion",          "fi": "" ,  "fr":"",  "es":"(la) alusión",   "ko": ""},
 
 
 { "en": "to declare",    "fi": "julistaa",  "fr":"déclarer",  "es": "declarar", "ko": ""},

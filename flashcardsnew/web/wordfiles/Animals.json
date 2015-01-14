@@ -75,14 +75,28 @@
 { "en": "nest",        "fi": "pesä",    "fr": "nid",    "es": "(el) nido", "ko": "둥지"},
 
 
+
 { "en": "to bite",    "fi": "purra",      "fr": "mordre",      "es": "morder",    "ko": "" },
 { "en": "to wag",    "fi": "",      "fr": "",      "es": "menear (la cola)",    "ko": "" },
+{ "en": "to bark",    "fi": "",      "fr": "",      "es": "ladrar",    "ko": "" },
+{ "en": "to meow",    "fi": "",      "fr": "",      "es": "maullar",    "ko": "" },
+{ "en": "to moo",    "fi": "",      "fr": "",      "es": "mugir",    "ko": "" },
+{ "en": "to croak",    "fi": "",      "fr": "",      "es": "croar",    "ko": "" },
+{ "en": "to caw (raven)",    "fi": "",      "fr": "",      "es": "graznar",    "ko": "" },
+
+
 
 
 { "en": "female (animals)",   "fi": "naaras",    "fr": "femelle", "es": "(la) hembra",    "ko": "암컷" },
 { "en": "male (animals)",     "fi": "",    "fr": "", "es": "(el) macho",    "ko": "" },
 
+{ "en": "cattle",     "fi": "",    "fr": "", "es": "(el) ganado",    "ko": "" },
+
 { "en": "have (an animal)",     "fi": "",    "fr": "", "es": "tener",    "ko": "" },
+{ "en": "to tame",              "fi": "",    "fr": "", "es": "domar",    "ko": "" },
+{ "en": "to break in (a horse)",     "fi": "",    "fr": "", "es": "domar",    "ko": "" },
+{ "en": "to train (teach an animal)",     "fi": "",    "fr": "", "es": "adiestrar",    "ko": "" },
+{ "en": "to breed",     "fi": "",    "fr": "", "es": "criar",    "ko": "" },
 
 { "en": "vet",    "fi": "eläinlääkäri",      "fr": "vétérinaire",      "es": "(el) veterinario",    "ko": "" }
 

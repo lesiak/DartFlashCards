@@ -3,7 +3,7 @@
 
 { "en": "chest",     "fi": "rinta",    "fr": "poitrine",    "es": "(el) pecho",  "hu": "mellkas", "ko": "가슴"},
 { "en": "heart",     "fi": "sydän",    "fr": "cœur",        "es": "(el) corazón","hu": "szív",    "ko": "심장 (heart + organ)"  },
-{ "en": "leg",       "fi": "jalka",    "fr": "jambe",       "es": "(la) pierna", "hu": "láb",     "ko": "다리"    },
+{ "en": "leg",       "fi": "jalka",    "fr": "jambe",       "es": "(la) pierna",  "it": "(la) gamba",  "hu": "láb",     "ko": "다리"    },
 { "en": "foot",      "fi": "jalka",    "fr": "pied",        "es": "(el) pie",    "hu": "láb",     "ko": "발"      },
 
 { "en": "head",      "fi": "pää",      "fr": "tête",        "es": "(la) cabeza", "hu": "fej",     "ko": "머리" },
@@ -24,6 +24,7 @@
 
 { "en": "nose",      "fi": "nenä",      "fr": "nez",         "es": "(la) nariz",  "hu": "orr",      "ko": "코"   },
 { "en": "mouth",     "fi": "suu",       "fr": "la bouche",   "es": "(la) boca",   "hu": "száj",     "ko": "입"   },
+{ "en": "lip",       "fi": "",          "fr": "",            "es": "(el) labio",   "hu": "",     "ko": ""   },
 { "en": "skin",      "fi": "iho",       "fr": "peau",        "es": "(la) piel",                     "ko": "피부"  },
 { "en": "hair",      "fi": "tukka, hiukset","fr": "cheveux", "es": "(el) pelo",               "ko": "머리" },
 { "en": "cheek",     "fi": "poski",     "fr": "joue",        "es": "(la) mejilla",            "ko": "볼" },
@@ -72,7 +73,8 @@
 
 { "en": "liver",     "fi": "maksa",     "fr": "foie",      "es": "(el) hígado",  "ko": "간" },
 
-{ "en": "appendix",     "fi": "",     "fr": "",      "es": "(el) apéndice",  "ko": "" },
+{ "en": "appendix",  "fi": "",          "fr": "",          "es": "(el) apéndice",  "ko": "" },
+{ "en": "gland",     "fi": "",          "fr": "",          "es": "(la) glándula",  "ko": "" },
 
 
 { "en": "nail",      "fi": "kynsi",     "fr": "ongle",     "es": "(la) uña",     "ko": "손톱" },

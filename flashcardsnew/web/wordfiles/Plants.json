@@ -27,9 +27,9 @@
 
 
 { "en": "grass (plant)",   "fi": "heinä, ruoho" , "fr":"herbe", "ko": " 풀, 잡초"},
-{ "en": "grass (lawn)",    "fi": "nurmi, nurmikko, ruohokenttä" , "fr":"pelouse, gazon", "ko": "잔디, 잔디밭"},
+{ "en": "grass (lawn)",    "fi": "nurmi, nurmikko, ruohokenttä" , "fr":"pelouse, gazon", "es": "(el) césped",   "ko": "잔디, 잔디밭"},
 
-{ "en": "hops",   "fi": "humala" , "fr":"houblon",      "es": "(??) lúpulo",  "ko": "홉"},
+{ "en": "hops",   "fi": "humala" , "fr":"houblon",      "es": "(el) lúpulo",  "ko": "홉"},
 
 { "en": "branch",  "fi": "oksa",   "fr":" branche (f), rameau (m)", "es": "(la) rama",    "ko": ""  },
 { "en": "trunk",  "fi": "",   "fr":" tronc",     "es": "(el) tronco",    "ko": ""  },
@@ -42,8 +42,10 @@
 { "en": "vase",          "fi": "maljakko",  "fr": "vase",        "es": "(el) florero",   "ko": ""  },
 { "en": "fragrant",      "fi": "tuoksuva",  "fr": "",            "es": "fragante",   "ko": ""  },
 { "en": "to pick",       "fi": "poimia",    "fr": "ramasser",    "es": "coger",   "ko": ""  },
-{ "en": "plant",         "fi": "kasvi",     "fr": "plante",      "es": "(la)planta",   "ko": "식물 (plant + thing)"}
+{ "en": "plant",         "fi": "kasvi",     "fr": "plante",      "es": "(la)planta",   "ko": "식물 (plant + thing)"},
 
+{ "en": "daisy",      "fi": "" ,  "fr":"",     "es": "(la) margarita",   "ko": ""},
+{ "en": "clover",      "fi": "" ,  "fr":"",     "es": "(el) trébol",   "ko": ""}
 
 ]
         

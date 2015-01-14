@@ -1,10 +1,13 @@
 [
-{ "en": "hobby",       "fi": "mieliharrastus","fr": "hobby",    "es": "(el) pasatiempo, (el) hobby", "ko": "취미" },
-{ "en": "sport",       "fi": "urheilu",       "fr": "sport",    "es": "(el) deporte",    "ko": "스포츠" },
-{ "en": "play (game, sport)", "fi": "pelata", "fr": "jouer",    "es": "jugar",           "ko": "" },
-{ "en": "game",        "fi": "peli, leikki",  "fr": "jeu",      "es": "(el) juego",      "ko": "게임,  놀이"},
-{ "en": "player",      "fi": "pelaaja" ,    "fr": "joueur",     "es": "(el) jugador",    "ko": "플레이어"},
-{ "en": "team",        "fi": "joukkue" ,    "fr": "équipe",     "es": "(el) equipo",     "ko": "팀"},
+{ "en": "hobby",        "fi": "mieliharrastus","fr": "hobby",    "es": "(el) pasatiempo, (el) hobby", "ko": "취미" },
+{ "en": "sport",        "fi": "urheilu",       "fr": "sport",    "es": "(el) deporte",    "ko": "스포츠" },
+{ "en": "play (game, sport)", "fi": "pelata",  "fr": "jouer",    "es": "jugar",           "ko": "" },
+{ "en": "game",         "fi": "peli, leikki",  "fr": "jeu",      "es": "(el) juego",      "ko": "게임,  놀이"},
+{ "en": "player",       "fi": "pelaaja" ,      "fr": "joueur",     "es": "(el) jugador",    "ko": "플레이어"},
+{ "en": "team",         "fi": "joukkue" ,      "fr": "équipe",     "es": "(el) equipo",     "ko": "팀"},
+
+{ "en": "fit (healthy)","fi": "" ,             "fr": "",     "es": "en forma",     "ko": ""},
+{ "en": "to keep fit",  "fi": "" ,             "fr": "",     "es": "mantenerse en forma",     "ko": ""},
 
 
 { "en": "football",    "fi": "jalkapallo",  "fr": "football",   "es": "(el) fútbol",     "ko": "축구 (kick + ball)" },

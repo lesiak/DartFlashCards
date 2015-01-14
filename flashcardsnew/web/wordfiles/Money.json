@@ -25,8 +25,8 @@
 { "en": "debt",            "fi": "velka",          "fr": "dette, créance",  "ko": "빚" },
 { "en": "bankruptcy",      "fi": "konkurssi",  "fr": "", "es": "(la) bancarrota", "ko": "" },
 
-{ "en": "loss",            "fi": "tappio",          "fr": "perte",  "ko": "손실" },
-{ "en": "operating loss",  "ko": "영업 손실",  "fi": "liiketappio",     "fr": "" },
+{ "en": "loss",            "fi": "tappio",          "fr": "perte", "es": "(la) pérdida",   "ko": "손실" },
+{ "en": "operating loss",  "fi": "liiketappio",     "fr": "",        "es": "(la) pérdida operativa",   "ko": "영업 손실" },
 
  
  { "en": "to charge (money)", "fi": "",          "fr": "",        "es": "cobrar",  "ko": "" },

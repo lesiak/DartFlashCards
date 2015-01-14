@@ -16,11 +16,19 @@
 
 { "en": "crisis",        "fi": "",            "fr": "",           "es": "(la) crisis",   "ko": "" },
 { "en": "growth",        "fi": "",            "fr": "",           "es": "(la) crecimiento",   "ko": "" },
+{ "en": "a fall",        "fi": "",            "fr": "",           "es": "(la) caída",   "ko": "" },
+ 
+
+{ "en": "interchange",        "fi": "",            "fr": "",           "es": "(el) intercambio",   "ko": "" },
 
 
 { "en": "economy",       "fi": "talous",               "fr": "économie",    "es": "(la) economía", "ko": "경제" },
 { "en": "industry",      "fi": "teollisuus",           "fr":"industrie",    "es": "(la) industria",  "ko": "산업"},
 { "en": "technology",    "fi": "teknologia, tekniikka","fr": "technologie", "es": "(la) tecnología",    "ko": "" },
+
+{ "en": "fair (market, exhibition)",    "fi": "","fr": "", "es": "(la) feria",    "ko": "" },
+
+
 { "en": "monopolize",    "fi": "monopolisoida",        "fr": "monopoliser", "es": "monopolizar",    "ko": "독점하다"}
 
 ]

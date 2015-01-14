@@ -43,6 +43,9 @@
 { "en": "to burn (oneself)",    "fi": "",    "fr": "",       "es": "quemarse", "ko": "" },
 { "en": "to sprain",    "fi": "",    "fr": "",       "es": "torcerse", "ko": "" },
 { "en": "to break",    "fi": "",    "fr": "",       "es": "fracturar", "ko": "" },
+{ "en": "a fracture",    "fi": "",    "fr": "",       "es": "(la) fractura", "ko": "" },
+{ "en": "dislocated",    "fi": "",    "fr": "",       "es": "dislocado", "ko": "" },
+
 { "en": "bruise",              "fi": "",    "fr": "",       "es": "(el) moratón", "ko": "" },
 { "en": "scratch",              "fi": "",    "fr": "",       "es": "(el) rasguño", "ko": "" },
 
@@ -51,6 +54,9 @@
 { "en": "vitamin",          "fi": "vitamiini" , "fr":"vitamine",     "es": "(la) vitamina",    "ko": "비타민"},
 { "en": "wound",            "fi": "haava",      "fr": "blessure",    "es": "(la) herida",      "ko": "상처" },
 { "en": "scar",             "fi": "",           "fr": "",            "es": "(la) cicatriz",    "ko": "" },
+
+{ "en": "a splinter",       "fi": "",           "fr": "",            "es": "(la) astilla",    "ko": "" },
+{ "en": "a stitch",       "fi": "",           "fr": "",            "es": "(el) punto",    "ko": "" },
 
 { "en": "injection",        "fi": "injektio",   "fr": "injection",   "es": "(la) inyección",   "ko": "주사" },
 { "en": "prescription",     "fi": "resepti",    "fr": "prescription","es": "(la) receta",      "ko": "처방" },
@@ -65,7 +71,11 @@
 { "en": "drops",              "fi": "",    "fr": "",       "es": "(las) gotas", "ko": "" },
 { "en": "syrup",              "fi": "",    "fr": "",       "es": "(el) jarabe (para la tos)", "ko": "" },
 { "en": "aspirin",              "fi": "",    "fr": "",       "es": "(la) aspirina", "ko": "" },
+{ "en": "painkiller",              "fi": "",    "fr": "",       "es": "(la) pastilla para el dolor", "ko": "" },
 
+
+{ "en": "crutch",              "fi": "",    "fr": "",       "es": "(la) muleta", "ko": "" },
+{ "en": "wheelchair",              "fi": "",    "fr": "",       "es": "(la) silla de ruedas", "ko": "" },
 
  
 

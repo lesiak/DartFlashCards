@@ -100,7 +100,8 @@
 
 { "en": "poor",         "fi": "köyhä",       "fr":"pauvre",   "es":"pobre",           "ko": "가난하다"},
 { "en": "rich (person)","fi": "rikas",       "fr":"riche",    "es":"rico",  "ko": "부자 (rich man)"},
-{ "en": "wealthy",       "fi": "varakas",       "fr":"riche", "es":"rico, adinerado",  "ko": ""},
+{ "en": "wealthy",       "fi": "varakas",    "fr":"riche",    "es":"rico, adinerado",  "ko": ""},
+{ "en": "wealth",       "fi": "",            "fr":"",         "es":"(la) riqueza",  "ko": ""},
 
 
 { "en": "behaviour",       "fi": "käyttäytyminen",   "fr": "comportement", "es": "(el) comportamiento",   "ko": ""},

@@ -105,7 +105,7 @@
 
 { "en": "to concern",        "fi": "",   "fr": "", "es": "concernir",  "ko": ""},
 { "en": "to convert",        "fi": "",   "fr": "", "es": "convertir",  "ko": ""},
-{ "en": "to refer",        "fi": "",   "fr": "", "es": "referir",  "ko": ""},
+
 
 { "en": "to transfer",        "fi": "",   "fr": "", "es": "transferir",  "ko": ""},
 
@@ -117,13 +117,18 @@
 { "en": "to serve",        "fi": "",   "fr": "", "es": "servir",  "ko": ""},
 
 { "en": "to ascend",        "fi": "",   "fr": "", "es": "ascender",  "ko": ""},
+{ "en": "to foster, encourage",        "fi": "",   "fr": "", "es": "fomentar (algo)",  "ko": ""},
 
+
+{ "en": "to endure, last",        "fi": "",   "fr": "", "es": "perdurar",  "ko": ""},
 
 { "en": "opportunity",        "fi": "tilaisuus",   "fr": "occasion", "es": "oportunidad",  "ko": ""},
 
 
 { "en": "superior",        "fi": "",   "fr": "", "es": "superior",  "ko": ""},
+{ "en": "mixed",        "fi": "",   "fr": "", "es": "mixto",  "ko": ""},
 
+{ "en": "to swerve",        "fi": "",   "fr": "", "es": "virar (bruscamente)",  "ko": ""},
 
 { "en": "structure",        "fi": "rakenne",   "fr": "structure", "es": "(la) estructura",  "ko": ""},
 { "en": "to demolish",        "fi": "",   "fr": "", "es": "demoler",  "ko": ""},

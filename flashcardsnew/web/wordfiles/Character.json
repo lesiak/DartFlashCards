@@ -11,10 +11,11 @@
 { "en": "clever",        "fi": "nokkela",        "fr": "intelligent",  "es": "inteligente",   "ko": "" },
 { "en": "intelligent",   "fi": "älykäs",         "fr": "intelligent",  "es": "inteligente",   "it":"intelligente",   "ko": "" },
 { "en": "smart",         "fi": "fiksu, terävä",  "fr":"intelligent",   "es": "inteligente",   "ko": "똑똑하다"},
+{ "en": "stupid",        "fi": "tyhmä, typerä",  "fr":"stupide, bête", "es": "estúpido",   "ko": ""},
 { "en": "lazy",          "fi": "laiska",         "fr":"paresseux",     "es":"perezoso, vago", "ko": "게으른"  },
 { "en": "wise",          "fi": "viisas, järkevä","fr":"sage",          "es":"sabio",          "it":"saggio",    "ko": "슬기롭다 (wisdom + be, be characterized by)"},
-{ "en": "wisdom",        "fi": "viisaus, järkevyys","fr":"sagesse",   "es":"(la) sabiduría",  "ko": "슬기"},
-
+{ "en": "wisdom",        "fi": "viisaus, järkevyys","fr":"sagesse",    "es":"(la) sabiduría",  "ko": "슬기"},
+{ "en": "stupidity",     "fi": "tyhmyys",        "fr":"stupidité",     "es": "(la) estupidez",   "ko": ""},
 
 { "en": "boring",        "fi": "tylsä",          "fr": "ennuyeux", "es": "aburrido",   "ko": "" },
 { "en": "to get bored",  "fi": "kyllästyä",      "fr": "s'ennuyer","es": "aburrirse",   "ko": "" },
@@ -46,6 +47,7 @@
 { "en": "serious, earnest","fi": "totinen",    "fr": "sérieux",     "es": "serio",      "ko": "" },
 
 { "en": "mean, wicked",  "fi": "",               "fr": "méchant",     "es": "malo", "ko": "" },
+{ "en": "petty, mean",  "fi": "",               "fr": "",            "es": "mezquino", "ko": "" },
 { "en": "cruel",         "fi": "julma",          "fr": "cruel",       "es": "cruel", "ko": "" },
 { "en": "brutal",        "fi": "brutaali",       "fr": "brutal",      "es": "brutal",  "ko": "" },
 { "en": "brutality",     "fi": "",               "fr": "brutalité",   "es": "(la) brutalidad",  "ko": "" },

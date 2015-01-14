@@ -32,7 +32,8 @@
 
 { "en": "to begin (to do sth), start (doing sth)",       "fi": "alkaa",    "fr": "commencer", "es": "empezar, comenzar",  "ko": "시작하다"},
 { "en": "to begin, start (intr)",          "fi": "aloittaa",    "fr": "",  "es": "empezar, comenzar",  "ko": "" },
-{ "en": "to stop",       "fi": "lopettaa, pysäyttää, pysähtyä",    "fr": "", "es": "parar", "ko": "" },
+{ "en": "to stop (movement of sth)",   "fi": "",    "fr": "", "es": "parar", "ko": "" },
+{ "en": "to stop (doing sth)",   "fi": "",    "fr": "", "es": "dejar (de hacer algo)", "ko": "" },
 { "en": "finish (intr)", "fi": "loppua",    "fr": "finir, terminer",  "es": "terminar, acabar", "ko": "끝나다" },
 { "en": "finish (sth)",  "fi": "lopettaa",  "fr": "finir, terminer",  "es": "terminar, acabar", "ko": "끝내다" },
 { "en": "to end up",     "fi": "joutua",    "fr": "?",                "es": "terminar",  "ko": " ?"},

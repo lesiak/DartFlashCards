@@ -32,7 +32,7 @@
 
 { "en": "invitation",      "fi": "kutsu",        "fr": "invitation",   "es": "(la) invitación",  "ko": "초대 (invite + wait), 초청 (invite + request)" },
 { "en": "to invite",       "fi": "kutsua",       "fr": "inviter",      "es": "invitar",          "ko": "초대하다, 초청하다" },
-{ "en": "according to",    "fi": "mukaan",       "fr": "selon",        "es": "según",               "ko": "-에 따라서" },
+{ "en": "according to",    "fi": "mukaan",       "fr": "selon",        "es": "según, conforme a","ko": "-에 따라서" },
 
 { "en": "for example",     "fi": "esimerkiksi",  "fr": "par exemple",  "es": "por ejemplo",  "ko": "예를 들어서" },
 { "en": "example",         "fi": "esimerkki",    "fr": "exemple",      "es": "ejemplo",      "ko": "예" },
