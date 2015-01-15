@@ -78,6 +78,8 @@
 { "en": "responsibility",   "fi": "vastuu",      "fr": "responsabilité",  "es": "(la) responsabilidad", "ko": "" },
 
 { "en": "careful",      "fi": "varovainen",      "fr": "prudent",     "es": "prudente",  "ko": "" },
+{ "en": "(be) careful!",      "fi": "",      "fr": "",     "es": "¡(ten) cuidado!",  "ko": "" },
+
 { "en": "careless",     "fi": "varomaton",       "fr": "négligent",   "es": "negligente",  "ko": "" },
 
 { "en": "enthusiastic", "fi": "innostunut",     "fr": "enthousiaste", "es": "entusiasmado",  "ko": "" },

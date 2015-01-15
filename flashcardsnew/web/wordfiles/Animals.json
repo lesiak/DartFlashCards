@@ -43,10 +43,6 @@
 { "en": "owl",        "fi": "pöllö",     "fr": "hibou",     "es": "(la) lechuza","ko": "올빼미" },
 { "en": "parrot",     "fi": "papukaija", "fr": "perroquet", "es": "(el) loro",   "ko": "앵무새" },
 
-{ "en": "ant",        "fi": "muurahainen","fr": "fourmi",   "es": "(la) hormiga","ko": "개미" },
-{ "en": "butterfly",  "fi": "perhonen",   "fr": "papillon", "es": "(la) mariposa","ko": "나비" },
-{ "en": "bee",        "fi": "mehiläinen", "fr": "abeille",  "es": "(la) abeja",  "ko": "벌" },
-
 { "en": "frog",       "fi": "sammakko",   "fr": "grenouille",  "es": "(la) rana",     "ko": "개구리" },
 { "en": "puppy",      "fi": "pentu",      "fr": "chiot",       "es": "(el) cachorro", "ko": "강아지" },
 { "en": "elephant",   "fi": "norsu",      "fr": "éléphant",    "es": "(el) elefante", "ko": "코끼리" },
@@ -87,15 +83,21 @@
 { "en": "pet crate",      "fi": "",       "fr": "",            "es": "(el) transportín",    "ko": "" },
 { "en": "nest",        "fi": "pesä",    "fr": "nid",    "es": "(el) nido", "ko": "둥지"},
 
+{ "en": "ant",        "fi": "muurahainen","fr": "fourmi",   "es": "(la) hormiga","ko": "개미" },
+{ "en": "butterfly",  "fi": "perhonen",   "fr": "papillon", "es": "(la) mariposa","ko": "나비" },
+{ "en": "bee",        "fi": "mehiläinen", "fr": "abeille",  "es": "(la) abeja",  "ko": "벌" },
+{ "en": "bug",        "fi": "",           "fr": "",         "es": "(el) bicho", "ko": ""},
+{ "en": "a fly",      "fi": "",           "fr": "",         "es": "(la) mosca", "ko": ""},
+{ "en": "a mosquito", "fi": "",           "fr": "",         "es": "(el) mosquito", "ko": ""},
+{ "en": "a spider",   "fi": "",           "fr": "",         "es": "(la) araña", "ko": ""},
 
-
-{ "en": "to bite",    "fi": "purra",      "fr": "mordre",      "es": "morder",    "ko": "" },
-{ "en": "to wag",    "fi": "",      "fr": "",      "es": "menear (la cola)",    "ko": "" },
-{ "en": "to bark",    "fi": "",      "fr": "",      "es": "ladrar",    "ko": "" },
-{ "en": "to meow",    "fi": "",      "fr": "",      "es": "maullar",    "ko": "" },
-{ "en": "to moo",    "fi": "",      "fr": "",      "es": "mugir",    "ko": "" },
-{ "en": "to croak",    "fi": "",      "fr": "",      "es": "croar",    "ko": "" },
-{ "en": "to caw (raven)",    "fi": "",      "fr": "",      "es": "graznar",    "ko": "" },
+{ "en": "to bite",    "fi": "purra",      "fr": "mordre",   "es": "morder",    "ko": "" },
+{ "en": "to wag",     "fi": "",           "fr": "",         "es": "menear (la cola)",    "ko": "" },
+{ "en": "to bark",    "fi": "",           "fr": "",         "es": "ladrar",    "ko": "" },
+{ "en": "to meow",    "fi": "",           "fr": "",         "es": "maullar",    "ko": "" },
+{ "en": "to moo",     "fi": "",           "fr": "",         "es": "mugir",    "ko": "" },
+{ "en": "to croak",    "fi": "",          "fr": "",         "es": "croar",    "ko": "" },
+{ "en": "to caw (raven)",    "fi": "",      "fr": "",       "es": "graznar",    "ko": "" },
 
 
 { "en": "to hibernate",    "fi": "",      "fr": "",      "es": "hibernar",    "ko": "" },
