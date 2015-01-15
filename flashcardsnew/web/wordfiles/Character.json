@@ -95,6 +95,10 @@
 { "en": "delicate",          "fi": "herkkä",    "fr": "délicat",  "es": "delicado",   "ko": "" },
 { "en": "sensitive (touchy)",             "fi": "herkkä",          "fr": "",    "es": "susceptible", "ko": "" },
 
+{ "en": "meek",    "fi": "",    "fr": "",    "es": "manso",  "ko": "" },
+{ "en": "submissive",    "fi": "",    "fr": "",    "es": "sumiso",  "ko": "" },
+
+{ "en": "misunderstood",    "fi": "",    "fr": "",    "es": "incomprendido",  "ko": "" },
 
 { "en": "tenderness",    "fi": "arkuus",    "fr": "tendresse",    "es": "(la) ternura",  "ko": "" },
 

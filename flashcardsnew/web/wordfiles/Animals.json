@@ -17,6 +17,7 @@
 { "en": "bear",       "fi": "karhu",     "fr": "ours",      "es": "(el) oso",    "ko": "곰" },
 
 { "en": "moose, elch","fi": "hirvi",     "fr": "élan",      "es": "(el) alce",   "ko": "엘크" },
+{ "en": "deer",       "fi": "",          "fr": "",          "es": "(el) corzo",   "ko": "" },
 { "en": "reindeer",   "fi": "poro",      "fr": "renne",     "es": "(el) reno",   "ko": "순록" },
 
 { "en": "wolf",       "fi": "susi",      "fr": "loup",      "es": "(el) lobo",   "ko": "늑대" },
@@ -25,6 +26,8 @@
 { "en": "hedgehog",   "fi": "siili",     "fr": "hérisson",  "es": "(el) erizo",  "ko": "고슴도치" },
 { "en": "rabbit",     "fi": "kani",      "fr": "lapin",     "es": "(el) conejo", "ko": "토끼" },
 { "en": "hare",       "fi": "jänis",     "fr": "lièvre",    "es": "(la) liebre", "ko": "토끼" },
+{ "en": "wild boar",       "fi": "",     "fr": "",          "es": "(el) jabalí", "ko": "" },
+{ "en": "squirrel",       "fi": "",     "fr": "",          "es": "(la) ardilla", "ko": "" },
  
 { "en": "donkey",     "fi": "aasi",      "fr": "baudet",    "es": "(el) burro",  "ko": "" },
 
@@ -52,7 +55,17 @@
 
 { "en": "dolphin",    "fi": "delfiini",   "fr": "dauphin",     "es": "(el) delfín",   "ko": "돌고래" },
 { "en": "shark",      "fi": "hai",        "fr": "requin",      "es": "(el) tiburón",  "ko": "상어" },
+{ "en": "eel",      "fi": "",        "fr": "",      "es": "(la) anguila",  "ko": "" },
+{ "en": "tuna",      "fi": "",        "fr": "",      "es": "(el) atún",  "ko": "" },
 
+{ "en": "starfish",    "fi": "",      "fr": "",      "es": "(la) estrella de mar",    "ko": "" },
+{ "en": "seahorse",    "fi": "",      "fr": "",      "es": "(el) caballito de mar",    "ko": "" },
+{ "en": "gill",    "fi": "",      "fr": "",      "es": "(la) branquia",    "ko": "" },
+{ "en": "fin",    "fi": "",      "fr": "",      "es": "(la) aleta",    "ko": "" },
+
+
+
+{ "en": "giraffe",  "fi": "", "fr": "",   "es": "(la) jirafa","ko": "" },
 { "en": "crocodile",  "fi": "krokotiili", "fr": "crocodile",   "es": "(el) cocodrilo","ko": "악어" },
 
 
@@ -85,7 +98,7 @@
 { "en": "to caw (raven)",    "fi": "",      "fr": "",      "es": "graznar",    "ko": "" },
 
 
-
+{ "en": "to hibernate",    "fi": "",      "fr": "",      "es": "hibernar",    "ko": "" },
 
 { "en": "female (animals)",   "fi": "naaras",    "fr": "femelle", "es": "(la) hembra",    "ko": "암컷" },
 { "en": "male (animals)",     "fi": "",    "fr": "", "es": "(el) macho",    "ko": "" },
@@ -99,7 +112,6 @@
 { "en": "to breed",     "fi": "",    "fr": "", "es": "criar",    "ko": "" },
 
 { "en": "vet",    "fi": "eläinlääkäri",      "fr": "vétérinaire",      "es": "(el) veterinario",    "ko": "" }
-
 
 
 ]

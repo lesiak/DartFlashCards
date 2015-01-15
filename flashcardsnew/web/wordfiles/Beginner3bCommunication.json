@@ -1,16 +1,16 @@
 [
 
-{ "en": "read",      "fi": "lukea",      "fr": "lire",     "es": "leer",         "ko": "읽다" },
-{ "en": "write",     "fi": "kirjoittaa", "fr": "écrire",   "es": "escribir",     "ko": "쓰다" },
+{ "en": "read",      "fi": "lukea",      "fr": "lire",      "es": "leer",         "ko": "읽다" },
+{ "en": "write",     "fi": "kirjoittaa", "fr": "écrire",    "es": "escribir",     "ko": "쓰다" },
 
-{ "en": "letter",    "fi": "kirje",      "fr": "lettre",   "es": "(la) carta",   "ko": "편지" },
-{ "en": "message",   "fi": "viesti",     "fr": "message",  "es": "(el) mensaje", "ko": "메시지" },
-{ "en": "email",     "fi": "sähköposti", "fr": "e-mail",   "es": "(el) correo electrónico",             "ko": "이메일" },
-{ "en": "send",      "fi": "lähettää",   "fr": "envoyer",  "es": "enviar",       "ko": "보내다" },
+{ "en": "letter",    "fi": "kirje",      "fr": "lettre",    "es": "(la) carta",   "ko": "편지" },
+{ "en": "message",   "fi": "viesti",     "fr": "message",   "es": "(el) mensaje", "ko": "메시지" },
+{ "en": "email",     "fi": "sähköposti", "fr": "e-mail",    "es": "(el) correo electrónico",             "ko": "이메일" },
+{ "en": "send",      "fi": "lähettää",   "fr": "envoyer",   "es": "enviar",       "ko": "보내다" },
 
-{ "en": "at (@)",    "fi": "",          "fr": "",          "es": "(la) arroba",             "ko": "" },
-{ "en": "a draft",   "fi": "luonnos",   "fr": "",          "es": "(el) borrador",             "ko": "" },
-{ "en": "attachment","fi": "liite",     "fr": "attachement","es": "(el) archivo adjunto",             "ko": "" },
+{ "en": "at (@)",    "fi": "miukumauku, kissanhäntä", "fr": "arobase",   "es": "(la) arroba",       "it": "chiocciola",         "ko": "골뱅이" },
+{ "en": "a draft",   "fi": "luonnos",    "fr": "",           "es": "(el) borrador",             "ko": "" },
+{ "en": "attachment","fi": "liite",      "fr": "attachement","es": "(el) archivo adjunto",             "ko": "" },
 
 
 { "en": "phone",        "fi": "puhelin",    "fr": "téléphone",    "es": "(el) teléfono",   "ko": "전화" },
