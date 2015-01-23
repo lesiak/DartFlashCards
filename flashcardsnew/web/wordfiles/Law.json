@@ -23,6 +23,8 @@
 { "en": "justice",           "fi": "",         "fr": "justice",           "es": "(la) justicia", "ko": ""   },
 { "en": "to arrest",         "fi": "",         "fr": "",                  "es": "arrestar", "ko": ""   },
 { "en": "to detain",         "fi": "",         "fr": "",                  "es": "detener", "ko": ""   },
+{ "en": "bail",              "fi": "",         "fr": "",                   "es": "(la) fianza", "ko": ""   },
+{ "en": "on bail",           "fi": "",         "fr": "",                   "es": "bajo  fianza", "ko": ""   },
 
 { "en": "illicit",           "fi": "" ,        "fr": "",                  "es": "ilícito",  "ko": ""},
 { "en": "swindler",          "fi": "" ,        "fr": "",                  "es": "estafador",  "ko": ""},

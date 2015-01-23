@@ -86,6 +86,7 @@
 { "en": "ant",        "fi": "muurahainen","fr": "fourmi",   "es": "(la) hormiga","ko": "개미" },
 { "en": "butterfly",  "fi": "perhonen",   "fr": "papillon", "es": "(la) mariposa","ko": "나비" },
 { "en": "bee",        "fi": "mehiläinen", "fr": "abeille",  "es": "(la) abeja",  "ko": "벌" },
+{ "en": "wasp",      "fi": "",            "fr": "",         "es": "(la) avispa", "ko": ""},
 { "en": "bug",        "fi": "",           "fr": "",         "es": "(el) bicho", "ko": ""},
 { "en": "a fly",      "fi": "",           "fr": "",         "es": "(la) mosca", "ko": ""},
 { "en": "a mosquito", "fi": "",           "fr": "",         "es": "(el) mosquito", "ko": ""},

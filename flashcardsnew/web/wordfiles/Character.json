@@ -33,6 +33,7 @@
 { "en": "friendly",      "fi": "ystävällinen",   "fr": "amical" ,     "es": "amable",    "ko": "" },
 { "en": "shy",           "fi": "ujo",            "fr": "timide" ,     "es": "tímido",    "ko": "" },
 { "en": "aggressive",    "fi": "aggressiivinen", "fr": "agressif",    "es": "agresivo",  "ko": "" },
+{ "en": "aggression",    "fi": "",               "fr": "",            "es": "(la) agresión",  "ko": "" },
 { "en": "stubborn",      "fi": "itsepäinen",     "fr": "têtu",        "es": "terco",     "ko": "" },
 { "en": "arrogant",      "fi": "ylimielinen",    "fr": "arrogant",    "es": "arrogante", "ko": "" },
 { "en": "arrogance",      "fi": "",    "fr": "",                      "es": "(la) arrogancia", "ko": "" },

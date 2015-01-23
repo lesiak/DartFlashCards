@@ -11,6 +11,10 @@
 { "en": "to worry",      "fi": "huolehtia",          "fr": "s'inquiéter",     "es": "preocuparse", "ko": "" },
 { "en": "worried",       "fi": "huolestunut",        "fr": "inquiet",     "es": "preocupado", "ko": "" },
 { "en": "nervous",       "fi": "hermostunut",        "fr": "nerveux",     "es": "nervioso", "ko": "" },
+{ "en": "anxious",       "fi": "",                   "fr": "",          "es": "ansioso", "ko": "" },
+{ "en": "(to be) scared",       "fi": "",                   "fr": "",          "es": "(estar) asustado", "ko": "" },
+{ "en": "(to be) scared (of)",       "fi": "",                   "fr": "",          "es": "tener miedo (de)", "ko": "" },
+
 
 { "en": "upset",         "fi": "järkyttynyt",         "fr": "bouleversé",  "es": "indignado",    "ko": "" },
 { "en": "disappointed",  "fi": "pettynyt",            "fr": "déçu",        "es": "decepcionado", "ko": "" },
@@ -19,7 +23,13 @@
 
 { "en": "satisfied",     "fi": "vakuuttunut",          "fr": "satisfait",   "es": "satisfecho",   "ko": "" },
 { "en": "excited",       "fi": "innoissaan, innostunut",  "fr": "excité",  "es": "emocionado", "ko": "흥분한"},
-{ "en": "exciting",       "fi": "jännittävä",  "fr": "excitant, passionnant",  "es": "emocionante", "ko": ""},
+{ "en": "exciting",      "fi": "jännittävä",  "fr": "excitant, passionnant",  "es": "emocionante", "ko": ""},
+
+{ "en": "delighted",     "fi": "",      "fr": "","es": "encantado", "ko": "" },
+{ "en": "elated",        "fi": "",      "fr": "","es": "jubiloso, eufórico", "ko": "" },
+
+{ "en": "indifferent",   "fi": "",      "fr": "","es": "indiferente", "ko": "" },
+
 
 { "en": "tired",         "fi": "väsynyt",   "fr": "fatigué",   "es": "cansado",  "ko": "피곤한" },
 { "en": "ashamed",             "fi": "häpeissään",          "fr": "honteux",   "ko": "부끄럽다" },

@@ -24,6 +24,8 @@
 
 { "en": "to rain",       "fi": "",    "fr": "",    "es": "llover", "ko": "" },
 { "en": "to snow",      "fi": "",      "fr": "", "es": "nevar",  "ko": ""},
+{ "en": "a snowfall",      "fi": "",      "fr": "", "es": "(la) nevada",  "ko": ""},
+
 
 { "en": "desert",       "fi": "aavikko",    "fr": "désert",    "es": "(el) desierto", "ko": "사막" },
 { "en": "volcano",      "fi": "tulivuori",  "fr": "volcan",     "es": "(el) volcán",   "ko": ""},
