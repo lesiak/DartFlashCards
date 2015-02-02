@@ -35,7 +35,8 @@
 { "en": "swimming",     "fi": "uinti",      "fr": "natation",   "es": "(la) natación",   "ko": "수영" },
 
 { "en": "to compete",        "fi": "",   "fr": "", "es": "competir",  "ko": ""},
-{ "en": "competition (sport)",  "fi": "kilpailu, kisat" , "fr":"concours, compétition","es":"(la) competencia",    "ko": "경기 (競  “contest” and 技 “talent”)"},
+{ "en": "competition (sport)",  "fi": "kilpailu, kisat" , "fr":"concours, compétition","es":"(la) competición",    "ko": "경기 (競  “contest” and 技 “talent”)"},
+{ "en": "competition",  "fi": "" , "fr":"compétition","es":"(la) competencia",    "ko": ""},
 { "en": "stadium",      "fi": "stadion" ,   "fr": "stade",         "es": "(el) estadio", "ko": "경기장"},
 
 { "en": "spectator", "fi": "katsoja",    "fr": "spectateur",    "es": "(el) espectador", "ko": "구경꾼"},

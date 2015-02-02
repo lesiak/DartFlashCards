@@ -32,6 +32,7 @@
 { "en": "attack",       "fi": "hyökkäys",      "fr": "attaque",        "es": "(el) ataque", "ko": "공격" },
 
 { "en": "assault",      "fi": "",              "fr": "",               "es": "(el) asalto", "ko": "" },
+{ "en": "ambush",      "fi": "",              "fr": "",               "es": "(la) emboscada", "ko": "" },
 
 { "en": "sword",        "fi": "miekka",        "fr": "épée",           "es": "(la) espada", "ko": "검" },
 { "en": "bow",          "fi": "jousi",         "fr": "arc",            "es": "(el) arco",   "ko": "활" },
