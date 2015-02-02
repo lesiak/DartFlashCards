@@ -15,7 +15,9 @@ class LangUtils {
     } else if (lang == "es") {
       return "Spanish";
     } else if (lang == "it") {
-      return "Italian";          
+      return "Italian";
+    } else if (lang == "de") {
+      return "German";              
     } else if (lang==null) {
       return "null";
     }

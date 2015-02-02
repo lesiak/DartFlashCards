@@ -30,7 +30,8 @@
 
 { "en": "relation",          "fi": "suhde",    "fr":"relation, rapport", "es": "(la) relación",  "ko": "관계"},
 { "en": "relative",          "fi": "suhteellinen",    "fr": "relatif",  "es": "relativo",  "ko": "상대적인"},
-{ "en": "ratio, proportion", "fi": "suhde",    "fr": "rapport, ratio" , "ko": "비율"},
+{ "en": "ratio, proportion", "fi": "suhde",    "fr": "rapport, ratio",  "es": "(la) razón, (la) proporción",   "ko": "비율"},
+{ "en": "proportion",        "fi": "",         "fr": "",                "es": "(la) proporción",   "ko": ""},
 
 { "en": "side",              "fi": "puoli",      "fr": "côté",         "es": "(el) lado",  "ko": "" },
 { "en": "other",             "fi": "muu",        "fr": "autre",        "es": "otro",  "ko": "다른" },

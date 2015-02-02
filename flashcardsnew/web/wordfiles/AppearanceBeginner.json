@@ -19,12 +19,19 @@
 { "en": "near",         "fi": "lähellä",     "fr": "près de",  "es": "cerca de, cercano",   "ko": "가깝다" },
 { "en": "next to",      "fi": "vieressä",    "fr": "à côté de","es": "al lado de", "ko": "" },
 
-{ "en": "wide",         "fi": "leveä",       "fr": "large",    "es": "ancho",  "ko": "넓다" },
+{ "en": "wide",         "fi": "leveä",       "fr": "large",    "es": "ancho [+street, river, trousers], amplio [+space, circle, valley]",  "ko": "넓다" },
+{ "en": "wide (extensive)",         "fi": "",       "fr": "",    "es": "amplio [+range, selection], gran [+support, variety]",  "ko": "" },
+{ "en": "broad (wide-ranging) [+education, syllabus][+range, spectrum]",         "fi": "",       "fr": "",    "es": "amplio",  "ko": "" },
+{ "en": "broad",        "fi": "",            "fr": "",         "es": "amplio [+road], ancho [+road] [+shoulders]",  "ko": "" },
+{ "en": "to widen (road, garment)",        "fi": "",            "fr": "",         "es": "ampliar",  "ko": "" },
+{ "en": "to widen (fig: influence, limits)",        "fi": "",            "fr": "",         "es": "ampliar, extender",  "ko": "" },
+
 { "en": "narrow",       "fi": "kapea",       "fr": "étroit",   "es": "estrecho, angosto",  "ko": "좁다" },
+
 { "en": "thin (not thick)", "fi": "ohut",    "fr": "mince",    "es": "fino; delgado",  "ko": "얇다" },
 { "en": "thick (not thin)",  "fi": "paksu",  "fr": "",         "es": "grueso",  "ko": "두껍다" },
   
-{ "en": "broad",         "fi": "",           "fr": "",         "es": "amplio, ancho",  "ko": "" },
+
   
 { "en": "size",         "fi": "",            "fr": "",         "es": "(el) tamaño",  "ko": "" },
 { "en": "height",       "fi": "korkeus, pituus",  "fr": "",    "es": "(la) altura",  "ko": "" },

@@ -35,7 +35,8 @@
 { "en": "cardinal",   "fi": "kardinaali",        "fr":"",         "es":"(el) cardenal",    "it":"", "ko": ""},
 { "en": "pope",       "fi": "paavi",             "fr":"",         "es":"(el) papa",        "it":"(il) papa", "ko": ""},
  
-{ "en": "sacrilege", "fi": "pyhäinhäväistys",    "fr":"",         "es":"(el) sacrilegio", "ko": ""},
+{ "en": "miracle", "fi": "",    "fr":"",         "es":"(el) milagro", "ko": ""},
+{ "en": "a sacrilege", "fi": "pyhäinhäväistys",    "fr":"",         "es":"(el) sacrilegio", "ko": ""},
 
 { "en": "to baptize", "fi": "",                  "fr":"",          "es":"bautizar", "ko": ""},
 { "en": "Buddhism",   "fi": "buddhalaisuus",     "fr":"bouddhisme",   "es":"(el) budismo", "ko": "불교"}
