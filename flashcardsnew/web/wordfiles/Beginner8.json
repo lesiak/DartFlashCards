@@ -7,9 +7,10 @@
 
 { "en": "to bite",          "fi": "purra, haukata",          "fr": "mordre",    "ko": "씹다" },
 
-{ "en": "hole",        "ko": "구멍",          "fi": "reikä, aukko, kuoppa, kolo",    "fr": "trou" },
-{ "en": "hang (sth)",           "fi": "riippua (from = elative)","fr": "pendre","ko": "걸다" },
-{ "en": "to depend",            "fi": "riippua (on = elative)","fr": "dépendre",     "ko": "" },
+{ "en": "hole",                 "fi": "reikä, aukko, kuoppa, kolo",    "fr": "trou",   "es": "(el) agujero, (el) hoyo",                "ko": "구멍" },
+{ "en": "hang (sth)",           "fi": "riippua (from = elative)","fr": "pendre",     "es": "colgar", "ko": "걸다" },
+{ "en": "hang (be suspended)",  "fi": "riippua (from = elative)","fr": "",           "es": "colgar",      "ko": "" },
+{ "en": "to depend",            "fi": "riippua (on = elative)","fr": "dépendre",     "es": "depender (de)",   "ko": "" },
 { "en": "dependence (reliance)","fi": "riippuvuus",            "fr": "dépendance",   "es": "(la) dependencia",  "ko": "" },
 { "en": "independence",         "fi": "riippumattomuus",       "fr": "indépendance", "es": "(la) independencia",  "ko": ""},
 

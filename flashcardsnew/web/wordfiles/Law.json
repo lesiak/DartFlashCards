@@ -7,7 +7,7 @@
 { "en": "to kill",           "fi": "tappaa",         "fr": "tuer",        "es": "matar", "ko": "" },
 
 { "en": "to accuse (sb of)", "fi": "syyttää (jstk)", "fr": "accuser",     "es": "acusar (a algn de)", "ko": "" },
-{ "en": "accusation",        "fi": "",               "fr": "",            "es": "(la) acusación", "ko": "" },
+{ "en": "accusation",        "fi": "syytös",         "fr": "",            "es": "(la) acusación", "ko": "" },
 
 { "en": "guilty",            "fi": "syyllinen",      "fr": "coupable",    "es": "culpable",  "ko": "유죄의"},
 
@@ -18,8 +18,8 @@
 { "en": "victim",            "fi": "uhri",     "fr": "victime",           "es": "(la) víctima",  "ko": "희생자"   },
 
 
-{ "en": "illegal",           "fi": "" ,        "fr": "",                  "es": "ilegal",  "ko": ""},
-{ "en": "a witness",         "fi": "" ,        "fr": "",                  "es": "(el) testigo",  "ko": ""},
+{ "en": "illegal",           "fi": "laiton",   "fr": "",                  "es": "ilegal",  "ko": ""},
+{ "en": "a witness",         "fi": "todistaja","fr": "",                  "es": "(el) testigo",  "ko": ""},
 { "en": "justice",           "fi": "",         "fr": "justice",           "es": "(la) justicia", "ko": ""   },
 { "en": "to arrest",         "fi": "",         "fr": "",                  "es": "arrestar", "ko": ""   },
 { "en": "to detain",         "fi": "",         "fr": "",                  "es": "detener", "ko": ""   },

@@ -12,5 +12,5 @@
 { "en": "paradise",  "fi": "paratiisi",       "fr": "paradis","es": "(el) paraíso",  "it": "(il) paradiso",  "ko": "천국 (heavan + country)" },
 { "en": "myth",      "fi": "myytti",          "fr": "mythe",  "es": "(el) mito",     "ko": "신화 (god + talk)" },
 { "en": "legend",     "fi": "",               "fr": "",       "es": "(la) leyenda",     "ko": "" },
-{ "en": "legendary",     "fi": "",             "fr": "",      "es": "legendario",     "ko": "" },
+{ "en": "legendary",     "fi": "",             "fr": "",      "es": "legendario",     "ko": "" }
 ]

@@ -1,5 +1,5 @@
 [
-{ "en": "to make the bed",       "ko": "",       "fi": "pedata sänky, sijata vuode",    "fr": "" },
+{ "en": "to make the bed","fi": "pedata sänky, sijata vuode",    "fr": "",   "ko": "" },
 { "en": "to clean",       "fi": "puhdistaa, siivota",    "fr": "nettoyer", "es": "limpiar",  "ko": "" },
 { "en": "to wash",        "fi": "pestä, tiskata, pyykätä",    "fr": "laver", "es": "(+clothes, car) lavar, (+floor) fregar",      "ko": "씻다" },
 { "en": "to wipe",        "fi": "pyyhkiä",    "fr": "essuyer",  "ko": "닦음" },
@@ -15,6 +15,6 @@
 
 { "en": "to iron",             "fi": "silittää",        "fr": "repasser",        "es": "planchar",  "ko": "" },
 { "en": "iron (for clothes)",  "fi": "silitysrauta",    "fr": "fer à repasser" , "es": "(la) plancha",  "ko": "" },
-{ "en": "to sew",  "fi": "",    "fr": "" , "es": "coser",  "ko": "" }
+{ "en": "to sew",              "fi": "",                "fr": "" , "es": "coser",  "ko": "" }
 
 ]
