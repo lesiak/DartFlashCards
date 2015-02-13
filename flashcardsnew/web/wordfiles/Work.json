@@ -51,7 +51,7 @@
 
 { "en": "to retire",        "fi": "",    "fr": "",    "es": "retirarse, jubilarse", "ko": "은퇴하다" },
 
-{ "en": "Pleased to meet you",   "fi": "Ilo tavata",    "fr": "c'est un plaisir de vous rencontrer, ravi de vous avoir rencontré",  "ko": "만나서 반가워요" },
+{ "en": "Pleased to meet you",   "fi": "Ilo tavata",    "fr": "c'est un plaisir de vous rencontrer, ravi de vous avoir rencontré",  "es": "encantado de conocerte (conocerle)", "ko": "만나서 반가워요" },
 { "en": "introduce (person)",    "fi": "esitellä",    "fr": "introduire",  "es": "presentar",   "ko": "소개하다" },
 
 { "en": "part time job",     "fi": "osa-aikaista työtä" , "fr":"emploi à temps partiel",  "ko": "아르바이트"},

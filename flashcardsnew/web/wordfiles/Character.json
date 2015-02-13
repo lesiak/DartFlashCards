@@ -24,7 +24,7 @@
 
 { "en": "timid",         "fi": "arka, pelokas",          "fr": "timide", "es": "tímido",   "ko": "" },
 { "en": "to be timid",   "fi": "arastella, arastaa",          "fr": "être timide",  "ko": "" },
-{ "en": "to hesitate",   "fi": "epäröidä",       "fr": "hésiter",     "ko": "주저하다" },
+{ "en": "to hesitate",   "fi": "epäröidä",       "fr": "hésiter",     "es": "vacilar (en hacer algo), dudar (en hacer algo)",   "ko": "주저하다" },
 
 { "en": "patient",       "fi": "kärsivällinen",  "fr": "patient",     "es": "paciente",              "ko": "" },
 { "en": "impatient",     "fi": "kärsimätön",     "fr": "impatient",   "es": "impaciente",              "ko": "" },

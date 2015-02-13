@@ -29,10 +29,11 @@
 { "en": "to disturb",      "fi": "häiritä",      "fr": "perturber",   "es": "perturbar",     "ko": "방해하다" },
 { "en": "to interrupt",    "fi": "keskeyttää",   "fr": "interrompre", "es": "interrumpir",   "ko": "방해하다" },
 
-{ "en": "mistake",        "fi": "",      "fr": "",    "es": "(el) error, (la) equivocación", "ko": ""  },
-{ "en": "to make a mistake",        "fi": "",      "fr": "",    "es": "cometer un error", "ko": ""  },
-{ "en": "to mistake (mix up, confuse)",        "fi": "",      "fr": "",    "es": "equivocarse (de) [+time, road]", "ko": ""  },
-{ "en": "to misunderstand",        "fi": "",      "fr": "",    "es": "malinterpretar", "ko": ""  },
+{ "en": "mistake",           "fi": "",           "fr": "",             "es": "(el) error, (la) equivocación", "ko": ""  },
+{ "en": "to make a mistake", "fi": "",           "fr": "",             "es": "cometer un error", "ko": ""  },
+{ "en": "to correct",        "fi": "",           "fr": "",              "es": "corregir",  "ko": ""},
+{ "en": "to mistake (mix up, confuse)",          "fi": "",      "fr": "",    "es": "equivocarse (de) [+time, road]", "ko": ""  },
+{ "en": "to misunderstand",        "fi": "",     "fr": "",              "es": "malinterpretar", "ko": ""  },
 
 
 { "en": "invitation",      "fi": "kutsu",        "fr": "invitation",   "es": "(la) invitación",  "ko": "초대 (invite + wait), 초청 (invite + request)" },

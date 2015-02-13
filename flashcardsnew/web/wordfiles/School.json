@@ -2,14 +2,14 @@
 { "en": "to learn",       "fi": "oppia",     "fr": "apprendre",   "es": "aprender",   "ko": "배우다" },
 { "en": "to teach",       "fi": "opettaa",   "fr": "enseigner",   "es": "enseñar",  "ko": "" },
 { "en": "lesson",         "fi": "oppitunti", "fr": "leçon",       "es": "(la) clase, (la) lección",  "ko": "수업, 과" },
-{ "en": "professor",      "fi": "professori","fr": "professeur",  "ko": "교수" },
+{ "en": "professor",      "fi": "professori","fr": "professeur",    "es": "(el) profesor, (el) maestro",   "ko": "교수" },
 
 { "en": "topic",       "ko": "주제",       "fi": "aihe",    "fr": "sujet" },
 { "en": "course",       "ko": "과목",       "fi": "kurssi",    "fr": "cours" },
 
-{ "en": "test",        "ko": "시험",          "fi": "koe, tentti",    "fr": "test, examen" },
-{ "en": "science",       "fi": "tiede",    "fr": "science",  "es": "(la) ciencia",  "ko": "과학" },
-{ "en": "research",      "fi": "tutkimus",    "fr": "recherche",  "es": "(la) investigación",  "ko": "연구" },
+{ "en": "test",          "fi": "koe, tentti", "fr": "test, examen",  "es": "(el) examen, (la) prueba",  "ko": "시험" },
+{ "en": "science",       "fi": "tiede",       "fr": "science",       "es": "(la) ciencia",  "ko": "과학" },
+{ "en": "research",      "fi": "tutkimus",    "fr": "recherche",     "es": "(la) investigación",  "ko": "연구" },
 
 { "en": "experiment",    "fi": "kokeilu",    "fr": "",         "es": "(el) experimento",  "ko": "실험" },
 { "en": "to observe",    "fi": "tarkkailla", "fr": "observer", "es": "observar",  "ko": ""},

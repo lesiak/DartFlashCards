@@ -11,10 +11,7 @@
 { "en": "prince",        "fi": "prinssi",        "fr": "prince" , "es": "(el) príncipe", "ko": ""},
 { "en": "princess",      "fi": "prinsessa",      "fr": "" ,       "es": "(la) princesa", "ko": "왕자비"},
 { "en": "kingdom",       "fi": "kuningaskunta, valtakunta",       "fr": "royaume" ,    "es": "(el) reino",      "ko": ""},
-
-
 { "en": "authorities",   "fi": "viranomaiset",   "fr": "autorités",    "es": "(las) autoridades",    "ko": "당국" },
-{ "en": "delegate",      "fi": "edustaja",       "fr": "délégué", "ko": "대리자" },
 
 { "en": "society",        "fi": "yhteiskunta",            "fr": "société",     "es": "(la) sociedad",  "ko": "사회" },
 { "en": "nation",         "fi": "kansakunta",             "fr": "nation",      "es": "(la) nación",  "ko": "" },
@@ -24,6 +21,8 @@
 { "en": "to negotiate",   "fi": "neuvotella",    "fr": "négocier",    "es": "negociar", "ko": "" },
 { "en": "negotiation",    "fi": "neuvottelu",    "fr": "négociation", "es": "(la) negociación",    "ko": "" },
 
+
+{ "en": "delegate",      "fi": "edustaja",       "fr": "délégué", "ko": "대리자" },
 
 
 { "en": "politics",       "fi": "politiikka",              "fr": "politique",   "es": "(la) política",   "ko": "" },
@@ -44,6 +43,7 @@
 
 { "en": "embassy",           "fi": "suurlähetystö", "fr": "ambassade",   "es": "(la) embajada",  "ko": "대사관 (great + dispatch + building)" },
 { "en": "a summit (meeting)","fi": "huippukokous" ,      "fr": "",   "es": "(la) cumbre","ko": ""},
+{ "en": "council (committee)","fi": "" ,                 "fr": "",   "es": "(el) consejo","ko": ""},
 
 { "en": "to isolate (from)","fi": "",                    "fr": "",   "es": "aislar (de)",  "ko": "" },
 { "en": "isolation",        "fi": "",                    "fr": "",   "es": "(el) aislamiento",  "ko": "" },

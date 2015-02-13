@@ -87,6 +87,8 @@
 { "en": "to save (rescue)",    "fi": "",          "fr": "",         "es": "salvar", "ko": "" },
 { "en": "to rescue",           "fi": "pelastaa",  "fr": "sauver",   "es": "rescatar",  "ko": ""},
 { "en": "a rescue",            "fi": "",          "fr": "",         "es": "(el) rescate, (el) salvamento",  "ko": ""},
+{ "en": "a trap (for)",           "fi": "",  "fr": "",   "es": "(la) trampa (a)",  "ko": ""},
+{ "en": "to trap",           "fi": "",  "fr": "",   "es": "atrapar",  "ko": ""},
 
 { "en": "power (authority)",   "fi": "",          "fr": "",         "es": "(el) poder", "ko": "" },
 { "en": "powerful",    "fi": "",          "fr": "",   "es": "poderoso", "ko": "" },

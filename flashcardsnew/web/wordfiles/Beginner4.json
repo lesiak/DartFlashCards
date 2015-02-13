@@ -20,7 +20,11 @@
 { "en": "useful",            "fi": "hyödyllinen", "fr": "utile","es": "útil",  "ko": "" },
 { "en": "handy (useful)",    "fi": "kätevä",      "fr": "maniable, pratique", "es": "práctico, útil",  "ko": ""  },
 
-{ "en": "rise",              "fi": "nousta",        "fr": "augmenter",  "ko": "오르다" },
+{ "en": "rise (increase)",        "fi": "nousta",        "fr": "augmenter",   "es": "subir, aumentar",  "ko": "오르다" },
+{ "en": "to reduce (make smaller, lower)",          "fi": "vähentää, alentaa, pienentää" , "fr":"réduire, diminuer", "es":"reducir", "ko": ""},
+{ "en": "to reduce (price, product)",          "fi": "" , "fr":"", "es":"rebajar", "ko": ""},
+{ "en": "to diminish",          "fi": "" , "fr":",", "es":"disminuir  [+numbers, speed, heat, strength]", "ko": ""},
+
 { "en": "significantly",     "fi": "merkittävästi", "fr": "significativement", "es": "significativamente",  "ko": "크게" },
 
 { "en": "prepare",     "fi": "valmistella",    "fr": "préparer",   "es": "preparar",   "ko": "준비하다"},
@@ -85,6 +89,13 @@
 
 { "en": "worse",           "fi": "",           "fr":"",             "es": "peor",  "ko": ""},
 { "en": "to forbid",       "fi": "kieltää",    "fr": "interdire",   "es": "prohibir", "ko": "금하다" },
+{ "en": "to restrict",       "fi": "",    "fr": "",   "es": "restringir, limitar", "ko": "" },
+{ "en": "restriction",       "fi": "",    "fr": "",   "es": "(la) restricción", "ko": "" },
+
+{ "en": "problem",       "fi": "",    "fr": "",   "es": "(el) problema", "ko": "" },
+{ "en": "no problem!",       "fi": "",    "fr": "",   "es": "¡claro (que sí)!", "ko": "" },
+{ "en": "to resolve",       "fi": "",    "fr": "",   "es": "resolver", "ko": "" },
+{ "en": "pending (unresolved)",       "fi": "",    "fr": "",   "es": "pendiente", "ko": "" },
 
 
 { "en": "event",           "fi": "tapahtuma",  "fr": "événement",   "ko": "행사" },

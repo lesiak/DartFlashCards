@@ -35,6 +35,7 @@
 
 { "en": "bug, defect",      "fi": "vika",     "fr": "défaut", "es": "(el) defecto",   "ko": "" },
 
+{ "en": "to operate (a machine)",         "fi": "",     "fr": "",   "es": "manejar",  "ko": "" },
 { "en": "to develop",         "fi": "kehittää",     "fr": "développer",   "es": "desarrollar",  "ko": "" },
 { "en": "developer",          "fi": "kehittäjä",    "fr": "",             "es": "(el) desarollador",    "ko": "" },
 { "en": "development",        "fi": "kehitys",    "fr": "développement",  "es": "(el) desarrollo",  "ko": "" },

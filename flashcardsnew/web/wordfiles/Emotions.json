@@ -60,7 +60,7 @@
 { "en": "hopefully(!)","fi": "",     "fr": "",          "es": "Ojalá",        "ko": "" },
 
 { "en": "luckily","fi": "",     "fr": "",          "es": "por suerte",        "ko": "" },
-
+{ "en": "gratitude","fi": "",     "fr": "",          "es": "(la) gratitud",        "ko": "" },
 
 { "en": "emotion",    "fi": "tunne, emotio",  "fr": "émotion",   "es": "(la) emoción",   "ko": "감정" },
 { "en": "mood",       "fi": "mieliala",       "fr": "humeur",    "es": "(el) humor",     "ko": "기분" },

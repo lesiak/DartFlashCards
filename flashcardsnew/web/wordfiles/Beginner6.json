@@ -76,6 +76,8 @@
 { "en": "to propose",     "fi": "ehdottaa, esittää",  "fr": "proposer",      "es": "proponer",     "ko": "제안하다" },
 { "en": "proposition",    "fi": "ehdotus, esitys",    "fr": "proposition",   "es": "(la) proposición, (la) propuesta",  "ko": "제안" },
 
+{ "en": "to advise",     "fi": "",                   "fr": "",              "es": "aconsejar",     "ko": "" },
+{ "en": "advice",     "fi": "",                   "fr": "",              "es": "(el) consejo",     "ko": "" },
 
 { "en": "accept",         "fi": "hyväksyä, suostua", "fr": "accepter",     "es": "aceptar",    "ko": "받아들이다" },
 { "en": "reject",         "fi": "hylätä",            "fr": "rejeter",      "es": "rechazar",  "ko": "거절하다" },

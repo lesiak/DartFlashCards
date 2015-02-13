@@ -3,7 +3,7 @@
 { "en": "hospital",          "fi": "sairaala",      "fr": "hôpital",       "es": "(el) hospital",  "ko": "병원 (illness + public building)" },
 { "en": "sick, painful",     "fi": "sairas",        "fr": "malade",        "es": "enfermo",        "ko": "아프다" },
 { "en": "ill",               "fi": "sairas",        "fr": "malade",        "es": "enfermo",        "ko": "" },
-{ "en": "ilness",            "fi": "tauti, sairaus","fr": "maladie",       "es": "(la) enfermedad",   "ko": "" },
+{ "en": "illness",           "fi": "tauti, sairaus","fr": "maladie",       "es": "(la) enfermedad",   "ko": "" },
 { "en": "disease",           "fi": "tauti, sairaus","fr": "maladie",       "es": "(la) enfermedad",   "ko": "" },
 
 { "en": "healthy",           "fi": "terveellinen",  "fr": "en bonne santé","es": "sano",           "ko": "건강하다" },
