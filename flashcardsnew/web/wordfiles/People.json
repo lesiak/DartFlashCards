@@ -95,7 +95,8 @@
 
  { "en": "neighbour",   "fi": "naapuri",     "fr": "voisin",  "es": "(el) vecino",  "ko": "이웃 사람" },
  { "en": "flatmate",    "fi": "kämppäkaveri, kämppis",     "fr": "colocataire",  "es": "(el) compañero de piso",  "ko": "" },
- { "en": "group",       "fi": "ryhmä",     "fr": "groupe",    "es": "(el) grupo",  "ko": "" },
+ 
+ 
  
 
 { "en": "poor",         "fi": "köyhä",       "fr":"pauvre",   "es":"pobre",           "ko": "가난하다"},
@@ -109,7 +110,9 @@
 { "en": "impolite",        "fi": "epäkohtelias",     "fr": "impoli",       "es": "descortés",   "ko": ""},
 
 
-
+{ "en": "to seduce",       "fi": "",     "fr": "",    "es": "seducir",  "ko": "" },
+{ "en": "to seduce (sb into doing sth)",       "fi": "",     "fr": "",    "es": "inducir (a alguien a hacer algo)",  "ko": "" },
+{ "en": "to win (the heart of)",       "fi": "",     "fr": "",    "es": "conquistar",  "ko": "" },
 
 
 { "en": "cut down (on)",    "ko": "줄이다"  ,  "fi": "vähentää" , "fr":"réduire"},
