@@ -1,0 +1,22 @@
+[
+
+{ "en": "a little",   "fi": "vähän",     "fr": "un peu",    "es": "un poco",  "ko": "조금" },
+{ "en": "a lot",      "fi": "paljon",    "fr": "beaucoup",  "es": "mucho",    "ko": "많은" },
+{ "en": "majority",   "fi": "enemmistö", "fr": "majorité",  "es": "(la) mayoría", "ko": ""},
+
+{ "en": "enough (sufficient)",      "fi": "tarpeeksi, riittävästi",   "fr": "assez", "es": "suficiente, bastante",    "ko": "" },
+{ "en": "enough (sufficiently)",    "fi": "tarpeeksi, riittävän",     "fr": "suffisamment, assez", "es": "(lo) suficientemente, lo bastante", "ko": "충분히" },
+
+{ "en": "to be enough, sufficient",      "fi": "riittää (+ ill)",      "fr": "suffire" , "es": "ser lo suficientemente",  "ko": ""},
+
+{ "en": "too much",      "fi": "",   "fr": "", "es": "demasiada",    "ko": "" },
+
+{ "en": "very",       "fi": "hyvin",   "fr": "très",    "es": "muy",   "ko": "아주" },
+{ "en": "pretty (quite, fairly)", "fi": "",   "fr": "",    "es": "bastante",   "ko": "" },
+
+{ "en": "really",     "fi": "todella",         "fr": "vraiment",   "ko": "정말" },
+{ "en": "not really", "fi": "",                "fr": "",            "ko": "별로" },
+{ "en": "hardly",     "fi": "",                "fr": "" ,  "es": "apenas",  "ko": ""}
+
+  
+]

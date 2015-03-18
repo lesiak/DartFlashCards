@@ -34,6 +34,7 @@ class FlashCardsApp extends PolymerElement {
                      'Beginner4',
                      'Beginner4aDescriptions',
                      'Beginner5AbstractDescriptions',
+                     'Beginner5Quantities',
                      'Beginner6',
                      'CultureBegginer',                     
                      'CultureMusic',
@@ -91,7 +92,7 @@ class FlashCardsApp extends PolymerElement {
   
   static List<String> langs = ["ko", "fi", "es"];
   
-  static List<String> all_langs = ["en", "ko", "fi", "fr", "es", "it", "de", "hu"];
+  static List<String> all_langs = ["en", "ko", "fi", "fr", "es", "it", "cs", "hu"];
   
   @observable List<String> items;
   
@@ -271,7 +272,7 @@ class FlashCardsApp extends PolymerElement {
     } else if (selectedLangs == 'optionsRadiosFiKoEs') {
       langs = ["fi","ko","fr"];
     } else {
-      langs = ["es","de","fi"];
+      langs = ["es","cs","fi"];
     }
     
     primaryLang = langs[0];

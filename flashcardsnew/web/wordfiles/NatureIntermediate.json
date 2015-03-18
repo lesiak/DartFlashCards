@@ -12,6 +12,8 @@
 { "en": "a plain",     "fi": "" ,            "fr": "",         "es": "(la) llanura","ko": ""},
 { "en": "ocean",       "fi": "valtameri",    "fr": "océan",    "es": "(el) océano",  "ko": "대양, 해양"},
 { "en": "bay",         "fi": "lahti" ,       "fr": "baie",     "es": "(la) bahía","ko": ""},
+{ "en": "quicksand",   "fi": "juoksuhiekka", "fr": "",         "es": "(las) arenas movedizas",     "cs": "pohyblivé písky",   "ko": ""},
+{ "en": "riverside",         "fi": "" ,       "fr": "",     "es": "(la) ribera","ko": ""},
 
 { "en": "landscape",   "fi": "maisema" ,     "fr": "paysage",   "es": "(el) paisaje","ko": ""},
 { "en": "jungle",      "fi": "viidakko" ,    "fr": "",          "es": "(la) selva",  "ko": ""},

@@ -1,6 +1,7 @@
 part of locale_utils;
 
 class LangUtils {
+  
   static String getLangName(String lang) {
     if (lang == "ko") {
       return "Korean";
@@ -16,8 +17,8 @@ class LangUtils {
       return "Spanish";
     } else if (lang == "it") {
       return "Italian";
-    } else if (lang == "de") {
-      return "German";              
+    } else if (lang == "cs") {
+      return "Czech";              
     } else if (lang==null) {
       return "null";
     }
