@@ -43,7 +43,8 @@
 { "en": "loft",           "fi": "parvi",       "fr": "grenier",   "es": "(el) desván",    "ko": "" },
 { "en": "lamp",           "fi": "lamppu",     "fr": "lampe",         "es": "(la) lámpara",  "ko": "램프, 전등"    },
 
-{ "en": "kitchen",        "fi": "keittiö",    "fr": "cuisine",       "es": "(la) cocina",  "ko": " 부엌" },
+{ "en": "kitchen",        "fi": "keittiö",     "fr": "cuisine",          "es": "(la) cocina",   "ko": " 부엌" },
+{ "en": "dining room",    "fi": "ruokasali",   "fr": "salle à manger",   "es": "(el) comedor",  "ko": " " },
 
 { "en": "get up",         "fi": "nousta",     "fr": "se lever",          "es": "levantarse", "ko": "일어나다" },
 { "en": "go to bed",      "fi": "mennä nukkumaan",     "fr": "",         "es": "acostarse",  "ko": "" },

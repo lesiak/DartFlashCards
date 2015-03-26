@@ -21,10 +21,11 @@
 
 { "en": "pain",            "fi": "kipu" ,           "fr": "douleur",      "es": "(el) dolor",             "ko": "고통, 아픔"},
 { "en": "painful",         "fi": "kipeä, tuskallinen",    "fr": "douloureux",             "es": "doloroso",             "ko": ""},
-{ "en": "backache",        "fi": "selkäkipu",  "fr": "mal au dos",   "es": "(el) dolor de espalda",  "ko": ""},
-{ "en": "headache",        "fi": "",            "fr": "",            "es": "(el) dolor de cabeza",  "ko": ""},
+{ "en": "backache",        "fi": "selkäkipu",      "fr": "mal au dos",   "es": "(el) dolor de espalda",  "ko": ""},
+{ "en": "headache",        "fi": "",                "fr": "",            "es": "(el) dolor de cabeza",  "ko": ""},
 
-{ "en": "to hurt",         "fi": "" ,      "fr": "",      "es": "doler (me duele el pie)",             "ko": ""},
+{ "en": "to feel ill",           "fi": "",         "fr": "",            "es": "mejorarse", "ko": "" },
+{ "en": "to hurt",               "fi": "" ,        "fr": "",      "es": "doler (me duele el pie)",             "ko": ""},
 
 { "en": "poison",                "fi": "myrkky" , "fr":"poison",          "es":"(el) veneno",  "ko": ""},
 { "en": "poisonous",             "fi": "myrkyllinen" , "fr":"",                       "es":"venenoso",  "ko": ""},

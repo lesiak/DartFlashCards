@@ -13,7 +13,7 @@
 { "en": "garden",    "fi": "puutarha",   "fr": "jardin",    "es": "(el) jardín", "it": "(il) giardino",         "cs": "zahrada","hu": "kert",  "ko": "정원",   "zh": "花园 (huāyuán)" },
 { "en": "park",      "fi": "puisto",     "fr": "parc" ,     "es": "(el) parque", "it": "(il) parco",            "cs": "park", "hu": "park",  "ko": "공원",   "zh": "公园  (gōngyuán)"},
 { "en": "tree",      "fi": "puu",        "fr": "arbre" ,    "es": "(el) árbol",  "it": "(il) albero",           "cs": "strom",   "hu": "fa",    "ko": "나무",   "zh": "树  (shù)" },
-{ "en": "leaf",      "fi": "lehti",      "fr": "feuille",   "es": "(la) hoja",   "it": "",                      "cs": "list, listek"    "hu": "",      "ko": "잎",     "zh": "树叶 (shù yè)"   },
+{ "en": "leaf",      "fi": "lehti",      "fr": "feuille",   "es": "(la) hoja",   "it": "",                      "cs": "list, listek",    "hu": "",      "ko": "잎",     "zh": "树叶 (shù yè)"   },
 { "en": "lake",      "fi": "järvi",      "fr": "lac",       "es": "(el) lago",   "it": "(il) lago",     "hu": "tó",    "ko": "호수",   "zh": "湖  (hú)" },
 { "en": "sun",       "fi": "aurinko",    "fr": "soleil",    "es": "(el) sol",    "it": "(il) sole", "hu": "nap",   "ko": "해",     "zh": ""   },
 { "en": "moon",      "fi": "kuu",        "fr": "lune" ,     "es": "(la) luna",   "it": "(la) luna", "hu": "hold",  "ko": "달",     "zh": "月亮  (yuè liang)"   },
