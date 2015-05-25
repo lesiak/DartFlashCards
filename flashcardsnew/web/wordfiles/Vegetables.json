@@ -1,10 +1,11 @@
 [
 
-{ "en": "garlic",       "fi": "valkosipuli",  "fr": "ail",           "es": "(el) ajo",      "ko": "마늘" },
-{ "en": "cucumber",     "fi": "kurkku",       "fr": "concombre",     "es": "(el) pepino",   "ko": "오이" },
-{ "en": "carrot",       "fi": "porkkana",     "fr": "carotte",       "es": "(la) zanahoria","ko": "당근" },
-{ "en": "aubergine",    "fi": "munakoiso",    "fr": "aubergine",     "es": "(la) berenjena","ko": "가지" },
-{ "en": "potato",       "fi": "peruna",       "fr": "pomme de terre","es": "(la) patata",   "ko": "감자" },
+{ "en": "garlic",       "fi": "valkosipuli",  "fr": "ail",                "es": "(el) ajo",      "ko": "마늘" },
+{ "en": "cucumber",     "fi": "kurkku",       "fr": "(le) concombre",     "es": "(el) pepino",   "ko": "오이" },
+{ "en": "carrot",       "fi": "porkkana",     "fr": "(la) carotte",       "es": "(la) zanahoria","ko": "당근" },
+{ "en": "aubergine",    "fi": "munakoiso",    "fr": "aubergine",          "es": "(la) berenjena","ko": "가지" },
+{ "en": "potato",       "fi": "peruna",       "fr": "(la) pomme de terre","es": "(la) patata",   "ko": "감자" },
+{ "en": "tomato",       "fi": "tomaatti",     "fr": "(la) tomate",        "es": "(el) tomate",   "ko": "" },
 
 { "en": "pumpkin",      "fi": "kurpitsa",     "fr": "citrouille",    "es": "(la) calabaza",  "ko": "호박" },
 { "en": "courgette",    "fi": "kesäkurpitsa", "fr": "courgette",     "es": "(el) calabacín", "ko": "서양 호박" },

@@ -37,7 +37,7 @@
 { "en": "yesterday",  "fi": "eilen",     "fr": "hier",       "es": "ayer",   "ko": "어제"},
 { "en": "often",      "fi": "usein",     "fr": "souvent",    "es": "con frecuencia, a menudo",   "ko": "자주"},
  
-{ "en": "usually",      "fi": "yleensä, tavallisesti",     "fr": "",    "es": "normalmente",   "ko": ""},
+{ "en": "usually",      "fi": "yleensä, tavallisesti",     "fr": "généralement, en général, habituellement",    "es": "normalmente",   "ko": ""},
 { "en": "to usually (do sth), to be accustomed to)",      "fi": "",     "fr": "",    "es": "soler",   "ko": ""},
 
 
