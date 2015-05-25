@@ -267,10 +267,10 @@ class FlashCardsApp extends PolymerElement {
     var selectedLangs = optionsLangs.selectedOption;
     if (selectedLangs == 'optionsRadiosKoFiHu') {
       langs = ["ko","fi","hu"];      
-    } else if (selectedLangs == 'optionsRadiosEsItFi'){
-      langs = ["es","it","fi"];      
+    } else if (selectedLangs == 'optionsRadiosEsItFr'){
+      langs = ["es","it","fr"];      
     } else if (selectedLangs == 'optionsRadiosFiKoEs') {
-      langs = ["fi","ko","fr"];
+      langs = ["fi","ko","es"];
     } else {
       langs = ["es","cs","fi"];
     }
