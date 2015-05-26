@@ -6,11 +6,11 @@
 { "en": "banana",     "fi": "banaani",      "fr": "(la) banane","es": "(el) plátano",  "hu": "banán",      "ko": "바나나" },
 { "en": "plum",       "fi": "luumu",        "fr": "prune",      "es": "(la) ciruela",  "hu": "szilva",     "ko": "자두"   },
 
-{ "en": "strawberry", "fi": "mansikka",     "fr": "fraise",     "es": "(la) fresa",    "hu": "eper",       "ko": "딸기"      },
-{ "en": "raspberry",  "fi": "vadelma",      "fr": "framboise",  "es": "(la) frambuesa","hu": "málna",      "ko": "라즈베리" },
-{ "en": "blackberry", "fi": "karhunvatukka","fr": "mûre",       "es": "(la) mora",     "hu": "földi szeder","ko": "블랙베리"},
-{ "en": "blueberry",  "fi": "mustikka",     "fr": "myrtille",   "es": "(el) arándano", "hu": "áfonya",     "ko": "블루베리" },
-{ "en": "lemon",      "fi": "sitruuna",     "fr": "(le) citron","es": "(el) limón",    "hu": "citrom",     "ko": "레몬"      },
+{ "en": "strawberry", "fi": "mansikka",     "fr": "fraise",        "es": "(la) fresa",    "hu": "eper",       "ko": "딸기"      },
+{ "en": "raspberry",  "fi": "vadelma",      "fr": "(la) framboise","es": "(la) frambuesa","hu": "málna",      "ko": "라즈베리" },
+{ "en": "blackberry", "fi": "karhunvatukka","fr": "mûre",          "es": "(la) mora",     "hu": "földi szeder","ko": "블랙베리"},
+{ "en": "blueberry",  "fi": "mustikka",     "fr": "myrtille",      "es": "(el) arándano", "hu": "áfonya",     "ko": "블루베리" },
+{ "en": "lemon",      "fi": "sitruuna",     "fr": "(le) citron",   "es": "(el) limón",    "hu": "citrom",     "ko": "레몬"      },
 
 { "en": "grape",      "fi": "viinirypäle",  "fr": "",           "es": "(la) uva",      "hu": "szőlő",     "ko": "포도"      },
 { "en": "pineapple",  "fi": "ananas",       "fr": "ananas",     "es": "(la) piña",     "hu": "ananász",   "ko": "파인애플"  },

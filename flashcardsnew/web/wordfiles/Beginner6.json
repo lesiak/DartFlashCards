@@ -26,7 +26,8 @@
 { "en": "to foresee",   "fi": "ennakoida",  "fr":"prévoir",           "es": "prever",  "ko": ""},
 
 
-{ "en": "willingly",  "fi": "mielellään",   "fr":"volontiers",  "es":"con gusto, de buena gana", "ko": "기꺼이"},
+{ "en": "willingly",      "fi": "mielellään",      "fr":"volontiers",  "es":"con gusto, de buena gana", "ko": "기꺼이"},
+{ "en": "unfortunately",  "fi": "valitettavasti",   "fr":"",  "es":"", "ko": ""},
 
 
 { "en": "solution",   "fi": "ratkaisu",    "fr": "solution",  "es": "(la) solución",  "ko": "해결" },
@@ -51,7 +52,7 @@
 { "en": "to complain",   "fi": "valittaa",     "fr": "plaindre, se plaindre",  "es": "quejarse",     "ko": "불평하다" },
 { "en": "complaint",     "fi": " valitus",     "fr": "plainte",                "es": "(la) queja",   "ko": "불평" },
 
-{ "en": "to suggest",     "fi": "",                   "fr": "",              "es": "sugerir",     "ko": "" },
+{ "en": "to suggest",     "fi": "ehdottaa, esittää",  "fr": "",              "es": "sugerir",     "ko": "" },
 { "en": "suggestion",     "fi": "ehdotus",            "fr": "suggestion",    "es": "(la) sugerencia",     "ko": "" },
 { "en": "to propose",     "fi": "ehdottaa, esittää",  "fr": "proposer",      "es": "proponer",     "ko": "제안하다" },
 { "en": "proposition",    "fi": "ehdotus, esitys",    "fr": "proposition",   "es": "(la) proposición, (la) propuesta",  "ko": "제안" },

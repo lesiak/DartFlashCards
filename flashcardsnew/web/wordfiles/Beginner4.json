@@ -84,8 +84,11 @@
 { "en": "to intend",       "fi": "aikoa",             "fr": "avoir l'intention",       "es": "tener la intención (de)",    "ko": "" },
 { "en": "to suppose",      "fi": "",                  "fr": "",                        "es": "suponer",  "ko": ""},
 { "en": "supposed",        "fi": "",                  "fr": "",                        "es": "supuesto",  "ko": ""},
-{ "en": "intuition",        "fi": "intuitio",   "fr":"intuition", "es":"(la) intuición", "ko": "직관"},
-{ "en": "to intuit",        "fi": "tajuta intuitiivisesti",   "fr":"", "es":"intuir","it":"intuire", "ko": "직관"},
+{ "en": "intuition",       "fi": "intuitio",   "fr":"intuition", "es":"(la) intuición", "ko": "직관"},
+{ "en": "to intuit",       "fi": "tajuta intuitiivisesti",   "fr":"", "es":"intuir","it":"intuire", "ko": "직관"},
+{ "en": "to doubt",        "fi": "epäillä",   "fr":"", "es":"","it":"", "ko": ""},
+{ "en": "definitely",      "fi": "ehdottomasti",   "fr":"", "es":"","it":"", "ko": ""},
+
 
 { "en": "worse",           "fi": "",           "fr":"",             "es": "peor",  "ko": ""},
 { "en": "to forbid",       "fi": "kieltää",    "fr": "interdire",   "es": "prohibir", "ko": "금하다" },
