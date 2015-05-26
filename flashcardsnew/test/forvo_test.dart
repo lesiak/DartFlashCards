@@ -1,6 +1,6 @@
-import 'package:unittest/unittest.dart';
+import 'package:test/test.dart';
 import 'package:flashcardsnew/forvo_api.dart';
-import 'package:unittest/html_config.dart';
+
 import 'dart:async';
 import 'dart:html';
 
@@ -72,7 +72,7 @@ void test3() {
 
 
 main() {
-  useHtmlConfiguration();
+  
   group('Forvo:', () {
     test('unmarshall JSON', () {
        testForvoJSON();

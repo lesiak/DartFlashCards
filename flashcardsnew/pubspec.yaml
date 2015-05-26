@@ -3,7 +3,7 @@ description: A sample Polymer application
 dependencies:
   polymer: any
   paper_elements: any
-  unittest: any
+  test: any
 transformers:
 - polymer:
     entry_points: web/flashcardsnew.html

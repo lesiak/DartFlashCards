@@ -149,10 +149,6 @@ packages:
     description: test
     source: hosted
     version: "0.12.0"
-  unittest:
-    description: unittest
-    source: hosted
-    version: "0.12.2"
   utf:
     description: utf
     source: hosted
