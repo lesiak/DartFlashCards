@@ -224,7 +224,7 @@ class LearingPanelElement extends PolymerElement {
     div.classes.add('btn-group');
     ButtonElement button = new ButtonElement();
     button.text = item.username;
-    button.classes.add("btn btn-default");
+    button.classes.addAll(["btn", "btn-default"]);
     button.attributes['rel'] = 'tooltip';
     button.attributes['title'] = '${item.sex} ${item.country}';
     button.onClick.listen((e)  => pronounciationManager.playPronounciation(lang, word, item));
