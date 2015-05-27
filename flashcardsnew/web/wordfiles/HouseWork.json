@@ -15,6 +15,7 @@
 
 { "en": "to iron",             "fi": "silittää",        "fr": "repasser",        "es": "planchar",  "ko": "" },
 { "en": "iron (for clothes)",  "fi": "silitysrauta",    "fr": "fer à repasser" , "es": "(la) plancha",  "ko": "" },
-{ "en": "to sew",              "fi": "",                "fr": "" , "es": "coser",  "ko": "" }
+{ "en": "to sew",              "fi": "ommella",         "fr": "" ,               "es": "coser",  "ko": "" },
+{ "en": "sewing machine",      "fi": "ompelukone",      "fr": "" ,               "es": "(la) máquina de coser",  "ko": "" }
 
 ]

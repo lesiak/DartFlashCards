@@ -21,6 +21,9 @@
 { "en": "to negotiate",   "fi": "neuvotella",    "fr": "négocier",    "es": "negociar", "ko": "" },
 { "en": "negotiation",    "fi": "neuvottelu",    "fr": "négociation", "es": "(la) negociación",    "ko": "" },
 
+{ "en": "decision-maker", "fi": "päätöksentekijä, päättäjä",    "fr": "", "es": "",    "ko": "" },
+{ "en": "policymaker",    "fi": "päättäjä",    "fr": "", "es": "",    "ko": "" },
+
 
 { "en": "delegate",      "fi": "edustaja",       "fr": "délégué", "ko": "대리자" },
 
