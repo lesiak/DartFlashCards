@@ -71,7 +71,7 @@
 
 { "en": "confess",      "fi": "",      "fr": "", "es": "confesar",  "ko": ""},
 
-
+{ "en": "constant, perpetual",      "fi": "ainainen",      "fr": "", "es": "",  "ko": ""},
 
 { "en": "a level",      "fi": "taso",      "fr": "niveau", "es": "(el) nivel",  "ko": ""},
 
@@ -89,7 +89,9 @@
 { "en": "to bury",      "fi": "",      "fr": "", "es": "enterrar",  "ko": ""},
 
 { "en": "to handle",       "fi": "",   "fr":"", "es": "manejar",  "ko": ""},
-{ "en": "to move",       "fi": "",   "fr":"", "es": "mover",  "ko": ""},
+{ "en": "to move",       "fi": "liikkua, siirtää",   "fr":"", "es": "mover",  "ko": ""},
+{ "en": "movement",       "fi": "liike",   "fr":"", "es": "",  "ko": ""},
+
 
 { "en": "to accent",   "ko": "",    "fi": "korostaa",   "fr":""},
 

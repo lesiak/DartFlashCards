@@ -15,9 +15,6 @@
 { "en": "long",         "fi": "pitkä",       "fr": "long",     "es": "largo",      "ko": "길다" },
 { "en": "short",        "fi": "lyhyt",       "fr": "court",    "es": "corto",      "ko": "짧다" },
 
-{ "en": "far",          "fi": "kaukana",     "fr": "loin",     "es": "lejos",      "ko": "멀다" },
-{ "en": "near",         "fi": "lähellä",     "fr": "près de",  "es": "cerca de, cercano",   "ko": "가깝다" },
-{ "en": "next to",      "fi": "vieressä",    "fr": "à côté de","es": "al lado de", "ko": "" },
 
 { "en": "wide",         "fi": "leveä",       "fr": "large",    "es": "ancho [+street, river, trousers], amplio [+space, circle, valley]",  "ko": "넓다" },
 { "en": "wide (extensive)",         "fi": "",       "fr": "",    "es": "amplio [+range, selection], gran [+support, variety]",  "ko": "" },

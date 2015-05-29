@@ -16,7 +16,7 @@
 { "en": "later",      "fi": "myöhemmin", "fr": "plus tard, ensuite",  "es": "más tarde, luego",  "ko": "나중에" },
 { "en": "already",    "fi": "jo",        "fr": "déjà",                "es": "ya" ,        "ko": "벌써, 이미" },
 { "en": "immediately","fi": "heti",      "fr": "immédiatement",       "es": "inmediatamente" , "ko": "바로, 금방" },
-{ "en": "soon",       "fi": "pain",      "fr": "bientôt",             "es": "pronto" , "ko": "" },
+{ "en": "soon",       "fi": "pian",      "fr": "bientôt",             "es": "pronto" , "ko": "" },
 
 { "en": "sometimes",  "fi": "",      "fr": "",                       "es": "a veces" , "ko": "" },
 
@@ -49,13 +49,17 @@
 { "en": "half an hour","fi": "puoli tuntia","fr": "demi-heure",    "es": "(la) media hora",      "ko": "" },
 { "en": "day",         "fi": "päivä",       "fr": "jour",          "es": "(el) día",       "ko": "일" },
 { "en": "week",        "fi": "viikko",      "fr": "semaine",       "es": "(la) semana",    "ko": "주" },
+{ "en": "month",        "fi": "kuukausi",       "fr": "",          "es": "(el) mes",       "ko": "" },
+{ "en": "quarter (part of year)",        "fi": "neljännes",       "fr": "",          "es": "",       "ko": "" },
+ 
 { "en": "year",        "fi": "vuosi",       "fr": "année",         "es": "(el) año",       "ko": "년" },
 { "en": "last year",   "fi": "viime vuonna","fr": "année dernière","es": "el año pasado" , "ko": "작년" },
 { "en": "this year",   "fi": "tänä vuonna", "fr": "cette année",   "ko": "올해" },
 
 { "en": "in one hour", "fi": "",            "fr": "",              "es": "en una hora",   "ko": ""},
 
-{ "en": "late",        "fi": "myöhässä",    "fr": "tard",          "es": "tarde", "ko": "늦다" },
+{ "en": "late (adj)",        "fi": "myöhäinen",    "fr": "",          "es": "", "ko": "" },
+{ "en": "late (adv)",        "fi": "myöhässä",    "fr": "tard",          "es": "tarde", "ko": "늦다" },
 { "en": "early",       "fi": "aikaisin",    "fr": "tôt",           "es": "temprano", "ko": "" },
 
 
