@@ -25,6 +25,9 @@
 { "en": "to (until, time)","fi": "",         "fr": "",                "es": "hasta" , "ko": "" },
 
 { "en": "immediate",  "fi": "",      "fr": "",       "es": "inmediato" , "ko": "" },
+{ "en": "suddenly",  "fi": "yhtäkkiä",      "fr": "",       "es": "de repente" , "ko": "" },
+{ "en": "sudden",  "fi": "äkillinen, yhtäkkinen",      "fr": "",       "es": "repentino, súbito" , "ko": "" },
+ 
 
 { "en": "to last",    "fi": "kestää",     "fr": "durer",              "es": "durar",    "ko": "" },
 

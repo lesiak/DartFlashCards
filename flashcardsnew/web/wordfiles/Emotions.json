@@ -28,6 +28,10 @@
 { "en": "delighted",     "fi": "",      "fr": "","es": "encantado", "ko": "" },
 { "en": "elated",        "fi": "",      "fr": "","es": "jubiloso, eufórico", "ko": "" },
 
+{ "en": "passion",        "fi": "intohimo",      "fr": "","es": "", "ko": "" },
+{ "en": "passionate",        "fi": "intohimoinen",      "fr": "","es": "", "ko": "" },
+
+
 { "en": "indifferent",   "fi": "",      "fr": "","es": "indiferente", "ko": "" },
 
 

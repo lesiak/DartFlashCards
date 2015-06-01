@@ -4,6 +4,8 @@
 
 { "en": "to build",    "fi": "rakentaa",  "fr":"construire", "es": "construir",     "ko": "건조하다"},
 
+{ "en": "to rebuild",    "fi": "uudistaa",  "fr":"", "es": "",     "ko": ""},
+
 { "en": "column",      "fi": "pylväs",    "fr":"",      "es": "(la) columna",     "ko": ""},
 { "en": "dome",        "fi": "kupoli",    "fr":"",      "es": "(la) cúpula",     "ko": ""},
 { "en": "tower",       "fi": "torni",     "fr":"",      "es": "(la) torre",     "ko": ""},

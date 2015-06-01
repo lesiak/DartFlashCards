@@ -46,8 +46,11 @@
 { "en": "curious",      "fi": "",                "fr": "curieux",     "es": "curioso",            "it": "curioso", "ko": "" },
 { "en": "curiosity",      "fi": "",              "fr": "curiosité",   "es": "(la) curiosidad",    "it": "(la) curiosità", "ko": "" },
 
-{ "en": "generous",        "fi": "antelias",       "fr": "généreux",    "es": "generoso",   "ko": "" },
-{ "en": "serious, earnest","fi": "totinen",    "fr": "sérieux",     "es": "serio",      "ko": "" },
+{ "en": "generous",        "fi": "antelias",     "fr": "généreux",    "es": "generoso",   "ko": "" },
+{ "en": "serious, earnest","fi": "totinen",      "fr": "sérieux",     "es": "serio",      "ko": "" },
+
+{ "en": "greedy",          "fi": "ahne",         "fr": "",    "es": "codicioso, ávido",   "ko": "" },
+{ "en": "greedily",        "fi": "ahneesti",     "fr": "",    "es": "ávidamente, con avidez",   "ko": "" },
 
 { "en": "mean, wicked",  "fi": "",               "fr": "méchant",     "es": "malo", "ko": "" },
 { "en": "petty, mean",  "fi": "",               "fr": "",            "es": "mezquino", "ko": "" },

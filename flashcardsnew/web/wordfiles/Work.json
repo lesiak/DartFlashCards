@@ -17,6 +17,9 @@
 { "en": "conference",           "fi": "konferenssi",  "fr": "conférence",     "es": "(la) conferencia",  "ko": "" },
 { "en": "to concentrate",       "fi": "keskittää",    "fr": "(se) concentrer","es": "concentrarse", "ko": "집중하다" },
 
+{ "en": "to innovate",       "fi": "innovoida",    "fr": "","es": "", "ko": "" },
+{ "en": "innovative",       "fi": "innovatiivinen",    "fr": "","es": "", "ko": "" },
+
 
 { "en": "vacation",             "fi": "loma",         "fr": "vacances",    "es": "(las) vacaciones", "ko": "휴가" },
 { "en": "holidays",             "fi": "vapaapäivät",  "fr": "",            "es": "(las) vacaciones",             "ko": "휴가" },

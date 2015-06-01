@@ -9,8 +9,9 @@
 { "en": "to approach, come up",       "ko": "다가오다, 닥치다",    "fi": "lähestyä",    "fr":"aborder, s'approcher"},
 
 { "en": "habit",       "ko": "버릇 (?)",    "fi": "tapa",    "fr":"habitude"},
-
 { "en": "manner (way)",          "fi": "",    "fr": "", "es": "(la) manera",  "ko": "" },
+{ "en": "to get used to (something/doing something)",          "fi": "",    "fr": "", "es": "acostumbrarse (a algo/a hacer algo)",  "ko": "" },
+{ "en": "to get sb used to (something/doing something)",          "fi": "",    "fr": "", "es": "acostumbrar (a alguien a algo/a hacer algo)",  "ko": "" },
 
 { "en": "advantageous, beneficial",      "ko": "이롭다",      "fi": "edullinen", "fr": "avantageux" },
 
