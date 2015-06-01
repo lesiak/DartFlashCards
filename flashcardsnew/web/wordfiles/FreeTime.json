@@ -8,8 +8,12 @@
 { "en": "to raise one's glass", "fi": "",          "fr":"",           "es":"brindar",     "ko": ""},
 { "en": "bouncer", "fi": "",          "fr":"",           "es":"(el) gorila, (el) sacaborrachos",     "ko": ""},
 
-{ "en": "massage", "fi": "",          "fr":"",           "es":"(el) masaje",     "ko": ""},
-{ "en": "to massage", "fi": "",          "fr":"",           "es":"masajear",     "ko": ""}
+{ "en": "massage",        "fi": "hieronta",          "fr":"",           "es":"(el) masaje",     "ko": ""},
+{ "en": "to massage",     "fi": "hieroa",           "fr":"",           "es":"masajear",     "ko": ""},
+
+{ "en": "bachelor party", "fi": "polttarit",         "fr":"",           "es":"masajear",     "ko": ""},
+{ "en": "hen party",      "fi": "polttarit",         "fr":"",           "es":"masajear",     "ko": ""}
+
 
 
 

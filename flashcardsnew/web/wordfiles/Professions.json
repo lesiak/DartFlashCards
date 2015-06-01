@@ -65,6 +65,7 @@
 
 
 { "en": "prostitute",    "fi": "prostituoitu, huora",  "fr": "",   "es": "(la) prostituta",  "ko": "창녀" },
+{ "en": "bitch",         "fi": "narttu",               "fr": "",   "es": "",  "ko": "" },
 
 { "en": "beggar",        "fi": "kerjäläinen", "fr": "mendiant",     "es": "(el) mendigo",    "ko": "거지" },
 { "en": "begging",       "fi": "kerjääminen", "fr": "la mendicité", "es": "(la) mendicidad", "ko": "구걸" },
