@@ -51,7 +51,7 @@
 
 { "en": "become",           "fi": "tulla",       "fr": "devenir",      "es": "hacerse (a teacher, a doctor); volverse (boring, jealous, suspicious); hacerse (old, difficult, stronger); ponerse (happy, sad, thin)", "ko": "되다" },
 { "en": "beginning (noun)", "fi": "alku",        "fr": "début",        "es": "(el) comienzo",      "ko": "처음" },
-{ "en": "last",             "fi": "viime",       "fr": "dernier",      "es": "último",      "ko": "마지막" },
+{ "en": "last",             "fi": "viime, viimeinen", "fr": "dernier",      "es": "último",      "ko": "마지막" },
 
 { "en": "to change",    "fi": "muuttaa",    "fr": "changer",          "es": "cambiar",  "ko": "바꾸다" },
 { "en": "change",       "fi": "muutos",    "fr": "changement",   "es": "(el) cambio", "ko": "바꾸다" },

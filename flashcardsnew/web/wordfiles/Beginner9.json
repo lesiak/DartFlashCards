@@ -1,7 +1,5 @@
 [
 
-
-
 { "en": "disappear",    "fi": "kadota",      "fr":"disparaître",  "ko": ""},
 { "en": "resist",       "fi": "vastustaa",   "fr":"résister",      "es":"resistir", "ko": "" },
 
@@ -11,8 +9,6 @@
 { "en": "to go down",     "fi": "",  "fr":"", "es":"bajar",   "ko": ""},
  
 { "en": "belong (to)",        "fi": "kuulua (+allative)",   "fr": "appartenir (à)", "es": "pertenecer (a)",   "ko": ""},
-
-
 
 { "en": "to tighten (sth)",           "ko": "",    "fi": "kiristää",   "fr":"serrer"},
 { "en": "to tighten (intransitive)",  "ko": "",    "fi": "kiristyä",   "fr":"se resserrer"},
@@ -44,7 +40,6 @@
 { "en": "obligatory",   "ko": " ",    "fi": "pakollinen",   "fr":"obligatoire"},
 { "en": "voluntary",   "ko": "자발적인 ??",    "fi": "vapaaehtoinen",   "fr":"volontaire"},
 { "en": "voluntarily",   "ko": "자발적으로",    "fi": "vapaaehtoisesti",   "fr":"volontairement"},
-
 
 { "en": "to be related to",   "ko": "",    "fi": "",   "fr":"être liée à"},
 
@@ -101,16 +96,11 @@
 { "en": "to fall",        "fi": "",   "fr": "", "es": "caer",  "ko": ""},
 { "en": "a fall",        "fi": "",   "fr": "", "es": "(la) caída",  "ko": ""},
 
-
-
-
 { "en": "to turn, to twist",        "fi": "",   "fr": "", "es": "torcer",  "ko": ""},
 { "en": "weakness, weak point",         "ko": "약점 (weak + point)",       "fi": "heikkous",          "fr": "faiblesse, point faible" },
 
-
 { "en": "to concern",        "fi": "",   "fr": "", "es": "concernir",  "ko": ""},
 { "en": "to convert",        "fi": "",   "fr": "", "es": "convertir",  "ko": ""},
-
 
 { "en": "to transfer",        "fi": "",   "fr": "", "es": "transferir",  "ko": ""},
 
@@ -127,19 +117,20 @@
 
 { "en": "to endure, last",        "fi": "",   "fr": "", "es": "perdurar",  "ko": ""},
 
-{ "en": "opportunity",        "fi": "tilaisuus",   "fr": "occasion", "es": "oportunidad",  "ko": ""},
+{ "en": "opportunity",     "fi": "tilaisuus",   "fr": "occasion", "es": "oportunidad",  "ko": ""},
 
 
-{ "en": "superior",        "fi": "",   "fr": "", "es": "superior",  "ko": ""},
-{ "en": "mixed",        "fi": "",   "fr": "", "es": "mixto",  "ko": ""},
+{ "en": "superior",        "fi": "",            "fr": "",          "es": "superior",  "ko": ""},
+{ "en": "mixed",           "fi": "",            "fr": "",          "es": "mixto",  "ko": ""},
+{ "en": "middle",          "fi": "keskeinen",   "fr":"",           "es": "",   "ko": ""},
 
-{ "en": "to swerve",        "fi": "",   "fr": "", "es": "virar (bruscamente)",  "ko": ""},
+{ "en": "to swerve",       "fi": "",            "fr": "",          "es": "virar (bruscamente)",  "ko": ""},
 
-{ "en": "structure",        "fi": "rakenne",   "fr": "structure", "es": "(la) estructura",  "ko": ""},
-{ "en": "to demolish",        "fi": "",   "fr": "", "es": "demoler",  "ko": ""},
+{ "en": "structure",       "fi": "rakenne",     "fr": "structure", "es": "(la) estructura",  "ko": ""},
+{ "en": "to demolish",     "fi": "",            "fr": "",          "es": "demoler",  "ko": ""},
 
-{ "en": "to rub",          "fi": "hieroa",   "fr":"frotter",   "ko": "비비다"},
-{ "en": "fall asleep",   "ko": "잠들다",    "fi": "nukahtaa",   "fr":"s'endormir"},
+{ "en": "to rub",          "fi": "hieroa",      "fr":"frotter",   "ko": "비비다"},
+{ "en": "fall asleep",     "fi": "nukahtaa",   "fr":"s'endormir",  "ko": "잠들다"},
 { "en": "for sure",   "ko": "꼭",    "fi": "varmasti",   "fr":""},
 { "en": "appear",       "ko": "나타나다",       "fi": "näyttää",    "fr": "apparaître" },
 
@@ -155,12 +146,6 @@
 { "en": "to rationalize",     "fi": "",   "fr":"",     "es": "racionalizar", "ko": ""},
 { "en": "nightmare",       "ko": "악몽 (bad + dream)",       "fi": "painajainen",    "fr": "cauchemar" },
 { "en": "to spit",       "ko": "뱉다",       "fi": "sylkeä",    "fr": "cracher" }
-
-
-
-
-
-
 
 ]
         

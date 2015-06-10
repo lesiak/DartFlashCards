@@ -111,8 +111,16 @@
 
 
 { "en": "behaviour",       "fi": "käyttäytyminen",   "fr": "comportement", "es": "(el) comportamiento",   "ko": ""},
+
+{ "en": "to misbehave",       "fi": "käyttäytyä huonosti",   "fr": "", "es": "",   "ko": ""},
+
+{ "en": "misconduct",       "fi": "rikkomus",   "fr": "", "es": "",   "ko": ""},
+
 { "en": "polite",          "fi": "kohtelias",        "fr": "poli",         "es": "cortés, educado",   "ko": ""},
 { "en": "impolite",        "fi": "epäkohtelias",     "fr": "impoli",       "es": "descortés",   "ko": ""},
+
+{ "en": "effective",        "fi": "tehokas",     "fr": "",       "es": "",   "ko": ""},
+{ "en": "efficient",        "fi": "efficient, suorituskykyinen",     "fr": "",       "es": "",   "ko": ""},
 
 
 { "en": "to seduce",       "fi": "",     "fr": "",    "es": "seducir",  "ko": "" },

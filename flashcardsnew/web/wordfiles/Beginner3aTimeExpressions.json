@@ -74,8 +74,10 @@
 
 { "en": "awhile",        "ko": "잠깐",          "fi": "hetken",    "fr": "" },
 { "en": "first (adv, in time or sequence)",        "ko": "먼저",          "fi": "",    "fr": "" },
-{ "en": "recently",     "fi": "äskettäin",    "fr": "récemment",    "es": "recientemente",   "ko": "최근에" }
-
+{ "en": "recently",     "fi": "äskettäin",    "fr": "récemment",    "es": "recientemente",   "ko": "최근에" },
+{ "en": "finally",     "fi": "lopulta, viimein",    "fr": "",    "es": "",   "ko": "" },
+{ "en": "simultaneously, at the same time",     "fi": "samanaikaisesti",    "fr": "",    "es": "",   "ko": "" },
+{ "en": "simultaneous",     "fi": "samanaikainen",    "fr": "",    "es": "",   "ko": "" }
 
 
 

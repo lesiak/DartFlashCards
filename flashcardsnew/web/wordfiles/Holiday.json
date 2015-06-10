@@ -7,6 +7,8 @@
 { "en": "a booking",    "fi": "",                 "fr": "",            "es": "(la) reserva",        "ko": "" },
 
 { "en": "to travel",  "fi": "matkustaa",        "fr": "voyager",     "es": "viajar",          "ko": "여행하다" },
+{ "en": "a journey",  "fi": "matka",        "fr": "",     "es": "",          "ko": "" },
+
 { "en": "tourist",    "fi": "turisti, matkailija","fr": "touriste" , "es": "(el) turista",    "ko": "관광객"},
 { "en": "photo",      "fi": "kuva",             "fr": "photo",       "es": "(la) foto",       "ko": "사진" },
 { "en": "to take (a photo)", "fi": "ottaa kuvaa","fr": "",           "es": "tomar (una foto)","ko": "찍다"},

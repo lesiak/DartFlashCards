@@ -1,7 +1,7 @@
 [
 
 
-{ "en": "bring",       "fi": "touda",    "fr": "apporter, amener",     "es": "traer",       "ko": "가져오다"},
+{ "en": "bring",       "fi": "tuoda",    "fr": "apporter, amener",     "es": "traer",       "ko": "가져오다"},
 { "en": "leave (sth behind)", "fi": "jättää",  "fr": "laisser",        "es": "dejar",   "ko": " 남기다" },
 
 { "en": "come",        "fi": "tulla",    "fr": "venir",   "es": "venir",  "ko": "오다" },
@@ -9,7 +9,9 @@
 { "en": "to walk",     "fi": "kävellä",    "fr": "marcher, se promener", "es": "andar, caminar", "ko": "걸어가다" },
 { "en": "a walk",      "fi": "kävely",      "fr": "promenade","es": "(el) paseo, (la) caminata", "ko": "산책" },
 { "en": "to go for a walk", "fi": "",      "fr": "","es": "ir de paseo", "ko": "" },
-{ "en": "stay (in place) (remain)",    "fi": "jäädä",    "fr": "rester",  "es": "quedarse; permanecer",   "ko": "머무르다" },
+{ "en": "stay (in place) (remain)",    "fi": "jäädä, pysyä, viipyä",    "fr": "rester",  "es": "quedarse; permanecer",   "ko": "머무르다" },
+{ "en": "to linger", "fi": "viipyä",            "fr":"",         "es":"", "ko": ""},
+{ "en": "to overstay", "fi": "viipyä liian kauan",            "fr":"",         "es":"", "ko": ""},
 { "en": "to follow (person, path, route)", "fi": "",            "fr":"",         "es":"seguir", "ko": ""},  
   
 { "en": "think",       "fi": "ajatella",    "fr": "penser",    "es": "pensar", "ko": "생각하다" },
@@ -19,6 +21,7 @@
 
 { "en": "live, dwell", "fi": "asua",        "fr": "habiter",  "es": "vivir",  "ko": "살다" },
 { "en": "here",        "fi": "täällä",      "fr": "ici",      "es": "aquí",   "ko": "여기에" },
+{ "en": "there",       "fi": "siellä",      "fr": "",      "es": "",   "ko": "" },
 
 { "en": "to hold",     "fi": "",      "fr": "tenir",      "es": "tener",   "ko": "" },
 
@@ -33,11 +36,13 @@
 
 { "en": "to begin (to do sth), start (doing sth)",       "fi": "alkaa",    "fr": "commencer", "es": "empezar, comenzar",  "ko": "시작하다"},
 { "en": "to begin, start (intr)",          "fi": "aloittaa",    "fr": "",  "es": "empezar, comenzar",  "ko": "" },
-{ "en": "to stop (movement of sth)",   "fi": "",    "fr": "", "es": "parar", "ko": "" },
-{ "en": "to stop (doing sth)",   "fi": "",    "fr": "", "es": "dejar (de hacer algo)", "ko": "" },
+{ "en": "to stop (movement of sth)",   "fi": "pysäyttää, loppua",    "fr": "", "es": "parar", "ko": "멈추다" },
+{ "en": "to stop (cease moving)",   "fi": "pysähtyä",    "fr": "", "es": "parar", "ko": "그치다, 정지하다, 서다" },
+{ "en": "to stop (doing sth)",   "fi": "pysäyttää (fi), lopettaa",    "fr": "", "es": "dejar (de hacer algo)", "ko": "" },
 { "en": "finish (intr)", "fi": "loppua",    "fr": "finir, terminer",  "es": "terminar, acabar", "ko": "끝나다" },
 { "en": "finish (sth)",  "fi": "lopettaa",  "fr": "finir, terminer",  "es": "terminar, acabar", "ko": "끝내다" },
 { "en": "to end up",     "fi": "joutua",    "fr": "?",                "es": "terminar",  "ko": " ?"},
+{ "en": "(the) end",     "fi": "loppu",    "fr": "",                "es": "",  "ko": " ?"},
 
 { "en": "to smoke",     "fi": "tupakoida","fr": "fumer",       "es": "fumar",         "ko": "피우다" },
 { "en": "cigarette",    "fi": "savuke",   "fr": "cigarette",   "es": "(el) cigarrillo, (el) cigarro", "ko": "담배" },

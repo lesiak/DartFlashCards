@@ -26,8 +26,8 @@
 { "en": "Asia",          "fi": "Aasia",        "fr": "Asie",            "es": "(la) Asia",        "ko": "아시아" },
 { "en": "country",       "fi": "maa",          "fr": "pays",            "es": "(el) país",        "ko": "나라" },
 { "en": "population",    "fi": "",             "fr": "population",      "es": "(la) población",   "ko": "" },
-{ "en": "flag",          "fi": "lippu",        "fr": "drapeau",         "es": "(la) bandera",     "ko": "" }
-
+{ "en": "flag",          "fi": "lippu",        "fr": "drapeau",         "es": "(la) bandera",     "ko": "" },
+{ "en": "foreign",       "fi": "ulkomainen",        "fr": "",         "es": "",     "ko": "" }
 
 
 ]

@@ -36,6 +36,8 @@
 
 { "en": "station",     "fi": "asema" ,       "fr":"station",   "es": "(la) estación",   "ko": "역"},
 { "en": "platform",    "fi": "asemalaituri", "fr":"quai",      "es": "(el) andén",      "ko": "플랫폼, 승강장"},
+ 
+{ "en": "(railroad) track",      "fi": "rata",        "fr": "",   "es": "",    "ko": "" },
 { "en": "ticket",      "fi": "lippu",        "fr": "billet",   "es": "(el) billete",    "ko": "표" },
 
 { "en": "carriage",      "fi": "vaunu",        "fr": "voiture", "es": "(el) vagón",    "ko": "" },
@@ -75,6 +77,7 @@
 { "en": "line",           "fi": "linja",     "fr": "ligne","ko": "호선" },
 { "en": "route",          "fi": "reitti",    "fr": "itinéraire, route","ko": "노선" },
 { "en": "license plate",  "fi": "rekisterikilpi",    "fr": "plaque d'immatriculation", "es": "(la) matrícula, (la) placa",  "ko": "번호판" },
+{ "en": "engine, motor",       "fi": "moottori",   "fr": "",           "es": "",        "ko": "" },
 { "en": "steering wheel", "fi": "",          "fr": "volant",     "es": "(el) volante",      "ko": "" },
 { "en": "brake",          "fi": "jarru",     "fr": "frein",      "es": "(el) freno",        "ko": "" },
 { "en": "headlight",      "fi": "",          "fr": "phare",      "es": "(el) faro",        "ko": "" },
@@ -85,6 +88,8 @@
 { "en": "to overtake",     "fi": "ohittaa",   "fr": "",           "es": "adelantar",        "ko": "" },
 { "en": "to bypass",       "fi": "ohittaa",   "fr": "",           "es": "",        "ko": "" },
 { "en": "to honk",       "fi": "tuutata",   "fr": "klaxonner",           "es": "tocar la bocina",        "ko": "" },
+
+
 
 { "en": "driving licence",  "fi": "ajokortti",  "fr": "permis de conduire","es": "(el) carnet de conducir",        "ko": "" },
 

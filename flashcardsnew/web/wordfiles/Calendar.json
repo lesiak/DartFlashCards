@@ -32,5 +32,6 @@
 
 { "en": "future",     "fi": "tulevaisuus",  "fr": "avenir",     "es": "(el) futuro",  "it": "(il) futuro, (il) avvenire", "ko": "미래"   },
 { "en": "past",       "fi": "menneisyys",   "fr": "passé",      "es": "(el) pasado",  "it": "(il) passato",  "ko": "과거" },
-{ "en": "century",    "fi": "vuosisata",    "fr": "siècle",     "es": "(el) siglo",   "it": "(il) secolo",  "ko": "세기" }
+{ "en": "century",    "fi": "vuosisata",    "fr": "siècle",     "es": "(el) siglo",   "it": "(il) secolo",  "ko": "세기" },
+{ "en": "past (adj)",       "fi": "mennyt",   "fr": "",      "es": "",  "it": "",  "ko": "" }
 ]

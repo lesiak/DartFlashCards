@@ -13,6 +13,7 @@
 { "en": "lift",       "fi": "hissi" ,    "fr":"ascenseur",  "es": "(el) ascensor", "ko": "엘리베이터"},
 { "en": "staircase",  "fi": "portaikko" ,"fr":"escalier",   "es": "(la) escalera", "ko": "계단"},
 { "en": "road",       "fi": "tie" ,      "fr":"route",      "es": "(el) camino, (la) carretera",    "ko": "길"},
+{ "en": "way (road)", "fi": "tie" ,      "fr":"",      "es": "",    "ko": ""},
 { "en": "street",     "fi": "katu" ,     "fr":"rue",        "es": "(la) calle",         "ko": "거리"},
 { "en": "avenue",     "fi": "katu" ,     "fr":"rue",        "es": "(la) avenida",       "ko": ""},
 { "en": "alley, backstreet", "fi": "kuja", "fr":"ruelle",   "es": "(el) callejón",      "ko": "골목"},
