@@ -30,7 +30,7 @@
 { "en": "airport",     "fi": "lentokenttä",  "fr": "aéroport", "es": "(el) aeropuerto", "ko": "공항" },
 { "en": "balloon",     "fi": "ilmapallo",    "fr": "ballon",   "es": "(el) globo",      "ko": "풍선" },
 { "en": "to fly",      "fi": "lentää",       "fr": "voler",    "es": "volar",           "ko": "날다" },
-{ "en": "to drive",    "fi": "kuljettaa",    "fr": "conduire", "es": "conducir",        "ko": "운전하다" },
+{ "en": "to drive",    "fi": "kuljettaa, ajaa (autoa)",    "fr": "conduire", "es": "conducir",        "ko": "운전하다" },
 { "en": "driver",      "fi": "kuljettaja",   "fr": "conducteur","es": "(el) conductor", "ko": "운전사" },
 { "en": "driving",      "fi": "ajo",   "fr": "","es": "", "ko": "" },
 

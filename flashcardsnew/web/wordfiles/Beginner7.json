@@ -5,6 +5,7 @@
 { "en": "when (?)",      "fi": "milloin",    "fr": "",  "es": "",    "ko": "" },
 { "en": "this",         "fi": "tämä",   "fr": "",   "es": "",    "ko": "" },
 { "en": "that",         "fi": "tuo",   "fr": "",   "es": "",    "ko": "" },
+{ "en": "these",         "fi": "nämä",   "fr": "",   "es": "",    "ko": "" },
 
 { "en": "to approach, go near",       "ko": "다가가다",    "fi": "lähestyä",    "fr":"aborder, s'approcher"},
 { "en": "to approach, come up",       "ko": "다가오다, 닥치다",    "fi": "lähestyä",    "fr":"aborder, s'approcher"},

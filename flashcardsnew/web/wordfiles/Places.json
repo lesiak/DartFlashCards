@@ -13,9 +13,10 @@
 { "en": "on top, above",       "fi": "yllä, yläpuolella",  "fr": "",  "es": "encima de",        "ko": "" },
 
 { "en": "below",               "fi": "alla",    "fr": "au-dessous", "es": "abajo",         "ko": "" },
-{ "en": "around",               "fi": "",    "fr": "", "es": "alrededor (de)",         "ko": "" },
-{ "en": "up",               "fi": "ylös",    "fr": "", "es": "",         "ko": "" },
-{ "en": "down",               "fi": "alas",    "fr": "", "es": "",         "ko": "" },
+{ "en": "over",                "fi": "yli",     "fr": "",           "es": "",         "ko": "" },
+{ "en": "around",              "fi": "",        "fr": "",           "es": "alrededor (de)",         "ko": "" },
+{ "en": "up",                  "fi": "ylös",    "fr": "",           "es": "",         "ko": "" },
+{ "en": "down",                "fi": "alas",    "fr": "",           "es": "",         "ko": "" },
 
 { "en": "between",               "fi": "välillä, välissä",    "fr": "", "es": "",         "ko": "" },
 
@@ -24,7 +25,7 @@
 { "en": "through",               "fi": "läpi",    "fr": "", "es": "",         "ko": "" },
 { "en": "topmost",               "fi": "ylimmäinen",    "fr": "", "es": "",         "ko": "" },
 
-
+{ "en": "edge, border",               "fi": "reuna",    "fr": "", "es": "",         "ko": "" },
 
 { "en": "somewhere",               "fi": "",    "fr": "", "es": "jossakin",         "ko": "" },
 

@@ -34,9 +34,10 @@
 { "en": "swimming pool","fi": "uimahalli",  "fr": "piscine",    "es": "(la) piscina",       "ko": "수영장" },
 { "en": "swimming",     "fi": "uinti",      "fr": "natation",   "es": "(la) natación",   "ko": "수영" },
 
-{ "en": "to sail",        "fi": "purjehtia",        "fr": "",      "es": "",   "ko": "" },
+{ "en": "to sail",       "fi": "purjehtia",     "fr": "",      "es": "",   "ko": "" },
+{ "en": "to row",        "fi": "soutaa",        "fr": "",      "es": "",   "ko": "" },
 
-{ "en": "to compete",        "fi": "kilpailla",   "fr": "", "es": "competir",  "ko": ""},
+{ "en": "to compete",     "fi": "kilpailla",   "fr": "", "es": "competir",  "ko": ""},
 { "en": "to race",        "fi": "kilpailla",   "fr": "", "es": "",  "ko": ""},
 { "en": "competition (sport)",  "fi": "kilpailu, kisat" , "fr":"concours, compétition","es":"(la) competición",    "ko": "경기 (競  “contest” and 技 “talent”)"},
 { "en": "competition",  "fi": "" , "fr":"compétition","es":"(la) competencia",    "ko": ""},

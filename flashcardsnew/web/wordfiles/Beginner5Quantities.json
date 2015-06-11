@@ -17,7 +17,7 @@
 
 { "en": "really",     "fi": "todella",         "fr": "vraiment",   "ko": "정말" },
 { "en": "not really", "fi": "",                "fr": "",            "ko": "별로" },
-{ "en": "hardly",     "fi": "",                "fr": "" ,  "es": "apenas",  "ko": ""}
-
+{ "en": "hardly",     "fi": "",                "fr": "" ,  "es": "apenas",  "ko": ""},
+{ "en": "about, around (approximately)",     "fi": "noin",                "fr": "" ,  "es": "",  "ko": ""}
   
 ]
