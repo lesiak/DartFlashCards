@@ -51,8 +51,10 @@
 
 { "en": "due (to)",       "fi": "",      "fr": "grâce (à)", "es": "debido (a)",  "ko": ""},
 { "en": "to happen",      "fi": "",      "fr": "", "es": "pasar",  "ko": ""},
+{ "en": "impact",      "fi": "vaikutus",      "fr": "", "es": "",  "ko": ""},
 
 { "en": "to waste",      "fi": "",      "fr": "", "es": "perder",  "ko": ""},
+{ "en": "to exploit, utilize",      "fi": "hyödyntää",      "fr": "", "es": "",  "ko": ""},
 
 
 { "en": "ready, willing",      "fi": "",      "fr": "", "es": "dispuesto",  "ko": ""},
@@ -123,6 +125,7 @@
 { "en": "superior",        "fi": "",            "fr": "",          "es": "superior",  "ko": ""},
 { "en": "mixed",           "fi": "",            "fr": "",          "es": "mixto",  "ko": ""},
 { "en": "middle",          "fi": "keskeinen",   "fr":"",           "es": "",   "ko": ""},
+{ "en": "to culminate",          "fi": "kärjistyä",   "fr":"",           "es": "",   "ko": ""},
 
 { "en": "to swerve",       "fi": "",            "fr": "",          "es": "virar (bruscamente)",  "ko": ""},
 

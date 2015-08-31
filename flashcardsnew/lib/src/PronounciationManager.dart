@@ -72,7 +72,7 @@ class PronounciationManager {
         var filename = _makeitemFileName(word, item);
         Future ret = fileCache.readEntry(lang, filename)
         .then( (entry) {
-          print('already exists ${filename}, at url: ${item.pathogg}');
+          print('already exists ${filename}, at: ${entry.fullPath}');
           return entry;
         })
         .catchError((error) => _fetchMp3(lang, word, item))
