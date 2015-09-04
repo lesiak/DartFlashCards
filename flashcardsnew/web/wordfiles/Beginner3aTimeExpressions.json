@@ -13,8 +13,6 @@
 { "en": "yet",       "fi": "vielä",      "fr": "encore",   "es": "todavía, aún (still), ya (in questions)",   "ko": "아직" },
 { "en": "still",     "fi": "vielä",      "fr": "encore",   "es": "todavía, aún",                              "ko": ""},
 
-{ "en": "until",     "fi": "asti (tähän asti, siihen asti), kunnes",      "fr": "",   "es": "",                              "ko": ""},
-
 { "en": "later",      "fi": "myöhemmin", "fr": "plus tard, ensuite",  "es": "más tarde, luego",  "ko": "나중에" },
 { "en": "already",    "fi": "jo",        "fr": "déjà",                "es": "ya" ,        "ko": "벌써, 이미" },
 { "en": "immediately","fi": "heti",      "fr": "immédiatement",       "es": "inmediatamente" , "ko": "바로, 금방" },

@@ -13,6 +13,8 @@
 { "en": "kingdom",       "fi": "kuningaskunta, valtakunta",       "fr": "royaume" ,    "es": "(el) reino",      "ko": ""},
 { "en": "authorities",   "fi": "viranomaiset",   "fr": "autorités",    "es": "(las) autoridades",    "ko": "당국" },
 
+{ "en": "institution",   "fi": "laitos",   "fr": "",    "es": "(la) institución",    "ko": "" },
+
 { "en": "society",        "fi": "yhteiskunta",            "fr": "société",     "es": "(la) sociedad",  "ko": "사회" },
 { "en": "nation",         "fi": "kansakunta",             "fr": "nation",      "es": "(la) nación",  "ko": "" },
 { "en": "national",       "fi": "kansallinen",            "fr": "national",    "es": "nacional",  "ko": "" },

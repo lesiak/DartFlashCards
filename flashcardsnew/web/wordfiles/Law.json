@@ -18,6 +18,7 @@
 
 { "en": "victim",            "fi": "uhri",     "fr": "victime",           "es": "(la) víctima",  "ko": "희생자"   },
 
+  { "en": "penalty",           "fi": "rangaistus",   "fr": "",                  "es": "",  "ko": ""},
 
 { "en": "illegal",           "fi": "laiton",   "fr": "",                  "es": "ilegal",  "ko": ""},
 { "en": "a witness",         "fi": "todistaja","fr": "",                  "es": "(el) testigo",  "ko": ""},

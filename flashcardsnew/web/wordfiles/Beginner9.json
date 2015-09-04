@@ -7,7 +7,7 @@
 { "en": "exception",       "fi": "poikkeus",  "fr": "exception",  "es": "(la) excepción",   "ko": ""},
 
 { "en": "to go down",     "fi": "",  "fr":"", "es":"bajar",   "ko": ""},
- 
+
 { "en": "belong (to)",        "fi": "kuulua (+allative)",   "fr": "appartenir (à)", "es": "pertenecer (a)",   "ko": ""},
 
 { "en": "to tighten (sth)",           "ko": "",    "fi": "kiristää",   "fr":"serrer"},
@@ -51,11 +51,14 @@
 
 { "en": "due (to)",       "fi": "",      "fr": "grâce (à)", "es": "debido (a)",  "ko": ""},
 { "en": "to happen",      "fi": "",      "fr": "", "es": "pasar",  "ko": ""},
-{ "en": "impact",      "fi": "vaikutus",      "fr": "", "es": "",  "ko": ""},
 
 { "en": "to waste",      "fi": "",      "fr": "", "es": "perder",  "ko": ""},
+<<<<<<< HEAD
 { "en": "to exploit, utilize",      "fi": "hyödyntää",      "fr": "", "es": "",  "ko": ""},
+{ "en": "facility",      "fi": "laitos",      "fr": "", "es": "",  "ko": ""},
+=======
 
+>>>>>>> parent of 06634c1... Updated to Dart 11.1.3
 
 { "en": "ready, willing",      "fi": "",      "fr": "", "es": "dispuesto",  "ko": ""},
 
@@ -125,7 +128,6 @@
 { "en": "superior",        "fi": "",            "fr": "",          "es": "superior",  "ko": ""},
 { "en": "mixed",           "fi": "",            "fr": "",          "es": "mixto",  "ko": ""},
 { "en": "middle",          "fi": "keskeinen",   "fr":"",           "es": "",   "ko": ""},
-{ "en": "to culminate",          "fi": "kärjistyä",   "fr":"",           "es": "",   "ko": ""},
 
 { "en": "to swerve",       "fi": "",            "fr": "",          "es": "virar (bruscamente)",  "ko": ""},
 

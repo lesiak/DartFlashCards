@@ -4,8 +4,6 @@
 { "en": "company",           "fi": "yritys, yhtiö",      "fr": "entreprise, société",   "es": "(la) empresa", "ko": "회사" },
 
 { "en": "office",            "fi": "toimisto, konttori", "fr": "bureau",   "es": "(la) oficina",  "ko": "사무실" },
-{ "en": "department",        "fi": "osasto", "fr": "",   "es": "",  "ko": "" },
-{ "en": "unit (department)", "fi": "yksikkö", "fr": "",   "es": "",  "ko": "" },
 { "en": "project",           "fi": "hanke, projekti",    "fr": "projet",   "es": "(el) proyecto",  "ko": "" },
 { "en": "plan (program)",    "fi": "ohjelma",            "fr": "plan",     "es": "(el) plan",  "ko": "" },
 
@@ -48,16 +46,18 @@
 { "en": "repair",           "fi": "korjaus",    "fr": "",         "es": "(la) reparación, (el) arreglo",  "ko": "수리" },
 { "en": "to repair",        "fi": "korjata",    "fr": "réparer",  "es": "reparar, arreglar",   "ko": "수리하다" },
 { "en": "to fix",           "fi": "korjata",    "fr": "réparer",  "es": "fijar",     "ko": "" },
+  { "en": "to damage",      "fi": "vahingoittaa" , "fr": "",  "es": "",  "ko": ""},
+  { "en": "damage",         "fi": "vahinko" , "fr": "",  "es": "",  "ko": ""},
+  { "en": "to destroy",     "fi": "tuhota" , "fr": "",  "es": "",  "ko": ""},
+  { "en": "to spoil, ruin", "fi": "pilata" ,        "fr": "",  "es": "",  "ko": ""},
+  { "en": "to screw up",    "fi": "munata, tyriä", "fr": "",  "es": "",  "ko": ""},
 
 { "en": "a document",       "fi": "asiakirja, dokumentti",  "fr": "document", "es": "(el) documento",  "ko": ""},
 { "en": "analysis",         "fi": "",                       "fr": "",         "es": "(el) análisis",  "ko": ""},
 { "en": "report",           "fi": "selvitys, raportti",     "fr": "rapport",  "ko": "보고서" },
 
 
-{ "en": "to retire",        "fi": "",                "fr": "",    "es": "retirarse, jubilarse", "ko": "은퇴하다" },
-{ "en": "to fire, to sack", "fi": "antaa potkut",    "fr": "",    "es": "", "ko": "" },
-{ "en": "to resign",        "fi": "erota",    "fr": "",    "es": "", "ko": "" },
-
+{ "en": "to retire",        "fi": "",    "fr": "",    "es": "retirarse, jubilarse", "ko": "은퇴하다" },
 
 { "en": "Pleased to meet you",   "fi": "Ilo tavata",    "fr": "c'est un plaisir de vous rencontrer, ravi de vous avoir rencontré",  "es": "encantado de conocerte (conocerle)", "ko": "만나서 반가워요" },
 { "en": "introduce (person)",    "fi": "esitellä",    "fr": "introduire",  "es": "presentar",   "ko": "소개하다" },

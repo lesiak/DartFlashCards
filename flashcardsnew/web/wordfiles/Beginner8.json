@@ -14,7 +14,8 @@
 { "en": "dependence (reliance)","fi": "riippuvuus",            "fr": "dépendance",   "es": "(la) dependencia",  "ko": "" },
 { "en": "independence",         "fi": "riippumattomuus",       "fr": "indépendance", "es": "(la) independencia",  "ko": ""},
 
-{ "en": "own",        "ko": "자기의",          "fi": "oma",    "fr": "propre" },
+{ "en": "own",             "fi": "oma",    "fr": "propre",  "ko": "자기의" },
+  { "en": "to own, possess",             "fi": "omistaa",    "fr": "",  "ko": "" },
 { "en": "pretext",         "fi": "tekosyy",       "fr": "prétexte",   "es": "(el) pretexto",  "ko": "핑계" },
 
 { "en": "long, for a long time",        "ko": "오래",          "fi": "kauan",    "fr": "longtemps" },
@@ -28,6 +29,8 @@
 { "en": "replacement",        "ko": "",          "fi": "korvaaminen, korvaus",       "fr": "remplacement" },
 
 { "en": "landowner",          "fi": "",       "fr": "", "es": "(el) terrateniente", "ko": "" },
+  { "en": "refugee",          "fi": "pakolainen",       "fr": "", "es": "", "ko": "" },
+
 
 { "en": "to deny",      "fi": "",      "fr": "", "es": "negar",  "ko": ""},
 { "en": "to agree",      "fi": "",      "fr": "", "es": "acordar",  "ko": ""},

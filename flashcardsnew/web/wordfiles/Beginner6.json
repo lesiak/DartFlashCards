@@ -16,6 +16,8 @@
 
 { "en": "(to be) capable (of)",   "fi": "pystyä (jhk), pystyä tekemään jtk",   "fr": "capable (de)",   "es": "capaz (de)", "ko": ""},
 
+  { "en": "to raise",      "fi": "nostaa, korottaa" , "fr": "",  "es": "", "ko": ""},
+  { "en": "a raise",      "fi": "nosto, korotus" , "fr": "",  "es": "", "ko": ""},
 
 { "en": "possible",   "fi": "mahdollinen",  "fr":"possible",    "es":"posible",  "ko": ""},
 { "en": "possibility","fi": "mahdollisuus", "fr":"possibilité", "es":"(la) posibilidad", "ko": ""},
@@ -47,7 +49,6 @@
 
 { "en": "likely (probable)",  "ko": "음직하다",   "fi": "todennäköinen",    "fr": "probable" },
 { "en": "likely (probably)",  "ko": "아마도",     "fi": "todennäköisesti",  "fr": "probablement" },
-
 
 { "en": "to complain",   "fi": "valittaa",     "fr": "plaindre, se plaindre",  "es": "quejarse",     "ko": "불평하다" },
 { "en": "complaint",     "fi": " valitus",     "fr": "plainte",                "es": "(la) queja",   "ko": "불평" },
