@@ -53,12 +53,9 @@
 { "en": "to happen",      "fi": "",      "fr": "", "es": "pasar",  "ko": ""},
 
 { "en": "to waste",      "fi": "",      "fr": "", "es": "perder",  "ko": ""},
-<<<<<<< HEAD
+
 { "en": "to exploit, utilize",      "fi": "hyödyntää",      "fr": "", "es": "",  "ko": ""},
 { "en": "facility",      "fi": "laitos",      "fr": "", "es": "",  "ko": ""},
-=======
-
->>>>>>> parent of 06634c1... Updated to Dart 11.1.3
 
 { "en": "ready, willing",      "fi": "",      "fr": "", "es": "dispuesto",  "ko": ""},
 
