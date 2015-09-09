@@ -26,9 +26,10 @@ class CardUtils {
     if (lang == "en") {
       if (word.startsWith("to ")) {
         word = word.substring(3);
-      }
-      else if (word.startsWith("a ")) {
+      } else if (word.startsWith("a ")) {
         word = word.substring(2);
+      } else if (word.startsWith("an ")) {
+        word = word.substring(3);
       }
     }
     return word.trim();

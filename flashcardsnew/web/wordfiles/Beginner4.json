@@ -81,6 +81,7 @@
 { "en": "to consider",     "fi": "harkita",           "fr": "envisager, considérer",   "es": "considerar", "ko": "고려하다" },
 { "en": "believe",         "fi": "uskoa (siihen)",    "fr": "croire",                  "es": "creer",  "ko": "믿다" },
 { "en": "to expect",       "fi": "odottaa",           "fr": "attendre",                "es": "esperar",    "ko": "예상하다, 기대하다" },
+  { "en": "expectation",       "fi": "odotus",           "fr": "",                "es": "",    "ko": "" },
 { "en": "to intend",       "fi": "aikoa",             "fr": "avoir l'intention",       "es": "tener la intención (de)",    "ko": "" },
 { "en": "to suppose",      "fi": "",                  "fr": "",                        "es": "suponer",  "ko": ""},
 { "en": "supposed",        "fi": "",                  "fr": "",                        "es": "supuesto",  "ko": ""},

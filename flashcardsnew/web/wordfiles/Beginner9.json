@@ -4,6 +4,8 @@
 { "en": "resist",       "fi": "vastustaa",   "fr":"résister",      "es":"resistir", "ko": "" },
 
 { "en": "variation (change)",   "ko": "",    "fi": "vaihtelu",  "fr":"variation"},
+  { "en": "alternative",   "fi": "vaihtoehto",  "fr":"",  "ko": ""},
+  { "en": "option",        "fi": "vaihtoehto",  "fr":"",  "ko": ""},
 { "en": "exception",       "fi": "poikkeus",  "fr": "exception",  "es": "(la) excepción",   "ko": ""},
 
 { "en": "to go down",     "fi": "",  "fr":"", "es":"bajar",   "ko": ""},
