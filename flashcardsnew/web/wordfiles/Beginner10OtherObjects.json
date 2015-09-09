@@ -22,9 +22,9 @@
 { "en": "hole punch",    "fi": "",              "fr": "perforatrice",   "es": "(la) perforadora", "ko": "호치키스"},
 { "en": "a (post) stamp","fi": "postimerkki",   "fr": "timbre",      "es": "(el) sello", "ko": "우표"},
 
-
-{ "en": "doll",          "fi": "nukke",    "fr": "poupée",    "es": "(la) muñeca",  "ko": "인형" },
-{ "en": "tape",          "fi": "nauha",    "fr": "bande",    "es": "(la) cinta", "ko": "" }
+  { "en": "toy",          "fi": "lelu",     "fr": "",    "es": "",  "ko": "" },
+  { "en": "doll",         "fi": "nukke",    "fr": "poupée",    "es": "(la) muñeca",  "ko": "인형" },
+  { "en": "tape",         "fi": "nauha",    "fr": "bande",    "es": "(la) cinta", "ko": "" }
 
 
 

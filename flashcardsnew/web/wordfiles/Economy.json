@@ -17,6 +17,8 @@
 { "en": "crisis",        "fi": "",            "fr": "",           "es": "(la) crisis",   "ko": "" },
 { "en": "growth",        "fi": "",            "fr": "",           "es": "(la) crecimiento",   "ko": "" },
 { "en": "a fall",        "fi": "",            "fr": "",           "es": "(la) caída",   "ko": "" },
+
+  { "en": "merger",        "fi": "fuusio",            "fr": "",           "es": "",   "ko": "" },
  
 
 { "en": "interchange",        "fi": "",            "fr": "",           "es": "(el) intercambio",   "ko": "" },

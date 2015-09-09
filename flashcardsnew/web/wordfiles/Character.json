@@ -88,6 +88,10 @@
 
 { "en": "careless",     "fi": "varomaton",       "fr": "négligent",   "es": "negligente",  "ko": "" },
 
+  { "en": "merciful",     "fi": "armelias",       "fr": "",   "es": "",  "ko": "" },
+  { "en": "merciless",     "fi": "armoton",       "fr": "",   "es": "",  "ko": "" },
+  { "en": "mercy",     "fi": " armo, laupeus",       "fr": "",   "es": "",  "ko": "" },
+
 { "en": "enthusiastic", "fi": "innostunut",     "fr": "enthousiaste", "es": "entusiasmado",  "ko": "" },
 { "en": "mischievous",  "fi": "ilkikurinen",    "fr": "malicieux",    "es": "malvado",  "ko": "" },
 

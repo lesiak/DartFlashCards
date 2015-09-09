@@ -14,7 +14,8 @@
 
 
 { "en": "phone",        "fi": "puhelin",    "fr": "téléphone",    "es": "(el) teléfono",   "ko": "전화" },
-{ "en": "cell phone",   "fi": "kännykkä, matkapuhelin",  "fr": "portable", "es": "(el) móvil",  "ko": "핸드폰, 휴대전화, 휴대폰" }, 
+{ "en": "cell phone",   "fi": "kännykkä, matkapuhelin",  "fr": "portable", "es": "(el) móvil",  "ko": "핸드폰, 휴대전화, 휴대폰" },
+  { "en": "smartphone",   "fi": "älypuhelin",  "fr": "", "es": "",  "ko": "" },
 { "en": "number",       "fi": "numero",     "fr": "numéro",       "es": "(el) número",   "ko": "번호" },
 { "en": "to call (by phone)",      "fi": "(puhelimella) soittaa",    "fr": " appeler, téléphoner",         "es": "llamar", "ko": "" },
 
