@@ -15,7 +15,7 @@ class PronounciationManager {
                                                    'floridagirl',
                                                    'guijaran2']);
   
-  static Set<String> bannedUsers = new Set.from(['jcung']);
+  static Set<String> bannedUsers = new Set.from(['jcung', 'MytoonKitty56']);
   
   FileCache fileCache;
   

@@ -69,7 +69,11 @@
 
 { "en": "beggar",        "fi": "kerjäläinen", "fr": "mendiant",     "es": "(el) mendigo",    "ko": "거지" },
 { "en": "begging",       "fi": "kerjääminen", "fr": "la mendicité", "es": "(la) mendicidad", "ko": "구걸" },
-{ "en": "to beg",        "fi": "kerjätä",     "fr": "mendier",      "es": "mendigar",        "ko": "구걸하다" }
+{ "en": "to beg",        "fi": "kerjätä",     "fr": "mendier",      "es": "mendigar",        "ko": "구걸하다" },
+
+  { "en": "landowner",          "fi": "",       "fr": "", "es": "(el) terrateniente", "ko": "" },
+  { "en": "refugee",          "fi": "pakolainen",       "fr": "", "es": "", "ko": "" }
+
 
 
 

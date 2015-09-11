@@ -18,6 +18,7 @@
 
   { "en": "to raise",      "fi": "nostaa, korottaa" , "fr": "",  "es": "", "ko": ""},
   { "en": "a raise",      "fi": "nosto, korotus" , "fr": "",  "es": "", "ko": ""},
+  { "en": "to decrease",  "fi": "vähentää, pienentää, laskea" , "fr":"réduire",  "ko": ""},
 
 { "en": "possible",   "fi": "mahdollinen",  "fr":"possible",    "es":"posible",  "ko": ""},
 { "en": "possibility","fi": "mahdollisuus", "fr":"possibilité", "es":"(la) posibilidad", "ko": ""},

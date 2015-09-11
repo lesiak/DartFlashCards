@@ -28,8 +28,6 @@
 { "en": "to replace",        "ko": "",          "fi": "korvata",       "fr": "remplacer" },
 { "en": "replacement",        "ko": "",          "fi": "korvaaminen, korvaus",       "fr": "remplacement" },
 
-{ "en": "landowner",          "fi": "",       "fr": "", "es": "(el) terrateniente", "ko": "" },
-  { "en": "refugee",          "fi": "pakolainen",       "fr": "", "es": "", "ko": "" },
 
 
 { "en": "to deny",      "fi": "",      "fr": "", "es": "negar",  "ko": ""},
@@ -46,7 +44,7 @@
 { "en": "belong",       "ko": "속하다",       "fi": "kuulua",    "fr": "appartenir à, être membre de" },
 
 
-{ "en": "police station",    "ko": "경찰서",    "fi": "poliisiasema" , "fr":"poste de police"},
+{ "en": "police station",    "fi": "poliisiasema" , "fr":"poste de police",   "ko": "경찰서"},
 
 { "en": "press (publishing)","fi": "",                "fr": "",             "es": "(la) prensa",  "ko": "" },
 { "en": "journalism",        "fi": "",                     "fr": "",        "es":"(el) periodismo", "ko": ""},
@@ -67,8 +65,6 @@
 { "en": "gain",    "ko": "획득, 이득",    "fi": "hyöty" , "fr":"gain, profit"},
 
 
-{ "en": "to lay off",    "ko": "",    "fi": "lomauttaa" , "fr":"mettre en chômage"},
-{ "en": "to decrease",    "ko": "",    "fi": "vähentää, pienentää, laskea" , "fr":"réduire"},
 
 { "en": "to arrange, organize",    "ko": "배치하다",    "fi": "järjestää" , "fr":"arranger, organiser"},
 { "en": "to lead",    "ko": "안내하다",    "fi": "johtaa" , "fr":"diriger, commander"}

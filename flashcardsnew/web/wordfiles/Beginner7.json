@@ -38,10 +38,11 @@
 { "en": "combination",         "fi": "",   "fr":"",    "es": "(la) combinación",  "it": "(la) combinazione",   "ko": ""},
 
 
-{ "en": "to continue",    "fi": "" , "fr": "",  "ko": "계속하다"},
-{ "en": "to suspect",     "fi": "epäillä" , "fr":"suspecter",   "es":"sospechar",  "ko": "느끼다"},
-{ "en": "to presume",     "fi": "" , "fr":"",   "es":"presumir",  "ko": ""},
-{ "en": "to suppose",     "fi": "" , "fr":"",   "es":"suponer",  "ko": ""},
+{ "en": "to continue (sth)",   "fi": "jatkaa" , "fr": "",         "es": "continuar, seguir",  "ko": "계속하다"},
+  { "en": "to continue (intr)","fi": "jatkua" , "fr": "",         "es": "continuar, seguir",  "ko": "계속하다"},
+{ "en": "to suspect",          "fi": "epäillä", "fr":"suspecter", "es":"sospechar",  "ko": "느끼다"},
+{ "en": "to presume",          "fi": "",        "fr":"",          "es":"presumir",  "ko": ""},
+{ "en": "to suppose",          "fi": "",        "fr":"",          "es":"suponer",  "ko": ""},
 
 { "en": "alleged",     "fi": "" , "fr":"",   "es":"presunto, supuesto",  "ko": ""},
 

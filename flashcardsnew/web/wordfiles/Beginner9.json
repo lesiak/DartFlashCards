@@ -1,12 +1,15 @@
 [
 
-{ "en": "disappear",    "fi": "kadota",      "fr":"disparaître",  "ko": ""},
-{ "en": "resist",       "fi": "vastustaa",   "fr":"résister",      "es":"resistir", "ko": "" },
+  { "en": "appear",       "fi": "näyttää",    "fr": "apparaître",  "ko": "나타나다" },
+  { "en": "disappear",    "fi": "kadota",      "fr":"disparaître",  "ko": ""},
 
-{ "en": "variation (change)",   "ko": "",    "fi": "vaihtelu",  "fr":"variation"},
+  { "en": "resist",       "fi": "vastustaa",   "fr":"résister",      "es":"resistir", "ko": "" },
+
+
   { "en": "alternative",   "fi": "vaihtoehto",  "fr":"",  "ko": ""},
   { "en": "option",        "fi": "vaihtoehto",  "fr":"",  "ko": ""},
-{ "en": "exception",       "fi": "poikkeus",  "fr": "exception",  "es": "(la) excepción",   "ko": ""},
+  { "en": "variation (change)",     "fi": "vaihtelu",  "fr":"variation",   "ko": ""},
+  { "en": "exception",       "fi": "poikkeus",  "fr": "exception",  "es": "(la) excepción",   "ko": ""},
 
 { "en": "to go down",     "fi": "",  "fr":"", "es":"bajar",   "ko": ""},
 
@@ -36,7 +39,7 @@
 { "en": "earnings, gains, proceeds",         "ko": "수익금",       "fi": "",          "fr": "" },
 
 
-{ "en": "to disappear",      "fi": "kadota",          "fr": "disparaître",  "ko": "" },
+
 { "en": "to inspire",      "fi": "innostaa",          "fr": "inspirer",  "es": "inspirar", "ko": "" },
 
 { "en": "obligatory",   "ko": " ",    "fi": "pakollinen",   "fr":"obligatoire"},
@@ -136,7 +139,7 @@
 { "en": "to rub",          "fi": "hieroa",      "fr":"frotter",   "ko": "비비다"},
 { "en": "fall asleep",     "fi": "nukahtaa",   "fr":"s'endormir",  "ko": "잠들다"},
 { "en": "for sure",   "ko": "꼭",    "fi": "varmasti",   "fr":""},
-{ "en": "appear",       "ko": "나타나다",       "fi": "näyttää",    "fr": "apparaître" },
+
 
 { "en": "domestic",     "fi": "",   "fr":"",     "es": "doméstico", "ko": ""},
 
@@ -149,7 +152,8 @@
 
 { "en": "to rationalize",     "fi": "",   "fr":"",     "es": "racionalizar", "ko": ""},
 { "en": "nightmare",       "ko": "악몽 (bad + dream)",       "fi": "painajainen",    "fr": "cauchemar" },
-{ "en": "to spit",       "ko": "뱉다",       "fi": "sylkeä",    "fr": "cracher" }
+{ "en": "to spit",       "ko": "뱉다",       "fi": "sylkeä",    "fr": "cracher" },
+  { "en": "continuum",        "fi": "jatkumo",   "fr": "", "es": "", "ko": ""}
 
 ]
         
