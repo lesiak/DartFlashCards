@@ -19,7 +19,8 @@
 
 
 
-{ "en": "pencil",          "fi": "lyijykynä",    "fr": "crayon",         "es": "(el) lápiz", "ko": "연필"}, 
+{ "en": "pencil",          "fi": "lyijykynä",    "fr": "crayon",         "es": "(el) lápiz", "ko": "연필"},
+  { "en": "to write down",          "fi": "kirjoittaa ylös",    "fr": "",         "es": "", "ko": ""},
 
 
 { "en": "elementary school",       "ko": "초등학교 (early + class + study + school)",       "fi": "alkeiskoulu",    "fr": "école primaire" },

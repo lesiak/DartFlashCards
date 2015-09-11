@@ -16,6 +16,7 @@
 { "en": "coat",         "fi": "takki",      "fr": "",              "es": "(el) abrigo","ko": "" },
 { "en": "gloves",       "fi": "käsineet",   "fr": "gants",         "es": "guantes",  "ko": "장갑" },
 { "en": "panties",      "fi": "pikkuhousut, alushousut",  "fr": "culotte", "es": "(las) bragas",  "ko": "팬티" },
+  { "en": "lingerie",      "fi": "alusvaatteet",  "fr": "", "es": "(la) lencería",  "ko": "" },
 { "en": "necktie",      "fi": "kravatti",   "fr": "cravate",       "es": "(la) corbata", "ko": "넥타이" },
 
 { "en": "sock",         "fi": "sukka",      "fr": "chaussette",    "es": "(el) calcetín",   "ko": "양말 (the West + Korean socks), 삭스" },
