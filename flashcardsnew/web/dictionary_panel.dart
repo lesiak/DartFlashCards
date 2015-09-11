@@ -115,8 +115,10 @@ class DictionaryPanelElement extends PolymerElement {
     if (cardValue == null) {
       return false;
     } else {
-      String sanitizedWord = CardUtils.sanitizeWord(langName, cardValue);      
-      return sanitizedWord.startsWith(searchRegex);
+      //String sanitizedWord = CardUtils.sanitizeWordEntry(langName, cardValue);
+      //return sanitizedWord.startsWith(searchRegex);
+      List<String> wordsInEntry = CardUtils.getAllSanitizedWords(langName, cardValue);
+      return wordsInEntry.any((word) => word.startsWith(searchRegex));
     }    
   }
   

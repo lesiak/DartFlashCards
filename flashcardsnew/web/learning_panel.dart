@@ -121,7 +121,7 @@ class LearingPanelElement extends PolymerElement {
     if (word == null) {
       return;
     }
-    word = CardUtils.sanitizeWord(lang, word);
+    word = CardUtils.sanitizeWordEntry(lang, word);
     Element container = $[containerId];        
     //String cachedForvoResponse = window.localStorage[lang+"/"+word];
     pronounciationManager.getForvoResponseFromFileSystem(lang, word)

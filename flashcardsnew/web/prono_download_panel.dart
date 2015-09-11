@@ -19,7 +19,7 @@ class PronoDownloadPanel extends PolymerElement {
       initProgress(allCardsInDeck.length * all_langs.length);    
       for (Card card in allCardsInDeck) {
         for (String lang in all_langs) {
-          pronounciationManager.fetchMissingPronunciations(lang, CardUtils.sanitizeWord(lang, card.getValueForLang(lang)), step);        
+          pronounciationManager.fetchMissingPronunciations(lang, CardUtils.sanitizeWordEntry(lang, card.getValueForLang(lang)), step);
         }                  
       }    
     }
