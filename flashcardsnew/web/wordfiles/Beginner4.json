@@ -39,8 +39,8 @@
 
 { "en": "side",              "fi": "puoli",      "fr": "côté",         "es": "(el) lado",  "ko": "" },
 { "en": "other",             "fi": "muu",        "fr": "autre",        "es": "otro",  "ko": "다른" },
-{ "en": "only (adv)",        "fi": "vain",       "fr": "seulement",    "es": "sólo",    "ko": "만" },
-{ "en": "only (unique)",     "fi": "",           "fr": "",             "es": "único",    "ko": "" },
+{ "en": "only (adv)",        "fi": "vain (Hän on vain lapsi - He's only a child)",       "fr": "seulement",    "es": "sólo",    "ko": "만" },
+{ "en": "only (adj - unique)","fi": "ainoa (Hän on ainoa lapsi - He's an only child)",           "fr": "",             "es": "único",    "ko": "" },
 
 { "en": "both",             "fi": "molemmat",    "fr": "tous les deux","es": "ambos",  "ko": "" },
 { "en": "together",         "fi": "yhdessä",     "fr": "ensemble",     "es": "juntos",   "ko": "함께" },

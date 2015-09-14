@@ -49,7 +49,7 @@
 
 { "en": "to take out, remove",     "fi": "" , "fr":"",   "es":"sacar",  "ko": ""},
 
-{ "en": "showy, gaudy, tawdry",    "ko": "야하다",    "fi": "" , "fr":""},
+
 
 { "en": "enter, go in","ko": "들어가다",  "fi": "astua sisään", "fr": "entrer" },
 { "en": "come in",     "ko": "들어오다",  "fi": "",         "fr": "" },
@@ -66,7 +66,7 @@
 { "en": "to assure (reassure)",       "fi": "" , "fr":"","es":"asegurar",  "ko": ""},
 { "en": "to clarify",    "fi": "",          "fr": "",  "es": "aclarar, clarificar", "ko": "" },
  
-{ "en": "to decorate",    "ko": "장식하다",       "fi": "koristella",          "fr": "décorer" },
+{ "en": "to decorate",      "fi": "koristella",          "fr": "décorer",  "ko": "장식하다" },
 
 { "en": "to focus (on)",    "fi": "",     "fr": "",  "es": "centrar, concentrar (en)", "ko": "" },
 
@@ -75,7 +75,8 @@
 { "en": "extinction",    "fi": "",        "fr": "",   "es": "(la) extinción", "ko": "" },
 { "en": "impression",    "fi": "",        "fr": "",   "es": "(la) impresión", "ko": "" },
 
-{ "en": "to include",    "fi": "",       "fr": "",   "es": "incluir", "ko": "" },
+{ "en": "to include",    "fi": "sisältää",       "fr": "",   "es": "incluir", "ko": "" },
+  { "en": "to contain",    "fi": "sisältää",       "fr": "",   "es": "", "ko": "" },
 { "en": "to constitute",    "fi": "",       "fr": "",   "es": "constituir", "ko": "" },
 { "en": "to discover",    "fi": "",       "fr": "",   "es": "descubrir", "ko": "" },
 
@@ -96,8 +97,10 @@
 { "en": "a trap (for)",           "fi": "",  "fr": "",   "es": "(la) trampa (a)",  "ko": ""},
 { "en": "to trap",           "fi": "",  "fr": "",   "es": "atrapar",  "ko": ""},
 
-{ "en": "power (authority)",   "fi": "",          "fr": "",         "es": "(el) poder", "ko": "" },
-{ "en": "powerful",    "fi": "",          "fr": "",   "es": "poderoso", "ko": "" },
+  { "en": "power (physical force or strength)",   "fi": "voima",          "fr": "",         "es": "", "ko": "" },
+  { "en": "power (capability or influence)",   "fi": "valta, vaikutusvalta",          "fr": "",         "es": "", "ko": "" },
+  { "en": "power (authority)",   "fi": "valta",          "fr": "",         "es": "(el) poder", "ko": "" },
+  { "en": "powerful",    "fi": "",          "fr": "",   "es": "poderoso", "ko": "" },
 { "en": "to force",    "fi": "",          "fr": "",   "es": "forzar",  "ko": ""},
 { "en": "force",       "fi": "",          "fr": "",   "es": "(la) fuerza",  "ko": ""},
 

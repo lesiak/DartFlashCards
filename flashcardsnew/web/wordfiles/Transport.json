@@ -82,6 +82,7 @@
 { "en": "brake",          "fi": "jarru",     "fr": "frein",      "es": "(el) freno",        "ko": "" },
 { "en": "headlight",      "fi": "",          "fr": "phare",      "es": "(el) faro",        "ko": "" },
 { "en": "blinker",        "fi": "",          "fr": "clignotant", "es": "(el) intermitente",        "ko": "" },
+  { "en": "bumper",       "fi": "puskuri",   "fr": "",           "es": "",        "ko": "" },
 { "en": "rear-view mirror", "fi": "",        "fr": "rétroviseur","es": "(el) retrovisor",        "ko": "" },
 { "en": "seat belt",      "fi": "turvavyö",  "fr": "ceinture de sécurité","es": "(el) cinturón de seguridad",        "ko": "" },
 { "en": "fasten (seat belt)",  "fi": "",     "fr": "",           "es": "abrochar",        "ko": "" },
@@ -104,6 +105,7 @@
 
 { "en": "decelerate",     "fi": "",                  "fr": "ralentir",     "es": "desacelerar",     "ko": "" },
 
+  { "en": "vehicle",       "fi": "ajoneuvo",         "fr": "",              "es": "",     "ko": "" },
 { "en": "public transport","fi": "joukkoliikenne",   "fr": "transport en commun", "es": "(el) transporte público",       "ko": "대중 교통" },
 { "en": "passenger",       "fi": "matkustaja",       "fr": "passager",            "es": "(el) pasajero",    "ko": "승객"  },
 { "en": "timetable",       "fi": "aikataulu",        "fr": "horaire",             "es": "(el) horario",     "ko": "" },

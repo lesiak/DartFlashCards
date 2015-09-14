@@ -59,10 +59,12 @@
 { "en": "roundabout",       "fi": "liikenneympyrä",  "fr": "rond-point",    "es": "(la) glorieta",  "ko": "" },
 
 { "en": "pedestrian",       "fi": "jalankulkija",    "fr": "piéton",        "es": "(el) peatón",  "ko": "횡단 보도" },
-{ "en": "pedestrian crossing", "fi": "suojatie",     "fr": "passage pour piétons", "es": "paso de cebra, paso de peatones","ko": "횡단 보도" },
+{ "en": "pedestrian crossing","fi": "suojatie",     "fr": "passage pour piétons", "es": "paso de cebra, paso de peatones","ko": "횡단 보도" },
 { "en": "to cross (a road)", "fi": "",     "fr": "", "es": "cruzar","ko": "" },
-{ "en": "passage (between buildings, underground)",      "fi": "",   "fr": "",   "es": "(el) pasaje", "ko": ""},
-{ "en": "passage (way through)",      "fi": "",   "fr": "",   "es": "(el) paso", "ko": ""},
+{ "en": "passage (between buildings, underground)",  "fi": "läpikulku",   "fr": "",   "es": "(el) pasaje", "ko": ""},
+{ "en": "passage (way through)",      "fi": "läpikulku",   "fr": "",   "es": "(el) paso", "ko": ""},
+
+  { "en": "underpass",      "fi": "alikulkutunneli",   "fr": "",   "es": "(el) paso", "ko": ""},
 
 
 { "en": "traffic lights",   "fi": "liikennevalot",   "fr": "feux de circulation",  "es": "(el) semáforo",  "ko": "" },

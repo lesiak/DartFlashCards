@@ -92,7 +92,9 @@
   { "en": "merciless",     "fi": "armoton",       "fr": "",   "es": "",  "ko": "" },
   { "en": "mercy",     "fi": " armo, laupeus",       "fr": "",   "es": "",  "ko": "" },
 
-{ "en": "enthusiastic", "fi": "innostunut",     "fr": "enthousiaste", "es": "entusiasmado",  "ko": "" },
+  { "en": "enthusiastic", "fi": "innostunut, intomielinen",     "fr": "enthousiaste", "es": "entusiasmado",  "ko": "" },
+  { "en": "enthusiasm", "fi": "innostus, intomieli",     "fr": "", "es": "",  "ko": "" },
+
 { "en": "mischievous",  "fi": "ilkikurinen",    "fr": "malicieux",    "es": "malvado",  "ko": "" },
 
 { "en": "lustful",  "fi": "himokas",    "fr": "",    "es": "lujurioso",  "ko": "" },
