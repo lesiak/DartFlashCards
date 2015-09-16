@@ -18,7 +18,7 @@
 { "en": "avenue",     "fi": "katu" ,     "fr":"rue",        "es": "(la) avenida",       "ko": ""},
 { "en": "alley, backstreet", "fi": "kuja", "fr":"ruelle",   "es": "(el) callejón",      "ko": "골목"},
 { "en": "(street) corner",  "fi": "kadunkulma", "fr":"coin","es": "(la) esquina",       "ko": "골목"},
-{ "en": "ring road",   "fi": "",                "fr":"",    "es": "(la) circunvalación","ko": ""},
+
 
 
 { "en": "bakery",       "fi": "leipomo" ,       "fr":"boulangerie",   "es": "(la) panadería",  "ko": "빵집"},

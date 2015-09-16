@@ -117,6 +117,7 @@
 { "en": "roadworks",       "fi": "tietyöt",          "fr": "", "es": "obras (de carretera)", "ko": "" },
 { "en": "to tow away",     "fi": "hinata (pois)",    "fr": "remorquer", "es": "remolcar", "ko": "" },
 { "en": "road sign",       "fi": "liikennemerkki",   "fr": "",           "es": "(el) señal de tráfico", "ko": "" },
-{ "en": "one-way (street)",       "fi": "yksisuuntainen",   "fr": "à sens unique",           "es": "de sentido único", "ko": "" }
+{ "en": "one-way (street)",       "fi": "yksisuuntainen",   "fr": "à sens unique",           "es": "de sentido único", "ko": "" },
+  { "en": "ring road",   "fi": "",                "fr":"",    "es": "(la) circunvalación","ko": ""}
 ]
         

@@ -21,6 +21,10 @@
 { "en": "not really", "fi": "",                "fr": "",            "ko": "별로" },
 { "en": "hardly",     "fi": "",                "fr": "" ,  "es": "apenas",  "ko": ""},
 { "en": "about, around (approximately)",     "fi": "noin",                "fr": "" ,  "es": "",  "ko": ""},
+  { "en": "approximately",   "fi": "suunnilleen",                "fr": "" ,  "es": "",  "ko": ""},
+  { "en": "roughly",         "fi": "karkeasti",                "fr": "" ,  "es": "",  "ko": ""},
+
+
   { "en": "an estimate",     "fi": "arvio",                "fr": "" ,  "es": "",  "ko": ""},
   { "en": "to estimate",     "fi": "arvioida",                "fr": "" ,  "es": "",  "ko": ""}
 
