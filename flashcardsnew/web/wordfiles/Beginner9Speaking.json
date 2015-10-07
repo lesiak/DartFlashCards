@@ -30,11 +30,12 @@
 { "en": "threaten",    "fi": "uhata",  "fr":"menacer",  "ko": "위협하다"},
 { "en": "threat",      "fi": "uhkaus",  "fr":"menace", "ko": "위협"},
 
-{ "en": "to threaten",   "ko": "",    "fi": "uhata",   "fr":"menacer"},
-{ "en": "threat (expression of intent to injure or punish another)",   "ko": "",    "fi": "uhkaus",   "fr":"menace"},
-{ "en": "threat (indication of imminent danger)",   "ko": "",    "fi": "uhka",   "fr":""},
+{ "en": "threat (expression of intent to injure or punish another)",     "fi": "uhkaus",   "fr":"menace", "ko": ""},
+{ "en": "threat (indication of imminent danger)",    "fi": "uhka",   "fr":"",  "ko": ""},
 
 { "en": "to admit",    "fi": "" , "fr":"admettre", "es":"admitir", "ko": ""},
+
+  { "en": "interaction",    "fi": "vuorovaikutus" , "fr":"", "es":"", "ko": ""},
 
 { "en": "to refer (to)",     "fi": "",   "fr": "", "es": "referirse (a), referir (a)",  "ko": ""},
 { "en": "to allude (to)",    "fi": "" ,  "fr":"",  "es":"aludir (a)",     "ko": ""},

@@ -49,7 +49,9 @@
 { "en": "program",       "fi": "ohjelma",       "fr": "programme",  "es": "(el) programa",    "ko": "프로그램" },
 
 { "en": "interview",     "fi": "haastattelu",   "fr": "entretien", "es": "(la) entrevista",  "ko": "인터뷰" },
-{ "en": "series",        "fi": "sarja",         "fr": "série",     "es": "(la) serie",     "ko": "시리즈" },
+  { "en": "enquiry",     "fi": "tutkimus, kysely",   "fr": "", "es": "",  "ko": "" },
+
+  { "en": "series",        "fi": "sarja",         "fr": "série",     "es": "(la) serie",     "ko": "시리즈" },
 { "en": "an episode",    "fi": "episodi",       "fr": "épisode",   "es": "(el) episodio, (el) capítulo ",     "ko": "" },
 
 { "en": "duration",      "fi": "kesto",         "fr": "durée",     "es": "(la) duración",  "ko": "지속"},
