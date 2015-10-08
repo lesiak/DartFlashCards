@@ -39,11 +39,13 @@
 { "en": "liberty",        "fi": "",                        "fr": "liberté",     "es": "(la) libertad",   "ko": "" },
 { "en": "regime",        "fi": "",                         "fr": "",            "es": "(el) régimen",   "ko": "" },
 
-{ "en": "to vote",       "fi": "",                        "fr": "",             "es": "votar",   "ko": "" },
-{ "en": "voter",         "fi": "",                        "fr": "",             "es": "(el) votante",   "ko": "" },
+{ "en": "to vote",       "fi": "",                        "fr": "",             "es": "votar",               "ko": "" },
+{ "en": "voter",         "fi": "",                        "fr": "",             "es": "(el) votante",        "ko": "" },
+  { "en": "demonstration (political)","fi": "mielenosoitus", "fr": "",          "es": "(la) manifestación",  "ko": "시위, 시연, 데모" },
+  { "en": "against",       "fi": "vastaan",                  "fr": "",          "es": "contra",              "ko": "" },
+  { "en": "for (in advocacy of)", "fi": "puolesta",          "fr": "",          "es": "",                    "ko": "" },
 
-
-{ "en": "coup d'état",       "fi": "",                    "fr": "coup d'état", "es": "(el) golpe de estado",   "ko": "" },
+{ "en": "coup d'état",       "fi": "",                    "fr": "coup d'état", "es": "(el) golpe de estado", "ko": "" },
 { "en": "to rebel (against)","fi": "",              "fr": "",  "es": "rebelarse (contra)", "ko": "" }, 
 
 { "en": "embassy",           "fi": "suurlähetystö", "fr": "ambassade",   "es": "(la) embajada",  "ko": "대사관 (great + dispatch + building)" },

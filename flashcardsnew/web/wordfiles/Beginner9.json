@@ -135,6 +135,8 @@
 
 { "en": "structure",       "fi": "rakenne",     "fr": "structure", "es": "(la) estructura",  "ko": ""},
 { "en": "to demolish",     "fi": "",            "fr": "",          "es": "demoler",  "ko": ""},
+  { "en": "to cut down, fell (a tree)",     "fi": "kaataa",            "fr": "",          "es": "talar",  "ko": ""},
+
 
 { "en": "to rub",          "fi": "hieroa",      "fr": "frotter",   "ko": "비비다"},
 { "en": "fall asleep",     "fi": "nukahtaa",    "fr": "s'endormir",  "ko": "잠들다"},

@@ -22,7 +22,7 @@
 { "en": "violence",     "fi": "väkivalta",     "fr": "violence",       "es": "(la) violencia",    "ko": "폭력" },
 { "en": "violent",      "fi": "väkivaltainen", "fr": "violent",        "es": "violento",       "ko": "폭력적인, 격렬한" },
 
-{ "en": "demonstration (political)","fi": "mielenosoitus", "fr": "",   "es": "(la) manifestación",   "ko": "시위, 시연, 데모" },
+
 { "en": "conflict",     "fi": "konflikti",     "fr": "conflit",        "es": "(el) conflicto",    "ko": "폭력" },
 
 { "en": "to fight",     "fi": "taistella",     "fr": "combattre",      "es": "luchar", "ko": "싸우다" },
