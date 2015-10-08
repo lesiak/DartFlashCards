@@ -60,7 +60,7 @@
 
 { "en": "pedestrian",       "fi": "jalankulkija",    "fr": "piéton",        "es": "(el) peatón",  "ko": "횡단 보도" },
 { "en": "pedestrian crossing","fi": "suojatie",     "fr": "passage pour piétons", "es": "paso de cebra, paso de peatones","ko": "횡단 보도" },
-{ "en": "to cross (a road)", "fi": "",     "fr": "", "es": "cruzar","ko": "" },
+{ "en": "to cross (a road)", "fi": "ylittää, mennä yli (a narrow thing), mennä poikki (e.g., a room)",     "fr": "", "es": "atravesar, pasar","ko": "" },
 { "en": "passage (between buildings, underground)",  "fi": "läpikulku",   "fr": "",   "es": "(el) pasaje", "ko": ""},
 { "en": "passage (way through)",      "fi": "läpikulku",   "fr": "",   "es": "(el) paso", "ko": ""},
 

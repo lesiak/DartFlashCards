@@ -46,6 +46,8 @@
 
 { "en": "clock",       "fi": "kello",       "fr": "horloge",       "es": "(el) reloj",     "ko": "" },
 { "en": "time",        "fi": "aika",        "fr": "temps",         "es": "(el) tiempo",    "ko": "" },
+  { "en": "to spend time", "fi": "viettää aikaa",        "fr": "",         "es": "pasar el tiempo",    "ko": "" },
+
 { "en": "second",      "fi": "sekunti",     "fr": "seconde",       "es": "(el) segundo",   "ko": "" },
 { "en": "minute",      "fi": "minuutti",    "fr": "minute",        "es": "(el) minuto",    "ko": "분" },  
 { "en": "hour",        "fi": "tunti",       "fr": "heure",         "es": "(la) hora",      "ko": "시간" }, 
