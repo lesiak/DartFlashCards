@@ -88,8 +88,8 @@
 
 { "en": "to intimidate",    "fi": "",       "fr": "",   "es": "intimidar", "ko": "" },
 
-{ "en": "to benefit (from)",    "fi": "",       "fr": "",   "es": "beneficiarse (de)", "ko": "" },
-{ "en": "to affect",    "fi": "",       "fr": "",   "es": "afectar; influir en", "ko": "" },
+{ "en": "to benefit (from)",   "fi": "",       "fr": "",   "es": "beneficiarse (de)", "ko": "" },
+{ "en": "to affect",           "fi": "vaikuttaa",       "fr": "",   "es": "afectar; influir en", "ko": "" },
 
 { "en": "to save (rescue)",    "fi": "",          "fr": "",         "es": "salvar", "ko": "" },
 { "en": "to rescue",           "fi": "pelastaa",  "fr": "sauver",   "es": "rescatar",  "ko": ""},
