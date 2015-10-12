@@ -83,6 +83,7 @@
 { "en": "to run away",   "ko": "도망가다",    "fi": "",   "fr":""},
 
 { "en": "just (adv)",       "fi": "",   "fr":"", "es":"justo",  "ko": ""},
+{ "en": "just (only)",       "fi": "ainoastaan",   "fr":"", "es":"",  "ko": ""},
 { "en": "full, filled",       "fi": "",   "fr":"", "es": "lleno (de)",  "ko": ""},
 { "en": "minimum",       "fi": "",   "fr":"", "es": "mínimo",  "ko": ""},
 

@@ -72,6 +72,7 @@
 { "en": "female",    "fi": "nainen",    "fr": "femelle",    "ko": "여성" },
 
 { "en": "liver",     "fi": "maksa",     "fr": "foie",      "es": "(el) hígado",  "ko": "간" },
+{ "en": "side (body)", "fi": "kylki",     "fr": "",      "es": "",  "ko": "" },
 
 { "en": "appendix",  "fi": "",          "fr": "",          "es": "(el) apéndice",  "ko": "" },
 { "en": "gland",     "fi": "",          "fr": "",          "es": "(la) glándula",  "ko": "" },

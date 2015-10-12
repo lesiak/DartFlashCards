@@ -12,6 +12,8 @@
 
 { "en": "yet",       "fi": "vielä",      "fr": "encore",   "es": "todavía, aún (still), ya (in questions)",   "ko": "아직" },
 { "en": "still",     "fi": "vielä",      "fr": "encore",   "es": "todavía, aún",                              "ko": ""},
+{ "en": "anymore",   "fi": "enää",      "fr": "",   "es": "",                              "ko": ""},
+
 
 { "en": "later",      "fi": "myöhemmin", "fr": "plus tard, ensuite",  "es": "más tarde, luego",  "ko": "나중에" },
 { "en": "already",    "fi": "jo",        "fr": "déjà",                "es": "ya" ,        "ko": "벌써, 이미" },
@@ -79,8 +81,10 @@
 { "en": "recently",     "fi": "äskettäin",    "fr": "récemment",    "es": "recientemente",   "ko": "최근에" },
 { "en": "finally",     "fi": "lopulta, viimein",    "fr": "",    "es": "",   "ko": "" },
 { "en": "simultaneously, at the same time",     "fi": "samanaikaisesti",    "fr": "",    "es": "",   "ko": "" },
-{ "en": "simultaneous",     "fi": "samanaikainen",    "fr": "",    "es": "",   "ko": "" }
+{ "en": "simultaneous",     "fi": "samanaikainen",    "fr": "",    "es": "",   "ko": "" },
 
-
+  { "en": "Come after eleven.",            "fi": "Tule yhdentoista jälkeen.",    "fr": "",    "es": "",   "ko": "" },
+  { "en": "Come at eleven (o clock).",     "fi": "Tule yhdeltätoista.",    "fr": "",    "es": "",   "ko": "" },
+  { "en": "Come at eleven at the latest.", "fi": "Tule viimeistään yhdeksitoista.",    "fr": "",    "es": "",   "ko": "" }
 
 ]

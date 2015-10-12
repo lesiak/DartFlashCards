@@ -23,6 +23,7 @@
 
 { "en": "part",        "fi": "osa",          "fr": "partie",   "es": "(la) parte",      "ko": "부분" },
 { "en": "region",      "fi": "alue",         "fr": "région",   "es": "(la) región",     "ko": "지방" },
+{ "en": "zone",        "fi": "alue, vyöhyke","fr": "zone",     "es": "(la) zona",       "ko": "" },
 
 
 { "en": "flight",      "fi": "lento",        "fr": "vol",      "es": "(el) vuelo",      "ko": "비행 (fly + go)" },

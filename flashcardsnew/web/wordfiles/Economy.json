@@ -22,7 +22,12 @@
  
 
 { "en": "interchange",        "fi": "",            "fr": "",           "es": "(el) intercambio",   "ko": "" },
+  { "en": "export",        "fi": "vienti",            "fr": "",           "es": "",   "ko": "" },
+  { "en": "import",        "fi": "tuonti",            "fr": "",           "es": "",   "ko": "" },
 
+
+  { "en": "export product",        "fi": "vientituote",            "fr": "",           "es": "",   "ko": "" },
+  { "en": "imported product",      "fi": "tuontituote",            "fr": "",           "es": "",   "ko": "" },
 
 { "en": "economy",       "fi": "talous",               "fr": "économie",    "es": "(la) economía", "ko": "경제" },
 { "en": "industry",      "fi": "teollisuus",           "fr":"industrie",    "es": "(la) industria",  "ko": "산업"},
