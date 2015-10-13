@@ -32,11 +32,11 @@
 { "en": "to put on weight", "fi": "lihoa",         "fr": "",            "es": "engordar, ganar peso",  "ko": ""},
 
 
-{ "en": "straight (hair)", "fi": "" , "fr": "",                   "es": "liso",  "ko": ""},
-{ "en": "curly (hair)",    "fi": "" , "fr": "",                      "es": "rizado",  "ko": ""},
-{ "en": "blonde (hair)",    "fi": "" , "fr": "",                      "es": "rubio",  "ko": ""},
-{ "en": "dark (hair)",    "fi": "" , "fr": "",                      "es": "moreno",  "ko": ""},
-{ "en": "red-haired",    "fi": "" , "fr": "",                      "es": "pelirrojo",  "ko": ""},
+{ "en": "straight (hair)", "fi": "suora (tukka)" , "fr": "",            "es": "liso",  "ko": ""},
+{ "en": "curly (hair)",    "fi": "kihara (tukka)" , "fr": "",           "es": "rizado",  "ko": ""},
+{ "en": "blonde (hair)",   "fi": "vaalea (tukka)" , "fr": "",           "es": "rubio",  "ko": ""},
+{ "en": "dark (hair)",     "fi": "tumma, ruskea (tukka)" , "fr": "",    "es": "moreno",  "ko": ""},
+{ "en": "red-haired",      "fi": "punapää" ,        "fr": "",           "es": "pelirrojo",  "ko": ""},
 
 
 { "en": "makeup",          "fi": "meikki" ,        "fr": "maquillage",  "es": "(el) maquillaje",  "ko": ""}, 
