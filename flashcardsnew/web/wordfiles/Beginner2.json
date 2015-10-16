@@ -21,13 +21,13 @@
 
 { "en": "live, dwell", "fi": "asua",        "fr": "habiter",  "es": "vivir",  "ko": "살다" },
 { "en": "here",        "fi": "täällä",      "fr": "ici",      "es": "aquí",   "ko": "여기에" },
-{ "en": "there",       "fi": "siellä",      "fr": "",      "es": "",   "ko": "" },
+{ "en": "there",       "fi": "siellä",      "fr": "",         "es": "",   "ko": "" },
 
-{ "en": "to hold",     "fi": "",      "fr": "tenir",      "es": "tener",   "ko": "" },
+{ "en": "to hold",     "fi": "pitää",       "fr": "tenir",      "es": "tener",   "ko": "" },
 
-{ "en": "to prefer",   "fi": "",            "fr": "", "es": "preferir",   "ko": "" },
-{ "en": "to feel like","fi": "",            "fr": "", "es": "tener ganas de",   "ko": "" },
-{ "en": "to have to","fi": "",            "fr": "",   "es": "tener que",   "ko": "" },
+{ "en": "to prefer",   "fi": "pitää enemmän jstk, haluta mieluummin",            "fr": "", "es": "preferir",   "ko": "" },
+{ "en": "to feel like","fi": "tehdä mieli",              "fr": "avoir envie de", "es": "tener ganas de",   "ko": "" },
+{ "en": "to have to",  "fi": "täytyä, olla pakko, pitää","fr": "",               "es": "tener que, deber",   "ko": "" },
 
 { "en": "to be able to", "fi": "voida, pystyä", "fr": "pouvoir, savoir (for a skill)", "es": "poder",   "ko": "...할 수 있다" },
 

@@ -14,7 +14,7 @@
   { "en": "more",      "fi": "enemmän, lisää",   "fr": "", "es": "",    "ko": "" },
   { "en": "less",      "fi": "vähemmän",         "fr": "", "es": "",    "ko": "" },
 
-{ "en": "very",       "fi": "hyvin",   "fr": "très",    "es": "muy",   "ko": "아주" },
+{ "en": "very",       "fi": "hyvin, erittäin (erittäin mielenkiintoista)",   "fr": "très",    "es": "muy",   "ko": "아주" },
 { "en": "pretty (quite, fairly)", "fi": "",   "fr": "",    "es": "bastante",   "ko": "" },
 
 { "en": "really",     "fi": "todella",         "fr": "vraiment",   "ko": "정말" },

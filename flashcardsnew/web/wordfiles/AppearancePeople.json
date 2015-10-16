@@ -18,12 +18,13 @@
 
 
 { "en": "slim",            "fi": "hoikka, laiha",      "fr": "mince, maigre",          "es": "delgado",    "ko": "날씬하다, 호리 호리하다"},
-{ "en": "slender",         "fi": "",                   "fr": "svelte",                 "es": "esbelto",    "ko": ""},
+{ "en": "slender",         "fi": "hoikka",             "fr": "svelte",                 "es": "esbelto",    "ko": ""},
 { "en": "skinny",          "fi": "luiseva" ,           "fr": "maigre",                 "es": "flaco",  "ko": ""},
 { "en": "fat",             "fi": "lihava, läski (derogatory), paksu" , "fr": "gros",   "es": "gordo",  "ko": "뚱뚱하다"},
 
+{ "en": "petite",          "fi": "siro",               "fr": "",                       "es": "chiquita",    "ko": ""},
 
-{ "en": "good-looking",     "fi": "hyvännäköinen",      "fr": "beau",   "es": "guapo",    "ko": "멋있다"},
+{ "en": "good-looking",     "fi": "hyvännäköinen", "fr": "beau",        "es": "guapo",    "ko": "멋있다"},
 { "en": "(one's) figure",   "fi": "hahmo" ,        "fr": "figure",      "es": "(la) figura",   "ko": "몸매"  },
 { "en": "a slender figure", "fi": "hoikka hahmo",  "fr":"",             "es":"(la) esbelta figura",   "ko": "날씬한 몸매"},
 { "en": "obesity",          "fi": "liikalihavuus", "fr":"obésité",      "es":"(la) obesidad",  "ko": "비만 (fat + full)"},

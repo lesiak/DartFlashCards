@@ -3,6 +3,9 @@
   { "en": "appear",       "fi": "näyttää",    "fr": "apparaître",  "ko": "나타나다" },
   { "en": "disappear",    "fi": "kadota",      "fr":"disparaître",  "ko": ""},
 
+  { "en": "to carry",    "fi": "kantaa",      "fr":"",  "ko": ""},
+
+
   { "en": "resist",       "fi": "vastustaa",   "fr":"résister",      "es":"resistir", "ko": "" },
 
 
@@ -54,8 +57,8 @@
 { "en": "rare",      "fi": "",      "fr": "", "es": "raro",  "ko": ""},
 
 
-{ "en": "due (to)",       "fi": "",      "fr": "grâce (à)", "es": "debido (a)",  "ko": ""},
-{ "en": "to happen",      "fi": "",      "fr": "", "es": "pasar",  "ko": ""},
+{ "en": "due (to)",       "fi": "",          "fr": "grâce (à)", "es": "debido (a)",  "ko": ""},
+{ "en": "to happen",      "fi": "tapahtua",  "fr": "", "es": "pasar",  "ko": ""},
 
 { "en": "to waste",      "fi": "",      "fr": "", "es": "perder",  "ko": ""},
 
@@ -161,6 +164,7 @@
 { "en": "to rationalize",     "fi": "",   "fr":"",     "es": "racionalizar", "ko": ""},
 { "en": "nightmare",       "ko": "악몽 (bad + dream)",       "fi": "painajainen",    "fr": "cauchemar" },
 { "en": "to spit",       "ko": "뱉다",       "fi": "sylkeä",    "fr": "cracher" },
+  { "en": "dead (person)",            "fi": "kuollut, vainaa",    "fr": "",  "es": "(el) muerto", "ko": "" },
   { "en": "continuum",        "fi": "jatkumo",   "fr": "", "es": "", "ko": ""}
 
 ]

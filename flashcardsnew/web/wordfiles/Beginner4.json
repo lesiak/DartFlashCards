@@ -96,6 +96,8 @@
 { "en": "to restrict",       "fi": "",    "fr": "",   "es": "restringir, limitar", "ko": "" },
 { "en": "restriction",       "fi": "",    "fr": "",   "es": "(la) restricción", "ko": "" },
 
+{ "en": "to allow",       "fi": "sallia (En voi sallia sitä. Se ei ole sallittua)",    "fr": "",   "es": " dejar, permitir, conceder", "ko": "" },
+
 { "en": "problem",       "fi": "",    "fr": "",   "es": "(el) problema", "ko": "" },
 { "en": "no problem!",       "fi": "",    "fr": "",   "es": "¡claro (que sí)!", "ko": "" },
 { "en": "to resolve",       "fi": "",    "fr": "",   "es": "resolver", "ko": "" },

@@ -12,9 +12,14 @@
 { "en": "to try (attempt)",     "fi": "yrittää",   "fr": "essayer",    "es": "intentar", "ko": ""},
 { "en": "to try (out), sample", "fi": "yrittää",   "fr": "essayer",    "es": "probar", "ko": ""},
 { "en": "to attempt",      "fi": "",   "fr": "",   "es": "intentar", "ko": ""},
+{ "en": "prevent",      "fi": "estää, ehkäistä",    "fr": "empêcher", "es": "impedir",  "ko": "막다, 방해하다" },
+{ "en": "obstacle",      "fi": "este",    "fr": "obstacle", "ko": "방해, 장애" },
+
+{ "en": "to deny",      "fi": "",      "fr": "", "es": "negar",  "ko": ""},
+{ "en": "to agree",      "fi": "",      "fr": "", "es": "acordar",  "ko": ""},
 
 
-{ "en": "(to be) capable (of)",   "fi": "pystyä (jhk), pystyä tekemään jtk",   "fr": "capable (de)",   "es": "capaz (de)", "ko": ""},
+  { "en": "(to be) capable (of)",   "fi": "pystyä (jhk), pystyä tekemään jtk",   "fr": "capable (de)",   "es": "capaz (de)", "ko": ""},
 
   { "en": "to raise",      "fi": "nostaa, korottaa" , "fr": "",  "es": "", "ko": ""},
   { "en": "a raise",      "fi": "nosto, korotus" , "fr": "",  "es": "", "ko": ""},

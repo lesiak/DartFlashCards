@@ -30,10 +30,6 @@
 
 
 
-{ "en": "to deny",      "fi": "",      "fr": "", "es": "negar",  "ko": ""},
-{ "en": "to agree",      "fi": "",      "fr": "", "es": "acordar",  "ko": ""},
-{ "en": "prevent",      "fi": "estää, ehkäistä",    "fr": "empêcher", "es": "impedir",  "ko": "막다, 방해하다" },
-{ "en": "obstacle",      "fi": "este",    "fr": "obstacle", "ko": "방해, 장애" },
 
 
 { "en": "establish",     "ko": "?",          "fi": "perustaa",    "fr": "établir" },
