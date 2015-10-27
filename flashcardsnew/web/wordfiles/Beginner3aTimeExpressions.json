@@ -20,15 +20,15 @@
 { "en": "immediately","fi": "heti",      "fr": "immédiatement",       "es": "inmediatamente" , "ko": "바로, 금방" },
 { "en": "soon",       "fi": "pian",      "fr": "bientôt",             "es": "pronto" , "ko": "" },
 
-{ "en": "sometimes",  "fi": "",      "fr": "",                       "es": "a veces" , "ko": "" },
+{ "en": "sometimes",  "fi": "joskus",    "fr": "",                       "es": "a veces" , "ko": "" },
 
 { "en": "since (time)","fi": "",         "fr": "",                    "es": "desde" , "ko": "" },
 { "en": "from (time)","fi": "",         "fr": "",                     "es": "desde" , "ko": "" },
 { "en": "to (until, time)","fi": "",         "fr": "",                "es": "hasta" , "ko": "" },
 
-{ "en": "immediate",  "fi": "",      "fr": "",       "es": "inmediato" , "ko": "" },
+{ "en": "immediate",  "fi": "välitön",      "fr": "",       "es": "inmediato" , "ko": "" },
 { "en": "suddenly",  "fi": "yhtäkkiä",      "fr": "",       "es": "de repente" , "ko": "" },
-{ "en": "sudden",  "fi": "äkillinen, yhtäkkinen",      "fr": "",       "es": "repentino, súbito" , "ko": "" },
+{ "en": "sudden",    "fi": "äkillinen, yhtäkkinen",      "fr": "",       "es": "repentino, súbito" , "ko": "" },
  
 
 { "en": "to last",    "fi": "kestää",     "fr": "durer",              "es": "durar",    "ko": "" },
@@ -66,18 +66,16 @@
 { "en": "in one hour", "fi": "",            "fr": "",              "es": "en una hora",   "ko": ""},
 
 { "en": "late (adj)",        "fi": "myöhäinen",    "fr": "",          "es": "", "ko": "" },
-{ "en": "late (adv)",        "fi": "myöhässä",    "fr": "tard",          "es": "tarde", "ko": "늦다" },
-{ "en": "early",       "fi": "aikaisin",    "fr": "tôt",           "es": "temprano", "ko": "" },
+{ "en": "late (adv)",        "fi": "myöhässä (On jo myöhä. olet jo myöhässä. Menikö teillä myöhään?)",    "fr": "tard",          "es": "tarde", "ko": "늦다" },
+{ "en": "early",             "fi": "aikaisin",     "fr": "tôt",           "es": "temprano", "ko": "" },
 
 
 { "en": "the day after tomorrow",  "fi": "ylihuomenna",    "fr": "après-demain",  "es": "pasado mañana",  "ko": "모레" },
 { "en": "last night",   "fi": "viime yönä",    "fr": "la nuit dernière",  "es": "anoche",  "ko": " 어젯밤" },
 
- 
-
 
 { "en": "awhile",        "ko": "잠깐",          "fi": "hetken",    "fr": "" },
-{ "en": "first (adv, in time or sequence)",        "ko": "먼저",          "fi": "",    "fr": "" },
+{ "en": "first (adv, in time or sequence)",              "fi": "",    "fr": "",   "ko": "먼저" },
 { "en": "recently",     "fi": "äskettäin",    "fr": "récemment",    "es": "recientemente",   "ko": "최근에" },
 { "en": "finally",     "fi": "lopulta, viimein",    "fr": "",    "es": "",   "ko": "" },
 { "en": "simultaneously, at the same time",     "fi": "samanaikaisesti",    "fr": "",    "es": "",   "ko": "" },

@@ -16,9 +16,9 @@
 { "en": "over",                "fi": "yli",     "fr": "",           "es": "",         "ko": "" },
 { "en": "around",              "fi": "",        "fr": "",           "es": "alrededor (de)",         "ko": "" },
 { "en": "up",                  "fi": "ylös",    "fr": "",           "es": "",         "ko": "" },
-{ "en": "down",                "fi": "alas",    "fr": "",           "es": "",         "ko": "" },
+{ "en": "down",                "fi": "alas (movement - Tule alas), alhaalla (stationary)",    "fr": "",           "es": "",         "ko": "" },
 
-{ "en": "between",               "fi": "välillä, välissä",    "fr": "", "es": "",         "ko": "" },
+{ "en": "between",               "fi": "välillä, välissä (Häntä koipien välissä- embarrassed, disappointed)",    "fr": "", "es": "",         "ko": "" },
 
 { "en": "across",               "fi": "poikki, halki, yli (Pallo vieri tien poikki)",    "fr": "", "es": "",         "ko": "" },
 

@@ -11,7 +11,7 @@
 { "en": "brown",     "fi": "ruskea",         "fr": "brun, marron", "es": "marrón","ko": "밤색"},
 { "en": "grey",      "fi": "harmaa",         "fr": "gris" ,    "es": "gris",      "ko": "회색"},
 { "en": "violet",    "fi": "violetti",       "fr": "violet",   "es": "violeta",   "ko": "보라색" },
-{ "en": "purple",    "fi": "",               "fr": "pourpre",  "es": "morado, lila",    "ko": "보라색" },
+{ "en": "purple",    "fi": "sinipunainen, violetti", "fr": "pourpre",  "es": "morado, lila",    "ko": "보라색" },
 
 
 
@@ -21,10 +21,10 @@
 
 { "en": "light (colour)",   "fi": "vaalea",  "fr": "clair",  "es": "claro",  "ko": ""},
 { "en": "dark (colour)",    "fi": "tumma",   "fr": "foncé",  "es": "oscuro",  "ko": ""},
-{ "en": "bright (colour)",  "fi": "",        "fr": "",       "es": "brillante",  "ko": ""},
+{ "en": "bright (colour)",  "fi": "kirkas",        "fr": "",       "es": "brillante",  "ko": ""},
 
 { "en": "pale",             "fi": "kalpea",  "fr": "pâle",   "es": "pálido",  "ko": ""},
-{ "en": "to dye",           "fi": "",        "fr": "",       "es": "teñir",  "ko": ""}
+{ "en": "to dye",           "fi": "värjätä, sävyttää",        "fr": "",       "es": "teñir",  "ko": ""}
 
 
 ]

@@ -5,22 +5,22 @@
 { "en": "search",       "fi": "hakea",    "fr": "chercher", "es": "buscar", "ko": "찾다" },
 { "en": "find",         "fi": "löytää",   "fr": "trouver",  "ko": "발견하다" },
 
-{ "en": "to hide",       "fi": "",    "fr": "cacher", "es": "esconder (de), ocultar", "ko": "" },
-{ "en": "hidden",       "fi": "",    "fr": "", "es": "oculto, escondido", "ko": "" },
-{ "en": "to add (to)",       "fi": "",    "fr": "", "es": "añadir (a)", "ko": "" },
+{ "en": "to hide (sth)","fi": "piilottaa, kätkeä ", "fr": "cacher", "es": "esconder (de), ocultar", "ko": "" },
+{ "en": "hidden",       "fi": "kätketty",           "fr": "",       "es": "oculto, escondido", "ko": "" },
+{ "en": "to add (to)",  "fi": "",                   "fr": "",       "es": "añadir (a)", "ko": "" },
 
 { "en": "excuse me",    "fi": "anteeksi",    "fr": "excusez-moi",   "es": "Disculpe", "ko": "실례합니다" },
-{ "en": "sorry",        "ko": "죄송합니다, 미안합니다",          "fi": "anteeksi",    "fr": "désolé" },
+{ "en": "sorry",        "fi": "anteeksi",    "fr": "désolé",        "ko": "죄송합니다, 미안합니다" },
 
-{ "en": "to push",       "fi": "",   "fr":"", "es": "empujar",  "ko": ""},
-{ "en": "to pull",       "fi": "",   "fr":"", "es": "tirar",  "ko": ""},
+{ "en": "to push",       "fi": "työntää",      "fr":"",           "es": "empujar",  "ko": ""},
+{ "en": "to pull",       "fi": "vetää",        "fr":"",           "es": "tirar",  "ko": ""},
 
 { "en": "question",     "fi": "kysymys, asia", "fr": "question",  "es": "(la) pregunta",  "ko": "문제" },
 { "en": "to ask",       "fi": "kysyä",         "fr": "",                     "ko": "묻다 (물어)" },
 { "en": "to ask (for)", "fi": "",              "fr": "",          "es": "pedir",           "ko": "묻다 (물어)" },
 { "en": "an answer",    "fi": "vastaus",       "fr": "réponse",   "es": "(la) respuesta",  "ko": "답변, 대답 (reply + answer)" },
 { "en": "to answer",    "fi": "vastata",       "fr": "répondre",  "es": "responder, contestar",       "ko": "답변하다, 대답하다" },
-{ "en": "to reply",     "fi": "",              "fr": "",          "es": "contestar",       "ko": "" },
+{ "en": "to reply",     "fi": "vastata",              "fr": "",          "es": "contestar",       "ko": "" },
 { "en": "to meet (=become acquainted)",        "fi": "tavata",   "fr": "", "es": "conocer (a)",  "ko": ""},
 { "en": "to make friends", "fi": "saada kavereita, hankkia, tavata",    "fr": "",  "es": "hacer amigos",  "ko": "사귀다" },
 
@@ -29,11 +29,11 @@
 { "en": "to disturb",      "fi": "häiritä",      "fr": "perturber",   "es": "perturbar",     "ko": "방해하다" },
 { "en": "to interrupt",    "fi": "keskeyttää",   "fr": "interrompre", "es": "interrumpir",   "ko": "방해하다" },
 
-{ "en": "mistake",           "fi": "",           "fr": "",             "es": "(el) error, (la) equivocación", "ko": ""  },
-{ "en": "to make a mistake", "fi": "",           "fr": "",             "es": "cometer un error", "ko": ""  },
-{ "en": "to correct",        "fi": "",           "fr": "",              "es": "corregir",  "ko": ""},
-{ "en": "to mistake (mix up, confuse)",          "fi": "",      "fr": "",    "es": "equivocarse (de) [+time, road]", "ko": ""  },
-{ "en": "to misunderstand",        "fi": "",     "fr": "",              "es": "malinterpretar", "ko": ""  },
+{ "en": "mistake",           "fi": "virhe",      "fr": "",            "es": "(el) error, (la) equivocación",  "ko": ""  },
+{ "en": "to make a mistake", "fi": "tehdä virhe","fr": "",            "es": "cometer un error",               "ko": ""  },
+{ "en": "to correct",        "fi": "korjata, oikaista","fr": "",      "es": "corregir",                       "ko": ""},
+{ "en": "to mistake (mix up, confuse)","fi": "ymmärtää väärin; (to mistake sb for sth) luulla", "fr": "",            "es": "equivocarse (de) [+time, road]", "ko": ""  },
+{ "en": "to misunderstand",   "fi": "ymmärtää väärin, käsittää väärin",     "fr": "",            "es": "malinterpretar",                 "ko": ""  },
 
 
 { "en": "invitation",      "fi": "kutsu",        "fr": "invitation",   "es": "(la) invitación",  "ko": "초대 (invite + wait), 초청 (invite + request)" },
@@ -50,9 +50,9 @@
 { "en": "on the contrary",   "fi": "päinvastoin",   "fr":"au contraire", "es":"al contrario, por el contrario",  "ko": "이에 반하여"},
 { "en": "on top of that",    "fi": "(sen) lisäksi", "fr":"", "es": "además", "ko": "게다가"},
 { "en": "in addition",       "fi": "(sen) lisäksi", "fr":"", "es": "además", "ko": "게다가"},
-{ "en": "instead of",   "fi": "sijasta, asemesta",   "fr":"au lieu de","es":"en vez de, en lugar de",  "ko": ""},
-{ "en": "however",   "fi": "",   "fr":"","es":"sin embargo",  "ko": ""},
-{ "en": "meanwhile",   "fi": "",   "fr":"","es":"mientras tanto",  "ko": ""},
+{ "en": "instead of",        "fi": "sijasta, asemesta",   "fr":"au lieu de","es":"en vez de, en lugar de",  "ko": ""},
+{ "en": "however",           "fi": "kuitenkin",   "fr":"","es":"sin embargo",  "ko": ""},
+{ "en": "meanwhile",         "fi": "sillä välin, samaan aikaan",   "fr":"","es":"mientras tanto",  "ko": ""},
 
 
 { "en": "warm",         "fi": "lämmin",   "fr":"chaud",  "es": "caliente (iron, oven, bath); templado(a) (water, soup); cálido(a) (weather, welcome, color); de abrigo (garment)",  "ko": "따뜻하다"},
@@ -75,7 +75,7 @@
 { "en": "neither",         "fi": "eikä, -kaan",      "fr": "",              "es": "tampoco",   "ko": "" },
 
 { "en": "to be interested in",        "fi": "",       "fr": "","es": "interesarse (en/por)",            "ko": ""},
-{ "en": "interesting",        "fi": "",       "fr": "","es": "interesante",            "ko": ""},
+{ "en": "interesting",        "fi": "kiinnostava, kiintoisa, mielenkiintoinen",       "fr": "","es": "interesante",            "ko": ""},
 
 
 { "en": "shallow",       "fi": "matala",    "fr": "peu profond",  "es": "poco profundo",  "ko": "얕다"},

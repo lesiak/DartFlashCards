@@ -1,13 +1,16 @@
 [
 
-  { "en": "appear",       "fi": "näyttää",    "fr": "apparaître",  "ko": "나타나다" },
+  { "en": "to appear (to seem)",       "fi": "näyttää",    "fr": "sembler , paraître",      "es": "parecer",   "ko": "" },
+  { "en": "to appear (become visible)",       "fi": "ilmaantua, ilmestyä",    "fr": "",    "es": "aparecer",  "ko": "" },
+
+
   { "en": "disappear",    "fi": "kadota",      "fr":"disparaître",  "ko": ""},
 
-  { "en": "to carry",    "fi": "kantaa",      "fr":"",  "ko": ""},
+  { "en": "to carry",    "fi": "kantaa (En jaksa kantaa sitä.)",      "fr":"",  "ko": ""},
 
 
   { "en": "resist",       "fi": "vastustaa",   "fr":"résister",      "es":"resistir", "ko": "" },
-
+  { "en": "well",       "fi": "hyvin (Menee tosi hyvin. Tunnen hänet hyvin.)",   "fr":"",      "es":"", "ko": "" },
 
   { "en": "alternative",   "fi": "vaihtoehto",  "fr":"",  "ko": ""},
   { "en": "option",        "fi": "vaihtoehto",  "fr":"",  "ko": ""},
@@ -41,6 +44,8 @@
 
 { "en": "earnings, gains, proceeds",         "ko": "수익금",       "fi": "",          "fr": "" },
 
+  { "en": "to linger", "fi": "viipyä",            "fr":"",         "es":"", "ko": ""},
+  { "en": "to overstay", "fi": "viipyä liian kauan",            "fr":"",         "es":"", "ko": ""},
 
 
 { "en": "to inspire",      "fi": "innostaa",          "fr": "inspirer",  "es": "inspirar", "ko": "" },
@@ -55,7 +60,7 @@
 { "en": "historical",      "fi": "",      "fr": "", "es": "histórico",  "ko": ""},
 { "en": "direct",      "fi": "",      "fr": "", "es": "directo",  "ko": ""},
 { "en": "rare",      "fi": "",      "fr": "", "es": "raro",  "ko": ""},
-
+  { "en": "a phase, stage",      "fi": "vaihe",      "fr": "", "es": "(la) etapa), (la) fase, (el) estadio",  "ko": ""},
 
 { "en": "due (to)",       "fi": "",          "fr": "grâce (à)", "es": "debido (a)",  "ko": ""},
 { "en": "to happen",      "fi": "tapahtua",  "fr": "", "es": "pasar",  "ko": ""},
@@ -100,8 +105,10 @@
 
 
 { "en": "to accent",   "ko": "",    "fi": "korostaa",   "fr":""},
+  { "en": "like, as",   "ko": "",    "fi": "kuten",   "fr":""},
 
-
+  { "en": "instruction",      "fi": "ohje",   "fr":"",  "es": "",  "ko": ""},
+  { "en": "outdated",      "fi": "vanhentunut",   "fr":"",  "es": "obsoleto",  "ko": ""},
 { "en": "to bump into, to find",        "fi": "",   "fr": "", "es": "encontrar",  "ko": ""},
 
 { "en": "to fall",        "fi": "",   "fr": "", "es": "caer",  "ko": ""},

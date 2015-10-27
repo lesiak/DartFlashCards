@@ -1,9 +1,10 @@
 [
 
-{ "en": "a little",   "fi": "vähän",     "fr": "un peu",    "es": "un poco",  "ko": "조금" },
-{ "en": "a lot",      "fi": "paljon",    "fr": "beaucoup",  "es": "mucho",    "ko": "많은" },
-{ "en": "majority",   "fi": "enemmistö", "fr": "majorité",  "es": "(la) mayoría", "ko": ""},
-{ "en": "minority",   "fi": "vähemmistö", "fr": "",  "es": "", "ko": ""},
+  { "en": "a little",   "fi": "vähän",      "fr": "un peu",    "es": "un poco",  "ko": "조금" },
+  { "en": "a lot",      "fi": "paljon",     "fr": "beaucoup",  "es": "mucho",    "ko": "많은" },
+  { "en": "majority",   "fi": "enemmistö",  "fr": "majorité",  "es": "(la) mayoría", "ko": ""},
+  { "en": "minority",   "fi": "vähemmistö", "fr": "",  "es": "", "ko": ""},
+  { "en": "many",       "fi": "moni",       "fr": "",  "es": "", "ko": ""},
 
 { "en": "enough (sufficient)",      "fi": "tarpeeksi, riittävästi",   "fr": "assez", "es": "suficiente, bastante",    "ko": "" },
 { "en": "enough (sufficiently)",    "fi": "tarpeeksi, riittävän",     "fr": "suffisamment, assez", "es": "(lo) suficientemente, lo bastante", "ko": "충분히" },
@@ -24,7 +25,7 @@
   { "en": "approximately",   "fi": "suunnilleen",                "fr": "" ,  "es": "",  "ko": ""},
   { "en": "roughly",         "fi": "karkeasti",                "fr": "" ,  "es": "",  "ko": ""},
 
-
+  { "en": "amount",          "fi": "määrä, lukumäärä",     "fr": " quantité, nombre, montant",  "ko": "" },
   { "en": "an estimate",     "fi": "arvio",                "fr": "" ,  "es": "",  "ko": ""},
   { "en": "to estimate",     "fi": "arvioida",                "fr": "" ,  "es": "",  "ko": ""}
 

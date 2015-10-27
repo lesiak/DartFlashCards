@@ -2,6 +2,7 @@
 
 { "en": "memory (souvenir)",      "fi": "muisto",        "fr": "souvenir",  "es": "(el) recuerdo","ko": "기억" },
 { "en": "remember",    "fi": "muistaa",       "fr": "rappeler",  "es": "recordar", "ko": "기억하다" },
+{ "en": "to stick in the mind",    "fi": "jaada mieleen (Nuo lorut jäävät helposti mieleen.)",       "fr": "",  "es": "", "ko": "" },
 { "en": "forget",      "fi": "unohtaa",     "fr": "oublier",     "es": "olvidar, olvidarse de, olvidársele algo a alguien (Se me olvidó)",   "ko": "" },
 { "en": "dream",       "fi": "unelma",      "fr": "rêve",        "es": "(el) sueño",   "ko": "" },
 { "en": "to dream",    "fi": "unelmoida",   "fr": "rêver",       "es": "soñar",   "ko": "" },
@@ -20,6 +21,7 @@
 
 
   { "en": "(to be) capable (of)",   "fi": "pystyä (jhk), pystyä tekemään jtk",   "fr": "capable (de)",   "es": "capaz (de)", "ko": ""},
+  { "en": "able (capable)",   "fi": "kykenevä (Etsitään tiimityöhön kykenevää assistenttia.)",   "fr": "capable (de)",   "es": "capaz (de)", "ko": ""},
 
   { "en": "to raise",      "fi": "nostaa, korottaa" , "fr": "",  "es": "", "ko": ""},
   { "en": "a raise",      "fi": "nosto, korotus" , "fr": "",  "es": "", "ko": ""},
@@ -39,7 +41,7 @@
 
 
 { "en": "solution",   "fi": "ratkaisu",    "fr": "solution",  "es": "(la) solución",  "ko": "해결" },
-{ "en": "result",     "fi": "tulos",       "fr": "résultat",  "es": "(el) resultado", "ko": "결과 (finish + result)"},
+{ "en": "result",     "fi": "tulos (Tulokset puhuvat puolestaan.)",       "fr": "résultat",  "es": "(el) resultado", "ko": "결과 (finish + result)"},
 { "en": "success",    "fi": "menestys",    "fr": "succès, réussite",  "es": "(el) éxito", "ko": ""},
 
 { "en": "to decide",  "fi": "päättää",     "fr": "décider",   "es": "decidir",  "ko": "결정하다"},

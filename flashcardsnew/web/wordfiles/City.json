@@ -31,6 +31,8 @@
 
 { "en": "town hall",        "fi": "kaupungintalo" , "fr":"mairie",        "es": "(el) ayuntamiento",   "ko": ""},
 { "en": "square (in city)", "fi": "aukio",          "fr":"place",         "es": "(la) plaza",  "ko": ""},
+{ "en": "market, marketplace", "fi": "tori",          "fr":"",         "es": "",  "ko": ""},
+
 { "en": "fountain",         "fi": "suihkulähde",    "fr":"fontaine",      "es": "(la) fuente",  "ko": ""},
 
 { "en": "other side",       "fi": "toinen puoli (toisella puolella)",    "fr": "?",  "es": "(el) otro lado",   "ko": "건너편" },

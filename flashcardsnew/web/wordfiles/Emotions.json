@@ -18,6 +18,7 @@
 
 { "en": "upset",         "fi": "järkyttynyt",         "fr": "bouleversé",  "es": "indignado",    "ko": "" },
 { "en": "disappointed",  "fi": "pettynyt",            "fr": "déçu",        "es": "decepcionado", "ko": "" },
+{ "en": "disappointment","fi": "pettymys",            "fr": "",            "es": "(la) decepción", "ko": "" },
 { "en": "depressed",     "fi": "masentunut",          "fr": "déprimé",     "es": "deprimido",   "ko": "" },
 { "en": "lonely",        "fi": "yksinäinen",          "fr": "solitaire",   "es": "solitario, solo",   "ko": "고독한" },
 

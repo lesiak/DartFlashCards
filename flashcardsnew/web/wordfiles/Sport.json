@@ -45,7 +45,7 @@
 
 { "en": "spectator", "fi": "katsoja",    "fr": "spectateur",    "es": "(el) espectador", "ko": "구경꾼"},
 { "en": "gym",       "fi": "punttisali, kuntosali" , "fr": "",  "es": "(el) gimnasio",   "ko": "체육관"},
-
+  { "en": "bodybuilder",        "fi": "kehonrakentaja" , "fr": "",  "es": "",   "ko": ""},
 { "en": "record (best result)", "fi": "ennätys" , "fr": "",     "es": "(el) récord",    "ko": ""},
 
  

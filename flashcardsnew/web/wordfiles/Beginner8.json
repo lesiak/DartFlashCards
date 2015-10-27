@@ -2,6 +2,7 @@
 
 
 { "en": "generally",         "ko": "일반적으로",       "fi": "yleensä, tavallisesti",          "fr": "généralement, en général" },
+  { "en": "general",         "fi": "yleinen",          "fr": "" ,     "ko": ""},
 
 { "en": "sure",             "fi": "varma",    "fr": "sûr", "fr": "seguro",  "ko": ""},
 
@@ -22,13 +23,13 @@
 
 { "en": "to change, to replace one's own clothing",        "ko": " 갈아입다",          "fi": "vaihtaa vaatteet",    "fr": "se changer" }, 
 
-{ "en": "line",          "ko": "호선",       "fi": "linja",    "fr": "ligne de métro" },
+{ "en": "line",         "fi": "viiva",          "fr": "" ,    "ko": "호선" },
 { "en": "to burn",        "ko": "타다",          "fi": "polttaa",    "fr": "" },
 
 { "en": "to replace",        "ko": "",          "fi": "korvata",       "fr": "remplacer" },
 { "en": "replacement",        "ko": "",          "fi": "korvaaminen, korvaus",       "fr": "remplacement" },
 
-
+  { "en": "back",    "fi": "takaisin (En tule enää takaisin.)" , "fr":"",   "ko": ""},
 
 
 
@@ -44,7 +45,7 @@
 
 { "en": "press (publishing)","fi": "",                "fr": "",             "es": "(la) prensa",  "ko": "" },
 { "en": "journalism",        "fi": "",                     "fr": "",        "es":"(el) periodismo", "ko": ""},
-{ "en": "to publish",        "fi": "julkaista, kustantaa", "fr": "publier", "es": "publicar",   "ko": "출판하다" },
+{ "en": "to publish",        "fi": "julkaista, kustantaa (Työryhmän raportti julkaistiin verkossa.)", "fr": "publier", "es": "publicar",   "ko": "출판하다" },
 { "en": "publisher",         "fi": "kustantaja",           "fr": "éditeur", "es": "(el) editor",  "ko": "" },
 { "en": "publishing house",  "fi": "kustantamo",          "fr": "",      "es": "(casa) editorial",  "ko": "출판사" },
 

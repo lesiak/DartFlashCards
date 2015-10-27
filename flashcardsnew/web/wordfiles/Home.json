@@ -5,7 +5,7 @@
 { "en": "a flat",         "fi": "huoneisto",  "fr": "appartement",  "es": "(el) piso","ko": ""      },
 { "en": "apartment",      "fi": "huoneisto",  "fr": "appartement",  "es": "(el) apartamento", "ko": "아파트, 빌라" },
 { "en": "room",           "fi": "huone",      "fr": "chambre",      "es": "(la) habitación, (el) cuarto", "hu": "szoba",            "ko": "방" },
-{ "en": "door",           "fi": "ovi",        "fr": "porte",        "es": "(la) puerta",      "hu": "ágy",   "ko": "문" },    
+{ "en": "door",           "fi": "ovi (Hän ei avannut ovea. He didn't open the door. Hän avasi oven.)",        "fr": "porte",        "es": "(la) puerta",      "hu": "ágy",   "ko": "문" },
 { "en": "window",         "fi": "ikkuna",     "fr": "fenêtre",      "es": "(la) ventana",     "hu": "ablak", "ko": "창, 창문"   },   
 { "en": "furniture",      "fi": "kalusteet",  "fr": "meubles",      "es": "muebles",          "hu": "bútor", "ko": "가구" },
 { "en": "refrigerator",   "fi": "jääkaappi",  "fr": "réfrigérateur","es": "(el) refrigerador","ko": "냉장고" },
@@ -66,6 +66,7 @@
 { "en": "corner (of room)", "fi": "nurkka, kulma",  "fr": "coin (m)",  "es": "(el) rincón",   "ko": "구석, 모서리" },
 
 { "en": "cellar",        "fi": "kellari",  "fr": "cave, cellier",      "es": "(el) sótano (basement), (la) bodega (for wine) " , "ko": "지하실" },
+{ "en": "yard (court, garden)",       "fi": "piha",  "fr": "",      "es": "(el) patio " , "ko": "" },
 { "en": "to hire, rent", "fi": "vuokrata",  "fr": "",                    "es": "alquilar",  "ko": ""},
   { "en": "rent (payment)", "fi": "vuokra",  "fr": "",                    "es": "(la) renta, alquiler",  "ko": ""}
 

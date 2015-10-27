@@ -52,8 +52,8 @@
 { "en": "greedy",          "fi": "ahne",         "fr": "",    "es": "codicioso, ávido",   "ko": "" },
 { "en": "greedily",        "fi": "ahneesti",     "fr": "",    "es": "ávidamente, con avidez",   "ko": "" },
 
-{ "en": "mean, wicked",  "fi": "",               "fr": "méchant",     "es": "malo", "ko": "" },
-{ "en": "petty, mean",  "fi": "",               "fr": "",            "es": "mezquino", "ko": "" },
+{ "en": "mean, wicked",  "fi": "ilkeä",          "fr": "méchant",     "es": "malo", "ko": "" },
+{ "en": "petty, mean",   "fi": "",               "fr": "",            "es": "mezquino", "ko": "" },
 { "en": "cruel",         "fi": "julma",          "fr": "cruel",       "es": "cruel", "ko": "" },
 { "en": "brutal",        "fi": "brutaali",       "fr": "brutal",      "es": "brutal",  "ko": "" },
 { "en": "brutality",     "fi": "",               "fr": "brutalité",   "es": "(la) brutalidad",  "ko": "" },

@@ -4,7 +4,6 @@
 { "en": "soldier",      "fi": "sotilas",    "fr": "soldat",    "es": "(el) soldado",  "ko": "군인" },
 { "en": "army",         "fi": "armeija",    "fr": "armée",     "es": "(el) ejército", "ko": "군대" },
 { "en": "war",          "fi": "sota",       "fr": "guerre" ,   "es": "(la) guerra",   "ko": "전쟁"},
-{ "en": "enemy",        "fi": "vihollinen", "fr": "ennemi",    "es": "(el) enemigo",  "ko": "적" },
 { "en": "weapon",       "fi": "ase",        "fr": "arme",      "es": "(la) arma",     "ko": "무기" },
 { "en": "nuclear weapon","fi": "ydinase",   "fr": "arme nucléaire","es": "(la) arma nuclear", "ko": "핵무기" },
 

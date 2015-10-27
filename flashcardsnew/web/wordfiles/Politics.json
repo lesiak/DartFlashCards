@@ -31,6 +31,7 @@
 
 
 { "en": "politics",       "fi": "politiikka",              "fr": "politique",   "es": "(la) política",   "ko": "" },
+  { "en": "political",    "fi": "poliittinen",              "fr": "",   "es": "",   "ko": "" },
 { "en": "democracy",      "fi": "kansanvalta, demokratia", "fr": "démocratie",  "es": "(la) democracia",   "ko": "민주주의" },
 { "en": "communism",      "fi": "kommunismi",              "fr": "communisme",  "es": "(el) comunismo",   "ko": "" },
 { "en": "liberalism",     "fi": "liberalismi",             "fr": "libéralisme", "es": "(el) liberalismo",   "ko": "" },

@@ -79,10 +79,11 @@
 { "en": "purpose",         "fi": "tarkoitus",          "fr": "but, intention", "ko": "목적" },
     
 { "en": "to consider",     "fi": "harkita",           "fr": "envisager, considérer",   "es": "considerar", "ko": "고려하다" },
-{ "en": "believe",         "fi": "uskoa (siihen)",    "fr": "croire",                  "es": "creer",  "ko": "믿다" },
+{ "en": "believe",         "fi": "uskoa (siihen - in, sitä -  that someone is telling the truth)",    "fr": "croire",                  "es": "creer",  "ko": "믿다" },
 { "en": "to expect",       "fi": "odottaa",           "fr": "attendre",                "es": "esperar",    "ko": "예상하다, 기대하다" },
   { "en": "expectation",       "fi": "odotus",           "fr": "",                "es": "",    "ko": "" },
 { "en": "to intend",       "fi": "aikoa",             "fr": "avoir l'intention",       "es": "tener la intención (de)",    "ko": "" },
+{ "en": "intention",       "fi": "aikomus, aie (Tie helvettiin on kivetty hyvillä aikomuksilla)",             "fr": "",       "es": "",    "ko": "" },
 { "en": "to suppose",      "fi": "",                  "fr": "",                        "es": "suponer",  "ko": ""},
 { "en": "supposed",        "fi": "",                  "fr": "",                        "es": "supuesto",  "ko": ""},
 { "en": "intuition",       "fi": "intuitio",   "fr":"intuition", "es":"(la) intuición", "ko": "직관"},

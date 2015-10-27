@@ -1,6 +1,6 @@
 [
 
-{ "en": "small",        "fi": "pieni",       "fr": "petit",    "es": "pequeño",    "ko": " 작다" },
+{ "en": "small, little","fi": "pieni",       "fr": "petit",    "es": "pequeño",    "ko": " 작다" },
 { "en": "big",          "fi": "iso, suuri",  "fr": "grand",    "es": "grande",     "ko": " 크다" },
 { "en": "low",          "fi": "matala",      "fr": "bas",      "es": "bajo",       "ko": "키가 작다" },
 { "en": "high",         "fi": "korkea",      "fr": "haut",     "es": "alto",       "ko": "키가 크다" },

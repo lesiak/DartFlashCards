@@ -81,6 +81,8 @@
 { "en": "friend",        "fi": "ystävä",        "fr": "ami",            "es": "(el) amigo",  "ko": "친구" },
 { "en": "friendship",    "fi": "ystävyys",      "fr": "amitié",         "es": "(la) amistad",  "ko": "" },
 
+{ "en": "enemy",        "fi": "vihollinen", "fr": "ennemi",    "es": "(el) enemigo",  "ko": "적" },
+
 { "en": "a couple",          "fi": "pari",              "fr": "couple",    "es": "(la) pareja", "ko": "" },
 { "en": "boyfriend",         "fi": "poikaystävä",       "fr": "copain",    "es": "(el) novio", "ko": "" },
 { "en": "marriage",          "fi": "avioliitto, häät",  "fr": "mariage",   "es": "(el) matrimonio",     "ko": "결혼 (tie + marry)" },
