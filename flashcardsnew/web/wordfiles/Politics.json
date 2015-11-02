@@ -18,6 +18,7 @@
 { "en": "society",        "fi": "yhteiskunta",            "fr": "société",     "es": "(la) sociedad",  "ko": "사회" },
 { "en": "nation",         "fi": "kansakunta",             "fr": "nation",      "es": "(la) nación",  "ko": "" },
 { "en": "national",       "fi": "kansallinen",            "fr": "national",    "es": "nacional",  "ko": "" },
+{ "en": "community",      "fi": "yhteisö",                "fr": "",      "es": "",  "ko": "" },
 
 
 { "en": "to negotiate",   "fi": "neuvotella",    "fr": "négocier",    "es": "negociar", "ko": "" },
@@ -43,8 +44,6 @@
 { "en": "to vote",       "fi": "",                        "fr": "",             "es": "votar",               "ko": "" },
 { "en": "voter",         "fi": "",                        "fr": "",             "es": "(el) votante",        "ko": "" },
   { "en": "demonstration (political)","fi": "mielenosoitus", "fr": "",          "es": "(la) manifestación",  "ko": "시위, 시연, 데모" },
-  { "en": "against",       "fi": "vastaan",                  "fr": "",          "es": "contra",              "ko": "" },
-  { "en": "for (in advocacy of)", "fi": "puolesta",          "fr": "",          "es": "",                    "ko": "" },
 
 { "en": "coup d'état",       "fi": "",                    "fr": "coup d'état", "es": "(el) golpe de estado", "ko": "" },
 { "en": "to rebel (against)","fi": "",              "fr": "",  "es": "rebelarse (contra)", "ko": "" }, 

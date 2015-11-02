@@ -4,6 +4,8 @@
 { "en": "generally",         "ko": "일반적으로",       "fi": "yleensä, tavallisesti",          "fr": "généralement, en général" },
   { "en": "general",         "fi": "yleinen",          "fr": "" ,     "ko": ""},
 
+  { "en": "public",       "fi": "julkinen",   "fr":"", "es": "",  "ko": ""},
+
 { "en": "sure",             "fi": "varma",    "fr": "sûr", "fr": "seguro",  "ko": ""},
 
 { "en": "to bite",          "fi": "purra, haukata",          "fr": "mordre",    "ko": "씹다" },
@@ -19,7 +21,7 @@
   { "en": "to own, possess",             "fi": "omistaa",    "fr": "",  "ko": "" },
 { "en": "pretext",         "fi": "tekosyy",       "fr": "prétexte",   "es": "(el) pretexto",  "ko": "핑계" },
 
-{ "en": "long, for a long time",        "ko": "오래",          "fi": "kauan",    "fr": "longtemps" },
+{ "en": "long, for a long time",     "fi": "kauan",    "fr": "longtemps",   "ko": "오래" },
 
 { "en": "to change, to replace one's own clothing",        "ko": " 갈아입다",          "fi": "vaihtaa vaatteet",    "fr": "se changer" }, 
 
@@ -37,7 +39,9 @@
 
 
 { "en": "to function",       "ko": "?",       "fi": "toimia",    "fr": "marcher, fonctionner" },
-{ "en": "to use",       "ko": "사용하다, 쓰다",       "fi": "käyttää",    "fr": "utiliser, se servir de" },
+{ "en": "to use",           "fi": "käyttää",    "fr": "utiliser, se servir de",  "ko": "사용하다, 쓰다" },
+{ "en": "used",             "fi": "käytetty",    "fr": "",  "ko": "" },
+
 { "en": "belong",       "ko": "속하다",       "fi": "kuulua",    "fr": "appartenir à, être membre de" },
 
 

@@ -85,6 +85,8 @@
 
 { "en": "a level",      "fi": "taso",      "fr": "niveau", "es": "(el) nivel",  "ko": ""},
 
+{ "en": "centre",      "fi": "keskus",      "fr": "", "es": "",  "ko": ""},
+
 { "en": "current, flow",       "fi": "virta",   "fr":"courant", "es":"(la) corriente",  "ko": ""},
 { "en": "given",           "fi": "annettu",   "fr":"donné", "es":"dado",  "ko": ""},
 
@@ -92,9 +94,16 @@
 
 { "en": "just (adv)",       "fi": "",   "fr":"", "es":"justo",  "ko": ""},
 { "en": "just (only)",       "fi": "ainoastaan",   "fr":"", "es":"",  "ko": ""},
-{ "en": "full, filled",       "fi": "",   "fr":"", "es": "lleno (de)",  "ko": ""},
-{ "en": "minimum",       "fi": "",   "fr":"", "es": "mínimo",  "ko": ""},
 
+{ "en": "minimum",       "fi": "",   "fr":"", "es": "mínimo",  "ko": ""},
+  { "en": "activity",       "fi": "toiminta",   "fr":"", "es": "",  "ko": ""},
+  { "en": "personally",       "fi": "henkilökohtaisesti",   "fr":"", "es": "",  "ko": ""},
+
+
+
+{ "en": "anything",       "fi": "mikään (Mikään ei onnistu. Ostitko mitään?)",   "fr":"", "es":"",  "ko": ""},
+
+{ "en": "process",       "fi": "prosessi",   "fr":"", "es": "muerto",  "ko": ""},
 
 { "en": "dead",       "fi": "",   "fr":"", "es": "muerto",  "ko": ""},
 { "en": "to bury",      "fi": "",      "fr": "", "es": "enterrar",  "ko": ""},
@@ -104,6 +113,7 @@
 { "en": "movement",       "fi": "liike",   "fr":"", "es": "",  "ko": ""},
 
 
+  { "en": "order (arrangement)",       "fi": "järjestys",   "fr":"", "es": "",  "ko": ""},
 { "en": "to accent",   "ko": "",    "fi": "korostaa",   "fr":""},
   { "en": "like, as",   "ko": "",    "fi": "kuten",   "fr":""},
 
@@ -111,7 +121,7 @@
   { "en": "outdated",      "fi": "vanhentunut",   "fr":"",  "es": "obsoleto",  "ko": ""},
 { "en": "to bump into, to find",        "fi": "",   "fr": "", "es": "encontrar",  "ko": ""},
 
-{ "en": "to fall",        "fi": "",   "fr": "", "es": "caer",  "ko": ""},
+{ "en": "to fall",        "fi": " kaatua , pudota",   "fr": "", "es": "caer",  "ko": ""},
 { "en": "a fall",        "fi": "",   "fr": "", "es": "(la) caída",  "ko": ""},
 
 { "en": "to turn, to twist",        "fi": "",   "fr": "", "es": "torcer",  "ko": ""},
@@ -126,9 +136,11 @@
 { "en": "to obtain",        "fi": "",   "fr": "", "es": "conseguir",  "ko": ""},
 { "en": "to consent",        "fi": "",   "fr": "", "es": "consentir",  "ko": ""},
 
+  { "en": "control",        "fi": "hallinta (Kaikki on hallinnassa.)",   "fr": "", "es": "",  "ko": ""},
 
+  { "en": "type",        "fi": "tyyppi",   "fr": "", "es": "",  "ko": ""},
 { "en": "to serve",        "fi": "",   "fr": "", "es": "servir",  "ko": ""},
-
+{ "en": "issue",        "fi": "asia",   "fr": "", "es": "",  "ko": ""},
 { "en": "to ascend",        "fi": "",   "fr": "", "es": "ascender",  "ko": ""},
 { "en": "to foster, encourage",        "fi": "",   "fr": "", "es": "fomentar (algo)",  "ko": ""},
 

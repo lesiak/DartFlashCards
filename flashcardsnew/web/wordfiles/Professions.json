@@ -61,6 +61,7 @@
 { "en": "teacher",       "fi": "opettaja" ,   "fr":"professeur",   "es": "(el) profesor, (el) maestro", "ko": ""},
 { "en": "apprentice",    "fi": "oppipoika" ,  "fr":"apprenti",            "es": "(el) aprendiz", "ko": ""},
 { "en": "to train, educate (sb)", "fi": "kouluttaa" ,  "fr":"former",   "es": "formar", "ko": ""},
+{ "en": "education", "fi": "koulutus" ,  "fr":"",   "es": "", "ko": ""},
 
 
 

@@ -2,7 +2,7 @@
  
 { "en": "hotel",         "fi": "hotelli",      "fr": "hôtel",       "es": "(el) hotel",      "ko": "호텔" },
 { "en": "hostel",        "fi": "retkeilymaja", "fr": "auberge",     "es": "(el) albergue",      "ko": "" },
-{ "en": "a view (sight)","fi": "",             "fr": "",            "es": "(la) vista",      "ko": "" },
+{ "en": "a view (sight)","fi": "näkymä",       "fr": "",            "es": "(la) vista",      "ko": "" },
 { "en": "to reserve",    "fi": "varata",       "fr": "",            "es": "reservar",        "ko": "" },
 { "en": "a booking",     "fi": "",             "fr": "",            "es": "(la) reserva",        "ko": "" },
 

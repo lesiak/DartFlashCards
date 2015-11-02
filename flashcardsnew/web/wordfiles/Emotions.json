@@ -65,7 +65,7 @@
 { "en": "hopefully(!)","fi": "",     "fr": "",          "es": "Ojalá",        "ko": "" },
 
 { "en": "luckily","fi": "",     "fr": "",          "es": "por suerte",        "ko": "" },
-{ "en": "gratitude","fi": "",     "fr": "",          "es": "(la) gratitud",        "ko": "" },
+{ "en": "gratitude","fi": "kiitollisuus",     "fr": "",          "es": "(la) gratitud",        "ko": "" },
 
 { "en": "emotion",    "fi": "tunne, emotio",  "fr": "émotion",   "es": "(la) emoción",   "ko": "감정" },
 { "en": "mood",       "fi": "mieliala",       "fr": "humeur",    "es": "(el) humor",     "ko": "기분" },
@@ -73,12 +73,12 @@
 { "en": "feeling",    "fi": "tunne",          "fr": "sentiment", "es": "(el) sentimiento",     "ko": "" },
 { "en": "stress",     "fi": "stressi",        "fr": "stress",    "es": "(el) estrés",          "ko": "스트레스" },
 { "en": "stressed out","fi": "stressaantunut","fr": "stressé",   "es": "estresado",          "ko": "" },
-{ "en": "to relax",    "fi": "",              "fr":"",           "es":"relajarse", "ko": ""},
-{ "en": "relaxed",     "fi": "",              "fr":"",           "es":"relajado", "ko": ""},
+{ "en": "to relax",    "fi": "rentoutua, ottaa rennosti",              "fr":"",           "es":"relajarse", "ko": ""},
+{ "en": "relaxed",     "fi": "rentoutunut",              "fr":"",           "es":"relajado", "ko": ""},
 
 
 { "en": "to suffer",    "fi": "",             "fr": "",          "es": "sufrir", "ko": "" },
-
+{ "en": "to give in (admit defeat)",    "fi": "antaa periksi",             "fr": "",          "es": "ceder, caerse", "ko": "" },
 { "en": "pleasure",   "fi": "ilo, huvi",      "fr": "plaisir",   "es": "(el) placer",   "ko": "" },
 { "en": "hunger",     "fi": "nälkä",          "fr": "faim",      "es": "(el) hambre",   "ko": "" },
 { "en": "thirst",     "fi": "jano",           "fr": "soif",      "es": "(la) sed",      "ko": "" },

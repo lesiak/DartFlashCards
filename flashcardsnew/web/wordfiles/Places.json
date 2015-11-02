@@ -22,15 +22,16 @@
 
 { "en": "across",               "fi": "poikki, halki, yli (Pallo vieri tien poikki)",    "fr": "", "es": "",         "ko": "" },
 
-{ "en": "through",               "fi": "läpi",    "fr": "", "es": "",         "ko": "" },
+{ "en": "through",               "fi": "kautta, läpi",    "fr": "", "es": "",         "ko": "" },
 { "en": "topmost",               "fi": "ylimmäinen",    "fr": "", "es": "",         "ko": "" },
 
 { "en": "edge, border",               "fi": "reuna",    "fr": "", "es": "",         "ko": "" },
 
-{ "en": "somewhere",               "fi": "",    "fr": "", "es": "jossakin",         "ko": "" },
-
+{ "en": "somewhere",               "fi": "jossakin",    "fr": "", "es": "",         "ko": "" },
+  { "en": "position",               "fi": "asema",    "fr": "", "es": "",         "ko": "" },
 { "en": "forward (adirection)","fi": "",        "fr": "",           "es": "adelante",      "ko": "" },
-{ "en": "to be situated",      "fi": "",        "fr": "",           "es": "estar situado", "ko": ""}
+{ "en": "to be situated",      "fi": "",        "fr": "",           "es": "estar situado", "ko": ""},
+  { "en": "He lives 16 km away.",      "fi": "Hän asuu kuudentoista kilometrin päässä.",        "fr": "",           "es": "", "ko": ""}
 
 
 ]

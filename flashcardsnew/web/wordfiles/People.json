@@ -37,7 +37,7 @@
 { "en": "life",             "fi": "elämä" ,    "fr": "vie",      "es":"(la) vida",     "ko": "생명"},
 { "en": "young",            "fi": "nuori" ,    "fr": "jeune",    "es": "joven",  "ko": "어리다"},
 { "en": "youth (young age)","fi": "nuoruus" ,  "fr": "jeunesse", "es": "(la) juventud",  "ko": ""},
-
+  { "en": "adult",            "fi": "aikuinen, täysi-ikäinen." ,    "fr": "",    "es": "",  "ko": ""},
 
 { "en": "date of birth",        "ko": "생년월일",  "fi": "syntymäaika" , "fr":"date de naissance"},
 { "en": "place of birth",       "ko": "출생지",    "fi": "syntymäpaikka" , "fr":"lieu de naissance"},
@@ -98,7 +98,9 @@
 
 { "en": "engagement (betrothal)",           "fi": "kihlaus",    "fr": "fiançailles",  "ko": "약혼 (contract + marry)" },
 { "en": "date (meeting)","fi": "",   "fr":"",      "es": "(la) cita",   "ko": ""},
-{ "en": "blind date",    "fi": "sokkotreffit",   "fr":"",      "es": "(la) cita a ciegas",   "ko": "소개팅"},
+  { "en": "a divorce",     "fi": "avioero",   "fr":"",      "es": "",   "ko": ""},
+
+  { "en": "blind date",    "fi": "sokkotreffit",   "fr":"",      "es": "(la) cita a ciegas",   "ko": "소개팅"},
 
  { "en": "neighbour",   "fi": "naapuri",     "fr": "voisin",  "es": "(el) vecino",  "ko": "이웃 사람" },
  { "en": "flatmate",    "fi": "kämppäkaveri, kämppis",     "fr": "colocataire",  "es": "(el) compañero de piso",  "ko": "" },

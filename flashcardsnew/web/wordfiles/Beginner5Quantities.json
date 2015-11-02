@@ -14,6 +14,7 @@
 { "en": "too much",      "fi": "",   "fr": "", "es": "demasiada",    "ko": "" },
   { "en": "more",      "fi": "enemmän, lisää",   "fr": "", "es": "",    "ko": "" },
   { "en": "less",      "fi": "vähemmän",         "fr": "", "es": "",    "ko": "" },
+  { "en": "most",      "fi": "eniten",   "fr": "", "es": "",    "ko": "" },
 
 { "en": "very",       "fi": "hyvin, erittäin (erittäin mielenkiintoista)",   "fr": "très",    "es": "muy",   "ko": "아주" },
 { "en": "pretty (quite, fairly)", "fi": "",   "fr": "",    "es": "bastante",   "ko": "" },

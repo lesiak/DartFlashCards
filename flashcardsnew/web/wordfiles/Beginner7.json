@@ -1,7 +1,7 @@
 [
 
 { "en": "who (?)",      "fi": "kuka",    "fr": "qui",  "es": "quién",    "ko": "" },
-{ "en": "where (?)",    "fi": "missä",   "fr": "où",   "es": "dónde",    "ko": "어디에" },
+{ "en": "where (?)",    "fi": "missä (Missä asut?, Minne/ mihin olet menossa?)",   "fr": "où",   "es": "dónde",    "ko": "어디에" },
 { "en": "when (?)",      "fi": "milloin",    "fr": "",  "es": "",    "ko": "" },
 { "en": "this",         "fi": "tämä",   "fr": "",   "es": "",    "ko": "" },
 { "en": "that",         "fi": "tuo",   "fr": "",   "es": "",    "ko": "" },
@@ -34,7 +34,10 @@
 { "en": "to reach (manage to touch)",      "fi": "",   "fr":"", "es": "alcanzar",  "ko": ""},
 { "en": "to highlight (problem, difference)",      "fi": "",   "fr":"", "es": "destacar",  "ko": ""},
 { "en": "to highlight (with pen)",      "fi": "",   "fr":"", "es": "resaltar",  "ko": ""},
- 
+
+{ "en": "to demand, require",          "fi": "vaatia",     "fr": "exiger" ,  "ko": "요구하다, 필요로하다"},
+
+{ "en": "demanding",          "fi": "vaativa",     "fr": "" ,  "ko": ""},
 { "en": "determination",      "fi": "",   "fr":"", "es": "(el) empeño",  "ko": ""},
 { "en": "to achieve",         "fi": "",   "fr":"",    "es": "lograr",  "ko": ""},
 
@@ -91,7 +94,11 @@
 
 { "en": "to intimidate",    "fi": "",       "fr": "",   "es": "intimidar", "ko": "" },
 
-{ "en": "to benefit (from)",   "fi": "",       "fr": "",   "es": "beneficiarse (de)", "ko": "" },
+{ "en": "benefit",   "fi": "hyöty, etu",       "fr": "",   "es": "", "ko": "" },
+{ "en": "to benefit (from)",   "fi": "hyödyttää, edistää",       "fr": "",   "es": "beneficiarse (de)", "ko": "" },
+
+
+
 { "en": "to affect",           "fi": "vaikuttaa",       "fr": "",   "es": "afectar; influir en", "ko": "" },
 
 { "en": "to save (rescue)",    "fi": "",          "fr": "",         "es": "salvar", "ko": "" },

@@ -2,7 +2,8 @@
 
 { "en": "small, little","fi": "pieni",       "fr": "petit",    "es": "pequeño",    "ko": " 작다" },
 { "en": "big",          "fi": "iso, suuri",  "fr": "grand",    "es": "grande",     "ko": " 크다" },
-{ "en": "low",          "fi": "matala",      "fr": "bas",      "es": "bajo",       "ko": "키가 작다" },
+{ "en": "low (height)",          "fi": "matala",      "fr": "bas",      "es": "bajo",       "ko": "키가 작다" },
+{ "en": "low (amount, quantity)",          "fi": "alhainen (alhaiset hinnat, alhainen korkotaso)",      "fr": "",      "es": "",       "ko": "" },
 { "en": "high",         "fi": "korkea",      "fr": "haut",     "es": "alto",       "ko": "키가 크다" },
 
 { "en": "new",          "fi": "uusi",        "fr": "nouveau, neuf",  "es": "nuevo", "ko": "새로운, 새" },

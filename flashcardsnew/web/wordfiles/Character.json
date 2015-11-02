@@ -58,22 +58,22 @@
 { "en": "brutal",        "fi": "brutaali",       "fr": "brutal",      "es": "brutal",  "ko": "" },
 { "en": "brutality",     "fi": "",               "fr": "brutalité",   "es": "(la) brutalidad",  "ko": "" },
 
-{ "en": "crazy",         "fi": "hullu",          "fr": "fou",         "es": "loco",   "ko": ""},
-{ "en": "absent-minded", "fi": "hajamielinen",   "fr": "",            "es": "despistado",   "ko": ""},
+{ "en": "crazy",         "fi": "hullu",          "fr": "fou",         "es": "loco",       "ko": ""},
+{ "en": "absent-minded", "fi": "hajamielinen",   "fr": "",            "es": "despistado", "ko": ""},
 
-{ "en": "kind",          "fi": "",               "fr": "aimable",     "es": "amable", "ko": "" },
-{ "en": "loving, kind",  "fi": "",               "fr": "affectueux",  "es": "cariñoso", "ko": "" },
-{ "en": "funny",         "fi": "",               "fr": "drôle",       "es": "gracioso", "ko": "" },
-{ "en": "ironic",        "fi": "ironinen",       "fr": "ironique",    "es": "irónico",  "ko": "" },
+{ "en": "kind",          "fi": "kiltti",         "fr": "aimable",     "es": "amable",     "ko": "" },
+{ "en": "loving, kind",  "fi": "",               "fr": "affectueux",  "es": "cariñoso",   "ko": "" },
+{ "en": "funny",         "fi": "",               "fr": "drôle",       "es": "gracioso",   "ko": "" },
+{ "en": "ironic",        "fi": "ironinen",       "fr": "ironique",    "es": "irónico",    "ko": "" },
 
-{ "en": "energetic",     "fi": "energinen",      "fr": "énergique",   "es": "enérgico", "ko": "" },
-{ "en": "active",        "fi": "aktiivinen",     "fr":"actif",        "es":"activo",    "ko": ""},
+{ "en": "energetic",     "fi": "energinen",      "fr": "énergique",   "es": "enérgico",   "ko": "" },
+{ "en": "active",        "fi": "aktiivinen",     "fr":"actif",        "es":"activo",      "ko": ""},
 
-{ "en": "selfish",       "fi": "itsekäs",        "fr":"égoïste",      "es":"egoísta",    "ko": ""},
+{ "en": "selfish",       "fi": "itsekäs",        "fr":"égoïste",      "es":"egoísta",     "ko": ""},
 { "en": "sociable",      "fi": "",               "fr":"",             "es":"sociable",    "ko": ""},
 
-{ "en": "sincere",      "fi": "vilpitön",        "fr": "sincère",     "es": "sincero", "ko": "진실하다" },
-{ "en": "honest",       "fi": "rehellinen",      "fr": "honnête",     "es": "honesto", "ko": "진실하다" },
+{ "en": "sincere",      "fi": "vilpitön",        "fr": "sincère",     "es": "sincero",    "ko": "진실하다" },
+{ "en": "honest",       "fi": "rehellinen",      "fr": "honnête",     "es": "honesto",    "ko": "진실하다" },
 { "en": "reliable",     "fi": "luotettava",      "fr": "fiable",     "ko": "믿음직하다" },
 { "en": "hard-working",     "fi": "ahkera",      "fr": "travailleur",  "es": "trabajador",     "ko": "" },
 { "en": "competent",        "fi": "",            "fr": "",            "es": "competente, capaz",     "ko": "" },

@@ -74,15 +74,18 @@
 { "en": "last night",   "fi": "viime yönä",    "fr": "la nuit dernière",  "es": "anoche",  "ko": " 어젯밤" },
 
 
+{ "en": "a moment",      "fi": "hetki, momentti",    "fr": "",  "ko": "" },
 { "en": "awhile",        "ko": "잠깐",          "fi": "hetken",    "fr": "" },
 { "en": "first (adv, in time or sequence)",              "fi": "",    "fr": "",   "ko": "먼저" },
 { "en": "recently",     "fi": "äskettäin",    "fr": "récemment",    "es": "recientemente",   "ko": "최근에" },
 { "en": "finally",     "fi": "lopulta, viimein",    "fr": "",    "es": "",   "ko": "" },
 { "en": "simultaneously, at the same time",     "fi": "samanaikaisesti",    "fr": "",    "es": "",   "ko": "" },
 { "en": "simultaneous",     "fi": "samanaikainen",    "fr": "",    "es": "",   "ko": "" },
+{ "en": "period",     "fi": "jakso",    "fr": "",    "es": "",   "ko": "" },
+{ "en": "era, age (period)",     "fi": "aikakausi",    "fr": "",    "es": "",   "ko": "" },
 
-  { "en": "Come after eleven.",            "fi": "Tule yhdentoista jälkeen.",    "fr": "",    "es": "",   "ko": "" },
-  { "en": "Come at eleven (o clock).",     "fi": "Tule yhdeltätoista.",    "fr": "",    "es": "",   "ko": "" },
-  { "en": "Come at eleven at the latest.", "fi": "Tule viimeistään yhdeksitoista.",    "fr": "",    "es": "",   "ko": "" }
+{ "en": "Come after eleven.",            "fi": "Tule yhdentoista jälkeen.",    "fr": "",    "es": "",   "ko": "" },
+{ "en": "Come at eleven (o clock).",     "fi": "Tule yhdeltätoista.",    "fr": "",    "es": "",   "ko": "" },
+{ "en": "Come at eleven at the latest.", "fi": "Tule viimeistään yhdeksitoista.",    "fr": "",    "es": "",   "ko": "" }
 
 ]

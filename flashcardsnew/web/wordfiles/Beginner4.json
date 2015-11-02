@@ -53,7 +53,8 @@
 { "en": "beginning (noun)", "fi": "alku",        "fr": "début",        "es": "(el) comienzo",      "ko": "처음" },
 { "en": "last",             "fi": "viime, viimeinen", "fr": "dernier",      "es": "último",      "ko": "마지막" },
 
-{ "en": "to change",    "fi": "muuttaa",    "fr": "changer",          "es": "cambiar",  "ko": "바꾸다" },
+{ "en": "to change (sth)",    "fi": "muuttaa",    "fr": "changer",          "es": "cambiar",  "ko": "바꾸다" },
+{ "en": "to change (oneself)",    "fi": "muuttua",    "fr": "",          "es": "",  "ko": "" },
 { "en": "change",       "fi": "muutos",    "fr": "changement",   "es": "(el) cambio", "ko": "바꾸다" },
 
 { "en": "a step (movement)",       "fi": "",    "fr": "",   "es": "(el) paso", "ko": "" },
@@ -112,11 +113,15 @@
 { "en": "known",           "fi": "tunnettu",   "fr": "connu",       "es": "conocido",  "ko": ""},
 { "en": "information",     "fi": "tiedot",    "fr": "information",  "es": "(la) información",   "ko": "정보" },
 
-{ "en": "reason",          "fi": "syy",    "fr": "raison",  "es": "(la) razón",   "ko": "원인" },
+{ "en": "reason",          "fi": "syy (Ei siihen ole mitään syytä)",    "fr": "raison",  "es": "(la) razón",   "ko": "원인" },
 { "en": "cause",           "fi": "",       "fr":"cause",    "es": "(la) causa",   "ko": ""},
+
+{ "en": "against",       "fi": "vastaan",                  "fr": "",          "es": "contra",              "ko": "" },
+{ "en": "for (in advocacy of)", "fi": "puolesta",          "fr": "",          "es": "",                    "ko": "" },
 
 
 { "en": "empty",           "fi": "tyhjä",      "fr": "vide",        "es": "vacío",     "ko": "비다" },
+{ "en": "full, filled",       "fi": "täysi",   "fr":"", "es": "lleno (de)",  "ko": ""},
 { "en": "vacant",          "fi": "vapaa",      "fr": "vacant",      "es": "vacante",   "ko": "비다" }
 
 ]

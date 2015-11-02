@@ -31,7 +31,7 @@
 { "en": "precise",       "fi": "tarkka, täsmällinen",   "fr":"",           "es": "preciso",  "ko": ""},
 { "en": "pure",          "fi": "",   "fr":"",           "es": "puro",  "ko": ""},
 { "en": "efficient",     "fi": "",   "fr":"efficace",   "es": "eficaz, eficiente",  "ko": ""},
-{ "en": "effective",     "fi": "",   "fr":"efficace",   "es": "eficaz, efectivo",  "ko": ""},
+{ "en": "effective",     "fi": "tehokas",   "fr":"efficace",   "es": "eficaz, efectivo",  "ko": ""},
   { "en": "an effect",     "fi": "vaikutus",   "fr":"",   "es": "",  "ko": ""},
 
 { "en": "personal",    "fi": "",   "fr":"", "es": "personal",  "ko": ""},
