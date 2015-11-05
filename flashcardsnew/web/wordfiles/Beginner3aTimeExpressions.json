@@ -34,7 +34,7 @@
 { "en": "to last",    "fi": "kestää",     "fr": "durer",              "es": "durar",    "ko": "" },
 
 { "en": "always",     "fi": "aina",      "fr": "toujours",  "es": "siempre",   "ko": "항상, 늘, 언제나" },
-{ "en": "never",      "fi": "ei koskaan","fr": "jamais",    "es": "nunca",    "ko": "" },
+{ "en": "never",      "fi": "ei koskaan, ei ikinä","fr": "jamais",    "es": "nunca",    "ko": "" },
 { "en": "again",      "fi": "taas, uudelleen, jälleen",  "fr": "de nouveau, encore",  "es": "otra vez, de nuevo, volver (a + infin)", "ko": "다시, 또" },
 { "en": "now",        "fi": "nyt",       "fr": "maintenant", "es": "ahora",  "ko": "지금" },
 { "en": "today",      "fi": "tänään",    "fr": "aujourd'hui","es": "hoy",    "ko": "오늘" },
@@ -83,6 +83,7 @@
 { "en": "simultaneous",     "fi": "samanaikainen",    "fr": "",    "es": "",   "ko": "" },
 { "en": "period",     "fi": "jakso",    "fr": "",    "es": "",   "ko": "" },
 { "en": "era, age (period)",     "fi": "aikakausi",    "fr": "",    "es": "",   "ko": "" },
+  { "en": "during",     "fi": "aikana",    "fr": "",    "es": "",   "ko": "" },
 
 { "en": "Come after eleven.",            "fi": "Tule yhdentoista jälkeen.",    "fr": "",    "es": "",   "ko": "" },
 { "en": "Come at eleven (o clock).",     "fi": "Tule yhdeltätoista.",    "fr": "",    "es": "",   "ko": "" },

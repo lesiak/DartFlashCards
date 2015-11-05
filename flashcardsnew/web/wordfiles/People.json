@@ -98,13 +98,13 @@
 
 { "en": "engagement (betrothal)",           "fi": "kihlaus",    "fr": "fiançailles",  "ko": "약혼 (contract + marry)" },
 { "en": "date (meeting)","fi": "",   "fr":"",      "es": "(la) cita",   "ko": ""},
-  { "en": "a divorce",     "fi": "avioero",   "fr":"",      "es": "",   "ko": ""},
+{ "en": "a divorce",     "fi": "avioero",   "fr":"",      "es": "",   "ko": ""},
 
-  { "en": "blind date",    "fi": "sokkotreffit",   "fr":"",      "es": "(la) cita a ciegas",   "ko": "소개팅"},
+{ "en": "blind date",    "fi": "sokkotreffit",   "fr":"",      "es": "(la) cita a ciegas",   "ko": "소개팅"},
 
- { "en": "neighbour",   "fi": "naapuri",     "fr": "voisin",  "es": "(el) vecino",  "ko": "이웃 사람" },
- { "en": "flatmate",    "fi": "kämppäkaveri, kämppis",     "fr": "colocataire",  "es": "(el) compañero de piso",  "ko": "" },
- 
+{ "en": "neighbour",   "fi": "naapuri",     "fr": "voisin",  "es": "(el) vecino",  "ko": "이웃 사람" },
+{ "en": "flatmate",    "fi": "kämppäkaveri, kämppis",     "fr": "colocataire",  "es": "(el) compañero de piso",  "ko": "" },
+{ "en": "stranger",    "fi": "muukalainen",     "fr": "",  "es": "",  "ko": "" },
  
  
 

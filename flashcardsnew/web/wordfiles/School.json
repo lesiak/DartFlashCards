@@ -8,6 +8,7 @@
 
 { "en": "topic",       "ko": "주제",       "fi": "aihe",    "fr": "sujet" },
 { "en": "course",       "ko": "과목",       "fi": "kurssi",    "fr": "cours" },
+{ "en": "class (group of students)",            "fi": "luokka",    "fr": "",  "es": "(la) clase",  "ko": "" },
 
 { "en": "test",          "fi": "koe, tentti", "fr": "test, examen",  "es": "(el) examen, (la) prueba",  "ko": "시험" },
 { "en": "science",       "fi": "tiede",       "fr": "science",       "es": "(la) ciencia",  "ko": "과학" },

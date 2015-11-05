@@ -21,6 +21,7 @@
 { "en": "disappointment","fi": "pettymys",            "fr": "",            "es": "(la) decepción", "ko": "" },
 { "en": "depressed",     "fi": "masentunut",          "fr": "déprimé",     "es": "deprimido",   "ko": "" },
 { "en": "lonely",        "fi": "yksinäinen",          "fr": "solitaire",   "es": "solitario, solo",   "ko": "고독한" },
+{ "en": "solitude",        "fi": "yksinäisyys",          "fr": "",   "es": "",   "ko": "" },
 
 { "en": "satisfied",     "fi": "vakuuttunut",          "fr": "satisfait",   "es": "satisfecho",   "ko": "" },
 { "en": "excited",       "fi": "innoissaan, innostunut",  "fr": "excité",  "es": "emocionado", "ko": "흥분한"},

@@ -33,12 +33,13 @@
 { "en": "efficient",     "fi": "",   "fr":"efficace",   "es": "eficaz, eficiente",  "ko": ""},
 { "en": "effective",     "fi": "tehokas",   "fr":"efficace",   "es": "eficaz, efectivo",  "ko": ""},
   { "en": "an effect",     "fi": "vaikutus",   "fr":"",   "es": "",  "ko": ""},
-
+  { "en": "clear (not ambiguous)",     "fi": "selvä",   "fr":"",   "es": "",  "ko": ""},
 { "en": "personal",    "fi": "",   "fr":"", "es": "personal",  "ko": ""},
 
 { "en": "professional",    "fi": "",           "fr":"",               "es": "profesional",  "ko": ""},
 { "en": "luxurious",       "fi": "ylellinen",  "fr":"luxueux",        "es": "lujoso",  "ko": ""},
 { "en": "precious",        "fi": "arvokas",    "fr":"précieux",       "es": "precioso",  "ko": ""},
+{ "en": "value",        "fi": "arvo",    "fr":"",       "es": "",  "ko": ""},
 { "en": "presigious",      "fi": "",           "fr":"prestigieux",    "es": "prestigioso",   "it": "prestigioso",  "ko": ""},
 { "en": "prestige",      "fi": "",             "fr":"prestige",       "es": "(el) prestigio","it": "(il) prestigio",  "ko": ""},
 { "en": "traditional",     "fi": "perinteinen","fr":"traditionnel",   "es": "tradicional",   "it": "tradizionale",  "ko": ""},

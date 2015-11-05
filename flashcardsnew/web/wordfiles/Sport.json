@@ -42,6 +42,7 @@
 { "en": "competition (sport)",  "fi": "kilpailu, kisat" , "fr":"concours, compétition","es":"(la) competición",    "ko": "경기 (競  “contest” and 技 “talent”)"},
 { "en": "competition",  "fi": "" , "fr":"compétition","es":"(la) competencia",    "ko": ""},
 { "en": "stadium",      "fi": "stadion" ,   "fr": "stade",         "es": "(el) estadio", "ko": "경기장"},
+{ "en": "a round, lap",      "fi": "kierros" ,   "fr": "",         "es": "", "ko": ""},
 
 { "en": "spectator", "fi": "katsoja",    "fr": "spectateur",    "es": "(el) espectador", "ko": "구경꾼"},
 { "en": "gym",       "fi": "punttisali, kuntosali" , "fr": "",  "es": "(el) gimnasio",   "ko": "체육관"},

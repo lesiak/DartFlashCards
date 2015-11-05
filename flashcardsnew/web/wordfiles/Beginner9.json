@@ -86,6 +86,7 @@
 { "en": "a level",      "fi": "taso",      "fr": "niveau", "es": "(el) nivel",  "ko": ""},
 
 { "en": "centre",      "fi": "keskus",      "fr": "", "es": "",  "ko": ""},
+  { "en": "central, main",      "fi": "keskeinen",      "fr": "", "es": "",  "ko": ""},
 
 { "en": "current, flow",       "fi": "virta",   "fr":"courant", "es":"(la) corriente",  "ko": ""},
 { "en": "given",           "fi": "annettu",   "fr":"donné", "es":"dado",  "ko": ""},
@@ -99,7 +100,7 @@
   { "en": "activity",       "fi": "toiminta",   "fr":"", "es": "",  "ko": ""},
   { "en": "personally",       "fi": "henkilökohtaisesti",   "fr":"", "es": "",  "ko": ""},
 
-
+  { "en": "condition",       "fi": "ehto, tila (Teen sen yhdellä ehdolla. Luitko sopimusehdot?)",   "fr":"", "es": "",  "ko": ""},
 
 { "en": "anything",       "fi": "mikään (Mikään ei onnistu. Ostitko mitään?)",   "fr":"", "es":"",  "ko": ""},
 
@@ -140,7 +141,7 @@
 
   { "en": "type",        "fi": "tyyppi",   "fr": "", "es": "",  "ko": ""},
 { "en": "to serve",        "fi": "",   "fr": "", "es": "servir",  "ko": ""},
-{ "en": "issue",        "fi": "asia",   "fr": "", "es": "",  "ko": ""},
+{ "en": "issue, matter",        "fi": "asia",   "fr": "", "es": "",  "ko": ""},
 { "en": "to ascend",        "fi": "",   "fr": "", "es": "ascender",  "ko": ""},
 { "en": "to foster, encourage",        "fi": "",   "fr": "", "es": "fomentar (algo)",  "ko": ""},
 

@@ -25,6 +25,8 @@
 { "en": "to widen (fig: influence, limits)", "fi": "laajentaa",            "fr": "",         "es": "ampliar, extender",  "ko": "" },
 
 { "en": "narrow",       "fi": "kapea",       "fr": "étroit",   "es": "estrecho, angosto",  "ko": "좁다" },
+{ "en": "to narrow (sth)",       "fi": "kaventaa",       "fr": "",   "es": "estrechar, angostar",  "ko": "" },
+{ "en": "to narrow (get narrower)",       "fi": "kaventua",       "fr": "",   "es": "estrecharse",  "ko": "" },
 
 { "en": "thin (not thick)", "fi": "ohut",    "fr": "mince",    "es": "fino; delgado",  "ko": "얇다" },
 { "en": "thick (not thin)",  "fi": "paksu",  "fr": "",         "es": "grueso",  "ko": "두껍다" },

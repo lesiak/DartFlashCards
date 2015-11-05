@@ -2,7 +2,7 @@
 
 { "en": "put",         "fi": "panna",     "fr": "placer, mettre","es": "poner, meter",  "ko": " 두다" },
 { "en": "to give",     "fi": "antaa",     "fr": "donner",        "es": "dar",       "ko": "주다" },
-{ "en": "to receive",  "fi": "saada",     "fr": "recevoir",      "es": "recibir",   "ko": "받다" },
+{ "en": "to receive",  "fi": "saada, vastaanottaa",     "fr": "recevoir",      "es": "recibir",   "ko": "받다" },
 { "en": "to borrow",   "fi": "lainata, ottaa lainaksi",    "fr": "emprunter", "es": "pedir prestado, tomar prestado", "ko": "빌리다" },
 { "en": "to lend",     "fi": "lainata, antaa lainaksi",    "fr": "prêter",    "es": "prestar", "ko": "빌려주다" },
 { "en": "gift (present)",  "fi": "lahja",    "fr": "cadeau",  "es": "(el) regalo",    "ko": "선물" },

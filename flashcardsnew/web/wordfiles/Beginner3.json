@@ -35,6 +35,10 @@
 { "en": "to mistake (mix up, confuse)","fi": "ymmärtää väärin; (to mistake sb for sth) luulla", "fr": "",            "es": "equivocarse (de) [+time, road]", "ko": ""  },
 { "en": "to misunderstand",   "fi": "ymmärtää väärin, käsittää väärin",     "fr": "",            "es": "malinterpretar",                 "ko": ""  },
 
+  { "en": "correct",        "fi": "oikea, ","fr": "",      "es": "",                       "ko": ""},
+  { "en": "correctly",        "fi": "oikeasti","fr": "",      "es": "",                       "ko": ""},
+  { "en": "really (impled displesure)",        "fi": "oikeasti (Oletko oikeasti sitä mieltä?)","fr": "",      "es": "",                       "ko": ""},
+
 
 { "en": "invitation",      "fi": "kutsu",        "fr": "invitation",   "es": "(la) invitación",  "ko": "초대 (invite + wait), 초청 (invite + request)" },
 { "en": "to invite",       "fi": "kutsua",       "fr": "inviter",      "es": "invitar",          "ko": "초대하다, 초청하다" },

@@ -5,7 +5,7 @@
   { "en": "majority",   "fi": "enemmistö",  "fr": "majorité",  "es": "(la) mayoría", "ko": ""},
   { "en": "minority",   "fi": "vähemmistö", "fr": "",  "es": "", "ko": ""},
   { "en": "many",       "fi": "moni",       "fr": "",  "es": "", "ko": ""},
-
+  { "en": "few",       "fi": "harva",       "fr": "",  "es": "", "ko": ""},
 { "en": "enough (sufficient)",      "fi": "tarpeeksi, riittävästi",   "fr": "assez", "es": "suficiente, bastante",    "ko": "" },
 { "en": "enough (sufficiently)",    "fi": "tarpeeksi, riittävän",     "fr": "suffisamment, assez", "es": "(lo) suficientemente, lo bastante", "ko": "충분히" },
 
@@ -19,7 +19,9 @@
 { "en": "very",       "fi": "hyvin, erittäin (erittäin mielenkiintoista)",   "fr": "très",    "es": "muy",   "ko": "아주" },
 { "en": "pretty (quite, fairly)", "fi": "",   "fr": "",    "es": "bastante",   "ko": "" },
 
-{ "en": "really",     "fi": "todella",         "fr": "vraiment",   "ko": "정말" },
+{ "en": "every, each", "fi": "joka (joka päivä, joka tapauksessa)",   "fr": "",    "es": "bastante",   "ko": "" },
+
+{ "en": "really (very much)",     "fi": "tosi, todella, hyvin",         "fr": "vraiment",   "ko": "정말" },
 { "en": "not really", "fi": "",                "fr": "",            "ko": "별로" },
 { "en": "hardly",     "fi": "",                "fr": "" ,  "es": "apenas",  "ko": ""},
 { "en": "about, around (approximately)",     "fi": "noin",                "fr": "" ,  "es": "",  "ko": ""},

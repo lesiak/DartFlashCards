@@ -34,6 +34,7 @@
 { "en": "to drive",    "fi": "kuljettaa, ajaa (autoa)",    "fr": "conduire", "es": "conducir",        "ko": "운전하다" },
 { "en": "driver",      "fi": "kuljettaja",   "fr": "conducteur","es": "(el) conductor", "ko": "운전사" },
 { "en": "driving",      "fi": "ajo",   "fr": "","es": "", "ko": "" },
+  { "en": "speed limit",      "fi": "nopeusrajoitus",   "fr": "","es": "", "ko": "" },
 
 { "en": "station",     "fi": "asema" ,       "fr":"station",   "es": "(la) estación",   "ko": "역"},
 { "en": "platform",    "fi": "asemalaituri", "fr":"quai",      "es": "(el) andén",      "ko": "플랫폼, 승강장"},
@@ -74,7 +75,7 @@
 { "en": "a visit",        "fi": "vierailu",    "fr": "visite",       "es": "(la) visita",   "ko": "방문" },
 { "en": "to visit",       "fi": "vierailla, käydä (jkn luona",     "fr": "visiter",       "es": "visitar",   "ko": "" },
 
-{ "en": "class",          "fi": "luokka",    "fr": "", "es": "(la) clase", "ko": "등" },
+{ "en": "class (category of seats)",      "fi": "luokka",    "fr": "", "es": "(la) clase", "ko": "등" },
 { "en": "line",           "fi": "linja",     "fr": "ligne","ko": "호선" },
 { "en": "route",          "fi": "reitti",    "fr": "itinéraire, route","ko": "노선" },
 { "en": "license plate",  "fi": "rekisterikilpi",    "fr": "plaque d'immatriculation", "es": "(la) matrícula, (la) placa",  "ko": "번호판" },
