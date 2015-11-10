@@ -18,6 +18,8 @@
 { "en": "up",                  "fi": "ylös",    "fr": "",           "es": "",         "ko": "" },
 { "en": "down",                "fi": "alas (movement - Tule alas), alhaalla (stationary)",    "fr": "",           "es": "",         "ko": "" },
 
+{ "en": "out of, outdoors",                "fi": "ulos",    "fr": "",           "es": "",         "ko": "" },
+
 { "en": "between",               "fi": "välillä, välissä (Häntä koipien välissä- embarrassed, disappointed)",    "fr": "", "es": "",         "ko": "" },
 
 { "en": "across",               "fi": "poikki, halki, yli (Pallo vieri tien poikki)",    "fr": "", "es": "",         "ko": "" },

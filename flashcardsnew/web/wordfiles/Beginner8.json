@@ -65,9 +65,12 @@
 { "en": "loss",    "ko": "손실, 상실",    "fi": "tappio, menetys, häviö (on tehnyt koko ajan tappiota)" , "fr":"perte"},
 { "en": "gain",    "ko": "획득, 이득",    "fi": "hyöty" , "fr":"gain, profit"},
 
+  { "en": "mind",             "fi": "mieli",         "fr": "",  "ko": "" },
+  { "en": "I don't mind.",             "fi": "Ei se minua haittaa.",         "fr": "",  "ko": "" },
 
+  { "en": "activity (entertainment)",             "fi": "aktiviteetti",         "fr": "",  "ko": "" },
 
-{ "en": "to arrange, organize",    "ko": "배치하다",    "fi": "järjestää" , "fr":"arranger, organiser"},
+  { "en": "to arrange, organize",    "ko": "배치하다",    "fi": "järjestää" , "fr":"arranger, organiser"},
 { "en": "to lead",    "ko": "안내하다",    "fi": "johtaa" , "fr":"diriger, commander"}
 
 

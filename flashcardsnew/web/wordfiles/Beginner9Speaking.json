@@ -34,6 +34,7 @@
 { "en": "threat (indication of imminent danger)",    "fi": "uhka",   "fr":"",  "ko": ""},
 
 { "en": "to admit",    "fi": "" , "fr":"admettre", "es":"admitir", "ko": ""},
+  { "en": "to describe",    "fi": "kuvailla" , "fr":"", "es":"", "ko": ""},
 
   { "en": "interaction",    "fi": "vuorovaikutus" , "fr":"", "es":"", "ko": ""},
 

@@ -20,6 +20,9 @@
 { "en": "useful",            "fi": "hyödyllinen", "fr": "utile","es": "útil",  "ko": "" },
 { "en": "handy (useful)",    "fi": "kätevä",      "fr": "maniable, pratique", "es": "práctico, útil",  "ko": ""  },
 
+  { "en": "with",    "fi": "",      "fr": "", "es": "",  "ko": ""  },
+  { "en": "without",    "fi": "ilman",      "fr": "", "es": "",  "ko": ""  },
+
 { "en": "rise (increase)",        "fi": "nousta",        "fr": "augmenter",   "es": "subir, aumentar",  "ko": "오르다" },
 { "en": "to reduce (make smaller, lower)",          "fi": "vähentää, alentaa, pienentää" , "fr":"réduire, diminuer", "es":"reducir", "ko": ""},
 { "en": "to reduce (price, product)",          "fi": "" , "fr":"", "es":"rebajar", "ko": ""},

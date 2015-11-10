@@ -57,7 +57,8 @@
 
 
 { "en": "to take out, remove",     "fi": "" , "fr":"",   "es":"sacar",  "ko": ""},
-
+  { "en": "someone",     "fi": "joku" , "fr":"",   "es":"",  "ko": ""},
+  { "en": "everyone",     "fi": "jokainen" , "fr":"",   "es":"",  "ko": ""},
 
 
 { "en": "enter, go in","ko": "들어가다",  "fi": "astua sisään", "fr": "entrer" },
@@ -86,6 +87,9 @@
 
 { "en": "to include",    "fi": "sisältää",       "fr": "",   "es": "incluir", "ko": "" },
   { "en": "to contain",    "fi": "sisältää",       "fr": "",   "es": "", "ko": "" },
+  { "en": "inside, within",    "fi": "sisällä",       "fr": "",   "es": "", "ko": "" },
+  { "en": "indoors",    "fi": "sisällä",       "fr": "",   "es": "", "ko": "" },
+
 { "en": "to constitute",    "fi": "",       "fr": "",   "es": "constituir", "ko": "" },
 { "en": "to discover",    "fi": "",       "fr": "",   "es": "descubrir", "ko": "" },
 

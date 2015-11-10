@@ -33,9 +33,9 @@
 { "en": "to rest",     "fi": "levätä",     "fr": "se reposer",   "es": "descansar",  "ko": "쉬다" },
 { "en": "to wait",     "fi": "odottaa",    "fr": "patienter",    "es": "esperar",    "ko": "기다리다" },
 
-{ "en": "to begin (to do sth), start (doing sth)",       "fi": "alkaa",    "fr": "commencer", "es": "empezar, comenzar",  "ko": "시작하다"},
-{ "en": "to begin, start (intr)",          "fi": "aloittaa",    "fr": "",  "es": "empezar, comenzar",  "ko": "" },
-{ "en": "to stop (movement of sth)",   "fi": "pysäyttää, loppua",    "fr": "", "es": "parar", "ko": "멈추다" },
+{ "en": "to begin (to do sth), start (doing sth)",       "fi": "alkaa, aloittaa (causative)",    "fr": "commencer", "es": "empezar, comenzar",  "ko": "시작하다"},
+{ "en": "to begin, start (intr)",          "fi": "",    "fr": "",  "es": "empezar, comenzar",  "ko": "" },
+{ "en": "to stop (movement of sth)",   "fi": "pysäyttää",    "fr": "", "es": "parar", "ko": "멈추다" },
 { "en": "to stop (cease moving)",   "fi": "pysähtyä",    "fr": "", "es": "parar", "ko": "그치다, 정지하다, 서다" },
 { "en": "to stop (doing sth)",   "fi": "pysäyttää, lopettaa",    "fr": "", "es": "dejar (de hacer algo)", "ko": "" },
 { "en": "finish (intr)", "fi": "loppua",    "fr": "finir, terminer",  "es": "terminar, acabar", "ko": "끝나다" },

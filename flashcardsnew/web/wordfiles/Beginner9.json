@@ -117,6 +117,7 @@
   { "en": "order (arrangement)",       "fi": "järjestys",   "fr":"", "es": "",  "ko": ""},
 { "en": "to accent",   "ko": "",    "fi": "korostaa",   "fr":""},
   { "en": "like, as",   "ko": "",    "fi": "kuten",   "fr":""},
+  { "en": "like",   "ko": "",    "fi": "niinku (slang) (Tytöt on vähän niinku kissatkin, ne tykkää siitä kun niitä pitää hyvänä.)",   "fr":""},
 
   { "en": "instruction",      "fi": "ohje",   "fr":"",  "es": "",  "ko": ""},
   { "en": "outdated",      "fi": "vanhentunut",   "fr":"",  "es": "obsoleto",  "ko": ""},
@@ -164,13 +165,14 @@
 
 { "en": "to rub",          "fi": "hieroa",      "fr": "frotter",   "ko": "비비다"},
 { "en": "fall asleep",     "fi": "nukahtaa",    "fr": "s'endormir",  "ko": "잠들다"},
-{ "en": "for sure",        "fi": "varmasti",    "fr": "", "ko": "꼭"},
+{ "en": "for sure, certainly",        "fi": "varmasti",    "fr": "", "ko": "꼭"},
 
   { "en": "to penetrate",  "fi": "tunkeutua, penetroida", "fr": "",     "es": "penetrar", "ko": ""},
   { "en": "to invade",     "fi": "hyökätä, tunkeutua",    "fr": "",     "es": "invadir",  "ko": ""},
 
 
 { "en": "domestic",     "fi": "",   "fr":"",     "es": "doméstico", "ko": ""},
+{ "en": "equality (equal treatment)",     "fi": "tasa-arvo",   "fr":"",     "es": "(la) igualdad, (la) equidad ", "ko": ""},
 
 { "en": "let (someone) in on (something)",     "fi": "",   "fr":"",     "es": "", "ko": ""},
 
@@ -180,6 +182,8 @@
 { "en": "botched job, botch job",        "fi": "",   "fr": "", "es": "(la) chapucería, (la) chapuza", "ko": ""},
 
   { "en": "to plummet",        "fi": "romahtaa, laskea jyrkästi",   "fr": "", "es": "caer en picado", "ko": ""},
+  { "en": "(of movement) away",        "fi": "pois (Hän meni pois.)",   "fr": "", "es": "", "ko": ""},
+  { "en": "real",        "fi": "oikea",   "fr": "", "es": "", "ko": ""},
 
 { "en": "to rationalize",     "fi": "",   "fr":"",     "es": "racionalizar", "ko": ""},
 { "en": "nightmare",       "ko": "악몽 (bad + dream)",       "fi": "painajainen",    "fr": "cauchemar" },

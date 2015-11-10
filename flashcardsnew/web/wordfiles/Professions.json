@@ -23,6 +23,7 @@
 { "en": "manager",       "fi": "johtaja",         "fr": "",           "es": "(el) gerente",     "ko": "과장님" },
 { "en": "secretary",     "fi": "sihteeri",        "fr": "secrétaire", "es": "(la) secretaria",  "ko": "비서 (secret + writing)" },
 { "en": "intern",        "fi": "harjoittelija",   "fr": "",           "es": "(el) becario",      "ko": "" },
+{ "en": "department",    "fi": "osasto",          "fr": "",           "es": "",      "ko": "" },
 { "en": "head of department", "fi": "osastopäällikkö", "fr": "",      "es": "(el) jefe del departamento",      "ko": "" },
 { "en": "accountant",       "fi": "kirjanpitäjä",         "fr": "",           "es": "(el/la) contable, (el) contador",     "ko": "" },
 { "en": "cashier",       "fi": "",         "fr": "",           "es": "(el) cajero",     "ko": "" },

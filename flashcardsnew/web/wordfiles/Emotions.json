@@ -87,7 +87,8 @@
 { "en": "to surprise","fi": "yllättää",       "fr": "surprendre","es": "sorprender", "ko": "" },
 { "en": "surprising", "fi": "yllättävä",      "fr": "surprenant","es": "sorprendente", "ko": "" },
 
-{ "en": "sensation (feeling)",  "fi": "tunne","fr": "sensation", "es": "(la) sensación",   "ko": "" }
-
+{ "en": "sensation (feeling)",  "fi": "tunne","fr": "sensation", "es": "(la) sensación",   "ko": "" },
+{ "en": "experience (event)", "fi": "kokemus",      "fr": "","es": "", "ko": "" },
+  { "en": "experience (knowledge)", "fi": "kokemus (Minulla on kokemusta asiakaspalvelusta.)",      "fr": "","es": "", "ko": "" }
 
 ]

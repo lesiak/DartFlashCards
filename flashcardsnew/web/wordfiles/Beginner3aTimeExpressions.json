@@ -83,7 +83,7 @@
 { "en": "simultaneous",     "fi": "samanaikainen",    "fr": "",    "es": "",   "ko": "" },
 { "en": "period",     "fi": "jakso",    "fr": "",    "es": "",   "ko": "" },
 { "en": "era, age (period)",     "fi": "aikakausi",    "fr": "",    "es": "",   "ko": "" },
-  { "en": "during",     "fi": "aikana",    "fr": "",    "es": "",   "ko": "" },
+  { "en": "during, while",     "fi": "aikana",    "fr": "",    "es": "",   "ko": "" },
 
 { "en": "Come after eleven.",            "fi": "Tule yhdentoista jälkeen.",    "fr": "",    "es": "",   "ko": "" },
 { "en": "Come at eleven (o clock).",     "fi": "Tule yhdeltätoista.",    "fr": "",    "es": "",   "ko": "" },

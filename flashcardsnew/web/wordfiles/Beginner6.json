@@ -17,7 +17,8 @@
 { "en": "obstacle",      "fi": "este",    "fr": "obstacle", "ko": "방해, 장애" },
 
 { "en": "to deny",      "fi": "",      "fr": "", "es": "negar",  "ko": ""},
-{ "en": "to agree",      "fi": "",      "fr": "", "es": "acordar",  "ko": ""},
+{ "en": "to agree (to sth)",      "fi": "suostua",      "fr": "", "es": "",  "ko": ""},
+{ "en": "to agree (with sb)",      "fi": "Olla samaa mieltä (jonkun kanssa.)",      "fr": "", "es": "",  "ko": ""},
 
 
   { "en": "(to be) capable (of)",   "fi": "pystyä (jhk), pystyä tekemään jtk",   "fr": "capable (de)",   "es": "capaz (de)", "ko": ""},

@@ -12,7 +12,7 @@
 { "en": "tourist",    "fi": "turisti, matkailija","fr": "touriste" , "es": "(el) turista",    "ko": "관광객"},
 { "en": "photo",      "fi": "kuva",             "fr": "photo",       "es": "(la) foto",       "ko": "사진" },
 { "en": "to take (a photo)", "fi": "ottaa kuvaa","fr": "",           "es": "tomar (una foto)","ko": "찍다"},
-{ "en": "to develop (a photo)", "fi": "",       "fr": "",            "es": "desarrollar (una foto)",   "ko": "인화하다" },
+{ "en": "to develop (a photo)", "fi": "kehittää",       "fr": "",            "es": "desarrollar (una foto)",   "ko": "인화하다" },
 
 { "en": "a tent",       "fi": "teltta",          "fr": "tente",       "es": "(la) tienda de campaña, (la) carpa",        "ko": "" },
 { "en": "to camp",      "fi": "leiriytyä",       "fr": "camper",      "es": "acampar",        "ko": "" },
