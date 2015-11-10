@@ -121,8 +121,10 @@
 { "en": "to force",    "fi": "",          "fr": "",   "es": "forzar",  "ko": ""},
 { "en": "force",       "fi": "",          "fr": "",   "es": "(la) fuerza",  "ko": ""},
 
-{ "en": "to support",    "fi": "kannattaa",   "fr":"supporter, soutenir", "es":"apoyar", "ko": ""},
-{ "en": "support",       "fi": "",            "fr":"",                    "es":"(el) apoyo", "ko": ""},
+{ "en": "to support (to keep from falling)",    "fi": "kannattaa, tukea",   "fr":"", "es":"apoyar, sostener , apuntalar", "ko": ""},
+{ "en": "to support (to back a cause witch concrete aid)",    "fi": "kannattaa, tukea",   "fr":"", "es":"respaldar", "ko": ""},
+{ "en": "support (sth which supports)",       "fi": "tuki",            "fr":"",                    "es":"(el) soporte, (el) apoyo", "ko": ""},
+{ "en": "support (financial help)",       "fi": "tuki",            "fr":"",                    "es":"(el) apoyo", "ko": ""},
 
 
 { "en": "to tease",    "fi": "",   "fr":"taquiner", "es":"embromar", "ko": ""},

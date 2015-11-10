@@ -76,7 +76,7 @@
 
 { "en": "fact",        "fi": "tosiasia",    "fr": "fait, vérité",  "es": "(el) hecho", "ko": "사실" },
 { "en": "in fact",     "fi": "",            "fr": "",              "es": "de hecho",    "ko": "" },
-{ "en": "of course",   "fi": "",            "fr": "bien sûr",      "es": "por supuesto",  "ko": ""},
+{ "en": "of course",   "fi": "totta kai, tietysti",            "fr": "bien sûr",      "es": "por supuesto",  "ko": ""},
 { "en": "joke",        "fi": "vitsi",       "fr": "blague",        "es": "(la) broma", "ko": "농담" },
 
 { "en": "meaning",         "fi": "merkitys, tarkoitus", "fr": "sens, signification", "es": "(el) significado [of word, phrase], (el) sentido [of life, work]",  "ko": "의미, 뜻" },

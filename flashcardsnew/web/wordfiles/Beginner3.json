@@ -79,6 +79,8 @@
 { "en": "neither",         "fi": "eikä, -kaan",      "fr": "",              "es": "tampoco",   "ko": "" },
 { "en": "even (extreme example)",             "fi": "edes, jopa",      "fr": "même, voire",     "es": "incluso, hasta",   "ko": "" },
 
+  { "en": "although, even though",             "fi": "vaikka",      "fr": "",     "es": "",   "ko": "" },
+
 { "en": "to be interested in",        "fi": "olla kiinnostunut (+sta)",       "fr": "","es": "interesarse (en/por)",            "ko": ""},
 { "en": "interesting",        "fi": "kiinnostava, kiintoisa, mielenkiintoinen",       "fr": "","es": "interesante",            "ko": ""},
 

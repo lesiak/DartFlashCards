@@ -38,7 +38,8 @@
 
 
 { "en": "tired",         "fi": "väsynyt",   "fr": "fatigué",   "es": "cansado",  "ko": "피곤한" },
-{ "en": "ashamed",             "fi": "häpeissään",          "fr": "honteux",   "ko": "부끄럽다" },
+{ "en": "(to be) ashamed",  "fi": "hävetä (+part | + inf), hävettää (Minua hävettää.), häpeissään (+elative)",          "fr": "honteux",   "ko": "부끄럽다" },
+
 { "en": "jealous",            "fi": "mustasukkainen",          "fr": "jaloux",    "es": "celoso", "ko": "부럽다" },
 
 { "en": "to laugh",      "fi": "nauraa",      "fr": "rire",      "es": "reírse",          "ko": "웃다" },
@@ -86,6 +87,8 @@
 { "en": "surprise",   "fi": "yllätys",        "fr": "surprise",  "es": "(la) sorpresa", "ko": "" },
 { "en": "to surprise","fi": "yllättää",       "fr": "surprendre","es": "sorprender", "ko": "" },
 { "en": "surprising", "fi": "yllättävä",      "fr": "surprenant","es": "sorprendente", "ko": "" },
+
+{ "en": "to comfort, console", "fi": "lohduttaa",      "fr": "","es": "", "ko": "" },
 
 { "en": "sensation (feeling)",  "fi": "tunne","fr": "sensation", "es": "(la) sensación",   "ko": "" },
 { "en": "experience (event)", "fi": "kokemus",      "fr": "","es": "", "ko": "" },

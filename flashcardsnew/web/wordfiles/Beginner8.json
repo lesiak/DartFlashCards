@@ -37,6 +37,10 @@
 
 { "en": "establish",     "ko": "?",          "fi": "perustaa",    "fr": "établir" },
 
+  { "en": "to justify (provide explaination)",           "fi": "perustelu",    "fr": "" ,    "ko": ""},
+  { "en": "argument (process of reasoning)",            "fi": "perustella",    "fr": "",    "ko": "" },
+
+
 
 { "en": "to function",       "ko": "?",       "fi": "toimia",    "fr": "marcher, fonctionner" },
 { "en": "to use",           "fi": "käyttää",    "fr": "utiliser, se servir de",  "ko": "사용하다, 쓰다" },
