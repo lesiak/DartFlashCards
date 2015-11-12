@@ -32,6 +32,8 @@
 { "en": "economy",       "fi": "talous",               "fr": "économie",    "es": "(la) economía", "ko": "경제" },
 { "en": "industry",      "fi": "teollisuus",           "fr":"industrie",    "es": "(la) industria",  "ko": "산업"},
 { "en": "technology",    "fi": "teknologia, tekniikka","fr": "technologie", "es": "(la) tecnología",    "ko": "" },
+  { "en": "commerce, trading",       "fi": "kaupankäynti",               "fr": "",    "es": "", "ko": "" },
+
 
 { "en": "fair (market, exhibition)",    "fi": "","fr": "", "es": "(la) feria",    "ko": "" },
 

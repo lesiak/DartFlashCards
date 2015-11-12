@@ -24,7 +24,7 @@
 { "en": "storm",       "fi": "myrsky",     "fr": "orage (m), tempête (f)", "es": "(la) tormenta, (la) tempestad ", "ko": "폭풍"},
 { "en": "lightning",   "fi": "salama",     "fr": "éclair (m)",   "es": "(el) rayo",  "ko": "번개, 벼락"},
 { "en": "thunder",     "fi": "ukkonen",    "fr":" tonnerre (m)",    "es": "(el) trueno",  "ko": "우레"},
-  { "en": "moonlight", "fi": "kuutamo",    "fr": "" ,    "es": "", "ko": ""},
+{ "en": "moonlight", "fi": "kuutamo",    "fr": "" ,    "es": "", "ko": ""},
 
 { "en": "to rain",       "fi": "",    "fr": "",    "es": "llover", "ko": "" },
 { "en": "to snow",      "fi": "",      "fr": "", "es": "nevar",  "ko": ""},
@@ -36,8 +36,11 @@
 { "en": "volcano",      "fi": "tulivuori",  "fr": "volcan",     "es": "(el) volcán",   "ko": ""},
 { "en": "stream, creek","fi": "puro",       "fr":"ruisseau",   "es": "(el) riachuelo",   "ko": ""},
 
-  { "en": "flood",      "fi": "tulva",       "fr":"",   "es": "",   "ko": ""},
-  { "en": "alluvial",   "fi": "tulva-",       "fr":"",   "es": "",   "ko": ""},
+{ "en": "wild",         "fi": "viili",       "fr":"",   "es": "",   "ko": ""},
+{ "en": "mammal",       "fi": "nisäkäs",       "fr":"",   "es": "(el) mamífero",   "ko": ""},
+
+{ "en": "flood",      "fi": "tulva",       "fr":"",   "es": "",   "ko": ""},
+{ "en": "alluvial",   "fi": "tulva-",       "fr":"",   "es": "",   "ko": ""},
 
 { "en": "gas",         "fi": "kaasu" ,      "fr": "gaz",       "es": "(el) gas",  "ko": "가스"},
 { "en": "a liquid",    "fi": "neste",       "fr": "liquide",   "es": "(el) líquido",  "ko": "액체" },

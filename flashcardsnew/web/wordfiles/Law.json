@@ -10,7 +10,7 @@
 { "en": "accusation",        "fi": "syytös",         "fr": "",            "es": "(la) acusación", "ko": "" },
 
 { "en": "guilty",            "fi": "syyllinen",      "fr": "coupable",    "es": "culpable",  "ko": "유죄의"},
-{ "en": "evidence (proof)",            "fi": "",      "fr": "",    "es": "(las) pruebas",  "ko": ""},
+{ "en": "evidence (proof)",            "fi": "näyttö, todiste (piece)",      "fr": "",    "es": "(las) pruebas",  "ko": ""},
 
 { "en": "criminal",          "fi": "rikollinen",  "fr": "criminel",       "es": "(el) criminal, (el) delincuente",      "ko": "범인 (violate + people)" },
 { "en": "crime",             "fi": "rikollisuus, rikos", "fr": "crime",   "es": "(el) crimen", "ko": "범죄 (violate + fault)" },

@@ -31,6 +31,10 @@
 { "en": "to replace",        "ko": "",          "fi": "korvata",       "fr": "remplacer" },
 { "en": "replacement",        "ko": "",          "fi": "korvaaminen, korvaus",       "fr": "remplacement" },
 
+  { "en": "to have to do with",         "fi": "liittyä (+ illative)",       "fr": "", "es": "",  "ko": ""},
+  { "en": "to be related to",         "fi": "liittyä (+ illative)",       "fr": "", "es": "",  "ko": ""},
+
+
   { "en": "back",    "fi": "takaisin (En tule enää takaisin.)" , "fr":"",   "ko": ""},
 
 

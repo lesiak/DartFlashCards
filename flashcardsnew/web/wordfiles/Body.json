@@ -83,9 +83,10 @@
 { "en": "knee",      "fi": "polvi",     "fr": "genou",     "es": "(la) rodilla", "ko": "무릎" },
 { "en": "hip",       "fi": "lonkka, lanne","fr": "hanche", "es": "(la) cadera",  "ko": "엉덩이" },
 { "en": "shoulder",  "fi": "olkapää",   "fr": "épaule" ,   "es": "(el) hombro",  "ko": "어깨"},
-{ "en": "elbow",     "fi": "kyynärpää", "fr": "coude",     "es": "(el) codo", "ko": "팔꿈치" },
+{ "en": "elbow",     "fi": "kyynärpää", "fr": "coude",     "es": "(el) codo",    "ko": "팔꿈치" },
 
 { "en": "to breathe","fi": "hengittää", "fr": "respirer",  "es": "respirar",     "ko": "" },
+{ "en": "sweat",     "fi": "hiki",      "fr": "",          "es": "",             "ko": "" },
 
 { "en": "mentality",      "fi": "mentaliteetti, mielenlaatu",    "fr": "mentalité",    "es": "(la) mentalidad",  "ko": "심리 (heart + principle)" },
 { "en": "psychology",     "fi": "psykologia, sielutiede",        "fr": "psychologie",  "es": "(la) psicología", "ko": "심리학 (heart + principle + study)" }

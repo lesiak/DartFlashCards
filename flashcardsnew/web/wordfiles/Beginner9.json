@@ -65,7 +65,7 @@
 { "en": "due (to)",       "fi": "",          "fr": "grâce (à)", "es": "debido (a)",  "ko": ""},
 { "en": "to happen",      "fi": "tapahtua",  "fr": "", "es": "pasar",  "ko": ""},
 
-{ "en": "to waste",      "fi": "",      "fr": "", "es": "perder",  "ko": ""},
+{ "en": "to waste",      "fi": "tuhlata",      "fr": "", "es": "perder",  "ko": ""},
 
 { "en": "to exploit, utilize",      "fi": "hyödyntää",      "fr": "", "es": "",  "ko": ""},
 { "en": "facility",      "fi": "laitos",      "fr": "", "es": "",  "ko": ""},
@@ -112,7 +112,7 @@
 { "en": "to handle",       "fi": "",   "fr":"", "es": "manejar",  "ko": ""},
 { "en": "to move",       "fi": "liikkua, siirtää",   "fr":"", "es": "mover",  "ko": ""},
 { "en": "movement",       "fi": "liike",   "fr":"", "es": "",  "ko": ""},
-
+  { "en": "first",       "fi": "ensimmäinen",   "fr":"", "es": "",  "ko": ""},
 
   { "en": "order (arrangement)",       "fi": "järjestys",   "fr":"", "es": "",  "ko": ""},
 { "en": "to accent",   "ko": "",    "fi": "korostaa",   "fr":""},

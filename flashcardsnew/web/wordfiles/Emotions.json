@@ -64,6 +64,7 @@
 
 { "en": "to hope",    "fi": "toivoa",         "fr": "espérer",   "es": "esperar",               "ko": "희망하다" },
 { "en": "hope",       "fi": "toivo",          "fr": "espoir",    "es": "(la) esperanza",        "ko": "희망" },
+{ "en": "a wish",       "fi": "toive",          "fr": "",    "es": "",        "ko": "" },
 { "en": "hopefully(!)","fi": "",     "fr": "",          "es": "Ojalá",        "ko": "" },
 
 { "en": "luckily","fi": "",     "fr": "",          "es": "por suerte",        "ko": "" },

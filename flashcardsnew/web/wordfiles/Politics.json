@@ -40,6 +40,8 @@
 { "en": "ideology",       "fi": "ideologia",               "fr": "idéologie",   "es": "(la) ideología",   "ko": "" },
 { "en": "liberty",        "fi": "",                        "fr": "liberté",     "es": "(la) libertad",   "ko": "" },
 { "en": "regime",        "fi": "",                         "fr": "",            "es": "(el) régimen",   "ko": "" },
+  { "en": "committee",        "fi": "lautakunta",                         "fr": "",            "es": "(el) régimen",   "ko": "" },
+
 
 { "en": "to vote",       "fi": "",                        "fr": "",             "es": "votar",               "ko": "" },
 { "en": "voter",         "fi": "",                        "fr": "",             "es": "(el) votante",        "ko": "" },

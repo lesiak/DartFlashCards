@@ -76,7 +76,7 @@
 
 { "en": "a moment",      "fi": "hetki, momentti",    "fr": "",  "ko": "" },
 { "en": "awhile",        "ko": "잠깐",          "fi": "hetken",    "fr": "" },
-{ "en": "first (adv, in time or sequence)",              "fi": "",    "fr": "",   "ko": "먼저" },
+{ "en": "first (adv, in time or sequence)",              "fi": "ensinnäkin, ensiksi ",    "fr": "",   "ko": "먼저" },
 { "en": "recently",     "fi": "äskettäin",    "fr": "récemment",    "es": "recientemente",   "ko": "최근에" },
 { "en": "finally",     "fi": "lopulta, viimein",    "fr": "",    "es": "",   "ko": "" },
 { "en": "simultaneously, at the same time",     "fi": "samanaikaisesti",    "fr": "",    "es": "",   "ko": "" },

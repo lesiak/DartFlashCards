@@ -12,7 +12,7 @@
 
 { "en": "chest (box)",     "fi": "arkku, kirstu ",       "fr": "coffre",     "es": "(la) arca, (el) baúl",  "ko": "" },
 
-{ "en": "(gas) cylinder",  "fi": "tölkki",         "fr": "",          "es": "(la) bombona (de gas)", "ko": "" }
-
+{ "en": "(gas) cylinder",  "fi": "tölkki",         "fr": "",          "es": "(la) bombona (de gas)", "ko": "" },
+  { "en": "(shipping) container",  "fi": "kontti",         "fr": "",          "es": "", "ko": "" }
 
 ]
