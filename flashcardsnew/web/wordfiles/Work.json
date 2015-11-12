@@ -55,6 +55,7 @@
 { "en": "a document",       "fi": "asiakirja, dokumentti",  "fr": "document", "es": "(el) documento",  "ko": ""},
 { "en": "analysis",         "fi": "",                       "fr": "",         "es": "(el) análisis",  "ko": ""},
 { "en": "report",           "fi": "selvitys, raportti",     "fr": "rapport",  "ko": "보고서" },
+{ "en": "dashboard",        "fi": "kojelauta",              "fr": "",         "ko": "" },
 
 
 { "en": "to retire",        "fi": "",    "fr": "",    "es": "retirarse, jubilarse", "ko": "은퇴하다" },

@@ -39,8 +39,10 @@
 { "en": "wild",         "fi": "viili",       "fr":"",   "es": "",   "ko": ""},
 { "en": "mammal",       "fi": "nisäkäs",       "fr":"",   "es": "(el) mamífero",   "ko": ""},
 
-{ "en": "flood",      "fi": "tulva",       "fr":"",   "es": "",   "ko": ""},
-{ "en": "alluvial",   "fi": "tulva-",       "fr":"",   "es": "",   "ko": ""},
+{ "en": "flood",        "fi": "tulva",       "fr":"",   "es": "",   "ko": ""},
+{ "en": "alluvial",     "fi": "tulva-",       "fr":"",   "es": "",   "ko": ""},
+
+{ "en": "wilderness",  "fi": "erämaa",       "fr":"",   "es": "",   "ko": ""},
 
 { "en": "gas",         "fi": "kaasu" ,      "fr": "gaz",       "es": "(el) gas",  "ko": "가스"},
 { "en": "a liquid",    "fi": "neste",       "fr": "liquide",   "es": "(el) líquido",  "ko": "액체" },

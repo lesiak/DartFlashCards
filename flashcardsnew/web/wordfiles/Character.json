@@ -16,7 +16,7 @@
 { "en": "wise",          "fi": "viisas, järkevä","fr":"sage",          "es":"sabio",          "it":"saggio",    "ko": "슬기롭다 (wisdom + be, be characterized by)"},
 { "en": "wisdom",        "fi": "viisaus, järkevyys","fr":"sagesse",    "es":"(la) sabiduría",  "ko": "슬기"},
 { "en": "stupidity",     "fi": "tyhmyys",        "fr":"stupidité",     "es": "(la) estupidez",   "ko": ""},
-{ "en": "eloquent",          "fi": "",         "fr":"",     "es":"elocuente", "ko": ""  },
+{ "en": "eloquent",          "fi": "kaunopuheinen",         "fr":"",     "es":"elocuente", "ko": ""  },
 
 
 { "en": "boring",        "fi": "tylsä",          "fr": "ennuyeux", "es": "aburrido",   "ko": "" },
