@@ -11,9 +11,10 @@
 { "en": "man",       "fi": "mies",  "fr": "homme", "es": "(el) hombre",   "ko": "남자" },
 { "en": "woman",     "fi": "nainen","fr": "femme", "es": "(la) mujer",   "ko": "여자" },
 
+
 { "en": "girl",      "fi": "tyttö", "fr":"fille",  "ko": "소녀 (girly)"},
 { "en": "miss, young girl",    "ko": "아가씨",    "fi": "neiti" , "fr":"Mademoiselle"},
-
+{ "en": "boy",      "fi": "poika", "fr":"",  "ko": ""},
 
  
 { "en": "bullying",           "fi": "kiusaaminen",          "fr": "",  "ko": "" },

@@ -114,6 +114,8 @@
 { "en": "movement",       "fi": "liike",   "fr":"", "es": "",  "ko": ""},
   { "en": "first",       "fi": "ensimmäinen",   "fr":"", "es": "",  "ko": ""},
 
+  { "en": "assortment, selection",       "fi": "valikoima",   "fr":"", "es": "",  "ko": ""},
+
   { "en": "order (arrangement)",       "fi": "järjestys",   "fr":"", "es": "",  "ko": ""},
 { "en": "to accent",   "ko": "",    "fi": "korostaa",   "fr":""},
   { "en": "like, as",   "ko": "",    "fi": "kuten",   "fr":""},
@@ -189,6 +191,8 @@
 { "en": "nightmare",       "ko": "악몽 (bad + dream)",       "fi": "painajainen",    "fr": "cauchemar" },
 { "en": "to spit",       "ko": "뱉다",       "fi": "sylkeä",    "fr": "cracher" },
   { "en": "dead (person)",            "fi": "kuollut, vainaa",    "fr": "",  "es": "(el) muerto", "ko": "" },
+  { "en": "death",            "fi": "kuolema",    "fr": "",  "es": "", "ko": "" },
+
   { "en": "continuum",        "fi": "jatkumo",   "fr": "", "es": "", "ko": ""}
 
 ]

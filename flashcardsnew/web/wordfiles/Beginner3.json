@@ -55,7 +55,7 @@
 { "en": "on top of that",    "fi": "(sen) lisäksi", "fr":"", "es": "además", "ko": "게다가"},
 { "en": "in addition",       "fi": "(sen) lisäksi", "fr":"", "es": "además", "ko": "게다가"},
 { "en": "instead of",        "fi": "sijasta, asemesta",   "fr":"au lieu de","es":"en vez de, en lugar de",  "ko": ""},
-{ "en": "however",           "fi": "kuitenkin",   "fr":"","es":"sin embargo",  "ko": ""},
+{ "en": "however",           "fi": "kuitenkin, silti",   "fr":"","es":"sin embargo",  "ko": ""},
 { "en": "meanwhile",         "fi": "sillä välin, samaan aikaan",   "fr":"","es":"mientras tanto",  "ko": ""},
 
 
@@ -70,6 +70,7 @@
 { "en": "time (occurence)",          "fi": "kerta",    "fr": "fois", "ko": "번" },
 { "en": "next",            "fi": "seuraava, ensi",  "fr": "suivant",  "es": "siguiente, próximo",  "ko": " 다음" },
 { "en": "previous",        "fi": "edellinen",       "fr": "précédent","es": "anterior",            "ko": "이전"},
+{ "en": "former, past",        "fi": "entinen",       "fr": "","es": "",            "ko": ""},
 
 { "en": "to offer",             "fi": "tarjota",      "fr": "offrir",     "es": "ofrecer",   "ko": "" },
 { "en": "an offer",             "fi": "tarjous",      "fr": "offre",     "es": "(la) oferta",   "ko": "" },

@@ -64,7 +64,7 @@
 { "en": "enter, go in","ko": "들어가다",  "fi": "astua sisään", "fr": "entrer" },
 { "en": "come in",     "ko": "들어오다",  "fi": "",         "fr": "" },
 
-{ "en": "to come back, return",  "fi": "",    "fr": "",   "es": "volver, regresar",  "ko": "" },
+{ "en": "to come back, return",  "fi": "palata",    "fr": "",   "es": "volver, regresar",  "ko": "" },
 
 { "en": "participate",    "fi": "osallistua" , "fr":"participer",  "ko": ""},
 

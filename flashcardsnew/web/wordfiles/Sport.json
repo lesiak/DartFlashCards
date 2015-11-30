@@ -19,6 +19,7 @@
 { "en": "to win",      "fi": "voittaa" ,    "fr": "gagner",     "es": "ganar",           "ko": ""},
 { "en": "to lose",     "fi": "menettää" ,   "fr": "perdre",     "es": "perder",          "ko": ""},
 
+{ "en": "to train, exercise",    "fi": "harjoitella",   "fr": "","es": "",  "ko": "" },
 { "en": "training",    "fi": "harjoitus",   "fr": "entraînement","es": "(el) entrenamiento",  "ko": "훈련" },
 
 { "en": "to ski",      "fi": "hiihtää" ,    "fr":"skier",       "es": "esquiar",  "ko": " "},

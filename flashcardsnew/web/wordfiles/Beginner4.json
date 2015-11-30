@@ -118,6 +118,8 @@
 
 { "en": "reason",          "fi": "syy (Ei siihen ole mitään syytä)",    "fr": "raison",  "es": "(la) razón",   "ko": "원인" },
 { "en": "cause",           "fi": "",       "fr":"cause",    "es": "(la) causa",   "ko": ""},
+{ "en": "to cause",        "fi": "aiheuttaa",       "fr":"",    "es": "",   "ko": ""},
+
 
 { "en": "against",       "fi": "vastaan",                  "fr": "",          "es": "contra",              "ko": "" },
 { "en": "for (in advocacy of)", "fi": "puolesta",          "fr": "",          "es": "",                    "ko": "" },

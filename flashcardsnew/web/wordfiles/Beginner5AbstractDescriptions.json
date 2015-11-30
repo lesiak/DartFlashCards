@@ -22,6 +22,8 @@
 { "en": "extraordinary",   "fi": "",                      "fr": "", "es": "extraordinario",  "ko": ""},
 { "en": "strange",         "fi": "outo, kummallinen, omituinen",          "fr": "étrange", "es": "extraño", "ko": "이상하다" },
 
+{ "en": "a sort, kind",          "fi": "laji, laatu", "fr": "", "es": "",  "ko": ""},
+
 { "en": "physical",        "fi": "",      "fr": "", "es": "físico",  "ko": ""},
 
 { "en": "entire",         "fi": "",      "fr": "", "es": "entero",  "ko": ""},

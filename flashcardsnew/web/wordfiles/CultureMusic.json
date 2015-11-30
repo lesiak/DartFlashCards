@@ -17,7 +17,7 @@
 { "en": "music",         "fi": "musiikki",       "fr": "musique",    "es": "(la) música",     "ko": "음악" },
 { "en": "melody",        "fi": "melodia, sävel", "fr": "mélodie",    "es": "(la) melodía",    "ko": "멜로디"},
 { "en": "rhythm",        "fi": "",               "fr": "",           "es": "(el) ritmo",    "ko": ""},
-{ "en": "voice",         "fi": "",               "fr": "",           "es": "(la) voz",    "ko": ""},
+{ "en": "voice",         "fi": "ääni",           "fr": "",           "es": "(la) voz",    "ko": ""},
 
 
 { "en": "band",          "fi": "yhtye, bändi",   "fr": "bande",      "es": "(el) grupo",      "ko": "음악회, 콘서트" },
