@@ -122,7 +122,7 @@ class PronounciationManager {
   
   
   void playPronounciation(String lang, String word, ForvoItem item) {
-    var filename = _makeitemFileName(word, item);  
+    var filename = _makeitemFileName(word, item);
     fileCache.readEntry(lang, filename)
       .then(mp3Player.playMp3FromDisk, 
         onError: (e) => _fetchMp3AndPlay(lang, word, item));
@@ -145,6 +145,7 @@ class PronounciationManager {
   Future<FileEntry> _fetchMp3(String lang, String word, ForvoItem item) {
     var filename = _makeitemFileName(word, item);
     print("not found in cache $filename");
+    print("fetcching ${item.pathogg}");
     Future<HttpRequest> mp3req = HttpRequest.request(item.pathogg, 
         responseType: 'blob');
     

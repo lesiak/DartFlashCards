@@ -92,7 +92,7 @@ class FlashCardsApp extends PolymerElement {
   
   static List<String> langs = ["ko", "fi", "es"];
   
-  static List<String> all_langs = ["en", "ko", "fi", "fr", "es", "it", "cs", "hu"];
+  static List<String> all_langs = ["en", "ko", "fi", "fr", "es", "it", "de", "hu"];
   
   @observable List<String> items;
   
@@ -272,7 +272,7 @@ class FlashCardsApp extends PolymerElement {
     } else if (selectedLangs == 'optionsRadiosFiKoEs') {
       langs = ["fi","ko","es"];
     } else {
-      langs = ["es","cs","fi"];
+      langs = ["es","de","fi"];
     }
     
     primaryLang = langs[0];

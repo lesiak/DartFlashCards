@@ -19,7 +19,11 @@ class LangUtils {
       return "Italian";
     } else if (lang == "cs") {
       return "Czech";              
-    } else if (lang==null) {
+    } else if (lang == "de") {
+      return "German";
+    }
+
+    else if (lang==null) {
       return "null";
     }
     return "unknown";

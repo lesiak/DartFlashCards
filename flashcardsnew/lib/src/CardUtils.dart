@@ -56,6 +56,10 @@ class CardUtils {
       } else if (word.startsWith("an ")) {
         word = word.substring(3);
       }
+    } else if (lang == "de") {
+      if (word.startsWith("der ") || word.startsWith("das ") || word.startsWith("die ")) {
+        word = word.substring(4);
+      }
     }
     return word.trim();
   }
