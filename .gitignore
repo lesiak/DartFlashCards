@@ -1,5 +1,6 @@
 .idea
 .project
 .pub
+.packages
 *.iml
 atlassian-ide-plugin.xml
