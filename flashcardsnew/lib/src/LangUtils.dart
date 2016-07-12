@@ -11,8 +11,6 @@ class LangUtils {
       return "French";      
     } else if (lang == "hu") {
       return "Hungarian";      
-    } else if (lang == "zh") {
-      return "Chinese";      
     } else if (lang == "es") {
       return "Spanish";
     } else if (lang == "it") {
