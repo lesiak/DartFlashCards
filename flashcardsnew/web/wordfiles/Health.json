@@ -68,7 +68,7 @@
 
 { "en": "medicine",              "fi": "",    "fr": "",       "es": "(el) medicamento", "ko": "" },
 { "en": "antibiotics",              "fi": "",    "fr": "",       "es": "(los) antibióticos", "ko": "" },
-{ "en": "bandage",              "fi": "",    "fr": "",       "es": "(la) venda", "ko": "" },
+{ "en": "bandage",              "fi": "side",    "fr": "",       "es": "(la) venda", "ko": "" },
 { "en": "drops",              "fi": "",    "fr": "",       "es": "(las) gotas", "ko": "" },
 { "en": "syrup",              "fi": "",    "fr": "",       "es": "(el) jarabe (para la tos)", "ko": "" },
 { "en": "aspirin",              "fi": "",    "fr": "",       "es": "(la) aspirina", "ko": "" },

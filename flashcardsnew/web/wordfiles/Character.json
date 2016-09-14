@@ -43,8 +43,8 @@
 
 { "en": "self-confident","fi": "itsevarma",      "fr": "sûr de soi",  "es": "seguro de sí mismo",   "ko": "" },
 
-{ "en": "curious",      "fi": "",                "fr": "curieux",     "es": "curioso",            "it": "curioso", "ko": "" },
-{ "en": "curiosity",      "fi": "",              "fr": "curiosité",   "es": "(la) curiosidad",    "it": "(la) curiosità", "ko": "" },
+{ "en": "curious",       "fi": "utelias",                "fr": "curieux",     "es": "curioso",            "it": "curioso", "ko": "" },
+{ "en": "curiosity",     "fi": "uteliaisuus",              "fr": "curiosité",   "es": "(la) curiosidad",    "it": "(la) curiosità", "ko": "" },
 
 { "en": "generous",        "fi": "antelias",     "fr": "généreux",    "es": "generoso",   "ko": "" },
 { "en": "serious, earnest","fi": "totinen",      "fr": "sérieux",     "es": "serio",      "ko": "" },

@@ -40,7 +40,7 @@
 { "en": "wrinkle",      "fi": "",       "fr": "",            "es": "(la) arruga",               "ko": "" },
 { "en": "(facial) features",      "fi": "",       "fr": "",            "es": "(los) rasgos",               "ko": "" },
 
-{ "en": "senses",    "fi": "",    "fr": "",     "es": "(los) sentidos",       "ko": "" },
+{ "en": "sense",     "fi": "aisti",    "fr": "",     "es": "(el) sentido",       "ko": "" },
 { "en": "to touch",  "fi": "koskea",    "fr": "toucher",     "es": "tocar",       "ko": "대다" },
 
 { "en": "smell",     "fi": "haju, tuoksu",  "fr":"odeur",  "ko": "냄새"},

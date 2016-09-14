@@ -1,7 +1,20 @@
 [
 
-  { "en": "emission",         "fi": "päästö",  "fr": "",    "es": "",    "ko": ""},
+  { "en": "emission",         "fi": "päästö",    "fr": "",    "es": "",    "ko": ""},
   { "en": "to knock",         "fi": "koputtaa",  "fr": "",    "es": "",    "ko": ""},
-  { "en": "arrow",            "fi": "nuoli",  "fr": "",    "es": "",    "ko": ""}
+  { "en": "arrow",            "fi": "nuoli",     "fr": "",    "es": "",    "ko": ""},
+  { "en": "thumb",            "fi": "peukalo",   "fr": "",    "es": "",    "ko": ""},
+  { "en": "nostril",          "fi": "sierain",   "fr": "",    "es": "",    "ko": ""},
+  { "en": "helmet",           "fi": "kypärä",    "fr": "",    "es": "",    "ko": ""},
+  { "en": "currant",          "fi": "herukka",   "fr": "",    "es": "",    "ko": ""},
+  { "en": "bat",              "fi": "lepakko",   "fr": "",    "es": "",    "ko": ""},
+  { "en": "expense",          "fi": "kulu",      "fr": "",    "es": "",    "ko": ""},
+  { "en": "backpack",         "fi": "reppu",     "fr": "",    "es": "",    "ko": ""},
+  { "en": "pulmonary",        "fi": "keuhko-",     "fr": "",    "es": "",    "ko": ""},
+  { "en": "robbery",          "fi": "ryöstö",     "fr": "",    "es": "",    "ko": ""},
+  { "en": "mud",              "fi": "muta",     "fr": "",    "es": "",    "ko": ""}
+
+
+
 
 ]
