@@ -10,11 +10,7 @@ class DictionaryPanelElement extends PolymerElement {
   @observable String searchTerm;
   
   @published String primaryLang; 
-    
-  @published String secondaryLang;
-  
-  @published String thirdLang;
-         
+
   @published List<String> deckNames = toObservable([]);
   
   @observable List<DictionaryTableRow> allCards = toObservable([]);
@@ -104,9 +100,7 @@ class DictionaryPanelElement extends PolymerElement {
   bool isCardMatching(DictionaryTableRow row) {
     var searchRegex = new RegExp(searchTerm, caseSensitive: false);     
     return isCardMatchingLang(row.card, "en", searchRegex)
-        || isCardMatchingLang(row.card, primaryLang, searchRegex)
-        || isCardMatchingLang(row.card, secondaryLang, searchRegex)
-        || isCardMatchingLang(row.card, thirdLang, searchRegex);
+        || isCardMatchingLang(row.card, primaryLang, searchRegex);
   }
   
   static bool isCardMatchingLang(Card card, String langName, RegExp searchRegex) {
