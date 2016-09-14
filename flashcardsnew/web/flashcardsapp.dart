@@ -90,7 +90,7 @@ class FlashCardsApp extends PolymerElement {
                               'Sentences1',
                               'TopikInter1']; 
   
-  static List<String> langs = ["ko", "fi", "es"];
+  static List<String> langs = ["ko", "fi", "fr", "es", "it", "de", "hu"];
   
   static List<String> all_langs = ["en", "ko", "fi", "fr", "es", "it", "de", "hu"];
   
@@ -122,12 +122,12 @@ class FlashCardsApp extends PolymerElement {
   
   void initLangsFromLocalStorage() {
     var langInStore = window.localStorage['primaryLang'];
-    var langsInStoreJSON = window.localStorage['langs'];
+    /*var langsInStoreJSON = window.localStorage['langs'];
     if (langsInStoreJSON != null) {
       List<String> langsInStore = JSON.decode(langsInStoreJSON);
       langs = langsInStore;
     }
-    
+    */
     var idx = 0;
     if (langInStore != null) {
       idx = langs.indexOf(langInStore);
@@ -136,8 +136,8 @@ class FlashCardsApp extends PolymerElement {
       }
     }
     primaryLang = langs[idx];
-    secondaryLang = langs[(idx + 1) % langs.length];    
-    thirdLang = langs[(idx + 2) % langs.length];  
+    /*secondaryLang = langs[(idx + 1) % langs.length];
+    thirdLang = langs[(idx + 2) % langs.length];*/
   }
   
   @override
@@ -263,7 +263,7 @@ class FlashCardsApp extends PolymerElement {
   }
   
   void updateOptions() {   
-    var optionsLangs = $['optionsPanel'];
+    /*var optionsLangs = $['optionsPanel'];
     var selectedLangs = optionsLangs.selectedOption;
     if (selectedLangs == 'optionsRadiosKoFiHu') {
       langs = ["ko","fi","hu"];      
@@ -280,7 +280,7 @@ class FlashCardsApp extends PolymerElement {
     thirdLang = langs[2];
     window.localStorage['langs'] = JSON.encode(langs);
     window.localStorage['primaryLang'] = primaryLang;
-   
+   */
     
     hideOptions();
   }
