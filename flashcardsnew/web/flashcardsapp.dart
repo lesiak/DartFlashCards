@@ -56,7 +56,8 @@ class FlashCardsApp extends PolymerElement {
                      'Health',
                      'Colors'];
   
-  List<String> level2Files = ['NatureIntermediate',
+  List<String> level2Files = ['New2016',
+                              'NatureIntermediate',
                               'Work',
                               'School',
                               'SchoolSubjects',
@@ -90,9 +91,9 @@ class FlashCardsApp extends PolymerElement {
                               'Sentences1',
                               'TopikInter1']; 
   
-  static List<String> langs = ["ko", "fi", "fr", "es", "it", "de", "hu"];
+  static List<String> langs = ["fi", "es", "de", "ko", "fr", "it", "hu"];
   
-  static List<String> all_langs = ["en", "ko", "fi", "fr", "es", "it", "de", "hu"];
+  static List<String> all_langs = ["en", "fi", "es", "de", "ko", "fr", "it", "hu"];
   
   @observable List<String> items;
   

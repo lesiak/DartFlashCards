@@ -17,7 +17,7 @@ class WordsTableReview extends PolymerElement {
   @published ObservableList<CardWithScore> cardsWithScore = toObservable([]);
   
   @published String primaryLang;
-  
+
   WordsTableReview.created() : super.created() {
     new PathObserver(this, 'cardsWithScore')
     ..open((_) {

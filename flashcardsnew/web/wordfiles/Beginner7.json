@@ -23,7 +23,7 @@
 
 { "en": "advantageous, beneficial",      "ko": "이롭다",      "fi": "edullinen", "fr": "avantageux" },
 
-{ "en": "drug (narcotic)",       "ko": "마약",    "fi": "huume",    "fr":"drogue"},
+{ "en": "drug (narcotic)",        "fi": "huume",    "fr":"drogue", "ko": "마약"},
 
 
 
