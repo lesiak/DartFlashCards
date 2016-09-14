@@ -81,8 +81,8 @@
 { "en": "relaxed",     "fi": "rentoutunut",              "fr":"",           "es":"relajado", "ko": ""},
 
 
-{ "en": "to suffer",    "fi": "",             "fr": "",          "es": "sufrir", "ko": "" },
-{ "en": "to give in (admit defeat)",    "fi": "antaa periksi",             "fr": "",          "es": "ceder, caerse", "ko": "" },
+{ "en": "to suffer",    "fi": "kärsiä",       "fr": "",          "es": "sufrir", "ko": "" },
+{ "en": "to give in (admit defeat)",          "fi": "antaa periksi",             "fr": "",          "es": "ceder, caerse", "ko": "" },
 { "en": "pleasure",   "fi": "ilo, huvi",      "fr": "plaisir",   "es": "(el) placer",   "ko": "" },
 { "en": "hunger",     "fi": "nälkä",          "fr": "faim",      "es": "(el) hambre",   "ko": "" },
 { "en": "thirst",     "fi": "jano",           "fr": "soif",      "es": "(la) sed",      "ko": "" },

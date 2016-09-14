@@ -43,7 +43,42 @@
   { "en": "brat, scamp",      "fi": "kakara",            "fr": "",          "es": "",  "ko": ""},
   { "en": "shipyard",      "fi": "telakka",            "fr": "",          "es": "",  "ko": ""},
   { "en": "cruise",      "fi": "risteily",            "fr": "",          "es": "",  "ko": ""},
-  { "en": "self-expression",      "fi": "itseilmaisu",            "fr": "",          "es": "",  "ko": ""}
+  { "en": "self-expression",      "fi": "itseilmaisu",            "fr": "",          "es": "",  "ko": ""},
+  { "en": "pity",      "fi": "sääli",            "fr": "",          "es": "",  "ko": ""},
+  { "en": "a squat",      "fi": "kyykky",            "fr": "",          "es": "",  "ko": ""},
+  { "en": "to attend",      "fi": "olla läsnä, käydä",            "fr": "",          "es": "",  "ko": ""},
+  { "en": "attendant",      "fi": "läsnäolija",            "fr": "",          "es": "",  "ko": ""},
+  { "en": "poaching",      "fi": "salametsästys",            "fr": "",          "es": "",  "ko": ""},
+  { "en": "essential",      "fi": "oleellinen, olennainen",            "fr": "",          "es": "",  "ko": ""},
+  { "en": "to wonder",      "fi": "ihmetellä",            "fr": "",          "es": "",  "ko": ""},
+  { "en": "negative (not affirmative)",      "fi": "kielteinen (kielteinen vastaus)",            "fr": "",          "es": "",  "ko": ""},
+  { "en": "headmaster",      "fi": "rehtori",            "fr": "",          "es": "",  "ko": ""},
+  { "en": "effort",      "fi": "ponnistus",            "fr": "",          "es": "",  "ko": ""},
+  { "en": "destruction",      "fi": "tuho, hävitys",            "fr": "",          "es": "",  "ko": ""},
+  { "en": "hostile",      "fi": "vihamielinen",            "fr": "",          "es": "",  "ko": ""},
+  { "en": "hostility",      "fi": "vihamielisyys",            "fr": "",          "es": "",  "ko": ""},
+  { "en": "except",      "fi": "paitsi",            "fr": "",          "es": "",  "ko": ""},
+  { "en": "honestly",      "fi": "rehellisesti",            "fr": "",          "es": "",  "ko": ""},
+  { "en": "get lost",      "fi": "eksyä",            "fr": "",          "es": "",  "ko": ""},
+  { "en": "gear (as in reverse gear)",      "fi": "vaihde",            "fr": "",          "es": "",  "ko": ""},
+  { "en": "to define",      "fi": "määritellä",            "fr": "",          "es": "",  "ko": ""},
+  { "en": "vague",      "fi": "epämääräinen",            "fr": "",          "es": "",  "ko": ""},
+  { "en": "deviation",      "fi": "poikkeama, poikkeaminen",            "fr": "",          "es": "",  "ko": ""},
+  { "en": "to differ (from)",      "fi": "erota, poiketa (+elative)",            "fr": "",          "es": "",  "ko": ""},
+  { "en": "bun (topknot)",      "fi": "nuttura",            "fr": "",          "es": "",  "ko": ""},
+  { "en": "to cover, hide",      "fi": "peittää",            "fr": "",          "es": "",  "ko": ""},
+  { "en": "to cover",      "fi": "kattaa",            "fr": "",          "es": "",  "ko": ""},
+  { "en": "tracksuit",      "fi": "verkkarit",            "fr": "",          "es": "",  "ko": ""},
+  { "en": "molten",      "fi": "sula",            "fr": "",          "es": "",  "ko": ""},
+  { "en": "to merge (transitive)",      "fi": "yhdistää, sulauttaa",            "fr": "",          "es": "",  "ko": ""},
+  { "en": "to merge (intransitive), to blend (in something)",      "fi": "sulautua",            "fr": "",          "es": "",  "ko": ""},
+  { "en": "casual",      "fi": "rento",            "fr": "",          "es": "",  "ko": ""},
+  { "en": "casually",      "fi": "rennosti",            "fr": "",          "es": "",  "ko": ""}
+
+
+
+
+
 
 
 

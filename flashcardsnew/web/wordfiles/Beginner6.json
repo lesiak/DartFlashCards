@@ -72,7 +72,7 @@
 
 { "en": "accept",         "fi": "hyväksyä, suostua", "fr": "accepter",     "es": "aceptar",    "ko": "받아들이다" },
 { "en": "reject",         "fi": "hylätä",            "fr": "rejeter",      "es": "rechazar",  "ko": "거절하다" },
-{ "en": "rejection",         "fi": "hyätä",            "fr": "",      "es": "(el) rechazo",  "ko": "" },
+{ "en": "rejection",         "fi": "hylkäys",            "fr": "",      "es": "(el) rechazo",  "ko": "" },
 
 { "en": "handmade",        "fi": "käsintehty",   "fr": "", "es": "hecho a mano",  "ko": "" },
 
