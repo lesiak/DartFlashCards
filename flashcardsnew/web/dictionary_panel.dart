@@ -37,8 +37,7 @@ class DictionaryPanelElement extends PolymerElement {
     loadAllCards();
   }
   
-  void loadAllCards() {    
-    List<DictionaryTableRow> cards = new List();      
+  void loadAllCards() {
     loadCardsFromDecksIgnoringErrors(deckNames)
       .then((cards) {
         allCards = cards;

@@ -36,50 +36,22 @@
         <button id="hideTestPronoButton" on-click="{{hideTestProno}}"  class="btn btn-default btn-lg btn-block">Hide Prono</button>
         </span>--> 
     </div>
-    
-      
-    <div class="row show-grid">
-      <div  class="col-md-12">
-        <div id="answerprimary" class="flashcardAnswer">          
-          <h1 id="ko">
-            <template if="{{ responsesVisible }}">
-              {{answerPrimary}}
-            </template>  
-          </h1>
-          <div id="primaryPro" class="btn-toolbar">
-            <!-- do not collapse-->
+
+
+      <div class="row show-grid">
+          <div class="col-md-12">
+              <div id="answerprimary" class="flashcardAnswer">
+                  <h1 id="ko">
+                      <template if="{{ responsesVisible }}">
+                          {{answerPrimary}}
+                      </template>
+                  </h1>
+                  <div id="primaryPro" class="btn-toolbar">
+                      <!-- do not collapse-->
+                  </div>
+              </div>
           </div>
-        </div>
-      </div>
-    </div>
-    <div class="row show-grid">
-      <div class="col-md-6 divAnswerLeft">
-        <div class="flashcardAnswer">          
-          <h1 id="fi">
-            <template if="{{ responsesVisible }}">
-              {{answerSecondary}}
-            </template>  
-          </h1>
-          <div id="secondaryPro" class="btn-toolbar" if="{{ responsesVisible }}">
-            <!-- do not collapse-->
-            <!--<button class="btn" rel="tooltip" title="f Korea, Republic of">fairybel</button>-->
-          </div>
-        </div>
-      </div>
-      <div class="col-md-6 divAnswerRight">
-        <div class="flashcardAnswer">          
-          <h1 id="fr" >
-            <template if="{{ responsesVisible }}">
-               {{answerThird}}
-            </template>  
-          </h1>
-          <div id="thirdPro" class="btn-toolbar" if="{{ responsesVisible }}">
-            <!-- do not collapse-->
-          </div>
-        </div>
-      </div>
-      
-    </div><!-- row -->
+      </div><!-- row -->
     <div id="audioContainer"></div>
   </template>
   <script type="application/dart" src="learning_panel.dart"></script> 
