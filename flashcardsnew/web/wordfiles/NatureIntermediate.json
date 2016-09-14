@@ -5,6 +5,7 @@
 { "en": "environment", "fi": "ympäristö" ,   "fr": "environnement",  "es": "(el) medio ambiente","ko": ""},
 { "en": "protection",  "fi": "suojelu" ,     "fr": "protection, sauvegarde","es": "(la) protección",    "ko": "보호"},
 { "en": "to protect",  "fi": "suojella" ,    "fr": "protéger", "es": "proteger",  "ko": "보호하다"},
+  { "en": "protective",  "fi": "suoja-" ,    "fr": "", "es": "",  "ko": ""},
 { "en": "valley",      "fi": "laakso" ,      "fr": "vallée",   "es": "(el) valle","ko": "골짜기, 계곡"},
 { "en": "a summit",    "fi": "" ,            "fr": "",         "es": "(la) cima, (la) cumbre","ko": ""},
 { "en": "a cave",      "fi": "luola" ,       "fr": "",         "es": "(la) cueva","ko": ""},

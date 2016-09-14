@@ -22,9 +22,10 @@
 { "en": "to compare",    "fi": "verrata (part + ill), vertailla",     "fr": "comparer",   "es": "comparar", "ko": "비교하다, (~에) 필적하다" },
 { "en": "comparison",    "fi": "vertailu",    "fr": "comparaison",    "es": "(la) comparación",   "ko": "비교" },
 
-{ "en": "bad, poor",     "fi": "huono",       "fr": "",    "es": "",   "ko": "" },
+  { "en": "bad, poor",   "fi": "huono",       "fr": "",           "es": "",   "ko": "" },
 
-{ "en": "hard, solid",   "fi": "kova",    "fr":"dur", "ko": "단단하다"}
+  { "en": "hard",        "fi": "kova",        "fr": "dur",        "es": "duro",  "hu": "kemény",     "ko": "단단하다"     },
+  { "en": "soft",        "fi": "pehmeä",      "fr": "mou",        "hu": "puha, lágy", "ko": ""     }
 
 
 ]

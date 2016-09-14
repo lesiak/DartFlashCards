@@ -3,17 +3,41 @@
   { "en": "emission",         "fi": "päästö",    "fr": "",    "es": "",    "ko": ""},
   { "en": "to knock",         "fi": "koputtaa",  "fr": "",    "es": "",    "ko": ""},
   { "en": "arrow",            "fi": "nuoli",     "fr": "",    "es": "",    "ko": ""},
+
   { "en": "thumb",            "fi": "peukalo",   "fr": "",    "es": "",    "ko": ""},
   { "en": "nostril",          "fi": "sierain",   "fr": "",    "es": "",    "ko": ""},
+  { "en": "pulmonary",        "fi": "keuhko-",   "fr": "",    "es": "",    "ko": ""},
+  { "en": "gesture",          "fi": "ele",       "fr": "",    "es": "",    "ko": ""},
+
   { "en": "helmet",           "fi": "kypärä",    "fr": "",    "es": "",    "ko": ""},
   { "en": "currant",          "fi": "herukka",   "fr": "",    "es": "",    "ko": ""},
   { "en": "bat",              "fi": "lepakko",   "fr": "",    "es": "",    "ko": ""},
   { "en": "expense",          "fi": "kulu",      "fr": "",    "es": "",    "ko": ""},
   { "en": "backpack",         "fi": "reppu",     "fr": "",    "es": "",    "ko": ""},
-  { "en": "pulmonary",        "fi": "keuhko-",     "fr": "",    "es": "",    "ko": ""},
-  { "en": "robbery",          "fi": "ryöstö",     "fr": "",    "es": "",    "ko": ""},
-  { "en": "mud",              "fi": "muta",     "fr": "",    "es": "",    "ko": ""}
 
+
+  { "en": "robbery",          "fi": "ryöstö",    "fr": "",    "es": "",    "ko": ""},
+  { "en": "to rape",          "fi": "raiskata",  "fr": "",    "es": "",    "ko": ""},
+  { "en": "rape",             "fi": "raiskaus",  "fr": "",    "es": "",    "ko": ""},
+
+
+  { "en": "mud",              "fi": "muta",      "fr": "",    "es": "",    "ko": ""},
+  { "en": "cell (biology)",   "fi": "solu",      "fr": "",    "es": "",    "ko": ""},
+  { "en": "photosynthesis",   "fi": "yhteyttäminen, fotosynteesi",     "fr": "",    "es": "",    "ko": ""},
+
+  { "en": "to assemble",      "fi": "koota",     "fr": "",    "es": "",    "ko": ""},
+  { "en": "barrier",          "fi": "este",      "fr": "",    "es": "",    "ko": ""},
+  { "en": "smooth",           "fi": "sileä",     "fr": "",    "es": "",    "ko": ""},
+  { "en": "disappear",        "fi": "kadota",      "fr":"disparaître",  "ko": ""},
+  { "en": "sermon",           "fi": "saarna",      "fr":"",  "ko": ""},
+  { "en": "to demolish",      "fi": "purkaa",            "fr": "",          "es": "demoler",  "ko": ""},
+  { "en": "naughty",      "fi": "tuhma",            "fr": "",          "es": "",  "ko": ""},
+  { "en": "to regret",      "fi": "pahoitella",            "fr": "",          "es": "",  "ko": ""},
+  { "en": "recommendation",      "fi": "suositus",            "fr": "",          "es": "",  "ko": ""},
+  { "en": "credentials (reference)",      "fi": "suosituskirje",            "fr": "",          "es": "",  "ko": ""},
+  { "en": "speedster, road hog",      "fi": "kaahari",            "fr": "",          "es": "",  "ko": ""},
+  { "en": "crash",      "fi": "rämähdys",            "fr": "",          "es": "",  "ko": ""},
+  { "en": "brat, scamp",      "fi": "kakara",            "fr": "",          "es": "",  "ko": ""}
 
 
 

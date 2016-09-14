@@ -4,7 +4,7 @@
   { "en": "to appear (become visible)",       "fi": "ilmaantua, ilmestyä",    "fr": "",    "es": "aparecer",  "ko": "" },
 
 
-  { "en": "disappear",    "fi": "kadota",      "fr":"disparaître",  "ko": ""},
+
 
   { "en": "to carry",    "fi": "kantaa (En jaksa kantaa sitä.)",      "fr":"",  "ko": ""},
 
@@ -161,7 +161,7 @@
 { "en": "to swerve",       "fi": "",            "fr": "",          "es": "virar (bruscamente)",  "ko": ""},
 
 { "en": "structure",       "fi": "rakenne",     "fr": "structure", "es": "(la) estructura",  "ko": ""},
-{ "en": "to demolish",     "fi": "",            "fr": "",          "es": "demoler",  "ko": ""},
+
   { "en": "to cut down, fell (a tree)",     "fi": "kaataa",            "fr": "",          "es": "talar",  "ko": ""},
 
 

@@ -28,7 +28,7 @@
 
 { "en": "to pack",      "fi": "pakata",          "fr": "",            "es": "empacar",      "ko": "" },
 { "en": "to unpack",    "fi": "",                "fr": "",            "es": "desempacar",      "ko": "" },
-{ "en": "sunglasses",   "fi": "aurinkolasit",    "fr": "lunettes de soleil",            "es": "(las) gafas de sol",      "ko": "색안경" },
+{ "en": "sunglasses",   "fi": "aurinkolasit, blehat",    "fr": "lunettes de soleil",            "es": "(las) gafas de sol",      "ko": "색안경" },
 { "en": "swimsuit",     "fi": "uimapuku",        "fr": "maillot de bain",            "es": "(el) traje de baño, (el) bañador",      "ko": "수영복" },
 { "en": "sunbathe",     "fi": "ottaa aurinkoa",  "fr": "bronzer",    "es": "tomar el sol", "ko": "일광욕을하다" }
 

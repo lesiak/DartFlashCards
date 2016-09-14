@@ -17,7 +17,7 @@
 { "en": "bear",       "fi": "karhu",     "fr": "ours",      "es": "(el) oso",    "ko": "곰" },
 
 { "en": "moose, elch","fi": "hirvi",     "fr": "élan",      "es": "(el) alce",   "ko": "엘크" },
-{ "en": "deer",       "fi": "",          "fr": "",          "es": "(el) corzo",   "ko": "" },
+{ "en": "deer",       "fi": "peura",     "fr": "",          "es": "(el) corzo",   "ko": "" },
 { "en": "reindeer",   "fi": "poro",      "fr": "renne",     "es": "(el) reno",   "ko": "순록" },
 
 { "en": "wolf",       "fi": "susi",      "fr": "loup",      "es": "(el) lobo",   "ko": "늑대" },
