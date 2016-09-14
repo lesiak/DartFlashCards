@@ -18,10 +18,6 @@ class WordsTableReview extends PolymerElement {
   
   @published String primaryLang;
   
-  @published String secondaryLang;
-  
-  @published String thirdLang;
-  
   WordsTableReview.created() : super.created() {
     new PathObserver(this, 'cardsWithScore')
     ..open((_) {

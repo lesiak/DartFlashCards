@@ -129,17 +129,13 @@
                     <h3>Review</h3>              
                     <review-table id="wordsTableToLearn" 
                           cardsWithScore="{{learningList}}"
-                          primaryLang="{{primaryLang}}"
-                          secondaryLang="{{secondaryLang}}"
-                           thirdLang="{{thirdLang}}"></review-table>
+                          primaryLang="{{primaryLang}}"></review-table>
                   </template>
                   <template bind if="{{ !notInLearningList.isEmpty }}">
                     <h3>Completed</h3>
                     <words-table id="wordsTable" 
                           cardsWithScore="{{notInLearningList}}"
-                          primaryLang="{{primaryLang}}"
-                          secondaryLang="{{secondaryLang}}"
-                          thirdLang="{{thirdLang}}"></words-table>
+                          primaryLang="{{primaryLang}}"></words-table>
                   </template>               
                 </div><!-- deckDetailsDiv -->
               </div><!-- col-md-9 -->

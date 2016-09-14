@@ -8,8 +8,6 @@
         <tr>
             <th>English</th>
             <th>{{getLangName(primaryLang)}}</th>
-            <th>{{getLangName(secondaryLang)}}</th>
-            <th>{{getLangName(thirdLang)}}</th>
             <th>Level</th>            
             <th>Due in</th>
         </tr>
@@ -18,8 +16,6 @@
         <tr template repeat="{{row in wordRows}}" class={{row.cssClass}}>
             <td>{{row.card.en}}</td>
             <td>{{getValueForLang(row.card, primaryLang)}}</td>
-            <td>{{getValueForLang(row.card, secondaryLang)}}</td>
-            <td>{{getValueForLang(row.card, thirdLang)}}</td>
             <td>{{row.knowledgeLevel}}</td>            
             <td>{{row.dueIn}}</td>
         </tr>

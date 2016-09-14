@@ -18,9 +18,9 @@ class WordsTable extends PolymerElement {
   
   @published String primaryLang;
   
-  @published String secondaryLang;
+  /*@published String secondaryLang;
   
-  @published String thirdLang;
+  @published String thirdLang;*/
   
   WordsTable.created() : super.created() {
     new PathObserver(this, 'cardsWithScore')
