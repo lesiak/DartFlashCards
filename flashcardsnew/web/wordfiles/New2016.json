@@ -65,6 +65,7 @@
   { "en": "vague",      "fi": "epämääräinen",            "fr": "",          "es": "",  "ko": ""},
   { "en": "deviation",      "fi": "poikkeama, poikkeaminen",            "fr": "",          "es": "",  "ko": ""},
   { "en": "to differ (from)",      "fi": "erota, poiketa (+elative)",            "fr": "",          "es": "",  "ko": ""},
+  { "en": "distinguish",      "fi": "erottaa",            "fr": "",          "es": "",  "ko": ""},
   { "en": "bun (topknot)",      "fi": "nuttura",            "fr": "",          "es": "",  "ko": ""},
   { "en": "to cover, hide",      "fi": "peittää",            "fr": "",          "es": "",  "ko": ""},
   { "en": "to cover",      "fi": "kattaa",            "fr": "",          "es": "",  "ko": ""},
@@ -73,7 +74,18 @@
   { "en": "to merge (transitive)",      "fi": "yhdistää, sulauttaa",            "fr": "",          "es": "",  "ko": ""},
   { "en": "to merge (intransitive), to blend (in something)",      "fi": "sulautua",            "fr": "",          "es": "",  "ko": ""},
   { "en": "casual",      "fi": "rento",            "fr": "",          "es": "",  "ko": ""},
-  { "en": "casually",      "fi": "rennosti",            "fr": "",          "es": "",  "ko": ""}
+  { "en": "casually",      "fi": "rennosti",            "fr": "",          "es": "",  "ko": ""},
+  { "en": "apparently",      "fi": "ilmeisesti",            "fr": "",          "es": "",  "ko": ""},
+  { "en": "stripe (pattern)",      "fi": "raita",            "fr": "",          "es": "",  "ko": ""},
+  { "en": "contradictory",      "fi": "ristiriitainen",            "fr": "",          "es": "",  "ko": ""},
+  { "en": "especially",      "fi": "erityisesti, etenkin, varsinkin",            "fr": "",          "es": "",  "ko": ""},
+  { "en": "reportedly, said to be",      "fi": "kuulemma",            "fr": "",          "es": "",  "ko": ""},
+  { "en": "a spade",      "fi": "lapio",            "fr": "",          "es": "",  "ko": ""},
+  { "en": "a shovel",      "fi": "lapio",            "fr": "",          "es": "",  "ko": ""}
+
+
+
+
 
 
 
