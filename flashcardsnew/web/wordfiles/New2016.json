@@ -19,6 +19,9 @@
   { "en": "robbery",          "fi": "ryöstö",    "fr": "",    "es": "",    "ko": ""},
   { "en": "to rape",          "fi": "raiskata",  "fr": "",    "es": "",    "ko": ""},
   { "en": "rape",             "fi": "raiskaus",  "fr": "",    "es": "",    "ko": ""},
+  { "en": "to harass",        "fi": "ahdistella",          "fr": "",  "ko": "" },
+  { "en": "harassment",       "fi": "ahdistelu",          "fr": "",  "ko": "" },
+  { "en": "molester",         "fi": "ahdistelija",  "fr": "",    "es": "",    "ko": ""},
 
 
   { "en": "mud",              "fi": "muta",      "fr": "",    "es": "",    "ko": ""},
@@ -37,7 +40,10 @@
   { "en": "credentials (reference)",      "fi": "suosituskirje",            "fr": "",          "es": "",  "ko": ""},
   { "en": "speedster, road hog",      "fi": "kaahari",            "fr": "",          "es": "",  "ko": ""},
   { "en": "crash",      "fi": "rämähdys",            "fr": "",          "es": "",  "ko": ""},
-  { "en": "brat, scamp",      "fi": "kakara",            "fr": "",          "es": "",  "ko": ""}
+  { "en": "brat, scamp",      "fi": "kakara",            "fr": "",          "es": "",  "ko": ""},
+  { "en": "shipyard",      "fi": "telakka",            "fr": "",          "es": "",  "ko": ""},
+  { "en": "cruise",      "fi": "risteily",            "fr": "",          "es": "",  "ko": ""},
+  { "en": "self-expression",      "fi": "itseilmaisu",            "fr": "",          "es": "",  "ko": ""}
 
 
 

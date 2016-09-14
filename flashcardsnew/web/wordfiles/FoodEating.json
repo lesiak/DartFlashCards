@@ -37,6 +37,7 @@
 { "en": "to eat out",   "fi": "syödä ulkona", "fr": "aller au restaurant", "es": "comer fuera",   "ko": "" },
 { "en": "menu",         "fi": "ruokalista",   "fr": "carte",               "es": "(la) carta",   "ko": "" },
 { "en": "to order",     "fi": "tilata",       "fr": "",                    "es": "pedir",   "ko": "" },
+  { "en": "order",      "fi": "tilaus",       "fr": "",                    "es": "",   "ko": "" },
 { "en": "a tip (money)","fi": "",       "fr": "",                          "es": "(la) propina",   "ko": "" },
 { "en": "bill",         "fi": "lasku",        "fr": "addition",            "es": "(la) cuenta",   "ko": "" }
 

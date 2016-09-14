@@ -25,7 +25,8 @@
   { "en": "bad, poor",   "fi": "huono",       "fr": "",           "es": "",   "ko": "" },
 
   { "en": "hard",        "fi": "kova",        "fr": "dur",        "es": "duro",  "hu": "kemény",     "ko": "단단하다"     },
-  { "en": "soft",        "fi": "pehmeä",      "fr": "mou",        "hu": "puha, lágy", "ko": ""     }
+  { "en": "soft",        "fi": "pehmeä",      "fr": "mou",        "hu": "puha, lágy", "ko": ""     },
+  { "en": "tight",        "fi": "tiukka",      "fr": "",        "hu": "", "ko": ""     }
 
 
 ]
