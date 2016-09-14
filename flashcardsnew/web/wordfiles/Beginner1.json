@@ -31,21 +31,21 @@
  
 { "en": "rain",      "fi": "sade",       "fr": "pluie",     "es": "(la) lluvia",                                "de": "der Regen",          "hu": "eső",   "ko": "비"  },
 { "en": "snow",      "fi": "lumi",       "fr": "neige",     "es": "(la) nieve",                                 "de": "der Schnee",         "hu": "hó",    "ko": "눈"  },
-{ "en": "wind",      "fi": "tuuli",      "fr": "vent",      "es": "(el) viento", "hu": "szél",  "ko": "바람"},
-{ "en": "weather",   "fi": "sää, ilma",  "fr": "temps",     "es": "(el) tiempo", "hu": "időjárás", "ko": "날씨"},
-{ "en": "climate",   "fi": "ilmasto",    "fr": "climat",    "es": "(el) clima",  "hu": "klíma", "ko": "기후"   },
+{ "en": "wind",      "fi": "tuuli",      "fr": "vent",      "es": "(el) viento",                                "de": "der Wind",           "hu": "szél",  "ko": "바람"},
+{ "en": "weather",   "fi": "sää, ilma",  "fr": "temps",     "es": "(el) tiempo",                                "de": "das Wetter",     "hu": "időjárás", "ko": "날씨"},
+{ "en": "climate",   "fi": "ilmasto",    "fr": "climat",    "es": "(el) clima",                                 "de": "das Klima",    "hu": "klíma", "ko": "기후"   },
 
-{ "en": "sunset",    "fi": "auringonlasku", "fr": "coucher du soleil", "es": "(la) puesta del sol", "hu": "napnyugta", "ko": "일몰"           },
-{ "en": "sunrise",   "fi": "auringonnousu", "fr": "lever du soleil",   "es": "(la) salida del sol", "hu": "napkelte",  "ko": "해돋이"        },
-
-
-{ "en": "world",     "fi": "maailma",    "fr": "monde",     "es": "(el) mundo",  "hu": "világ",  "ko": "세계" },
+{ "en": "sunset",    "fi": "auringonlasku", "fr": "coucher du soleil", "es": "(la) puesta del sol",             "de": "der Sonnenuntergang",    "hu": "napnyugta", "ko": "일몰"           },
+{ "en": "sunrise",   "fi": "auringonnousu", "fr": "lever du soleil",   "es": "(la) salida del sol",             "de": "der Sonnenaufgang",  "hu": "napkelte",  "ko": "해돋이"        },
 
 
+{ "en": "world",     "fi": "maailma",    "fr": "monde",     "es": "(el) mundo",                                  "de": "die Welt",   "hu": "világ",  "ko": "세계" },
 
-{ "en": "sit",       "fi": "istua",      "fr": "être assis",  "es": "sentarse",     "hu": "ül",  "ko": "앉다"      },
-{ "en": "stand",     "fi": "seisoa",     "fr": "être debout", "es": "estar de pie", "hu": "áll",  "ko": "서다" },
-{ "en": "sleep",     "fi": "nukkua",     "fr": "dormir",      "es": "dormir",       "hu": "alszik",  "ko": "자다"       },
+
+
+{ "en": "sit",       "fi": "istua",      "fr": "être assis",  "es": "sentarse",                                  "de": "sitzen",      "hu": "ül",  "ko": "앉다"      },
+{ "en": "stand",     "fi": "seisoa",     "fr": "être debout", "es": "estar de pie",                              "de": "stehen",    "hu": "áll",  "ko": "서다" },
+{ "en": "sleep",     "fi": "nukkua",     "fr": "dormir",      "es": "dormir",                                    "de": "schlafen",        "hu": "alszik",  "ko": "자다"       },
 { "en": "know (sth)","fi": "tietää",     "fr": "savoir",      "es": "saber",        "hu": "tud",  "ko": "알다"   },
 { "en": "know (sb)", "fi": "tuntea",     "fr": "connaître",   "es": "conocer",      "hu": "tud",  "ko": "알다"   },
 { "en": "not to know","fi": "ei tiedä",  "fr": "ne pas savoir",          "ko": "모르다"      },

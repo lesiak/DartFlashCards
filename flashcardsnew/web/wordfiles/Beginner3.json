@@ -65,9 +65,11 @@
 { "en": "frost",        "fi": "pakkanen", "fr": "gel",   "es": "(la) escarcha", "ko": "서리"},
 { "en": "dry",          "fi": "kuiva",    "fr":"sec",    "es":"seco", "ko": ""},
 { "en": "wet",          "fi": "märkä" ,   "fr":"humide, mouillé",  "es":"húmedo (damp); mojado (soaked); lluvioso (weather)",  "ko": "젖은"},
+  { "en": "thermometer","fi": "lämpömittari" ,   "fr":"",  "es":"",  "ko": ""},
 
+{ "en": "time (occurence)",      "fi": "kerta",    "fr": "fois", "ko": "번" },
+{ "en": "for the first time",    "fi": "ensimmäistä kertaa",    "fr": "", "ko": "" },
 
-{ "en": "time (occurence)",          "fi": "kerta",    "fr": "fois", "ko": "번" },
 { "en": "next",            "fi": "seuraava, ensi",  "fr": "suivant",  "es": "siguiente, próximo",  "ko": " 다음" },
 { "en": "previous",        "fi": "edellinen",       "fr": "précédent","es": "anterior",            "ko": "이전"},
 { "en": "former, past",        "fi": "entinen",       "fr": "","es": "",            "ko": ""},
