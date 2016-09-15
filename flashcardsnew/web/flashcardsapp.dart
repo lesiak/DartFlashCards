@@ -100,12 +100,7 @@ class FlashCardsApp extends PolymerElement {
   @observable List<String> items;
   
   @observable String primaryLang;
-    
-  //TODO: find out why initializing this variable breaks the app in 0.10.0+1, but not in 0.9.5
-  @observable String secondaryLang;
-  
-  @observable String thirdLang;
-    
+
   @observable FileCache fileCache;
   
   PronounciationManager pronounciationManager;                                    
@@ -246,9 +241,7 @@ class FlashCardsApp extends PolymerElement {
  
   void flagClicked(Event e, var detail, Element target) {
     var idx = langs.indexOf(primaryLang);       
-    primaryLang = langs[(idx + 1) % langs.length];          
-    secondaryLang = langs[(idx + 2) % langs.length];
-    thirdLang = langs[(idx + 3) % langs.length];
+    primaryLang = langs[(idx + 1) % langs.length];
     window.localStorage['primaryLang'] = primaryLang;
     showDeckData();
   }

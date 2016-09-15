@@ -17,11 +17,7 @@ class WordsTable extends PolymerElement {
   @published ObservableList<CardWithScore> cardsWithScore = toObservable([]);
   
   @published String primaryLang;
-  
-  /*@published String secondaryLang;
-  
-  @published String thirdLang;*/
-  
+
   WordsTable.created() : super.created() {
     new PathObserver(this, 'cardsWithScore')
     ..open((_) {
