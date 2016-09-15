@@ -1,0 +1,68 @@
+[
+{ "en": "hobby",        "fi": "mieliharrastus","fr": "hobby",    "es": "(el) pasatiempo, (el) hobby", "ko": "취미" },
+{ "en": "sport",        "fi": "urheilu",       "fr": "sport",    "es": "(el) deporte",    "ko": "스포츠" },
+{ "en": "play (game, sport)", "fi": "pelata",  "fr": "jouer",    "es": "jugar",           "ko": "" },
+{ "en": "game",         "fi": "peli, leikki",  "fr": "jeu",      "es": "(el) juego",      "ko": "게임,  놀이"},
+{ "en": "player",       "fi": "pelaaja" ,      "fr": "joueur",     "es": "(el) jugador",    "ko": "플레이어"},
+{ "en": "team",         "fi": "joukkue" ,      "fr": "équipe",     "es": "(el) equipo",     "ko": "팀"},
+
+{ "en": "fit (healthy)","fi": "" ,             "fr": "",     "es": "en forma",     "ko": ""},
+{ "en": "to keep fit",  "fi": "" ,             "fr": "",     "es": "mantenerse en forma",     "ko": ""},
+
+
+{ "en": "football",    "fi": "jalkapallo",  "fr": "football",   "es": "(el) fútbol",     "ko": "축구 (kick + ball)" },
+{ "en": "volleyball",  "fi": "lentopallo",  "fr": "volley-ball","es": "(el) voleibol",   "ko": "배구 (push + ball)" },
+{ "en": "basketball",  "fi": "koripallo",   "fr": "basket-ball","es": "(el) baloncesto", "ko": "농구 (bamboo basket + ball)" },
+{ "en": "hockey",      "fi": "jääkiekko",   "fr": "",           "es": "(el) hockey",     "ko": ""},
+
+
+{ "en": "to win",      "fi": "voittaa" ,    "fr": "gagner",     "es": "ganar",           "ko": ""},
+{ "en": "to lose",     "fi": "menettää" ,   "fr": "perdre",     "es": "perder",          "ko": ""},
+
+{ "en": "to train, exercise",    "fi": "harjoitella",   "fr": "","es": "",  "ko": "" },
+{ "en": "training",    "fi": "harjoitus",   "fr": "entraînement","es": "(el) entrenamiento",  "ko": "훈련" },
+
+{ "en": "to ski",      "fi": "hiihtää" ,    "fr":"skier",       "es": "esquiar",  "ko": " "},
+{ "en": "skis",        "fi": "sukset" ,     "fr":"skis",        "es": "esquís",    "ko": " 스키"},
+
+{ "en": "to jump",     "fi": "hypätä",      "fr": "sauter",     "es": "saltar","ko": "뛰다"},
+{ "en": "to run",      "fi": "juosta",      "fr": "courir",     "es": "correr",  "ko": "달리다"},
+{ "en": "to kick",     "fi": "potkia",      "fr": "botter",      "ko": "차다" },
+
+{ "en": "to throw",    "fi": "heittää",     "fr": "jeter",      "es": "lanzar", "ko": "던지다" },
+{ "en": "catch",       "fi": "ottaa kiinni","fr": "",           "es": "coger",   "ko": "잡다" },
+{ "en": "to swim",        "fi": "uida",        "fr": "nager",      "es": "nadar",   "ko": "수영하다" },
+{ "en": "swimming pool","fi": "uimahalli",  "fr": "piscine",    "es": "(la) piscina",       "ko": "수영장" },
+{ "en": "swimming",     "fi": "uinti",      "fr": "natation",   "es": "(la) natación",   "ko": "수영" },
+
+{ "en": "to sail",       "fi": "purjehtia",     "fr": "",      "es": "",   "ko": "" },
+{ "en": "to row",        "fi": "soutaa",        "fr": "",      "es": "",   "ko": "" },
+
+{ "en": "to compete",     "fi": "kilpailla",   "fr": "", "es": "competir",  "ko": ""},
+{ "en": "to race",        "fi": "kilpailla",   "fr": "", "es": "",  "ko": ""},
+{ "en": "competition (sport)",  "fi": "kilpailu, kisat" , "fr":"concours, compétition","es":"(la) competición",    "ko": "경기 (競  “contest” and 技 “talent”)"},
+{ "en": "competition",  "fi": "" , "fr":"compétition","es":"(la) competencia",    "ko": ""},
+{ "en": "stadium",      "fi": "stadion" ,   "fr": "stade",         "es": "(el) estadio", "ko": "경기장"},
+{ "en": "a round, lap",      "fi": "kierros" ,   "fr": "",         "es": "", "ko": ""},
+
+{ "en": "spectator", "fi": "katsoja",    "fr": "spectateur",    "es": "(el) espectador", "ko": "구경꾼"},
+{ "en": "gym",       "fi": "punttisali, kuntosali" , "fr": "",  "es": "(el) gimnasio",   "ko": "체육관"},
+  { "en": "bodybuilder",        "fi": "kehonrakentaja" , "fr": "",  "es": "",   "ko": ""},
+{ "en": "record (best result)", "fi": "ennätys" , "fr": "",     "es": "(el) récord",    "ko": ""},
+
+ 
+
+{ "en": "dance",       "fi": "tanssi" , "fr": "danse",   "es": "(el) baile, (la) danza",  "ko": "춤"},
+{ "en": "to dance",    "fi": "tanssia", "fr": "danser",  "es": "bailar",      "ko": "추다, 춤추다"},
+
+{ "en": "to climb",    "fi": "kiipeillä (kiivetä)" , "fr": "", "es": "subirse", "ko": ""},
+
+{ "en": "bowling",     "fi": "keilailu" ,          "fr":"bowling",    "es": "(los) bolos", "ko": "볼링" },
+{ "en": "baseball",    "fi": "pesäpallo, baseball","fr": "base-ball", "es": "(el) béisbol",    "ko": "야구 (field + ball)" },
+{ "en": "badminton",   "fi": "sulkapallo",         "fr": "badminton", "es": "(el) bádminton",  "ko": "배드민턴" },
+{ "en": "chess",       "fi": "shakki",             "fr": "échecs",    "es": "(el) ajedrez", "ko": ""}
+
+
+]
+        
+        

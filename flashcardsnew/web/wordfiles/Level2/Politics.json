@@ -1,0 +1,68 @@
+[
+
+{ "en": "state (country)","fi": "valtio",        "fr": "état",         "es": "(el) estado", "ko": "" },
+{ "en": "president",     "fi": "presidentti",    "fr": "président",    "es": "(el) presidente",        "ko": "대통령 (great + command + govern)" },
+{ "en": "government",    "fi": "hallitus",       "fr": "gouvernement", "es": "(el) gobierno",  "ko": "정부" },
+{ "en": "to govern",     "fi": "hallita",        "fr": "gouverner",    "es": "gobernar",       "ko": "" },
+
+
+{ "en": "king",          "fi": "kuningas",       "fr": "roi" ,    "es": "(el) rey",      "ko": ""}, 
+{ "en": "queen",         "fi": "kuningatar",     "fr": "reine" ,  "es": "(la) reina",    "ko": ""},
+{ "en": "prince",        "fi": "prinssi",        "fr": "prince" , "es": "(el) príncipe", "ko": ""},
+{ "en": "princess",      "fi": "prinsessa",      "fr": "" ,       "es": "(la) princesa", "ko": "왕자비"},
+{ "en": "kingdom",       "fi": "kuningaskunta, valtakunta",       "fr": "royaume" ,    "es": "(el) reino",      "ko": ""},
+{ "en": "authorities",   "fi": "viranomaiset",   "fr": "autorités",    "es": "(las) autoridades",    "ko": "당국" },
+
+{ "en": "institution",   "fi": "laitos",   "fr": "",    "es": "(la) institución",    "ko": "" },
+
+{ "en": "society",        "fi": "yhteiskunta",            "fr": "société",     "es": "(la) sociedad",  "ko": "사회" },
+{ "en": "nation",         "fi": "kansakunta",             "fr": "nation",      "es": "(la) nación",  "ko": "" },
+{ "en": "national",       "fi": "kansallinen",            "fr": "national",    "es": "nacional",  "ko": "" },
+{ "en": "community",      "fi": "yhteisö",                "fr": "",      "es": "",  "ko": "" },
+
+
+{ "en": "to negotiate",   "fi": "neuvotella",    "fr": "négocier",    "es": "negociar", "ko": "" },
+{ "en": "negotiation",    "fi": "neuvottelu",    "fr": "négociation", "es": "(la) negociación",    "ko": "" },
+
+{ "en": "decision-maker", "fi": "päätöksentekijä, päättäjä",    "fr": "", "es": "",    "ko": "" },
+{ "en": "policymaker",    "fi": "päättäjä",    "fr": "", "es": "",    "ko": "" },
+
+
+{ "en": "delegate",      "fi": "edustaja",       "fr": "délégué", "ko": "대리자" },
+
+
+{ "en": "politics",       "fi": "politiikka",              "fr": "politique",   "es": "(la) política",   "ko": "" },
+  { "en": "political",    "fi": "poliittinen",              "fr": "",   "es": "",   "ko": "" },
+{ "en": "democracy",      "fi": "kansanvalta, demokratia", "fr": "démocratie",  "es": "(la) democracia",   "ko": "민주주의" },
+{ "en": "communism",      "fi": "kommunismi",              "fr": "communisme",  "es": "(el) comunismo",   "ko": "" },
+{ "en": "liberalism",     "fi": "liberalismi",             "fr": "libéralisme", "es": "(el) liberalismo",   "ko": "" },
+{ "en": "monarchy",       "fi": "monarkia",                "fr": "monarchie",   "es": "(la) monarquía",   "ko": "" },
+{ "en": "ideology",       "fi": "ideologia",               "fr": "idéologie",   "es": "(la) ideología",   "ko": "" },
+{ "en": "liberty",        "fi": "",                        "fr": "liberté",     "es": "(la) libertad",   "ko": "" },
+{ "en": "regime",        "fi": "",                         "fr": "",            "es": "(el) régimen",   "ko": "" },
+  { "en": "committee",        "fi": "lautakunta",                         "fr": "",            "es": "(el) régimen",   "ko": "" },
+
+
+{ "en": "to vote",       "fi": "",                        "fr": "",             "es": "votar",               "ko": "" },
+{ "en": "voter",         "fi": "",                        "fr": "",             "es": "(el) votante",        "ko": "" },
+  { "en": "demonstration (political)","fi": "mielenosoitus", "fr": "",          "es": "(la) manifestación",  "ko": "시위, 시연, 데모" },
+
+{ "en": "coup d'état",       "fi": "",                    "fr": "coup d'état", "es": "(el) golpe de estado", "ko": "" },
+{ "en": "to rebel (against)","fi": "",              "fr": "",  "es": "rebelarse (contra)", "ko": "" }, 
+
+{ "en": "embassy",           "fi": "suurlähetystö", "fr": "ambassade",   "es": "(la) embajada",  "ko": "대사관 (great + dispatch + building)" },
+{ "en": "a summit (meeting)","fi": "huippukokous" ,      "fr": "",   "es": "(la) cumbre","ko": ""},
+{ "en": "council (committee)","fi": "" ,                 "fr": "",   "es": "(el) consejo","ko": ""},
+
+{ "en": "to isolate (from)","fi": "",                    "fr": "",   "es": "aislar (de)",  "ko": "" },
+{ "en": "isolation",        "fi": "",                    "fr": "",   "es": "(el) aislamiento",  "ko": "" },
+{ "en": "allied",           "fi": "",                    "fr": "",   "es": "aliado",  "ko": "" },
+{ "en": "international",           "fi": "kansainvälinen",                    "fr": "",   "es": "",  "ko": "" },
+
+{ "en": "Ministry of Finance",               "fi": "valtiovarainministeriö",    "fr": "",  "ko": "" },
+{ "en": "a seat (in parliament)",           "fi": "",                    "fr": "",   "es": "escaño",  "ko": "" }
+
+
+]
+        
+        

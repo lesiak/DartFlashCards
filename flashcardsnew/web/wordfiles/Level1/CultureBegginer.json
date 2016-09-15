@@ -1,0 +1,65 @@
+[
+
+{ "en": "art",           "fi": "taide",          "fr": "art",           "es": "(el) arte",  "ko": "예술" },
+{ "en": "culture",       "fi": "kulttuuri",      "fr": "culture",       "es": "(la) cultura",  "ko": "문화" },
+{ "en": "entertainment", "fi": "viihde",         "fr": "divertissement","es": "(el) entretenimiento",  "ko": "환대" },
+{ "en": "book",          "fi": "kirja",          "fr": "livre",         "es": "(el) libro",    "ko": "책" },
+{ "en": "newspaper",     "fi": "sanomalehti",    "fr": "journal",       "es": "(el) periódico, (el) diario",   "ko": "신문 (new + hear)" },
+{ "en": "news",          "fi": "uutiset",        "fr": "nouvelles",     "es": "(las) noticias",   "ko": "뉴스" },
+{ "en": "magazine",      "fi": "aikakauslehti",  "fr": "magazine" ,     "es": "(la) revista",   "ko": "잡지"},
+{ "en": "page",          "fi": "sivu",           "fr": "page",          "es": "(la) página",    "ko": "페이지" },
+{ "en": "chapter",       "fi": "luku",           "fr": "chapitre",      "es": "(el) capítulo",  "ko": "" },
+
+{ "en": "writer",        "fi": "kirjoittaja, kirjailija", "fr": "écrivain, auteur", "es": "(el) escritor", "ko": "작가" },
+{ "en": "poem",          "fi": "runo",          "fr": "poème",        "es": "(el) poema",  "ko": "시" },
+{ "en": "poet",          "fi": "runoilija",     "fr": "poète",        "es": "(el) poeta",  "ko": "시인" },
+{ "en": "literature",    "fi": "kirjallisuus",  "fr": "littérature",  "es": "(la) literatura",  "ko": "" },
+{ "en": "story",         "fi": "tarina",        "fr": "histoire",     "es": "(la) historia",  "ko": "" },
+{ "en": "tale",          "fi": "tarina",        "fr": "conte",     "es": "(el) cuento",  "ko": "" },
+{ "en": "a paperback",   "fi": "pokkari, taskukirja",        "fr": "",     "es": "(el) libro de bolsillo",  "ko": "" },
+
+
+{ "en": "movie",         "fi": "elokuva",        "fr": "film",          "es": "(la) película",     "ko": "영화" },
+
+{ "en": "actor",         "fi": "näyttelijä",     "fr": "acteur",        "es": "(el) actor",     "ko": "배우" },
+{ "en": "actress",       "fi": "näyttelijä(tär)","fr": "actrice",     "es": "(la) actriz",     "ko": "배우" },
+{ "en": "movie star",    "fi": "päänäyttelijä",  "fr": "star de cinéma","es": "(la) estrella de cine", "ko": "영화 배우"},
+{ "en": "director",       "fi": "",              "fr": "",              "es": "(el) director",     "ko": "" },
+
+{ "en": "a role (acting)",  "fi": "rooli, osa",  "fr": "",              "es": "(el) papel",     "ko": "" },
+{ "en": "to play (a role)", "fi": "näytellä",    "fr": "",              "es": "desempeñar",     "ko": "" },
+
+
+{ "en": "scenario",      "fi": "skenaario, suunnitelma",          "fr": "scénario", "es": "(el) guión (cine), (el) argumento (teat)",  "ko": "" },
+{ "en": "plot",          "fi": "juoni",          "fr": "", "es": "(el) trama",  "ko": "" },
+{ "en": "the plot thickens", "fi": "",           "fr": "", "es": "el asunto se complica",  "ko": "" },
+
+ 
+
+
+{ "en": "to draw",       "fi": "piirtää",       "fr": "dessiner",   "es": "dibujar",      "ko": "그리다" },
+{ "en": "picture (drawing)","fi": "kuva",       "fr": "dessin",     "es": "(el) dibujo",  "ko": "그림" },
+
+{ "en": "to paint",          "fi": "maalata",   "fr": "peindre",     "es": "pintar",  "ko": "" },
+{ "en": "picture (painting)","fi": "",          "fr": "",            "es": "(el) cuadro",  "ko": "" },
+{ "en": "abstract (adj)",    "fi": "abstrakti", "fr": "",            "es": "abstracto",  "ko": "" },
+{ "en": "realistic (adj)",    "fi": "realistinen",       "fr": "",     "es": "realista",  "ko": "" },
+
+{ "en": "channel",       "fi": "kanava",        "fr": "canal",      "es": "(el) canal",   "ko": "채널" },
+{ "en": "program",       "fi": "ohjelma",       "fr": "programme",  "es": "(el) programa",    "ko": "프로그램" },
+
+{ "en": "interview",     "fi": "haastattelu",   "fr": "entretien", "es": "(la) entrevista",  "ko": "인터뷰" },
+  { "en": "enquiry",     "fi": "tutkimus, kysely",   "fr": "", "es": "",  "ko": "" },
+
+  { "en": "series",        "fi": "sarja",         "fr": "série",     "es": "(la) serie",     "ko": "시리즈" },
+{ "en": "an episode",    "fi": "episodi",       "fr": "épisode",   "es": "(el) episodio, (el) capítulo ",     "ko": "" },
+
+{ "en": "duration",      "fi": "kesto",         "fr": "durée",     "es": "(la) duración",  "ko": "지속"},
+
+{ "en": "a comeback",    "fi": "paluu",         "fr": "",         "es": "(la) vuelta, (el) regreso",      "ko": "컴백" },
+{ "en": "make a comeback","fi": "",         "fr": "",             "es": "volver (a)",        "ko": "컴백" },
+
+{ "en": "famous",      "fi": "kuuluisa",    "fr": "célèbre",         "es": "famoso", "ko": "유명한" },
+{ "en": "fan",         "fi": "fani",        "fr": "fan",     "es": "(el) aficionado, (el) fan, (el) admirador, (el) fanático",    "ko": "팬" }
+
+]

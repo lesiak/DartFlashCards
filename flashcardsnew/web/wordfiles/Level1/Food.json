@@ -1,0 +1,69 @@
+[
+
+{ "en": "powder",       "fi": "jauhe",      "fr": "poudre",        "es": "(el) polvo",    "ko": "가루"},
+{ "en": "flour",        "fi": "jauhot",     "fr": "farine",        "es": "(la) harina",   "ko": "가루" },
+{ "en": "bread",        "fi": "leipä",      "fr": "pain",          "es": "(el) pan",      "ko": "빵" },
+{ "en": "salt",         "fi": "suola",      "fr": "sel",           "es": "(la) sal",      "ko": "소금" },
+{ "en": "sugar",        "fi": "sokeri",     "fr": "sucre",         "es": "(el) azúcar",   "ko": "설탕" },
+{ "en": "garlic",       "fi": "valkosipuli","fr": "ail",           "es": "(el) ajo",      "ko": "마늘" },
+{ "en": "rice",         "fi": "riisi",      "fr": "riz",           "es": "(el) arroz",    "ko": "밥, 쌀" },
+
+{ "en": "tea",          "fi": "tee",        "fr": "thé",           "es": "(el) té",       "ko": "차" },
+{ "en": "coffee",       "fi": "kahvi",      "fr": "café",          "es": "(el) café",     "ko": "커피" },
+{ "en": "juice",        "fi": "mehu",       "fr": "jus",           "es": "(el) zumo",     "ko": "주스" },
+
+{ "en": "cheese",       "fi": "juusto",     "fr": "fromage",       "es": "(el) queso",    "ko": "치즈" },
+{ "en": "french fries", "fi": "ranskalaiset","fr":"",              "es": "(las) papas fritas",       "ko": "감자튀김"},
+
+{ "en": "mushroom",       "fi": "sieni",     "fr": "champignon",  "es": "(la) seta, (el) champiñón, (el) hongo",   "ko": "버섯" },
+{ "en": "onion",          "fi": "sipuli",    "fr": "oignon",    "es": "(la) cebolla",    "ko": "양파 (the West + Welsh onion)" },
+
+{ "en": "soup",           "fi": "keitto",    "fr": "soupe",     "es": "(la) sopa",    "ko": "국" },
+{ "en": "meat",           "fi": "liha",      "fr": "viande",    "es": "(la) carne",   "ko": "고기" },
+{ "en": "bacon",          "fi": "pekoni",    "fr":"lardon",     "es": "(el) tocino",  "ko": "베이컨"},
+{ "en": "egg",            "fi": "muna",      "fr":"œuf",        "es": "(el) huevo",   "ko": "알"},
+{ "en": "oil",            "fi": "öljy" ,     "fr":"huile",      "es": "(el) aceite",  "ko": "기름"},
+{ "en": "salad",          "fi": "salaatti" , "fr":"salade",     "es": "(la) ensalada",  "ko": "샐러드"},
+
+{ "en": "ice",            "fi": "jää",        "fr": "glace",     "es": "(el) hielo",   "ko": "얼음" },
+{ "en": "hot pepper", "fi": "kuuma pippuria", "fr": "piment",                  "ko": "고추" },
+{ "en": "milk",        "fi": "maito",         "fr": "lait",      "es": "(la) leche",   "ko": "우유" },
+{ "en": "butter",      "fi": "voi",           "fr": "beurre",    "es": "(la) mantequilla",  "ko": "버터" },
+{ "en": "cream",       "fi": "kerma",         "fr": "crème",     "es": "(la) nata",    "ko": "크림" },
+{ "en": "cake",        "fi": "kakku",         "fr": "gâteau", "ko": "케이크" },
+
+{ "en": "beer",        "fi": "olut",         "fr": "bière", "es": "(la) cerveza",  "ko": "맥주" },
+{ "en": "vodka",       "fi": "vodka",        "fr": "vodka", "es": "(la) vodka",    "ko": "보드카" },
+{ "en": "wine",        "fi": "viini",        "fr": "vin",   "es": "(el) vino",     "ko": "포도주" },
+{ "en": "honey",       "fi": "hunaja",       "fr": "miel",  "es": "(la) miel",     "ko": "꿀" },
+{ "en": "candy",       "fi": "karkki, karamelli",    "fr": "bonbon" , "ko": "사탕"},
+{ "en": "cookie",      "fi": "pikkuleipä",    "fr": "gâteau",  "es": "(la) galleta",    "ko": "쿠키" },
+
+{ "en": "sandwich",    "fi": "voileipä",    "fr": "sandwich",   "es": "(el) bocadillo", "ko": "샌드위치" },
+{ "en": "sushi",       "fi": "sushi",       "fr": "sushi",      "es": "(el) sushi",     "ko": "스시, 일본식 초밥 (vinegar + rice)" },
+
+{ "en": "pancake",        "fi": "ohukainen",    "fr": "",   "es": "(la) tortita",      "ko": "" },
+{ "en": "scrambled eggs", "fi": "munakokkeli",    "fr": "", "es": "(los) huevos revueltos",  "ko": "" },
+{ "en": "omelette",       "fi": "munakas",    "fr": "",     "es": "(la) tortilla, (el) omelet",    "ko": "" },
+{ "en": "sausage",        "fi": "makkara",    "fr": "saucisse",  "es": "(la) salchicha" , "ko": ""},
+
+
+{ "en": "ice cream",      "fi": "jätski, jäätelö",    "fr": "crème glacée",  "es": "(el) helado",    "ko": "아이스크림" },
+{ "en": "alcohol",        "fi": "alkoholi",    "fr": "alcool",               "es": "(el) alcohol",   "ko": "알코올" },
+{ "en": "sesame",         "fi": "seesami",    "fr": "sésame",                "es": "(el) sésamo, (el) ajonjolí",     "ko": "참깨" },
+
+
+{ "en": "sweet",        "fi": "makea",        "fr": "doux",      "es": "dulce",   "ko": "달다" },
+{ "en": "bitter",       "fi": "kitkerä",      "fr": "amer",      "es": "amargo",  "ko": "쓰다" },
+{ "en": "sour",         "fi": "hapan",        "fr": "aigre",     "es": "ácido", "ko": "신, 사워" },
+{ "en": "spicy (hot)",  "fi": "mausteinen" ,  "fr":"piquant",    "es": "picante",  "ko": "맵다"},
+{ "en": "mild",         "fi": "mieto" ,       "fr":"",           "ko": ""},
+{ "en": "fresh",        "fi": "tuore" ,       "fr": "frais",          "es": "fresco",  "ko": "신선한"},
+{ "en": "refreshing",   "fi": "virkistävä",   "fr": "rafraîchissant", "es": "refrescante", "ko": "상쾌한"},
+{ "en": "tasty",        "fi": "",             "fr": "",               "es": "sabroso", "ko": ""},
+{ "en": "delicious",    "fi": "",             "fr": "",               "es": "delicioso", "ko": ""},
+{ "en": "disgusting",   "fi": "",             "fr": "",               "es": "asqueroso", "ko": ""}
+
+
+
+]

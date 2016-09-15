@@ -1,0 +1,21 @@
+[
+{ "en": "to make the bed","fi": "pedata sänky, sijata vuode",    "fr": "",   "ko": "" },
+{ "en": "to clean",       "fi": "puhdistaa, siivota",    "fr": "nettoyer", "es": "limpiar",  "ko": "" },
+{ "en": "to wash",        "fi": "pestä, tiskata, pyykätä",    "fr": "laver", "es": "(+clothes, car) lavar, (+floor) fregar",      "ko": "씻다" },
+{ "en": "to wipe",        "fi": "pyyhkiä",    "fr": "essuyer",  "ko": "닦음" },
+{ "en": "to sweep",       "ko": "",       "fi": "lakaista",    "fr": "balayer" },
+
+{ "en": "stain",          "fi": "tahra",    "fr": "tache",    "es": "(la) mancha", "ko": "" },
+
+
+{ "en": "broom",       "ko": "",       "fi": "harja, luuta",    "fr": "balai" },
+{ "en": "brush (sweeper)",       "ko": "",       "fi": "harja",    "fr": "balayette (f)" },
+{ "en": "dust pan",       "ko": "",       "fi": "rikkalapio",    "fr": "pelle (f)" },
+{ "en": "vacuum cleaner", "fi": "pölynimuri",    "fr": "aspirateur",  "es": "(la) aspiradora", "ko": "진공 청소기" },
+
+{ "en": "to iron",             "fi": "silittää",        "fr": "repasser",        "es": "planchar",  "ko": "" },
+{ "en": "iron (for clothes)",  "fi": "silitysrauta",    "fr": "fer à repasser" , "es": "(la) plancha",  "ko": "" },
+{ "en": "to sew",              "fi": "ommella",         "fr": "" ,               "es": "coser",  "ko": "" },
+{ "en": "sewing machine",      "fi": "ompelukone",      "fr": "" ,               "es": "(la) máquina de coser",  "ko": "" }
+
+]

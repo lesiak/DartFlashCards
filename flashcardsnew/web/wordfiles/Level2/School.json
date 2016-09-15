@@ -1,0 +1,94 @@
+[
+{ "en": "to learn",       "fi": "oppia",     "fr": "apprendre",   "es": "aprender",   "ko": "배우다" },
+{ "en": "to teach",       "fi": "opettaa",   "fr": "enseigner",   "es": "enseñar",  "ko": "" },
+
+{ "en": "to study",       "fi": "opiskella",   "fr": "",   "es": "",  "ko": "" },
+{ "en": "lesson",         "fi": "oppitunti", "fr": "leçon",       "es": "(la) clase, (la) lección",  "ko": "수업, 과" },
+{ "en": "professor",      "fi": "professori","fr": "professeur",    "es": "(el) profesor, (el) maestro",   "ko": "교수" },
+
+{ "en": "topic",       "ko": "주제",       "fi": "aihe",    "fr": "sujet" },
+{ "en": "course",       "ko": "과목",       "fi": "kurssi",    "fr": "cours" },
+{ "en": "class (group of students)",            "fi": "luokka",    "fr": "",  "es": "(la) clase",  "ko": "" },
+
+{ "en": "test",          "fi": "koe, tentti", "fr": "test, examen",  "es": "(el) examen, (la) prueba",  "ko": "시험" },
+{ "en": "science",       "fi": "tiede",       "fr": "science",       "es": "(la) ciencia",  "ko": "과학" },
+{ "en": "research",      "fi": "tutkimus",    "fr": "recherche",     "es": "(la) investigación",  "ko": "연구" },
+
+{ "en": "experiment",    "fi": "kokeilu",    "fr": "",         "es": "(el) experimento",  "ko": "실험" },
+{ "en": "to observe",    "fi": "tarkkailla", "fr": "observer", "es": "observar",  "ko": ""},
+
+{ "en": "laboratory",      "fi": "laboratorio",    "fr": "laboratoire",  "es": "(el) laboratorio",  "ko": "실험실" },
+
+
+
+
+{ "en": "pencil",          "fi": "lyijykynä",    "fr": "crayon",         "es": "(el) lápiz", "ko": "연필"},
+  { "en": "to write down",          "fi": "kirjoittaa ylös",    "fr": "",         "es": "", "ko": ""},
+
+
+{ "en": "elementary school",       "ko": "초등학교 (early + class + study + school)",       "fi": "alkeiskoulu",    "fr": "école primaire" },
+
+
+{ "en": "graduation",      "fi": "",    "fr": "",  "es": "(la) graduación",   "ko": "졸업"},
+{ "en": "graduate",        "fi": "valmistua, suorittaa tutkinto, saada oppiarvo",    "fr": "obtenir sa licence, son diplôme",  "ko": "졸업하다" },
+{ "en": "diligently",      "fi": "ahkerasti",    "fr": "diligemment", "es": "diligentemente",   "ko": "열심히" },
+
+{ "en": "number",       "fi": "luku",      "fr": "nombre, numéro", "es": "(el) número",  "ko": "수" },
+{ "en": "point (maths)","fi": "",          "fr": "point",          "es": "(el) punto",   "ko": "" },
+{ "en": "triangle",     "fi": "kolmio",    "fr": "triangle",       "es": "(el) triángulo",  "ko": "삼각형" },
+{ "en": "square",       "fi": "neliö",     "fr": "carré",          "es": "(el) cuadrado", "ko": "정사각형" },
+{ "en": "circle",       "fi": "ympyrä",    "fr": "cercle",         "ko": "원" },
+{ "en": "disk (maths)", "fi": "kiekko",    "fr": "disque",         "ko": "원판" },
+{ "en": "equation",     "fi": "yhtälö",    "fr": "équation",    "es": "(la) ecuación","ko": "방정식" },
+{ "en": "equal (to)",   "fi": "yhtä suuri, yhtäläinen",          "fr": "",            "es": "igual (a)","ko": "" },
+
+{ "en": "infinity",     "fi": "äärettömyys",    "fr": "infinité",  "es": "(el) infinito", "ko": "방정식" },
+{ "en": "axis",     "fi": "",    "fr": "",  "es": "(el) eje", "ko": "" },
+
+{ "en": "plus (maths)",  "fi": "plussa",    "fr": "plus",  "es": "(el) más", "ko": "" },
+{ "en": "minus (maths)", "fi": "miinus",    "fr": "moins",  "es": "(el) menos", "ko": "" },
+
+
+{ "en": "to add (maths)","fi": "",    "fr": "ajouter",      "es": "sumar", "ko": "" },
+{ "en": "to subtract",   "fi": "",    "fr": "soustraire",   "es": "sustraer", "ko": "" },
+{ "en": "to multiply",   "fi": "",    "fr": "multiplier",   "es": "multiplicar", "ko": "" },
+{ "en": "to divide",     "fi": "",    "fr": "partager",     "es": "dividir", "ko": "" },
+
+{ "en": "to count",      "fi": "laskea",        "fr": "compter",      "es": "contar",  "ko": "" },
+
+{ "en": "microscope",    "fi": "mikroskooppi",  "fr": "microscope",  "es": "(el) microscopio", "ko": "" },
+{ "en": "telescope",     "fi": "teleskooppi",   "fr": "télescope",   "es": "(el) telescopio",  "ko": "" },
+{ "en": "astronomy",     "fi": "tähtitiede",    "fr": "astronomie",   "es": "(la) astronomía",  "ko": "" },
+{ "en": "universe",      "fi": "maailmankaikkeus",    "fr": "univers",   "es": "(el) universo",  "ko": "" },
+
+{ "en": "evolution",     "fi": "evoluutio",    "fr": "évolution",   "es": "(la) evolución",  "ko": "" },
+
+{ "en": "theory",        "fi": "teoria",       "fr": "méthode", "es": "(la) teoría",  "ko": "이론" },
+{ "en": "method",        "fi": "menetelmä, metodi",    "fr": "méthode",  "es": "(el) método", "ko": "방법" },
+
+
+{ "en": "engineering",   "fi": "konetekniikka",   "fr": "ingénierie",  "es": "(la) ingeniería", "ko": "" },
+{ "en": "engineer",      "fi": "insinööri",       "fr": "ingénieur",   "es": "(el) ingeniero", "ko": "" },
+{ "en": "system",        "fi": "järjestelmä",     "fr": "système",     "es": "(el) sistema", "ko": "" },
+
+{ "en": "design",        "fi": "",                "fr": "",     "es": "(el) diseño", "ko": "" },
+{ "en": "to design",     "fi": "",                "fr": "",     "es": "diseñar", "ko": "" },
+
+{ "en": "language",      "fi": "kieli",           "fr": "langue",  "es": "(el) idioma, (la) lengua",   "ko": "언어" },
+{ "en": "word",          "fi": "sana",            "fr": "mot",     "es": "(la) palabra",   "ko": "" },
+{ "en": "sentence",      "fi": "lause, virke",    "fr": "phrase",  "es": "(la) frase",  "ko": "문장" },
+{ "en": "alphabet",      "fi": "aakkoset, aakkosto","fr": "alphabet",  "ko": "알파벳" },
+{ "en": "dictionary",    "fi": "sanakirja",       "fr": "dictionnaire",  "es": "(el) diccionario",    "ko": "사전" },
+{ "en": "encyclopedia",  "fi": "tietosanakirja",  "fr": "encyclopédie",  "es": "(la) enciclopedia",   "ko": "백과사전" },
+{ "en": "grammar",       "fi": "kielioppi",       "fr": "grammaire",     "es": "(la) gramática",   "ko": "문법" },
+{ "en": "rule, law",     "fi": "sääntö",          "fr": "règle",         "es": "(la) regla",  "ko": "법칙 (law + rule)" },
+{ "en": "principle",     "fi": "periaate",        "fr": "principe",      "es": "(el) principio",   "ko": "원칙, 원리" },
+
+
+{ "en": "ruler",         "fi": "viivain",         "fr": "règle",         "ko": "자" },
+{ "en": "to calculate",  "fi": "laskea",          "fr": "calculer",      "es": "calcular",  "ko": "계산기" },
+{ "en": "calculator",    "fi": "laskin",          "fr": "calculatrice",  "es": "(la) calculadora",  "ko": "계산기" }
+
+
+]
+        

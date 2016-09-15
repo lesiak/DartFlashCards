@@ -1,0 +1,57 @@
+[
+
+
+{ "en": "coin",            "fi": "kolikko",      "fr": "pièce de monnaie",  "es": "(la) moneda",  "ko": "" },
+{ "en": "debit card",      "fi": "pankkikortti", "fr": "carte bancaire",    "es": "(la) tarjeta de débito",  "ko": "" },
+{ "en": "credit card",     "fi": "luottokortti", "fr": "carte de crédit",   "es": "(la) tarjeta de crédito",  "ko": "신용 카드, 크레디트 카드" },
+{ "en": "banknote",        "fi": "seteli",       "fr": "billet (de banque)","es": "(el) billete de banco", "ko": "지폐" },
+{ "en": "cash",            "fi": "käteinen",     "fr": "liquide",           "es": "(el) efectivo",  "ko": "" },
+{ "en": "salary",          "fi": "palkkaus",     "fr": "salaire",           "es": "(el) salario, (el) sueldo", "ko": "급여" },
+
+{ "en": "collect",         "fi": "kerätä",       "fr": "recueillir",     "ko": "모으다" },
+{ "en": "to save (up)",    "fi": "säästää",      "fr": "épargner",      "es": "ahorrar",       "ko": "모으다" },
+{ "en": "spend (money)",   "fi": "",             "fr": "dépenser",      "es": "gastar",      "ko": "" },
+{ "en": "earn (money)",    "fi": "",             "fr": "gagner",        "es": "ganar",      "ko": "" },
+
+{ "en": "account",         "ko": "계정",    "fi": "tili",          "fr": "compte" },
+{ "en": "deposit",         "ko": "예금",    "fi": "talletus",          "fr": "dépôt" },
+
+{ "en": "tax",             "fi": "vero",          "fr": "impôt",     "es": "(el) impuesto",  "ko": "" },
+{ "en": "taxation",        "fi": "verotus",          "fr": "",  "ko": "" },
+
+{ "en": "savings",         "ko": "",           "fi": "säästöt",        "fr": "épargne" },
+{ "en": "loan",            "ko": "",           "fi": "laina",          "fr": "prêt" },
+{ "en": "mortgage",        "ko": "",           "fi": "asuntolaina",    "fr": "hypothèque" },
+{ "en": "debt",            "fi": "velka",          "fr": "dette, créance",  "ko": "빚" },
+{ "en": "bankruptcy",      "fi": "konkurssi",  "fr": "", "es": "(la) bancarrota", "ko": "" },
+
+{ "en": "loss",            "fi": "tappio",          "fr": "perte", "es": "(la) pérdida",   "ko": "손실" },
+{ "en": "operating loss",  "fi": "liiketappio",     "fr": "",        "es": "(la) pérdida operativa",   "ko": "영업 손실" },
+
+ 
+ { "en": "to charge (money)", "fi": "",          "fr": "",        "es": "cobrar",  "ko": "" },
+
+{ "en": "profit",          "fi": "voitto",          "fr": "profitable, rentable", "ko": "" },
+{ "en": "profitable",         "ko": "",       "fi": "kannattava, tuottoisa, tuottava",          "fr": "profitable, rentable" },
+{ "en": "unprofitable",         "ko": "",       "fi": "tappiollinen, kannattamaton",          "fr": "peu profitable, peu rentable" },
+{ "en": "prize",   "fi": "palkinto",   "fr":"prix",     "es":"(el) premio, (el) galardón (formal)", "ko": ""},
+
+
+{ "en": "discount",        "fi": "alennus",          "fr": "réduction, rabais, remise",     "es": "(el) descuento",   "ko": "할인" },
+{ "en": "a fine, penalty", "fi": "sakko",          "fr": "amende",  "ko": "벌금" },
+
+{ "en": "accounting",      "fi": "kirjanpito",          "fr": "comptabilité", "es": "(la) contabilidad", "ko": "" },
+
+
+{ "en": "cost, expense",   "ko": "비용",            "fi": "kustannus",          "fr": "coût" },
+{ "en": "insurance",       "ko": "보험 (protect + dangerous)",  "fi": "vakuutus",          "fr": "assurance" },
+{ "en": "percent",         "ko": "퍼센트",          "fi": "prosentti",    "fr": "pour cent" },
+
+{ "en": "cashpoint",                 "fi": "pankkiautomaatti",    "fr": "bancomat", "es": "(el) cajero automático",   "ko": "현금 자동 입출금기" },
+{ "en": "(bank) transfer",                 "fi": "",    "fr": "", "es": "(la) transferencia bancaria",   "ko": "" },
+
+{ "en": "poverty",         "fi": "köyhyys",    "fr": "pauvreté",   "es": "(la) pobreza", "ko": "가난" }
+
+
+
+]

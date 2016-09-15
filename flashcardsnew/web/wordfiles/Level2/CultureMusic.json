@@ -1,0 +1,55 @@
+[
+
+
+{ "en": "singer",        "fi": "laulaja",        "fr": "chanteur",      "es": "(el/la) cantante",   "ko": "가수" },
+{ "en": "to sing",       "fi": "laulaa",         "fr": "chanter",       "es": "cantar",   "ko": "노래하다" },
+{ "en": "song",          "fi": "laulu",          "fr": "chanson",       "es": "(la) canción", "ko": "노래" },
+{ "en": "title",         "fi": "nimi",           "fr": "titre",         "es": "(el) título",  "ko": "제목" },
+{ "en": "lyrics",        "fi": "sanoitus",       "fr": "paroles",       "es": "(las) letras",  "ko": "가사" },
+
+
+{ "en": "sound",         "fi": "ääni",           "fr": "son" ,             "es": "(el) sonido",   "ko": "소리"},
+{ "en": "silence",       "fi": "hiljaisuus",     "fr": "silence" ,         "es": "(el) silencio", "ko": ""},
+{ "en": "silent",        "fi": "hiljainen",      "fr": "silencieux" ,      "es": "silencioso",    "ko": ""},
+{ "en": "quiet",         "fi": "hiljainen",      "fr": "calme, tranquille","es": "tranquilo",     "ko": "조용하다" },
+{ "en": "noisy",         "fi": "meluisa",        "fr": "bruyant",          "es": "ruidoso",       "ko": "시끄럽하다" },
+
+{ "en": "music",         "fi": "musiikki",       "fr": "musique",    "es": "(la) música",     "ko": "음악" },
+{ "en": "melody",        "fi": "melodia, sävel", "fr": "mélodie",    "es": "(la) melodía",    "ko": "멜로디"},
+{ "en": "rhythm",        "fi": "",               "fr": "",           "es": "(el) ritmo",    "ko": ""},
+{ "en": "voice",         "fi": "ääni",           "fr": "",           "es": "(la) voz",    "ko": ""},
+
+
+{ "en": "band",          "fi": "yhtye, bändi",   "fr": "bande",      "es": "(el) grupo",      "ko": "음악회, 콘서트" },
+{ "en": "concert",       "fi": "konsertti",      "fr": "concert",    "es": "(el) concierto",  "ko": "음악회, 콘서트" },
+{ "en": "discotheque",   "fi": "diskoteekki",    "fr": "discothèque","es": "(la) discoteca",  "ko": "" },
+{ "en": "a venue",       "fi": "tapahtumapaikka","fr": "",           "es": "(el) local",      "ko": "" },
+
+{ "en": "a queue",       "fi": "jono",           "fr": "",           "es": "(la) cola",      "ko": "" },
+{ "en": "to queue",      "fi": "jonottaa",       "fr": "",           "es": "hacer cola",      "ko": "" },
+{ "en": "ticket (entry)","fi": "",               "fr": "",           "es": "(la) entrada",      "ko": "" },
+{ "en": "stamp",         "fi": "",               "fr": "",           "es": "(el) cuño",      "ko": "" },
+{ "en": "sober",         "fi": "",               "fr": "sobre",      "es": "sobrio",      "ko": "" },
+{ "en": "cloakroom",     "fi": "vaatesäilö",     "fr": "vestiaire",  "es": "(el) guardarropa",      "ko": "" },
+
+{ "en": "classical",     "fi": "klassinen",     "fr": "classique",   "es": "clásico",    "ko": "음악회, 콘서트" },
+{ "en": "melodic",       "fi": "melodinen",     "fr": "mélodique",   "es": "melódico",    "ko": "" },
+{ "en": "melodious",     "fi": "melodinen, heleä", "fr": "mélodieux",   "es": "melodioso",    "ko": "" },
+
+{ "en": "composer",      "fi": "", "fr": "",   "es": "(el) compositor",    "ko": "" },
+{ "en": "conductor",     "fi": "kapellimestari", "fr": "",   "es": "(el)  director de orquesta",    "ko": "" },
+{ "en": "musician",      "fi": "muusikko",     "fr":"musicien", "es":"(el) músico",  "ko": ""},
+
+{ "en": "guitar",      "fi": "kitara",      "fr": "guitare",          "es": "(la) guitarra",  "ko": "기타" }, 
+{ "en": "piano",       "fi": "piano",       "fr": "piano",            "es": "(el) piano",     "ko": "피아노" },
+{ "en": "saxophone",   "fi": "saksofoni",   "fr": "saxophone",        "es": "(el) saxófono",  "ko": "색소폰" },
+{ "en": "drum",        "fi": "rumpu",       "fr":"tambour, batterie", "es": "(el) tambor",    "ko": "드럼"},
+{ "en": "violin",      "fi": "viulu",       "fr":"violon",            "es": "(el) violín",  "ko": "바이올린"},
+
+{ "en": "play (instrument)",  "fi": "soittaa",   "fr":"jouer",   "es":"tocar", "ko": ""},
+
+{ "en": "headphones",   "fi": "kuulokkeet", "fr": "casque",        "es": "auriculares",  "ko": "헤드폰" },
+{ "en": "amplifier",   "fi": "", "fr": "",        "es": "(el) amplificador",  "ko": "" },
+
+{ "en": "musical instrument", "fi": "soitin",   "fr":"instrument de musique",   "es":"(el) instrumento", "ko": "악기"}
+]

@@ -1,0 +1,33 @@
+[
+{ "en": "wheel",        "fi": "pyörä",     "fr": "roue",     "es": "(la) rueda",  "ko": "바퀴" },
+{ "en": "basket",       "fi": "kori",      "fr": "panier",   "ko": "바구니" },
+
+ 
+{ "en": "torch (electric light)",  "fi": "",   "fr": "","es": "(la) linterna",  "ko": ""},
+{ "en": "bell",        "fi": "kello, tiuku (small)",   "fr": "cloche (f)",  "ko": "종, 벨"},
+{ "en": "lighthouse",  "fi": "majakka",   "fr":"phare","es":"(el) faro",  "ko": "등대"},
+
+{ "en": "chain",       "fi": "ketju",   "fr":"chaîne",  "ko": ""},
+{ "en": "rope",       "fi": "köysi",   "fr":"",  "es":"(la) cuerda, (la) soga",    "ko": ""},
+
+{ "en": "item",       "ko": "",        "fi": "erä",      "fr":"article"},
+{ "en": "treasure",   "fi": "aarre",   "fr":"trésor",     "es":"(el) tesoro", "ko": "보물"},
+
+
+{ "en": "door handle",   "fi": "ovenkahva",   "fr":"poignée de porte",  "ko": "문 손잡이"},
+{ "en": "brick",         "fi": "tiili",          "fr": "brique", "ko": "벽돌" },
+{ "en": "air conditioning",      "fi": "ilmastointi" , "fr":"climatisation",  "ko": "에어컨"},
+
+{ "en": "stapler",       "fi": "nitoja",        "fr": "agrafeuse",   "es": "(la) grapadora", "ko": "호치키스"},
+{ "en": "hole punch",    "fi": "",              "fr": "perforatrice",   "es": "(la) perforadora", "ko": "호치키스"},
+{ "en": "a (post) stamp","fi": "postimerkki",   "fr": "timbre",      "es": "(el) sello", "ko": "우표"},
+
+  { "en": "toy",          "fi": "lelu",     "fr": "",    "es": "",  "ko": "" },
+  { "en": "doll",         "fi": "nukke",    "fr": "poupée",    "es": "(la) muñeca",  "ko": "인형" },
+  { "en": "tape",         "fi": "nauha",    "fr": "bande",    "es": "(la) cinta", "ko": "" }
+
+
+
+]
+        
+        

@@ -1,0 +1,31 @@
+[
+
+
+{ "en": "agriculture", "fi": "maanviljely",  "fr": "agriculture","es": "(la) agricultura", "ko": ""},
+
+{ "en": "farm",        "fi": "maatila",      "fr": "ferme",     "es": "(la) granja",  "ko": ""},
+{ "en": "barn",        "fi": "lato, navetta","fr": "grange",    "es": "(el) establo", "ko": ""},
+{ "en": "a well",      "fi": "kaivo",        "fr": "puits",     "es": "(el) pozo", "ko": ""},
+{ "en": "vineyard",    "fi": "viinitarha",   "fr": "vignoble",  "es": "(la) viña",        "ko": ""},
+{ "en": "meadow",      "fi": "niitty" ,      "fr": "",          "es": "(el) prado, (la) pradera", "ko": "목초지"},
+{ "en": "field",       "fi": "pelto" ,       "fr": "",          "es": "(el) campo",  "ko": ""},
+{ "en": "countryside", "fi": "maaseutu" ,    "fr": "campagne",  "es": "(el) campo",  "ko": ""},
+{ "en": "soil, ground",        "fi": "maaperä",      "fr": "terre",     "es": "(la) tierra", "ko": ""},
+{ "en": "to harvest",  "fi": "",             "fr": "récolter",  "es": "cosechar",    "ko": ""},
+
+{ "en": "plough",        "fi": "",      "fr": "",     "es": "(el) arado", "ko": ""},
+
+
+{ "en": "to feed",       "fi": "ruokkia",    "fr": "nourrir, alimenter",  "es": "alimentar",  "ko": "" },
+{ "en": "to stroke",     "fi": "silittää",   "fr": "caresser",  "es": "acariciar",     "ko": "" }
+
+
+
+
+
+
+
+
+
+]
+        

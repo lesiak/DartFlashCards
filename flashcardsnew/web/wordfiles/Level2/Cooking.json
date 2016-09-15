@@ -1,0 +1,19 @@
+[
+{ "en": "to cook",     "fi": "keittää, laittaa ruokaa",    "fr": "cuisiner",  "es": "cocinar, cocer",  "ko": "요리하다" },
+{ "en": "to bake",     "fi": "leipoa",         "fr": "",           "es": "hornear, cocer al horno",          "ko": "굽다"},
+
+{ "en": "pot",         "fi": "potti",    "fr": "casserole",  "ko": "냄비" },
+{ "en": "kettle",      "fi": "kattila" , "fr": "bouilloire", "es": "(la) tetera, (el) hervidor", "ko": "주전자"},
+
+{ "en": "oven",        "fi": "uuni" ,       "fr": "four",            "es": "(el) horno",  "ko": "오븐"},
+{ "en": "gas cooker",  "fi": "kaasuliesi" , "fr":"cuisinière à gaz",  "ko": "가스레인지"},
+{ "en": "rice cooker", "fi": "riisi liesi", "fr": "cuiseur à riz",    "ko": "밥솥" },
+
+{ "en": "to mix",      "fi": "sekoittaa",   "fr":"mélanger",  "es":" mezclar",   "ko": "비비다"},
+{ "en": "to cut",      "fi": "leikata" ,    "fr":"couper",    "es":"cortar",   "ko": "베다"},
+{ "en": "to slice",    "fi": "",            "fr":"",          "es":"rebanar",   "ko": ""},
+{ "en": "to grate",    "fi": "",            "fr":"",          "es":"rallar",   "ko": ""},
+{ "en": "a grater",    "fi": "",            "fr":"",          "es":"(el) rallador",   "ko": ""},
+
+{ "en": "smoked",      "fi": "savustettu",  "fr": "fumé",    "es": "ahumado",  "ko": "" }
+]

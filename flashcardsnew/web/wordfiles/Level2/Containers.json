@@ -1,0 +1,18 @@
+[
+
+{ "en": "bottle",          "fi": "pullo",          "fr": "bouteille",  "es": "(la) botella", "ko": "병" },
+{ "en": "bag (container)", "fi": "pussi" ,         "fr": "sac",            "ko": ""},
+
+{ "en": "can (for drinks)","fi": "juomatölkki" ,   "fr": "boîte (f)",   "ko": ""},
+{ "en": "tin (for food)",  "fi": "säilykepurkki" , "fr": "boîte (f)",  "ko": ""},
+{ "en": "jar",             "fi": "lasipurkki",     "fr": "pot (m)",   "ko": "" },
+
+{ "en": "box",             "fi": "laatikko",       "fr": "",   "ko": "" },
+{ "en": "carton",          "fi": "tölkki",         "fr": "carton (m)",   "ko": "" },
+
+{ "en": "chest (box)",     "fi": "arkku, kirstu ",       "fr": "coffre",     "es": "(la) arca, (el) baúl",  "ko": "" },
+
+{ "en": "(gas) cylinder",  "fi": "tölkki",         "fr": "",          "es": "(la) bombona (de gas)", "ko": "" },
+  { "en": "(shipping) container",  "fi": "kontti",         "fr": "",          "es": "", "ko": "" }
+
+]
