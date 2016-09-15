@@ -24,10 +24,10 @@ class FlashCardsApp extends PolymerElement {
   
   List<String> level1Files = [
                      'Level1/NatureBeginner',
-                     'Level1/Home',
                      'Level1/City',
-                     'Level1/Shops',
                      'Level1/Transport',
+                     'Level1/Home',
+                     'Level1/Shops',
                      'Level1/AppearanceBeginner',
                      'Level1/AppearancePeople',
                      'Level1/Beginner2',
@@ -55,8 +55,7 @@ class FlashCardsApp extends PolymerElement {
                      'Level1/Health',
                      'Level1/Colors'];
   
-  List<String> level2Files = ['Level2/New2016',
-                              'Level2/NatureIntermediate',
+  List<String> level2Files = ['Level2/NatureIntermediate',
                               'Level2/Work',
                               'Level2/School',
                               'Level2/SchoolSubjects',
@@ -69,6 +68,7 @@ class FlashCardsApp extends PolymerElement {
                               'Level2/Beginner9',
                               'Level2/Beginner9Speaking',
                               'Level2/Beginner10OtherObjects',
+                              'Level2/Driving',
                               'Level2/Architecture',
                               'Level2/CultureMusic',
                               'Level2/BodyIntermediate',
@@ -86,12 +86,14 @@ class FlashCardsApp extends PolymerElement {
                               'Level2/Calendar',
                               'Level2/Tools',
                               'Level2/Cooking',
-                              'Level2/Politics',
                               'Level2/Money',
                               'Level2/Substances',
                               'Level2/Intermediate1',
                               'Level2/Sentences1',
                               'Level2/TopikInter1'];
+
+  List<String> level3Files = ['Level3/New2016',
+                              'Level3/Politics'];
   
   static List<String> langs = ["fi", "es", "de", "ko", "fr", "it", "hu"];
   
@@ -230,13 +232,22 @@ class FlashCardsApp extends PolymerElement {
   void level1Clicked(Event e, var detail, Element target) {
     items = level1Files;
     $['level2Tab'].parent.classes.remove('active');
+    $['level3Tab'].parent.classes.remove('active');
     $['level1Tab'].parent.classes.add('active');
   }
   
   void level2Clicked(Event e, var detail, Element target) {
     items = level2Files;
     $['level1Tab'].parent.classes.remove('active');
+    $['level3Tab'].parent.classes.remove('active');
     $['level2Tab'].parent.classes.add('active');
+  }
+
+  void level3Clicked(Event e, var detail, Element target) {
+    items = level3Files;
+    $['level1Tab'].parent.classes.remove('active');
+    $['level2Tab'].parent.classes.remove('active');
+    $['level3Tab'].parent.classes.add('active');
   }
  
   void flagClicked(Event e, var detail, Element target) {
@@ -286,6 +297,7 @@ class FlashCardsApp extends PolymerElement {
     var deckNames = new List();
     deckNames.addAll(level1Files);
     deckNames.addAll(level2Files);
+    deckNames.addAll(level3Files);
     return deckNames;
   }
   

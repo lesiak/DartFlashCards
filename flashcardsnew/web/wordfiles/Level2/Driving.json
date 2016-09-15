@@ -1,0 +1,34 @@
+[
+  { "en": "steering wheel", "fi": "",          "fr": "volant",     "es": "(el) volante",      "ko": "" },
+  { "en": "brake",          "fi": "jarru",     "fr": "frein",      "es": "(el) freno",        "ko": "" },
+  { "en": "headlight",      "fi": "",          "fr": "phare",      "es": "(el) faro",        "ko": "" },
+  { "en": "blinker",        "fi": "",          "fr": "clignotant", "es": "(el) intermitente",        "ko": "" },
+  { "en": "bumper",       "fi": "puskuri",   "fr": "",           "es": "",        "ko": "" },
+  { "en": "rear-view mirror", "fi": "",        "fr": "rétroviseur","es": "(el) retrovisor",        "ko": "" },
+  { "en": "seat belt",      "fi": "turvavyö",  "fr": "ceinture de sécurité","es": "(el) cinturón de seguridad",        "ko": "" },
+  { "en": "fasten (seat belt)",  "fi": "",     "fr": "",           "es": "abrochar",        "ko": "" },
+  { "en": "to overtake",     "fi": "ohittaa",   "fr": "",           "es": "adelantar",        "ko": "" },
+  { "en": "to bypass",       "fi": "ohittaa",   "fr": "",           "es": "",        "ko": "" },
+  { "en": "to honk",       "fi": "tuutata",   "fr": "klaxonner",           "es": "tocar la bocina",        "ko": "" },
+  { "en": "driving licence",  "fi": "ajokortti",  "fr": "permis de conduire","es": "(el) carnet de conducir",        "ko": "" },
+  { "en": "license plate",  "fi": "rekisterikilpi",    "fr": "plaque d'immatriculation", "es": "(la) matrícula, (la) placa",  "ko": "번호판" },
+
+  { "en": "decelerate",     "fi": "",                  "fr": "ralentir",     "es": "desacelerar",     "ko": "" },
+
+  { "en": "vehicle",       "fi": "ajoneuvo",         "fr": "",              "es": "",     "ko": "" },
+  { "en": "public transport","fi": "joukkoliikenne",   "fr": "transport en commun", "es": "(el) transporte público",       "ko": "대중 교통" },
+  { "en": "passenger",       "fi": "matkustaja",       "fr": "passager",            "es": "(el) pasajero",    "ko": "승객"  },
+  { "en": "timetable",       "fi": "aikataulu",        "fr": "horaire",             "es": "(el) horario",     "ko": "" },
+  { "en": "rush hour",       "fi": "ruuhka-aika, tungosaika",        "fr": "l'heure de pointe",             "es": "(la) hora punta",     "ko": "" },
+  { "en": "traffic",         "fi": "liikenne" ,        "fr":"circulation",  "es": "(el) tráfico",  "ko": "교통"},
+  { "en": "to commute",      "fi": "käydä töissä",     "fr": "",                    "es": "viajar diariamente al trabajo", "ko": "통근하다" },
+  { "en": "to change, to transfer to another vehicle",   "fi": "vaihtaa",    "fr": "changer", "es": "transbordar", "ko": "갈아타다" },
+  { "en": "to park",         "fi": "",                 "fr": "garer", "es": "aparcar", "ko": "" },
+  { "en": "roadworks",       "fi": "tietyöt",          "fr": "", "es": "obras (de carretera)", "ko": "" },
+  { "en": "to tow away",     "fi": "hinata (pois)",    "fr": "remorquer", "es": "remolcar", "ko": "" },
+  { "en": "road sign",       "fi": "liikennemerkki",   "fr": "",           "es": "(el) señal de tráfico", "ko": "" },
+  { "en": "one-way (street)",       "fi": "yksisuuntainen",   "fr": "à sens unique",           "es": "de sentido único", "ko": "" },
+  { "en": "ring road",   "fi": "",                "fr":"",    "es": "(la) circunvalación","ko": ""}
+
+]
+

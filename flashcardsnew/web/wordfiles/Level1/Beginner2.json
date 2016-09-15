@@ -4,14 +4,7 @@
 { "en": "bring",       "fi": "tuoda",    "fr": "apporter, amener",     "es": "traer",       "ko": "가져오다"},
 { "en": "leave (sth behind)", "fi": "jättää",  "fr": "laisser",        "es": "dejar",   "ko": " 남기다" },
 
-{ "en": "come",        "fi": "tulla",    "fr": "venir",   "es": "venir",  "ko": "오다" },
 
-{ "en": "to walk",     "fi": "kävellä",    "fr": "marcher, se promener", "es": "andar, caminar", "ko": "걸어가다" },
-{ "en": "a walk",      "fi": "kävely",      "fr": "promenade","es": "(el) paseo, (la) caminata", "ko": "산책" },
-{ "en": "to go for a walk", "fi": "",      "fr": "","es": "ir de paseo", "ko": "" },
-{ "en": "stay (in place) (remain)",    "fi": "jäädä, pysyä, viipyä",    "fr": "rester",  "es": "quedarse; permanecer",   "ko": "머무르다" },
-{ "en": "to follow (person, path, route)", "fi": "seurata",            "fr":"",         "es":"seguir", "ko": ""},
-  
 { "en": "think",       "fi": "ajatella",    "fr": "penser",    "es": "pensar", "ko": "생각하다" },
 { "en": "understand",  "fi": "ymmärtää",    "fr": "comprendre","es": "entender, comprender",  "ko": "이해하다" },
 { "en": "say",         "fi": "sanoa",       "fr": "dire",    "es": "decir", "ko": "" },

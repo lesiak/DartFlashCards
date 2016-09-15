@@ -1,5 +1,14 @@
 [
- 
+
+{ "en": "come",        "fi": "tulla",    "fr": "venir",   "es": "venir",  "ko": "오다" },
+
+{ "en": "to walk",     "fi": "kävellä",    "fr": "marcher, se promener", "es": "andar, caminar", "ko": "걸어가다" },
+{ "en": "a walk",      "fi": "kävely",      "fr": "promenade","es": "(el) paseo, (la) caminata", "ko": "산책" },
+{ "en": "to go for a walk", "fi": "",      "fr": "","es": "ir de paseo", "ko": "" },
+{ "en": "stay (in place) (remain)",    "fi": "jäädä, pysyä, viipyä",    "fr": "rester",  "es": "quedarse; permanecer",   "ko": "머무르다" },
+{ "en": "to follow (person, path, route)", "fi": "seurata",            "fr":"",         "es":"seguir", "ko": ""},
+
+
 { "en": "car",         "fi": "auto",         "fr": "voiture",  "es": "(el) coche",      "ko": "자동차" },
 { "en": "train",       "fi": "juna",         "fr": "train",    "es": "(el) tren",       "ko": "기차" },
 { "en": "bus",         "fi": "bussi, linja-auto","fr": "bus",      "es": "(el) autobús",    "ko": "버스" },
@@ -39,31 +48,31 @@
 { "en": "station",     "fi": "asema" ,       "fr":"station",   "es": "(la) estación",   "ko": "역"},
 { "en": "platform",    "fi": "asemalaituri", "fr":"quai",      "es": "(el) andén",      "ko": "플랫폼, 승강장"},
  
-{ "en": "(railroad) track",      "fi": "rata",        "fr": "",   "es": "",    "ko": "" },
-{ "en": "ticket",      "fi": "lippu",        "fr": "billet",   "es": "(el) billete",    "ko": "표" },
+{ "en": "(railroad) track",   "fi": "rata",         "fr": "",   "es": "",    "ko": "" },
+{ "en": "ticket",             "fi": "lippu",        "fr": "billet",   "es": "(el) billete",    "ko": "표" },
 
-{ "en": "carriage",      "fi": "vaunu",        "fr": "voiture", "es": "(el) vagón",    "ko": "" },
+{ "en": "carriage",           "fi": "vaunu",        "fr": "voiture", "es": "(el) vagón",    "ko": "" },
 
-{ "en": "validate (a ticket)",      "fi": "",        "fr": "", "es": "picar",    "ko": "" },
-{ "en": "one-way (ticket)",       "fi": "menolippu",   "fr": "(billet) aller simple",           "es": "(boleto) de ida", "ko": "" },
-{ "en": "(railway) track", "fi": "junarata",  "fr": "voie",    "es": "vía",    "ko": "" },
+{ "en": "validate (a ticket)","fi": "",             "fr": "", "es": "picar",    "ko": "" },
+{ "en": "one-way (ticket)",   "fi": "menolippu",    "fr": "(billet) aller simple",           "es": "(boleto) de ida", "ko": "" },
+{ "en": "(railway) track",    "fi": "junarata",     "fr": "voie",    "es": "vía",    "ko": "" },
 
 
-{ "en": "exit",        "fi": "uloskäynti",   "fr":"sortie",    "es": "(la) salida",     "ko": "출구"},
-{ "en": "entrance",    "fi": "sisäänkäynti", "fr":"entrée",    "es": "(la) entrada",    "ko": "입구"},
+{ "en": "exit",               "fi": "uloskäynti",   "fr":"sortie",    "es": "(la) salida",     "ko": "출구"},
+{ "en": "entrance",           "fi": "sisäänkäynti", "fr":"entrée",    "es": "(la) entrada",    "ko": "입구"},
 
-{ "en": "get to",      "fi": "päästä",       "fr": "?",                                 "ko": "도착하다" },
-{ "en": "arrive",      "fi": "saapua",       "fr": "arriver",  "es": "llegar",          "ko": "도착하다" },
-{ "en": "to leave (from)","fi": "lähteä",    "fr": "partir",   "es": "salir",          "ko": "떠나다" },
-{ "en": "to take off (plane)","fi": "",    "fr": "",   "es": "despegar, decolar",          "ko": "" },
-{ "en": "to transfer, change",        "ko": "갈아 타다",          "fi": "vaihtaa",    "fr": "" },
+{ "en": "get to",             "fi": "päästä",       "fr": "?",                                 "ko": "도착하다" },
+{ "en": "arrive",             "fi": "saapua",       "fr": "arriver",  "es": "llegar",          "ko": "도착하다" },
+{ "en": "to leave (from)",    "fi": "lähteä",       "fr": "partir",   "es": "salir",          "ko": "떠나다" },
+{ "en": "to take off (plane)","fi": "",             "fr": ""      ,   "es": "despegar, decolar",          "ko": "" },
+{ "en": "to transfer, change","fi": "vaihtaa",      "fr": "",                                 "ko": "갈아 타다" },
 
 { "en": "to get off",       "fi": "jäädä pois",    "fr": "descendre",  "es": "bajar",   "ko": "내리다" },
-{ "en": "to get out, (go out, exit)",        "ko": "나가다",          "fi": "",    "fr": "sortir" },
+{ "en": "to get out, (go out, exit)",               "fi": "",    "fr": "sortir",  "ko": "나가다" },
 
 { "en": "to go out (from home)",  "fi": "",    "fr": "sortir", "es": "salir", "ko": "외출하다"},
 
-{ "en": "to ride",        "ko": "타다",          "fi": "",    "fr": "" },
+{ "en": "to ride",          "fi": "",    "fr": "",  "ko": "타다" },
 { "en": "a ride, lift",   "fi": "kyyti",    "fr": "",  "ko": "" },
 { "en": "Can you give me a ride?",   "fi": "Voitko antaa minulle kyydin?",    "fr": "",  "ko": "" },
 
@@ -78,23 +87,11 @@
 { "en": "class (category of seats)",      "fi": "luokka",    "fr": "", "es": "(la) clase", "ko": "등" },
 { "en": "line",           "fi": "linja",     "fr": "ligne","ko": "호선" },
 { "en": "route",          "fi": "reitti",    "fr": "itinéraire, route","ko": "노선" },
-{ "en": "license plate",  "fi": "rekisterikilpi",    "fr": "plaque d'immatriculation", "es": "(la) matrícula, (la) placa",  "ko": "번호판" },
+
 { "en": "engine, motor",       "fi": "moottori",   "fr": "",           "es": "",        "ko": "" },
-{ "en": "steering wheel", "fi": "",          "fr": "volant",     "es": "(el) volante",      "ko": "" },
-{ "en": "brake",          "fi": "jarru",     "fr": "frein",      "es": "(el) freno",        "ko": "" },
-{ "en": "headlight",      "fi": "",          "fr": "phare",      "es": "(el) faro",        "ko": "" },
-{ "en": "blinker",        "fi": "",          "fr": "clignotant", "es": "(el) intermitente",        "ko": "" },
-  { "en": "bumper",       "fi": "puskuri",   "fr": "",           "es": "",        "ko": "" },
-{ "en": "rear-view mirror", "fi": "",        "fr": "rétroviseur","es": "(el) retrovisor",        "ko": "" },
-{ "en": "seat belt",      "fi": "turvavyö",  "fr": "ceinture de sécurité","es": "(el) cinturón de seguridad",        "ko": "" },
-{ "en": "fasten (seat belt)",  "fi": "",     "fr": "",           "es": "abrochar",        "ko": "" },
-{ "en": "to overtake",     "fi": "ohittaa",   "fr": "",           "es": "adelantar",        "ko": "" },
-{ "en": "to bypass",       "fi": "ohittaa",   "fr": "",           "es": "",        "ko": "" },
-{ "en": "to honk",       "fi": "tuutata",   "fr": "klaxonner",           "es": "tocar la bocina",        "ko": "" },
 
 
 
-{ "en": "driving licence",  "fi": "ajokortti",  "fr": "permis de conduire","es": "(el) carnet de conducir",        "ko": "" },
 
 
 
@@ -103,23 +100,8 @@
 { "en": "slow",           "fi": "hidas",             "fr": "lent",         "es": "lento",          "ko": "느리다" },
 { "en": "fast (adj)",     "fi": "nopea",             "fr": "rapide",       "es": "rápido",         "ko": "빠르다" },
 { "en": "fast (adv)",     "fi": "nopeasti, lujaa",   "fr": "vite",         "es": "rápidamente",    "ko": "빨리" },
-{ "en": "speed",          "fi": "nopeus",            "fr": "vitesse",      "es": "(la) velocidad", "ko": "속도 (速 speed and 度 amount), 속력" },
+{ "en": "speed",          "fi": "nopeus",            "fr": "vitesse",      "es": "(la) velocidad", "ko": "속도 (速 speed and 度 amount), 속력" }
 
-{ "en": "decelerate",     "fi": "",                  "fr": "ralentir",     "es": "desacelerar",     "ko": "" },
 
-  { "en": "vehicle",       "fi": "ajoneuvo",         "fr": "",              "es": "",     "ko": "" },
-{ "en": "public transport","fi": "joukkoliikenne",   "fr": "transport en commun", "es": "(el) transporte público",       "ko": "대중 교통" },
-{ "en": "passenger",       "fi": "matkustaja",       "fr": "passager",            "es": "(el) pasajero",    "ko": "승객"  },
-{ "en": "timetable",       "fi": "aikataulu",        "fr": "horaire",             "es": "(el) horario",     "ko": "" },
-{ "en": "rush hour",       "fi": "ruuhka-aika, tungosaika",        "fr": "l'heure de pointe",             "es": "(la) hora punta",     "ko": "" },
-{ "en": "traffic",         "fi": "liikenne" ,        "fr":"circulation",  "es": "(el) tráfico",  "ko": "교통"},
-{ "en": "to commute",      "fi": "käydä töissä",     "fr": "",                    "es": "viajar diariamente al trabajo", "ko": "통근하다" },
-{ "en": "to change, to transfer to another vehicle",   "fi": "vaihtaa",    "fr": "changer", "es": "transbordar", "ko": "갈아타다" },
-{ "en": "to park",         "fi": "",                 "fr": "garer", "es": "aparcar", "ko": "" },
-{ "en": "roadworks",       "fi": "tietyöt",          "fr": "", "es": "obras (de carretera)", "ko": "" },
-{ "en": "to tow away",     "fi": "hinata (pois)",    "fr": "remorquer", "es": "remolcar", "ko": "" },
-{ "en": "road sign",       "fi": "liikennemerkki",   "fr": "",           "es": "(el) señal de tráfico", "ko": "" },
-{ "en": "one-way (street)",       "fi": "yksisuuntainen",   "fr": "à sens unique",           "es": "de sentido único", "ko": "" },
-  { "en": "ring road",   "fi": "",                "fr":"",    "es": "(la) circunvalación","ko": ""}
 ]
         
