@@ -1,0 +1,41 @@
+[
+
+
+
+  { "en": "sense",     "fi": "aisti",    "fr": "",     "es": "(el) sentido",       "ko": "" },
+  { "en": "to touch",  "fi": "koskea",    "fr": "toucher",     "es": "tocar",       "ko": "대다" },
+
+  { "en": "smell",     "fi": "haju, tuoksu",  "fr":"odeur",  "ko": "냄새"},
+  { "en": "to smell",  "fi": "tuoksua",   "fr":"sentir",     "es":"oler",  "ko": "냄새가 나다"},
+  { "en": "scent",     "fi": "",          "fr":"",           "es":"(el) olor",  "ko": ""},
+
+  { "en": "sight",     "fi": "",  "fr":"",   "es":"(la) vista",   "ko": ""},
+  { "en": "hearing",     "fi": "",  "fr":"",   "es":"(el) oído",   "ko": ""},
+
+  { "en": "blind",     "fi": "",     "fr": "",  "es": "ciego",               "ko": "" },
+  { "en": "deaf",     "fi": "",     "fr": "",  "es": "sordo",               "ko": "" },
+
+  { "en": "invisible",     "fi": "",     "fr": "",  "es": "invisible",               "ko": "" },
+  { "en": "inaudible",     "fi": "",     "fr": "",  "es": "inaudible`",               "ko": "" },
+
+
+
+  { "en": "nail",      "fi": "kynsi",     "fr": "ongle",     "es": "(la) uña",     "ko": "손톱" },
+  { "en": "ankle",     "fi": "nilkka",    "fr": "cheville",  "es": "(el) tobillo", "ko": "발목" },
+  { "en": "knee",      "fi": "polvi",     "fr": "genou",     "es": "(la) rodilla", "ko": "무릎" },
+  { "en": "hip",       "fi": "lonkka, lanne","fr": "hanche", "es": "(la) cadera",  "ko": "엉덩이" },
+  { "en": "shoulder",  "fi": "olkapää",   "fr": "épaule" ,   "es": "(el) hombro",  "ko": "어깨"},
+  { "en": "elbow",     "fi": "kyynärpää", "fr": "coude",     "es": "(el) codo",    "ko": "팔꿈치" },
+
+
+  { "en": "appendix",  "fi": "",          "fr": "",          "es": "(el) apéndice",  "ko": "" },
+  { "en": "gland",     "fi": "",          "fr": "",          "es": "(la) glándula",  "ko": "" },
+
+
+  { "en": "to breathe","fi": "hengittää", "fr": "respirer",  "es": "respirar",     "ko": "" },
+  { "en": "sweat",     "fi": "hiki",      "fr": "",          "es": "",             "ko": "" },
+
+  { "en": "mentality",      "fi": "mentaliteetti, mielenlaatu",    "fr": "mentalité",    "es": "(la) mentalidad",  "ko": "심리 (heart + principle)" },
+  { "en": "psychology",     "fi": "psykologia, sielutiede",        "fr": "psychologie",  "es": "(la) psicología", "ko": "심리학 (heart + principle + study)" }
+
+]

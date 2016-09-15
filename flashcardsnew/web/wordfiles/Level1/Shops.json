@@ -1,0 +1,28 @@
+[
+
+{ "en": "buy",           "fi": "ostaa",    "fr": "acheter",              "es": "comprar",     "ko": "사다" },
+{ "en": "sell",          "fi": "myydä",    "fr": "vendre",               "es": "vender",      "ko": "팔다" },
+{ "en": "cheap",         "fi": "halpa",    "fr": "bon marché, pas cher", "es": "barato",      "ko": "싸다" },
+{ "en": "expensive",     "fi": "kallis",   "fr": "cher",                 "es": "caro",        "ko": "비싸다" },
+{ "en": "to cost",       "fi": "maksaa",   "fr": "coûter",               "es": "costar",      "ko": "" },
+{ "en": "price",         "fi": "hinta",    "fr": "prix",                 "es": "(el) precio", "ko": "가격" },
+  { "en": "The price doesn't matter.",         "fi": "Hinnalla ei ole väliä.",    "fr": "",                 "es": "", "ko": "" },
+  { "en": "At any price.",         "fi": "Hinnalla millä hyvänsä.",    "fr": "",                 "es": "", "ko": "" },
+{ "en": "pay",           "fi": "maksaa",   "fr": "payer",                "es": "pagar",       "ko": "지불하다" },
+{ "en": "payment",       "fi": "maksu",    "fr": "paiement",             "es": "(el) pago",   "ko": "" },
+{ "en": "money",         "fi": "raha",     "fr": "argent",               "es": "(el) dinero", "ko": "돈" },
+{ "en": "to take",       "fi": "ottaa",    "fr": "prendre",              "es": "coger",       "ko": "잡다" },
+
+{ "en": "to go shopping","fi": "käydä ostoksilla", "fr":"",       "es": "hacer la compra", "ko": ""},
+{ "en": "trolley",       "fi": "ostoskori",        "fr":"panier", "es": "(el) carrito", "ko": ""},
+{ "en": "cash desk",     "fi": "kassa",            "fr":"caisse", "es": "(la) caja", "ko": ""},
+{ "en": "shop window",   "fi": "näyteikkuna",      "fr":"vitrine", "es": "(el) escaparate", "ko": ""},
+{ "en": "available",     "fi": "saatavana",   "fr":"",     "es": "", "ko": ""},
+
+{ "en": "to browse (in shop)","fi": "", "fr": "",                      "es": "rebuscar",              "ko": "" },
+{ "en": "second-hand",        "fi": "", "fr": "",                      "es": "de segunda mano",              "ko": "" },
+{ "en": "a guarantee",        "fi": "takaus",   "fr": "garantie",      "es": "(la) garantía",  "ko": "보장 (protect + block)" },
+{ "en": "to guarantee",       "fi": "taata",    "fr": "garantir",      "es": "garantizar, asegurar",  "ko": "보장하다" },
+{ "en": "a claim (for)",      "fi": "",    "fr": "",      "es": "reclamación (de)",  "ko": "" }
+
+]

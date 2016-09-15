@@ -15,5 +15,9 @@ class DecksTableElement extends PolymerElement {
     selectedName = deckName;
     dispatchEvent(new CustomEvent('decknameclicked', detail: deckName)); 
   }
+
+  String getBaseName(String wordfilePath) {
+    return wordfilePath.split("/").last;
+  }
   
 }

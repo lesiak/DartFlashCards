@@ -34,7 +34,7 @@
           
     <core-selector selectedAttribute="" >        
       <template repeat="{{wordFile in items}}">
-        <paper-item on-click="{{wordFileClicked}}" data-msg="{{wordFile}}">{{wordFile}}</paper-item>        
+        <paper-item on-click="{{wordFileClicked}}" data-msg="{{wordFile}}">{{getBaseName(wordFile)}}</paper-item>
       </template>
     </core-selector>
      <!--<core-menu theme="core-light-theme" valueattr="hash">

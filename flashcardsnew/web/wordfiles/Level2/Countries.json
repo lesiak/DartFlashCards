@@ -1,0 +1,33 @@
+[
+
+{ "en": "England",       "fi": "Englanti",     "fr": "Angleterre",     "es": "(la) Inglaterra",  "ko": "영국" },
+{ "en": "Germany",       "fi": "Saksa",        "fr": "Allemagne",      "es": "(la) Alemania",    "ko": "독일 (alone + excel)" },
+{ "en": "Italy",         "fi": "Italia",       "fr": "Italie",         "es": "(la) Italia",      "ko": "이탈리아" },
+{ "en": "France",        "fi": "Ranska",       "fr": "France",         "es": "(la) Francia",     "ko": "프랑스" },
+{ "en": "Spain",         "fi": "Espanja",      "fr": "Espagne",        "es": "(la) España",      "ko": "스페인" },
+{ "en": "Sweden",        "fi": "Ruotsi",       "fr": "Suède",          "es": "(la) Suecia",      "ko": "스웨덴" },
+{ "en": "Finland",       "fi": "Suomi",        "fr": "Finlande",       "es": "(la) Finlandia",   "ko": "핀란드" },
+{ "en": "Great Britain", "fi": "Iso-Britannia","fr": "Grande-Bretagne","es": "(la) Gran Bretaña","ko": "" },
+{ "en": "Poland",        "fi": "Puola",        "fr": "Pologne",        "es": "(la) Polonia",     "ko": "폴란드" },
+{ "en": "Turkey",        "fi": "Puola",        "fr": "Pologne",        "es": "(la) Turquía",     "ko": "" },
+{ "en": "Russia",        "fi": "Turkki",       "fr": "Turquie",         "es": "(la) Rusia",      "ko": "러시아" },
+
+{ "en": "USA",           "fi": "Yhdysvallat",  "fr": "USA",            "es": "Estados Unidos",   "ko": "미국" },
+{ "en": "Canada",        "fi": "Kanada",       "fr": "Canada",         "es": "(el) Canadá",      "ko": "캐나다" },
+
+{ "en": "China",         "fi": "Kiina",        "fr": "Chine",          "es": "(la) China",       "ko": "중국" },
+{ "en": "Korea",         "fi": "Korea",        "fr": "Corée",          "es": "(la) Corea",       "ko": "한국" },
+{ "en": "Japan",         "fi": "Japani",       "fr": "Japon",          "es": "(el) Japón",       "ko": "일본" },
+
+{ "en": "South Africa",  "fi": "Etelä-Afrikka","fr": "",                "es": "",                 "ko": "남아프리카 공화국 (남아공)" },
+
+{ "en": "Australia",     "fi": "Australia",    "fr": "Australia" ,      "es": "(la) Australia",   "ko": "호주"},
+{ "en": "Africa",        "fi": "Afrikka",      "fr": "Afrique",         "es": "(la) África",      "ko": "아프리카" },
+{ "en": "Asia",          "fi": "Aasia",        "fr": "Asie",            "es": "(la) Asia",        "ko": "아시아" },
+{ "en": "country",       "fi": "maa",          "fr": "pays",            "es": "(el) país",        "ko": "나라" },
+{ "en": "population",    "fi": "",             "fr": "population",      "es": "(la) población",   "ko": "" },
+{ "en": "flag",          "fi": "lippu",        "fr": "drapeau",         "es": "(la) bandera",     "ko": "" },
+{ "en": "foreign",       "fi": "ulkomainen",        "fr": "",         "es": "",     "ko": "" }
+
+
+]

@@ -1,0 +1,85 @@
+[
+{ "en": "map",        "fi": "kartta" ,   "fr":"carte",      "es": "(el) mapa",     "ko": "지도"},
+{ "en": "church",     "fi": "kirkko",    "fr":"église",     "es": "(la) iglesia",  "it": "(la) chiesa",    "ko": "교회"},
+{ "en": "pharmacy",   "fi": "apteekki",  "fr":"pharmacie",  "es": "(la) farmacia", "ko": "약국"},
+{ "en": "castle",     "fi": "linna" ,    "fr":"château",    "es": "(el) castillo", "it": "(il) castello",    "ko": "성"},
+{ "en": "bridge",     "fi": "silta" ,    "fr":"pont",       "es": "(el) puente",   "ko": "다리"},
+{ "en": "building",   "fi": "rakennus",  "fr": "bâtiment",  "es": "(el) edificio", "ko": "건물" },
+
+{ "en": "school",     "fi": "koulu" ,    "fr":"école",      "es": "(la) escuela",  "ko": "학교"},
+{ "en": "museum",     "fi": "museo" ,    "fr":"musée",      "es": "(el) museo",    "ko": "박물관"},
+{ "en": "(city) centre",     "fi": "keskusta",  "fr":"milieu",     "es": "(el) centro",   "ko": "가운데"},
+{ "en": "floor (storey)","fi": "kerros", "fr":"étage",      "es": "(el) piso, (la) planta",     "ko": "층"},
+{ "en": "lift",       "fi": "hissi" ,    "fr":"ascenseur",  "es": "(el) ascensor", "ko": "엘리베이터"},
+{ "en": "staircase",  "fi": "portaikko" ,"fr":"escalier",   "es": "(la) escalera", "ko": "계단"},
+{ "en": "road",       "fi": "tie" ,      "fr":"route",      "es": "(el) camino, (la) carretera",    "ko": "길"},
+{ "en": "way (road)", "fi": "tie" ,      "fr":"",      "es": "",    "ko": ""},
+{ "en": "street",     "fi": "katu" ,     "fr":"rue",        "es": "(la) calle",         "ko": "거리"},
+{ "en": "avenue",     "fi": "katu" ,     "fr":"rue",        "es": "(la) avenida",       "ko": ""},
+{ "en": "alley, backstreet", "fi": "kuja", "fr":"ruelle",   "es": "(el) callejón",      "ko": "골목"},
+{ "en": "(street) corner",  "fi": "kadunkulma", "fr":"coin","es": "(la) esquina",       "ko": "골목"},
+
+
+
+{ "en": "bakery",       "fi": "leipomo" ,       "fr":"boulangerie",   "es": "(la) panadería",  "ko": "빵집"},
+{ "en": "bank",         "fi": "pankki" ,        "fr":"banque",        "es": "(el) banco",      "ko": " 은행"},
+{ "en": "bus stop",     "fi": "bussipysäkki" ,  "fr":"arrêt de bus",  "es": "(la) parada de autobús",  "ko": " 버스 정류장"},
+{ "en": "library",      "fi": "kirjasto",       "fr": "bibliothèque", "es": "(la) biblioteca",    "ko": "도서관" },
+{ "en": "bookstore",    "fi": "kirjakauppa",    "fr": "librairie",    "es": "(la) librería",      "ko": "서점, 책방 (book + house)" },
+{ "en": "shop",         "fi": "myymälä, kauppa","fr": "magasin, boutique","es": "(la) tienda",   "ko": "가게" },
+{ "en": "department store", "fi": "tavaratalo", "fr": "grand magasin", "es": "grandes almacenes",  "ko": "백화점 (hundred + goods + shop)" },
+
+{ "en": "town hall",        "fi": "kaupungintalo" , "fr":"mairie",        "es": "(el) ayuntamiento",   "ko": ""},
+{ "en": "square (in city)", "fi": "aukio",          "fr":"place",         "es": "(la) plaza",  "ko": ""},
+{ "en": "market, marketplace", "fi": "tori",          "fr":"",         "es": "",  "ko": ""},
+
+{ "en": "fountain",         "fi": "suihkulähde",    "fr":"fontaine",      "es": "(la) fuente",  "ko": ""},
+
+{ "en": "other side",       "fi": "toinen puoli (toisella puolella)",    "fr": "?",  "es": "(el) otro lado",   "ko": "건너편" },
+
+{ "en": "bench",            "fi": "penkki",          "fr": "banc",          "es": "(el) banco",  "ko": "벤치" },
+
+{ "en": "crowd",            "fi": "väkijoukko",      "fr": "foule",         "es": "(la) multitud",   "ko": "" },
+{ "en": "crowded",          "fi": "tungosta",        "fr": "",              "es": "lleno (de gente)",   "ko": "" },
+
+{ "en": "prison",           "fi": "vankila",         "fr": "prison, (slang) cabane",  "es": "(la) cárcel, (la) prisión",    "ko": "교도소" },
+{ "en": "city",             "fi": "kaupunki",        "fr": "ville",         "es": "(la) ciudad",  "ko": "도시" },
+{ "en": "village",          "fi": "kylä",            "fr": "village",       "es": "(el) pueblo",  "ko": "마을" },
+{ "en": "suburb",           "fi": "esikaupunki",     "fr": "banlieue",      "es": "(el) suburbio","ko": "근교" },
+{ "en": "neighborhood (district)",     "fi": "kaupunginosa",     "fr": "quartier",      "es": "(el) barrio","ko": "" },
+
+
+
+{ "en": "factory",          "fi": "tehdas",          "fr": "",              "es": "(la) fábrica",  "ko": "공장" },
+{ "en": "statue",           "fi": "patsas",          "fr": "",              "es": "(la) estatua",  "ko": "상" },
+{ "en": "gallery",          "fi": "galleria, taidegalleria","fr": "",       "es": "(la) galería",  "ko": "화랑" },
+{ "en": "railway",          "fi": "rautatie",        "fr": "chemin de fer", "es": "(el) ferrocarril", "ko": "철도" },
+{ "en": "railway station",  "fi": "rautatieasema",   "fr": "gare",          "es": "(la) estación de ferrocarril",  "ko": "철도역" },
+
+{ "en": "intersection",     "fi": "risteys",         "fr": "carrefour",     "es": "(la) intersección",  "ko": "사거리" },
+{ "en": "junction",         "fi": "ylitys",          "fr": "",              "es": "(el) cruce",  "ko": "" },
+{ "en": "roundabout",       "fi": "liikenneympyrä",  "fr": "rond-point",    "es": "(la) glorieta",  "ko": "" },
+
+{ "en": "pedestrian",       "fi": "jalankulkija",    "fr": "piéton",        "es": "(el) peatón",  "ko": "횡단 보도" },
+{ "en": "pedestrian crossing","fi": "suojatie",     "fr": "passage pour piétons", "es": "paso de cebra, paso de peatones","ko": "횡단 보도" },
+{ "en": "to cross (a road)", "fi": "ylittää, mennä yli (a narrow thing), mennä poikki (e.g., a room)",     "fr": "", "es": "atravesar, pasar","ko": "" },
+{ "en": "passage (between buildings, underground)",  "fi": "läpikulku",   "fr": "",   "es": "(el) pasaje", "ko": ""},
+{ "en": "passage (way through)",      "fi": "läpikulku",   "fr": "",   "es": "(el) paso", "ko": ""},
+
+  { "en": "underpass",      "fi": "alikulkutunneli",   "fr": "",   "es": "(el) paso", "ko": ""},
+
+
+{ "en": "traffic lights",   "fi": "liikennevalot",   "fr": "feux de circulation",  "es": "(el) semáforo",  "ko": "" },
+
+{ "en": "traffic",          "fi": "liikenne" ,       "fr": "circulation",    "es": "(el) tráfico",        "ko": "교통"},
+{ "en": "traffic jam",      "fi": "liikenneruuhka" , "fr": "embouteillage",  "es": "(el) atasco, (el) embotellamiento ",        "ko": "교통"},
+{ "en": "street lamp (lamppost)","fi": "lyhtypylväs",   "fr": "lampadaire",  "es": "(la) farola",  "ko": "" },
+{ "en": "postbox",          "fi": "postilaatikko",   "fr": "boîte postale",  "es": "(el) buzón",  "ko": "" },
+{ "en": "tunnel",           "fi": "tunneli",         "fr": "tunnel",         "es": "(el) túnel",  "ko": "" },
+{ "en": "urban",            "fi": "kaupunki-",       "fr": "urbain",         "es": "urbano",  "ko": "" }
+
+
+
+
+
+]

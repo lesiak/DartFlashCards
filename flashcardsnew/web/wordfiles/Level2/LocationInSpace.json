@@ -1,0 +1,39 @@
+[
+ 
+{ "en": "a place",             "fi": "paikka, sija",  "fr": "lieu, endroit", "es": "(el) lugar",   "ko": "" },
+
+{ "en": "far",          "fi": "kaukana",     "fr": "loin",     "es": "lejos",      "ko": "멀다" },
+{ "en": "near",         "fi": "lähellä",     "fr": "près de",  "es": "cerca de, cercano",   "ko": "가깝다" },
+{ "en": "next to",      "fi": "vieressä",    "fr": "à côté de","es": "al lado de", "ko": "" },
+
+
+{ "en": "interior, inside",    "fi": "",        "fr": "",           "es": "(el) interior", "ko": ""},
+{ "en": "internal",            "fi": "",        "fr": "",           "es": "interno",       "ko": ""},
+{ "en": "above",               "fi": "edellä",  "fr": "au-dessus",  "es": "arriba",        "ko": "" },
+{ "en": "on top, above",       "fi": "yllä, yläpuolella",  "fr": "",  "es": "encima de",        "ko": "" },
+
+{ "en": "below",               "fi": "alla",    "fr": "au-dessous", "es": "abajo",         "ko": "" },
+{ "en": "over",                "fi": "yli",     "fr": "",           "es": "",         "ko": "" },
+{ "en": "around",              "fi": "",        "fr": "",           "es": "alrededor (de)",         "ko": "" },
+{ "en": "up",                  "fi": "ylös",    "fr": "",           "es": "",         "ko": "" },
+{ "en": "down",                "fi": "alas (movement - Tule alas), alhaalla (stationary)",    "fr": "",           "es": "",         "ko": "" },
+
+{ "en": "out of, outdoors",                "fi": "ulos",    "fr": "",           "es": "",         "ko": "" },
+
+{ "en": "between",               "fi": "välillä, välissä (Häntä koipien välissä- embarrassed, disappointed)",    "fr": "", "es": "",         "ko": "" },
+
+{ "en": "across",               "fi": "poikki, halki, yli (Pallo vieri tien poikki)",    "fr": "", "es": "",         "ko": "" },
+
+{ "en": "through",               "fi": "kautta, läpi",    "fr": "", "es": "",         "ko": "" },
+{ "en": "topmost",               "fi": "ylimmäinen",    "fr": "", "es": "",         "ko": "" },
+
+{ "en": "edge, border",               "fi": "reuna",    "fr": "", "es": "",         "ko": "" },
+
+{ "en": "somewhere",               "fi": "jossakin",    "fr": "", "es": "",         "ko": "" },
+  { "en": "position",               "fi": "asema",    "fr": "", "es": "",         "ko": "" },
+{ "en": "forward (adirection)","fi": "",        "fr": "",           "es": "adelante",      "ko": "" },
+{ "en": "to be situated",      "fi": "",        "fr": "",           "es": "estar situado", "ko": ""},
+  { "en": "He lives 16 km away.",      "fi": "Hän asuu kuudentoista kilometrin päässä.",        "fr": "",           "es": "", "ko": ""}
+
+
+]

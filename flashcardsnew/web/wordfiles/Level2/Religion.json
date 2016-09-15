@@ -1,0 +1,49 @@
+[
+
+{ "en": "religion",   "fi": "uskonto",           "fr":"religion", "es":"(la) religión",  "it":"(la) religione", "ko": "종교"},
+{ "en": "faith",      "fi": "usko",              "fr":"foi",      "es":"(la) fe",        "it":"(la) fede",  "ko": ""},
+{ "en": "religious",  "fi": "usko",              "fr":"religieux","es":"religioso",      "it":"religioso",    "ko": ""},
+
+{ "en": "temple",     "fi": "temppeli",          "fr":"temple",   "es":"(el) templo",    "it":"(il) tempio",  "ko": ""},
+{ "en": "synagogue",  "fi": "synagoga",          "fr":"synagogue","es":"(la) sinagoga",  "it":"(la) sinagoga", "ko": ""},
+{ "en": "mosque",     "fi": "moskeija",          "fr":"mosquée",  "es":"(la) mezquita",  "it":"(la) moschea",   "ko": ""},
+{ "en": "shrine",     "fi": "",                  "fr":"",         "es":"(el) santuario",  "it":"",   "ko": ""},
+
+{ "en": "to pray",    "fi": "rukoilla",          "fr":"prier",    "es":"rezar", "ko": ""},
+{ "en": "a prayer",    "fi": "rukous",           "fr":"prière",   "es":"(la) oración, (el) rezo", "ko": ""},
+
+{ "en": "atheist",    "fi": "ateisti",           "fr":"athée",    "es":"(el) ateo",      "it":"(il) ateo",  "ko": ""},
+{ "en": "atheism",    "fi": "ateismi",           "fr":"",         "es":"(el) ateísmo",      "it":"(il) ateismo",  "ko": ""},
+
+{ "en": "monk",       "fi": "munkki",            "fr":"moine",    "es":"(el) monje",     "it":"(il) monaco",   "ko": ""},
+{ "en": "nun",        "fi": "nunna",             "fr":"",         "es":"(la) monja",     "it":"(la) suora, (la) monaca",  "ko": ""},
+{ "en": "priest",     "fi": "pappi",             "fr":"prêtre",   "es":"(el) sacerdote", "ko": ""},
+
+
+{ "en": "prophet",    "fi": "profeetta",         "fr":"",         "es":"(el) profeta",   "it":"(il) profeta",  "ko": ""},
+{ "en": "saint",      "fi": "pyhimys",           "fr":"",         "es":"(el) santo",     "it":"(il) santo",  "ko": ""},
+
+{ "en": "soul",       "fi": "sielu",             "fr":"",         "es":"(el) alma",       "ko": ""},
+{ "en": "sin",        "fi": "",                  "fr":"",         "es":"(el) pecado",     "it":"(il) peccato", "ko": ""},
+  
+{ "en": "pilgrim",    "fi": "pyhiinvaeltaja",    "fr":"",         "es":"(el) peregrino",     "ko": ""},
+{ "en": "pilgrimage", "fi": "pyhiinvaellusmatka","fr":"",         "es":"(la) peregrinación", "ko": ""},
+
+{ "en": "bishop",     "fi": "piispa",            "fr":"",         "es":"(el) obispo",      "it":"(il) vescovo", "ko": ""},
+{ "en": "archbishop",     "fi": "",            "fr":"",           "es":"(el) arzobispo",      "it":"", "ko": ""},
+
+{ "en": "cardinal",   "fi": "kardinaali",        "fr":"",         "es":"(el) cardenal",    "it":"", "ko": ""},
+{ "en": "pope",       "fi": "paavi",             "fr":"",         "es":"(el) papa",        "it":"(il) papa", "ko": ""},
+ 
+{ "en": "miracle", "fi": "",    "fr":"",         "es":"(el) milagro", "ko": ""},
+{ "en": "a sacrilege", "fi": "pyhäinhäväistys",    "fr":"",         "es":"(el) sacrilegio", "ko": ""},
+
+{ "en": "to baptize", "fi": "",                  "fr":"",          "es":"bautizar", "ko": ""},
+{ "en": "Buddhism",   "fi": "buddhalaisuus",     "fr":"bouddhisme",   "es":"(el) budismo", "ko": "불교"}
+
+
+
+
+
+]
+        
