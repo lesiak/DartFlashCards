@@ -56,10 +56,6 @@
 { "en": "railway",          "fi": "rautatie",        "fr": "chemin de fer", "es": "(el) ferrocarril", "ko": "철도" },
 { "en": "railway station",  "fi": "rautatieasema",   "fr": "gare",          "es": "(la) estación de ferrocarril",  "ko": "철도역" },
 
-{ "en": "intersection",     "fi": "risteys",         "fr": "carrefour",     "es": "(la) intersección",  "ko": "사거리" },
-{ "en": "junction",         "fi": "ylitys",          "fr": "",              "es": "(el) cruce",  "ko": "" },
-{ "en": "roundabout",       "fi": "liikenneympyrä",  "fr": "rond-point",    "es": "(la) glorieta",  "ko": "" },
-
 { "en": "pedestrian",       "fi": "jalankulkija",    "fr": "piéton",        "es": "(el) peatón",  "ko": "횡단 보도" },
 { "en": "pedestrian crossing","fi": "suojatie",     "fr": "passage pour piétons", "es": "paso de cebra, paso de peatones","ko": "횡단 보도" },
 { "en": "to cross (a road)", "fi": "ylittää, mennä yli (a narrow thing), mennä poikki (e.g., a room)",     "fr": "", "es": "atravesar, pasar","ko": "" },
