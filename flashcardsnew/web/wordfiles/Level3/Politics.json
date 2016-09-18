@@ -47,7 +47,7 @@
 { "en": "voter",         "fi": "",                        "fr": "",             "es": "(el) votante",        "ko": "" },
   { "en": "demonstration (political)","fi": "mielenosoitus", "fr": "",          "es": "(la) manifestación",  "ko": "시위, 시연, 데모" },
 
-{ "en": "coup d'état",       "fi": "",                    "fr": "coup d'état", "es": "(el) golpe de estado", "ko": "" },
+{ "en": "coup d'état",       "fi": "vallankaappaus","fr": "coup d'état", "es": "(el) golpe de estado", "ko": "" },
 { "en": "to rebel (against)","fi": "",              "fr": "",  "es": "rebelarse (contra)", "ko": "" }, 
 
 { "en": "embassy",           "fi": "suurlähetystö", "fr": "ambassade",   "es": "(la) embajada",  "ko": "대사관 (great + dispatch + building)" },
@@ -56,7 +56,7 @@
 
 { "en": "to isolate (from)","fi": "",                    "fr": "",   "es": "aislar (de)",  "ko": "" },
 { "en": "isolation",        "fi": "",                    "fr": "",   "es": "(el) aislamiento",  "ko": "" },
-{ "en": "allied",           "fi": "",                    "fr": "",   "es": "aliado",  "ko": "" },
+{ "en": "allied",           "fi": "liittoutunut",         "fr": "",   "es": "aliado",  "ko": "" },
 { "en": "international",           "fi": "kansainvälinen",                    "fr": "",   "es": "",  "ko": "" },
 
 { "en": "Ministry of Finance",               "fi": "valtiovarainministeriö",    "fr": "",  "ko": "" },
