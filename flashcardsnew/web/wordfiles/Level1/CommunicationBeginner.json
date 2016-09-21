@@ -22,7 +22,7 @@
 { "en": "to answer (receive a phone)",  "fi": "",    "fr": "", "es": "contestar, coger (el teléfono)" ,   "ko": "받다" },
 
 { "en": "voicemail",     "fi": "puheposti",     "fr": "messagerie vocale",       "es": "(el) buzón de voz",   "ko": "" },
-{ "en": "engaged (UK), busy (US)",   "fi": "",     "fr": "",       "es": "ocupado",   "ko": "" },
+{ "en": "engaged (UK), busy (US)",   "fi": "varattu",     "fr": "",       "es": "ocupado",   "ko": "" },
 
 
 { "en": "telephone call",    "fi": "puhelu",    "fr": "appel téléphonique",  "es": "(la) llamada (telefónica)", "ko": "통화" },

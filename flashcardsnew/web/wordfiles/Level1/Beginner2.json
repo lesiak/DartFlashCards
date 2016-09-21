@@ -4,13 +4,6 @@
 { "en": "bring",       "fi": "tuoda",    "fr": "apporter, amener",     "es": "traer",       "ko": "가져오다"},
 { "en": "leave (sth behind)", "fi": "jättää",  "fr": "laisser",        "es": "dejar",   "ko": " 남기다" },
 
-
-{ "en": "think",       "fi": "ajatella",    "fr": "penser",    "es": "pensar", "ko": "생각하다" },
-{ "en": "understand",  "fi": "ymmärtää",    "fr": "comprendre","es": "entender, comprender",  "ko": "이해하다" },
-{ "en": "say",         "fi": "sanoa",       "fr": "dire",    "es": "decir", "ko": "" },
-{ "en": "tell",        "fi": "kertoa",      "fr": "dire",    "es": "decir", "ko": "" },
-{ "en": "talk",       "fi": "puhua",       "fr": "",    "es": "", "ko": "" },
-
 { "en": "live, dwell", "fi": "asua",        "fr": "habiter",  "es": "vivir",  "ko": "살다" },
 { "en": "here",        "fi": "täällä",      "fr": "ici",      "es": "aquí",   "ko": "여기에" },
 { "en": "there",       "fi": "siellä",      "fr": "",         "es": "",   "ko": "" },

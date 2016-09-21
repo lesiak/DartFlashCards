@@ -52,9 +52,10 @@
 { "en": "make",      "fi": "tehdä",      "fr": "faire",       "es": "hacer", "hu": "ül",         "ko": "만들다"       },
 { "en": "see",       "fi": "nähdä",      "fr": "voir",        "es": "ver", "ko": "보다" },
 { "en": "to be seen","fi": "näkyä",      "fr": "" ,           "ko": "보이다"},
-{ "en": "to show",   "fi": "näyttää",    "fr": "montrer",     "es": "mostrar", "ko": "보여주다" },
+{ "en": "to show (transitive)",   "fi": "näyttää",    "fr": "montrer",     "es": "mostrar", "ko": "보여주다" },
 
-{ "en": "to look",      "fi": "näyttää, katsoa",  "fr": "regarder", "es": "mirar",   "ko": "보이다 (??)" },
+  { "en": "to look (to take a look at)",      "fi": "katsoa (Katsoin elokuvaa.)",  "fr": "regarder", "es": "mirar",   "ko": "보이다 (??)" },
+  { "en": "to look (to give an appearance of being)",   "fi": "näyttää ( + ablative: Tuo maalaus näyttää hyvältä.)",  "fr": "", "es": "",   "ko": "" },
 { "en": "to speak",     "fi": "puhua",     "fr": "parler",          "es": "hablar",   "ko": "말하다" },
   
 { "en": "hear",         "fi": "kuulla",    "fr": "entendre",        "es": "oír",         "ko": "듣다" },

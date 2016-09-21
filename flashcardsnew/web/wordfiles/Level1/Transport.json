@@ -7,7 +7,7 @@
 
 { "en": "to walk",     "fi": "kävellä",    "fr": "marcher, se promener", "es": "andar, caminar", "ko": "걸어가다" },
 { "en": "a walk",      "fi": "kävely",      "fr": "promenade","es": "(el) paseo, (la) caminata", "ko": "산책" },
-{ "en": "to go for a walk", "fi": "",      "fr": "","es": "ir de paseo", "ko": "" },
+{ "en": "to go for a walk", "fi": "mennä kävelylle",      "fr": "","es": "ir de paseo", "ko": "" },
 { "en": "stay (in place) (remain)",    "fi": "jäädä, pysyä, viipyä",    "fr": "rester",  "es": "quedarse; permanecer",   "ko": "머무르다" },
 { "en": "to follow (person, path, route)", "fi": "seurata",            "fr":"",         "es":"seguir", "ko": ""},
 
@@ -73,7 +73,12 @@
 { "en": "exit",               "fi": "uloskäynti",   "fr":"sortie",    "es": "(la) salida",     "ko": "출구"},
 { "en": "entrance",           "fi": "sisäänkäynti", "fr":"entrée",    "es": "(la) entrada",    "ko": "입구"},
 
-{ "en": "get to",             "fi": "päästä",       "fr": "?",                                 "ko": "도착하다" },
+
+{ "en": "to push",       "fi": "työntää",      "fr":"",           "es": "empujar",  "ko": ""},
+{ "en": "to pull",       "fi": "vetää",        "fr":"",           "es": "tirar",  "ko": ""},
+
+
+  { "en": "get to",             "fi": "päästä",       "fr": "?",                                 "ko": "도착하다" },
 { "en": "arrive",             "fi": "saapua",       "fr": "arriver",  "es": "llegar",          "ko": "도착하다" },
 { "en": "to leave (from)",    "fi": "lähteä",       "fr": "partir",   "es": "salir",          "ko": "떠나다" },
 { "en": "to take off (plane)","fi": "",             "fr": ""      ,   "es": "despegar, decolar",          "ko": "" },
