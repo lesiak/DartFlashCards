@@ -27,11 +27,6 @@
 { "en": "to feel ill",           "fi": "",         "fr": "",            "es": "mejorarse", "ko": "" },
 { "en": "to hurt",               "fi": "" ,        "fr": "",      "es": "doler (me duele el pie)",             "ko": ""},
 
-{ "en": "poison",                "fi": "myrkky" , "fr":"poison",          "es":"(el) veneno",  "ko": ""},
-{ "en": "poisonous",             "fi": "myrkyllinen" , "fr":"",                       "es":"venenoso",  "ko": ""},
-{ "en": "poisoning (intentional)",       "fi": "" , "fr":"",          "es":"envenenamiento",  "ko": ""},
-{ "en": "poisoning (accidental)",       "fi": "" , "fr":"",           "es":"intoxicación",  "ko": ""},
-
 { "en": "(a) cold",         "fi": "nuha",       "fr": "rhume",        "es": "(el) resfriado",     "ko": "감기" },
 { "en": "flu",              "fi": "flunssa",    "fr": "grippe",       "es": "(la) gripe", "ko": "독감 (poison + feel)" },
 { "en": "cough",              "fi": "",    "fr": "",       "es": "(la) tos", "ko": "" },
@@ -50,54 +45,15 @@
 { "en": "bruise",              "fi": "",    "fr": "",       "es": "(el) moratón", "ko": "" },
 { "en": "scratch",              "fi": "",    "fr": "",       "es": "(el) rasguño", "ko": "" },
 
-{ "en": "cancer",           "fi": "syöpä",      "fr":" cancer",      "es": "(el) cáncer",      "ko": "암"},
+
 { "en": "virus",            "fi": "virus" ,     "fr":" virus",       "es": "(el) virus",       "ko": "바이러스"},
 { "en": "vitamin",          "fi": "vitamiini" , "fr":"vitamine",     "es": "(la) vitamina",    "ko": "비타민"},
 { "en": "wound",            "fi": "haava",      "fr": "blessure",    "es": "(la) herida",      "ko": "상처" },
-{ "en": "scar",             "fi": "",           "fr": "",            "es": "(la) cicatriz",    "ko": "" },
-
-{ "en": "a splinter",       "fi": "",           "fr": "",            "es": "(la) astilla",    "ko": "" },
-{ "en": "a stitch",       "fi": "",           "fr": "",            "es": "(el) punto",    "ko": "" },
-
-{ "en": "injection",        "fi": "injektio",   "fr": "injection",   "es": "(la) inyección",   "ko": "주사" },
-{ "en": "prescription",     "fi": "resepti",    "fr": "prescription","es": "(la) receta",      "ko": "처방" },
-{ "en": "operation, surgery","fi": "leikkaus",  "fr": "opération",   "es": "(la) operación",   "ko": "외과" },
-{ "en": "syringe",          "fi": "ruisku",     "fr": "seringue (f)","es": "(la) jeringa",     "ko": "주사기" },
-{ "en": "vaccine",          "fi": "rokote",     "fr": "(le) vaccin", "es": "(la) vacuna",      "ko": "백신" },
 
 
-{ "en": "medicine",              "fi": "",    "fr": "",       "es": "(el) medicamento", "ko": "" },
-{ "en": "antibiotics",              "fi": "",    "fr": "",       "es": "(los) antibióticos", "ko": "" },
-{ "en": "bandage",              "fi": "side",    "fr": "",       "es": "(la) venda", "ko": "" },
-{ "en": "drops",              "fi": "",    "fr": "",       "es": "(las) gotas", "ko": "" },
-{ "en": "syrup",              "fi": "",    "fr": "",       "es": "(el) jarabe (para la tos)", "ko": "" },
-{ "en": "aspirin",              "fi": "",    "fr": "",       "es": "(la) aspirina", "ko": "" },
-{ "en": "painkiller",              "fi": "",    "fr": "",       "es": "(la) pastilla para el dolor", "ko": "" },
 
 
-{ "en": "crutch",              "fi": "",    "fr": "",       "es": "(la) muleta", "ko": "" },
-{ "en": "wheelchair",              "fi": "",    "fr": "",       "es": "(la) silla de ruedas", "ko": "" },
-
- 
-
-{ "en": "infection",     "fi": "",      "fr": "", "es": "(la) infección",        "ko": ""  },
-{ "en": "infectious",     "fi": "tarttuva",      "fr": "infectieux", "es": "infeccioso",        "ko": ""  },
-{ "en": "symptom",        "fi": "oire",          "fr": "symptôme",   "es": "(el) síntoma",      "ko": "" },
-
-{ "en": "allergic (to)",              "fi": "",    "fr": "",       "es": "alérgico (a)", "ko": "" },
-{ "en": "diarrhoea",              "fi": "",    "fr": "",       "es": "(la) diarrea", "ko": "" },
-{ "en": "nausea",              "fi": "",    "fr": "",       "es": "(la) náusea", "ko": "" },
-{ "en": "to vomit",              "fi": "",    "fr": "",       "es": "vomitar", "ko": "" },
-
-{ "en": "ability (capacity)",   "fi": "kyky",    "fr": "capacité",   "ko": "" },
-{ "en": "pregnancy",            "fi": "",    "fr": "", "es": "el embarazo",   "ko": "" },
-{ "en": "pregnant",            "fi": "",    "fr": "", "es": "embarazada",   "ko": "" },
-
-
-{ "en": "infectious disease",        "fi": "tartuntatauti",    "fr": "",    "es": "(la) enfermedad infecciosa",  "ko": "" },
-{ "en": "to spread (disease)",       "fi": "levitä, levittää",    "fr": "", "es": "propagarse", "ko": ""  }
-
-
+{ "en": "medicine",              "fi": "",    "fr": "",       "es": "(el) medicamento", "ko": "" }
 
 
 
