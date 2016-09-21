@@ -2,6 +2,14 @@ body {
   /*overflow-y:hidden;*/
 }
 
+.nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus {
+  color: #777777;
+  background-color: #fcfcfc;
+  border: 1px solid #dddddd;
+  border-bottom-color: transparent;
+  cursor: default;
+}
+
 #flashcardQuestion, #answerprimary {
   padding: 19px;
   min-height: 153px; 
@@ -9,7 +17,7 @@ body {
 }
 
 .flashcard-question {
-  background-color: #eeeeee;  
+  background-color: #dcdcdc;
   -webkit-border-radius: 6px;
   -moz-border-radius: 6px;
   border-radius: 6px;
