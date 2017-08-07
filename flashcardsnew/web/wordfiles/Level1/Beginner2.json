@@ -17,11 +17,11 @@
 { "en": "to feel like","fi": "tehdä mieli",              "fr": "avoir envie de", "es": "tener ganas de",   "ko": "" },
 { "en": "to have to",  "fi": "täytyä, olla pakko, pitää","fr": "",               "es": "tener que, deber",   "ko": "" },
 
-{ "en": "to be able to", "fi": "voida, pystyä", "fr": "pouvoir, savoir (for a skill)", "es": "poder",   "ko": "...할 수 있다" },
+  { "en": "to be able to", "fi": "voida, pystyä", "fr": "pouvoir, savoir (for a skill)", "es": "poder",   "ko": "...할 수 있다" },
 
-{ "en": "to rest",     "fi": "levätä",     "fr": "se reposer",   "es": "descansar",  "ko": "쉬다" },
+  { "en": "to rest",     "fi": "levätä",     "fr": "se reposer",   "es": "descansar",  "ko": "쉬다" },
   { "en": "rest",      "fi": "lepo",     "fr": "",   "es": "",  "ko": "" },
-{ "en": "to wait",     "fi": "odottaa",    "fr": "patienter",    "es": "esperar",    "ko": "기다리다" },
+  { "en": "to wait",     "fi": "odottaa",    "fr": "patienter",    "es": "esperar",    "ko": "기다리다" },
 
 { "en": "to begin (to do sth), start (doing sth)",       "fi": "alkaa, aloittaa (causative)",    "fr": "commencer", "es": "empezar, comenzar",  "ko": "시작하다"},
 { "en": "to begin, start (intr)",          "fi": "",    "fr": "",  "es": "empezar, comenzar",  "ko": "" },

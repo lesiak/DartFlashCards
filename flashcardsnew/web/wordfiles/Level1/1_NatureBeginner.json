@@ -1,0 +1,64 @@
+[
+
+{ "en": "machine",   "fi": "kone",       "fr": "machine",   "es": "(la) máquina", "it": "(la) macchina",        "de": "die Maschine",                       "hu": "gép",  "ko": "기계"   },
+{ "en": "fire",      "fi": "palo",       "fr": "feu",       "es": "(el) fuego",   "it": "(il) fuoco",           "de": "das Feuer",          "cs": "oheň",   "hu": "tűz",  "ko": "불"  },
+{ "en": "light",     "fi": "valo",       "fr": "lumière",   "es": "(la) luz",     "it": "(la) luce, (il) lume", "de": "das Licht",          "cs": "světlo", "hu": "fény",   "ko": "빛" },
+{ "en": "water",     "fi": "vesi",       "fr": "eau",       "es": "(el) agua",    "it": "(le) acqua",           "de": "das Wasser",         "cs": "voda",   "hu": "víz",  "ko": "물" },
+{ "en": "river",     "fi": "joki",       "fr": "fleuve",    "es": "(el) río",     "it": "(il) fiume",           "de": "der Fluss",          "cs": "řeka",   "hu": "folyó",  "ko": "강"    },
+{ "en": "sea",       "fi": "meri",       "fr": "mer",       "es": "(el) mar",     "it": "(il) mare",            "de": "das Meer, die See",  "cs": "moře",   "hu": "tenger", "ko": "바다"  },
+{ "en": "wave",      "fi": "aalto",      "fr": "vague",     "es": "(la) ola, (la) onda",                        "de": "die Welle",          "cs": "vlna",   "hu": "hullám","ko": "파"   },
+{ "en": "beach",     "fi": "hiekkaranta","fr": "plage",     "es": "(la) playa",  "it": "(la) spiaggia",         "de": "der Strand",         "cs": "pláž",   "hu": "strand","ko": "바닷가" },
+{ "en": "sand",      "fi": "hiekka",     "fr": "sable",     "es": "(la) arena",  "it": "(la) sabbia",           "de": "der Sand",           "cs": "písek",  "hu": "homok", "ko": "모래" },
+{ "en": "forest",    "fi": "metsä",      "fr": "forêt",     "es": "(el) bosque", "it": "",                      "de": "der Wald",           "cs": "les",    "hu": "erdő",  "ko": "숲"  },
+{ "en": "garden",    "fi": "puutarha",   "fr": "jardin",    "es": "(el) jardín", "it": "(il) giardino",         "de": "der Garten",         "cs": "zahrada","hu": "kert",  "ko": "정원" },
+{ "en": "park",      "fi": "puisto",     "fr": "parc" ,     "es": "(el) parque", "it": "(il) parco",            "de": "der Park",           "cs": "park", "hu": "park",  "ko": "공원" },
+{ "en": "tree",      "fi": "puu",        "fr": "arbre" ,    "es": "(el) árbol",  "it": "(il) albero",           "de": "der Baum",           "cs": "strom",   "hu": "fa",    "ko": "나무" },
+{ "en": "leaf",      "fi": "lehti",      "fr": "feuille",   "es": "(la) hoja",   "it": "",                      "de": "das Blatt",          "cs": "list, listek",    "hu": "",      "ko": "잎"   },
+{ "en": "lake",      "fi": "järvi",      "fr": "lac",       "es": "(el) lago",   "it": "(il) lago",             "de": "der See",            "hu": "tó",    "ko": "호수"   },
+{ "en": "sun",       "fi": "aurinko",    "fr": "soleil",    "es": "(el) sol",    "it": "(il) sole",             "de": "die Sonne",          "hu": "nap",      "ko": "해"  },
+{ "en": "moon",      "fi": "kuu",        "fr": "lune" ,     "es": "(la) luna",   "it": "(la) luna",             "de": "der Mond",           "hu": "hold",  "ko": "달"   },
+{ "en": "air",       "fi": "ilma",       "fr": "air" ,      "es": "(el) aire",   "it": "",                      "de": "die Luft",           "hu": "levegő","ko": "공기" },
+{ "en": "star",      "fi": "tähti",      "fr": "étoile" ,   "es": "(la) estrella","it": "(la) stella",          "de": "der Stern",          "hu": "csillag","ko": "별"  },
+{ "en": "fog",       "fi": "sumu",       "fr": "brouillard","es": "(la) niebla", "it": "(la) nebbia",           "de": "der Nebel",          "hu": "köd", "ko": "안개" },
+{ "en": "sky",       "fi": "taivas",     "fr": "ciel" ,     "es": "(el) cielo",  "it": "(il) cielo",            "de": "der Himmel",         "hu": "ég",    "ko": "하늘" },
+{ "en": "cloud",     "fi": "pilvi",      "fr": "nuage" ,    "es": "(la) nube",                                  "de": "die Wolke",          "hu": "felhő", "ko": "구름" },
+{ "en": "rainbow",   "fi": "sateenkaari","fr": "arc-en-ciel","es": "(el) arco iris",                            "de": "der Regenbogen",     "hu": "szivárvány",   "ko": "무지개"        },
+{ "en": "stone",     "fi": "kivi",       "fr": "pierre" ,   "es": "(la) piedra",                                "de": "der Stein",          "hu": "kő",    "ko": "돌"        },
+{ "en": "mountain",  "fi": "vuori",      "fr": "montagne",  "es": "(la) montaña",                               "de": "der Berg",           "hu": "hegy",  "ko": "산"      },
+{ "en": "hill",      "fi": "mäki, kukkula","fr": "colline", "es": "(la) colina",                                "de": "der Hügel",          "hu": "hegy",  "ko": "언덕"   },
+{ "en": "swamp",     "fi": "suo",        "fr": "marais",    "es": "(el) pantano",                               "de": "der Sumpf",          "hu": "ingovány", "ko": "늪"  },
+
+ 
+{ "en": "rain",      "fi": "sade",       "fr": "pluie",     "es": "(la) lluvia",                                "de": "der Regen",          "hu": "eső",   "ko": "비"  },
+{ "en": "snow",      "fi": "lumi",       "fr": "neige",     "es": "(la) nieve",                                 "de": "der Schnee",         "hu": "hó",    "ko": "눈"  },
+{ "en": "wind",      "fi": "tuuli",      "fr": "vent",      "es": "(el) viento",                                "de": "der Wind",           "hu": "szél",  "ko": "바람"},
+{ "en": "weather",   "fi": "sää, ilma",  "fr": "temps",     "es": "(el) tiempo",                                "de": "das Wetter",     "hu": "időjárás", "ko": "날씨"},
+{ "en": "climate",   "fi": "ilmasto",    "fr": "climat",    "es": "(el) clima",                                 "de": "das Klima",    "hu": "klíma", "ko": "기후"   },
+
+{ "en": "sunset",    "fi": "auringonlasku", "fr": "coucher du soleil", "es": "(la) puesta del sol",             "de": "der Sonnenuntergang",    "hu": "napnyugta", "ko": "일몰"           },
+{ "en": "sunrise",   "fi": "auringonnousu", "fr": "lever du soleil",   "es": "(la) salida del sol",             "de": "der Sonnenaufgang",  "hu": "napkelte",  "ko": "해돋이"        },
+
+
+{ "en": "world",     "fi": "maailma",    "fr": "monde",     "es": "(el) mundo",                                  "de": "die Welt",   "hu": "világ",  "ko": "세계" },
+
+
+
+{ "en": "sit",       "fi": "istua",      "fr": "être assis",  "es": "sentarse",                                  "de": "sitzen",      "hu": "ül",  "ko": "앉다"      },
+{ "en": "stand",     "fi": "seisoa",     "fr": "être debout", "es": "estar de pie",                              "de": "stehen",    "hu": "áll",  "ko": "서다" },
+{ "en": "sleep",     "fi": "nukkua",     "fr": "dormir",      "es": "dormir",                                    "de": "schlafen",        "hu": "alszik",  "ko": "자다"       },
+{ "en": "know (sth)","fi": "tietää",     "fr": "savoir",      "es": "saber",        "hu": "tud",  "ko": "알다"   },
+{ "en": "know (sb)", "fi": "tuntea",     "fr": "connaître",   "es": "conocer",      "hu": "tud",  "ko": "알다"   },
+{ "en": "not to know","fi": "ei tiedä",  "fr": "ne pas savoir",          "ko": "모르다"      },
+{ "en": "make",      "fi": "tehdä",      "fr": "faire",       "es": "hacer", "hu": "ül",         "ko": "만들다"       },
+{ "en": "see",       "fi": "nähdä",      "fr": "voir",        "es": "ver", "ko": "보다" },
+{ "en": "to be seen","fi": "näkyä",      "fr": "" ,           "ko": "보이다"},
+{ "en": "to show (transitive)",   "fi": "näyttää",    "fr": "montrer",     "es": "mostrar", "ko": "보여주다" },
+
+  { "en": "to look (to take a look at)",      "fi": "katsoa (Katsoin elokuvaa.)",  "fr": "regarder", "es": "mirar",   "ko": "보이다 (??)" },
+  { "en": "to look (to give an appearance of being)",   "fi": "näyttää ( + ablative: Tuo maalaus näyttää hyvältä.)",  "fr": "", "es": "",   "ko": "" }
+
+
+
+
+
+]

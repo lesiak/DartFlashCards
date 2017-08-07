@@ -59,31 +59,31 @@
 { "en": "to wear (headgear)",  "fi": "",   "fr": "",                                   "ko": "쓰다" },
 { "en": "to wear (glasses)",   "fi": "",   "fr": "",                  "es": "llevar",  "ko": "끼다" },
 
-{ "en": "to wear (necklaces, earrings)", "fi": "",   "fr": "",  "es": "llevar",  "ko": "하다" },
-{ "en": "to wear (wristwatches)",              "fi": "",   "fr": "",  "es": "llevar", "ko": "차다" },
-{ "en": "to slip on",              "fi": "",   "fr": "",  "es": "ponerse", "ko": "차다" },
-{ "en": "to put on",               "fi": "",   "fr": "",  "es": "ponerse", "ko": "" },
-{ "en": "to take off",             "fi": "",   "fr": "",  "es": "quitarse", "ko": "" },
-{ "en": "to dress, to get dressed","fi": "",   "fr": "" , "es": "vestirse",  "ko": ""},
+  { "en": "to wear (necklaces, earrings)", "fi": "",   "fr": "",  "es": "llevar",  "ko": "하다" },
+  { "en": "to wear (wristwatches)",              "fi": "",   "fr": "",  "es": "llevar", "ko": "차다" },
+  { "en": "to slip on",              "fi": "",   "fr": "",  "es": "ponerse", "ko": "차다" },
+  { "en": "to put on",               "fi": "",   "fr": "",  "es": "ponerse", "ko": "" },
+  { "en": "to take off",             "fi": "",   "fr": "",  "es": "quitarse", "ko": "" },
+  { "en": "to dress, to get dressed","fi": "",   "fr": "" , "es": "vestirse",  "ko": ""},
 
-{ "en": "cool, stylish, good-looking", "fi": "mahtava", "fr": "excellent",  "es": "guay", "ko": "멋있다" },
-{ "en": "sexy",        "fi": "seksikäs",          "fr": "sexy",       "es": "sexy", "ko": "섹시하다" },
+  { "en": "cool, stylish, good-looking", "fi": "mahtava", "fr": "excellent",  "es": "guay", "ko": "멋있다" },
+  { "en": "sexy",        "fi": "seksikäs",          "fr": "sexy",       "es": "sexy", "ko": "섹시하다" },
 
-{ "en": "size (of clothes)","fi": "koko, suuruus", "fr":"taille",     "es":"(la) talla", "ko": "사이즈"},
-{ "en": "quality",     "fi": "laatu",    "fr": "qualité",   "es": "(la) calidad",   "ko": "품질" },
-{ "en": "to try on",      "fi": "kokeilla",      "fr": "essayer",     "es": "probarse", "ko": "" },
-{ "en": "matching (corresponding in pattern, color)",      "fi": "",      "fr": "assorti",     "es": "que hace juego", "ko": "" },
+  { "en": "size (of clothes)","fi": "koko, suuruus", "fr":"taille",     "es":"(la) talla", "ko": "사이즈"},
+  { "en": "quality",     "fi": "laatu",    "fr": "qualité",   "es": "(la) calidad",   "ko": "품질" },
+  { "en": "to try on",      "fi": "kokeilla",      "fr": "essayer",     "es": "probarse", "ko": "" },
+  { "en": "matching (corresponding in pattern, color)",      "fi": "",      "fr": "assorti",     "es": "que hace juego", "ko": "" },
 
-{ "en": "pocket",      "fi": "tasku",      "fr": "poche",     "es": "(el) bolsillo", "ko": "포켓" },
-{ "en": "sleeve",      "fi": "T-paita",    "fr": "manche",    "es": "(la) manga",   "ko": "" },
-{ "en": "button",      "fi": "nappi",      "fr": "bouton",    "es": "(el) botón",   "ko": "" },
-{ "en": "collar",      "fi": "kaulus",     "fr": "",          "es": "(el) cuello",   "ko": "" },
+  { "en": "pocket",      "fi": "tasku",      "fr": "poche",     "es": "(el) bolsillo", "ko": "포켓" },
+  { "en": "sleeve",      "fi": "T-paita",    "fr": "manche",    "es": "(la) manga",   "ko": "" },
+  { "en": "button",      "fi": "nappi",      "fr": "bouton",    "es": "(el) botón",   "ko": "" },
+  { "en": "collar",      "fi": "kaulus",     "fr": "",          "es": "(el) cuello",   "ko": "" },
 
-{ "en": "cotton",      "fi": "puuvilla" ,"fr":"coton",       "es": "(el) algodón","ko": "솜"},
-{ "en": "wool",        "fi": "villa",    "fr": "laine",      "es": "(la) lana",   "ko": "" },
-{ "en": "silk",        "fi": "silkki" ,  "fr":"soie",        "es": "(la) seda",   "ko": "솜"},
-{ "en": "leather",     "fi": "nahka" ,  "fr":"cuir",         "es": "(el) cuero, (la) piel",   "ko": ""},
-
-{ "en": "a tailor",    "fi": "räätäli",          "fr": "tailleur",  "es": "(el) sastre",  "es": "(it) sarto",  "ko": "" }
+  { "en": "cotton",      "fi": "puuvilla" ,"fr":"coton",       "es": "(el) algodón","ko": "솜"},
+  { "en": "wool",        "fi": "villa",    "fr": "laine",      "es": "(la) lana",   "ko": "" },
+  { "en": "silk",        "fi": "silkki" ,  "fr":"soie",        "es": "(la) seda",   "ko": "솜"},
+  { "en": "leather",     "fi": "nahka" ,  "fr":"cuir",         "es": "(el) cuero, (la) piel",   "ko": ""},
+  { "en": "fabric",      "fi": "kangas" ,  "fr":"",         "es": "",   "ko": ""},
+  { "en": "a tailor",    "fi": "räätäli, vaatturi",          "fr": "tailleur",  "es": "(el) sastre",  "es": "(it) sarto",  "ko": "" }
 
 ]

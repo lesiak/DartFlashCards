@@ -66,6 +66,9 @@
 { "en": "to happen",      "fi": "tapahtua",  "fr": "", "es": "pasar",  "ko": ""},
 
 { "en": "to waste",      "fi": "tuhlata",      "fr": "", "es": "perder",  "ko": ""},
+  { "en": "one after the other",      "fi": "peräkkäin",      "fr": "", "es": "",  "ko": ""},
+  { "en": "successive, consecutive, serial",      "fi": "peräkkäinen",      "fr": "", "es": "",  "ko": ""},
+
 
 { "en": "to exploit, utilize",      "fi": "hyödyntää",      "fr": "", "es": "",  "ko": ""},
 { "en": "facility",      "fi": "laitos",      "fr": "", "es": "",  "ko": ""},

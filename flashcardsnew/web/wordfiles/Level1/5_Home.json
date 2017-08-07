@@ -1,0 +1,81 @@
+[
+
+{ "en": "house",          "fi": "talo",       "fr": "",             "es": "(la) casa",        "ko": "" },
+{ "en": "home",           "fi": "koti",       "fr": "maison",       "es": "(la) casa, (el) hogar","ko": "집"      },
+{ "en": "a flat",         "fi": "huoneisto",  "fr": "appartement",  "es": "(el) piso","ko": ""      },
+{ "en": "apartment",      "fi": "huoneisto",  "fr": "appartement",  "es": "(el) apartamento", "ko": "아파트, 빌라" },
+{ "en": "room",           "fi": "huone",      "fr": "chambre",      "es": "(la) habitación, (el) cuarto", "hu": "szoba",            "ko": "방" },
+{ "en": "door",           "fi": "ovi (Hän ei avannut ovea. He didn't open the door. Hän avasi oven.)",        "fr": "porte",        "es": "(la) puerta",      "hu": "ágy",   "ko": "문" },
+{ "en": "window",         "fi": "ikkuna",     "fr": "fenêtre",      "es": "(la) ventana",     "hu": "ablak", "ko": "창, 창문"   },   
+{ "en": "furniture",      "fi": "kalusteet",  "fr": "meubles",      "es": "muebles",          "hu": "bútor", "ko": "가구" },
+{ "en": "refrigerator",   "fi": "jääkaappi",  "fr": "réfrigérateur","es": "(el) refrigerador","ko": "냉장고" },
+{ "en": "washing machine","fi": "pesukone",   "fr": "machine à laver","es": "(la) lavadora", "ko": "세탁기" },
+{ "en": "chair",          "fi": "tuoli",      "fr": "chaise",       "es": "(la) silla",  "hu": "szék",  "ko": "의자" },
+{ "en": "armchair",       "fi": "nojatuoli",  "fr": "fauteuil",     "es": "(el) sillón",  "hu": "fotel",  "ko": "안락 의자" },
+{ "en": "table",          "fi": "pöytä",      "fr": "table",        "es": "(la) mesa",   "ko": "책상" },
+
+{ "en": "(reading) desk", "fi": "kirjoituspöytä", "fr": "pupitre",   "es": "(el) escritorio",           "ko": "책상" },
+{ "en": "bed",            "fi": "sänky, vuode",   "fr": "lit",       "es": "(la) cama",  "hu": "ágy",    "ko": "침대 (sleep + stage)" },
+{ "en": "bedroom",        "fi": "makuuhuone",     "fr": "chambre à coucher", "es": "(el) dormitorio",                 "ko": "침실 (sleep + room)" },
+{ "en": "pillow",         "fi": "tyyny",          "fr": "oreiller",      "es": "(la) almohada",  "ko": " 베개" },
+{ "en": "mattress",       "fi": "patja",          "fr": "",       "es": "(el) colchón",     "ko": "" },
+
+
+{ "en": "blanket",        "fi": "viltti",     "fr": "couverture", "es": "(la) manta, (la) cobija",    "ko": "담요" },
+{ "en": "carpet",         "fi": "matto",      "fr": "tapis",      "es": "(la) alfombra",   "hu": "szőnyeg", "ko": "양탄자" },
+{ "en": "curtain",        "fi": "verho",      "fr": "rideau",     "es": "(la) cortina",    "hu": "függöny", "ko": "커튼" },
+
+{ "en": "wardrobe",       "fi": "vaatekaappi","fr": "armoire",    "es": "(el) armario",    "ko": "옷장" },
+{ "en": "shelf",          "fi": "hylly",      "fr": "étagère",    "es": "(el) estante",    "ko": "" },
+{ "en": "bookshelf",      "fi": "kirjahylly", "fr": "étagère à livres",     "es": "(la) estantería de libros",    "ko": "" },
+{ "en": "chest of drawers",  "fi": "lipasto", "fr": "commode", "es": "(la) cómoda",    "ko": "" },
+
+{ "en": "rocking chair",  "fi": "keinutuoli", "fr": "",        "es": "(la) mecedora",    "ko": "" },
+{ "en": "stool",          "fi": "jakkara",   "fr": "tabouret", "es": "(el) taburete",    "ko": "" },
+
+
+{ "en": "roof",           "fi": "katto",      "fr": "toit",       "es": "(el) tejado",  "hu": "fedél",       "ko": "지붕" },
+{ "en": "floor",          "fi": "lattia",     "fr": "sol",        "es": "(el) suelo",  "hu": "padló",       "ko": "바닥"     },
+{ "en": "fence",          "fi": "aita",       "fr": "clôture",    "es": "(la) valla, (la) cerca",  "hu": "kerítés",     "ko": "울타리"     },
+{ "en": "balcony",        "fi": "parveke",    "fr": "balcon",     "es": "(el) balcón", "ko": "발코니"     },
+{ "en": "chimney",        "fi": "savupiippu", "fr": "cheminée",   "es": "(la) chimenea", "ko": "굴뚝"     },
+{ "en": "wall",           "fi": "seinä, muuri","fr": "mur",       "es": "(la) pared",    "ko": "담" },
+{ "en": "loft",           "fi": "parvi",       "fr": "grenier",   "es": "(el) desván",    "ko": "" },
+{ "en": "lamp",           "fi": "lamppu",     "fr": "lampe",         "es": "(la) lámpara",  "ko": "램프, 전등"    },
+
+{ "en": "kitchen",        "fi": "keittiö",     "fr": "cuisine",          "es": "(la) cocina",   "ko": " 부엌" },
+{ "en": "dining room",    "fi": "ruokasali",   "fr": "salle à manger",   "es": "(el) comedor",  "ko": " " },
+  { "en": "kids room",    "fi": "lastenhuone",   "fr": "",   "es": "",  "ko": " " },
+  { "en": "study (room)", "fi": "työhuone",   "fr": "",   "es": "",  "ko": " " },
+
+
+{ "en": "get up",         "fi": "nousta",         "fr": "se lever",        "es": "levantarse", "ko": "일어나다" },
+{ "en": "go to bed",      "fi": "mennä nukkumaan","fr": "",                "es": "acostarse",  "ko": "" },
+{ "en": "to wake up",     "fi": "herätä",        "fr": "se réveiller",     "es": "despertarse",  "ko": "" },
+{ "en": "to get dressed", "fi": "pukeutua",      "fr": "s'habiller",       "es": "vestirse",  "ko": "" },
+{ "en": "to oversleep",   "fi": "nukkua pommiin","fr": "",                 "es": "quedarse dormido",  "ko": "" },
+
+{ "en": "breakfast",     "fi": "aamiainen",    "fr": "petit déjeuner",   "es": "(el) desayuno",    "ko": "아침" },
+{ "en": "lunch",         "fi": "lounas",       "fr": "déjeuner",         "es": "(el) almuerzo",    "ko": "점심" },
+{ "en": "dinner",        "fi": "päivällinen",  "fr": "dîner",            "es": "(la) cena",    "ko": "저녁" },
+
+{ "en": "to have lunch", "fi": "lounastaa, syödä lounasta",             "fr": "",                 "es": "almorzar",    "ko": "" },
+
+{ "en": "rubbish",       "fi": "roska" ,       "fr":"déchets",           "es":"(la) basura",      "ko": "쓰레기"},
+{ "en": "recycling",     "fi": "kierrätys" ,   "fr":"",                  "es":"(el) reciclaje, (es) reciclado",      "ko": ""},
+
+
+
+{ "en": "corner (of room)", "fi": "nurkka, kulma",  "fr": "coin (m)",  "es": "(el) rincón",   "ko": "구석, 모서리" },
+
+  { "en": "to decorate, furnish", "fi": "sisustaa",  "fr": "",                    "es": "",  "ko": ""},
+  { "en": "interior, inside", "fi": "sisusta",  "fr": "",                    "es": "",  "ko": ""},
+
+  { "en": "interior decoration",  "fi": "sisustus",  "fr": "",                    "es": "",  "ko": ""},
+
+{ "en": "cellar",        "fi": "kellari",  "fr": "cave, cellier",      "es": "(el) sótano (basement), (la) bodega (for wine) " , "ko": "지하실" },
+{ "en": "yard (court, garden)",       "fi": "piha",  "fr": "",      "es": "(el) patio " , "ko": "" },
+{ "en": "to hire, rent", "fi": "vuokrata",  "fr": "",                    "es": "alquilar",  "ko": ""},
+  { "en": "rent (payment)", "fi": "vuokra",  "fr": "",                    "es": "(la) renta, alquiler",  "ko": ""}
+
+]

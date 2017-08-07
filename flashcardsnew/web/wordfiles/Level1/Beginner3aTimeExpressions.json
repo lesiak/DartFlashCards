@@ -62,7 +62,7 @@
 { "en": "year",        "fi": "vuosi",       "fr": "année",         "es": "(el) año",       "ko": "년" },
 { "en": "last year",   "fi": "viime vuonna","fr": "année dernière","es": "el año pasado" , "ko": "작년" },
 { "en": "this year",   "fi": "tänä vuonna", "fr": "cette année",   "ko": "올해" },
-
+  { "en": "weekend",   "fi": "viikonloppu", "fr": "",   "ko": "" },
 { "en": "in one hour", "fi": "",            "fr": "",              "es": "en una hora",   "ko": ""},
 
 { "en": "late (adj)",        "fi": "myöhäinen",    "fr": "",          "es": "", "ko": "" },

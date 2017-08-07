@@ -23,12 +23,13 @@ class FlashCardsApp extends PolymerElement {
   @observable List<CardWithScore> notInLearningList = toObservable([]);
   
   List<String> level1Files = [
-                     'Level1/NatureBeginner',
-                     'Level1/City',
+                     'Level1/1_NatureBeginner',
+                     'Level1/2_City',
+                     'Level1/3_AppearanceBeginner',
+                     'Level1/4_Colors',
+                     'Level1/5_Home',
                      'Level1/Transport',
-                     'Level1/Home',
                      'Level1/Shops',
-                     'Level1/AppearanceBeginner',
                      'Level1/AppearancePeople',
                      'Level1/SpeakingBeginner',
                      'Level1/CommunicationBeginner',
@@ -53,8 +54,8 @@ class FlashCardsApp extends PolymerElement {
                      'Level1/BodyBeginner',
                      'Level1/Emotions',
                      'Level1/Character',
-                     'Level1/HealthBeginner',
-                     'Level1/Colors'];
+                     'Level1/HealthBeginner'
+                     ];
   
   List<String> level2Files = ['Level2/NatureIntermediate',
                               'Level2/Work',
