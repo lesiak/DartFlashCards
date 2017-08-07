@@ -1,4 +1,8 @@
 [
+  { "en": "to speak",     "fi": "puhua",     "fr": "parler",          "es": "hablar",   "ko": "말하다" },
+
+  { "en": "hear",         "fi": "kuulla",    "fr": "entendre",        "es": "oír",         "ko": "듣다" },
+  { "en": "listen",       "fi": "kuunnella", "fr": "écouter",         "es": "escuchar",    "ko": "듣다" },
 
 { "en": "read",      "fi": "lukea",      "fr": "lire",      "es": "leer",         "ko": "읽다" },
 { "en": "write",     "fi": "kirjoittaa", "fr": "écrire",    "es": "escribir",     "ko": "쓰다" },

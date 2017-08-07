@@ -9,6 +9,9 @@
 { "en": "there",       "fi": "siellä",      "fr": "",         "es": "",   "ko": "" },
 
 { "en": "to hold",     "fi": "pitää",       "fr": "tenir",      "es": "tener",   "ko": "" },
+  { "en": "to need",      "fi": "tarvita",   "fr": "avoir besoin de", "es": "necesitar", "ko": "필요하다" },
+  { "en": "a need",       "fi": "tarve (Olen levon tarpeessa)",     "fr": "",                "es": "",          "ko": "" },
+  { "en": "to want",      "fi": "haluta",    "fr": "vouloir",         "es": "querer, desear",    "ko": "싶다" },
 
 { "en": "to prefer",   "fi": "pitää enemmän jstk, haluta mieluummin",            "fr": "", "es": "preferir",   "ko": "" },
 { "en": "to feel like","fi": "tehdä mieli",              "fr": "avoir envie de", "es": "tener ganas de",   "ko": "" },
