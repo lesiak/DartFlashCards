@@ -13,7 +13,9 @@
 "128": "web/resources/1345540046_rss.png"
 },
 "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'",
-"permissions": [  "http://apifree.forvo.com/",	
+"permissions": [
+	"http://apifree.forvo.com/",
+	"https://apifree.forvo.com/",
 	"unlimitedStorage" ]
 }
 
