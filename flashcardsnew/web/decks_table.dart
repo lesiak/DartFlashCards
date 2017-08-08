@@ -9,6 +9,8 @@ class DecksTableElement extends PolymerElement {
   @observable String selectedName;
   
   DecksTableElement.created() : super.created();
+
+  RegExp _startingDigitsAndUnderScore = new RegExp(r'^\d+_');
   
   void wordFileClicked(Event e, var detail, Element target) {
     String deckName =  target.attributes['data-msg'];    
@@ -17,7 +19,8 @@ class DecksTableElement extends PolymerElement {
   }
 
   String getBaseName(String wordfilePath) {
-    return wordfilePath.split("/").last;
+    String fileName = wordfilePath.split("/").last;
+    return fileName.replaceFirst(_startingDigitsAndUnderScore, '');
   }
   
 }
