@@ -4,7 +4,7 @@
 { "en": "president",     "fi": "presidentti",    "fr": "président",    "es": "(el) presidente",        "ko": "대통령 (great + command + govern)" },
 { "en": "government",    "fi": "hallitus",       "fr": "gouvernement", "es": "(el) gobierno",  "ko": "정부" },
 { "en": "to govern",     "fi": "hallita",        "fr": "gouverner",    "es": "gobernar",       "ko": "" },
-
+  { "en": "administration",     "fi": "administraatio, hallinto",        "fr": "",    "es": "",       "ko": "" },
 
 { "en": "king",          "fi": "kuningas",       "fr": "roi" ,    "es": "(el) rey",      "ko": ""}, 
 { "en": "queen",         "fi": "kuningatar",     "fr": "reine" ,  "es": "(la) reina",    "ko": ""},

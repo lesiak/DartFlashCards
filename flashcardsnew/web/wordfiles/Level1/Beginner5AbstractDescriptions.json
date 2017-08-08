@@ -37,6 +37,7 @@
 { "en": "effective",     "fi": "tehokas",   "fr":"efficace",   "es": "eficaz, efectivo",  "ko": ""},
   { "en": "an effect",     "fi": "vaikutus",   "fr":"",   "es": "",  "ko": ""},
   { "en": "clear (not ambiguous)",     "fi": "selvä",   "fr":"",   "es": "",  "ko": ""},
+  { "en": "to clarify",     "fi": "selvittää",   "fr":"",   "es": "",  "ko": ""},
 { "en": "personal",    "fi": "",   "fr":"", "es": "personal",  "ko": ""},
 
 { "en": "professional",    "fi": "",           "fr":"",               "es": "profesional",  "ko": ""},
