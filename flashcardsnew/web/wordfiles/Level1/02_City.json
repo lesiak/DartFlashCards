@@ -21,17 +21,13 @@
 
 
 
-{ "en": "bakery",       "fi": "leipomo" ,       "fr":"boulangerie",   "es": "(la) panadería",  "ko": "빵집"},
+
 { "en": "bank",         "fi": "pankki" ,        "fr":"banque",        "es": "(el) banco",      "ko": " 은행"},
 { "en": "bus stop",     "fi": "bussipysäkki" ,  "fr":"arrêt de bus",  "es": "(la) parada de autobús",  "ko": " 버스 정류장"},
-{ "en": "library",      "fi": "kirjasto",       "fr": "bibliothèque", "es": "(la) biblioteca",    "ko": "도서관" },
-{ "en": "bookstore",    "fi": "kirjakauppa",    "fr": "librairie",    "es": "(la) librería",      "ko": "서점, 책방 (book + house)" },
-{ "en": "shop",         "fi": "myymälä, kauppa","fr": "magasin, boutique","es": "(la) tienda",   "ko": "가게" },
-{ "en": "department store", "fi": "tavaratalo", "fr": "grand magasin", "es": "grandes almacenes",  "ko": "백화점 (hundred + goods + shop)" },
 
 { "en": "town hall",        "fi": "kaupungintalo" , "fr":"mairie",        "es": "(el) ayuntamiento",   "ko": ""},
 { "en": "square (in city)", "fi": "aukio",          "fr":"place",         "es": "(la) plaza",  "ko": ""},
-{ "en": "market, marketplace", "fi": "tori",          "fr":"",         "es": "",  "ko": ""},
+
 
 { "en": "fountain",         "fi": "suihkulähde",    "fr":"fontaine",      "es": "(la) fuente",  "ko": ""},
 

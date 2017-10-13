@@ -8,13 +8,15 @@ class Card {
   String it;
   String de;
   String hu;
+  String cs;
+  String ru;
   String ko;
   
   factory Card.empty() {
-    return new Card("", "", "", "", "", "", "", "");
+    return new Card("", "", "", "", "", "", "", "", "", "");
   }
   
-  Card(this.en, this.es, this.fi, this.fr, this.it, this.de, this.hu, this.ko);
+  Card(this.en, this.es, this.fi, this.fr, this.it, this.de, this.hu, this.cs, this.ru, this.ko);
   
   String getValueForLang(String lang) {    
     switch (lang) {
@@ -25,7 +27,9 @@ class Card {
       case "it": return it;
       case "de": return de;
       case "hu": return hu;
-      case "ko": return ko;      
+      case "cs": return cs;
+      case "ru": return ru;
+      case "ko": return ko;
       default: return null;
     }
   }

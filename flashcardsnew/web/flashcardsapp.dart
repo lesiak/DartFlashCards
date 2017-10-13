@@ -23,15 +23,16 @@ class FlashCardsApp extends PolymerElement {
   @observable List<CardWithScore> notInLearningList = toObservable([]);
   
   List<String> level1Files = [
-                     'Level1/1_NatureBeginner',
-                     'Level1/2_City',
-                     'Level1/3_AppearanceBeginner',
-                     'Level1/4_Colors',
-                     'Level1/5_Home',
-                     'Level1/Transport',
-                     'Level1/Shops',
+                     'Level1/01_NatureBeginner',
+                     'Level1/02_City',
+                     'Level1/03_AppearanceBeginner',
+                     'Level1/04_Colors',
+                     'Level1/05_Home',
+                     'Level1/06_Transport',
+                     'Level1/07_Shops',
+                     'Level1/08_SpeakingBeginner',
                      'Level1/AppearancePeople',
-                     'Level1/SpeakingBeginner',
+
                      'Level1/CommunicationBeginner',
                      'Level1/Beginner2',
                      'Level1/Beginner3',
@@ -95,12 +96,13 @@ class FlashCardsApp extends PolymerElement {
                               'Level2/Sentences1',
                               'Level2/TopikInter1'];
 
-  List<String> level3Files = ['Level3/New2016',
+  List<String> level3Files = ['Level3/Shops'
+                              'Level3/New2016',
                               'Level3/Politics'];
   
-  static List<String> langs = ["fi", "es", "de", "ko", "fr", "it", "hu"];
+  static List<String> langs = ["fi", "es", "de", "ko", "fr", "it", "cs", "ru", "hu"];
   
-  static List<String> all_langs = ["en", "fi", "es", "de", "ko", "fr", "it", "hu"];
+  static List<String> all_langs = ["en", "fi", "es", "de", "ko", "fr", "it", "cs", "ru", "hu"];
   
   @observable List<String> items;
   
