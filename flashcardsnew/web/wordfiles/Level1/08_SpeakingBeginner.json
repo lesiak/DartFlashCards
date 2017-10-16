@@ -8,7 +8,6 @@
   { "en": "read",      "fi": "lukea",      "fr": "lire",      "es": "leer",         "ko": "읽다" },
   { "en": "write",     "fi": "kirjoittaa", "fr": "écrire",    "es": "escribir",     "ko": "쓰다" },
 
-
   { "en": "think",       "fi": "ajatella",    "fr": "penser",    "es": "pensar", "ko": "생각하다" },
   { "en": "understand",  "fi": "ymmärtää",    "fr": "comprendre","es": "entender, comprender",  "ko": "이해하다" },
   { "en": "say",         "fi": "sanoa",       "fr": "dire",    "es": "decir", "ko": "" },
@@ -22,9 +21,7 @@
   { "en": "to answer",    "fi": "vastata",       "fr": "répondre",  "es": "responder, contestar",       "ko": "답변하다, 대답하다" },
   { "en": "to reply",     "fi": "vastata",              "fr": "",          "es": "contestar",       "ko": "" },
   { "en": "to meet (=become acquainted)",        "fi": "tavata",   "fr": "", "es": "conocer (a)",  "ko": ""},
-  { "en": "to make friends", "fi": "saada kavereita, hankkia, tavata",    "fr": "",  "es": "hacer amigos",  "ko": "사귀다" },
+  { "en": "to make friends", "fi": "saada kavereita, hankkia, tavata",    "fr": "",  "es": "hacer amigos",  "ko": "사귀다" }
 
-  { "en": "excuse me",    "fi": "anteeksi",    "fr": "excusez-moi",   "es": "Disculpe", "ko": "실례합니다" },
-  { "en": "sorry",        "fi": "anteeksi",    "fr": "désolé",        "ko": "죄송합니다, 미안합니다" }
 
 ]

@@ -32,6 +32,15 @@
 
 
   { "en": "amount",          "fi": "määrä, lukumäärä",     "fr": " quantité, nombre, montant",  "ko": "" },
+
+  { "en": "rise (increase)",        "fi": "nousta",        "fr": "augmenter",   "es": "subir, aumentar",  "ko": "오르다" },
+  { "en": "to reduce (make smaller, lower)",          "fi": "vähentää, alentaa, pienentää" , "fr":"réduire, diminuer", "es":"reducir", "ko": ""},
+  { "en": "to reduce (price, product)",          "fi": "" , "fr":"", "es":"rebajar", "ko": ""},
+  { "en": "to diminish",          "fi": "" , "fr":",", "es":"disminuir  [+numbers, speed, heat, strength]", "ko": ""},
+
+  { "en": "significantly",     "fi": "merkittävästi", "fr": "significativement", "es": "significativamente",  "ko": "크게" },
+
+
   { "en": "an estimate",     "fi": "arvio",                "fr": "" ,  "es": "",  "ko": ""},
   { "en": "to estimate",     "fi": "arvioida",                "fr": "" ,  "es": "",  "ko": ""}
 

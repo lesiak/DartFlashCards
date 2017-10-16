@@ -31,28 +31,11 @@
 { "en": "to invite",       "fi": "kutsua",       "fr": "inviter",      "es": "invitar",          "ko": "초대하다, 초청하다" },
 { "en": "according to",    "fi": "mukaan",       "fr": "selon",        "es": "según, conforme a","ko": "-에 따라서" },
 
-{ "en": "for example",     "fi": "esimerkiksi",  "fr": "par exemple",  "es": "por ejemplo",  "ko": "예를 들어서" },
-{ "en": "example",         "fi": "esimerkki",    "fr": "exemple",      "es": "ejemplo",      "ko": "예" },
-
 { "en": "by chance",       "fi": "sattumalta",   "fr":"par hasard",    "es":"por casualidad", "ko": "우연히"},
 { "en": "randomly, at random", "fi": "sattumanvaraisesti", "fr": "au hasard",  "es": "(al) azar", "ko": "" },
 
 
-{ "en": "on the contrary",   "fi": "päinvastoin",   "fr":"au contraire", "es":"al contrario, por el contrario",  "ko": "이에 반하여"},
-{ "en": "on top of that",    "fi": "(sen) lisäksi", "fr":"", "es": "además", "ko": "게다가"},
-{ "en": "in addition",       "fi": "(sen) lisäksi", "fr":"", "es": "además", "ko": "게다가"},
-{ "en": "instead of",        "fi": "sijasta, asemesta",   "fr":"au lieu de","es":"en vez de, en lugar de",  "ko": ""},
-{ "en": "however",           "fi": "kuitenkin, silti",   "fr":"","es":"sin embargo",  "ko": ""},
-{ "en": "meanwhile",         "fi": "sillä välin, samaan aikaan",   "fr":"","es":"mientras tanto",  "ko": ""},
 
-
-{ "en": "warm",         "fi": "lämmin",   "fr":"chaud",  "es": "caliente (iron, oven, bath); templado(a) (water, soup); cálido(a) (weather, welcome, color); de abrigo (garment)",  "ko": "따뜻하다"},
-{ "en": "cold",         "fi": "kylmä",    "fr": "froid", "es": "frío",  "ko": "춥다"},
-{ "en": "hot",          "fi": "kuuma",    "fr": "chaud", "es": "caliente (having high temperature); caluroso(a) (day, summer, climate)", "ko": "덥다"},
-{ "en": "frost",        "fi": "pakkanen", "fr": "gel",   "es": "(la) escarcha", "ko": "서리"},
-{ "en": "dry",          "fi": "kuiva",    "fr":"sec",    "es":"seco", "ko": ""},
-{ "en": "wet",          "fi": "märkä" ,   "fr":"humide, mouillé",  "es":"húmedo (damp); mojado (soaked); lluvioso (weather)",  "ko": "젖은"},
-  { "en": "thermometer","fi": "lämpömittari" ,   "fr":"",  "es":"",  "ko": ""},
 
 { "en": "time (occurence)",      "fi": "kerta",    "fr": "fois", "ko": "번" },
 { "en": "for the first time",    "fi": "ensimmäistä kertaa",    "fr": "", "ko": "" },

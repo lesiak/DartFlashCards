@@ -12,9 +12,6 @@
 { "en": "to close",      "fi": "sulkea",  "fr": "fermer",    "es": "cerrar", "ko": "닫다" },
 { "en": "closed",        "fi": "suljettu, kiinni",    "fr": "fermé", "es": "cerrado",  "ko": "" },
 
-{ "en": "nice",        "fi": "kiva, mukava",       "fr": "agréable",  "es": "agradable",  "ko": "" },
-{ "en": "pleasant",    "fi": "miellyttävä, mukava","fr": "agréable",  "es": "agradable", "ko": "" },
-{ "en": "comfortable", "fi": "mukava",    "fr": "confortable", "es": "cómodo, confortable",  "ko": "" },
 
 
 { "en": "useful",            "fi": "hyödyllinen", "fr": "utile","es": "útil",  "ko": "" },
@@ -23,12 +20,6 @@
   { "en": "with",    "fi": "",      "fr": "", "es": "",  "ko": ""  },
   { "en": "without",    "fi": "ilman",      "fr": "", "es": "",  "ko": ""  },
 
-{ "en": "rise (increase)",        "fi": "nousta",        "fr": "augmenter",   "es": "subir, aumentar",  "ko": "오르다" },
-{ "en": "to reduce (make smaller, lower)",          "fi": "vähentää, alentaa, pienentää" , "fr":"réduire, diminuer", "es":"reducir", "ko": ""},
-{ "en": "to reduce (price, product)",          "fi": "" , "fr":"", "es":"rebajar", "ko": ""},
-{ "en": "to diminish",          "fi": "" , "fr":",", "es":"disminuir  [+numbers, speed, heat, strength]", "ko": ""},
-
-{ "en": "significantly",     "fi": "merkittävästi", "fr": "significativement", "es": "significativamente",  "ko": "크게" },
 
 { "en": "prepare",     "fi": "valmistella",    "fr": "préparer",   "es": "preparar",   "ko": "준비하다"},
 { "en": "preparation", "fi": "valmistelu",     "fr": "préparation","es": "(la) preparación",    "ko": "준비" },

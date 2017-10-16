@@ -1,0 +1,38 @@
+[
+
+{ "en": "difficult",     "fi": "vaikea",           "fr": "difficile",   "es": "difícil",    "ko": "어렵다" },
+{ "en": "easy",          "fi": "helppo",           "fr": "facile",      "es": "fácil",      "ko": "쉽다" },
+{ "en": "complicated",   "fi": "monimutkainen",    "fr": "compliqué",   "es": "complicado", "ko": "복잡하다 (double + mix)" },
+{ "en": "complex",       "fi": "monimutkainen",    "fr": "complexe",    "es": "complejo", "ko": "" },
+{ "en": "simple",        "fi": "yksinkertainen",   "fr": "simple",      "es": "sencillo",   "ko": "단순하다 (single + only)" },
+{ "en": "simply",        "fi": "yksinkertaisesti", "fr": "simplement",  "es": "simplemente","ko": "간단히" },
+
+{ "en": "important",     "fi": "tärkeä",        "fr": "important",      "es": "importante",    "ko": "중요하다" },
+{ "en": "popular",       "fi": "suosittu",      "fr": "populaire",      "es": "popular", "ko": "인기 있는, 유명한" },
+{ "en": "popularity",    "fi": "suosio",        "fr": "popularité",     "es": "(la) popularidad",  "ko": "인기" },
+{ "en": "favorite",      "fi": "suosikki",      "fr": "favori, préféré","es": "favorito", "ko": "" },
+{ "en": "urgent",        "fi": "kiireellinen",  "fr": "urgent",         "es": "urgente", "ko": "" },
+
+{ "en": "to seem",       "fi": "näyttää, tuntua",    "fr": "paraître, sembler",   "es": "parecer",  "ko": "" },
+
+{ "en": "same",          "fi": "sama",    "fr": "même",   "es": "mismo",  "ko": "같다" },
+{ "en": "similar",       "fi": "samanlainen",    "fr": "similaire, semblable", "es": "parecido (a), similar",  "ko": "비슷하다" },
+{ "en": "different",     "fi": "eri, erilainen",    "fr": "différent, autre",  "es": "diferente",   "ko": "다르다, 다른" },
+{ "en": "to resemble",   "fi": "muistuttaa",    "fr": "ressembler à", "es": " parecerse (a)",  "ko": "닮다" },
+{ "en": "to compare",    "fi": "verrata (part + ill), vertailla",     "fr": "comparer",   "es": "comparar", "ko": "비교하다, (~에) 필적하다" },
+{ "en": "comparison",    "fi": "vertailu",    "fr": "comparaison",    "es": "(la) comparación",   "ko": "비교" },
+
+  { "en": "bad, poor",   "fi": "huono",       "fr": "",           "es": "",   "ko": "" },
+
+  { "en": "nice",        "fi": "kiva, mukava",       "fr": "agréable",  "es": "agradable",  "ko": "" },
+  { "en": "pleasant",    "fi": "miellyttävä, mukava","fr": "agréable",  "es": "agradable", "ko": "" },
+  { "en": "comfortable", "fi": "mukava",    "fr": "confortable", "es": "cómodo, confortable",  "ko": "" },
+
+
+  { "en": "hard",        "fi": "kova",        "fr": "dur",        "es": "duro",  "hu": "kemény",     "ko": "단단하다"     },
+  { "en": "soft",        "fi": "pehmeä",      "fr": "mou",        "hu": "puha, lágy", "ko": ""     },
+  { "en": "tight",        "fi": "tiukka",      "fr": "",        "hu": "", "ko": ""     }
+
+
+]
+        

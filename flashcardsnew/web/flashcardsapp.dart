@@ -31,15 +31,19 @@ class FlashCardsApp extends PolymerElement {
                      'Level1/06_Transport',
                      'Level1/07_Shops',
                      'Level1/08_SpeakingBeginner',
+                     'Level1/09_Weather',
+                     'Level1/10_DailyActions',
+                     'Level1/11_Beginner4aDescriptions',
+                     'Level1/12_SpeakingExpressions',
                      'Level1/AppearancePeople',
 
-                     'Level1/CommunicationBeginner',
-                     'Level1/Beginner2',
+
+                     'Level1/PhoneEmail',
+
                      'Level1/Beginner3',
                      'Level1/Beginner3aTimeExpressions',
                      'Level1/Beginner4',
-                     'Level1/Beginner4aDescriptions',
-                     'Level1/Beginner5AbstractDescriptions',
+                     'Level1/20_Beginner5AbstractDescriptions',
                      'Level1/Beginner5Quantities',
                      'Level1/Beginner6',
                      'Level1/CultureBegginer',
@@ -96,7 +100,7 @@ class FlashCardsApp extends PolymerElement {
                               'Level2/Sentences1',
                               'Level2/TopikInter1'];
 
-  List<String> level3Files = ['Level3/Shops'
+  List<String> level3Files = ['Level3/Shops',
                               'Level3/New2016',
                               'Level3/Politics'];
   

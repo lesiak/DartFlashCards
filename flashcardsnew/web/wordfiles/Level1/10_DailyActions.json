@@ -1,0 +1,72 @@
+[
+
+
+  { "en": "sit",       "fi": "istua",      "fr": "être assis",  "es": "sentarse",                                  "de": "sitzen",      "hu": "ül",  "ko": "앉다"      },
+  { "en": "stand",     "fi": "seisoa",     "fr": "être debout", "es": "estar de pie",                              "de": "stehen",    "hu": "áll",  "ko": "서다" },
+  { "en": "sleep",     "fi": "nukkua",     "fr": "dormir",      "es": "dormir",                                    "de": "schlafen",        "hu": "alszik",  "ko": "자다"       },
+  { "en": "know (sth)","fi": "tietää",     "fr": "savoir",      "es": "saber",        "hu": "tud",  "ko": "알다"   },
+  { "en": "know (sb)", "fi": "tuntea",     "fr": "connaître",   "es": "conocer",      "hu": "tud",  "ko": "알다"   },
+  { "en": "not to know","fi": "ei tiedä",  "fr": "ne pas savoir",          "ko": "모르다"      },
+  { "en": "make",      "fi": "tehdä",      "fr": "faire",       "es": "hacer", "hu": "ül",         "ko": "만들다"       },
+  { "en": "see",       "fi": "nähdä",      "fr": "voir",        "es": "ver", "ko": "보다" },
+  { "en": "to be seen","fi": "näkyä",      "fr": "" ,           "ko": "보이다"},
+  { "en": "to show (transitive)",   "fi": "näyttää",    "fr": "montrer",     "es": "mostrar", "ko": "보여주다" },
+
+  { "en": "to look (to take a look at)",      "fi": "katsoa (Katsoin elokuvaa.)",  "fr": "regarder", "es": "mirar",   "ko": "보이다 (??)" },
+  { "en": "to look (to give an appearance of being)",   "fi": "näyttää ( + ablative: Tuo maalaus näyttää hyvältä.)",  "fr": "", "es": "",   "ko": "" },
+
+  { "en": "live, dwell", "fi": "asua",        "fr": "habiter",  "es": "vivir",  "ko": "살다" },
+  { "en": "here",        "fi": "täällä",      "fr": "ici",      "es": "aquí",   "ko": "여기에" },
+  { "en": "there",       "fi": "siellä",      "fr": "",         "es": "",   "ko": "" },
+
+  { "en": "to hold",     "fi": "pitää",       "fr": "tenir",      "es": "tener",   "ko": "" },
+  { "en": "to need",      "fi": "tarvita",   "fr": "avoir besoin de", "es": "necesitar", "ko": "필요하다" },
+  { "en": "a need",       "fi": "tarve (Olen levon tarpeessa)",     "fr": "",                "es": "",          "ko": "" },
+  { "en": "to want",      "fi": "haluta",    "fr": "vouloir",         "es": "querer, desear",    "ko": "싶다" },
+
+  { "en": "to prefer",   "fi": "pitää enemmän jstk, haluta mieluummin",            "fr": "", "es": "preferir",   "ko": "" },
+  { "en": "to feel like","fi": "tehdä mieli",              "fr": "avoir envie de", "es": "tener ganas de",   "ko": "" },
+  { "en": "to have to",  "fi": "täytyä, olla pakko, pitää","fr": "",               "es": "tener que, deber",   "ko": "" },
+
+  { "en": "to be able to", "fi": "voida, pystyä", "fr": "pouvoir, savoir (for a skill)", "es": "poder",   "ko": "...할 수 있다" },
+
+  { "en": "to rest",     "fi": "levätä",     "fr": "se reposer",   "es": "descansar",  "ko": "쉬다" },
+  { "en": "rest",      "fi": "lepo",     "fr": "",   "es": "",  "ko": "" },
+  { "en": "to wait",     "fi": "odottaa",    "fr": "patienter",    "es": "esperar",    "ko": "기다리다" },
+
+  { "en": "to begin (to do sth), start (doing sth)",       "fi": "alkaa, aloittaa (causative)",    "fr": "commencer", "es": "empezar, comenzar",  "ko": "시작하다"},
+  { "en": "to begin, start (intr)",          "fi": "",    "fr": "",  "es": "empezar, comenzar",  "ko": "" },
+  { "en": "to stop (movement of sth)",   "fi": "pysäyttää",    "fr": "", "es": "parar", "ko": "멈추다" },
+  { "en": "to stop (cease moving)",   "fi": "pysähtyä",    "fr": "", "es": "parar", "ko": "그치다, 정지하다, 서다" },
+  { "en": "to stop (doing sth)",   "fi": "pysäyttää, lopettaa",    "fr": "", "es": "dejar (de hacer algo)", "ko": "" },
+  { "en": "finish (intr)", "fi": "loppua",    "fr": "finir, terminer",  "es": "terminar, acabar", "ko": "끝나다" },
+  { "en": "finish (sth)",  "fi": "lopettaa",  "fr": "finir, terminer",  "es": "terminar, acabar", "ko": "끝내다" },
+  { "en": "to end up",     "fi": "joutua",    "fr": "?",                "es": "terminar",  "ko": " ?"},
+  { "en": "(the) end",     "fi": "loppu",    "fr": "",                "es": "",  "ko": " ?"},
+
+
+  { "en": "bring",       "fi": "tuoda",    "fr": "apporter, amener",     "es": "traer",       "ko": "가져오다"},
+  { "en": "leave (sth behind)", "fi": "jättää",  "fr": "laisser",        "es": "dejar",   "ko": " 남기다" },
+
+
+{ "en": "to smoke",     "fi": "tupakoida","fr": "fumer",       "es": "fumar",         "ko": "피우다" },
+{ "en": "cigarette",    "fi": "savuke",   "fr": "cigarette",   "es": "(el) cigarrillo, (el) cigarro", "ko": "담배" },
+{ "en": "tobacco",      "fi": "tupakka",  "fr": "tabac",       "es": "(el) tabaco",              "ko": "담배" },
+{ "en": "match",        "fi": "tulitikku","fr":"allumette",    "es": "(el) cerillo, (la) cerilla","ko": "성냥"},
+{ "en": "ash",          "fi": "tuhka",    "fr":"cendre",       "es": "(la) ceniza","ko": ""},
+{ "en": "ashtray",      "fi": "tuhkakuppi", "fr":"cendrier",   "es": "(el) cenicero","ko": ""},
+{ "en": "harm",         "fi": "vahinko", "fr":"dommage",   "es": "(el) daño","ko": ""},
+{ "en": "to harm",      "fi": "haittaa, vahingoittaa", "fr":"nuire, endommager",   "es": "dañar","ko": ""},
+{ "en": "harmful",      "fi": "haitallinen, vahingollinen", "fr": "nuisible", "es": "dañino, perjudicial", "ko": "해롭다" },
+{ "en": "smoker",       "fi": "tupakoitsija", "fr":"fumeur",   "es": "(el) fumador","ko": ""},
+
+{ "en": "silver",       "fi": "hopea",    "fr": "argent",    "es": "(la) plata",   "ko": "은" }, 
+{ "en": "gold",         "fi": "kulta",    "fr": "or",        "es": "(el) oro",     "ko": "금" },
+{ "en": "iron",         "fi": "rauta",    "fr": "fer",       "es": "(el) hierro",  "ko": "철" },
+{ "en": "steel",        "fi": "teräs",    "fr": "acier",     "es": "(el) acero",   "ko": "강철" },
+{ "en": "paper",        "fi": "paperi",   "fr": "papier",    "es": "(el) papel",   "ko": "종이" },
+
+{ "en": "wood (substance)", "fi": "puu",  "fr": "bois",      "es": "(la) madera",  "ko": "나무, 목재" },
+{ "en": "glass (substance)","fi": "lasi", "fr": "verre",     "es": "(el) vidrio",              "ko": "유리" }
+
+]

@@ -1,0 +1,15 @@
+[
+  { "en": "rain",      "fi": "sade",       "fr": "pluie",     "es": "(la) lluvia",                                "de": "der Regen",          "hu": "eső",   "ko": "비"  },
+  { "en": "snow",      "fi": "lumi",       "fr": "neige",     "es": "(la) nieve",                                 "de": "der Schnee",         "hu": "hó",    "ko": "눈"  },
+  { "en": "wind",      "fi": "tuuli",      "fr": "vent",      "es": "(el) viento",                                "de": "der Wind",           "hu": "szél",  "ko": "바람"},
+  { "en": "weather",   "fi": "sää, ilma",  "fr": "temps",     "es": "(el) tiempo",                                "de": "das Wetter",     "hu": "időjárás", "ko": "날씨"},
+  { "en": "climate",   "fi": "ilmasto",    "fr": "climat",    "es": "(el) clima",                                 "de": "das Klima",    "hu": "klíma", "ko": "기후"   },
+  { "en": "warm",         "fi": "lämmin",   "fr":"chaud",  "es": "caliente (iron, oven, bath); templado(a) (water, soup); cálido(a) (weather, welcome, color); de abrigo (garment)",  "ko": "따뜻하다"},
+  { "en": "cold",         "fi": "kylmä",    "fr": "froid", "es": "frío",  "ko": "춥다"},
+  { "en": "hot",          "fi": "kuuma",    "fr": "chaud", "es": "caliente (having high temperature); caluroso(a) (day, summer, climate)", "ko": "덥다"},
+  { "en": "frost",        "fi": "pakkanen", "fr": "gel",   "es": "(la) escarcha", "ko": "서리"},
+  { "en": "dry",          "fi": "kuiva",    "fr":"sec",    "es":"seco", "ko": ""},
+  { "en": "wet",          "fi": "märkä" ,   "fr":"humide, mouillé",  "es":"húmedo (damp); mojado (soaked); lluvioso (weather)",  "ko": "젖은"},
+  { "en": "thermometer","fi": "lämpömittari" ,   "fr":"",  "es":"",  "ko": ""}
+
+]
