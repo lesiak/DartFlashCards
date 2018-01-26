@@ -1,10 +1,10 @@
 [
 
-{ "en": "machine",   "fi": "kone",       "fr": "machine",   "es": "(la) máquina", "it": "(la) macchina",        "de": "die Maschine",       "cs": "stroj",  "ru": "маши́на",   "hu": "gép",  "ko": "기계"   },
-{ "en": "fire",      "fi": "palo",       "fr": "feu",       "es": "(el) fuego",   "it": "(il) fuoco",           "de": "das Feuer",          "cs": "oheň",   "ru": "ого́нь",    "hu": "tűz",  "ko": "불"  },
-{ "en": "light",     "fi": "valo",       "fr": "lumière",   "es": "(la) luz",     "it": "(la) luce, (il) lume", "de": "das Licht",          "cs": "světlo", "ru": "свет",     "hu": "fény",   "ko": "빛" },
-{ "en": "water",     "fi": "vesi",       "fr": "eau",       "es": "(el) agua",    "it": "(le) acqua",           "de": "das Wasser",         "cs": "voda",   "ru": "вода́",     "hu": "víz",  "ko": "물" },
-{ "en": "river",     "fi": "joki",       "fr": "fleuve",    "es": "(el) río",     "it": "(il) fiume",           "de": "der Fluss",          "cs": "řeka",   "ru": "река́",     "hu": "folyó",  "ko": "강"    },
+{ "en": "machine",   "fi": "kone",       "fr": "machine",   "es": "(la) máquina", "it": "(la) macchina",        "de": "die Maschine",       "dk": "maskine",      "cs": "stroj",  "ru": "маши́на",   "hu": "gép",  "ko": "기계"   },
+{ "en": "fire",      "fi": "palo",       "fr": "feu",       "es": "(el) fuego",   "it": "(il) fuoco",           "de": "das Feuer",          "dk": "brand, ild",   "cs": "oheň",   "ru": "ого́нь",    "hu": "tűz",  "ko": "불"  },
+{ "en": "light",     "fi": "valo",       "fr": "lumière",   "es": "(la) luz",     "it": "(la) luce, (il) lume", "de": "das Licht",          "dk": "lys",          "cs": "světlo", "ru": "свет",     "hu": "fény",   "ko": "빛" },
+{ "en": "water",     "fi": "vesi",       "fr": "eau",       "es": "(el) agua",    "it": "(le) acqua",           "de": "das Wasser",         "dk": "vand",         "cs": "voda",   "ru": "вода́",     "hu": "víz",  "ko": "물" },
+{ "en": "river",     "fi": "joki",       "fr": "fleuve",    "es": "(el) río",     "it": "(il) fiume",           "de": "der Fluss",          "dk": "flod",         "cs": "řeka",   "ru": "река́",     "hu": "folyó",  "ko": "강"    },
 { "en": "sea",       "fi": "meri",       "fr": "mer",       "es": "(el) mar",     "it": "(il) mare",            "de": "das Meer, die See",  "cs": "moře",   "ru": "мо́ре",     "hu": "tenger", "ko": "바다"  },
 { "en": "wave",      "fi": "aalto",      "fr": "vague",     "es": "(la) ola, (la) onda",                        "de": "die Welle",          "cs": "vlna",   "ru": "волна́",    "hu": "hullám","ko": "파"   },
 { "en": "beach",     "fi": "hiekkaranta","fr": "plage",     "es": "(la) playa",  "it": "(la) spiaggia",         "de": "der Strand",         "cs": "pláž",   "ru": "пляж",     "hu": "strand","ko": "바닷가" },

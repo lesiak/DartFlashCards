@@ -104,9 +104,9 @@ class FlashCardsApp extends PolymerElement {
                               'Level3/New2016',
                               'Level3/Politics'];
   
-  static List<String> langs = ["fi", "es", "de", "ko", "fr", "it", "cs", "ru", "hu"];
+  static List<String> langs = ["fi", "es", "de", "dk", "ko", "fr", "it", "cs", "ru", "hu"];
   
-  static List<String> all_langs = ["en", "fi", "es", "de", "ko", "fr", "it", "cs", "ru", "hu"];
+  static List<String> all_langs = ["en", "fi", "es", "de", "dk", "ko", "fr", "it", "cs", "ru", "hu"];
   
   @observable List<String> items;
   

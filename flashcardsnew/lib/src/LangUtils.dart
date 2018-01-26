@@ -19,6 +19,8 @@ class LangUtils {
       return "Czech";              
     } else if (lang == "de") {
       return "German";
+    } else if (lang == "dk") {
+      return "Danish";
     } else if (lang == "ru") {
       return "Russian";
     }

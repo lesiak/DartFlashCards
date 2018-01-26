@@ -12,6 +12,7 @@ class FlagPanel extends PolymerElement {
     "it": "resources/svgFlags/Flag_of_Italy.svg",
     "cs": "resources/svgFlags/Flag_of_the_Czech_Republic.svg",
     "de": "resources/svgFlags/Flag_of_Germany.svg",
+    "dk": "resources/svgFlags/Flag_of_Denmark.svg",
     "ru": "resources/svgFlags/Flag_of_Russia.svg"
   };
       

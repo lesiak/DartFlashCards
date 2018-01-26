@@ -14,12 +14,14 @@ class DeckLoader {
   }
   
   static Card _entryToCard(var entry) {
-    return new Card(entry["en"],
+    return new Card(
+        entry["en"],
         entry["es"],
         entry["fi"],
         entry["fr"],
         entry["it"],
         entry["de"],
+        entry["dk"],
         entry["hu"],
         entry["cs"],
         entry["ru"],
